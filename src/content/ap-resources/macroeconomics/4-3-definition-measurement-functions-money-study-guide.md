@@ -40,6 +40,8 @@ version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
 editorialStatus: "drafted"
+checkedBy: "marlbridge-academic-team"
+checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
 ---
 
@@ -96,7 +98,7 @@ M2 always includes everything in M1, so M2 is always larger than M1.
 
 **Not money:** stocks, bonds, houses and other assets that must be sold first; large time deposits held by institutions; and credit cards. A credit card is a way of borrowing. The money is paid later, usually from a demand deposit, and it is that deposit that counts in M1.
 
-**Background (real-world note).** Official definitions differ between countries and change over time. In the United States, the Federal Reserve has counted savings deposits in M1 since May 2020. This guide uses the definitions above, where savings deposits are in M2 but not M1. If a question gives its own definitions, use the ones it gives.
+**Background (real-world note).** Official definitions differ between countries and change over time. In the United States, the Federal Reserve has counted savings deposits in M1 since 2020. This guide uses the definitions above, where savings deposits are in M2 but not M1. If a question gives its own definitions, use the ones it gives.
 
 ## The monetary base
 

@@ -12,12 +12,13 @@ skills: ["1", "2", "3", "5", "6"]
 studyMinutes: 10
 difficulty: "foundation"
 related: ["mb-ap-bio-1.7-study-guide", "mb-ap-bio-1.7-practice", "mb-ap-bio-1.7-revision-notes"]
+next: "mb-ap-bio-2.1-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-biology", "page-biology"]
 keyPoints:
   - "Tick a statement only when you can do it without notes."
   - "Each statement names the guide section or practice question that tests it."
-version: "1.0"
+version: "1.1"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
 editorialStatus: "drafted"
@@ -50,4 +51,4 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can explain why some single changes have a large effect and others almost none. *(Guide: "Shape determines function"; Practice Q4, Q6)*
 - I can explain why a small data set supports, but does not prove, a claim about protein structure. *(Guide: Worked example 2)*
 
-All ticked? You have finished Unit 1. Return to the [course roadmap](/advanced-course-resources/biology/#roadmap) to start Unit 2, Cells.
+All ticked? You have finished this unit. Move on to Unit 2, Cells, starting with [Topic 2.1, Cell Structure and Function](/advanced-course-resources/biology/2-1-cell-structure-function-study-guide/), or return to the [course roadmap](/advanced-course-resources/biology/#roadmap).

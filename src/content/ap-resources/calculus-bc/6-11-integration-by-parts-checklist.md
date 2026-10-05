@@ -13,13 +13,14 @@ skills: ["1", "2", "3"]
 studyMinutes: 10
 difficulty: "stretch"
 related: ["mb-ap-calcbc-6.11-study-guide", "mb-ap-calcbc-6.11-practice", "mb-ap-calcbc-6.11-revision-notes"]
+next: "mb-ap-calcbc-6.12-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-calculus-ab-bc"]
 keyPoints:
   - "BC-only checklist."
   - "Tick a statement only when you can do it without notes."
   - "Each statement names the practice question that tests it."
-version: "1.0"
+version: "1.1"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
 editorialStatus: "drafted"
@@ -51,4 +52,4 @@ author: "marlbridge-academic-team"
 - I can set up and evaluate an accumulation problem with a product integrand, and state the answer with units. *(Guide: Worked example 2; Practice Q7)*
 - I can use a definite integral of a rate to justify a claim about a total amount, such as energy delivered. *(Practice Q7(c))*
 
-All ticked? Move on to Topic 6.12, Integrating Using Linear Partial Fractions, or return to the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).
+All ticked? Move on to [Topic 6.12, Integrating Using Linear Partial Fractions](/advanced-course-resources/calculus-bc/6-12-integrating-linear-partial-fractions-study-guide/), or return to the [Calculus BC roadmap](/advanced-course-resources/calculus-bc/#roadmap).

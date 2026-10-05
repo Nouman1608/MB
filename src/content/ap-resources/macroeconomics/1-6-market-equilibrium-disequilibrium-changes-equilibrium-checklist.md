@@ -12,12 +12,13 @@ skills: ["1", "2", "3", "4"]
 studyMinutes: 10
 difficulty: "foundation"
 related: ["mb-ap-macro-1.6-study-guide", "mb-ap-macro-1.6-practice", "mb-ap-macro-1.6-revision-notes"]
+next: "mb-ap-macro-2.1-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-macroeconomics", "page-macroeconomics", "clar-macroeconomics"]
 keyPoints:
   - "Tick a statement only when you can do it without notes."
   - "Each statement names the guide section or practice question that tests it."
-version: "1.0"
+version: "1.1"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
 editorialStatus: "drafted"
@@ -51,4 +52,4 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can decide which curve a change affects and predict the effect on equilibrium price and quantity. *(Guide: "Changes in equilibrium: when a curve shifts"; Practice Q3)*
 - I can analyse two shifts at once, saying which variable is certain and which is indeterminate, and why. *(Guide: Worked example 3; Practice Q4, Q6(d), Q7(d))*
 
-All ticked? You have finished Unit 1. Move on to Unit 2, Economic Indicators and the Business Cycle, or return to the [course roadmap](/advanced-course-resources/macroeconomics/#roadmap).
+All ticked? You have finished this unit. Move on to Unit 2, Economic Indicators and the Business Cycle, starting with [Topic 2.1, The Circular Flow and GDP](/advanced-course-resources/macroeconomics/2-1-circular-flow-gdp-study-guide/), or return to the [course roadmap](/advanced-course-resources/macroeconomics/#roadmap).

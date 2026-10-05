@@ -12,12 +12,13 @@ skills: ["1", "2", "3"]
 studyMinutes: 10
 difficulty: "core"
 related: ["mb-ap-physcm-1.5-study-guide", "mb-ap-physcm-1.5-practice", "mb-ap-physcm-1.5-revision-notes"]
+next: "mb-ap-physcm-2.1-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-physics-c-mechanics"]
 keyPoints:
   - "Tick a statement only when you can do it without notes."
   - "Each statement names the guide section or practice question that tests it."
-version: "1.0"
+version: "1.1"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
 editorialStatus: "drafted"
@@ -49,4 +50,4 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can linearise video data, for example y/t against t, to find g and a launch velocity. *(Guide: "Investigating motion in a plane"; Practice Q7)*
 - I can design a video experiment that tests whether vertical motion depends on horizontal speed. *(Practice Q7(d))*
 
-All ticked? You have finished Unit 1. Unit 2, Force and Translational Dynamics, comes next. You can also return to Topic 1.4, [Reference Frames and Relative Motion](/advanced-course-resources/physics-c-mechanics/1-4-reference-frames-relative-motion-study-guide/), or to the [course roadmap](/advanced-course-resources/physics-c-mechanics/#roadmap).
+All ticked? You have finished this unit. Move on to Unit 2, Force and Translational Dynamics, starting with [Topic 2.1, Systems and Center of Mass](/advanced-course-resources/physics-c-mechanics/2-1-systems-center-mass-study-guide/), or return to the [course roadmap](/advanced-course-resources/physics-c-mechanics/#roadmap).

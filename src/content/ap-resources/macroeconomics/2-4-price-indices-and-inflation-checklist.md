@@ -12,12 +12,13 @@ skills: ["1", "2", "3"]
 studyMinutes: 10
 difficulty: "foundation"
 related: ["mb-ap-macro-2.4-study-guide", "mb-ap-macro-2.4-practice", "mb-ap-macro-2.4-revision-notes"]
+next: "mb-ap-macro-2.5-study-guide"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-macroeconomics"]
 keyPoints:
   - "Tick a statement only when you can do it without notes."
   - "Each statement names the guide section or practice question that tests it."
-version: "1.0"
+version: "1.1"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
 editorialStatus: "drafted"
@@ -47,4 +48,4 @@ Work through the list without notes. If you cannot do a statement, follow its li
 - I can decide whether a worker's purchasing power rose or fell, and support it with a calculation. *(Guide: Worked example 2; Practice Q5, Q7(b))*
 - I can explain substitution bias, and use quality changes or new goods as further reasons the CPI may overstate inflation. *(Guide: "Why the CPI may overstate inflation"; Practice Q4, Q6(e), Q7(c))*
 
-All ticked? Move on to Topic 2.5, Costs of Inflation, or return to the [course roadmap](/advanced-course-resources/macroeconomics/#roadmap).
+All ticked? Move on to [Topic 2.5, Costs of Inflation](/advanced-course-resources/macroeconomics/2-5-costs-inflation-study-guide/), or return to the [course roadmap](/advanced-course-resources/macroeconomics/#roadmap).

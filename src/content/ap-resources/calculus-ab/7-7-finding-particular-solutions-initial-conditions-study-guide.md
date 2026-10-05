@@ -1,6 +1,6 @@
 ---
 resourceId: "mb-ap-calcab-7.7-study-guide"
-title: "Finding Particular Solutions Using Initial Conditions and Separation of Variables: Study Guide (Calculus AB 7.7)"
+title: "Particular Solutions from Initial Conditions and Separation of Variables: Study Guide (Calculus AB 7.7)"
 description: "Learn how an initial condition picks one solution from a family, how to find the constant and the sign, how to state the domain, and how to write a solution as an integral."
 course: "calculus-ab"
 unit: 7
@@ -48,6 +48,8 @@ version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
 editorialStatus: "drafted"
+checkedBy: "marlbridge-academic-team"
+checkedDate: 2026-10-05
 author: "marlbridge-academic-team"
 ---
 
