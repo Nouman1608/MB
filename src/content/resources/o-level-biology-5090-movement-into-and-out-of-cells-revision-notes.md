@@ -102,7 +102,7 @@ These notes cover Topic 3, Movement into and out of cells, of the Cambridge O Le
 
 ## 3.1.9 Dialysis tubing
 
-- Visking (dialysis) tubing is **partially permeable**: water passes through quickly, sucrose only very slowly and starch not at all.
+- Visking (dialysis) tubing is **partially permeable**: water passes through quickly, sucrose more slowly and starch not at all.
 - Bag of sugar solution in water: water enters, the bag gains mass and becomes firm, or the level rises in an attached capillary tube.
 - Bag of water in concentrated sugar solution: water leaves, the bag loses mass and goes limp.
 - Control: bag of water in water, no change.

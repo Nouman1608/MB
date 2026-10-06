@@ -161,7 +161,7 @@ The change goes from positive to negative between 0.4 and 0.6 mol per dm³. Plot
 
 ## 3.1.9 Investigating osmosis with dialysis tubing
 
-Dialysis (Visking) tubing is a partially permeable membrane. Water crosses it far faster than sucrose does (sucrose leaks out only slowly), so over a short experiment it can model a cell.
+Dialysis (Visking) tubing is a partially permeable membrane. Water crosses it much faster than sucrose does (some sucrose can leak out, but more slowly), so over a short experiment it can model a cell.
 
 **Set-up.** Fill a tied bag of tubing with sucrose solution (or fit it to a capillary tube) and stand it in distilled water. Water enters by osmosis, down the water potential gradient, so the bag gains mass or the liquid rises up the tube. A control bag of distilled water in distilled water should not change.
 

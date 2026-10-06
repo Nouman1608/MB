@@ -84,7 +84,7 @@ below are from Excel-style spreadsheets; other packages use similar ones.
 
 | Task | Spreadsheet approach |
 |---|---|
-| Find structure | Sort and filter columns; count rows with COUNT and blanks with COUNTBLANK |
+| Find structure | Sort and filter columns; count numerical entries with COUNT (it skips blanks and text) and blanks with COUNTBLANK |
 | Summary statistics | AVERAGE, MEDIAN, MIN, MAX, QUARTILE.INC |
 | Standard deviation | STDEV.P (divisor n) or STDEV.S (divisor n − 1) |
 | Diagrams | Histogram, box plot or scatter chart of a selected column |

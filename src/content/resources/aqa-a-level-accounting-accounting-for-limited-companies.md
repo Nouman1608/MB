@@ -77,7 +77,7 @@ Disposal    carrying amount 30,000 - 18,000      = 12,000
 | At 1 April 2025 | 280,000 | 108,000 | 36,000 | 424,000 |
 | At 31 March 2026 | 408,000 | 102,000 | 43,500 | 553,500 |
 
-The closing carrying amounts are the figures in the statement of financial position.
+The closing carrying amounts go in the statement of financial position.
 
 ## Revaluation of non-current assets
 
@@ -145,7 +145,7 @@ A statement of cash flows explains the change in **cash and cash equivalents** o
 
 **More Ellerby data:** profit from operations £96,400; inventory up from £31,200 to £38,900; trade receivables down from £44,600 to £41,300; trade payables up from £27,800 to £30,100; 8% debentures of £75,000, interest paid in full; tax charge £18,200, tax payable £15,600 at the start and £18,200 at the end; dividends paid £48,000; opening overdraft £23,400.
 
-**Tax paid** = opening payable + charge - closing payable = 15,600 + 18,200 - 18,200 = **£15,600**. Use the same idea for interest when interest is accrued.
+**Tax paid** = opening payable + charge - closing payable = 15,600 + 18,200 - 18,200 = **£15,600**. Interest paid works the same way when interest is accrued.
 
 ```
 Ellerby Packaging Ltd: Statement of cash flows
@@ -184,7 +184,7 @@ Cash and cash equivalents at 31 March 2026            127,800
 - The **sale proceeds** (£9,500) go under investing activities.
 - The **bonus issue** and the **revaluation** involve no cash, so neither appears.
 
-IAS7 allows some choice over where interest paid and dividends paid are shown. This layout is a common one; label yours clearly.
+IAS7 currently allows a choice of heading for interest and dividends paid; this layout is common, so label yours clearly. From periods beginning 1 January 2027, IFRS 18 puts both under financing for most non-financial companies.
 
 ## Published accounts
 

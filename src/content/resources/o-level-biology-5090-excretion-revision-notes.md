@@ -62,7 +62,7 @@ amino acids absorbed in small intestine
 ```
 
 - Excess amino acids **cannot be stored**, so they are deaminated.
-- **Only the liver** makes urea.
+- Urea is made in the **liver**, not the kidneys.
 - The rest of a deaminated amino acid can be used, for example in respiration.
 
 ## 13.2.2 Why urea must be excreted

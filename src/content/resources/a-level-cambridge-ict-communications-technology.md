@@ -128,7 +128,7 @@ A **protocol** is an agreed set of rules for formatting, addressing, sending and
 
 **Circuit switching** reserves a dedicated channel for the whole session, as in a traditional phone call. **Message switching** sends the whole message node to node; each stores it and forwards it when the next link is free.
 
-**Addressing.** A **MAC address** is a 48-bit physical address on a NIC, used within a local network. An **IP address** is a logical address for routing between networks: **IPv4** is 32 bits (four denary numbers, e.g. 192.168.1.20); **IPv6** is 128 bits (eight groups of hexadecimal), introduced because IPv4 addresses ran out.
+**Addressing.** A **MAC address** is a 48-bit physical address on a NIC, used within a local network. An **IP address** is a logical address for routing between networks: **IPv4** is 32 bits (four denary numbers, e.g. 192.168.1.20); **IPv6** is 128 bits (eight groups of hexadecimal), introduced because IPv4 addresses were running out.
 
 **Routing.** Routers choose paths from **routing tables**. **Static routing**: routes entered by hand; predictable and secure, but cannot adapt to a failed link. **Dynamic routing**: routers share information and update tables automatically; adapts to failures but uses bandwidth and processing. **Interior gateway protocols** route within one autonomous system; **exterior gateway protocols** route between autonomous systems; the **Border Gateway Protocol** does this across the internet.
 

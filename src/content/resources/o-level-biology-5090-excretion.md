@@ -82,7 +82,7 @@ excess amino acid (in liver cell)
 
 Points to remember:
 
-- **Only the liver** deaminates amino acids and makes urea. The kidneys do not make urea; they remove it.
+- The **liver** deaminates excess amino acids and makes urea. The kidneys do not make urea; they remove it.
 - Urea is a **toxic** waste product of metabolism, so its removal counts as excretion.
 - Urea dissolves in water, so it is carried in the **blood plasma** from the liver to the kidneys. Water acting as a solvent is part of [Biological molecules](/resources/biological-molecules/).
 

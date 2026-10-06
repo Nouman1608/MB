@@ -99,7 +99,7 @@ Reminder: 126 km h⁻¹ ÷ 3.6 = 35 m s⁻¹. 0.8 tonnes = 800 kg.
 
 The specification says g may be taken as constant and is used to varying degrees of accuracy, but g is **not a universal constant**: it depends on location. Use the value of g given in the question, exactly.
 
-Reminder: a 5 kg box has weight 5 × 9.8 = 49 N with g = 9.8 m s⁻². At a place where g = 9.7 m s⁻² its weight is 48.5 N. Its mass is 5 kg in both places.
+Reminder: a 5 kg box has weight 5 × 9.8 = 49 N with g = 9.8 m s⁻². At a place where g = 9.78 m s⁻² its weight is 48.9 N. Its mass is 5 kg in both places.
 
 ## Moment in one line
 

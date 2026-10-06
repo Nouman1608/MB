@@ -201,7 +201,7 @@ Work done by gas = pΔV = 3.0 × 10⁵ × 0.004 = 1200 J
 
 **Explaining the gas laws.** Pressure comes from molecules hitting the walls and changing momentum. Smaller volume at fixed temperature means more frequent collisions (Boyle). Higher temperature means faster molecules hitting harder and more often (pressure law), or the gas expands to keep pressure constant (Charles).
 
-The gas laws are **empirical** (from measurement); kinetic theory is **theoretical** (from assumptions and Newton's laws). Ideas changed over time: Bernoulli proposed a kinetic model in 1738, Maxwell described the distribution of molecular speeds in 1859, Brown observed particles from pollen grains moving in water in 1827, and Einstein's 1905 explanation of that motion, confirmed by Perrin's experiments from 1908, settled that atoms are real.
+The gas laws are **empirical** (from measurement); kinetic theory is **theoretical** (from assumptions and Newton's laws). Ideas changed over time: Bernoulli proposed a kinetic model in 1738, Maxwell described the distribution of molecular speeds in 1859, Brown observed particles from pollen grains moving in water in 1827, and Einstein's 1905 explanation of that motion, confirmed by Perrin's experiments a few years later, settled that atoms are real.
 
 **Assumptions**: very many identical molecules in random motion; elastic collisions; molecular volume negligible compared with the container; no forces between molecules except during collisions; collision time negligible.
 

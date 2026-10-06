@@ -82,7 +82,7 @@ The income statement, statement of changes in equity and statement of financial 
    against the statement of financial position.
 ```
 
-IAS7 allows some choice over where interest and dividends paid are shown. The layout above is a common one.
+IAS7 currently allows some choice over where interest and dividends paid are shown. The layout above is a common one. IFRS 18 removes the choice for most non-financial companies from periods beginning on or after 1 January 2027 (both then go under financing).
 
 **Schedule of non-current assets**
 

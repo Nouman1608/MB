@@ -42,7 +42,7 @@ Equation to know: `glucose → ethanol + carbon dioxide` (anaerobic respiration 
 |---|---|---|
 | Useful product | Carbon dioxide | Ethanol |
 | What it does | Bubbles trapped in the dough make it rise | Collected for drinks or fuel |
-| What happens to the other product | Ethanol evaporates during baking | Carbon dioxide is let out |
+| What happens to the other product | Most of the ethanol evaporates during baking | Carbon dioxide is let out |
 | Key condition | Warm, so yeast enzymes work fast | No oxygen, so respiration is anaerobic |
 
 **Method in steps: explaining why dough rises (or does not)**
@@ -149,7 +149,7 @@ Reminder: percentage increase = (change ÷ starting value) × 100. If juice volu
 ## Quick self-test
 
 1. State the useful product of yeast in bread making.
-2. Why does the ethanol made in dough not stay in the bread?
+2. What happens to most of the ethanol made in dough?
 3. Apart from plasmids and ethics, give two reasons why bacteria are useful in biotechnology.
 4. A bacterium divides every 20 minutes. How many cells come from one cell in 80 minutes?
 5. Why does a fermenter need a water jacket?

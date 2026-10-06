@@ -50,7 +50,7 @@ Work in this order:
 5. **Summarise and display** it: pivot table report and pivot chart.
 6. **Interpret** the result for the user.
 
-Skipping step 2 gives wrong totals however good the chart looks.
+Skipping step 2 gives wrong totals.
 
 ## Transforming and cleaning data
 
@@ -224,7 +224,7 @@ Interpretation: Kayaks earn the most (250 of 605, about 41.3%). North earns 75 d
 
 Change the summary to **Count** to show numbers of hires: Bikes 3 and 2, Kayaks 2 and 2, Tents 1 and 2. **Average** revenue per hire is Bikes 45.00, Kayaks 62.50, Tents 43.33. Filter to August and only four cells hold values: North Bikes 75; South Bikes 15, Kayaks 75 and Tents 30.
 
-A **pivot table report** is the pivot table made ready for its reader: a clear title, meaningful headings ("Total revenue (dollars)", not "Sum of Revenue"), currency format, sensible sort order and the filter setting visible. If the source list changes, **refresh** the pivot table so its figures update.
+A **pivot table report** is the pivot table made ready for its reader: a clear title, meaningful headings ("Total revenue (dollars)", not "Sum of Revenue"), currency format, sensible sort order and the filter setting visible. If the source list changes, **refresh** the pivot table so its figures update (some newer versions refresh automatically).
 
 ### Pivot charts
 

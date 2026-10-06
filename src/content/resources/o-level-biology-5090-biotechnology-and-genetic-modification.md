@@ -52,7 +52,7 @@ The useful product differs in each case.
 1. Flour, water, sugar and yeast are mixed into a dough. The sugar is the yeast's respiratory substrate.
 2. The dough is left somewhere warm. Yeast respires and releases **carbon dioxide**.
 3. The gas is trapped as bubbles in the stretchy dough, so the dough **rises**.
-4. In the oven, the heat makes the bubbles expand further, then kills the yeast. Any **ethanol** made evaporates during baking.
+4. In the oven, the heat makes the bubbles expand further, then kills the yeast. Most of the **ethanol** made evaporates during baking.
 
 So in bread, carbon dioxide is the useful product. The dough is kept warm because yeast enzymes work faster near their optimum temperature.
 
@@ -211,7 +211,7 @@ A "discuss" answer needs points on **both** sides.
 ## Common errors
 
 - Saying yeast makes bread rise by making oxygen or alcohol. It is **carbon dioxide**.
-- Forgetting that the ethanol in bread **evaporates** during baking.
+- Forgetting that most of the ethanol in bread **evaporates** during baking.
 - Saying plasmids are in the nucleus. Bacteria have **no nucleus**.
 - Saying fermenters are heated. They usually need **cooling**, because respiration releases heat.
 - Writing that enzymes are "killed" at high temperature. Enzymes are **denatured**; they are not alive.
