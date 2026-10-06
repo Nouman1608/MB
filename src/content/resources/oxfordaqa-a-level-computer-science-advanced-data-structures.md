@@ -205,7 +205,7 @@ sync goes after scan because both have priority 2 and scan arrived first.
 
 A **dictionary** is a collection of key-value pairs in which each value is accessed by its key. Simple applications include counting how often items occur, looking up a code to get a name, and storing settings by name.
 
-Python's built-in `dict` type is a dictionary. In C# and VB.Net, the library class is `Dictionary<TKey,TValue>` in `System.Collections.Generic`.
+Python's built-in `dict` type is a dictionary. In C# and VB.Net, the library class is `Dictionary<TKey,TValue>` (written `Dictionary(Of TKey, TValue)` in VB.Net) in `System.Collections.Generic`.
 
 **Worked example 7.** Count the birds in a survey log.
 

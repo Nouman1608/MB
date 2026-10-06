@@ -88,11 +88,11 @@ Using Porter's five forces, evaluate whether boutique fitness in the city is an 
 
 **4. (a)** New wheat cost = 310 × 1.12 = £347.20 [1]; rise per tonne = £37.20 [1]; annual rise = 37.20 × 24,000 = **£892,800** [1].
 **(b)** 892,800 ÷ 1,500,000 × 100 [1] = **59.5%** [1]. **[5]**
-*Examiner insight:* Show each stage of working; a wrong final figure with a clear method can still earn the method credit.
+*Examiner insight:* Show each stage of working, per tonne and then per year, so the examiner can follow your method even if one figure slips.
 
 **5. (a)** Largest customer: 20.8 ÷ 64 × 100 = **32.5%** [1]. Top three: 44.8 ÷ 64 × 100 [1] = **70%** [1].
 **(b)** Win customers in other industries, such as bus or rail seat makers [1], so no single car maker can threaten a large share of sales and Kiverton can resist price cuts [1]. Design frames around Kiverton's own patented fittings [1], which raises the cost to car makers of switching supplier and so weakens their bargaining power [1]. **[7]**
-*Examiner insight:* Each "way" needs an action and a reason it weakens buyer power; naming the action alone gains about half the credit.
+*Examiner insight:* Each "way" needs an action and a reason it weakens buyer power; naming the action without the reason leaves the point undeveloped.
 
 **6.** Set-up costs are low: about £60,000 to fit out, with easy short leases [1], so many new studios can open, which makes the entry threat strong [1]. Customer loyalty is weak: members can leave on one month's notice [1], so a newcomer can win members quickly, again strengthening the threat [1]. **[4]**
 *Examiner insight:* Influences gain more credit when tied to the barriers to entry in the specification and to evidence in the case.
@@ -126,9 +126,10 @@ Using Porter's five forces, evaluate whether boutique fitness in the city is an 
 - Recap: [revision notes](/resources/oxfordaqa-a-level-business-analysing-the-industry-environment-revision-notes/)
 - Full teaching: [study guide](/resources/oxfordaqa-a-level-business-analysing-the-industry-environment/)
 - Five forces and SWOT together: [mission, objective and SWOT analysis practice](/resources/oxfordaqa-a-level-business-mission-objective-and-swot-analysis-practice/)
-- Spot weak topics with [all free 10-minute diagnostics](/diagnostics/)
-- Tick off what you have done on the [9725 topic checklist](/checklists/oxfordaqa/a-level/business/)
-- Answer technique across the four units: [exam preparation guide](/resources/oxfordaqa-a-level-business-exam-preparation/)
+- PESTLE (3.3.4): [external environment practice](/resources/oxfordaqa-a-level-business-analysing-the-external-environment-to-assess-practice/)
+- Spot weak topics: [free diagnostics](/diagnostics/)
+- Track progress: [9725 topic checklist](/checklists/oxfordaqa/a-level/business/)
+- Answer technique: [exam preparation guide](/resources/oxfordaqa-a-level-business-exam-preparation/)
 - [OxfordAQA A-level Business hub](/boards/oxfordaqa/a-level/business/)
 - [Book a free trial class](/trial/)
 

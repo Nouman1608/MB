@@ -104,7 +104,7 @@ Z = 36. You classify it from its position alone.
 
 Every element from sodium to argon has its outer electrons in the **third shell**. Each step to the right
 adds one proton to the nucleus and one electron to that shell. The values below are rounded from standard
-data tables (phosphorus as white P₄; sulfur as the monoclinic solid).
+data tables (phosphorus as white P₄; sulfur as S₈).
 
 | Element | Z | Block | First ionisation energy / kJ mol⁻¹ | Melting point / K | Structure |
 |---|---|---|---|---|---|

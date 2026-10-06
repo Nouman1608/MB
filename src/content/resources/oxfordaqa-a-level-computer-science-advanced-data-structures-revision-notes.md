@@ -123,7 +123,7 @@ Another valid design adds every item at the rear and searches for the highest pr
 
 - **Dictionary:** a collection of key-value pairs; each value is accessed through its key. Keys are unique.
 - **Simple applications:** frequency counts, translating codes into names, storing settings.
-- **Libraries:** Python's built-in `dict`; `Dictionary<TKey,TValue>` in `System.Collections.Generic` for C# and VB.Net.
+- **Libraries:** Python's built-in `dict`; `Dictionary<TKey,TValue>` (VB.Net: `Dictionary(Of TKey, TValue)`) in `System.Collections.Generic` for C# and VB.Net.
 
 ```python
 grades = {"Ridge Loop": "hard", "Lake Walk": "easy"}

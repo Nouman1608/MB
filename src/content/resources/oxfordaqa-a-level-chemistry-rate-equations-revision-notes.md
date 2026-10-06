@@ -96,7 +96,7 @@ Small reminder: Rate = k[V]²[L]. Halve [V] and triple [L]: factor = 0.5² × 3 
 
 ## Method: Ea (and A) from data
 
-1. Turn every T into 1/T (keep four significant figures) and every k into ln k.
+1. Turn every T into 1/T (keep at least five significant figures) and every k into ln k.
 2. Plot ln k on the y-axis, 1/T on the x-axis; draw the best straight line.
 3. Read two points on the line that are far apart and find the gradient.
 4. Ea = –gradient × R (J mol⁻¹). Divide by 1000 for kJ mol⁻¹.

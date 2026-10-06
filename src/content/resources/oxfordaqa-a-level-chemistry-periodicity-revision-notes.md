@@ -85,7 +85,7 @@ appears in the configuration); chromium and copper (d block despite ending 4s¹)
 | Melting point / K | 371 | 923 | 933 | 1687 | 317 | 388 | 172 | 84 |
 | Structure | metallic | metallic | metallic | macro. | P₄ | S₈ | Cl₂ | atoms |
 
-(Rounded data values; phosphorus as white P₄, sulfur as monoclinic S₈. macro. = macromolecular.)
+(Rounded data values; phosphorus as white P₄, sulfur as S₈. macro. = macromolecular.)
 
 ## Atomic radius: the three-link chain
 

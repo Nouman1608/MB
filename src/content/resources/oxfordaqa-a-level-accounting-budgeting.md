@@ -24,8 +24,8 @@ This study guide teaches section 3.1.9, Budgeting, of the OxfordAQA Internationa
 Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and
 International A-level exams May/June 2026 onwards. Section 3.1.9 is International AS content, assessed
 on Paper 2: Financial & Management Accounting. The specification adds that the cash, sales, purchases,
-production and labour budgets are assessed at A-level, so those parts are marked
-**International A-level only** below. The specification notes that A-level assessments build upon what was learned at AS.
+production and labour budgets "will be assessed at A-level", so those parts are marked
+**Assessed at A-level** below. The specification notes that A-level assessments build upon what was learned at AS.
 
 Useful pages: the [OxfordAQA A-level Accounting hub](/boards/oxfordaqa/a-level/accounting/), the
 [printable checklist](/checklists/oxfordaqa/a-level/accounting/) and the free
@@ -42,7 +42,7 @@ and the [exam preparation page](/resources/oxfordaqa-a-level-accounting-exam-pre
 | The need for budgeting in business organisations | Say why organisations prepare budgets | International AS |
 | The benefits and limitations of budgeting and budgetary control | Give generic benefits and limitations, those of specific budgets, and of zero-based and incremental budgeting | International AS |
 | Accounting techniques in the preparation and analysis of budgets | Draw up budgeted versions of the income statement and statement of financial position | International AS |
-| | Prepare cash, sales, purchases, production and labour budgets | International A-level only |
+| | Prepare cash, sales, purchases, production and labour budgets | Assessed at A-level |
 | How budgets are used in planning and control | Compare budget with actual results and explain the action managers take | International AS |
 
 All figures on this page are invented.
@@ -167,7 +167,7 @@ Capital: Opening balance                        37,000
 The budget shows a profit of 19,500 but cash rises by only 4,600, because receivables and inventory
 grow and drawings take 15,000 out.
 
-## Functional budgets (International A-level only)
+## Functional budgets (Assessed at A-level)
 
 The order matters: sales, then production, then purchases and labour, then cash.
 
@@ -213,7 +213,7 @@ hours. Up to 1,100 hours a month are paid at 15 an hour; extra hours are overtim
 February's closing inventory is 20% x 1,400 = 280. Carry each closing inventory figure forward: it is
 the opening figure for the following month.
 
-## The cash budget (International A-level only)
+## The cash budget (Assessed at A-level)
 
 A cash budget lists receipts and payments in the month the cash actually moves. Non-cash items, such
 as depreciation and irrecoverable debts, never appear. Capital items, such as an asset purchase or a

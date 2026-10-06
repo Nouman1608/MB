@@ -146,7 +146,7 @@ ENDWHILE
 **(b)** 2¹⁶ − 1 = **65535** [1].
 **(c)** 15012C = 0001 0101 0000 0001 0010 1100; split 6 | 2 | 16: 000101 | 01 | 0000000100101100 [1]. Opcode **5**, mode **direct** [1]. Operand **300** [1].
 **(d)** Different instruction types need different numbers of operands, for example a halt needs none [1]. **[6]**
-*Examiner insight:* Write the full binary expansion before splitting; a slip in one hex digit shifts every field and loses all three values in (c).
+*Examiner insight:* Write the full binary expansion before splitting; a dropped bit shifts every later field and changes all three values in (c).
 
 **4. (a)** R1 = **25** (immediate) [1]. R2 = **61** (contents of 25) [1]. R3 = **61** (R6 holds 25, so contents of 25) [1]. R4 = **8** (R2 holds 61, so contents of 61) [1].
 **(b)** In direct addressing the operand is the address itself: `LDR R2, 25` reads location 25 [1]. In indirect addressing the operand is a register containing the address: `LDR R4, [R2]` reads the location whose address is in R2 [1]. **[6]**

@@ -30,7 +30,7 @@ These questions cover section 3.1.9, Budgeting, of the OxfordAQA International A
 (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International
 A-level exams May/June 2026 onwards. Section 3.1.9 is International AS content on Paper 2: Financial &
 Management Accounting. The specification states that cash, sales, purchases, production and labour
-budgets are assessed at A-level, so questions on them are labelled (International A-level only).
+budgets "will be assessed at A-level", so questions on them are labelled (Assessed at A-level).
 
 Read the [study guide](/resources/oxfordaqa-a-level-accounting-budgeting/) or
 [revision notes](/resources/oxfordaqa-a-level-accounting-budgeting-revision-notes/) first, and try the free
@@ -39,35 +39,35 @@ Read the [study guide](/resources/oxfordaqa-a-level-accounting-budgeting/) or
 
 ## Questions
 
-**1.** Which **one** of these items would be found in a budgeted income statement but would be absent from a cash budget? **[1]**
+**1.** Which **one** of these reduces budgeted profit but is never entered in a cash budget? **[1]**
 
-A Depreciation of equipment
+A Payment for a new delivery van
 B Drawings
-C Capital introduced by the owner
-D Payment for a new delivery van
+C Depreciation of equipment
+D Wages paid in the month
 
 **2.** State **two** benefits to a manufacturer of preparing a purchases budget. **[2]**
 
-**3.** (International A-level only) Sorrel Lane Pottery plans to sell 2,000 bowls in April, 2,600 in May,
+**3.** (Assessed at A-level) Sorrel Lane Pottery plans to sell 2,000 bowls in April, 2,600 in May,
 2,300 in June and 2,500 in July. Closing inventory of finished bowls each month is 10% of the next month's
 sales. Opening inventory on 1 April is 180 bowls. Prepare the production budget for April, May and June. **[4]**
 
-**4.** (International A-level only) Using your answer to question 3, each bowl uses 2 kg of clay costing
-0.50 per kg. Closing clay inventory each month is 20% of the next month's usage. Opening inventory on
-1 April is 600 kg. Prepare the purchases budget, in kg and in value, for April and May. **[5]**
+**4.** (Assessed at A-level) Each bowl in question 3 needs 2 kg of clay at 0.50 per kg.
+Each month ends with clay equal to 20% of the following month's usage; April starts with 600 kg.
+Prepare the purchases budget, in kg and in value, for April and May. **[5]**
 
-**5.** (International A-level only) Yarrowby Cycles plans to assemble 420 bicycles in June and 480 in July.
+**5.** (Assessed at A-level) Yarrowby Cycles plans to assemble 420 bicycles in June and 480 in July.
 Each bicycle takes 3.5 labour hours. The wage rate is 18 an hour, rising by 5% from 1 July. Prepare the
 labour budget, in hours and in value, for June and July. **[4]**
 
-**6.** (International A-level only) Tallowmere Candles plans to sell 800 boxes in July, 900 in August and
+**6.** (Assessed at A-level) Tallowmere Candles plans to sell 800 boxes in July, 900 in August and
 1,100 in September. The price is 12 a box, rising to 13 from 1 September. 20% of sales are for cash; credit
 customers pay in the month after sale.
 
 **(a)** Prepare the sales budget in value for July, August and September. **[2]**
 **(b)** Calculate the budgeted receipts from sales for August and September. **[3]**
 
-**7.** (International A-level only) Imogen Saldanha owns Saldanha Florists. The bank balance on 1 October 2027
+**7.** (Assessed at A-level) Imogen Saldanha owns Saldanha Florists. The bank balance on 1 October 2027
 is 4,600. Sales: August 18,000, September 21,000, October 19,000, November 24,000, December 35,000.
 Customers pay cash for 40% of sales; the rest pay two months later. Purchases each month are 50%
 of that month's sales and are paid for in the following month. Wages are 4,800 a month (December 6,200). Insurance of 2,400 for the year is paid in October. A van costing 16,000 is bought in
@@ -109,8 +109,8 @@ size. We just increase last year's figures a little." Evaluate this view. **[12]
 
 ## Answers
 
-**1.** **A** -- depreciation is an expense but no cash moves [1] **[1]**
-*Examiner insight:* Test each option with "does cash move?"; B, C and D all do.
+**1.** **C** -- depreciation is an expense but no cash moves [1] **[1]**
+*Examiner insight:* Check each option: does it reduce profit, and does cash move? A and B fail the first test; D fails the second.
 
 **2.** Materials are ordered in time for planned production, so output is not stopped by shortages [1]. Excess inventory is avoided, so cash is not tied up and storage costs stay low [1]. **[2]**
 *Examiner insight:* A benefit of budgeting in general, such as motivation, does not answer a question about a specific budget.

@@ -26,7 +26,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover **3.1.10 Marginal costing** of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. The specification assesses this International AS section on Paper 2. Figures are in dollars and the firms are fictional.
+These questions cover **3.1.10 Marginal costing**, International AS content assessed on Paper 2 of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2. Figures are in dollars; the firms are fictional.
 
 Links: [study guide](/resources/oxfordaqa-a-level-accounting-marginal-costing/) · [revision notes](/resources/oxfordaqa-a-level-accounting-marginal-costing-revision-notes/) · [course hub](/boards/oxfordaqa/a-level/accounting/) · [checklist](/checklists/oxfordaqa/a-level/accounting/) · [diagnostics](/diagnostics/)
 
@@ -37,7 +37,7 @@ Links: [study guide](/resources/oxfordaqa-a-level-accounting-marginal-costing/) 
 A. Warehouse rent of 2,000 a month
 B. A royalty of 3 on every unit sold
 C. A security guard paid 2,600 a month for each 4,000 square metres of warehouse in use
-D. Electricity: a standing charge plus a rate per unit used
+D. A franchise fee of 5,000 a year plus 2% of sales
 
 **2.** (multiple choice) A product sells for 40 and has a marginal cost of 25. Fixed costs are 57,000. What is the break-even sales revenue? **[1]**
 
@@ -46,9 +46,9 @@ B. 91,200
 C. 95,000
 D. 152,000
 
-**3.** Kestwick Tiles makes floor tiles. Classify each cost as direct or indirect, **and** as variable, fixed, semi-variable or stepped.
+**3.** For each cost of Kestwick Tiles, a floor-tile maker, give its traceability (direct or indirect) **and** its behaviour (variable, fixed, semi-variable or stepped).
 
-**(a)** Raw clay pressed into each tile **[1]**
+**(a)** Coloured pigment mixed into each tile **[1]**
 **(b)** The factory manager's annual salary **[1]**
 **(c)** A glazing machine maintenance contract of 1,200 a year plus 0.05 per tile glazed **[1]**
 **(d)** Forklift hire of 700 a month for each 20,000 tiles moved in the month **[1]**
@@ -77,12 +77,12 @@ Prepare an income statement for March using marginal costing. **[6]**
 **(a)** Calculate the full cost and the marginal cost of one saddle. **[2]**
 **(b)** Calculate the effect on annual profit of buying the saddles if no fixed costs are avoided. **[2]**
 **(c)** If Pellmont buys, a saddle technician's salary of 11,000 a year is saved and the freed space can assemble extra bicycles earning 6,500 of contribution a year. Calculate the revised effect on profit and state the decision on financial grounds. **[2]**
-**(d)** State **two** non-financial factors Pellmont should consider. **[2]**
+**(d)** Give **two** non-financial reasons Pellmont might hesitate to stop making saddles. **[2]**
 
 **8.** Torvane Ceramics can make 9,000 planters a year and expects to sell 8,200 at 32 each. Marginal cost is 19 per planter. A landscaping firm offers to buy 1,200 planters at 25 each, printed with its logo at an extra cost of 1.50 per planter. The order must be accepted in full or not at all.
 
 **(a)** Calculate how accepting the order would change annual profit. **[4]**
-**(b)** Advise Torvane Ceramics whether to accept, considering financial and non-financial factors. **[4]**
+**(b)** Recommend whether Torvane should take the order, using (a) and non-financial factors. **[4]**
 
 **9.** Nettlecombe Furniture has 3,100 machine hours next year. Fixed costs are 52,000.
 
@@ -93,10 +93,10 @@ Prepare an income statement for March using marginal costing. **[6]**
 | Table | 340 | 196 | 4.5 | 200 |
 
 **(a)** Show that machine hours are a limiting factor. **[1]**
-**(b)** Calculate the contribution per machine hour for each product and rank them. **[3]**
-**(c)** Calculate the production plan that maximises profit, and the maximum profit. **[4]**
+**(b)** Rank the three products, showing the contribution each earns per machine hour. **[3]**
+**(c)** Set out the output of each product that gives the highest profit, and state that profit. **[4]**
 
-**10.** Maresby Foods has three production departments. Fixed costs are apportioned by floor area.
+**10.** Maresby Foods has three production departments. Shared fixed costs are split between them by staff numbers.
 
 | | Bakery | Chilled | Frozen | Total |
 |---|---|---|---|---|
@@ -105,21 +105,22 @@ Prepare an income statement for March using marginal costing. **[6]**
 | Fixed costs | 72,000 | 54,000 | 45,000 | 171,000 |
 | Profit or (loss) | 32,000 | 22,000 | (12,000) | 42,000 |
 
-If Frozen closed, 14,000 of its fixed costs would be avoided.
+Closing Frozen would end 14,000 of freezer lease and supervisor costs; its other fixed costs would continue.
 
-**(a)** Calculate the total profit if Frozen closed. **[3]**
-**(b)** Another firm offers to rent the Frozen space for 15,000 a year. Calculate the total profit if Frozen closed and the space were rented out. **[3]**
-**(c)** Evaluate whether Maresby Foods should close the Frozen department. **[6]**
+**(a)** Calculate Maresby's profit for the year without Frozen. **[3]**
+**(b)** A neighbour would rent the vacated space for 15,000 a year. Recalculate the profit. **[3]**
+**(c)** Assess the case for and against closing Frozen, and recommend a course of action. **[6]**
 
-**11.** Ravelly Candles expects to sell 9,000 gift candles next year. Marginal cost is 5.30 per candle and fixed costs are 31,500. The owner wants a profit of 22,500.
+**11.** Brisholt Kayak Tours plans 1,600 guided trips next year. Each trip has a marginal cost of 40, and fixed costs are 52,000. The partners aim to earn 20,000 profit.
 
-**(a)** Calculate the selling price needed. **[3]**
-**(b)** Explain **two** limitations of using marginal costing when setting prices. **[4]**
+**(a)** Calculate the price per trip that achieves this aim. **[2]**
+**(b)** Express the contribution per trip as a percentage mark-up on marginal cost. **[1]**
+**(c)** Explain **two** limitations of this pricing method. **[4]**
 
 ## Answers
 
 **1.** **C** -- flat until more space is used, then jumps [1]
-*Examiner insight:* D is semi-variable, the usual wrong choice; a stepped cost stays flat between jumps.
+*Examiner insight:* D is semi-variable (a fixed base plus a smooth rise); a stepped cost sits level between jumps.
 
 **2.** Contribution 15; 57,000 ÷ 15 = 3,800 units; 3,800 × 40 = **D, 152,000** [1]
 *Examiner insight:* C is total variable cost at break-even; B divides by the variable cost ratio.
@@ -128,14 +129,14 @@ If Frozen closed, 14,000 of its fixed costs would be avoided.
 **(b)** Indirect, fixed [1]
 **(c)** Indirect, semi-variable [1]
 **(d)** Indirect, stepped [1]
-*Examiner insight:* Each mark needs both labels correct.
+*Examiner insight:* Give both labels for every cost; behaviour alone answers only half the question.
 
 **4. (a)** 6.40 − (2.20 + 1.00 + 0.40) = 6.40 − 3.60 = **2.80** [1]
 **(b)** 33,600 ÷ 2.80 [1] = **12,000 bars** [1]
 **(c)** 15,000 × 2.80 = 42,000 [1]; 42,000 − 33,600 = **8,400** [1]
 **(d)** (33,600 + 11,200) ÷ 2.80 [1] = **16,000 bars** [1]
 **(e)** New contribution = 2.80 − 0.30 = 2.50 [1]; 33,600 ÷ 2.50 = **13,440 bars** [1]
-*Examiner insight:* Every later part rests on (a); show the contribution so later method can still gain credit if it is wrong.
+*Examiner insight:* Every later part rests on (a), so set out the contribution where an examiner can follow it.
 
 **5. (a)** 24,000 ÷ 4,000 = **6** [1]
 **(b)** Variable cost = (51,000 − 33,000) ÷ (10,000 − 4,000) = **3** per carton; fixed costs = 33,000 − (4,000 × 3) = **21,000** [1] [1]
@@ -168,30 +169,29 @@ Profit for March                            6,340   [1]
 Spare capacity is 800, so 400 normal sales are lost: 400 × (32 − 19) = 5,200 [1]
 Net effect = 5,400 − 5,200 = profit **rises by 200** [1]
 **(b)** The gain of 200 is tiny for the effort [1]. Regular customers turned away may not come back [1]. The landscaping firm may reorder [1]. Reject unless repeat business at a better price is likely [1].
-*Examiner insight:* "Advise" answers gain credit by weighing a non-financial point against the figures and then deciding.
+*Examiner insight:* A strong recommendation sets a non-financial point against the 200 and then commits to a decision.
 
 **9. (a)** Hours needed for full demand = (600 × 1.5) + (300 × 5) + (200 × 4.5) = 3,300, more than 3,100 available [1]
 **(b)** Stool 36 ÷ 1.5 = 24; Bench 90 ÷ 5 = 18; Table 144 ÷ 4.5 = 32 [1] [1]. Rank: **Table, Stool, Bench** [1]
 **(c)** Tables 200 (900 hours), stools 600 (900 hours) [1]; benches 1,300 ÷ 5 = **260** [1]
 Contribution = 28,800 + 21,600 + 23,400 = 73,800 [1]; profit = 73,800 − 52,000 = **21,800** [1]
-*Examiner insight:* The bench has the highest contribution per unit but the lowest per hour; ranking per unit loses the ranking marks and usually the plan.
+*Examiner insight:* The bench earns most per unit but least per hour; ranking per unit spoils the plan.
 
 **10. (a)** Contribution of Frozen = 150,000 − 117,000 = 33,000 [1]; profit = 42,000 − 33,000 + 14,000 [1] = **23,000** [1]
 **(b)** 23,000 + 15,000 [1] = **38,000** [1], which is still 4,000 below the current 42,000 [1]
 **(c)** Frozen's contribution of 33,000 exceeds its 14,000 avoidable costs [1]. Its loss comes from 31,000 of shared fixed costs that would continue [1]. Closure cuts profit by 19,000, or 4,000 with rent [1]. Shoppers who buy frozen goods with other lines may go elsewhere, cutting other departments' sales [1]. Against this, rent is steady, risk-free income [1]. Conclusion: keep Frozen open on these figures [1].
-*Examiner insight:* An evaluation needs a final judgement; points for and against without a decision lose the last mark.
+*Examiner insight:* Finish with a recommendation tied to the figures; a balanced list with no verdict leaves the task unfinished.
 
-**11. (a)** Contribution needed = 31,500 + 22,500 = 54,000 [1]; per candle = 54,000 ÷ 9,000 = 6.00 [1]; price = 5.30 + 6.00 = **11.30** [1]
-**(b)** Any two: a price near marginal cost may not cover fixed costs [1], causing long-run losses [1]; demand and rivals' prices are ignored [1], so 9,000 may not sell at 11.30 [1]; the fixed/variable split may be wrong.
-*Examiner insight:* Each limitation needs a point and its consequence; a bare list gains half the marks at most.
+**11. (a)** (52,000 + 20,000) ÷ 1,600 = 45 contribution per trip [1]; price = 40 + 45 = **85** [1]
+**(b)** 45 ÷ 40 × 100 = **112.5%** [1]
+**(c)** Any two: a price near marginal cost may not cover fixed costs [1], causing long-run losses [1]; demand and rivals' prices are ignored [1], so 1,600 trips may not sell at 85 [1]; the fixed/variable split may be wrong.
+*Examiner insight:* Develop each limitation: state the weakness, then show what it could do to Brisholt's profit.
 
 ## Where marks are usually lost
 
-- Comparing a supplier's quote or an order price with full cost rather than marginal cost.
-- Ignoring lost normal sales when an order exceeds spare capacity.
-- Ranking by contribution per unit rather than per unit of the limiting factor.
-- Assuming a closed department's whole share of fixed costs disappears.
-- Valuing closing inventory at full cost in a marginal costing statement.
+- Question 7: setting 21.50 against the full cost of 23.40, which invents a saving.
+- Question 8: forgetting the 400 regular planters displaced once spare capacity runs out.
+- Question 9: putting benches first because they earn most per unit.
 
 ## Next steps
 

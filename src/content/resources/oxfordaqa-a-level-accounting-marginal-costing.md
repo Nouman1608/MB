@@ -20,7 +20,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This guide teaches section **3.1.10 Marginal costing** of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. All of 3.1.10 is International AS content, and the specification lists it among the sections assessed by Paper 2: Financial & Management Accounting. The comparison of marginal, absorption and activity based costing belongs to 3.2.2, which is International A-level only. All figures are in dollars and all the businesses are fictional.
+This guide teaches section **3.1.10 Marginal costing** of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2. It is International AS content, assessed on Paper 2: Financial & Management Accounting. The comparison of marginal, absorption and activity based costing belongs to 3.2.2, which is International A-level only. All figures are in dollars and all the businesses are fictional.
 
 Use it with the [revision notes](/resources/oxfordaqa-a-level-accounting-marginal-costing-revision-notes/) and the [practice questions](/resources/oxfordaqa-a-level-accounting-marginal-costing-practice/). Management accounting is introduced in the [role of the accountant guide](/resources/a-level-oxfordaqa-accounting-role-of-the-accountant/); paper layouts are in [exam preparation](/resources/oxfordaqa-a-level-accounting-exam-preparation/). Links: [course hub](/boards/oxfordaqa/a-level/accounting/) · [printable checklist](/checklists/oxfordaqa/a-level/accounting/) · [free 10-minute diagnostic](/diagnostics/).
 
@@ -80,17 +80,17 @@ Break-even sales revenue  = break-even units × selling price
 1. Break-even = 59,500 ÷ 35 = **1,700 lamps**.
 2. Break-even revenue = 1,700 × 75 = **127,500**.
 3. Hessary expects to sell 2,200 lamps. Profit = (2,200 × 35) − 59,500 = **17,500**.
-4. Expected sales exceed break-even by 500 lamps (about 22.7%), so sales could drop that far before a loss. This gap is usually called the margin of safety.
+4. Expected sales exceed break-even by 500 lamps (about 22.7%), a cushion known as the margin of safety: sales could drop that far before a loss.
 
 A lower price, a higher variable cost or extra fixed costs all push break-even up.
 
 ## Break-even charts
 
-A break-even chart puts units of output on the horizontal axis and dollars on the vertical axis. It carries:
+Hessary's chart has lamps along the bottom and dollars up the side, with three straight lines:
 
-- a **fixed cost line**, flat at 59,500
-- a **total cost line**, starting from 59,500 where output is zero and climbing by 40 for every lamp
-- a **sales revenue line**, starting from zero and climbing by 75 for every lamp.
+- **fixed costs**, level at 59,500
+- **total costs**, leaving the vertical axis at 59,500 and gaining 40 per lamp
+- **sales revenue**, leaving the origin and gaining 75 per lamp.
 
 Points for Hessary's chart:
 
@@ -155,7 +155,7 @@ The 200 unsold lamps carry no share of the fixed costs.
 
 ## Marginal costing in decision making
 
-Every decision uses one test: compare the contribution gained or lost with any fixed costs that actually change. Fixed costs paid whatever the choice are not relevant. Then weigh non-financial factors.
+Ask two questions each time. How much contribution does the choice add or remove? Which fixed costs would genuinely start or stop because of it? Overheads paid under every option play no part. Then come factors money cannot measure.
 
 ### Make or buy
 
@@ -165,7 +165,7 @@ Hessary makes its own lamp shades: materials 6.50, labour 4.20 and variable over
 - Buying costs 13.10 − 12.00 = 1.10 more per shade: 2,400 × 1.10 = **2,640** extra cost.
 - Buying would let Hessary end a 3,500 lease on a shade press. Net effect = 3,500 − 2,640 = **860** better off by buying.
 
-Non-financial factors: the supplier's quality and reliability, and loss of control and of skilled staff.
+Non-financial factors: can the supplier match Hessary's finish and delivery dates, and what happens to the shade-makers?
 
 ### Acceptance of additional work
 
@@ -175,11 +175,11 @@ A hotel group offers to buy 300 lamps at 52 each, with its logo plate fitted at 
 
 If only 200 lamps of capacity were spare, 100 normal sales would be lost at 35 each: 2,400 − 3,500 = **1,100 worse off**. Always check capacity first.
 
-Non-financial factors: regular customers may ask for the lower price; the hotel group may reorder.
+Non-financial factors: shops paying 75 may hear of the 52 deal and press for discounts, while a hotel chain could become a steady buyer.
 
 ### Price setting
 
-Short term, any price above marginal cost adds contribution. Long term, the price must also cover fixed costs and leave a profit.
+For a single order, anything above 40 a lamp raises profit. A normal list price, though, has to recover fixed costs as well and leave the owner a return.
 
 Next year Hessary expects to sell 2,000 lamps, fixed costs rise to 63,000, and the owner wants profit of 15,000.
 
@@ -189,11 +189,11 @@ Contribution per lamp = 78,000 ÷ 2,000  = 39
 Price                 = 40 + 39         = 79
 ```
 
-Check competitors' prices and whether 2,000 lamps will still sell at 79.
+Before announcing 79, Hessary should look at rival lamps and ask whether 2,000 buyers will still appear.
 
 ### Optimum use of scarce resources
 
-When one input is short, the **limiting factor**, rank products by contribution per unit of that input.
+If labour time or material cannot be obtained in full, that input is the **limiting factor**: divide each product's contribution by the amount of it the product uses, and rank.
 
 Corrallo Rugs has 1,880 weaving hours next quarter and fixed costs of 19,000.
 
@@ -216,7 +216,7 @@ Maximum profit = 28,560 − 19,000 = **9,560**. Ranking by contribution per rug 
 
 ### Closing a potentially loss-making line or production department
 
-Carrowmore Textiles runs three production lines. Fixed costs of 136,500 are apportioned by floor area.
+Carrowmore Textiles runs three production lines. Fixed costs of 136,500 are shared out on machine hours.
 
 | | Line X | Line Y | Line Z | Total |
 |---|---|---|---|---|
@@ -228,7 +228,7 @@ Carrowmore Textiles runs three production lines. Fixed costs of 136,500 are appo
 
 If line Z closed, only 9,000 of its fixed costs would stop. Closing loses 26,000 of contribution and saves 9,000, so profit falls by **17,000** to 19,500. Even if the space were let for 12,000 a year, profit would be 31,500, still lower than now. Line Z should stay open on financial grounds.
 
-Non-financial factors: job losses, morale, and customers who buy across lines.
+Non-financial factors: the Line Z weavers' jobs, the signal sent to staff on X and Y, and buyers who order from all three lines.
 
 ### Target profit
 
@@ -248,10 +248,10 @@ Round up: 3,385 lamps would fall just short of the target.
 
 ## Common errors
 
-- Setting a supplier's quote against full cost (with absorbed overheads) when marginal cost is the right comparison.
-- Choosing the product order by contribution per unit although an input is in short supply.
-- Treating every apportioned fixed cost as saved when a line or department closes.
-- Valuing closing inventory at full cost in a marginal costing statement.
+- Pricing Hessary's own shade at 15.00 instead of 12.00 in the make-or-buy test.
+- Putting the Medallion first because it earns most per rug.
+- Counting all 31,500 charged to Line Z as a saving on closure.
+- Valuing Hessary's 200 unsold lamps at more than 40 each.
 
 Next: [practice questions](/resources/oxfordaqa-a-level-accounting-marginal-costing-practice/) · [revision notes](/resources/oxfordaqa-a-level-accounting-marginal-costing-revision-notes/).
 

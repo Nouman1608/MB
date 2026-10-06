@@ -164,7 +164,7 @@ Root 47 with 23 and 68 as children [1]; 15, 35, 59, 80 correct [1]; 28 as left c
 Correct hashes for all five keys [1]; 4019, 1300 and 6512 at their home positions [1]; 2745 moved to 3 [1]; 3018 moved past 2 and 3 to 4 [1].
 **(b)** **3** (positions 2, 3, 4) [1]
 **(c)** 5214 MOD 13 = 1 and position 1 is empty, so the key cannot be in the table [1].
-**(d)** Only 0 to 9 are produced, so positions 10 to 12 are never used [1]; keys sharing a first digit all collide, so the spread is uneven [1].
+**(d)** A four-digit key's first digit is 1 to 9, so positions 0 and 10 to 12 are never used [1]; keys sharing a first digit all collide, so the spread is uneven [1].
 *Examiner insight:* In (d), judge against both properties; it is quick to compute, so the case rests on uneven spread.
 
 **7.**

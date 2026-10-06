@@ -147,7 +147,7 @@ Symbols: AND is a D shape; OR has a curved back and pointed front; XOR adds a se
 
 **Circuit to expression.** A and B enter a NOR gate; its output and C enter an AND gate. So X = NOT(A + B)⋅C. Of the 2³ = 8 rows, X is 1 only for A = 0, B = 0, C = 1.
 
-**Expression to circuit.** Follow precedence. For Y = A⋅B̅ + C̅: a NOT gate inverts B, an AND gate combines A with B̅, a second NOT gate inverts C, and an OR gate joins the two. Y is 0 only for A, B, C = 0, 0, 1; 0, 1, 1; and 1, 1, 1.
+**Expression to circuit.** Follow precedence: AND before OR. For Y = A + B̅⋅C: a NOT gate inverts B, an AND gate combines B̅ with C, and an OR gate joins that output with A. Y is 0 only for A, B, C = 0, 0, 0; 0, 1, 0; and 0, 1, 1.
 
 **Half-adder** (you may be asked to construct it). Inputs A and B feed both an XOR gate, giving sum S = A ⨁ B, and an AND gate, giving carry C = A⋅B. Only 1 + 1 gives a carry: S = 0, C = 1.
 

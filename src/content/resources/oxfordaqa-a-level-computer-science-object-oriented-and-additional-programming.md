@@ -138,7 +138,7 @@ False 37.5
 True 38.2
 ```
 
-The first call is rejected. Writing `unit.__target_c` outside the class raises an `AttributeError`. Design rule: make attributes private by default and add only the getters and setters other classes need; a value with no setter is read-only from outside.
+The first call is rejected. Reading `unit.__target_c` from outside the class raises an `AttributeError`. Design rule: make attributes private by default and add only the getters and setters other classes need; a value with no setter is read-only from outside.
 
 ## 3.9.3 Relationships between classes
 
@@ -214,7 +214,7 @@ class Choir:
         return total
 ```
 
-Enrol three singers (Rafe tenor, Ines alto, Tomasz tenor) in an evening choir and only Rafe in a festival choir. `count_part("tenor")` returns 2 and 1. Rafe is one object used by both choirs, never copied. Test: "a Cactus **is a** Plant" means inheritance; "a Choir **uses** Singers" means association.
+Enrol three singers (Rafe tenor, Leocadia alto, Oskar tenor) in an evening choir and only Rafe in a festival choir. `count_part("tenor")` returns 2 and 1. Rafe is one object used by both choirs, never copied. Test: "a Cactus **is a** Plant" means inheritance; "a Choir **uses** Singers" means association.
 
 ### Class diagrams
 

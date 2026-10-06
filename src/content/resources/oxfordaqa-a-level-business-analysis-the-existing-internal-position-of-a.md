@@ -184,7 +184,7 @@ Selsworth's Year 2 revenue of 7,200 came from three profit centres:
 
 **Strong versus weak culture.** In a **strong** culture most staff share the same values, so behaviour is consistent and little supervision is needed; but a strong culture can resist necessary change. In a **weak** culture values differ across teams, giving inconsistent service but more openness to change.
 
-**Example.** Corrisand Software grew from 12 to 300 staff. Its informal, risk-taking culture helped it launch products fast, but large clients now expect tight security and testing, a reason to change.
+**Example.** Quillmarsh Software grew from 12 to 300 staff. Its informal, risk-taking culture helped it launch products fast, but large clients now expect tight security and testing, a reason to change.
 
 **Reasons for changing culture:** a new leader or owner, a merger, poor performance, new customer expectations, a scandal, or a new strategy that the old culture blocks.
 

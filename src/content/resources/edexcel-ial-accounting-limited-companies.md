@@ -22,7 +22,7 @@ featured: false
 
 This guide teaches topic 2.1, Limited companies, from Unit 2: Corporate and Management Accounting of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2 (September 2018). It covers outcomes 2.1.1 to 2.1.15. All of it is Unit 2 (A2) only. Calculators may be used in the examination.
 
-Use the [revision notes](/resources/edexcel-ial-accounting-limited-companies-revision-notes/) for quick recall and the [practice questions](/resources/edexcel-ial-accounting-limited-companies-practice/) to check your understanding. For Unit 1 double entry, read [Principles and double entry bookkeeping](/resources/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping/). Also useful: the [Edexcel A-Level Accounting hub](/boards/edexcel/a-level/accounting/), the [printable checklist](/checklists/edexcel/a-level/accounting/) and the [free diagnostics](/diagnostics/).
+Use the [revision notes](/resources/edexcel-ial-accounting-limited-companies-revision-notes/) to recap fast and the [practice questions](/resources/edexcel-ial-accounting-limited-companies-practice/) to check your understanding. For Unit 1 double entry, read [Principles and double entry bookkeeping](/resources/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping/). Also useful: the [Edexcel A-Level Accounting hub](/boards/edexcel/a-level/accounting/), the [printable checklist](/checklists/edexcel/a-level/accounting/) and the [free diagnostics](/diagnostics/).
 
 ## What this topic covers
 
@@ -100,7 +100,7 @@ The **Directors' Report** is written by the directors. Under UK company law it i
 | Retained earnings | Revenue | Profit for the year | Dividends, transfers to other reserves, bonus issues |
 | General | Revenue | Transfer out of retained earnings | Future needs; can be transferred back |
 | Share premium | Capital | Issuing shares above nominal value | Fully paid bonus shares; writing off share issue costs |
-| Revaluation | Capital | Upward revaluation of a non-current asset | Not distributable; moved straight to retained earnings when the asset is sold or used up |
+| Revaluation | Capital | Upward revaluation of a non-current asset | Not distributable; may be moved straight to retained earnings when the asset is sold or used up |
 | Foreign exchange | Capital | Exchange differences on translating a foreign operation (via other comprehensive income) | Moved to profit or loss when that operation is disposed of |
 | Capital redemption | Capital | Transfer from retained earnings equal to the nominal value of shares bought back out of profits | Keeps capital intact; can pay up bonus shares |
 

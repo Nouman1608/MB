@@ -100,7 +100,7 @@ There is no setter at all, so no outside class can lower the count. Encapsulatio
 |---|---|---|
 | C# | `virtual` | `override` |
 | VB.Net | `Overridable` | `Overrides` |
-| Python | no keyword | same name and parameters |
+| Python | no keyword | same name |
 
 An inherited method that calls an overridden one runs the subclass version when the object is a subclass instance.
 

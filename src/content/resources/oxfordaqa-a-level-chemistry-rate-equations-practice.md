@@ -138,7 +138,7 @@ and 1.53 × 10⁻³ mol dm⁻³ min⁻¹ at 20 min. Deduce the order with respec
 ## Answers
 
 **1.** Order: the exponent on that reactant's concentration in the rate equation [1]. Rate constant: the
-constant linking the rate to the concentration terms, which changes only with temperature [1]. The
+constant linking the rate to the concentration terms, which is fixed at a given temperature [1]. The
 rate depends on the mechanism (the rate-determining step), not the overall equation, so orders must be
 found by experiment [1]. **[3]**
 *Examiner insight:* An order definition without "power" and "rate equation" is usually too vague.
@@ -171,11 +171,11 @@ k = 8.0 × 10¹⁰ × e^(–32.35) = **7.1 × 10⁻⁴ mol⁻¹ dm³ s⁻¹** [1
 *Examiner insight:* Carry unrounded k values into the factor; early rounding shifts the answer.
 
 **7. (a)** Comparing with y = mx + c: ln k is y, 1/T is x, and –Ea/R and ln A do not change [1]. The gradient is –Ea/R [1].
-**(b)** 300 K: 1/T = 3.333 × 10⁻³ K⁻¹, ln k = –4.87; 345 K: 1/T = 2.899 × 10⁻³ K⁻¹, ln k = –0.99 [1];
-gradient = 3.88 ÷ (–4.34 × 10⁻⁴) = –8.94 × 10³ K [1];
-Ea = 8.94 × 10³ × 8.31 = 7.43 × 10⁴ J mol⁻¹ = **74.3 kJ mol⁻¹** [1]
-**(c)** At 330 K: ln A = –2.163 + 74 300 ÷ (8.31 × 330) = 24.93 [1];
-A = e^24.93 = **6.7 × 10¹⁰ s⁻¹** [1]
+**(b)** 300 K: 1/T = 3.3333 × 10⁻³ K⁻¹, ln k = –4.865; 345 K: 1/T = 2.8986 × 10⁻³ K⁻¹, ln k = –0.994 [1];
+gradient = 3.871 ÷ (–4.347 × 10⁻⁴) = –8.90 × 10³ K [1];
+Ea = 8.90 × 10³ × 8.31 = 7.40 × 10⁴ J mol⁻¹ = **74.0 kJ mol⁻¹** [1]
+**(c)** At 330 K: ln A = –2.163 + 74 000 ÷ (8.31 × 330) = 24.82 [1];
+A = e^24.82 = **6.0 × 10¹⁰ s⁻¹** [1]
 *Examiner insight:* A negative Ea signals a sign error and is unlikely to be credited.
 
 **8. (a)** Step 1 (slow): G + 2H → GH₂ [1]; Step 2 (fast): GH₂ + H → GH₃ [1]

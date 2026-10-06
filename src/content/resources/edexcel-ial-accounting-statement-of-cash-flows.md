@@ -203,7 +203,7 @@ A business that expands faster than its cash allows (overtrading) shows the dang
 What the statement adds to the ratios:
 
 - Operating activities produced 192,900, almost twice the profit for the year of 97,800, because depreciation is a large non-cash charge. Core trading generates cash.
-- That operating cash paid for most of the 178,000 of new equipment, so the company invested without borrowing more.
+- That operating cash more than covered the 178,000 of new equipment, so the company invested without borrowing more.
 - The share issue covered the debenture repayment and most of the dividend.
 - The overdraft of 14,600 has been cleared. The current ratio improved, but the liquid ratio stayed just below 1 : 1 because the extra current assets went into inventory.
 

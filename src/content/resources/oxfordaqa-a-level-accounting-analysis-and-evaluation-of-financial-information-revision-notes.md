@@ -88,9 +88,9 @@ A good answer picks the two or three ratios that fit the user, rather than discu
 
 ## Small worked reminders
 
-**Margin and markup convert.** Markup = margin / (100 − margin) × 100. A margin of 40% is a markup of 40 / 60 × 100 = 66.67%. A markup of 50% is a margin of 50 / 150 × 100 = 33.33%.
+**Margin and markup convert.** Markup = margin / (100 − margin) × 100. A margin of 45% is a markup of 45 / 55 × 100 = 81.82%. A markup of 20% is a margin of 20 / 120 × 100 = 16.67%.
 
-**Times to days.** Days = 365 / times. Turnover of 10 times is 36.5 days.
+**Times to days.** Days = 365 / times. Turnover of 12 times is 30.4 days.
 
 **Profit ratios link.** Gross profit margin − expenses in relation to revenue = profit in relation to revenue.
 
@@ -133,7 +133,7 @@ Profit follows the accruals concept; the bank balance follows money in and out. 
 ## Quick self-test
 
 1. Gross profit is 45,000 and cost of sales is 150,000. Calculate markup and gross profit margin.
-2. Convert a markup of 25% to a gross profit margin.
+2. Convert a markup of 35% to a gross profit margin.
 3. Current assets 48,000 (inventory 20,000), current liabilities 32,000. Calculate both liquidity ratios.
 4. Average inventory 15,000, cost of sales 135,000. Find inventory turnover as times, then as days.
 5. Gross profit margin is 32% and profit in relation to revenue is 7%. Find expenses in relation to revenue.
@@ -147,7 +147,7 @@ Profit follows the accruals concept; the bank balance follows money in and out. 
 ### Answers
 
 1. Markup = 45,000 / 150,000 × 100 = **30.00%**. Revenue = 195,000, so margin = 45,000 / 195,000 × 100 = **23.08%**.
-2. 25 / 125 × 100 = **20%**.
+2. 35 / 135 × 100 = **25.93%**.
 3. Current = 48,000 / 32,000 = **1.5 : 1**. Liquid = 28,000 / 32,000 = **0.88 : 1**.
 4. 135,000 / 15,000 = **9 times**; 15,000 / 135,000 × 365 = **40.6 days**.
 5. 32 − 7 = **25%**.

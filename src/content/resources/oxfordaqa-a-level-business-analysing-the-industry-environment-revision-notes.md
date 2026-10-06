@@ -104,7 +104,7 @@ Share of sales to a buyer     = sales to that buyer ÷ total sales × 100
 
 - **Rival vs substitute.** A rival makes the same kind of product; a substitute meets the same need in a different way (a ferry operator's rival is another ferry; its substitute is a bridge or a flight).
 - **Buyer vs consumer.** The buyer is whoever the firm sells to, often a retailer or another business, not the end user.
-- **Five forces vs PESTLE vs SWOT.** Five forces analyses the industry; PESTLE (3.3.4) analyses the wider external environment; SWOT (3.3.1) combines internal strengths and weaknesses with external opportunities and threats. Five forces and PESTLE feed the O and T of SWOT.
+- **Five forces vs PESTLE vs SWOT.** Five forces analyses the industry; [PESTLE (3.3.4)](/resources/oxfordaqa-a-level-business-analysing-the-external-environment-to-assess-revision-notes/) analyses the wider external environment; SWOT (3.3.1) combines internal strengths and weaknesses with external opportunities and threats. Five forces and PESTLE feed the O and T of SWOT.
 - **Entry threat vs rivalry.** Rivalry is about firms already in the industry; entry threat is about firms that might join.
 - **Industry vs firm.** The forces describe the industry; their impact differs between firms in it.
 

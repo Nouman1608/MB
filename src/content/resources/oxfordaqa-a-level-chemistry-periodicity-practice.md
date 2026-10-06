@@ -40,7 +40,7 @@ specification examines it.
 
 Before you start, work through the [study guide](/resources/oxfordaqa-a-level-chemistry-periodicity/) and the
 [revision notes](/resources/oxfordaqa-a-level-chemistry-periodicity-revision-notes/). The questions use
-rounded values from standard data tables (phosphorus as white P₄, sulfur as monoclinic S₈). If you would
+rounded values from standard data tables (phosphorus as white P₄, sulfur as S₈). If you would
 rather see where you stand before you begin, a free [10-minute diagnostic](/diagnostics/) will tell you.
 
 ## Questions

@@ -84,7 +84,7 @@ Each Pebblewick cook can prepare up to 140 orders a week. How many cooks does th
 830 ÷ 140 = 5.93 (2 d.p.)
 ```
 
-Round **up** to **6 cooks**: five would leave about 130 orders unmade. This is the "use" half of the specification point: a forecast only earns marks when you turn it into a decision. In an answer, add one line of caution, for example that six weeks of café data may include a holiday rush that will not repeat.
+Round **up** to **6 cooks**: five would leave about 130 orders unmade. This is the "use" half of the specification point: a forecast only earns marks when you turn it into a decision. In an answer, add one line of caution, for example that five weeks of café data may include a holiday rush that will not repeat.
 
 ## Evaluation checklist for forecasting questions
 

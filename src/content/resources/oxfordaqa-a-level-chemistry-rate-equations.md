@@ -155,24 +155,24 @@ constants.
 Step 1: find 1/T and ln k for each point. The end points:
 
 ```
-295 K: 1/T = 3.390 × 10⁻³ K⁻¹, ln k = –5.85
-335 K: 1/T = 2.985 × 10⁻³ K⁻¹, ln k = –2.54
+295 K: 1/T = 3.3898 × 10⁻³ K⁻¹, ln k = –5.853
+335 K: 1/T = 2.9851 × 10⁻³ K⁻¹, ln k = –2.540
 ```
 
 Step 2: plot all five points (a straight line) and take the gradient from points far apart:
 
 ```
-gradient = (–2.54 – (–5.85)) ÷ (2.985 × 10⁻³ – 3.390 × 10⁻³)
-         = 3.31 ÷ (–4.05 × 10⁻⁴) = –8.17 × 10³ K
+gradient = (–2.540 – (–5.853)) ÷ (2.9851 × 10⁻³ – 3.3898 × 10⁻³)
+         = 3.313 ÷ (–4.047 × 10⁻⁴) = –8.187 × 10³ K
 ```
 
-Step 3: Ea = –gradient × R = 8.17 × 10³ × 8.31 = 6.79 × 10⁴ J mol⁻¹ = **67.9 kJ mol⁻¹**.
+Step 3: Ea = –gradient × R = 8.187 × 10³ × 8.31 = 6.80 × 10⁴ J mol⁻¹ = **68.0 kJ mol⁻¹**.
 
 Step 4: the intercept is far off the plotted region, so use one point on the line (315 K):
 
 ```
-ln A = ln k + Ea/RT = –4.09 + 67 900 ÷ (8.31 × 315) = 21.85
-A = e^21.85 = 3.1 × 10⁹ mol⁻¹ dm³ s⁻¹
+ln A = ln k + Ea/RT = –4.092 + 68 000 ÷ (8.31 × 315) = 21.89
+A = e^21.89 = 3.2 × 10⁹ mol⁻¹ dm³ s⁻¹
 ```
 
 ## 3.1.11.2 Rates from concentration–time graphs

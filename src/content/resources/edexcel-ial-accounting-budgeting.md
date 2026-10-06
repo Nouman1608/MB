@@ -231,9 +231,9 @@ A **fixed budget** is set for one planned level of activity. If actual activity 
 - fixed costs: unchanged
 - semi-variable costs: budgeted fixed element + actual units x budgeted variable rate
 
-### Worked example 3: Kestrin Mouldings Ltd
+### Worked example 3: Tolvane Mouldings Ltd
 
-Kestrin Mouldings Ltd budgeted to make and sell 20,000 crates at 9 each. Per crate: direct materials 2.40, direct labour 1.60, variable overheads 0.50. Maintenance is semi-variable: 6,000 a month plus 0.20 per crate. Fixed overheads are 36,000. It actually made and sold 22,000 crates.
+Tolvane Mouldings Ltd budgeted to make and sell 20,000 crates at 9 each. Per crate: direct materials 2.40, direct labour 1.60, variable overheads 0.50. Maintenance is semi-variable: 6,000 a month plus 0.20 per crate. Fixed overheads are 36,000. It actually made and sold 22,000 crates.
 
 | | Fixed budget (20,000) | Flexible budget (22,000) | Actual (22,000) | Variance |
 |---|---|---|---|---|

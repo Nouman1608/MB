@@ -57,7 +57,7 @@ Instructions follow the Standard OxfordAQA assembly language instruction set, fo
 **(b)** Explain why adding a second core may not halve the running time of a program. **[2]**
 **(c)** Explain how a larger cache can improve processor performance. **[2]**
 
-**7.** In a logic circuit, inputs A and B feed an XOR gate. Inputs B and C feed a NAND gate. The outputs of these two gates feed an AND gate, whose output is P.
+**7.** In a logic circuit, inputs A and B feed an XOR gate. Inputs A and C feed a NAND gate. The outputs of these two gates feed an AND gate, whose output is P.
 
 **(a)** Write a Boolean expression for P. **[2]**
 **(b)** Complete a truth table for P, including a column for each intermediate gate output. **[3]**
@@ -78,9 +78,9 @@ Instructions follow the Standard OxfordAQA assembly language instruction set, fo
 
 **11.** Two edge-triggered D-type flip-flops share a clock. The output Q₁ of the first flip-flop is the D input of the second, whose output is Q₂. Both outputs start at 0. At four successive rising clock edges, the D input of the first flip-flop is 1, 0, 1, 1. State Q₁ and Q₂ after each of the four edges. **[4]**
 
-**12.** A field research team works for months at remote sites with no reliable Internet, carrying laptops over rough ground and recording large amounts of camera footage. At base, years of footage must be kept and is opened only occasionally.
+**12.** A travelling veterinary service visits remote farms with no reliable Internet. Vets carry laptops on rough tracks and save large ultrasound scan files at each visit. At head office, years of scan files must be kept and are opened only occasionally.
 
-Evaluate the use of magnetic hard disks, solid-state drives and cloud storage for this team, and recommend a storage plan. **[8]**
+Evaluate the use of magnetic hard disks, solid-state drives and cloud storage for this service, and recommend a storage plan. **[8]**
 
 ## Answers
 
@@ -109,22 +109,22 @@ Evaluate the use of magnetic hard disks, solid-state drives and cloud storage fo
 **(c)** Cache is faster than main memory and close to the processor [1]; more items found in cache means fewer slow main memory accesses [1]. **[6]**
 *Examiner insight:* Convert bytes to bits before dividing by the bus width.
 
-**7. (a)** The XOR gives A ⨁ B and the NAND gives NOT(B⋅C) [1]; the AND joins them: **P = (A ⨁ B)⋅NOT(B⋅C)** [1].
+**7. (a)** The XOR gives A ⨁ B and the NAND gives NOT(A⋅C) [1]; the AND joins them: **P = (A ⨁ B)⋅NOT(A⋅C)** [1].
 **(b)**
 
-| A | B | C | A ⨁ B | NOT(B⋅C) | P |
+| A | B | C | A ⨁ B | NOT(A⋅C) | P |
 |---|---|---|---|---|---|
 | 0 | 0 | 0 | 0 | 1 | 0 |
 | 0 | 0 | 1 | 0 | 1 | 0 |
 | 0 | 1 | 0 | 1 | 1 | 1 |
-| 0 | 1 | 1 | 1 | 0 | 0 |
+| 0 | 1 | 1 | 1 | 1 | 1 |
 | 1 | 0 | 0 | 1 | 1 | 1 |
-| 1 | 0 | 1 | 1 | 1 | 1 |
+| 1 | 0 | 1 | 1 | 0 | 0 |
 | 1 | 1 | 0 | 0 | 1 | 0 |
 | 1 | 1 | 1 | 0 | 0 | 0 |
 
-A ⨁ B column correct [1]; NOT(B⋅C) column correct [1]; P column correct [1]. **[5]**
-*Examiner insight:* Intermediate columns show working that can still earn credit if the final column slips.
+A ⨁ B column correct [1]; NOT(A⋅C) column correct [1]; P column correct [1]. **[5]**
+*Examiner insight:* Intermediate columns show your working and help you catch slips before the final column.
 
 **8. (a)** An AND gate with inputs A and C, followed by a NOT gate, or a single NAND gate with inputs A and C [1]. An OR gate with inputs B and C [1]. An AND gate whose inputs are the NAND output and the OR output, giving Z [1].
 **(b)** **A = 0** [1]. **[4]**
@@ -145,15 +145,15 @@ Edge 1: **Q₁ = 1, Q₂ = 0** [1]. Edge 2: **Q₁ = 0, Q₂ = 1** [1]. Edge 3: 
 
 **12.** Indicative points, one mark each up to 8:
 
-- Laptop SSDs have no moving parts, so they survive knocks on rough ground [1].
+- Laptop SSDs have no moving parts, so they survive knocks and vibration on rough tracks [1].
 - SSDs use less power, helping battery life [1].
-- SSDs give fast access to footage [1].
-- SSDs cost more per gigabyte, so laptop capacity is limited and footage must be moved off regularly [1].
-- Hard disks are cheapest per gigabyte with large capacity, suiting the archive at base [1].
-- Their slower access matters little for rarely opened footage [1].
-- Cloud storage is unusable in the field without Internet, and large uploads are slow [1].
-- Recommendation: laptop SSDs, a hard disk archive at base, and cloud as an off-site backup where the base connection allows, each justified [1]. **[8]**
-*Examiner insight:* "Evaluate" needs points on both sides and a recommendation tied to this team's conditions; a generic feature list scores poorly.
+- SSDs give fast access to scan files [1].
+- SSDs cost more per gigabyte, so laptop capacity is limited and scan files must be moved off regularly [1].
+- Hard disks are cheapest per gigabyte with large capacity, suiting the archive at head office [1].
+- Their slower access matters little for rarely opened scan files [1].
+- Cloud storage is unusable on farm visits without Internet, and large uploads are slow [1].
+- Recommendation: laptop SSDs, a hard disk archive at head office, and cloud as an off-site backup where the head office connection allows, each justified [1]. **[8]**
+*Examiner insight:* "Evaluate" needs points on both sides and a recommendation tied to this service's conditions; a generic feature list scores poorly.
 
 ## Where marks are usually lost
 
@@ -161,7 +161,6 @@ Edge 1: **Q₁ = 1, Q₂ = 0** [1]. Edge 2: **Q₁ = 0, Q₂ = 1** [1]. Edge 3: 
 - Placing the address in the MBR or the instruction in the MAR during fetch.
 - Leaving out which bus carries the address and which carries the instruction.
 - Describing interrupt steps without saying why the volatile environment is saved.
-- Using De Morgan without swapping AND and OR.
 - Recommending storage without linking each choice to the scenario.
 
 ## Next steps

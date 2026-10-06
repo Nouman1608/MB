@@ -127,7 +127,7 @@ If a method is unfamiliar, go back to the [study guide](/resources/oxfordaqa-a-l
 *Examiner insight:* Use square brackets for concentrations and include Y⁻ in the numerator.
 
 **5.** [H⁺] = 10^(−2.62) = 2.40 × 10⁻³ mol dm⁻³ [1]; Ka = (2.40 × 10⁻³)² / 0.0640 [1]; Ka = **8.99 × 10⁻⁵ mol dm⁻³** [1]; pKa = **4.05** [1]
-*Examiner insight:* Keep the unrounded [H⁺] in your calculator when you square it; rounding to 2.4 × 10⁻³ first shifts Ka in the third figure.
+*Examiner insight:* Carry the unrounded [H⁺] forward when you square it; rounding to 2.4 × 10⁻³ first shifts Ka in the third figure.
 
 **6.** Ka(R) = 10^(−2.86) = **1.38 × 10⁻³ mol dm⁻³** [1]; pKa(S) = −log₁₀(6.6 × 10⁻⁴) = **3.18** [1]; strongest to weakest: **R > S > T** (lowest pKa is strongest) [1]
 *Examiner insight:* Convert all three to the same form before ranking, or the order often comes out reversed.

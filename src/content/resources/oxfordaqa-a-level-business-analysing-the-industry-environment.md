@@ -131,7 +131,7 @@ A business can act to weaken the forces it faces. Each action has a cost, so ass
 | Entry threat | Build economies of scale; protect ideas with patents; tie up distribution with exclusive deals; build strong loyalty | Large capacity adds fixed costs; exclusive deals may be challenged legally |
 | Substitute threat | Show better value than the substitute; develop the product to meet the need better; bundle related products | Development spending is risky; substitutes may keep improving |
 
-**Example of influence.** Granthorn could cut supplier power by adapting some kilns to a second fuel, and cut buyer power by winning smaller regional builders so its top three buyers take less of its sales. Both need time and capital.
+**Example of influence.** Granthorn could cut supplier power by adapting some kilns to a second fuel, and cut buyer power by winning smaller regional builders so its top three buyers take less of its sales. Both take time.
 
 ## 5. Responding to changes in the forces
 
@@ -157,7 +157,7 @@ A trade agreement removes import tariffs on cement, so overseas producers can se
 
 **Strengths:** simple, structured, covers suppliers and substitutes that a quick look at rivals would miss, and links clearly to profit.
 
-**Limitations:** it is a snapshot of a changing industry; boundaries are hard to draw (is a meal-kit firm in food retail or delivery?); the forces are judged, not measured; firms within one industry differ in size, brand and cost; and it should be used with PESTLE analysis (3.3.4), because laws, the economy and technology shift the forces.
+**Limitations:** it is a snapshot of a changing industry; boundaries are hard to draw (is a meal-kit firm in food retail or delivery?); the forces are judged, not measured; firms within one industry differ in size, brand and cost; and it should be used with [PESTLE analysis (3.3.4)](/resources/oxfordaqa-a-level-business-analysing-the-external-environment-to-assess/), because laws, the economy and technology shift the forces.
 
 ## Common errors
 

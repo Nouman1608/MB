@@ -40,9 +40,9 @@ Links: [course hub](/boards/oxfordaqa/a-level/accounting/) · [printable checkli
 | Contribution | Price less marginal cost; also given as a total | Pays the fixed costs first, then forms profit |
 | Break-even | Output where total contribution equals fixed costs | Zero profit, zero loss |
 
-**Two labels per cost.** Direct/indirect answers "can I trace it to a unit?". Variable/fixed/semi-variable/stepped answers "how does it move with output?". An exam answer that asks you to classify a cost may want both.
+**Traceability and behaviour are separate labels.** A cushion's fabric is direct and variable; the cleaning contract is indirect and fixed; a machine operator paid a weekly wage could be direct yet fixed. When a question says "classify", check whether it wants one label or both.
 
-## Formula sheet
+## Key formulas
 
 | To find | Use |
 |---|---|
@@ -56,7 +56,7 @@ Links: [course hub](/boards/oxfordaqa/a-level/accounting/) · [printable checkli
 | Price for a target profit | Marginal cost per unit + (fixed costs + target profit) ÷ expected units |
 | Ranking with a limiting factor | Contribution per unit ÷ quantity of the scarce input used per unit |
 
-### Worked reminder: Fennimore Clocks
+### Fennimore Clocks in five lines
 
 A wall clock sells for 120. Marginal cost is 72. Fixed costs are 43,200 a year. Expected sales: 1,250 clocks.
 
@@ -95,11 +95,11 @@ Remember: closing inventory at **marginal cost**; fixed costs charged in full to
 
 ## Break-even charts in five checks
 
-1. Axes: units on the horizontal, dollars on the vertical.
-2. Fixed cost line: flat. Total cost line: begins at the fixed cost figure, slope = variable cost per unit. Revenue line: begins at zero, slope = price.
-3. Break-even: where **revenue** meets **total cost**. Give units and dollars.
-4. Vertical distance between revenue and total cost at a chosen output = profit (right of break-even) or loss (left).
-5. A stepped cost shows as a jump in the fixed and total cost lines at the capacity limit.
+1. Output in units runs along the bottom; money runs up the side.
+2. Three lines: fixed cost (level), total cost (rising from the fixed cost figure by the variable cost per unit) and revenue (rising from nil by the price).
+3. The crossing that matters is **revenue** with **total cost**, never revenue with fixed cost. Quote it in units and in dollars.
+4. Choose an output and read both lines: revenue minus total cost there is the profit, or a loss if the result is negative.
+5. Passing a capacity limit puts a vertical step into both cost lines.
 
 **What shifts break-even:** up with a lower price, a higher variable cost or higher fixed costs; down with the reverse.
 
@@ -107,97 +107,73 @@ Remember: closing inventory at **marginal cost**; fixed costs charged in full to
 
 | Uses | Limitations |
 |---|---|
-| Lowest sales level that avoids a loss | Every cost must be forced into fixed or variable |
-| Tests price and cost changes before they happen | Assumes constant price and variable cost per unit at all outputs |
-| Shows how far sales can fall before a loss | Ignores stepped costs outside the range |
-| Chart is clear to non-accountants | Assumes all output is sold |
-| Gives units needed for a target profit | Hard with several products: depends on sales mix |
-| | Built on forecasts; hand-drawn charts are imprecise |
+| Sets a minimum sales target for the period | Mixed costs have to be split, often by estimate |
+| Models a price rise or a supplier's increase in advance | Straight lines ignore discounts for bulk buying and price cuts to win volume |
+| Measures the cushion between expected sales and a loss | Fixed costs that step up at higher output are missed |
+| Lets owners and lenders see the picture at a glance | Unsold inventory is not allowed for |
+| Gives the volume required for a chosen profit | A business with many products needs an assumed sales mix |
+| | The answer is no better than the forecasts behind it |
 
-## Decision situations -- method in steps
+## Decision situations at a glance
 
-**The rule for all six:** compare contribution gained or lost with fixed costs that would actually change. Ignore fixed costs that carry on regardless. Finish with non-financial factors and a recommendation.
+Only amounts that the choice itself would alter belong in the working. An overhead paid under every option drops out. After the figures, add at least one factor that money cannot measure, then decide.
 
-**Make or buy**
-1. Supplier's price vs **marginal cost** of making.
-2. Add fixed costs avoided by buying, and contribution from any freed capacity.
-3. Non-financial: quality, reliability, control, jobs and skills.
-
-**Acceptance of additional work**
-1. Check spare capacity.
-2. Extra contribution = units × (offer price − marginal cost − any extra variable cost), less extra fixed costs.
-3. If capacity is short, deduct contribution on normal sales lost.
-4. Non-financial: reaction of regular customers, repeat business, staff pressure.
-
-**Price setting**
-1. Floor in the short term: marginal cost.
-2. Long-term price: marginal cost + (fixed costs + target profit) ÷ expected units.
-3. Test against competitors' prices and demand.
-
-**Optimum use of scarce resources**
-1. Prove the input is limiting: needed for full demand > available.
-2. Contribution per unit of limiting factor; rank highest first.
-3. Allocate down the ranking up to each product's demand, in whole units.
-4. Maximum profit = total contribution − fixed costs.
-
-**Closing a potentially loss-making line or production department**
-1. Remove only the **avoidable** fixed costs.
-2. Change in profit = avoidable fixed costs saved − contribution lost (+ any income from the freed space).
-3. Non-financial: redundancies, morale, linked sales, reputation.
-
-**Target profit**
-1. (Fixed costs + target profit) ÷ contribution per unit.
-2. Round up; check no stepped cost is triggered at the new output.
+| Situation (3.1.10) | Figures to compare | Trap | Non-financial angle |
+|---|---|---|---|
+| Make or buy | Bought-in price against **marginal cost** of making, plus fixed costs that buying would end and contribution from freed capacity | Absorbed overheads usually carry on | Can the supplier match finish and delivery dates? Is in-house know-how lost? |
+| Acceptance of additional work | Units × (order price − marginal cost − order-specific costs), less any extra fixed costs | With no spare capacity, subtract contribution on displaced normal sales | Will full-price customers learn of the deal? Might the buyer return? |
+| Price setting | Marginal cost + (fixed costs + target profit) ÷ expected units | Marginal cost is only a short-term floor | Rival prices; whether the volume survives the new price |
+| Optimum use of scarce resources | Contribution ÷ scarce input per unit, ranked; fill demand down the list in whole units | Confirm the input really is short first | Goodwill of customers whose product is cut back |
+| Closing a potentially loss-making line or production department | Contribution given up against **avoidable** fixed costs, plus income from freed space | Apportioned shared costs stay | Jobs, buyers who purchase across lines, public image |
+| Target profit | (Fixed costs + target profit) ÷ contribution per unit | Round **up**, and test for a stepped cost at the new volume | Is that volume realistic? |
 
 ## Pairs not to confuse
 
-- **Full cost vs marginal cost:** full cost includes a share of fixed overheads; short-term decisions rely on marginal cost.
-- **Contribution vs profit:** contribution is before fixed costs. A line with positive contribution helps the business even when it "loses" money after apportionment.
-- **Per unit vs per unit of limiting factor:** when an input is short, rank by the second.
-- **Avoidable vs unavoidable fixed costs:** only avoidable ones count in closure and make-or-buy decisions.
-- **Semi-variable vs stepped:** semi-variable climbs smoothly from a fixed base; stepped is flat, then jumps.
-- **Break-even units vs break-even revenue:** label which one you have given.
+- **Full cost and marginal cost.** The first carries absorbed overheads; the second is what changes if one more unit is made.
+- **Contribution and profit.** A department showing a "loss" after its share of overheads may still be earning a healthy contribution.
+- **Contribution per unit and per unit of scarce input.** The first ranks products only when nothing is in short supply.
+- **Avoidable and unavoidable fixed costs.** A closure or a decision to buy in saves the first kind only.
+- **Semi-variable and stepped.** Picture a ramp starting above zero versus a staircase.
+- **Break-even in units and in dollars.** Always write which one you are giving.
 
 ## Quick self-test
 
-1. A sales representative is paid a retainer of 900 a month plus 3% commission on sales. Classify the cost by behaviour and calculate it for a month with sales of 50,000.
+1. A warehouse pays 1,800 a month for each forklift driver, and one driver can move up to 12,000 cartons a month. Classify the cost by behaviour and calculate it for a month of 30,000 cartons.
 2. A product sells for 22 and has a marginal cost of 13.50. Calculate contribution per unit.
 3. Using question 2, fixed costs are 40,800. Calculate the break-even point in units.
 4. Calculate the break-even revenue for question 3.
 5. How many units give a profit of 17,000 in question 3?
 6. How many units give a profit of 12,000 in question 3?
-7. A component has a marginal cost of 4.70 to make and can be bought for 4.45. Fixed costs are unaffected. What is the effect on profit of buying 8,000?
+7. A bracket costs 3.20 in marginal cost to make; a supplier charges 3.60. Buying all 10,000 needed would end a 5,000 tooling lease. What is the effect on profit of buying?
 8. In question 2 there is spare capacity. A one-off order for 600 units at 16 needs no extra costs. What is the effect on profit?
-9. Material is scarce. Product M: contribution 27, uses 3 kg. Product N: contribution 20, uses 2 kg. Which is made first?
-10. A production department has contribution of 14,500 and apportioned fixed costs of 18,000, of which 9,000 is avoidable. Calculate the change in profit from closing it.
+9. Skilled labour is short. Product R earns contribution of 18 using 1.5 hours; product S earns 30 using 3 hours. Which takes priority?
+10. A department earns contribution of 22,000. Closing it would end 15,000 of fixed costs, and the space could be sublet for 4,000 a year. Calculate the change in profit.
 11. Closing inventory is 350 units with a marginal cost of 13.50. Value it under marginal costing.
 
 ### Answers
 
-1. Semi-variable (indirect). 900 + (3% × 50,000) = **2,400**.
+1. Stepped. 30,000 cartons need 3 drivers: 3 × 1,800 = **5,400**.
 2. 22 − 13.50 = **8.50**.
 3. 40,800 ÷ 8.50 = **4,800 units**.
 4. 4,800 × 22 = **105,600**.
 5. (40,800 + 17,000) ÷ 8.50 = **6,800 units**.
 6. (40,800 + 12,000) ÷ 8.50 = 6,211.8, so **6,212 units** (round up).
-7. Saves 0.25 per unit: 8,000 × 0.25 = **2,000 higher profit**, before non-financial factors.
+7. Extra cost 10,000 × 0.40 = 4,000; lease saved 5,000: profit **rises by 1,000**, before non-financial factors.
 8. 600 × (16 − 13.50) = **1,500 higher profit**.
-9. M: 27 ÷ 3 = 9 per kg. N: 20 ÷ 2 = 10 per kg. **N first.**
-10. Lose 14,500, save 9,000: profit **falls by 5,500**. Keep it open on financial grounds.
+9. R: 18 ÷ 1.5 = 12 per hour. S: 30 ÷ 3 = 10 per hour. **R first**, despite its lower contribution per unit.
+10. −22,000 + 15,000 + 4,000: profit **falls by 3,000**. Keep it open on financial grounds.
 11. 350 × 13.50 = **4,725**.
 
 ## Where marks are usually lost
 
-- Putting absorbed fixed overheads into the cost of making in a make-or-buy answer.
-- Accepting additional work without checking capacity or deducting lost normal sales.
-- Forgetting the extra variable cost of a special order (packaging, logos, delivery).
-- Ranking by contribution per unit when the question names a scarce input.
-- Allocating a fraction of a unit in a scarce-resource plan.
-- Counting every apportioned fixed cost as a saving when a department closes.
-- Rounding target-profit or break-even units down.
-- Reading break-even where revenue crosses the fixed cost line.
-- Valuing closing inventory at full cost in a marginal costing profit statement.
-- Recommending with no non-financial factor when the question asks you to advise or evaluate.
+- A make-or-buy comparison that quietly includes absorbed overheads in the cost of making.
+- A special order accepted at full capacity with no charge for displaced regular sales.
+- Leaving out an order's own costs, such as logos, extra packaging or delivery.
+- Half a product in a limiting-factor schedule: plans use whole units.
+- A closure saving that counts overheads which would simply be reshared.
+- Break-even or target-profit volumes rounded down, so the target is missed.
+- Closing inventory carried at full cost in a marginal costing statement.
+- An "advise" or "evaluate" answer that ends without a decision or ignores non-financial points.
 
 Next: [practice questions](/resources/oxfordaqa-a-level-accounting-marginal-costing-practice/) · [study guide](/resources/oxfordaqa-a-level-accounting-marginal-costing/)
 

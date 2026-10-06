@@ -110,7 +110,7 @@ At 28 February 2026: inventory 25,100; rent prepaid 1,500; depreciation on premi
 ## Answers
 
 **1.** Bank 240,000 x 0.38 = **91,200** [1]. Ordinary share capital 240,000 x 0.10 = **24,000** [1]. Share premium 240,000 x 0.28 = **67,200** [1]. **[3]**
-*Examiner insight:* Show the premium per share (0.28) in your working so that method can be credited.
+*Examiner insight:* Show the premium per share (0.28) in your working, then check that capital plus premium equals the cash received.
 
 **2. (a)** **Non-current liabilities** [1]
 **(b)** **Current liabilities** [1]
@@ -141,7 +141,7 @@ Closing balances **260,000 / 39,000 / 14,500 / 313,500** [1]. **[6]**
 **6. (a)** Opening retained earnings + profit - dividends = closing, so dividends = 58,400 + 34,900 - 81,300 [1] = **12,000** [1].
 **(b)** Shares at start 150,000 / 0.50 = 300,000; at end 180,000 / 0.50 = 360,000 [1]; shares issued **60,000** [1].
 **(c)** Premium per share (42,000 - 12,000) / 60,000 = 0.50 [1]; issue price 0.50 + 0.50 = **1.00** [1]. **[6]**
-*Examiner insight:* Dividing the increase in share capital by the nominal value, not by 1, is the step most often missed in (b).
+*Examiner insight:* In (b), divide the increase in share capital by the nominal value (0.50), not by 1; share capital is recorded at nominal value only.
 
 **7.** Remove dividends paid from the expenses [1]. Profit from operations 190,000 - 120,600 = **69,400** [1]. Finance cost 12% x 50,000 = 6,000 [1]. Profit before tax 69,400 - 6,000 = **63,400** [1]. Taxation deducted 10,500 [1]. Profit after tax **52,900** [1]. **[6]**
 *Examiner insight:* Set out the corrected three profit lines in full rather than adjusting the trainee's single total.
@@ -212,7 +212,7 @@ Total equity and liabilities              246,600
 ```
 
 Non-current assets [1]; current assets [1]; equity [1]; debentures as non-current [1]; current liabilities including interest owing and taxation [1]; both totals **246,600** [1]. **[16]**
-*Examiner insight:* Each statement is credited on its own, so carry your own profit after tax into (b) and your own closing equity into (c) even if an earlier figure is wrong.
+*Examiner insight:* If you doubt an earlier figure, still carry your own profit after tax into (b) and your own closing equity into (c) rather than leaving gaps, so each statement is complete and correctly laid out.
 
 ## Where marks are usually lost
 

@@ -25,8 +25,8 @@ For full explanations and longer worked examples, read the
 section 3.1.9, Budgeting, of the OxfordAQA International AS and A-level Accounting (9615) specification,
 Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June
 2026 onwards. Section 3.1.9 is International AS content on Paper 2: Financial & Management Accounting.
-The specification states that the cash, sales, purchases, production and labour budgets are assessed at
-A-level; those notes are marked **International A-level only**.
+The specification states that the cash, sales, purchases, production and labour budgets "will be assessed
+at A-level"; those notes are marked **Assessed at A-level**.
 
 Links: [course hub](/boards/oxfordaqa/a-level/accounting/),
 [printable checklist](/checklists/oxfordaqa/a-level/accounting/),
@@ -51,7 +51,7 @@ Planning, co-ordination, communication, control, motivation and responsibility. 
 name the purpose and link it to a consequence: "co-ordination -- the purchases budget is based on
 planned production, so materials arrive when the factory needs them".
 
-## Formulas (International A-level only, except the last three rows)
+## Formulas
 
 | Budget or figure | Formula |
 |---|---|
@@ -65,14 +65,14 @@ planned production, so materials arrive when the factory needs them".
 | Cost of sales | inventory at start + purchases - inventory at end |
 | Closing capital | capital at start + profit for the year - drawings |
 
-The last three are needed for budgeted statements at International AS.
+The first five rows are for the functional budgets, assessed at A-level. The last four are needed for budgeted statements at International AS.
 
 ## Order of preparation
 
 Sales, then production, then materials usage, purchases and labour, then the cash budget, and finally
 the budgeted income statement and statement of financial position, which draw on all the others.
 
-## Method in steps: functional budgets (International A-level only)
+## Method in steps: functional budgets (Assessed at A-level)
 
 1. Sales budget in units, then money.
 2. Production budget: use the closing inventory rule given, then carry each closing figure forward as
@@ -84,7 +84,7 @@ the budgeted income statement and statement of financial position, which draw on
 **Worked reminder.** Kelvara Hammocks plans sales of 900 hammocks, holds 120 at the start and wants 150 at the
 end. Production = 900 + 150 - 120 = **930 hammocks**.
 
-## Method in steps: cash budget (International A-level only)
+## Method in steps: cash budget (Assessed at A-level)
 
 1. Set out columns by month; receipts first, then payments.
 2. Split sales into cash and credit; place credit receipts in the month the customer pays.

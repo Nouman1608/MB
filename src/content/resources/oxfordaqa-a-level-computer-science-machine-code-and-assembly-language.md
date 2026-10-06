@@ -169,16 +169,16 @@ Location 84 ends up holding **54**. Without indirect addressing you would need f
 
 Logical operations work on each bit position separately. Shifts move every bit; the bits that fall off the end are lost and 0s come in. The appendix does not set a register size, so for these examples take registers as **8 bits**.
 
-**Worked example.** R1 holds 10110110 (182).
+**Worked example.** R1 holds 11101110 (238).
 
 | Instruction | Result in binary | Denary | Use |
 |---|---|---|---|
-| `AND R2, R1, #15` | 00000110 | 6 | Mask: keep the low 4 bits, clear the rest |
-| `ORR R3, R1, #1` | 10110111 | 183 | Set bit 0 |
-| `EOR R4, R1, #255` | 01001001 | 73 | Flip every bit |
-| `MVN R5, R1` | 01001001 | 73 | NOT gives the same flip |
-| `LSL R6, R1, #1` | 01101100 | 108 | Top 1 lost, so not 2 × 182 |
-| `LSR R7, R1, #2` | 00101101 | 45 | 182 ÷ 4 = 45.5, fraction dropped |
+| `AND R2, R1, #15` | 00001110 | 14 | Mask: keep the low 4 bits, clear the rest |
+| `ORR R3, R1, #1` | 11101111 | 239 | Set bit 0 |
+| `EOR R4, R1, #255` | 00010001 | 17 | Flip every bit |
+| `MVN R5, R1` | 00010001 | 17 | NOT gives the same flip |
+| `LSL R6, R1, #1` | 11011100 | 220 | Top 1 lost, so not 2 × 238 |
+| `LSR R7, R1, #2` | 00111011 | 59 | 238 ÷ 4 = 59.5, fraction dropped |
 
 For an unsigned value, a logical shift left by n multiplies by 2ⁿ as long as no 1 bits are pushed out. A logical shift right by n divides by 2ⁿ and discards the remainder. `#15` is 00001111 in binary, which is why it works as a mask for the lower half.
 

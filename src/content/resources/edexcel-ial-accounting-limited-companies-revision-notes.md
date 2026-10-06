@@ -64,7 +64,7 @@ Other links: [Edexcel A-Level Accounting hub](/boards/edexcel/a-level/accounting
 | Foreign exchange | Capital | Translation gains credited through other comprehensive income |
 | Capital redemption | Capital | Dr Retained earnings, Cr Capital redemption reserve (nominal value of shares bought back out of profits) |
 
-**Uses:** revenue reserves can fund dividends. Share premium and capital redemption reserve can pay up bonus shares; share premium can also absorb share issue costs. The revaluation reserve is moved straight to retained earnings when the asset is sold or used up. The foreign exchange reserve goes to profit or loss when the foreign operation is disposed of.
+**Uses:** revenue reserves can fund dividends. Share premium and capital redemption reserve can pay up bonus shares; share premium can also absorb share issue costs. The revaluation reserve may be moved straight to retained earnings when the asset is sold or used up. The foreign exchange reserve goes to profit or loss when the foreign operation is disposed of.
 
 ## 2.1.6–2.1.8 Share capital and share issues
 

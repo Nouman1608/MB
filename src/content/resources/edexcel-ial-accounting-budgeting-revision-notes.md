@@ -153,8 +153,8 @@ Flexed profit minus fixed budget profit shows the effect of selling a different 
 
 ## Quick self-test
 
-1. Morwen Ltd plans sales of 2,400 units. Opening finished goods are 300 units and closing finished goods 360 units. Calculate production.
-2. Morwen Ltd uses 3 kg of material per unit. Opening material is 900 kg and closing 1,000 kg. Using your answer to question 1, calculate purchases in kg.
+1. Corriston Ltd plans sales of 2,400 units. Opening finished goods are 300 units and closing finished goods 360 units. Calculate production.
+2. Corriston Ltd uses 3 kg of material per unit. Opening material is 900 kg and closing 1,000 kg. Using your answer to question 1, calculate purchases in kg.
 3. Quillon Ltd: opening trade receivables 18,000; credit sales 64,000; receipts 59,500; discounts allowed 900; irrecoverable debts 600. Calculate closing trade receivables.
 4. Opening trade payables 12,400; credit purchases 38,000; payments 36,900; discounts received 500. Calculate closing trade payables.
 5. Credit sales were 30,000 in March and 36,000 in April. Customers pay 40% in the month after sale and 55% two months after; 5% become irrecoverable. Calculate receipts in May.

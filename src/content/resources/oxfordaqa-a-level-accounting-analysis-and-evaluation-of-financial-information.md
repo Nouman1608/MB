@@ -150,9 +150,9 @@ Revenue grew by 11.61%, yet profit for the year fell by 1,600.
 - **Profitability.** Each dollar of sales earns less gross profit, perhaps from discounts to builders or supplier price rises not passed on. Overheads are not the problem: expenses to revenue improved slightly. ROCE slipped because profit fell while capital employed rose.
 - **Liquidity.** Both ratios rose, yet the bank balance fell from 14,000 to 5,000. The rise comes from more inventory and receivables, which cannot pay a supplier today.
 - **Efficiency.** Inventory sits three and a half days longer, customers take four days longer to pay, and Varrow pays suppliers seven and a half days faster. All three drain cash.
-- **Capital structure.** Gearing fell as 10,000 of the loan was repaid and capital grew. It is low, so Varrow could borrow if needed.
+- **Capital structure.** Gearing fell as 10,000 of the loan was repaid and capital grew. With barely a fifth of long-term funds borrowed, Varrow has spare borrowing capacity.
 
-Conclusion: growth has been bought with thinner margins and slacker working capital control. The owner should review discounts and chase builders' debts.
+Conclusion: Varrow is selling more but keeping less, and its working capital is being managed less tightly. The owner should review discounts and chase builders' debts.
 
 ## A limited company: Ravensholt Kilnworks Ltd
 
@@ -175,7 +175,7 @@ Profit is revenue earned less expenses incurred, under the accruals concept. The
 - **Inventory.** Cash spent on goods still unsold is not yet an expense.
 - **Non-cash expenses.** Depreciation and the provision for doubtful debts reduce profit but move no money.
 - **Capital items.** Buying a non-current asset uses cash, but only depreciation reaches the income statement.
-- **Owner and finance flows.** Capital introduced, drawings and loans affect the bank but never appear as income or expenses.
+- **Owner and finance flows.** Money the owner puts in or takes out, and loans raised or repaid, change the bank balance but sit outside the income statement.
 
 ### Worked example: where Varrow's profit went
 
@@ -230,8 +230,6 @@ The specification expects limitations relating to both financial and non-financi
 - Changes in the market, new competitors and technology are outside the statements.
 - Environmental and social impact are not measured.
 
-Use limitations to qualify a judgement.
-
 ## Common errors
 
 - Working out markup on revenue rather than on cost of sales.
@@ -240,7 +238,6 @@ Use limitations to qualify a judgement.
 - Adding interest back for sole trader ROCE, which this specification's formula does not do.
 - Taking profit for the year, not profit from operations, as the numerator for company ROCE.
 - Writing the current ratio as a percentage. It is expressed as x : 1.
-- Calling every rise in the current ratio good.
 
 Then move on to the [revision notes](/resources/oxfordaqa-a-level-accounting-analysis-and-evaluation-of-financial-information-revision-notes/) and the [practice questions](/resources/oxfordaqa-a-level-accounting-analysis-and-evaluation-of-financial-information-practice/). The [exam preparation guide](/resources/oxfordaqa-a-level-accounting-exam-preparation/) outlines the papers.
 

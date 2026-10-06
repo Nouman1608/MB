@@ -61,7 +61,7 @@ Calculate the gearing ratio for each year and comment on the change. **[5]**
 **(b)** Explain why showing discontinued operations separately is useful to an investor. **[2]**
 **(c)** State why the impairment is disclosed separately. **[1]**
 
-**8.** Marrick Brewing plc's equity at 1 June 2025: ordinary shares of 1.00, 700,000; share premium 85,000; revaluation reserve 120,000; foreign exchange reserve 18,000; general reserve 40,000; retained earnings 265,000. During the year to 31 May 2026:
+**8.** Skelbrook Brewing plc's equity at 1 June 2025: ordinary shares of 1.00, 700,000; share premium 85,000; revaluation reserve 120,000; foreign exchange reserve 18,000; general reserve 40,000; retained earnings 265,000. During the year to 31 May 2026:
 
 - 50,000 own shares bought back at par out of distributable profits, and cancelled
 - exchange gain of 14,000 on translating its overseas branch (a foreign operation)
@@ -69,7 +69,7 @@ Calculate the gearing ratio for each year and comment on the change. **[5]**
 - dividend of 0.08 per share paid on the shares in issue after the buy-back
 - 25,000 transferred to the general reserve.
 
-Prepare Marrick's statement of changes in equity for its year to 31 May 2026. **[9]**
+Prepare Skelbrook's statement of changes in equity for its year to 31 May 2026. **[9]**
 
 **9.** **(a)** Explain the role of the auditor in corporate governance. **[2]**
 **(b)** State two items included in a Directors' Report. **[2]**
