@@ -66,9 +66,9 @@ Identify A, B and C, giving one piece of evidence for each. Suggest one further 
 **(b)** Explain why a fresh sample should be used for each reagent. **[1]**
 **(c)** State one hazard of a reagent used in this practical and a precaution to reduce the risk. **[2]**
 
-**9.** (calculator allowed) A solution of [Fe(H₂O)₆]³⁺ has a concentration of 0.150 mol dm⁻³. Treat it as a weak monoprotic acid with Ka = 6.0 × 10⁻³ mol dm⁻³, and use the usual weak-acid approximation. Calculate the pH. **[3]**
+**9.** A solution of [Fe(H₂O)₆]³⁺ has a concentration of 0.150 mol dm⁻³. Treat it as a weak monoprotic acid with Ka = 6.0 × 10⁻³ mol dm⁻³, and use the usual weak-acid approximation. Calculate the pH. **[3]**
 
-**10.** (calculator allowed) 25.0 cm³ of 0.200 mol dm⁻³ [Fe(H₂O)₆]³⁺(aq) reacts with excess sodium carbonate solution.
+**10.** 25.0 cm³ of 0.200 mol dm⁻³ [Fe(H₂O)₆]³⁺(aq) reacts with excess sodium carbonate solution.
 
 **(a)** Write the equation for the reaction. **[1]**
 **(b)** Calculate the mass of [Fe(H₂O)₃(OH)₃] precipitate formed and the mass of carbon dioxide released. (Ar: Fe = 55.8, C = 12.0, O = 16.0, H = 1.0) **[4]**

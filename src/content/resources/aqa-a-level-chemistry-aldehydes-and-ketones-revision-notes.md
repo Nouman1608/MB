@@ -34,15 +34,15 @@ across the course, use the [free 10-minute diagnostics](/diagnostics/).
 
 ## Checklist for 3.3.8 (all A-level only)
 
-- [ ] Aldehydes are readily oxidised to carboxylic acids.
-- [ ] Tollens' reagent and Fehling's solution distinguish aldehydes from ketones.
-- [ ] NaBH₄ in aqueous solution: aldehyde → primary alcohol, ketone → secondary alcohol (nucleophilic addition).
-- [ ] Overall reduction equations with [H].
-- [ ] Mechanism for NaBH₄ reduction, with H⁻ as the nucleophile.
-- [ ] KCN followed by dilute acid gives hydroxynitriles; overall equations with HCN.
-- [ ] Mechanism for KCN followed by dilute acid.
-- [ ] Why aldehydes and unsymmetrical ketones give a mixture of enantiomers.
-- [ ] Hazards of using KCN.
+- Aldehydes are readily oxidised to carboxylic acids.
+- Tollens' reagent and Fehling's solution distinguish aldehydes from ketones.
+- NaBH₄ in aqueous solution: aldehyde → primary alcohol, ketone → secondary alcohol (nucleophilic addition).
+- Overall reduction equations with [H].
+- Mechanism for NaBH₄ reduction, with H⁻ as the nucleophile.
+- KCN followed by dilute acid gives hydroxynitriles; overall equations with HCN.
+- Mechanism for KCN followed by dilute acid.
+- Why aldehydes and unsymmetrical ketones give a mixture of enantiomers.
+- Hazards of using KCN.
 
 ## Key definitions
 

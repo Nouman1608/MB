@@ -90,7 +90,7 @@ The syllabus also lists MAXIF and MINIF with this family. Function names are exa
 
 - A criterion with an operator goes in quotes: `COUNTIF(D2:D40,">=50")`.
 - To compare with a cell or a function, join the operator on with `&`: `COUNTIF(D2:D40,">="&H1)` or `COUNTIFS(B2:B40,">="&DATE(2026,1,1))`.
-- Text criteria also go in quotes: `SUMIF(C2:C40,"Paid",E2:E40)`.
+- Text criteria also go in quotes: `SUMIF(C2:C9,"Paid",E2:E9)`.
 - In the IFS family, every criteria range must be the same size as the result range.
 
 ### Method: subtotals in steps

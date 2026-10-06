@@ -70,7 +70,7 @@ minor product. **[2]**
 **(a)** Identify the electrophile. **[1]**
 **(b)** Outline the mechanism for the formation of the major product. **[4]**
 
-**7.** (calculator) A sample of 1.12 g of a non-cyclic alkene reacts with exactly 3.20 g of bromine,
+**7.** A sample of 1.12 g of a non-cyclic alkene reacts with exactly 3.20 g of bromine,
 Br₂. One Br₂ molecule adds to each alkene molecule.
 
 **(a)** Calculate the Mr of the alkene and deduce its molecular formula. **[3]**
@@ -93,7 +93,7 @@ it is present. **[2]**
 **(c)** Poly(chloroethene) is used both for rigid window frames and for flexible electrical cable
 insulation. Explain how the same polymer can suit both uses. **[2]**
 
-**10.** (calculator) A sample of poly(propene) has an average Mr of 2.10 × 10⁵.
+**10.** A sample of poly(propene) has an average Mr of 2.10 × 10⁵.
 
 **(a)** Calculate the average number of propene units in one chain. **[2]**
 **(b)** State the atom economy of addition polymerisation and give a reason. **[1]**
@@ -108,7 +108,7 @@ minor product. **[2]**
 **(c)** Explain, with reference to the intermediates, why more of the major product forms. **[3]**
 **(d)** State why each alkene gives only one product with bromine. **[1]**
 
-**12.** (calculator) A student bubbles 0.700 g of ethene into excess bromine and obtains 3.99 g of pure
+**12.** A student bubbles 0.700 g of ethene into excess bromine and obtains 3.99 g of pure
 1,2-dibromoethane.
 
 **(a)** Write an equation for the reaction. **[1]**

@@ -58,12 +58,12 @@ From the Department for Education's content document, common to all exam boards.
 
 Tick each one for the current data set.
 
-- [ ] what each variable measures, and its units
-- [ ] which variables are categorical and which are numerical
-- [ ] what one row (one individual) represents
-- [ ] how missing values are shown
-- [ ] typical values, spread and skew of the main variables
-- [ ] what the data cannot tell you
+- what each variable measures, and its units
+- which variables are categorical and which are numerical
+- what one row (one individual) represents
+- how missing values are shown
+- typical values, spread and skew of the main variables
+- what the data cannot tell you
 
 ## Technology
 

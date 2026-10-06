@@ -63,16 +63,16 @@ the specification describes as insoluble. **[2]**
 **(c)** State one observation when calcium is added to cold water. **[1]**
 **(d)** Use oxidation states to identify the species reduced in the reaction in (a). **[2]**
 
-**6.** (calculator allowed) Titanium is extracted by the reaction TiCl₄ + 2Mg → Ti + 2MgCl₂.
+**6.** Titanium is extracted by the reaction TiCl₄ + 2Mg → Ti + 2MgCl₂.
 
 **(a)** State the role of magnesium in this reaction. Use oxidation states to explain your answer. **[2]**
 **(b)** A batch uses 3.50 kg of TiCl₄ and 1.00 kg of magnesium. Show that TiCl₄ is the limiting reagent and
 calculate the maximum mass of titanium formed, in grams, to 3 significant figures. **[4]**
 
-**7.** (calculator allowed) 0.120 g of calcium reacts completely with excess water. Calculate the volume of
+**7.** 0.120 g of calcium reacts completely with excess water. Calculate the volume of
 hydrogen formed, in cm³, at 100 kPa and 298 K. **[3]**
 
-**8.** (calculator allowed) A student makes a saturated solution of calcium hydroxide and filters it. A 25.0 cm³
+**8.** A student makes a saturated solution of calcium hydroxide and filters it. A 25.0 cm³
 sample of the filtrate needs 20.0 cm³ of 0.0500 mol dm⁻³ hydrochloric acid for neutralisation.
 
 **(a)** Write an equation for the reaction. **[1]**
@@ -87,11 +87,11 @@ volumes and acid. Predict how the titre will change, and explain your answer. **
 **(b)** Explain why the solution is acidified first. Include an equation. **[2]**
 **(c)** Explain why sulfuric acid must not be used to acidify the solution. **[1]**
 
-**10.** (calculator allowed) A 1.20 g sample of impure Epsom salt, MgSO₄·7H₂O, is dissolved in water.
+**10.** A 1.20 g sample of impure Epsom salt, MgSO₄·7H₂O, is dissolved in water.
 Excess acidified barium chloride is added. The precipitate is filtered, washed and dried; its mass is
 1.10 g. Calculate the percentage purity of the sample. Assume the impurities contain no sulfate. **[4]**
 
-**11.** (calculator allowed) A coal-fired power station produces 2.40 tonnes of sulfur dioxide per hour.
+**11.** A coal-fired power station produces 2.40 tonnes of sulfur dioxide per hour.
 The SO₂ is removed from the flue gases using calcium oxide.
 
 **(a)** Explain why calcium oxide can remove sulfur dioxide. **[1]**

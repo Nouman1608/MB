@@ -38,12 +38,12 @@ Learn the content first with the [study guide](/resources/a-level-cambridge-ict-
 
 | EntryID | Student | House | Event | Time (s) |
 |---|---|---|---|---|
-| E01 | Ali Hassan | Red | 100m | 13.2 |
-| E02 | Maryam Javed | red | 100m | 14.0 |
-| E03 | Usman Tariq | Blue | 200m | |
-| E02 | Maryam Javed | red | 100m | 14.0 |
-| E04 | Noor Fatima | Green | 100m | 1.38 |
-| E05 | Hamza Iqbal | Yelow | 200m | 29.5 |
+| A01 | Ali Hassan | Red | 100m | 13.2 |
+| A02 | Maryam Javed | red | 100m | 14.0 |
+| A03 | Usman Tariq | Blue | 200m | |
+| A02 | Maryam Javed | red | 100m | 14.0 |
+| A04 | Noor Fatima | Green | 100m | 1.38 |
+| A05 | Hamza Iqbal | Yelow | 200m | 29.5 |
 
 **(a)** Identify **three** different problems with this data. **[3]**
 **(b)** Describe how each problem you identified in (a) should be dealt with. **[3]**
@@ -110,8 +110,8 @@ This formula is entered in B2 of the Mall worksheet and copied down to B5:
 **1.** Any two: duplicate records are counted twice, inflating totals [1]; inconsistent spellings split one group into several, and missing or invalid values distort totals and averages, so conclusions would be wrong [1]. **[2]**
 *Examiner insight:* Two separate reasons are needed; "to make it accurate" said twice in different words is one point.
 
-**2. (a)** Any three: E02 is duplicated [1]; E03 has no time recorded [1]; E04's time of 1.38 s is not possible for 100m [1]. (Also accept: "red" capitalised inconsistently; "Yelow" misspelt.)
-**(b)** Delete the second E02 record, keeping one copy [1]. Obtain E03's time from the event officials, or exclude it and report it; do not guess [1]. Check E04's time against the original record and correct it, adding a validation rule for future entries [1]. **[6]**
+**2. (a)** Any three: A02 is duplicated [1]; A03 has no time recorded [1]; A04's time of 1.38 s is not possible for 100m [1]. (Also accept: "red" capitalised inconsistently; "Yelow" misspelt.)
+**(b)** Delete the second A02 record, keeping one copy [1]. Obtain A03's time from the event officials, or exclude it and report it; do not guess [1]. Check A04's time against the original record and correct it, adding a validation rule for future entries [1]. **[6]**
 *Examiner insight:* Each action in (b) should match a problem from (a); a general "check the data" does not show how each problem is fixed.
 
 **3. (a)** **11** [1] **[1]**

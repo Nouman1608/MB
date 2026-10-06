@@ -45,43 +45,43 @@ The answers show one acceptable response with a [1] for each creditworthy point.
 
 **4.** Describe how a spreadsheet can be set up so that users can type in the Hours column but cannot change the formulas in the Cost column. **[3]**
 
-**5.** A bike hire shop records hires in rows 21 to 28. Hourly rates are in H20:I22 (E-bike 12, Mountain 8, Road 6).
+**5.** A bike hire shop records hires in rows 2 to 9. Hourly rates are in H1:I3 (E-bike 12, Mountain 8, Road 6).
 
 | Row | A ID | B Date | C Bike | D Hours | E Cost |
 |---|---|---|---|---|---|
-| 21 | BH-0457-E | 06/06/2026 | E-bike | 3 | 36 |
-| 22 | BH-0458-R | 06/06/2026 | Road | 2 | 12 |
-| 23 | BH-0461-M | 07/06/2026 | Mountain | 5 | 40 |
-| 24 | BH-0462-E | 07/06/2026 | E-bike | 1 | 12 |
-| 25 | BH-0470-R | 09/06/2026 | Road | 6 | 36 |
-| 26 | BH-0473-E | 10/06/2026 | E-bike | 4 | 48 |
-| 27 | BH-0475-M | 12/06/2026 | Mountain | 2 | 16 |
-| 28 | BH-0478-E | 13/06/2026 | E-bike | 2 | 24 |
+| 2 | BH-0457-E | 06/06/2026 | E-bike | 3 | 36 |
+| 3 | BH-0458-R | 06/06/2026 | Road | 2 | 12 |
+| 4 | BH-0461-M | 07/06/2026 | Mountain | 5 | 40 |
+| 5 | BH-0462-E | 07/06/2026 | E-bike | 1 | 12 |
+| 6 | BH-0470-R | 09/06/2026 | Road | 6 | 36 |
+| 7 | BH-0473-E | 10/06/2026 | E-bike | 4 | 48 |
+| 8 | BH-0475-M | 12/06/2026 | Mountain | 2 | 16 |
+| 9 | BH-0478-E | 13/06/2026 | E-bike | 2 | 24 |
 
 **(a)** Write a formula to count the E-bike hires. **[1]**
 **(b)** Write a formula to total the cost of E-bike hires longer than 2 hours. **[2]**
 **(c)** State the result of your formula in (b). **[1]**
 
-**6.** E21 contains `=D21*VLOOKUP(C21,$H$20:$I$22,2,FALSE)`.
+**6.** E2 contains `=D2*VLOOKUP(C2,$H$1:$I$3,2,FALSE)`.
 
-**(a)** Explain the purpose of `$H$20:$I$22`, `2` and `FALSE`. **[3]**
+**(a)** Explain the purpose of `$H$1:$I$3`, `2` and `FALSE`. **[3]**
 **(b)** A hire of type "Tandem" is entered. Rewrite the formula so the cell shows "Check bike type" instead of an error. **[2]**
 
 **7.** State the result of each formula, using the table in question 5. **[4]**
 
-`=LEFT(A21,2)`, `=MID(A21,4,4)`, `=VALUE(MID(A21,4,4))+1`, `=FIND("-",A21,4)`
+`=LEFT(A2,2)`, `=MID(A2,4,4)`, `=VALUE(MID(A2,4,4))+1`, `=FIND("-",A2,4)`
 
 **8.** Hires of 5 hours or more get 20% off; hires of 3 or 4 hours get 10% off; shorter hires pay full cost.
 
-**(a)** Write a formula for F21 that gives the discounted cost. **[3]**
-**(b)** State the results in F21 and F23. **[2]**
+**(a)** Write a formula for F2 that gives the discounted cost. **[3]**
+**(b)** State the results in F2 and F4. **[2]**
 
 **9.** The Hours column must accept only whole numbers from 1 to 12. Complete a test plan with one item of normal data, the extreme data and two different items of abnormal data, giving the expected result of each, and explain why extreme data is tested. **[6]**
 
 **10.** 6 June 2026 was a Saturday.
 
-**(a)** State the result of `=WEEKDAY(B21)`. **[1]**
-**(b)** Bikes must be returned within 7 days. Write a formula for the return-by date of the hire in row 21 and state its result. **[2]**
+**(a)** State the result of `=WEEKDAY(B2)`. **[1]**
+**(b)** Bikes must be returned within 7 days. Write a formula for the return-by date of the hire in row 2 and state its result. **[2]**
 **(c)** Write a formula to count E-bike hires on or after 7 June 2026, and state its result. **[2]**
 
 **11.** The manager wants total takings for each bike type.
@@ -111,28 +111,28 @@ The answers show one acceptable response with a [1] for each creditworthy point.
 **4.** Clear the **locked** setting on the Hours cells [1]; leave the Cost cells **locked** [1]; then **protect the worksheet**, ideally with a password [1].
 *Examiner insight:* the order matters; protecting the sheet first would lock the Hours cells too.
 
-**5. (a)** **`=COUNTIF(C21:C28,"E-bike")`** [1]
-**(b)** `=SUMIFS(E21:E28,` with the cost range first [1], then `C21:C28,"E-bike",D21:D28,">2")` [1]
+**5. (a)** **`=COUNTIF(C2:C9,"E-bike")`** [1]
+**(b)** `=SUMIFS(E2:E9,` with the cost range first [1], then `C2:C9,"E-bike",D2:D9,">2")` [1]
 **(c)** **84** [1]
 *Examiner insight:* the criterion `">2"` must be in quotes; writing `>2` without quotes gives an invalid formula.
 
-**6. (a)** `$H$20:$I$22` is the rate table, **absolute** so it does not move when copied [1]; `2` returns the value from the table's **second column** (the rate) [1]; `FALSE` forces an **exact match** on the bike type [1].
-**(b)** IFERROR wraps the whole calculation [1]: **`=IFERROR(D21*VLOOKUP(C21,$H$20:$I$22,2,FALSE),"Check bike type")`** [1]
+**6. (a)** `$H$1:$I$3` is the rate table, **absolute** so it does not move when copied [1]; `2` returns the value from the table's **second column** (the rate) [1]; `FALSE` forces an **exact match** on the bike type [1].
+**(b)** IFERROR wraps the whole calculation [1]: **`=IFERROR(D2*VLOOKUP(C2,$H$1:$I$3,2,FALSE),"Check bike type")`** [1]
 *Examiner insight:* "absolute" alone is not enough; the mark needs the reason, that the reference stays fixed when copied.
 
 **7.** **BH** [1]; **"0457"** (text) [1]; **458** [1]; **8** [1].
 *Examiner insight:* MID returns text, so "0457" keeps its leading zero; only VALUE turns it into a number.
 
-**8. (a)** Test the highest band first, `=IF(D21>=5,E21*0.8,` [1], then nest the second test `IF(D21>=3,E21*0.9,` [1], with full cost last, `E21))` [1].
-**(b)** F21: **32.4** [1]; F23: **32** [1].
+**8. (a)** Test the highest band first, `=IF(D2>=5,E2*0.8,` [1], then nest the second test `IF(D2>=3,E2*0.9,` [1], with full cost last, `E2))` [1].
+**(b)** F2: **32.4** [1]; F4: **32** [1].
 *Examiner insight:* allow follow-through in (b) from a correct-logic formula in (a), but testing `>=3` first gives the 5-hour hire only 10% off (36 instead of 32).
 
 **9.** Normal: **6**, accepted [1]. Extreme: **1**, accepted [1]; **12**, accepted [1]. Abnormal: **13** (out of range), rejected with error message [1]; **"six"** or **2.5** (wrong type), rejected with error message [1]. Extreme data checks the rule uses the **right boundary operators**, e.g. `<=` not `<` [1].
 *Examiner insight:* each item needs an expected result; a list of values with no "accepted" or "rejected" loses those marks.
 
 **10. (a)** **7** [1]
-**(b)** `=B21+7` [1], giving **13/06/2026** [1]
-**(c)** `=COUNTIFS(C21:C28,"E-bike",B21:B28,">="&DATE(2026,6,7))` [1], giving **3** [1]
+**(b)** `=B2+7` [1], giving **13/06/2026** [1]
+**(c)** `=COUNTIFS(C2:C9,"E-bike",B2:B9,">="&DATE(2026,6,7))` [1], giving **3** [1]
 *Examiner insight:* in (c) the date must be joined to `">="` with `&`; writing `">=DATE(2026,6,7)"` inside the quotes compares with text and counts nothing.
 
 **11. (a)** **Sort** the data by Bike [1]; apply subtotals **at each change in Bike**, using **SUM** on the Cost column [1]; **collapse the groups** to show only the totals [1].

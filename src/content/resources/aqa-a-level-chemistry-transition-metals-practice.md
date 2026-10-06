@@ -59,7 +59,7 @@ For this question take ΔH = −5.0 kJ mol⁻¹ and ΔS = +150 J K⁻¹ mol⁻¹
 **(a)** Name the type of bond between oxygen and iron in haemoglobin, and give the oxidation state of iron. **[2]**
 **(b)** Explain why carbon monoxide is toxic. **[1]**
 
-**7.** (calculator allowed) A complex ion absorbs light most strongly at 510 nm. h = 6.63 × 10⁻³⁴ J s, c = 3.00 × 10⁸ m s⁻¹, L = 6.02 × 10²³ mol⁻¹.
+**7.** A complex ion absorbs light most strongly at 510 nm. h = 6.63 × 10⁻³⁴ J s, c = 3.00 × 10⁸ m s⁻¹, L = 6.02 × 10²³ mol⁻¹.
 
 **(a)** Calculate ΔE for one ion. **[2]**
 **(b)** Convert your answer to kJ mol⁻¹. **[1]**
@@ -78,7 +78,7 @@ For this question take ΔH = −5.0 kJ mol⁻¹ and ΔS = +150 J K⁻¹ mol⁻¹
 **(b)** Write a half-equation for the reduction of VO₂⁺ to VO²⁺, and an overall equation for its reduction by zinc. **[2]**
 **(c)** Suggest why the flask is loosely stoppered to keep air out once V²⁺ forms. **[1]**
 
-**10.** (calculator allowed) 2.016 g of hydrated ethanedioic acid, H₂C₂O₄·xH₂O, is dissolved and made up to 250 cm³. 25.0 cm³ portions are acidified, warmed and titrated with 0.0200 mol dm⁻³ KMnO₄. The mean titre is 32.00 cm³. Mr of H₂C₂O₄ = 90.0; Mr of H₂O = 18.0.
+**10.** 2.016 g of hydrated ethanedioic acid, H₂C₂O₄·xH₂O, is dissolved and made up to 250 cm³. 25.0 cm³ portions are acidified, warmed and titrated with 0.0200 mol dm⁻³ KMnO₄. The mean titre is 32.00 cm³. Mr of H₂C₂O₄ = 90.0; Mr of H₂O = 18.0.
 
 **(a)** Write the ionic equation for the reaction. **[1]**
 **(b)** Explain why no indicator is added. **[1]**

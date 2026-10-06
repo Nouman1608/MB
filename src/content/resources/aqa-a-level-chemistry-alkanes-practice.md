@@ -69,13 +69,13 @@ this reaction. **[1]**
 **(b)** Write an equation for the incomplete combustion of heptane to form carbon monoxide and water. **[1]**
 **(c)** State why carbon monoxide is a dangerous pollutant. **[1]**
 
-**6.** (calculator allowed) A 2.15 g sample of an alkane burns completely in oxygen to form 6.60 g of carbon
+**6.** A 2.15 g sample of an alkane burns completely in oxygen to form 6.60 g of carbon
 dioxide and 3.15 g of water. Use these data to find the molecular formula of the alkane. **[4]**
 
-**7.** (calculator allowed) 1.50 g of butane, C₄H₁₀, burns completely. Calculate the volume of carbon
+**7.** 1.50 g of butane, C₄H₁₀, burns completely. Calculate the volume of carbon
 dioxide formed at 101 kPa and 293 K. Give your answer in dm³ to 3 significant figures. **[3]**
 
-**8.** (calculator allowed) A fuel oil contains 2.0% sulfur by mass. A boiler burns 500 kg of this fuel.
+**8.** A fuel oil contains 2.0% sulfur by mass. A boiler burns 500 kg of this fuel.
 
 **(a)** Write an equation for the formation of sulfur dioxide from sulfur. **[1]**
 **(b)** Calculate the mass of sulfur dioxide formed, in kg, to 3 significant figures. Assume all the sulfur

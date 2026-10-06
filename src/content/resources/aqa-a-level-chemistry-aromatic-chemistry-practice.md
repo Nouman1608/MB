@@ -53,7 +53,7 @@ see the [alkenes practice questions](/resources/aqa-a-level-chemistry-alkenes-pr
 **2.** Describe the bonding in a benzene molecule. Refer to the shape of the molecule and the p electrons.
 **[3]**
 
-**3.** (calculator) The enthalpy of hydrogenation of cyclohexene to cyclohexane is −120 kJ mol⁻¹. Benzene
+**3.** The enthalpy of hydrogenation of cyclohexene to cyclohexane is −120 kJ mol⁻¹. Benzene
 is 152 kJ mol⁻¹ more stable than the theoretical molecule cyclohexa-1,3,5-triene.
 
 **(a)** Calculate the enthalpy of hydrogenation of benzene to cyclohexane. **[2]**
@@ -79,14 +79,14 @@ product, C₆H₅COR, has Mr = 148.0. R is an unbranched alkyl group.
 
 **7.** State two reasons why nitration of aromatic compounds is important in synthesis. **[2]**
 
-**8.** (calculator) A student nitrates 4.08 g of methyl benzoate, C₈H₈O₂, and obtains 3.85 g of
+**8.** A student nitrates 4.08 g of methyl benzoate, C₈H₈O₂, and obtains 3.85 g of
 recrystallised methyl 3-nitrobenzoate, C₈H₇NO₄. One molecule of product forms from each molecule of
 methyl benzoate.
 
 **(a)** Calculate the percentage yield. **[3]**
 **(b)** Describe how the student could use a melting point to show that the product is pure. **[2]**
 
-**9.** (calculator) 2.34 g of benzene reacts with excess ethanoyl chloride in the presence of aluminium
+**9.** 2.34 g of benzene reacts with excess ethanoyl chloride in the presence of aluminium
 chloride.
 
 **(a)** Calculate the mass of phenylethanone, C₆H₅COCH₃, formed if the yield is 80.0%. **[3]**
@@ -97,7 +97,7 @@ chloride.
 with the nitronium ion. Explain these observations. In your answer, compare the electron density in the
 two molecules, the type of electrophile needed and the type of reaction each compound undergoes. **[6]**
 
-**11.** (calculator) A chemist makes 1-phenylpropan-1-one, C₆H₅COCH₂CH₃, from benzene and propanoyl
+**11.** A chemist makes 1-phenylpropan-1-one, C₆H₅COCH₂CH₃, from benzene and propanoyl
 chloride, CH₃CH₂COCl, using an aluminium chloride catalyst.
 
 **(a)** Write an equation for the overall reaction. **[1]**

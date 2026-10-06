@@ -173,9 +173,9 @@ By **Newton's third law** the box pushes down on the floor with **135 N** [1] **
 
 ## Where marks are usually lost
 
-- Writing R = mg on a slope (Q10), or when another force has a component perpendicular to the surface (Q7).
+- Writing R = mg on a slope (question 10), or when another force has a component perpendicular to the surface (Q7).
 - Taking friction as μR when the body is not moving or about to move (Q6(a)).
-- Getting the direction of friction wrong once the motion changes, as in Q10(b).
+- Getting the direction of friction wrong once the motion changes, as in question 10(b).
 - Keeping the tension in an equation after a string goes slack or a tow bar breaks.
 - Losing the sign of a deceleration in a lift or vertical-motion question.
 - Rounding R or F early and carrying the rounded value into μ or a distance.
