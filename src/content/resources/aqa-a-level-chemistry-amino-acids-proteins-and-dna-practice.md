@@ -27,7 +27,7 @@ featured: false
 > these alongside the official past papers from your board or school.
 
 These questions cover section **3.3.13 Amino acids, proteins and DNA** of the AQA AS and A-level Chemistry
-specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards:
+specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards:
 3.3.13.1 to 3.3.13.5. The whole section is **A-level only**; organic chemistry is on Paper 2, and Paper 3 can
 test any content.
 
@@ -206,5 +206,5 @@ causing side effects such as kidney damage or nausea [1].
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.3.13 Amino acids, proteins and DNA (3.3.13.1 to 3.3.13.5), A-level only.

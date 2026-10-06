@@ -20,7 +20,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This study guide covers section 3.2.5, Transition metals, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams from June 2016 onwards. The whole of 3.2.5 is marked "A-level only", so it is not part of AS. The specification lists inorganic chemistry (section 3.2) under A-level Paper 1, and Paper 3 can assess any content. It lists no required practical; required practical 11 belongs to section 3.2.6.
+This study guide covers section 3.2.5, Transition metals, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. The whole of 3.2.5 is marked "A-level only", so it is not part of AS. The specification lists inorganic chemistry (section 3.2) under A-level Paper 1, and Paper 3 can assess any content. It lists no required practical; required practical 11 belongs to section 3.2.6.
 
 Use it with the [revision notes](/resources/aqa-a-level-chemistry-transition-metals-revision-notes/) and the [practice questions](/resources/aqa-a-level-chemistry-transition-metals-practice/). Redox titrations build on [oxidation, reduction and redox equations](/resources/aqa-a-level-chemistry-oxidation-reduction-and-redox-equations/) and [electrode potentials](/resources/aqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells/); the chelate effect uses ΔG = ΔH − TΔS from [thermodynamics](/resources/aqa-a-level-chemistry-thermodynamics/). For the rest of the course, see the [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/) and the [printable checklist](/checklists/aqa/a-level/chemistry/). To find your weak spots quickly, try the [free diagnostics](/diagnostics/).
 
@@ -237,4 +237,4 @@ Each step is between oppositely charged ions. Fe³⁺ works too, with the steps 
 
 ## Official syllabus
 
-AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards (AQA). Section 3.2.5 Transition metals (A-level only).
+AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards (AQA). Section 3.2.5 Transition metals (A-level only).

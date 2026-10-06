@@ -34,7 +34,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.12 Turning points in physics of the AQA AS and A-level Physics specification (7407/7408, version 1.3, AS and A-level exams June 2016 onwards), sub-sections 3.12.1 to 3.12.3. Turning points is one of the options (sections 3.9 to 3.13); you study one option, assessed in Paper 3 Section B. All of it is A-level only.
+These questions cover section 3.12 Turning points in physics of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards), sub-sections 3.12.1 to 3.12.3. Turning points is one of the options (sections 3.9 to 3.13); you study one option, assessed in Paper 3 Section B. All of it is A-level only.
 
 Review the [study guide](/resources/aqa-a-level-physics-turning-points-in-physics/) and [revision notes](/resources/aqa-a-level-physics-turning-points-in-physics-revision-notes/) first; see also the [course hub](/boards/aqa/a-level/physics/), [checklist](/checklists/aqa/a-level/physics/) and free [diagnostics](/diagnostics/).
 
@@ -180,4 +180,4 @@ Use e = 1.60 × 10⁻¹⁹ C, mₑ = 9.11 × 10⁻³¹ kg, mass of hydrogen ion 
 
 ## Official syllabus
 
-AQA AS and A-level Physics specification (7407/7408), version 1.3, 1 June 2017, AS and A-level exams June 2016 onwards: section 3.12 Turning points in physics (A-level only). Published by AQA.
+AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, AS and A-level exams June 2016 onwards: section 3.12 Turning points in physics (A-level only). Published by AQA.

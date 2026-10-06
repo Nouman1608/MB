@@ -20,7 +20,7 @@ featured: false
 ---
 
 These notes condense section 3.13, Capital investment appraisal, of the AQA A-level Accounting (7127)
-specification, version 1.0 (22 December 2016), for A-level exams from June 2019 onwards. The course is
+specification, version 1.1 (October 2026), for A-level exams from June 2019 onwards. The course is
 untiered; section 3.13 is assessed on Paper 2. For full explanations and longer worked examples, use the
 [study guide](/resources/aqa-a-level-accounting-capital-investment-appraisal/). All figures are invented.
 
@@ -200,5 +200,5 @@ add the factors (0.893 + 0.797 + 0.712 = 2.402) and multiply: 22 000 × 2.402 = 
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, for A-level exams June 2019
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019
 onwards (AQA). Section 3.13 Capital investment appraisal.

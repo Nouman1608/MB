@@ -34,7 +34,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.9 Astrophysics of the AQA AS and A-level Physics specification (7407/7408, version 1.3, AS and A-level exams June 2016 onwards), sub-sections 3.9.1 to 3.9.3. Astrophysics is one of the five options (sections 3.9 to 3.13); you study one, assessed in Paper 3 Section B. It is A-level only.
+These questions cover section 3.9 Astrophysics of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards), sub-sections 3.9.1 to 3.9.3. Astrophysics is one of the five options (sections 3.9 to 3.13); you study one, assessed in Paper 3 Section B. It is A-level only.
 
 Review the [study guide](/resources/aqa-a-level-physics-astrophysics/) and [revision notes](/resources/aqa-a-level-physics-astrophysics-revision-notes/) first; the [course hub](/boards/aqa/a-level/physics/), [printable checklist](/checklists/aqa/a-level/physics/) and free [diagnostics](/diagnostics/) help you plan.
 
@@ -191,4 +191,4 @@ Data: c = 3.00 × 10⁸ m s⁻¹; G = 6.67 × 10⁻¹¹ N m² kg⁻²; σ = 5.67
 
 ## Official syllabus
 
-AQA AS and A-level Physics specification (7407/7408), version 1.3, 1 June 2017, AS and A-level exams June 2016 onwards: section 3.9 Astrophysics (A-level only).
+AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, AS and A-level exams June 2016 onwards: section 3.9 Astrophysics (A-level only).

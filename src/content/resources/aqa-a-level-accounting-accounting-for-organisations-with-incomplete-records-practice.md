@@ -25,7 +25,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.14, Accounting for organisations with incomplete records, of the AQA A-level Accounting (7127) specification (version 1.0, 22 December 2016, A-level exams June 2019 onwards). The qualification is not tiered and section 3.14 is assessed on Paper 1. Use a calculator throughout. All businesses and figures are invented.
+These questions cover section 3.14, Accounting for organisations with incomplete records, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, A-level exams June 2019 onwards). The qualification is not tiered and section 3.14 is assessed on Paper 1. Use a calculator throughout. All businesses and figures are invented.
 
 Learn the content with the [study guide](/resources/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records/) and the [revision notes](/resources/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records-revision-notes/). See also the [AQA A-level Accounting hub](/boards/aqa/a-level/accounting/) and the [7127 checklist](/checklists/aqa/a-level/accounting/).
 
@@ -254,4 +254,4 @@ Equipment [1]; current assets [1]; current liabilities [1]; net assets [1]; capi
 
 ## Official syllabus
 
-AQA, A-level Accounting (7127) specification, version 1.0, 22 December 2016, for A-level exams from June 2019 onwards: section 3.14, Accounting for organisations with incomplete records.
+AQA, A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams from June 2019 onwards: section 3.14, Accounting for organisations with incomplete records.

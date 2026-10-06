@@ -25,7 +25,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-These notes condense section 3.6 Further mechanics and thermal physics of the AQA AS and A-level Physics specification (7407/7408, version 1.3, AS and A-level exams June 2016 onwards): 3.6.1 Periodic motion and 3.6.2 Thermal physics. The whole section is **A-level only**; Paper 1 assesses 6.1 and Paper 2 assesses 6.2. It is core content, not one of the options (sections 3.9 to 3.13) studied for Paper 3 Section B. For full explanations and worked examples, use the [study guide](/resources/aqa-a-level-physics-further-mechanics-and-thermal-physics/).
+These notes condense section 3.6 Further mechanics and thermal physics of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards): 3.6.1 Periodic motion and 3.6.2 Thermal physics. The whole section is **A-level only**; Paper 1 assesses 6.1 and Paper 2 assesses 6.2. It is core content, not one of the options (sections 3.9 to 3.13) studied for Paper 3 Section B. For full explanations and worked examples, use the [study guide](/resources/aqa-a-level-physics-further-mechanics-and-thermal-physics/).
 
 Test yourself with the [practice questions](/resources/aqa-a-level-physics-further-mechanics-and-thermal-physics-practice/), track outcomes on the [printable checklist](/checklists/aqa/a-level/physics/), and find weak spots with the [free diagnostics](/diagnostics/). All AQA A-level Physics topics are on the [course hub](/boards/aqa/a-level/physics/).
 
@@ -175,4 +175,4 @@ Test yourself with the [practice questions](/resources/aqa-a-level-physics-furth
 
 ## Official syllabus
 
-AQA AS and A-level Physics (7407/7408) specification, version 1.3, 1 June 2017, AS and A-level exams June 2016 onwards, published by AQA. Section 3.6 Further mechanics and thermal physics (A-level only).
+AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.6 Further mechanics and thermal physics (A-level only).

@@ -25,7 +25,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.8, Analysis and evaluation of financial information, of the AQA A-level Accounting (7127) specification (version 1.0, 22 December 2016, A-level exams June 2019 onwards). The qualification is not tiered, and the specification lists section 8 in the content assessed by both Paper 1 and Paper 2. Use a calculator throughout. Give percentages and ratios to two decimal places and days to one decimal place. All businesses and figures are invented.
+These questions cover section 3.8, Analysis and evaluation of financial information, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, A-level exams June 2019 onwards). The qualification is not tiered, and the specification lists section 8 in the content assessed by both Paper 1 and Paper 2. Use a calculator throughout. Give percentages and ratios to two decimal places and days to one decimal place. All businesses and figures are invented.
 
 Learn the content with the [study guide](/resources/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information/) and the [revision notes](/resources/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information-revision-notes/). See also the [AQA A-level Accounting hub](/boards/aqa/a-level/accounting/), the [7127 checklist](/checklists/aqa/a-level/accounting/) and the [free diagnostics](/diagnostics/).
 
@@ -175,4 +175,4 @@ Last year's ratios: gross profit margin 38.00%; profit in relation to revenue 12
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, for A-level exams June 2019 onwards, published by AQA -- section 3.8, Analysis and evaluation of financial information.
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019 onwards, published by AQA -- section 3.8, Analysis and evaluation of financial information.

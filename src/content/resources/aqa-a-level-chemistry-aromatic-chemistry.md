@@ -21,7 +21,7 @@ featured: false
 ---
 
 This guide teaches section **3.3.10 Aromatic chemistry** of the AQA AS and A-level Chemistry specification
-(7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards. It covers both
+(7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards. It covers both
 sub-sections: 3.3.10.1 Bonding and 3.3.10.2 Electrophilic substitution. The whole section is
 **A-level only**, so it is not part of the AS course. The specification places all of section 3.3 on
 A-level Paper 2, and A-level Paper 3 can test any content.
@@ -252,6 +252,6 @@ Concentrated acids are corrosive: wear eye protection and gloves.
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.3.10 Aromatic chemistry (A-level only), covering 3.3.10.1 Bonding and
 3.3.10.2 Electrophilic substitution.

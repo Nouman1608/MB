@@ -21,7 +21,7 @@ featured: false
 ---
 
 This guide teaches section **3.2.1 Periodicity** of the AQA AS and A-level Chemistry specification
-(7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards. It covers both
+(7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards. It covers both
 sub-sections: 3.2.1.1 Classification (s, p, d and f blocks) and 3.2.1.2 Physical properties of Period 3
 elements (atomic radius, first ionisation energy and melting point from Na to Ar). All of it is AS content,
 so nothing here is A-level only. The specification places 3.2.1 on AS Paper 1 (inorganic sections 3.2.1 to
@@ -260,6 +260,6 @@ structure, see [AQA A-Level Chemistry exam preparation](/resources/aqa-a-level-c
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.2.1 Periodicity (3.2.1.1 Classification and 3.2.1.2 Physical properties
 of Period 3 elements).

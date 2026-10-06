@@ -22,7 +22,7 @@ featured: false
 
 For full explanations and longer worked examples, read the [Kp study guide](/resources/aqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems/) first. These notes are for fast recall in the final weeks.
 
-They follow section 3.1.10 of the AQA AS and A-level Chemistry specification (7404/7405), version 1.1 (1 December 2015), for AS and A-level exams from June 2016 onwards. The whole section is **A-level only**: it is not in the AS course. The A-level assessment overview lists section 3.1.10 under Paper 1, and Paper 3 can test any content. There is no required practical in this section.
+They follow section 3.1.10 of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2 (July 2026), for AS and A-level exams from June 2016 onwards. The whole section is **A-level only**: it is not in the AS course. The A-level assessment overview lists section 3.1.10 under Paper 1, and Paper 3 can test any content. There is no required practical in this section.
 
 Use the [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/) for every topic and the [printable checklist](/checklists/aqa/a-level/chemistry/) to track progress. Kp builds on Kc and Le Chatelier's principle, condensed in the [Kc revision notes](/resources/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc-revision-notes/).
 
@@ -160,4 +160,4 @@ Test yourself fully with the [Kp practice questions](/resources/aqa-a-level-chem
 
 ## Official syllabus
 
-AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.1.10: Equilibrium constant Kp for homogeneous systems (A-level only).
+AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.1.10: Equilibrium constant Kp for homogeneous systems (A-level only).

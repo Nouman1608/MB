@@ -21,7 +21,7 @@ featured: false
 ---
 
 This guide teaches section **3.3.12 Polymers** of the AQA AS and A-level Chemistry specification
-(7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards. It covers both
+(7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards. It covers both
 sub-sections: 3.3.12.1 Condensation polymers and 3.3.12.2 Biodegradability and disposal of polymers.
 The whole section is **A-level only**, so it is not part of the AS course. The specification places all of
 section 3.3 on A-level Paper 2, and A-level Paper 3 can test any content.
@@ -238,6 +238,6 @@ PVC, go back to the [alkenes revision notes](/resources/aqa-a-level-chemistry-al
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.3.12 Polymers (3.3.12.1 Condensation polymers and 3.3.12.2
 Biodegradability and disposal of polymers), A-level only.

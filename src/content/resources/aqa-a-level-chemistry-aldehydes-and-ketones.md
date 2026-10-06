@@ -21,7 +21,7 @@ featured: false
 ---
 
 This guide teaches section **3.3.8 Aldehydes and ketones** of the AQA AS and A-level Chemistry specification
-(7404/7405), version 1.1, 1 December 2015, for AS and A-level exams from June 2016 onwards. The whole section
+(7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. The whole section
 is **A-level only**: it is not part of the AS content. The specification places organic chemistry (3.3) on
 A-level Paper 2, and Paper 3 can test any content and any practical skill. The section lists no required
 practical of its own.
@@ -262,5 +262,5 @@ Next: [revision notes](/resources/aqa-a-level-chemistry-aldehydes-and-ketones-re
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.3.8 Aldehydes and ketones (A-level only).

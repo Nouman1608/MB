@@ -21,7 +21,7 @@ featured: false
 ---
 
 This guide teaches section **3.3.4 Alkenes** of the AQA AS and A-level Chemistry specification
-(7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards. It covers all three
+(7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards. It covers all three
 sub-sections: 3.3.4.1 Structure, bonding and reactivity, 3.3.4.2 Addition reactions of alkenes and
 3.3.4.3 Addition polymers. All of it is AS content, so nothing here is A-level only. The specification
 places organic sections 3.3.1 to 3.3.6 on AS Paper 2 and all of section 3.3 on A-level Paper 2, and
@@ -256,6 +256,6 @@ Use the [alkenes revision notes](/resources/aqa-a-level-chemistry-alkenes-revisi
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.3.4 Alkenes (3.3.4.1 Structure, bonding and reactivity, 3.3.4.2
 Addition reactions of alkenes and 3.3.4.3 Addition polymers).

@@ -19,7 +19,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This guide covers section 3.17, Interpretation, analysis and communication of accounting information, of the AQA A-level Accounting (7127) specification (version 1.0, 22 December 2016, for A-level exams from June 2019 onwards). The qualification is not tiered. The specification lists section 17 in the content assessed by both Paper 1 and Paper 2, each a 3-hour written exam, and you must use a calculator in the exam.
+This guide covers section 3.17, Interpretation, analysis and communication of accounting information, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, for A-level exams from June 2019 onwards). The qualification is not tiered. The specification lists section 17 in the content assessed by both Paper 1 and Paper 2, each a 3-hour written exam, and you must use a calculator in the exam.
 
 The twelve 3.8 ratios, the cash versus profit reconciliation and the general limitations of ratios are taught in the [3.8 study guide](/resources/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information/) and are not repeated here. Use it with the [revision notes](/resources/aqa-a-level-accounting-interpretation-analysis-and-communication-of-accounting-info-revision-notes/) and the [practice questions](/resources/aqa-a-level-accounting-interpretation-analysis-and-communication-of-accounting-info-practice/). See also the [AQA A-level Accounting hub](/boards/aqa/a-level/accounting/), the [7127 checklist](/checklists/aqa/a-level/accounting/) and the [free diagnostics](/diagnostics/). All businesses and figures are invented.
 
@@ -204,4 +204,4 @@ Next, use the [revision notes](/resources/aqa-a-level-accounting-interpretation-
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, for A-level exams June 2019 onwards, published by AQA -- section 3.17, Interpretation, analysis and communication of accounting information.
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019 onwards, published by AQA -- section 3.17, Interpretation, analysis and communication of accounting information.

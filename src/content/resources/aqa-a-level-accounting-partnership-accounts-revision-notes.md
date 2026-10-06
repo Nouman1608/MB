@@ -19,7 +19,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-These notes condense section 3.15, Partnership accounts, of the AQA A-level Accounting (7127) specification (version 1.0, 22 December 2016, for A-level exams from June 2019 onwards). The qualification is not tiered, and section 3.15 is assessed on Paper 1. For full explanations and longer worked examples, use the [study guide](/resources/aqa-a-level-accounting-partnership-accounts/); then test yourself with the [practice questions](/resources/aqa-a-level-accounting-partnership-accounts-practice/).
+These notes condense section 3.15, Partnership accounts, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, for A-level exams from June 2019 onwards). The qualification is not tiered, and section 3.15 is assessed on Paper 1. For full explanations and longer worked examples, use the [study guide](/resources/aqa-a-level-accounting-partnership-accounts/); then test yourself with the [practice questions](/resources/aqa-a-level-accounting-partnership-accounts-practice/).
 
 See also the [AQA A-level Accounting hub](/boards/aqa/a-level/accounting/), the [7127 checklist](/checklists/aqa/a-level/accounting/), the notes on [business organisation](/resources/aqa-a-level-accounting-business-organisation-revision-notes/) and [sole trader statements](/resources/aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders-revision-notes/), and the [free diagnostics](/diagnostics/). All figures are invented.
 
@@ -188,4 +188,4 @@ The new partner pays for the share of goodwill gained, and the old partners who 
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, for A-level exams June 2019 onwards, published by AQA -- section 3.15, Partnership accounts.
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019 onwards, published by AQA -- section 3.15, Partnership accounts.

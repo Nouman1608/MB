@@ -24,7 +24,7 @@ Condensed notes for the final weeks. For full explanations and worked examples, 
 [NMR study guide](/resources/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy/).
 
 These notes cover section **3.3.15 Nuclear magnetic resonance spectroscopy** of the AQA AS and A-level
-Chemistry specification (7404/7405), version 1.1, 1 December 2015, for exams from June 2016 onwards. The
+Chemistry specification (7404/7405), version 1.2, July 2026, for exams from June 2016 onwards. The
 whole section is **A-level only**. Organic chemistry is examined on A-level Paper 2, and Paper 3 can test
 any content. Test yourself with the
 [practice questions](/resources/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy-practice/),
@@ -207,6 +207,6 @@ The CH₃ (3H) has 2 neighbouring H, so it is a **triplet**. Ratio 2 : 3.
 
 ## Official syllabus
 
-AQA AS and A-level Chemistry (7404/7405) specification, version 1.1, 1 December 2015, for AS and A-level
+AQA AS and A-level Chemistry (7404/7405) specification, version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards, published by AQA. These notes cover section 3.3.15 Nuclear magnetic resonance
 spectroscopy (A-level only).

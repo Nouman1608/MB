@@ -27,7 +27,7 @@ featured: false
 > these alongside the official past papers from your board or school.
 
 These questions cover section **3.2.2 Group 2, the alkaline earth metals** of the AQA AS and A-level
-Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016
+Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016
 onwards, plus the Group 2 part of required practical 4. All of it is AS content, so nothing here is A-level
 only. The topic is examined on AS Paper 1 and A-level Paper 1, and A-level Paper 3 can test any content.
 
@@ -218,6 +218,6 @@ Mass of CaO = 3.744 × 10⁴ × 56.1 = 2.10 × 10⁶ g = **2.10 tonnes** [1].
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.2.2 Group 2, the alkaline earth metals, with required practical 4 (listed
 in section 3.2.3).

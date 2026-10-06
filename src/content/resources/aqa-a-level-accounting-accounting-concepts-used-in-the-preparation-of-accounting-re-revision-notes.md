@@ -20,7 +20,7 @@ featured: false
 ---
 
 Condensed recall notes for section **3.5 Accounting concepts used in the preparation of accounting records** of
-the AQA A-level Accounting (7127) specification, Version 1.0 (22 December 2016), for A-level exams from June
+the AQA A-level Accounting (7127) specification, Version 1.1 (October 2026), for A-level exams from June
 2019 onwards. The course is linear and untiered, and section 3.5 sits in the content assessed by **Paper 1**.
 For full explanations and worked examples, use the
 [study guide](/resources/aqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of-accounting-re/).
@@ -181,6 +181,6 @@ or try the free [diagnostics](/diagnostics/).
 
 ## Official syllabus
 
-AQA, *A-level Accounting (7127) Specification*, Version 1.0, 22 December 2016, for teaching from September 2017
+AQA, *A-level Accounting (7127) Specification*, Version 1.1, October 2026, for teaching from September 2017
 and A-level exams in 2019 onwards: section 3.5 Accounting concepts used in the preparation of accounting
 records.

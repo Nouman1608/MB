@@ -31,7 +31,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.6 Further mechanics and thermal physics of the AQA AS and A-level Physics specification (7407/7408, version 1.3, AS and A-level exams June 2016 onwards): 3.6.1 Periodic motion and 3.6.2 Thermal physics, including Required practicals 7 and 8. It is **A-level only**: Paper 1 assesses 6.1 and Paper 2 assesses 6.2. It is core content, not one of the options (sections 3.9 to 3.13), of which you study one for Paper 3 Section B.
+These questions cover section 3.6 Further mechanics and thermal physics of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards): 3.6.1 Periodic motion and 3.6.2 Thermal physics, including Required practicals 7 and 8. It is **A-level only**: Paper 1 assesses 6.1 and Paper 2 assesses 6.2. It is core content, not one of the options (sections 3.9 to 3.13), of which you study one for Paper 3 Section B.
 
 Learn the content first with the [study guide](/resources/aqa-a-level-physics-further-mechanics-and-thermal-physics/). Take g = 9.81 m s⁻², c(water) = 4200 J kg⁻¹ K⁻¹, R = 8.31 J mol⁻¹ K⁻¹, k = 1.38 × 10⁻²³ J K⁻¹ and N_A = 6.02 × 10²³ mol⁻¹.
 
@@ -197,4 +197,4 @@ Learn the content first with the [study guide](/resources/aqa-a-level-physics-fu
 
 ## Official syllabus
 
-AQA AS and A-level Physics (7407/7408) specification, version 1.3, 1 June 2017, AS and A-level exams June 2016 onwards, published by AQA. Section 3.6 Further mechanics and thermal physics (A-level only).
+AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.6 Further mechanics and thermal physics (A-level only).

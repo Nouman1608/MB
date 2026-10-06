@@ -43,7 +43,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.10 Medical physics (3.10.1 to 3.10.6) of the AQA AS and A-level Physics (7407/7408) specification, version 1.3 (AS and A-level exams June 2016 onwards). The section is **A-level only**. Sections 3.9-3.13 are options: you study one, assessed in Paper 3 Section B.
+These questions cover section 3.10 Medical physics (3.10.1 to 3.10.6) of the AQA AS and A-level Physics (7407/7408) specification, version 1.4 (AS and A-level exams June 2016 onwards). The section is **A-level only**. Sections 3.9-3.13 are options: you study one, assessed in Paper 3 Section B.
 
 Learn the content first with the [study guide](/resources/aqa-a-level-physics-medical-physics/) and the [revision notes](/resources/aqa-a-level-physics-medical-physics-revision-notes/). Course pages: [AQA A-level Physics hub](/boards/aqa/a-level/physics/), [printable checklist](/checklists/aqa/a-level/physics/) and the [free diagnostics](/diagnostics/).
 
@@ -197,4 +197,4 @@ Use: e = 1.60 × 10⁻¹⁹ C, h = 6.63 × 10⁻³⁴ J s, c = 3.00 × 10⁸ m s
 
 ## Official syllabus
 
-AQA AS and A-level Physics (7407/7408) specification, version 1.3, 1 June 2017 (AS and A-level exams June 2016 onwards), section 3.10 Medical physics.
+AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026 (AS and A-level exams June 2016 onwards), section 3.10 Medical physics.

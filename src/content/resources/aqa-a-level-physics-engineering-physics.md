@@ -25,7 +25,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This study guide teaches section 3.11 Engineering physics of the AQA AS and A-level Physics specification (7407/7408, version 1.3, AS and A-level exams June 2016 onwards): 3.11.1 Rotational dynamics and 3.11.2 Thermodynamics and engines. Section 3.11 is **A-level only** and is one of the five **options** (sections 3.9 to 3.13). You study one option, assessed in Paper 3 Section B (35 marks); Paper 3 Section A assesses practical skills and data analysis. The specification says questions may use unfamiliar contexts, with the information you need given.
+This study guide teaches section 3.11 Engineering physics of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards): 3.11.1 Rotational dynamics and 3.11.2 Thermodynamics and engines. Section 3.11 is **A-level only** and is one of the five **options** (sections 3.9 to 3.13). You study one option, assessed in Paper 3 Section B (35 marks); Paper 3 Section A assesses practical skills and data analysis. The specification says questions may use unfamiliar contexts, with the information you need given.
 
 Next, use the [revision notes](/resources/aqa-a-level-physics-engineering-physics-revision-notes/) and [practice questions](/resources/aqa-a-level-physics-engineering-physics-practice/). See also the [course hub](/boards/aqa/a-level/physics/), the [printable checklist](/checklists/aqa/a-level/physics/) and the [free diagnostics](/diagnostics/). Radians, ω and the gas laws come from [Further mechanics and thermal physics](/resources/aqa-a-level-physics-further-mechanics-and-thermal-physics/).
 
@@ -216,4 +216,4 @@ COP can exceed 1. Practical device cycles are not required.
 
 ## Official syllabus
 
-AQA AS and A-level Physics (7407/7408) specification, version 1.3, 1 June 2017, AS and A-level exams June 2016 onwards, published by AQA. Section 3.11 Engineering physics (A-level only option).
+AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.11 Engineering physics (A-level only option).

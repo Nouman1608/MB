@@ -126,6 +126,6 @@ This section connects directly to **Topic 7 (Limited Company Accounts)** and **T
 
 ## Official syllabus
 
-AQA A-Level Accounting (7127) specification, Version 1.0, June 2019
+AQA A-Level Accounting (7127) specification, Version 1.1, October 2026
 onwards —
 [aqa.org.uk/7127](https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content).

@@ -21,7 +21,7 @@ featured: false
 ---
 
 These notes condense section **3.3.6 Organic analysis** of the AQA AS and A-level Chemistry specification
-(7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards: 3.3.6.1 test-tube
+(7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards: 3.3.6.1 test-tube
 reactions with Required practical 6, 3.3.6.2 mass spectrometry and 3.3.6.3 infrared spectroscopy. It is AS
 content, examined on Paper 2 at AS and A-level, and A-level Paper 3 can test any content. For full
 explanations and worked examples, read the [organic analysis study guide](/resources/aqa-a-level-chemistry-organic-analysis/).
@@ -204,5 +204,5 @@ change Fehling's solution.
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.3.6 Organic analysis (3.3.6.1 to 3.3.6.3), with Required practical 6.

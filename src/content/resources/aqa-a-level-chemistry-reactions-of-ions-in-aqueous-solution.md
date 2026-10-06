@@ -20,7 +20,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This study guide covers section 3.2.6, Reactions of ions in aqueous solution, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams from June 2016 onwards. The whole of 3.2.6 is marked "A-level only", so it is not part of AS. The specification lists inorganic chemistry (section 3.2) under A-level Paper 1, and Paper 3 can assess any content. Section 3.2.6 includes required practical 11.
+This study guide covers section 3.2.6, Reactions of ions in aqueous solution, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. The whole of 3.2.6 is marked "A-level only", so it is not part of AS. The specification lists inorganic chemistry (section 3.2) under A-level Paper 1, and Paper 3 can assess any content. Section 3.2.6 includes required practical 11.
 
 Use it with the [revision notes](/resources/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution-revision-notes/) and the [practice questions](/resources/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution-practice/). This topic builds on [transition metals](/resources/aqa-a-level-chemistry-transition-metals/) (ligands, complexes and ligand substitution), [acids and bases](/resources/aqa-a-level-chemistry-acids-and-bases/) (Brønsted–Lowry acids) and the amphoteric oxide in [Period 3 elements and their oxides](/resources/aqa-a-level-chemistry-properties-of-period-3-elements-and-their-oxides/). For the rest of the course, see the [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/) and the [printable checklist](/checklists/aqa/a-level/chemistry/). For exam technique, see [exam preparation](/resources/aqa-a-level-chemistry-exam-preparation/), and find your weak spots with the [free diagnostics](/diagnostics/).
 
@@ -259,4 +259,4 @@ Each step uses one feature only.
 
 ## Official syllabus
 
-AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards (AQA). Section 3.2.6 Reactions of ions in aqueous solution (A-level only), including required practical 11.
+AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards (AQA). Section 3.2.6 Reactions of ions in aqueous solution (A-level only), including required practical 11.

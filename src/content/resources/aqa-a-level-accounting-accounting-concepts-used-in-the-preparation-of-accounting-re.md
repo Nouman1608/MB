@@ -20,7 +20,7 @@ featured: false
 ---
 
 This guide teaches section **3.5 Accounting concepts used in the preparation of accounting records** of the
-AQA A-level Accounting (7127) specification, Version 1.0 (22 December 2016), for A-level exams from June 2019
+AQA A-level Accounting (7127) specification, Version 1.1 (October 2026), for A-level exams from June 2019
 onwards. The qualification is linear and untiered, so everything here applies to every candidate. Section 3.5
 is one of the sections listed for **Paper 1** (sections 1–8 and 14–18), and the concepts are then used in
 almost every set of financial statements you prepare.
@@ -271,6 +271,6 @@ before the exam. The [exam preparation guide](/resources/aqa-a-level-accounting-
 
 ## Official syllabus
 
-AQA, *A-level Accounting (7127) Specification*, Version 1.0, 22 December 2016, for teaching from September 2017
+AQA, *A-level Accounting (7127) Specification*, Version 1.1, October 2026, for teaching from September 2017
 and A-level exams in 2019 onwards: section 3.5 Accounting concepts used in the preparation of accounting
 records.

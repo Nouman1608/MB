@@ -26,7 +26,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.1.6 (3.1.6.1 and 3.1.6.2) of the AQA AS and A-level Chemistry specification (7404/7405), version 1.1 (1 December 2015), for AS and A-level exams from June 2016 onwards. All of it is AS content and also part of the full A-level; none of it is "A-level only". They use different reactions and numbers from the [study guide](/resources/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc/) and the [revision notes](/resources/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc-revision-notes/). Course links: [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/) | [printable checklist](/checklists/aqa/a-level/chemistry/).
+These questions cover section 3.1.6 (3.1.6.1 and 3.1.6.2) of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2 (July 2026), for AS and A-level exams from June 2016 onwards. All of it is AS content and also part of the full A-level; none of it is "A-level only". They use different reactions and numbers from the [study guide](/resources/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc/) and the [revision notes](/resources/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc-revision-notes/). Course links: [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/) | [printable checklist](/checklists/aqa/a-level/chemistry/).
 
 Equilibrium constants below are practice values, not data-sheet values.
 
@@ -156,4 +156,4 @@ At equilibrium, 0.400 mol of CO₂ is present.
 
 ## Official syllabus
 
-AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.1.6: Chemical equilibria, Le Chatelier's principle and Kc.
+AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.1.6: Chemical equilibria, Le Chatelier's principle and Kc.

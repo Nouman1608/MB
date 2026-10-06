@@ -27,7 +27,7 @@ featured: false
 > these alongside the official past papers from your board or school.
 
 These questions cover section **3.3.9 Carboxylic acids and derivatives** of the AQA AS and A-level
-Chemistry specification (7404/7405), version 1.1, 1 December 2015, for exams from June 2016 onwards:
+Chemistry specification (7404/7405), version 1.2, July 2026, for exams from June 2016 onwards:
 3.3.9.1 Carboxylic acids and esters, 3.3.9.2 Acylation and Required practical 10. The whole section is
 **A-level only**. It is examined on A-level Paper 2, and Paper 3 can test any content and any practical
 skill. Show your working in every calculation.
@@ -199,6 +199,6 @@ Yield = 2.52 ÷ 3.60 × 100 = **70.0%** [1]
 
 ## Official syllabus
 
-AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and
+AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and
 A-level exams June 2016 onwards. Published by AQA. These questions cover section 3.3.9 and Required
 practical 10.

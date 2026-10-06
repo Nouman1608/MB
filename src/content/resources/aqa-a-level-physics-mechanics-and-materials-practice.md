@@ -31,7 +31,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.4, Mechanics and materials, of AQA A-level Physics (7408), following the AQA AS and A-level Physics specification (7407/7408), version 1.3, for AS and A-level exams from June 2016 onwards. They span sub-sections 3.4.1.1 to 3.4.2.2, all of which are AS and A-level content, examined on A-level Paper 1 and assumed for Paper 2; the practical questions reflect Paper 3 Section A. Sections 3.9 to 3.13 are options: you study one, assessed in Paper 3 Section B. Take g = 9.81 m s⁻².
+These questions cover section 3.4, Mechanics and materials, of AQA A-level Physics (7408), following the AQA AS and A-level Physics specification (7407/7408), version 1.4, for AS and A-level exams from June 2016 onwards. They span sub-sections 3.4.1.1 to 3.4.2.2, all of which are AS and A-level content, examined on A-level Paper 1 and assumed for Paper 2; the practical questions reflect Paper 3 Section A. Sections 3.9 to 3.13 are options: you study one, assessed in Paper 3 Section B. Take g = 9.81 m s⁻².
 
 See the [study guide](/resources/aqa-a-level-physics-mechanics-and-materials/), [revision notes](/resources/aqa-a-level-physics-mechanics-and-materials-revision-notes/), [course hub](/boards/aqa/a-level/physics/) and [printable checklist](/checklists/aqa/a-level/physics/).
 
@@ -166,4 +166,4 @@ See the [study guide](/resources/aqa-a-level-physics-mechanics-and-materials/), 
 
 ## Official syllabus
 
-AQA AS and A-level Physics specification (7407/7408), version 1.3, 1 June 2017, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.4 Mechanics and materials.
+AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.4 Mechanics and materials.

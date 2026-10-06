@@ -22,7 +22,7 @@ featured: false
 
 These notes are for the final weeks before your exams. For full explanations and longer worked examples, use the [chemical equilibria study guide](/resources/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc/).
 
-They follow section 3.1.6 of the AQA AS and A-level Chemistry specification (7404/7405), version 1.1 (1 December 2015), for AS and A-level exams from June 2016 onwards: 3.1.6.1 Chemical equilibria and Le Chatelier's principle, and 3.1.6.2 Equilibrium constant Kc for homogeneous systems. The whole section is AS content and is also part of the full A-level; none of it is "A-level only". Kp (section 3.1.10, A-level only) is not covered here. The topic is listed for AS Papers 1 and 2 and A-level Papers 1 and 2; A-level Paper 3 can test any content.
+They follow section 3.1.6 of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2 (July 2026), for AS and A-level exams from June 2016 onwards: 3.1.6.1 Chemical equilibria and Le Chatelier's principle, and 3.1.6.2 Equilibrium constant Kc for homogeneous systems. The whole section is AS content and is also part of the full A-level; none of it is "A-level only". Kp (section 3.1.10, A-level only) is not covered here. The topic is listed for AS Papers 1 and 2 and A-level Papers 1 and 2; A-level Paper 3 can test any content.
 
 Course links: [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/) | [printable checklist](/checklists/aqa/a-level/chemistry/) | [practice questions](/resources/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc-practice/) | [relative mass and the mole revision notes](/resources/aqa-a-level-chemistry-mole-revision-notes/)
 
@@ -184,4 +184,4 @@ Working backwards: Kc falls as temperature rises → forward reaction exothermic
 
 ## Official syllabus
 
-AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.1.6: Chemical equilibria, Le Chatelier's principle and Kc.
+AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.1.6: Chemical equilibria, Le Chatelier's principle and Kc.

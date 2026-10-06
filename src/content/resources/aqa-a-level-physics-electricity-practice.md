@@ -28,7 +28,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.5 Electricity of the AQA AS and A-level Physics specification (7407/7408, version 1.3, AS and A-level exams June 2016 onwards): 3.5.1.1 to 3.5.1.6, including Required practicals 5 and 6. Electricity is AS and A-level content, assessed at A-level in Paper 1 and assumed in Paper 2; it is not one of the options (sections 3.9 to 3.13), one of which you study for Paper 3 Section B.
+These questions cover section 3.5 Electricity of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards): 3.5.1.1 to 3.5.1.6, including Required practicals 5 and 6. Electricity is AS and A-level content, assessed at A-level in Paper 1 and assumed in Paper 2; it is not one of the options (sections 3.9 to 3.13), one of which you study for Paper 3 Section B.
 
 Learn the content first with the [study guide](/resources/aqa-a-level-physics-electricity/). Take the charge on an electron as 1.60 × 10⁻¹⁹ C in magnitude. Treat meters as ideal and supplies as having negligible internal resistance unless told otherwise.
 
@@ -178,4 +178,4 @@ Learn the content first with the [study guide](/resources/aqa-a-level-physics-el
 
 ## Official syllabus
 
-AQA AS and A-level Physics specification (7407/7408), version 1.3, 1 June 2017, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.5 Electricity.
+AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.5 Electricity.

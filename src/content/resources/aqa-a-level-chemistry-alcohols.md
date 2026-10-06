@@ -30,7 +30,7 @@ featured: false
 ---
 
 This guide teaches section **3.3.5 Alcohols** of the AQA AS and A-level Chemistry specification (7404/7405),
-version 1.1, 1 December 2015, for AS and A-level exams from June 2016 onwards. It covers every point in
+version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. It covers every point in
 3.3.5.1 Alcohol production, 3.3.5.2 Oxidation of alcohols and 3.3.5.3 Elimination, plus Required practical 5.
 All of it is AS content, so nothing here is A-level only. The specification places organic chemistry
 (3.3.1 to 3.3.6) on Paper 2 at AS, organic chemistry (3.3) on Paper 2 at A-level, and A-level Paper 3 can test
@@ -279,6 +279,6 @@ Next: [revision notes](/resources/aqa-a-level-chemistry-alcohols-revision-notes/
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.3.5 Alcohols (3.3.5.1 Alcohol production, 3.3.5.2 Oxidation of alcohols,
 3.3.5.3 Elimination), with Required practical 5.

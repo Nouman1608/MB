@@ -21,7 +21,7 @@ featured: false
 ---
 
 These notes condense section **3.3.1 Introduction to organic chemistry** of the AQA AS and A-level Chemistry
-specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards:
+specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards:
 3.3.1.1 Nomenclature, 3.3.1.2 Reaction mechanisms and 3.3.1.3 Isomerism. It is all AS content (nothing is
 A-level only) and there is no required practical in this section. It is examined on Paper 2 at AS and
 A-level, and A-level Paper 3 can test any content.
@@ -224,5 +224,5 @@ opposite sides, it is the E isomer.
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.3.1 Introduction to organic chemistry (3.3.1.1 to 3.3.1.3).

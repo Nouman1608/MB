@@ -20,7 +20,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-These notes condense section 3.2.5, Transition metals, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams from June 2016 onwards. Every part of 3.2.5 (3.2.5.1 to 3.2.5.6) is marked "A-level only", so none of it is on the AS papers. At A-level, inorganic chemistry is listed under Paper 1, and Paper 3 can assess any content.
+These notes condense section 3.2.5, Transition metals, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. Every part of 3.2.5 (3.2.5.1 to 3.2.5.6) is marked "A-level only", so none of it is on the AS papers. At A-level, inorganic chemistry is listed under Paper 1, and Paper 3 can assess any content.
 
 For full explanations and worked examples, use the [study guide](/resources/aqa-a-level-chemistry-transition-metals/). Then try the [practice questions](/resources/aqa-a-level-chemistry-transition-metals-practice/). Related notes: [oxidation, reduction and redox equations](/resources/aqa-a-level-chemistry-oxidation-reduction-and-redox-equations-revision-notes/) and [electrode potentials](/resources/aqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells-revision-notes/). The [course hub](/boards/aqa/a-level/chemistry/), [printable checklist](/checklists/aqa/a-level/chemistry/) and [free diagnostics](/diagnostics/) help you plan.
 
@@ -183,4 +183,4 @@ Mn²⁺:      4Mn²⁺ + MnO₄⁻ + 8H⁺ → 5Mn³⁺ + 4H₂O;   2Mn³⁺ + C
 
 ## Official syllabus
 
-AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards (AQA). Section 3.2.5 Transition metals (A-level only).
+AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards (AQA). Section 3.2.5 Transition metals (A-level only).

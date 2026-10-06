@@ -25,7 +25,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This study guide teaches section 3.6 Further mechanics and thermal physics of the AQA AS and A-level Physics specification (7407/7408, version 1.3, AS and A-level exams June 2016 onwards): 3.6.1 Periodic motion and 3.6.2 Thermal physics. All of section 3.6 is **A-level only**. Paper 1 assesses 6.1 (Periodic motion) and Paper 2 assesses 6.2 (Thermal physics). This is core content, not one of the options (sections 3.9 to 3.13), of which you study one for Paper 3 Section B.
+This study guide teaches section 3.6 Further mechanics and thermal physics of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards): 3.6.1 Periodic motion and 3.6.2 Thermal physics. All of section 3.6 is **A-level only**. Paper 1 assesses 6.1 (Periodic motion) and Paper 2 assesses 6.2 (Thermal physics). This is core content, not one of the options (sections 3.9 to 3.13), of which you study one for Paper 3 Section B.
 
 Follow it with the [revision notes](/resources/aqa-a-level-physics-further-mechanics-and-thermal-physics-revision-notes/) and [practice questions](/resources/aqa-a-level-physics-further-mechanics-and-thermal-physics-practice/). See also the [course hub](/boards/aqa/a-level/physics/), the [printable checklist](/checklists/aqa/a-level/physics/) and the [free diagnostics](/diagnostics/). The topic builds on [Mechanics and materials](/resources/aqa-a-level-physics-mechanics-and-materials/) and [Waves](/resources/aqa-a-level-physics-waves/).
 
@@ -235,4 +235,4 @@ c_rms = √(3kT/m) = √(3 × 1.38 × 10⁻²³ × 300 / 4.65 × 10⁻²⁶) = 5
 
 ## Official syllabus
 
-AQA AS and A-level Physics (7407/7408) specification, version 1.3, 1 June 2017, AS and A-level exams June 2016 onwards, published by AQA. Section 3.6 Further mechanics and thermal physics (A-level only).
+AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.6 Further mechanics and thermal physics (A-level only).

@@ -21,7 +21,7 @@ featured: false
 ---
 
 This guide teaches section **3.2.3 Group 7(17), the halogens** of the AQA AS and A-level Chemistry
-specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards. It
+specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards. It
 covers both sub-sections: 3.2.3.1 Trends in properties and 3.2.3.2 Uses of chlorine and chlorate(I), plus
 Required practical 4, which the specification lists in this section. All of it is AS content, so nothing
 here is A-level only. The specification places 3.2.3 on AS Paper 1 (inorganic sections 3.2.1 to 3.2.3) and
@@ -271,6 +271,6 @@ mass    = 0.200 × 74.5 = 14.9 g
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.2.3 Group 7(17), the halogens (3.2.3.1 Trends in properties and 3.2.3.2
 Uses of chlorine and chlorate(I)), including Required practical 4.

@@ -22,7 +22,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This study guide teaches section 3.5 Electricity of the AQA AS and A-level Physics specification (7407/7408, version 1.3, AS and A-level exams June 2016 onwards). It covers every sub-section of 3.5.1 Current electricity, from 3.5.1.1 to 3.5.1.6, including Required practicals 5 and 6. Electricity is AS and A-level content, not A-level only: at A-level it is assessed in Paper 1 (sections 1 to 5 and 6.1) and is assumed knowledge in Paper 2. Sections 3.9 to 3.13 are the options, of which you study one for Paper 3 Section B; Electricity is not an option.
+This study guide teaches section 3.5 Electricity of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards). It covers every sub-section of 3.5.1 Current electricity, from 3.5.1.1 to 3.5.1.6, including Required practicals 5 and 6. Electricity is AS and A-level content, not A-level only: at A-level it is assessed in Paper 1 (sections 1 to 5 and 6.1) and is assumed knowledge in Paper 2. Sections 3.9 to 3.13 are the options, of which you study one for Paper 3 Section B; Electricity is not an option.
 
 Follow it with the [revision notes](/resources/aqa-a-level-physics-electricity-revision-notes/) and the [practice questions](/resources/aqa-a-level-physics-electricity-practice/). The [course hub](/boards/aqa/a-level/physics/) lists every topic, the [printable checklist](/checklists/aqa/a-level/physics/) tracks each outcome, and the free [diagnostics](/diagnostics/) show where to start.
 
@@ -218,4 +218,4 @@ Use the [revision notes](/resources/aqa-a-level-physics-electricity-revision-not
 
 ## Official syllabus
 
-AQA AS and A-level Physics specification (7407/7408), version 1.3, 1 June 2017, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.5 Electricity.
+AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.5 Electricity.

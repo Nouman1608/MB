@@ -19,7 +19,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This guide covers section 3.8, Analysis and evaluation of financial information, of the AQA A-level Accounting (7127) specification (version 1.0, 22 December 2016, for A-level exams from June 2019 onwards). The qualification is not tiered. The specification lists section 8 in the content assessed by both Paper 1 and Paper 2, each a 3-hour written exam, and you must use a calculator in the exam.
+This guide covers section 3.8, Analysis and evaluation of financial information, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, for A-level exams from June 2019 onwards). The qualification is not tiered. The specification lists section 8 in the content assessed by both Paper 1 and Paper 2, each a 3-hour written exam, and you must use a calculator in the exam.
 
 Use it with the [revision notes](/resources/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information-revision-notes/) and the [practice questions](/resources/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information-practice/). The ratios are worked from statements like those in [preparation of financial statements of sole traders](/resources/aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders/), and the users who read them are introduced in [the role of the accountant](/resources/aqa-a-level-accounting-role-of-the-accountant/). See also the [AQA A-level Accounting hub](/boards/aqa/a-level/accounting/), the [7127 checklist](/checklists/aqa/a-level/accounting/) and the [free diagnostics](/diagnostics/). All businesses and figures are invented.
 
@@ -227,4 +227,4 @@ Next, test recall with the [revision notes](/resources/aqa-a-level-accounting-an
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, for A-level exams June 2019 onwards, published by AQA -- section 3.8, Analysis and evaluation of financial information.
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019 onwards, published by AQA -- section 3.8, Analysis and evaluation of financial information.

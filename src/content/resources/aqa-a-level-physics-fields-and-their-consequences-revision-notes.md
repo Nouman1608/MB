@@ -34,7 +34,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-For full explanations and worked examples, start with the [study guide](/resources/aqa-a-level-physics-fields-and-their-consequences/). These notes condense section 3.7 Fields and their consequences of the AQA AS and A-level Physics specification (7407/7408, version 1.3, AS and A-level exams June 2016 onwards): 3.7.1 Fields to 3.7.5 Magnetic fields. All of 3.7 is A-level only and is assessed in Paper 2. It is core content, not an option; the options are sections 3.9 to 3.13, one of which you study for Paper 3 Section B.
+For full explanations and worked examples, start with the [study guide](/resources/aqa-a-level-physics-fields-and-their-consequences/). These notes condense section 3.7 Fields and their consequences of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards): 3.7.1 Fields to 3.7.5 Magnetic fields. All of 3.7 is A-level only and is assessed in Paper 2. It is core content, not an option; the options are sections 3.9 to 3.13, one of which you study for Paper 3 Section B.
 
 Links: [course hub](/boards/aqa/a-level/physics/), [printable checklist](/checklists/aqa/a-level/physics/), [practice questions](/resources/aqa-a-level-physics-fields-and-their-consequences-practice/), free [diagnostics](/diagnostics/).
 
@@ -195,4 +195,4 @@ Orbit results to derive, not just quote: v = √(GM/r), T² = (4π²/GM)r³, tot
 
 ## Official syllabus
 
-AQA AS and A-level Physics specification (7407/7408), version 1.3, 1 June 2017, AS and A-level exams June 2016 onwards, published by AQA. Section 3.7 Fields and their consequences.
+AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.7 Fields and their consequences.

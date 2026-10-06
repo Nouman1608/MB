@@ -37,7 +37,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-These revision notes condense section 3.13 Electronics (3.13.1 to 3.13.6) of the AQA AS and A-level Physics specification (7407/7408, version 1.3, AS and A-level exams June 2016 onwards). The section is **A-level only**. It is one of the five **options** (sections 3.9 to 3.13); you study one, and it is assessed in Paper 3 Section B (35 marks). Paper 3 Section A assesses practical skills and data analysis.
+These revision notes condense section 3.13 Electronics (3.13.1 to 3.13.6) of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards). The section is **A-level only**. It is one of the five **options** (sections 3.9 to 3.13); you study one, and it is assessed in Paper 3 Section B (35 marks). Paper 3 Section A assesses practical skills and data analysis.
 
 For full explanations and worked examples, use the [study guide](/resources/aqa-a-level-physics-electronics/). Then test yourself with the [practice questions](/resources/aqa-a-level-physics-electronics-practice/). See also the [course hub](/boards/aqa/a-level/physics/), the [printable checklist](/checklists/aqa/a-level/physics/) and the [free diagnostics](/diagnostics/). Diode basics are in [Electricity](/resources/aqa-a-level-physics-electricity-revision-notes/).
 
@@ -196,4 +196,4 @@ Only the inverting amplifier needs a derivation. The specification says the LC, 
 
 ## Official syllabus
 
-AQA AS and A-level Physics (7407/7408) specification, version 1.3, 1 June 2017, AS and A-level exams June 2016 onwards, published by AQA. Section 3.13 Electronics (A-level only option).
+AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.13 Electronics (A-level only option).

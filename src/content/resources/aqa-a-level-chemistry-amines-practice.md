@@ -27,7 +27,7 @@ featured: false
 > these alongside the official past papers from your board or school.
 
 These questions cover section **3.3.11 Amines** of the AQA AS and A-level Chemistry specification
-(7404/7405), version 1.1, 1 December 2015, for exams from June 2016 onwards: 3.3.11.1 Preparation, 3.3.11.2
+(7404/7405), version 1.2, July 2026, for exams from June 2016 onwards: 3.3.11.1 Preparation, 3.3.11.2
 Base properties and 3.3.11.3 Nucleophilic properties. All of it is **A-level only**. Organic chemistry is
 placed on A-level Paper 2, and Paper 3 can test any content.
 
@@ -218,6 +218,6 @@ sixth carbon in the chain.
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.3.11 Amines (3.3.11.1 Preparation, 3.3.11.2 Base properties and
 3.3.11.3 Nucleophilic properties), all A-level only.

@@ -25,7 +25,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-These revision notes condense section 3.11 Engineering physics of the AQA AS and A-level Physics specification (7407/7408, version 1.3, AS and A-level exams June 2016 onwards): 3.11.1 Rotational dynamics and 3.11.2 Thermodynamics and engines. The section is **A-level only**. It is one of the five **options** (sections 3.9 to 3.13); you study one, and it is assessed in Paper 3 Section B (35 marks). Paper 3 Section A assesses practical skills and data analysis.
+These revision notes condense section 3.11 Engineering physics of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards): 3.11.1 Rotational dynamics and 3.11.2 Thermodynamics and engines. The section is **A-level only**. It is one of the five **options** (sections 3.9 to 3.13); you study one, and it is assessed in Paper 3 Section B (35 marks). Paper 3 Section A assesses practical skills and data analysis.
 
 For full explanations and worked examples, use the [study guide](/resources/aqa-a-level-physics-engineering-physics/). Then test yourself with the [practice questions](/resources/aqa-a-level-physics-engineering-physics-practice/). See also the [course hub](/boards/aqa/a-level/physics/), the [printable checklist](/checklists/aqa/a-level/physics/) and the [free diagnostics](/diagnostics/). Radians, ω and the ideal gas equation come from [Further mechanics and thermal physics](/resources/aqa-a-level-physics-further-mechanics-and-thermal-physics-revision-notes/).
 
@@ -182,4 +182,4 @@ overall    = thermal × mechanical
 
 ## Official syllabus
 
-AQA AS and A-level Physics (7407/7408) specification, version 1.3, 1 June 2017, AS and A-level exams June 2016 onwards, published by AQA. Section 3.11 Engineering physics (A-level only option).
+AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.11 Engineering physics (A-level only option).

@@ -21,7 +21,7 @@ featured: false
 ---
 
 These notes condense section **3.2.2 Group 2, the alkaline earth metals** of the AQA AS and A-level
-Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016
+Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016
 onwards. Everything here is AS content (nothing is A-level only). It is examined on AS Paper 1 and A-level
 Paper 1, and A-level Paper 3 can test any content. For full explanations and worked examples, read the
 [Group 2 study guide](/resources/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals/) first.
@@ -213,6 +213,6 @@ Required practical 4 is listed in section 3.2.3 and includes identifying Group 2
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.2.2 Group 2, the alkaline earth metals, with required practical 4 (listed
 in section 3.2.3).

@@ -26,7 +26,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.1.10 of the AQA AS and A-level Chemistry specification (7404/7405), version 1.1 (1 December 2015), for AS and A-level exams from June 2016 onwards. The whole section is **A-level only**, so none of it appears in the AS papers. The A-level assessment overview lists section 3.1.10 under Paper 1, and Paper 3 can test any content. Show your working in full.
+These questions cover section 3.1.10 of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2 (July 2026), for AS and A-level exams from June 2016 onwards. The whole section is **A-level only**, so none of it appears in the AS papers. The A-level assessment overview lists section 3.1.10 under Paper 1, and Paper 3 can test any content. Show your working in full.
 
 Learn the method first in the [Kp study guide](/resources/aqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems/). Kc-only questions are in the [Kc practice set](/resources/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc-practice/).
 
@@ -157,4 +157,4 @@ A mixture of 1.00 mol of ethene and 1.00 mol of steam reaches equilibrium. The e
 
 ## Official syllabus
 
-AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.1.10: Equilibrium constant Kp for homogeneous systems (A-level only).
+AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.1.10: Equilibrium constant Kp for homogeneous systems (A-level only).

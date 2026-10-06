@@ -21,7 +21,7 @@ featured: false
 ---
 
 This study guide covers **section 3.1.8 Thermodynamics** of the AQA AS and A-level Chemistry
-specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards.
+specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards.
 It teaches both subsections: 3.1.8.1 Born–Haber cycles and 3.1.8.2 Gibbs free-energy change, ΔG, and
 entropy change, ΔS. The whole section is marked **"A-level only"**, so it is not part of the AS.
 
@@ -290,5 +290,5 @@ and read the [exam preparation guide](/resources/aqa-a-level-chemistry-exam-prep
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and
 A-level exams June 2016 onwards: section 3.1.8 Thermodynamics (A-level only).

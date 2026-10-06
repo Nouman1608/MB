@@ -24,7 +24,7 @@ featured: false
 
 Condensed for the final weeks. For full explanations and worked examples, use the [Electricity study guide](/resources/aqa-a-level-physics-electricity/).
 
-These notes cover section 3.5 Electricity (3.5.1.1 to 3.5.1.6) of the AQA AS and A-level Physics specification (7407/7408, version 1.3, AS and A-level exams June 2016 onwards). It is AS and A-level content: at A-level it is assessed in Paper 1 and assumed in Paper 2. It is not one of the options (sections 3.9 to 3.13), one of which you study for Paper 3 Section B. Test yourself afterwards with the [practice questions](/resources/aqa-a-level-physics-electricity-practice/), the [course hub](/boards/aqa/a-level/physics/), the [printable checklist](/checklists/aqa/a-level/physics/) and the free [diagnostics](/diagnostics/).
+These notes cover section 3.5 Electricity (3.5.1.1 to 3.5.1.6) of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards). It is AS and A-level content: at A-level it is assessed in Paper 1 and assumed in Paper 2. It is not one of the options (sections 3.9 to 3.13), one of which you study for Paper 3 Section B. Test yourself afterwards with the [practice questions](/resources/aqa-a-level-physics-electricity-practice/), the [course hub](/boards/aqa/a-level/physics/), the [printable checklist](/checklists/aqa/a-level/physics/) and the free [diagnostics](/diagnostics/).
 
 ## Equations
 
@@ -193,4 +193,4 @@ dark:  V_out = 5.0 × 16 / 20 = 4.0 V
 
 ## Official syllabus
 
-AQA AS and A-level Physics specification (7407/7408), version 1.3, 1 June 2017, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.5 Electricity.
+AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.5 Electricity.

@@ -28,7 +28,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.8 Nuclear physics (3.8.1.1 to 3.8.1.8) of the AQA AS and A-level Physics (7407/7408) specification, version 1.3 (AS and A-level exams June 2016 onwards). The section is **A-level only** and is assessed in Paper 2. Sections 3.9-3.13 are options (you study one, assessed in Paper 3 Section B); this section is compulsory.
+These questions cover section 3.8 Nuclear physics (3.8.1.1 to 3.8.1.8) of the AQA AS and A-level Physics (7407/7408) specification, version 1.4 (AS and A-level exams June 2016 onwards). The section is **A-level only** and is assessed in Paper 2. Sections 3.9-3.13 are options (you study one, assessed in Paper 3 Section B); this section is compulsory.
 
 Learn the content first with the [study guide](/resources/aqa-a-level-physics-nuclear-physics/) and the [revision notes](/resources/aqa-a-level-physics-nuclear-physics-revision-notes/). Course pages: [AQA A-level Physics hub](/boards/aqa/a-level/physics/), [printable checklist](/checklists/aqa/a-level/physics/) and the [free diagnostics](/diagnostics/).
 
@@ -208,4 +208,4 @@ in an emergency the control rods drop fully into the core and stop the chain rea
 
 ## Official syllabus
 
-AQA AS and A-level Physics (7407/7408) specification, version 1.3, 1 June 2017 (AS and A-level exams June 2016 onwards), published by AQA. Section 3.8 Nuclear physics (A-level only).
+AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026 (AS and A-level exams June 2016 onwards), published by AQA. Section 3.8 Nuclear physics (A-level only).

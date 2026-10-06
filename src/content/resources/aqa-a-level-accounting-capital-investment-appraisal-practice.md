@@ -26,7 +26,7 @@ featured: false
 > these alongside the official past papers from your board or school.
 
 This set covers section 3.13, Capital investment appraisal, of the AQA A-level Accounting (7127)
-specification, version 1.0 (22 December 2016), for A-level exams from June 2019 onwards. The course is
+specification, version 1.1 (October 2026), for A-level exams from June 2019 onwards. The course is
 untiered; this section is assessed on Paper 2. All businesses and figures are invented. Round present
 values to the nearest £ and payback periods to the nearest month.
 
@@ -209,5 +209,5 @@ or safety are judged to outweigh a £7 436 shortfall [1].
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, for A-level exams June 2019
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019
 onwards (AQA). Section 3.13 Capital investment appraisal.

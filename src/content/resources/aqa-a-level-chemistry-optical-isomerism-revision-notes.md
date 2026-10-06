@@ -21,7 +21,7 @@ featured: false
 ---
 
 These notes condense section **3.3.7 Optical isomerism** of the AQA AS and A-level Chemistry specification
-(7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards. The whole section is
+(7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards. The whole section is
 **A-level only**. At A-level it is assessed on Paper 2 (organic chemistry, section 3.3), and Paper 3 can test
 any content. For full explanations and worked examples, read the
 [optical isomerism study guide](/resources/aqa-a-level-chemistry-optical-isomerism/).
@@ -185,5 +185,5 @@ optical isomerism in complexes with bidentate ligands (3.2.5.3).
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.3.7 Optical isomerism (A-level only).

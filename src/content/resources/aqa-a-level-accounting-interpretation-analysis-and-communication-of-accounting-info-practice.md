@@ -25,7 +25,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.17, Interpretation, analysis and communication of accounting information, of the AQA A-level Accounting (7127) specification (version 1.0, 22 December 2016, for A-level exams from June 2019 onwards). Section 17 is assessed on both Paper 1 and Paper 2. Give ratios to two decimal places.
+These questions cover section 3.17, Interpretation, analysis and communication of accounting information, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, for A-level exams from June 2019 onwards). Section 17 is assessed on both Paper 1 and Paper 2. Give ratios to two decimal places.
 
 Learn the content in the [study guide](/resources/aqa-a-level-accounting-interpretation-analysis-and-communication-of-accounting-info/) and the [revision notes](/resources/aqa-a-level-accounting-interpretation-analysis-and-communication-of-accounting-info-revision-notes/). Questions on the twelve 3.8 ratios are in the [3.8 practice set](/resources/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information-practice/). See also the [AQA A-level Accounting hub](/boards/aqa/a-level/accounting/) and the [7127 checklist](/checklists/aqa/a-level/accounting/).
 
@@ -161,4 +161,4 @@ Ratios for 2025: earnings per share 10.50p; dividend per share 4.20p; dividend c
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, for A-level exams June 2019 onwards, published by AQA -- section 3.17, Interpretation, analysis and communication of accounting information.
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019 onwards, published by AQA -- section 3.17, Interpretation, analysis and communication of accounting information.

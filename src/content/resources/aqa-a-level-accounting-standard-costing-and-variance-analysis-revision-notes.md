@@ -23,7 +23,7 @@ For full explanations and the long worked example, use the
 [standard costing study guide](/resources/aqa-a-level-accounting-standard-costing-and-variance-analysis/).
 
 These notes cover section 3.11, Standard costing and variance analysis, of the AQA A-level Accounting
-(7127) specification, version 1.0 (22 December 2016), for A-level exams from June 2019 onwards. The
+(7127) specification, version 1.1 (October 2026), for A-level exams from June 2019 onwards. The
 course is untiered and this section is assessed on Paper 2. All businesses and figures are invented.
 
 Links: [course hub](/boards/aqa/a-level/accounting/) ·
@@ -209,5 +209,5 @@ ignores non-financial factors such as quality.
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, for A-level exams June 2019
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019
 onwards (AQA). Section 3.11 Standard costing and variance analysis.

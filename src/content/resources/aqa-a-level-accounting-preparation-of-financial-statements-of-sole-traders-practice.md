@@ -25,7 +25,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.6, Preparation of financial statements of sole traders, of the AQA A-level Accounting (7127) specification (version 1.0, 22 December 2016, A-level exams June 2019 onwards). The qualification is not tiered and section 3.6 is assessed on Paper 1. Use a calculator throughout. All businesses and figures are invented.
+These questions cover section 3.6, Preparation of financial statements of sole traders, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, A-level exams June 2019 onwards). The qualification is not tiered and section 3.6 is assessed on Paper 1. Use a calculator throughout. All businesses and figures are invented.
 
 Learn the content with the [study guide](/resources/aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders/) and the [revision notes](/resources/aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders-revision-notes/). See also the [AQA A-level Accounting hub](/boards/aqa/a-level/accounting/) and the [7127 checklist](/checklists/aqa/a-level/accounting/).
 
@@ -252,4 +252,4 @@ Depreciation 20% x 23,400 = 4,680, carrying amount £18,720 [1]; inventory £24,
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, for A-level exams June 2019 onwards, published by AQA -- section 3.6, Preparation of financial statements of sole traders.
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019 onwards, published by AQA -- section 3.6, Preparation of financial statements of sole traders.

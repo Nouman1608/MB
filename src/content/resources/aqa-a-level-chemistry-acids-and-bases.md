@@ -21,7 +21,7 @@ featured: false
 ---
 
 This guide teaches section **3.1.12 Acids and bases** of the AQA AS and A-level Chemistry specification
-(7404/7405), version 1.1, 1 December 2015, for exams from June 2016 onwards: 3.1.12.1 to 3.1.12.6 and
+(7404/7405), version 1.2, July 2026, for exams from June 2016 onwards: 3.1.12.1 to 3.1.12.6 and
 Required practical 9. The whole section is **A-level only**. The specification places it on A-level
 Paper 1, and Paper 3 can test any content.
 
@@ -315,6 +315,6 @@ HA left = 3.50 × 10⁻³ mol;  A⁻ formed = 1.50 × 10⁻³ mol
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.1.12 Acids and bases (3.1.12.1 to 3.1.12.6, A-level only), with
 Required practical 9.

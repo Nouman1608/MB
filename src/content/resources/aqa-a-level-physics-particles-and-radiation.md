@@ -25,7 +25,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This guide teaches section 3.2 Particles and radiation of the AQA AS and A-level Physics (7407/7408) specification, version 1.3 (AS and A-level exams June 2016 onwards). It covers 3.2.1 Particles and 3.2.2 Electromagnetic radiation and quantum phenomena, every numbered sub-section. Section 3.2 is AS and A-level content: at A-level it is examined in Paper 1 (sections 1-5 and 6.1) and assumed in Paper 2. Sections 3.9-3.13 are options -- you study one, assessed in Paper 3 Section B -- but this topic is compulsory for everyone.
+This guide teaches section 3.2 Particles and radiation of the AQA AS and A-level Physics (7407/7408) specification, version 1.4 (AS and A-level exams June 2016 onwards). It covers 3.2.1 Particles and 3.2.2 Electromagnetic radiation and quantum phenomena, every numbered sub-section. Section 3.2 is AS and A-level content: at A-level it is examined in Paper 1 (sections 1-5 and 6.1) and assumed in Paper 2. Sections 3.9-3.13 are options -- you study one, assessed in Paper 3 Section B -- but this topic is compulsory for everyone.
 
 Course links: [AQA A-level Physics hub](/boards/aqa/a-level/physics/) and the [printable checklist](/checklists/aqa/a-level/physics/). Then try the [free diagnostics](/diagnostics/), the [revision notes](/resources/aqa-a-level-physics-particles-and-radiation-revision-notes/) and the [practice questions](/resources/aqa-a-level-physics-particles-and-radiation-practice/). For J to eV conversion see [SI units and their prefixes](/resources/aqa-alevel-physics-use-of-si-units-and-their-prefixes/).
 
@@ -219,4 +219,4 @@ v = √(2Ek/m) = √(2 × 2.40 × 10⁻¹⁷ / 9.11 × 10⁻³¹) = 7.26 × 10�
 
 ## Official syllabus
 
-AQA AS and A-level Physics (7407/7408) specification, version 1.3, 1 June 2017, AS and A-level exams June 2016 onwards, published by AQA. Section 3.2 Particles and radiation.
+AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.2 Particles and radiation.

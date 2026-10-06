@@ -20,7 +20,7 @@ featured: false
 ---
 
 This study guide teaches section 3.9, Budgeting, of the AQA A-level Accounting (7127) specification,
-version 1.0 (22 December 2016), for A-level exams from June 2019 onwards. The qualification is linear
+version 1.1 (October 2026), for A-level exams from June 2019 onwards. The qualification is linear
 and untiered. Section 3.9 is examined on Paper 2, which assesses sections 1–3, 8–13 and 17–18.
 Budgeting is management accounting: forward-looking information for managers, as set out in
 [the role of the accountant](/resources/aqa-a-level-accounting-role-of-the-accountant/). All
@@ -266,5 +266,5 @@ training, and incremental budgeting otherwise.
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, A-level exams June 2019
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, A-level exams June 2019
 onwards (AQA), section 3.9 Budgeting.

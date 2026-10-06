@@ -20,7 +20,7 @@ featured: false
 ---
 
 This guide covers section 3.10, Marginal costing, of the AQA A-level Accounting (7127) specification,
-version 1.0 (22 December 2016), for A-level exams from June 2019 onwards. The course is untiered, and
+version 1.1 (October 2026), for A-level exams from June 2019 onwards. The course is untiered, and
 section 3.10 is assessed on Paper 2, which draws on sections 1–3, 8–13 and 17–18. Every business and
 figure below is invented.
 
@@ -278,5 +278,5 @@ check gaps with the [diagnostics](/diagnostics/), and see how the papers are bui
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, for A-level exams June 2019
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019
 onwards (AQA). Section 3.10 Marginal costing.

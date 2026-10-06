@@ -26,7 +26,7 @@ featured: false
 > these alongside the official past papers from your board or school.
 
 This set covers section 3.4, Verification of accounting records, of the AQA A-level Accounting (7127)
-specification, version 1.0 (22 December 2016), for A-level exams from June 2019 onwards. The course is
+specification, version 1.1 (October 2026), for A-level exams from June 2019 onwards. The course is
 untiered; this section is examined on Paper 1. All businesses and figures are invented.
 
 Before you start, read the [study guide](/resources/aqa-a-level-accounting-verification-of-accounting-records/)
@@ -225,5 +225,5 @@ Opening credit balance £944 (95 189 − 94 245) [1]; three correct postings [1]
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, A-level exams June 2019
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, A-level exams June 2019
 onwards (AQA), section 3.4 Verification of accounting records.

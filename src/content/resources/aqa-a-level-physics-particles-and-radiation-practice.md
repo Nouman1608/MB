@@ -31,7 +31,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.2 Particles and radiation of the AQA AS and A-level Physics (7407/7408) specification, version 1.3 (AS and A-level exams June 2016 onwards): 3.2.1 Particles and 3.2.2 Electromagnetic radiation and quantum phenomena. It is AS and A-level content, examined in A-level Paper 1 and assumed in Paper 2. Sections 3.9-3.13 are options (you study one, assessed in Paper 3 Section B); this topic is compulsory.
+These questions cover section 3.2 Particles and radiation of the AQA AS and A-level Physics (7407/7408) specification, version 1.4 (AS and A-level exams June 2016 onwards): 3.2.1 Particles and 3.2.2 Electromagnetic radiation and quantum phenomena. It is AS and A-level content, examined in A-level Paper 1 and assumed in Paper 2. Sections 3.9-3.13 are options (you study one, assessed in Paper 3 Section B); this topic is compulsory.
 
 Learn the content first with the [study guide](/resources/aqa-a-level-physics-particles-and-radiation/) and the [revision notes](/resources/aqa-a-level-physics-particles-and-radiation-revision-notes/). Course pages: [AQA A-level Physics hub](/boards/aqa/a-level/physics/) and [printable checklist](/checklists/aqa/a-level/physics/).
 
@@ -183,4 +183,4 @@ Use: h = 6.63 × 10⁻³⁴ J s, c = 3.00 × 10⁸ m s⁻¹, e = 1.60 × 10⁻¹
 
 ## Official syllabus
 
-AQA AS and A-level Physics (7407/7408) specification, version 1.3, 1 June 2017, AS and A-level exams June 2016 onwards, published by AQA. Section 3.2 Particles and radiation.
+AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.2 Particles and radiation.

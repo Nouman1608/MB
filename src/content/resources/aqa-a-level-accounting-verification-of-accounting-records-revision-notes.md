@@ -24,7 +24,7 @@ For full explanations and longer worked examples, use the
 rules these checks rely on are in [the double entry model](/resources/aqa-a-level-accounting-double-entry-model/).
 
 These notes cover section 3.4, Verification of accounting records, of the AQA A-level Accounting
-(7127) specification, version 1.0 (22 December 2016), for A-level exams from June 2019 onwards. The
+(7127) specification, version 1.1 (October 2026), for A-level exams from June 2019 onwards. The
 course is untiered, and section 3.4 is examined on Paper 1. Course hub:
 [AQA A-level Accounting](/boards/aqa/a-level/accounting/). Tick off the topic on the
 [printable checklist](/checklists/aqa/a-level/accounting/), then try the
@@ -214,5 +214,5 @@ work before Paper 1.
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, A-level exams June 2019
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, A-level exams June 2019
 onwards (AQA), section 3.4 Verification of accounting records.

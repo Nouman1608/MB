@@ -20,7 +20,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This study guide covers section 3.1.11, Electrode potentials and electrochemical cells, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams from June 2016 onwards. The whole of 3.1.11 is marked "A-level only", so it is not part of AS. The specification lists it under A-level Paper 1, and Paper 3 can assess any content. Required practical 8, measuring the EMF of an electrochemical cell, belongs to this section.
+This study guide covers section 3.1.11, Electrode potentials and electrochemical cells, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. The whole of 3.1.11 is marked "A-level only", so it is not part of AS. The specification lists it under A-level Paper 1, and Paper 3 can assess any content. Required practical 8, measuring the EMF of an electrochemical cell, belongs to this section.
 
 Use it with the [revision notes](/resources/aqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells-revision-notes/) and the [practice questions](/resources/aqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells-practice/). This topic builds directly on [oxidation, reduction and redox equations](/resources/aqa-a-level-chemistry-oxidation-reduction-and-redox-equations/), so revise half-equations there first if they feel shaky. For the rest of the course, see the [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/) and the [printable checklist](/checklists/aqa/a-level/chemistry/). To find your weak spots quickly, try the [free diagnostics](/diagnostics/).
 
@@ -224,4 +224,4 @@ Test yourself with the [practice questions](/resources/aqa-a-level-chemistry-ele
 
 ## Official syllabus
 
-AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards, section 3.1.11 Electrode potentials and electrochemical cells (A-level only). Published by AQA.
+AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards, section 3.1.11 Electrode potentials and electrochemical cells (A-level only). Published by AQA.

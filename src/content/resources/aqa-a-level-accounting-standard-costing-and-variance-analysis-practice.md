@@ -26,7 +26,7 @@ featured: false
 > these alongside the official past papers from your board or school.
 
 This set covers section 3.11, Standard costing and variance analysis, of the AQA A-level Accounting
-(7127) specification, version 1.0 (22 December 2016), for A-level exams from June 2019 onwards. The
+(7127) specification, version 1.1 (October 2026), for A-level exams from June 2019 onwards. The
 course is untiered; this section is assessed on Paper 2. A calculator is needed. All businesses and
 figures are invented.
 
@@ -213,5 +213,5 @@ Judgement: introduce standard costing for the standard cabinet range only, revie
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, for A-level exams June 2019
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019
 onwards (AQA). Section 3.11 Standard costing and variance analysis.

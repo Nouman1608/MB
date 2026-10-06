@@ -19,7 +19,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This guide covers section 3.14, Accounting for organisations with incomplete records, of the AQA A-level Accounting (7127) specification (version 1.0, 22 December 2016, for A-level exams from June 2019 onwards). The qualification is not tiered. The specification places section 3.14 in the content assessed by Paper 1, a 3-hour written exam, and you must use a calculator in the exam.
+This guide covers section 3.14, Accounting for organisations with incomplete records, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, for A-level exams from June 2019 onwards). The qualification is not tiered. The specification places section 3.14 in the content assessed by Paper 1, a 3-hour written exam, and you must use a calculator in the exam.
 
 Use it with the [revision notes](/resources/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records-revision-notes/) and the [practice questions](/resources/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records-practice/). It draws on [sole trader financial statements](/resources/aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders/), the control accounts in [verification of accounting records](/resources/aqa-a-level-accounting-verification-of-accounting-records/) and the ratios in [analysis and evaluation of financial information](/resources/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information/). See also the [AQA A-level Accounting hub](/boards/aqa/a-level/accounting/), the [7127 checklist](/checklists/aqa/a-level/accounting/) and the [free diagnostics](/diagnostics/). All businesses and figures are invented.
 
@@ -236,4 +236,4 @@ In an evaluation, weigh the size and complexity of the business. A market trader
 
 ## Official syllabus
 
-AQA, A-level Accounting (7127) specification, version 1.0, 22 December 2016, for A-level exams from June 2019 onwards: section 3.14, Accounting for organisations with incomplete records.
+AQA, A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams from June 2019 onwards: section 3.14, Accounting for organisations with incomplete records.

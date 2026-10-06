@@ -27,7 +27,7 @@ featured: false
 > these alongside the official past papers from your board or school.
 
 These questions cover section **3.1.5 Kinetics** of the AQA AS and A-level Chemistry specification
-(7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards: 3.1.5.1 to 3.1.5.5
+(7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards: 3.1.5.1 to 3.1.5.5
 and Required practical 3. All of it is AS content, so nothing here is A-level only. The topic is examined on
 Paper 2 at AS and A-level, and A-level Paper 3 can test any content.
 
@@ -220,5 +220,5 @@ the statement is right usually loses the last mark.
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.1.5 Kinetics (3.1.5.1 to 3.1.5.5), with Required practical 3.

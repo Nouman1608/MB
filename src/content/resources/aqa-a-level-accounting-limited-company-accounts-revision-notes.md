@@ -19,7 +19,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-These notes cover section 3.7, Limited company accounts, of the AQA A-level Accounting (7127) specification (version 1.0, 22 December 2016, for A-level exams from June 2019 onwards). The qualification is not tiered, and the specification places section 3.7 in the content assessed by Paper 1. For full explanations and a complete trial-balance example, use the [study guide](/resources/aqa-a-level-accounting-limited-company-accounts/). Then work through the [practice questions](/resources/aqa-a-level-accounting-limited-company-accounts-practice/).
+These notes cover section 3.7, Limited company accounts, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, for A-level exams from June 2019 onwards). The qualification is not tiered, and the specification places section 3.7 in the content assessed by Paper 1. For full explanations and a complete trial-balance example, use the [study guide](/resources/aqa-a-level-accounting-limited-company-accounts/). Then work through the [practice questions](/resources/aqa-a-level-accounting-limited-company-accounts-practice/).
 
 Related pages: [financial statements of sole traders](/resources/aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders-revision-notes/) for every year-end adjustment, and [business organisation](/resources/aqa-a-level-accounting-business-organisation-revision-notes/) for limited liability and sources of finance. See also the [AQA A-level Accounting hub](/boards/aqa/a-level/accounting/), the [7127 checklist](/checklists/aqa/a-level/accounting/) and the [free diagnostics](/diagnostics/). All figures are invented.
 
@@ -192,4 +192,4 @@ Rows: start balance, share issue, profit (loss) for the year,
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, for A-level exams June 2019 onwards, published by AQA -- section 3.7, Limited company accounts.
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019 onwards, published by AQA -- section 3.7, Limited company accounts.

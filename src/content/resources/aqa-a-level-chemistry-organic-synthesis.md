@@ -21,7 +21,7 @@ featured: false
 ---
 
 This guide teaches section **3.3.14 Organic synthesis** of the AQA AS and A-level Chemistry specification
-(7404/7405), version 1.1, 1 December 2015, for AS and A-level exams from June 2016 onwards. The whole
+(7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. The whole
 section is **A-level only**. It is examined on A-level Paper 2, which covers organic chemistry (section 3.3),
 and A-level Paper 3 can test any content. The section has three learning outcomes, and this guide teaches
 all three with worked examples.
@@ -247,6 +247,6 @@ the [exam preparation guide](/resources/aqa-a-level-chemistry-exam-preparation/)
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.3.14 Organic synthesis (A-level only), with the atom economy statement in
 3.1.2.5.

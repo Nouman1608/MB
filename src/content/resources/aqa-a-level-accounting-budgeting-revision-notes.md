@@ -20,7 +20,7 @@ featured: false
 ---
 
 These notes condense section 3.9, Budgeting, of the AQA A-level Accounting (7127) specification,
-version 1.0 (22 December 2016), for A-level exams from June 2019 onwards. The qualification is
+version 1.1 (October 2026), for A-level exams from June 2019 onwards. The qualification is
 untiered, and section 3.9 is examined on Paper 2. For full explanations and longer worked examples,
 use the [study guide](/resources/aqa-a-level-accounting-budgeting/); then test yourself with the
 [practice questions](/resources/aqa-a-level-accounting-budgeting-practice/).
@@ -218,5 +218,5 @@ is simply the cost of making 200 more units.
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, A-level exams June 2019
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, A-level exams June 2019
 onwards (AQA), section 3.9 Budgeting.

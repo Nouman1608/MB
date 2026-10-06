@@ -37,7 +37,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This study guide teaches section 3.13 Electronics (3.13.1 to 3.13.6) of the AQA AS and A-level Physics specification (7407/7408, version 1.3, AS and A-level exams June 2016 onwards). Section 3.13 is **A-level only** and one of the five **options** (sections 3.9 to 3.13): you study one, assessed in Paper 3 Section B (35 marks). Paper 3 Section A assesses practical skills and data analysis. The section lists no required practicals.
+This study guide teaches section 3.13 Electronics (3.13.1 to 3.13.6) of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards). Section 3.13 is **A-level only** and one of the five **options** (sections 3.9 to 3.13): you study one, assessed in Paper 3 Section B (35 marks). Paper 3 Section A assesses practical skills and data analysis. The section lists no required practicals.
 
 Next, use the [revision notes](/resources/aqa-a-level-physics-electronics-revision-notes/) and [practice questions](/resources/aqa-a-level-physics-electronics-practice/), the [course hub](/boards/aqa/a-level/physics/), the [printable checklist](/checklists/aqa/a-level/physics/) and the [free diagnostics](/diagnostics/). Diode I–V curves are in [Electricity](/resources/aqa-a-level-physics-electricity/); RC charging in [Fields and their consequences](/resources/aqa-a-level-physics-fields-and-their-consequences/).
 
@@ -228,4 +228,4 @@ f_M = 4.5 kHz gives an AM bandwidth of 9.0 kHz, so a 270 kHz band holds 30 chann
 
 ## Official syllabus
 
-AQA AS and A-level Physics (7407/7408) specification, version 1.3, 1 June 2017, AS and A-level exams June 2016 onwards, published by AQA. Section 3.13 Electronics (A-level only option).
+AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.13 Electronics (A-level only option).

@@ -20,7 +20,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This study guide covers section 3.1.10 of the AQA AS and A-level Chemistry specification (7404/7405), version 1.1 (1 December 2015), for AS and A-level exams from June 2016 onwards. The whole section is marked **A-level only**, so it is not part of the AS course. It builds directly on section 3.1.6 (Le Chatelier's principle and Kc), which you should revise first in the [Kc study guide](/resources/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc/).
+This study guide covers section 3.1.10 of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2 (July 2026), for AS and A-level exams from June 2016 onwards. The whole section is marked **A-level only**, so it is not part of the AS course. It builds directly on section 3.1.6 (Le Chatelier's principle and Kc), which you should revise first in the [Kc study guide](/resources/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc/).
 
 The [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/) lists every topic, and the [printable checklist](/checklists/aqa/a-level/chemistry/) lets you tick off each outcome. Mole calculations underpin everything here; the [relative mass and the mole guide](/resources/a-level-aqa-chemistry-relative-mass-and-the-mole/) covers them.
 
@@ -256,4 +256,4 @@ Condense this with the [Kp revision notes](/resources/aqa-a-level-chemistry-equi
 
 ## Official syllabus
 
-AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.1.10: Equilibrium constant Kp for homogeneous systems (A-level only).
+AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.1.10: Equilibrium constant Kp for homogeneous systems (A-level only).

@@ -21,7 +21,7 @@ featured: false
 ---
 
 This study guide covers **section 3.1.4 Energetics** of the AQA AS and A-level Chemistry specification
-(7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards. It teaches all
+(7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards. It teaches all
 four subsections: 3.1.4.1 Enthalpy change, 3.1.4.2 Calorimetry (including Required practical 2),
 3.1.4.3 Applications of Hess's law and 3.1.4.4 Bond enthalpies. None of this content is marked
 "A-level only", so it is examined in both the AS and the A-level.
@@ -281,5 +281,5 @@ read [exam preparation](/resources/aqa-a-level-chemistry-exam-preparation/), or 
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and
 A-level exams June 2016 onwards: section 3.1.4 Energetics.

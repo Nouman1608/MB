@@ -23,7 +23,7 @@ For full explanations and longer worked examples, use the
 [marginal costing study guide](/resources/aqa-a-level-accounting-marginal-costing/).
 
 These notes cover section 3.10, Marginal costing, of the AQA A-level Accounting (7127) specification,
-version 1.0 (22 December 2016), for A-level exams from June 2019 onwards. The course is untiered and this
+version 1.1 (October 2026), for A-level exams from June 2019 onwards. The course is untiered and this
 section is assessed on Paper 2. All businesses and figures are invented.
 
 Links: [course hub](/boards/aqa/a-level/accounting/) ·
@@ -196,5 +196,5 @@ Next: [practice questions](/resources/aqa-a-level-accounting-marginal-costing-pr
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, for A-level exams June 2019
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019
 onwards (AQA). Section 3.10 Marginal costing.

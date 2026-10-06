@@ -22,7 +22,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This guide teaches section 3.8 Nuclear physics of the AQA AS and A-level Physics (7407/7408) specification, version 1.3 (AS and A-level exams June 2016 onwards). It covers 3.8.1 Radioactivity, every sub-section from 3.8.1.1 to 3.8.1.8. Section 3.8 is **A-level only**: it is not in the AS, and at A-level it is assessed in Paper 2 (sections 6.2, 7 and 8, with sections 1 to 6.1 assumed). Sections 3.9-3.13 are options -- you study one, assessed in Paper 3 Section B -- but nuclear physics is compulsory for everyone.
+This guide teaches section 3.8 Nuclear physics of the AQA AS and A-level Physics (7407/7408) specification, version 1.4 (AS and A-level exams June 2016 onwards). It covers 3.8.1 Radioactivity, every sub-section from 3.8.1.1 to 3.8.1.8. Section 3.8 is **A-level only**: it is not in the AS, and at A-level it is assessed in Paper 2 (sections 6.2, 7 and 8, with sections 1 to 6.1 assumed). Sections 3.9-3.13 are options -- you study one, assessed in Paper 3 Section B -- but nuclear physics is compulsory for everyone.
 
 Links: [course hub](/boards/aqa/a-level/physics/), [printable checklist](/checklists/aqa/a-level/physics/), [free diagnostics](/diagnostics/), [revision notes](/resources/aqa-a-level-physics-nuclear-physics-revision-notes/) and [practice questions](/resources/aqa-a-level-physics-nuclear-physics-practice/). Nuclide notation and α and β⁻ decay equations are in [Particles and radiation](/resources/aqa-a-level-physics-particles-and-radiation/).
 
@@ -228,4 +228,4 @@ With hydrogen (M ≈ m) it can lose all its energy at once: light nuclei moderat
 
 ## Official syllabus
 
-AQA AS and A-level Physics (7407/7408) specification, version 1.3, 1 June 2017 (AS and A-level exams June 2016 onwards), published by AQA. Section 3.8 Nuclear physics (A-level only).
+AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026 (AS and A-level exams June 2016 onwards), published by AQA. Section 3.8 Nuclear physics (A-level only).

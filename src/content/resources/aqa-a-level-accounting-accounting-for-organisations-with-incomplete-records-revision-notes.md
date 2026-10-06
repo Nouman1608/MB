@@ -21,7 +21,7 @@ featured: false
 
 For full explanations and five worked examples, read the [study guide](/resources/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records/) first.
 
-These notes cover section 3.14, Accounting for organisations with incomplete records, of the AQA A-level Accounting (7127) specification (version 1.0, 22 December 2016, A-level exams June 2019 onwards). The qualification is not tiered, and the specification assesses section 3.14 on Paper 1. Test yourself with the [practice questions](/resources/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records-practice/), and use the [AQA A-level Accounting hub](/boards/aqa/a-level/accounting/), the [7127 checklist](/checklists/aqa/a-level/accounting/) and the [free diagnostics](/diagnostics/). Related notes: [sole trader financial statements](/resources/aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders-revision-notes/) and [verification of accounting records](/resources/aqa-a-level-accounting-verification-of-accounting-records-revision-notes/).
+These notes cover section 3.14, Accounting for organisations with incomplete records, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, A-level exams June 2019 onwards). The qualification is not tiered, and the specification assesses section 3.14 on Paper 1. Test yourself with the [practice questions](/resources/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records-practice/), and use the [AQA A-level Accounting hub](/boards/aqa/a-level/accounting/), the [7127 checklist](/checklists/aqa/a-level/accounting/) and the [free diagnostics](/diagnostics/). Related notes: [sole trader financial statements](/resources/aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders-revision-notes/) and [verification of accounting records](/resources/aqa-a-level-accounting-verification-of-accounting-records-revision-notes/).
 
 ## 3.14 at a glance
 
@@ -201,4 +201,4 @@ A good evaluation links the choice to the business: size, credit trading, staff,
 
 ## Official syllabus
 
-AQA, A-level Accounting (7127) specification, version 1.0, 22 December 2016, for A-level exams from June 2019 onwards: section 3.14, Accounting for organisations with incomplete records.
+AQA, A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams from June 2019 onwards: section 3.14, Accounting for organisations with incomplete records.

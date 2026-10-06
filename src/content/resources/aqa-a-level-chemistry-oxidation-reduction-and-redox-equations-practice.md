@@ -26,7 +26,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.1.7, Oxidation, reduction and redox equations, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams from June 2016 onwards. The whole section is AS content and is also part of the full A-level; none of it is marked "A-level only". The specification assesses it in Paper 1 at AS and A-level, and A-level Paper 3 can include any content. Question 10 also uses mole calculations from section 3.1.2.
+These questions cover section 3.1.7, Oxidation, reduction and redox equations, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. The whole section is AS content and is also part of the full A-level; none of it is marked "A-level only". The specification assesses it in Paper 1 at AS and A-level, and A-level Paper 3 can include any content. Question 10 also uses mole calculations from section 3.1.2.
 
 Before you start, you may want the [study guide](/resources/aqa-a-level-chemistry-oxidation-reduction-and-redox-equations/) or the [revision notes](/resources/aqa-a-level-chemistry-oxidation-reduction-and-redox-equations-revision-notes/). The [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/) and [printable checklist](/checklists/aqa/a-level/chemistry/) cover the rest of the course.
 
@@ -179,4 +179,4 @@ Concentration = 2.25 × 10⁻³ ÷ 0.0250 dm³ [1] = **0.0900 mol dm⁻³** [1]
 
 ## Official syllabus
 
-AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards, section 3.1.7 Oxidation, reduction and redox equations. Published by AQA.
+AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards, section 3.1.7 Oxidation, reduction and redox equations. Published by AQA.

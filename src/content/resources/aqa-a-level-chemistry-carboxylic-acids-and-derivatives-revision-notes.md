@@ -21,7 +21,7 @@ featured: false
 ---
 
 These notes condense section **3.3.9 Carboxylic acids and derivatives** of the AQA AS and A-level
-Chemistry specification (7404/7405), version 1.1, 1 December 2015, for exams from June 2016 onwards.
+Chemistry specification (7404/7405), version 1.2, July 2026, for exams from June 2016 onwards.
 They cover 3.3.9.1 Carboxylic acids and esters, 3.3.9.2 Acylation and Required practical 10. The whole
 section is **A-level only**: it is examined on A-level Paper 2 (organic chemistry), and Paper 3 can test
 any content and any practical skill. For full explanations and worked examples, use the
@@ -225,6 +225,6 @@ Use Ar values H = 1.0, C = 12.0, N = 14.0, O = 16.0, Cl = 35.5.
 
 ## Official syllabus
 
-AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and
+AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and
 A-level exams June 2016 onwards. Published by AQA. These notes cover section 3.3.9 and Required
 practical 10.

@@ -27,7 +27,7 @@ featured: false
 > these alongside the official past papers from your board or school.
 
 These questions cover section **3.3.8 Aldehydes and ketones** of the AQA AS and A-level Chemistry
-specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards. The whole
+specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards. The whole
 section is **A-level only**. It is examined on A-level Paper 2, and Paper 3 can test any content. Questions 7,
 10 and 11 also draw on alcohols, optical isomerism and organic analysis.
 
@@ -188,5 +188,5 @@ chiral [1] **[3]**
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.3.8 Aldehydes and ketones (A-level only).

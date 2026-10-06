@@ -25,7 +25,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-These notes condense section 3.3 Waves of the AQA AS and A-level Physics specification (7407/7408, version 1.3, AS and A-level exams June 2016 onwards): 3.3.1 Progressive and stationary waves and 3.3.2 Refraction, diffraction and interference. It is AS and A-level content, assessed at A-level in Paper 1 and assumed in Paper 2; it is not one of the Paper 3 Section B options (sections 3.9 to 3.13). For full explanations and worked examples, use the [Waves study guide](/resources/aqa-a-level-physics-waves/).
+These notes condense section 3.3 Waves of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards): 3.3.1 Progressive and stationary waves and 3.3.2 Refraction, diffraction and interference. It is AS and A-level content, assessed at A-level in Paper 1 and assumed in Paper 2; it is not one of the Paper 3 Section B options (sections 3.9 to 3.13). For full explanations and worked examples, use the [Waves study guide](/resources/aqa-a-level-physics-waves/).
 
 Test yourself afterwards with the [Waves practice questions](/resources/aqa-a-level-physics-waves-practice/). The [course hub](/boards/aqa/a-level/physics/) and [printable checklist](/checklists/aqa/a-level/physics/) list every topic.
 
@@ -188,4 +188,4 @@ The [measurements revision notes](/resources/aqa-a-level-physics-measurements-re
 
 ## Official syllabus
 
-AQA AS and A-level Physics specification (7407/7408), version 1.3, 1 June 2017, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.3 Waves.
+AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.3 Waves.

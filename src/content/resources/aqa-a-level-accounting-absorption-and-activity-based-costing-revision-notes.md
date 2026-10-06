@@ -23,7 +23,7 @@ For full explanations and longer worked examples, use the
 [absorption and activity based costing study guide](/resources/aqa-a-level-accounting-absorption-and-activity-based-costing/).
 
 These notes cover section 3.12, Absorption and activity based costing, of the AQA A-level Accounting
-(7127) specification, version 1.0 (22 December 2016), for A-level exams from June 2019 onwards. The
+(7127) specification, version 1.1 (October 2026), for A-level exams from June 2019 onwards. The
 course is untiered and this section is assessed on Paper 2. All businesses and figures are invented.
 
 Links: [course hub](/boards/aqa/a-level/accounting/) ·
@@ -212,5 +212,5 @@ high-volume one. Prices set from absorption cost can then sell the complex produ
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, for A-level exams June 2019
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019
 onwards (AQA). Section 3.12 Absorption and activity based costing.

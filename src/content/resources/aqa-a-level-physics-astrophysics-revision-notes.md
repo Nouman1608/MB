@@ -28,7 +28,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-These notes condense section 3.9 Astrophysics of the AQA AS and A-level Physics specification (7407/7408, version 1.3, AS and A-level exams June 2016 onwards), sub-sections 3.9.1 to 3.9.3. Astrophysics is one of the five options (sections 3.9 to 3.13); you study one, assessed in Paper 3 Section B. It is A-level only. For full explanations and worked examples, read the [Astrophysics study guide](/resources/aqa-a-level-physics-astrophysics/) first.
+These notes condense section 3.9 Astrophysics of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards), sub-sections 3.9.1 to 3.9.3. Astrophysics is one of the five options (sections 3.9 to 3.13); you study one, assessed in Paper 3 Section B. It is A-level only. For full explanations and worked examples, read the [Astrophysics study guide](/resources/aqa-a-level-physics-astrophysics/) first.
 
 Useful links: [course hub](/boards/aqa/a-level/physics/), [printable checklist](/checklists/aqa/a-level/physics/), free [diagnostics](/diagnostics/), and the [Astrophysics practice questions](/resources/aqa-a-level-physics-astrophysics-practice/).
 
@@ -157,4 +157,4 @@ Unit conversions: 1 pc ≈ 3.08 × 10¹⁶ m; 1 Mpc ≈ 3.08 × 10²² m; 1 ly �
 
 ## Official syllabus
 
-AQA AS and A-level Physics specification (7407/7408), version 1.3, 1 June 2017, AS and A-level exams June 2016 onwards: section 3.9 Astrophysics (A-level only).
+AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, AS and A-level exams June 2016 onwards: section 3.9 Astrophysics (A-level only).

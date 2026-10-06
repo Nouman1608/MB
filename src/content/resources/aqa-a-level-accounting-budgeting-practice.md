@@ -26,7 +26,7 @@ featured: false
 > these alongside the official past papers from your board or school.
 
 This set covers section 3.9, Budgeting, of the AQA A-level Accounting (7127) specification, version
-1.0 (22 December 2016), for A-level exams from June 2019 onwards. The course is untiered; this
+1.1 (October 2026), for A-level exams from June 2019 onwards. The course is untiered; this
 section is examined on Paper 2. All businesses and figures are invented.
 
 First read the [study guide](/resources/aqa-a-level-accounting-budgeting/) or the
@@ -196,5 +196,5 @@ Fixtures £17 400 [1]; trade receivables £9 000 [1]; bank £4 500 [1]; inventor
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, A-level exams June 2019
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, A-level exams June 2019
 onwards (AQA), section 3.9 Budgeting.

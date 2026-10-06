@@ -34,7 +34,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This study guide teaches section 3.7 Fields and their consequences of the AQA AS and A-level Physics specification (7407/7408, version 1.3, AS and A-level exams June 2016 onwards), sub-sections 3.7.1 to 3.7.5. The whole section is A-level only and is assessed in Paper 2. It is core content: sections 3.9 to 3.13 are the options, of which you study one for Paper 3 Section B.
+This study guide teaches section 3.7 Fields and their consequences of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards), sub-sections 3.7.1 to 3.7.5. The whole section is A-level only and is assessed in Paper 2. It is core content: sections 3.9 to 3.13 are the options, of which you study one for Paper 3 Section B.
 
 The [course hub](/boards/aqa/a-level/physics/) lists every topic, the [printable checklist](/checklists/aqa/a-level/physics/) tracks outcomes, and the free [diagnostics](/diagnostics/) find weak spots.
 
@@ -231,4 +231,4 @@ Revise with the [revision notes](/resources/aqa-a-level-physics-fields-and-their
 
 ## Official syllabus
 
-AQA AS and A-level Physics specification (7407/7408), version 1.3, 1 June 2017, AS and A-level exams June 2016 onwards, published by AQA. Section 3.7 Fields and their consequences.
+AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.7 Fields and their consequences.

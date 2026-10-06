@@ -21,7 +21,7 @@ featured: false
 ---
 
 This guide teaches section **3.3.13 Amino acids, proteins and DNA** of the AQA AS and A-level Chemistry
-specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards. It
+specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards. It
 covers all five parts: 3.3.13.1 amino acids, 3.3.13.2 proteins, 3.3.13.3 enzymes, 3.3.13.4 DNA and
 3.3.13.5 the action of anticancer drugs. The whole section is **A-level only**, so it is not in the AS
 exams. At A-level the specification places organic chemistry (section 3.3) on Paper 2, and Paper 3 can test
@@ -241,5 +241,5 @@ and see [exam preparation](/resources/aqa-a-level-chemistry-exam-preparation/) f
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.3.13 Amino acids, proteins and DNA (3.3.13.1 to 3.3.13.5), A-level only.

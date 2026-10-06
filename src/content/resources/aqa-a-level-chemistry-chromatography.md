@@ -21,7 +21,7 @@ featured: false
 ---
 
 This guide teaches section **3.3.16 Chromatography** of the AQA AS and A-level Chemistry specification
-(7404/7405), version 1.1, 1 December 2015, for AS and A-level exams from June 2016 onwards. The whole
+(7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. The whole
 section is marked "A-level only", so it is not AS content. It sits in the organic chemistry section, which
 the specification lists under A-level Paper 2, and Paper 3 can assess any content and any practical skill.
 It includes Required practical 12, separation of species by thin-layer chromatography.
@@ -226,5 +226,5 @@ pair with the suggestion of using TLC on transition metal ions.
 
 ## Official syllabus
 
-AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards (AQA). Section 3.3.16 Chromatography (A-level only), including Required practical 12.

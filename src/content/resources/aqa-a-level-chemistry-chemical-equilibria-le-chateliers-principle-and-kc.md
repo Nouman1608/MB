@@ -20,7 +20,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This study guide covers section 3.1.6 of the AQA AS and A-level Chemistry specification (7404/7405), version 1.1 (1 December 2015), for AS and A-level exams from June 2016 onwards. It teaches both parts of the section: 3.1.6.1 Chemical equilibria and Le Chatelier's principle, and 3.1.6.2 Equilibrium constant Kc for homogeneous systems. All of this content is AS content, so it is also part of the full A-level; nothing in section 3.1.6 is marked "A-level only". The partial-pressure constant Kp is a separate section (3.1.10, A-level only) and is not covered here.
+This study guide covers section 3.1.6 of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2 (July 2026), for AS and A-level exams from June 2016 onwards. It teaches both parts of the section: 3.1.6.1 Chemical equilibria and Le Chatelier's principle, and 3.1.6.2 Equilibrium constant Kc for homogeneous systems. All of this content is AS content, so it is also part of the full A-level; nothing in section 3.1.6 is marked "A-level only". The partial-pressure constant Kp is a separate section (3.1.10, A-level only) and is not covered here.
 
 Kc calculations rely on moles and concentrations, so revise the [relative mass and the mole study guide](/resources/a-level-aqa-chemistry-relative-mass-and-the-mole/) first if needed. The [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/) lists every topic, and the [printable checklist](/checklists/aqa/a-level/chemistry/) lets you tick off each outcome.
 
@@ -248,4 +248,4 @@ Condense this with the [revision notes](/resources/aqa-a-level-chemistry-chemica
 
 ## Official syllabus
 
-AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.1.6: Chemical equilibria, Le Chatelier's principle and Kc.
+AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.1.6: Chemical equilibria, Le Chatelier's principle and Kc.

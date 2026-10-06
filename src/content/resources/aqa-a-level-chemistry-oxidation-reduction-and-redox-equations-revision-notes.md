@@ -20,7 +20,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-These revision notes cover section 3.1.7, Oxidation, reduction and redox equations, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams from June 2016 onwards. The whole section is AS content and is also part of the full A-level; none of it is marked "A-level only". The specification places it in Paper 1 at both AS and A-level, and A-level Paper 3 can test any content.
+These revision notes cover section 3.1.7, Oxidation, reduction and redox equations, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. The whole section is AS content and is also part of the full A-level; none of it is marked "A-level only". The specification places it in Paper 1 at both AS and A-level, and A-level Paper 3 can test any content.
 
 For full explanations and step-by-step worked examples, read the [study guide](/resources/aqa-a-level-chemistry-oxidation-reduction-and-redox-equations/). When you are ready to test yourself under exam conditions, use the [practice questions](/resources/aqa-a-level-chemistry-oxidation-reduction-and-redox-equations-practice/). The [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/) and [printable checklist](/checklists/aqa/a-level/chemistry/) list every other section.
 
@@ -207,4 +207,4 @@ Cover the answers, then try each one.
 
 ## Official syllabus
 
-AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards, section 3.1.7 Oxidation, reduction and redox equations. Published by AQA.
+AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards, section 3.1.7 Oxidation, reduction and redox equations. Published by AQA.

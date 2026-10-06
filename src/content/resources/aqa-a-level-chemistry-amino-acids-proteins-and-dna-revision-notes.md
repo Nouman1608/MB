@@ -24,7 +24,7 @@ For full explanations and worked examples, read the
 [amino acids, proteins and DNA study guide](/resources/aqa-a-level-chemistry-amino-acids-proteins-and-dna/) first.
 
 These notes cover section **3.3.13 Amino acids, proteins and DNA** of the AQA AS and A-level Chemistry
-specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards:
+specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards:
 3.3.13.1 to 3.3.13.5. The whole section is **A-level only**. At A-level, organic chemistry is assessed on
 Paper 2, and Paper 3 can test any content.
 
@@ -210,5 +210,5 @@ In double-stranded DNA, %A = %T and %G = %C.
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.3.13 Amino acids, proteins and DNA (3.3.13.1 to 3.3.13.5), A-level only.

@@ -37,7 +37,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This guide teaches section 3.10 Medical physics of the AQA AS and A-level Physics (7407/7408) specification, version 1.3 (AS and A-level exams June 2016 onwards), covering every sub-section from 3.10.1 to 3.10.6. The section is **A-level only**. Sections 3.9-3.13 are **options**: you study one, and it is assessed in Paper 3 Section B (35 of the paper's 80 marks). Section A of Paper 3 assesses practical skills and data analysis.
+This guide teaches section 3.10 Medical physics of the AQA AS and A-level Physics (7407/7408) specification, version 1.4 (AS and A-level exams June 2016 onwards), covering every sub-section from 3.10.1 to 3.10.6. The section is **A-level only**. Sections 3.9-3.13 are **options**: you study one, and it is assessed in Paper 3 Section B (35 of the paper's 80 marks). Section A of Paper 3 assesses practical skills and data analysis.
 
 Links: [course hub](/boards/aqa/a-level/physics/), [printable checklist](/checklists/aqa/a-level/physics/), [free diagnostics](/diagnostics/), [revision notes](/resources/aqa-a-level-physics-medical-physics-revision-notes/), [practice questions](/resources/aqa-a-level-physics-medical-physics-practice/). Core background: fibres in [Waves](/resources/aqa-a-level-physics-waves/), decay in [Nuclear physics](/resources/aqa-a-level-physics-nuclear-physics/), annihilation in [Particles and radiation](/resources/aqa-a-level-physics-particles-and-radiation/).
 
@@ -201,4 +201,4 @@ Next: [revision notes](/resources/aqa-a-level-physics-medical-physics-revision-n
 
 ## Official syllabus
 
-AQA AS and A-level Physics (7407/7408) specification, version 1.3, 1 June 2017 (AS and A-level exams June 2016 onwards), section 3.10 Medical physics.
+AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026 (AS and A-level exams June 2016 onwards), section 3.10 Medical physics.

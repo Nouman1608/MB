@@ -21,7 +21,7 @@ featured: false
 ---
 
 These notes condense section **3.1.5 Kinetics** of the AQA AS and A-level Chemistry specification
-(7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards. They cover 3.1.5.1 to
+(7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards. They cover 3.1.5.1 to
 3.1.5.5 and Required practical 3. Everything here is AS content, so none of it is A-level only; it is
 examined on Paper 2 at AS and A-level, and A-level Paper 3 can test any content. For full explanations and
 worked examples, read the [kinetics study guide](/resources/aqa-a-level-chemistry-kinetics/). To test
@@ -196,5 +196,5 @@ the [practice questions](/resources/aqa-a-level-chemistry-kinetics-practice/). T
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.1.5 Kinetics (3.1.5.1 to 3.1.5.5), with Required practical 3.

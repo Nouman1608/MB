@@ -26,7 +26,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.1.11, Electrode potentials and electrochemical cells, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams from June 2016 onwards. The whole section is marked "A-level only", so none of it is AS content. It is listed under A-level Paper 1, and Paper 3 can assess any content, including required practical 8. Use only the E⦵ data given in each question.
+These questions cover section 3.1.11, Electrode potentials and electrochemical cells, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. The whole section is marked "A-level only", so none of it is AS content. It is listed under A-level Paper 1, and Paper 3 can assess any content, including required practical 8. Use only the E⦵ data given in each question.
 
 Before you start, you may want the [study guide](/resources/aqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells/) or the [revision notes](/resources/aqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells-revision-notes/). The [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/) and [printable checklist](/checklists/aqa/a-level/chemistry/) cover the rest of the course, and the [free diagnostics](/diagnostics/) show where to focus.
 
@@ -188,4 +188,4 @@ PbSO₄ + 2e⁻ ⇌ Pb + SO₄²⁻, E⦵ = −0.36 V
 
 ## Official syllabus
 
-AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards, section 3.1.11 Electrode potentials and electrochemical cells (A-level only). Published by AQA.
+AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards, section 3.1.11 Electrode potentials and electrochemical cells (A-level only). Published by AQA.

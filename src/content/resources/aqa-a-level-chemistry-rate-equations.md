@@ -21,7 +21,7 @@ featured: false
 ---
 
 This guide teaches section **3.1.9 Rate equations** of the AQA AS and A-level Chemistry specification
-(7404/7405), version 1.1, 1 December 2015, for exams from June 2016 onwards: 3.1.9.1, 3.1.9.2 and Required
+(7404/7405), version 1.2, July 2026, for exams from June 2016 onwards: 3.1.9.1, 3.1.9.2 and Required
 practical 7. The whole section is **A-level only**. The specification places it on A-level Paper 2, and
 Paper 3 can test any content.
 
@@ -287,6 +287,6 @@ free 10-minute [diagnostics](/diagnostics/) show where to focus.
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.1.9 Rate equations (3.1.9.1 and 3.1.9.2, A-level only), with Required
 practical 7.

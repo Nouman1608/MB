@@ -21,7 +21,7 @@ featured: false
 ---
 
 These notes condense section **3.3.12 Polymers** of the AQA AS and A-level Chemistry specification
-(7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards: 3.3.12.1
+(7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards: 3.3.12.1
 Condensation polymers and 3.3.12.2 Biodegradability and disposal of polymers. The whole section is
 **A-level only**. It is examined on A-level Paper 2, and A-level Paper 3 can test any content.
 
@@ -183,6 +183,6 @@ Stronger forces between chains → higher melting point and stronger fibres.
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.3.12 Polymers (3.3.12.1 Condensation polymers and 3.3.12.2
 Biodegradability and disposal of polymers), A-level only.

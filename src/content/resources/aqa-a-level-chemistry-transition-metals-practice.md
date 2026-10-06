@@ -26,7 +26,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.2.5, Transition metals, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams from June 2016 onwards. The whole section is marked "A-level only", so none of it is AS content. Inorganic chemistry is listed under A-level Paper 1, and Paper 3 can assess any content. Use only the data given in each question.
+These questions cover section 3.2.5, Transition metals, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. The whole section is marked "A-level only", so none of it is AS content. Inorganic chemistry is listed under A-level Paper 1, and Paper 3 can assess any content. Use only the data given in each question.
 
 Before you start, you may want the [study guide](/resources/aqa-a-level-chemistry-transition-metals/) or the [revision notes](/resources/aqa-a-level-chemistry-transition-metals-revision-notes/). The [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/) and [printable checklist](/checklists/aqa/a-level/chemistry/) cover the rest of the course, and the [free diagnostics](/diagnostics/) show where to focus.
 
@@ -175,4 +175,4 @@ For this question take ΔH = −5.0 kJ mol⁻¹ and ΔS = +150 J K⁻¹ mol⁻¹
 
 ## Official syllabus
 
-AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards (AQA). Section 3.2.5 Transition metals (A-level only).
+AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards (AQA). Section 3.2.5 Transition metals (A-level only).

@@ -27,7 +27,7 @@ featured: false
 > these alongside the official past papers from your board or school.
 
 These questions cover section **3.2.4 Properties of Period 3 elements and their oxides** of the AQA AS and
-A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June
+A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June
 2016 onwards. The whole section is **A-level only**. Inorganic chemistry is on A-level Paper 1, and A-level
 Paper 3 can test any content.
 
@@ -240,5 +240,5 @@ fewer H⁺ ions [1]
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.2.4 Properties of Period 3 elements and their oxides (A-level only).

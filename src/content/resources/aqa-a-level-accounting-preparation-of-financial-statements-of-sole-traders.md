@@ -19,7 +19,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This guide covers section 3.6, Preparation of financial statements of sole traders, of the AQA A-level Accounting (7127) specification (version 1.0, 22 December 2016, for A-level exams from June 2019 onwards). The qualification is not tiered. The specification places section 3.6 in the content assessed by Paper 1, a 3-hour written exam, and you must use a calculator in the exam.
+This guide covers section 3.6, Preparation of financial statements of sole traders, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, for A-level exams from June 2019 onwards). The qualification is not tiered. The specification places section 3.6 in the content assessed by Paper 1, a 3-hour written exam, and you must use a calculator in the exam.
 
 Use it with the [revision notes](/resources/aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders-revision-notes/) and the [practice questions](/resources/aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders-practice/). It builds on [the double entry model](/resources/aqa-a-level-accounting-double-entry-model/) and the concepts in [the role of the accountant](/resources/aqa-a-level-accounting-role-of-the-accountant/). See also the [AQA A-level Accounting hub](/boards/aqa/a-level/accounting/), the [7127 checklist](/checklists/aqa/a-level/accounting/) and the [free diagnostics](/diagnostics/). All businesses and figures are invented.
 
@@ -250,4 +250,4 @@ Next, test yourself with the [revision notes](/resources/aqa-a-level-accounting-
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, for A-level exams June 2019 onwards, published by AQA -- section 3.6, Preparation of financial statements of sole traders.
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019 onwards, published by AQA -- section 3.6, Preparation of financial statements of sole traders.

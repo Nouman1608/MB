@@ -19,7 +19,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-Condensed recall notes for section 3.8, Analysis and evaluation of financial information, of the AQA A-level Accounting (7127) specification (version 1.0, 22 December 2016, for A-level exams from June 2019 onwards). The qualification is not tiered, and the specification lists section 8 in the content assessed by both Paper 1 and Paper 2. For full explanations and a worked set of accounts, use the [study guide](/resources/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information/).
+Condensed recall notes for section 3.8, Analysis and evaluation of financial information, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, for A-level exams from June 2019 onwards). The qualification is not tiered, and the specification lists section 8 in the content assessed by both Paper 1 and Paper 2. For full explanations and a worked set of accounts, use the [study guide](/resources/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information/).
 
 Then test yourself with the [practice questions](/resources/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information-practice/). See also the [AQA A-level Accounting hub](/boards/aqa/a-level/accounting/), the [7127 checklist](/checklists/aqa/a-level/accounting/), the earlier notes on [preparing sole trader statements](/resources/aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders-revision-notes/) and the [free diagnostics](/diagnostics/).
 
@@ -169,4 +169,4 @@ Treat these as possible causes. In an answer, pick the one the data supports and
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, for A-level exams June 2019 onwards, published by AQA -- section 3.8, Analysis and evaluation of financial information.
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019 onwards, published by AQA -- section 3.8, Analysis and evaluation of financial information.

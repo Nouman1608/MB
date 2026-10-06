@@ -28,7 +28,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This study guide teaches section 3.9 Astrophysics of the AQA AS and A-level Physics specification (7407/7408, version 1.3, AS and A-level exams June 2016 onwards), sub-sections 3.9.1 to 3.9.3. Astrophysics is one of the five options (sections 3.9 to 3.13): you study one, and it is assessed in Paper 3 Section B (35 of the paper's 80 marks). Section A of Paper 3 assesses practical skills and data analysis. All of section 3.9 is A-level only.
+This study guide teaches section 3.9 Astrophysics of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards), sub-sections 3.9.1 to 3.9.3. Astrophysics is one of the five options (sections 3.9 to 3.13): you study one, and it is assessed in Paper 3 Section B (35 of the paper's 80 marks). Section A of Paper 3 assesses practical skills and data analysis. All of section 3.9 is A-level only.
 
 The [course hub](/boards/aqa/a-level/physics/) lists every topic, the [printable checklist](/checklists/aqa/a-level/physics/) tracks outcomes, and the free [diagnostics](/diagnostics/) find weak spots. For recall use the [revision notes](/resources/aqa-a-level-physics-astrophysics-revision-notes/); to test yourself use the [practice questions](/resources/aqa-a-level-physics-astrophysics-practice/).
 
@@ -192,4 +192,4 @@ Then try the [practice questions](/resources/aqa-a-level-physics-astrophysics-pr
 
 ## Official syllabus
 
-AQA AS and A-level Physics specification (7407/7408), version 1.3, 1 June 2017, AS and A-level exams June 2016 onwards: section 3.9 Astrophysics (A-level only).
+AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, AS and A-level exams June 2016 onwards: section 3.9 Astrophysics (A-level only).

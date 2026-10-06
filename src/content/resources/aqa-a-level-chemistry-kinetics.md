@@ -21,7 +21,7 @@ featured: false
 ---
 
 This guide teaches section **3.1.5 Kinetics** of the AQA AS and A-level Chemistry specification (7404/7405),
-version 1.1, 1 December 2015, for AS and A-level exams from June 2016 onwards. It covers every point from
+version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. It covers every point from
 3.1.5.1 to 3.1.5.5: collision theory, the Maxwell–Boltzmann distribution, the effect of temperature,
 concentration and pressure, and catalysts, plus Required practical 3. All of it is AS content, so nothing
 here is A-level only. The specification places 3.1.5 on Paper 2 at AS and at A-level (sections 3.1.2 to
@@ -246,5 +246,5 @@ paper structure, and the free 10-minute [diagnostics](/diagnostics/) show where 
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.1.5 Kinetics (3.1.5.1 to 3.1.5.5), with Required practical 3.

@@ -28,7 +28,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-These notes condense section 3.12 Turning points in physics of the AQA AS and A-level Physics specification (7407/7408, version 1.3, AS and A-level exams June 2016 onwards), sub-sections 3.12.1 to 3.12.3. Turning points is one of the options (sections 3.9 to 3.13); you study one option, assessed in Paper 3 Section B. It is A-level only. For full explanations and worked examples, read the [Turning points study guide](/resources/aqa-a-level-physics-turning-points-in-physics/) first.
+These notes condense section 3.12 Turning points in physics of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards), sub-sections 3.12.1 to 3.12.3. Turning points is one of the options (sections 3.9 to 3.13); you study one option, assessed in Paper 3 Section B. It is A-level only. For full explanations and worked examples, read the [Turning points study guide](/resources/aqa-a-level-physics-turning-points-in-physics/) first.
 
 Useful links: [course hub](/boards/aqa/a-level/physics/), [printable checklist](/checklists/aqa/a-level/physics/), free [diagnostics](/diagnostics/), and the [Turning points practice questions](/resources/aqa-a-level-physics-turning-points-in-physics-practice/). Core background on the photoelectric effect and de Broglie wavelength is in [Particles and radiation](/resources/aqa-a-level-physics-particles-and-radiation/).
 
@@ -154,4 +154,4 @@ Useful derived results: Millikan radius r = √(9ηv/(2ρg)); Fizeau c = 2d/t wi
 
 ## Official syllabus
 
-AQA AS and A-level Physics specification (7407/7408), version 1.3, 1 June 2017, AS and A-level exams June 2016 onwards: section 3.12 Turning points in physics (A-level only). Published by AQA.
+AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, AS and A-level exams June 2016 onwards: section 3.12 Turning points in physics (A-level only). Published by AQA.

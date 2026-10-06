@@ -19,7 +19,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-For full explanations and a complete worked trial balance, use the [study guide](/resources/aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders/). These notes condense section 3.6, Preparation of financial statements of sole traders, of the AQA A-level Accounting (7127) specification (version 1.0, 22 December 2016, A-level exams June 2019 onwards). The qualification is not tiered, and the specification assesses section 3.6 on Paper 1. Practise afterwards with the [practice questions](/resources/aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders-practice/).
+For full explanations and a complete worked trial balance, use the [study guide](/resources/aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders/). These notes condense section 3.6, Preparation of financial statements of sole traders, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, A-level exams June 2019 onwards). The qualification is not tiered, and the specification assesses section 3.6 on Paper 1. Practise afterwards with the [practice questions](/resources/aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders-practice/).
 
 Related pages: [the double entry model](/resources/aqa-a-level-accounting-double-entry-model/), [role of the accountant revision notes](/resources/aqa-a-level-accounting-role-revision-notes/), the [AQA A-level Accounting hub](/boards/aqa/a-level/accounting/), the [7127 checklist](/checklists/aqa/a-level/accounting/) and the [free diagnostics](/diagnostics/).
 
@@ -134,4 +134,4 @@ Section 3.6 asks you to use accounting concepts to record: accruals and prepayme
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, for A-level exams June 2019 onwards, published by AQA -- section 3.6, Preparation of financial statements of sole traders.
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019 onwards, published by AQA -- section 3.6, Preparation of financial statements of sole traders.

@@ -19,7 +19,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-These notes condense section 3.18, The impact of ethical considerations, of the AQA A-level Accounting (7127) specification (version 1.0, 22 December 2016, for A-level exams from June 2019 onwards). The qualification is not tiered, and the specification lists section 18 for both Paper 1 and Paper 2. For full explanations and a worked scenario, read the [study guide](/resources/aqa-a-level-accounting-the-impact-of-ethical-considerations/), then test yourself with the [practice questions](/resources/aqa-a-level-accounting-the-impact-of-ethical-considerations-practice/). See also the [AQA A-level Accounting hub](/boards/aqa/a-level/accounting/), the [7127 checklist](/checklists/aqa/a-level/accounting/) and the [free diagnostics](/diagnostics/). All businesses and figures are invented.
+These notes condense section 3.18, The impact of ethical considerations, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, for A-level exams from June 2019 onwards). The qualification is not tiered, and the specification lists section 18 for both Paper 1 and Paper 2. For full explanations and a worked scenario, read the [study guide](/resources/aqa-a-level-accounting-the-impact-of-ethical-considerations/), then test yourself with the [practice questions](/resources/aqa-a-level-accounting-the-impact-of-ethical-considerations-practice/). See also the [AQA A-level Accounting hub](/boards/aqa/a-level/accounting/), the [7127 checklist](/checklists/aqa/a-level/accounting/) and the [free diagnostics](/diagnostics/). All businesses and figures are invented.
 
 ## 3.18 at a glance
 
@@ -190,4 +190,4 @@ Breaches: integrity (false revenue) and professional competence and due care (th
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, for A-level exams June 2019 onwards, published by AQA -- section 3.18, The impact of ethical considerations.
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019 onwards, published by AQA -- section 3.18, The impact of ethical considerations.

@@ -27,7 +27,7 @@ featured: false
 > these alongside the official past papers from your board or school.
 
 These questions cover section **3.2.1 Periodicity** of the AQA AS and A-level Chemistry specification
-(7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards: 3.2.1.1
+(7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards: 3.2.1.1
 Classification and 3.2.1.2 Physical properties of Period 3 elements. All of it is AS content, so nothing
 here is A-level only. The topic is examined on AS Paper 1 and A-level Paper 1, and A-level Paper 3 can test
 any content.
@@ -203,6 +203,6 @@ whether the statement holds usually loses the final mark.
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.2.1 Periodicity (3.2.1.1 Classification and 3.2.1.2 Physical properties
 of Period 3 elements).

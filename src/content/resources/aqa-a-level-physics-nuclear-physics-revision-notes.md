@@ -24,7 +24,7 @@ featured: false
 
 For full explanations and worked examples, use the [Nuclear physics study guide](/resources/aqa-a-level-physics-nuclear-physics/).
 
-These notes cover section 3.8 Nuclear physics (3.8.1.1 to 3.8.1.8) of the AQA AS and A-level Physics (7407/7408) specification, version 1.3 (AS and A-level exams June 2016 onwards). The section is **A-level only** and is assessed in Paper 2. Sections 3.9-3.13 are options -- you study one, assessed in Paper 3 Section B -- while this section is compulsory.
+These notes cover section 3.8 Nuclear physics (3.8.1.1 to 3.8.1.8) of the AQA AS and A-level Physics (7407/7408) specification, version 1.4 (AS and A-level exams June 2016 onwards). The section is **A-level only** and is assessed in Paper 2. Sections 3.9-3.13 are options -- you study one, assessed in Paper 3 Section B -- while this section is compulsory.
 
 Links: [AQA A-level Physics hub](/boards/aqa/a-level/physics/), [printable checklist](/checklists/aqa/a-level/physics/), [free diagnostics](/diagnostics/) and the [practice questions](/resources/aqa-a-level-physics-nuclear-physics-practice/). Decay equations and nuclide notation from AS: [Particles and radiation revision notes](/resources/aqa-a-level-physics-particles-and-radiation-revision-notes/). For MeV and J conversions: [SI units and prefixes](/resources/aqa-alevel-physics-use-of-si-units-and-their-prefixes/).
 
@@ -207,4 +207,4 @@ Plum-pudding model replaced by the nuclear model; later the neutron, then measur
 
 ## Official syllabus
 
-AQA AS and A-level Physics (7407/7408) specification, version 1.3, 1 June 2017 (AS and A-level exams June 2016 onwards), published by AQA. Section 3.8 Nuclear physics (A-level only).
+AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026 (AS and A-level exams June 2016 onwards), published by AQA. Section 3.8 Nuclear physics (A-level only).

@@ -31,7 +31,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.11 Engineering physics (3.11.1 Rotational dynamics and 3.11.2 Thermodynamics and engines) of the AQA AS and A-level Physics specification (7407/7408, version 1.3, AS and A-level exams June 2016 onwards). It is **A-level only** and one of the five **options** (sections 3.9 to 3.13), assessed in Paper 3 Section B (35 marks).
+These questions cover section 3.11 Engineering physics (3.11.1 Rotational dynamics and 3.11.2 Thermodynamics and engines) of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards). It is **A-level only** and one of the five **options** (sections 3.9 to 3.13), assessed in Paper 3 Section B (35 marks).
 
 Learn the content with the [study guide](/resources/aqa-a-level-physics-engineering-physics/) and the [revision notes](/resources/aqa-a-level-physics-engineering-physics-revision-notes/). Take R = 8.31 J mol⁻¹ K⁻¹. Treat all gases as ideal.
 
@@ -200,4 +200,4 @@ Learn the content with the [study guide](/resources/aqa-a-level-physics-engineer
 
 ## Official syllabus
 
-AQA AS and A-level Physics (7407/7408) specification, version 1.3, 1 June 2017, AS and A-level exams June 2016 onwards, published by AQA. Section 3.11 Engineering physics (A-level only option).
+AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.11 Engineering physics (A-level only option).

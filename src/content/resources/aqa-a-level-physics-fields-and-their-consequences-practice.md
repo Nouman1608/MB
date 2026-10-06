@@ -40,7 +40,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.7 Fields and their consequences of the AQA AS and A-level Physics specification (7407/7408, version 1.3, AS and A-level exams June 2016 onwards): 3.7.1 Fields to 3.7.5 Magnetic fields, including Required practicals 9, 10 and 11. All of 3.7 is A-level only, assessed in Paper 2, and is core content: the options (3.9 to 3.13, one studied for Paper 3 Section B) are separate.
+These questions cover section 3.7 Fields and their consequences of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards): 3.7.1 Fields to 3.7.5 Magnetic fields, including Required practicals 9, 10 and 11. All of 3.7 is A-level only, assessed in Paper 2, and is core content: the options (3.9 to 3.13, one studied for Paper 3 Section B) are separate.
 
 Take G = 6.67 × 10⁻¹¹ N m² kg⁻², ε₀ = 8.85 × 10⁻¹² F m⁻¹, e = 1.60 × 10⁻¹⁹ C, proton mass 1.67 × 10⁻²⁷ kg and g = 9.81 N kg⁻¹ at Earth's surface.
 
@@ -180,4 +180,4 @@ Take G = 6.67 × 10⁻¹¹ N m² kg⁻², ε₀ = 8.85 × 10⁻¹² F m⁻¹, e 
 
 ## Official syllabus
 
-AQA AS and A-level Physics specification (7407/7408), version 1.3, 1 June 2017, AS and A-level exams June 2016 onwards, published by AQA. Section 3.7 Fields and their consequences.
+AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, AS and A-level exams June 2016 onwards, published by AQA. Section 3.7 Fields and their consequences.

@@ -25,7 +25,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.18, The impact of ethical considerations, of the AQA A-level Accounting (7127) specification (version 1.0, 22 December 2016, for A-level exams from June 2019 onwards). The qualification is not tiered, and section 18 is listed for both Paper 1 and Paper 2. All businesses, people and figures are invented.
+These questions cover section 3.18, The impact of ethical considerations, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, for A-level exams from June 2019 onwards). The qualification is not tiered, and section 18 is listed for both Paper 1 and Paper 2. All businesses, people and figures are invented.
 
 Learn the content in the [study guide](/resources/aqa-a-level-accounting-the-impact-of-ethical-considerations/) and the [revision notes](/resources/aqa-a-level-accounting-the-impact-of-ethical-considerations-revision-notes/). A question on the consequences of breaching each principle is in the [role of the accountant practice set](/resources/aqa-a-level-accounting-role-practice/). See also the [AQA A-level Accounting hub](/boards/aqa/a-level/accounting/) and the [7127 checklist](/checklists/aqa/a-level/accounting/).
 
@@ -126,4 +126,4 @@ Learn the content in the [study guide](/resources/aqa-a-level-accounting-the-imp
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, for A-level exams June 2019 onwards, published by AQA -- section 3.18, The impact of ethical considerations.
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019 onwards, published by AQA -- section 3.18, The impact of ethical considerations.

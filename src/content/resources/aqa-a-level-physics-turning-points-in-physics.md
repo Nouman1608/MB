@@ -28,7 +28,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This study guide teaches section 3.12 Turning points in physics of the AQA AS and A-level Physics specification (7407/7408, version 1.3, AS and A-level exams June 2016 onwards), sub-sections 3.12.1 to 3.12.3. Turning points is one of the options (sections 3.9 to 3.13): you study one option, and it is assessed in Paper 3 Section B (35 of the paper's 80 marks). Section A of Paper 3 assesses practical skills and data analysis. All of section 3.12 is A-level only.
+This study guide teaches section 3.12 Turning points in physics of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards), sub-sections 3.12.1 to 3.12.3. Turning points is one of the options (sections 3.9 to 3.13): you study one option, and it is assessed in Paper 3 Section B (35 of the paper's 80 marks). Section A of Paper 3 assesses practical skills and data analysis. All of section 3.12 is A-level only.
 
 See the [course hub](/boards/aqa/a-level/physics/), [printable checklist](/checklists/aqa/a-level/physics/), free [diagnostics](/diagnostics/), [revision notes](/resources/aqa-a-level-physics-turning-points-in-physics-revision-notes/) and [practice questions](/resources/aqa-a-level-physics-turning-points-in-physics-practice/).
 
@@ -227,4 +227,4 @@ For Paper 3 planning see [exam preparation](/resources/aqa-a-level-physics-exam-
 
 ## Official syllabus
 
-AQA AS and A-level Physics specification (7407/7408), version 1.3, 1 June 2017, AS and A-level exams June 2016 onwards: section 3.12 Turning points in physics (A-level only). Published by AQA.
+AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, AS and A-level exams June 2016 onwards: section 3.12 Turning points in physics (A-level only). Published by AQA.

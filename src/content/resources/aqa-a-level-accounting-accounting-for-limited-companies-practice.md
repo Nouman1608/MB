@@ -25,7 +25,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.16, Accounting for limited companies, of the AQA A-level Accounting (7127) specification (version 1.0, 22 December 2016, A-level exams June 2019 onwards). The qualification is not tiered and the specification places section 3.16 in the content assessed by Paper 1. Use a calculator throughout. All businesses and figures are invented.
+These questions cover section 3.16, Accounting for limited companies, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, A-level exams June 2019 onwards). The qualification is not tiered and the specification places section 3.16 in the content assessed by Paper 1. Use a calculator throughout. All businesses and figures are invented.
 
 Learn the content with the [study guide](/resources/aqa-a-level-accounting-accounting-for-limited-companies/) and the [revision notes](/resources/aqa-a-level-accounting-accounting-for-limited-companies-revision-notes/). For the income statement, statement of changes in equity and statement of financial position, use the [section 3.7 practice questions](/resources/aqa-a-level-accounting-limited-company-accounts-practice/). See also the [AQA A-level Accounting hub](/boards/aqa/a-level/accounting/), the [7127 checklist](/checklists/aqa/a-level/accounting/) and the [free diagnostics](/diagnostics/).
 
@@ -200,4 +200,4 @@ Depreciation added and profit on disposal deducted [1]; inventory +£4,500 [1]; 
 
 ## Official syllabus
 
-AQA A-level Accounting (7127) specification, version 1.0, 22 December 2016, for A-level exams June 2019 onwards, published by AQA -- section 3.16, Accounting for limited companies.
+AQA A-level Accounting (7127) specification, version 1.1, October 2026, for A-level exams June 2019 onwards, published by AQA -- section 3.16, Accounting for limited companies.

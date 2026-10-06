@@ -21,7 +21,7 @@ featured: false
 ---
 
 This guide teaches section **3.3.15 Nuclear magnetic resonance spectroscopy** of the AQA AS and A-level
-Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams from June 2016
+Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016
 onwards. The whole section is **A-level only** (not AS). The specification
 places organic chemistry (section 3.3) on A-level Paper 2, and Paper 3 can test any content. The specification puts the emphasis on using data to solve problems, not on theory.
 
@@ -262,6 +262,6 @@ and check your progress with the [free diagnostics](/diagnostics/).
 
 ## Official syllabus
 
-AQA AS and A-level Chemistry (7404/7405) specification, version 1.1, 1 December 2015, for AS and A-level
+AQA AS and A-level Chemistry (7404/7405) specification, version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards, published by AQA. This page covers section 3.3.15 Nuclear magnetic resonance
 spectroscopy (A-level only).

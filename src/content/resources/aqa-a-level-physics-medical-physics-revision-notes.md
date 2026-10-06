@@ -37,7 +37,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-These notes condense section 3.10 Medical physics (3.10.1 to 3.10.6) of the AQA AS and A-level Physics (7407/7408) specification, version 1.3 (AS and A-level exams June 2016 onwards). The section is **A-level only** and is one of the five options in sections 3.9-3.13: you study one, assessed in Paper 3 Section B. For full explanations and worked examples, use the [study guide](/resources/aqa-a-level-physics-medical-physics/).
+These notes condense section 3.10 Medical physics (3.10.1 to 3.10.6) of the AQA AS and A-level Physics (7407/7408) specification, version 1.4 (AS and A-level exams June 2016 onwards). The section is **A-level only** and is one of the five options in sections 3.9-3.13: you study one, assessed in Paper 3 Section B. For full explanations and worked examples, use the [study guide](/resources/aqa-a-level-physics-medical-physics/).
 
 Links: [course hub](/boards/aqa/a-level/physics/), [printable checklist](/checklists/aqa/a-level/physics/), [free diagnostics](/diagnostics/), [practice questions](/resources/aqa-a-level-physics-medical-physics-practice/). Exponential decay is revised in [Nuclear physics](/resources/aqa-a-level-physics-nuclear-physics-revision-notes/) and fibres in [Waves](/resources/aqa-a-level-physics-waves-revision-notes/).
 
@@ -198,4 +198,4 @@ P = 1/u + 1/v
 
 ## Official syllabus
 
-AQA AS and A-level Physics (7407/7408) specification, version 1.3, 1 June 2017 (AS and A-level exams June 2016 onwards), section 3.10 Medical physics.
+AQA AS and A-level Physics (7407/7408) specification, version 1.4, July 2026 (AS and A-level exams June 2016 onwards), section 3.10 Medical physics.

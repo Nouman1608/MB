@@ -27,7 +27,7 @@ featured: false
 > these alongside the official past papers from your board or school.
 
 These questions cover section **3.3.14 Organic synthesis** of the AQA AS and A-level Chemistry specification
-(7404/7405), version 1.1, 1 December 2015, for AS and A-level exams from June 2016 onwards. The section is
+(7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. The section is
 **A-level only**, so every question here is A-level only. It is examined on A-level Paper 2 (organic
 chemistry), and A-level Paper 3 can test any content. Atom economy calculations use the formula in 3.1.2.5.
 
@@ -192,5 +192,5 @@ unless you say why.
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.3.14 Organic synthesis (A-level only), with atom economy from 3.1.2.5.

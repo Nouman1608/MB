@@ -21,7 +21,7 @@ featured: false
 ---
 
 This guide teaches section **3.3.3 Halogenoalkanes** of the AQA AS and A-level Chemistry specification
-(7404/7405), version 1.1, 1 December 2015, for AS and A-level exams from June 2016 onwards. It covers every
+(7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. It covers every
 point in 3.3.3.1 Nucleophilic substitution, 3.3.3.2 Elimination and 3.3.3.3 Ozone depletion. All of it is
 AS content, so nothing in 3.3.3 is A-level only. The specification places organic chemistry 3.3.1 to 3.3.6
 on Paper 2 at AS, and all of section 3.3 on Paper 2 at A-level; A-level Paper 3 can test any content and any
@@ -294,5 +294,5 @@ paper structure, and the free 10-minute [diagnostics](/diagnostics/) show where 
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.3.3 Halogenoalkanes (3.3.3.1 to 3.3.3.3).

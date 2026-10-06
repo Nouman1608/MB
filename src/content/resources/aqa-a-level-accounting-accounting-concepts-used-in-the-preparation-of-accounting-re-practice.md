@@ -26,7 +26,7 @@ featured: false
 > these alongside the official past papers from your board or school.
 
 These questions cover section **3.5 Accounting concepts used in the preparation of accounting records** of the
-AQA A-level Accounting (7127) specification, Version 1.0 (22 December 2016), for A-level exams from June 2019
+AQA A-level Accounting (7127) specification, Version 1.1 (October 2026), for A-level exams from June 2019
 onwards. The course is linear and untiered, and section 3.5 is part of the content assessed by **Paper 1**.
 All businesses and figures are invented.
 
@@ -224,6 +224,6 @@ realistic view, not a pessimistic one; it is not an alternative to accruals [1].
 
 ## Official syllabus
 
-AQA, *A-level Accounting (7127) Specification*, Version 1.0, 22 December 2016, for teaching from September 2017
+AQA, *A-level Accounting (7127) Specification*, Version 1.1, October 2026, for teaching from September 2017
 and A-level exams in 2019 onwards: section 3.5 Accounting concepts used in the preparation of accounting
 records.

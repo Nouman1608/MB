@@ -20,7 +20,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This study guide covers section 3.1.7, Oxidation, reduction and redox equations, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams from June 2016 onwards. All of 3.1.7 is AS content, so it is also part of the full A-level; nothing in this section is marked "A-level only". The specification lists 3.1.7 under Paper 1 for both AS and A-level, and A-level Paper 3 can assess any content. No required practical is listed in this section, but the skills here are used again in inorganic chemistry and in titration calculations.
+This study guide covers section 3.1.7, Oxidation, reduction and redox equations, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. All of 3.1.7 is AS content, so it is also part of the full A-level; nothing in this section is marked "A-level only". The specification lists 3.1.7 under Paper 1 for both AS and A-level, and A-level Paper 3 can assess any content. No required practical is listed in this section, but the skills here are used again in inorganic chemistry and in titration calculations.
 
 Use it with the [revision notes](/resources/aqa-a-level-chemistry-oxidation-reduction-and-redox-equations-revision-notes/) and the [practice questions](/resources/aqa-a-level-chemistry-oxidation-reduction-and-redox-equations-practice/). For the rest of the course, see the [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/) and the [printable checklist](/checklists/aqa/a-level/chemistry/).
 
@@ -290,4 +290,4 @@ Charge check: left = −2; right = +4 − 10 + 4 = −2. Balanced.
 
 ## Official syllabus
 
-AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards, section 3.1.7 Oxidation, reduction and redox equations. Published by AQA.
+AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards, section 3.1.7 Oxidation, reduction and redox equations. Published by AQA.

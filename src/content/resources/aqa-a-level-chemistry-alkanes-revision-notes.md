@@ -21,7 +21,7 @@ featured: false
 ---
 
 These notes condense section **3.3.2 Alkanes** of the AQA AS and A-level Chemistry specification
-(7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards: 3.3.2.1 Fractional
+(7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards: 3.3.2.1 Fractional
 distillation of crude oil, 3.3.2.2 Modification of alkanes by cracking, 3.3.2.3 Combustion of alkanes and
 3.3.2.4 Chlorination of alkanes. All of it is AS content, so nothing here is A-level only. It is examined
 on AS Paper 2 and A-level Paper 2, and A-level Paper 3 can test any content.
@@ -223,6 +223,6 @@ favours more substitution. Overall for full substitution: CH₄ + 4Cl₂ → CCl
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.3.2 Alkanes (3.3.2.1 Fractional distillation of crude oil, 3.3.2.2
 Modification of alkanes by cracking, 3.3.2.3 Combustion of alkanes and 3.3.2.4 Chlorination of alkanes).

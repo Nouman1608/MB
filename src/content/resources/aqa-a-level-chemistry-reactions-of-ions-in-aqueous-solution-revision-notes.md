@@ -20,7 +20,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-These notes condense section 3.2.6, Reactions of ions in aqueous solution, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams from June 2016 onwards. The whole section is marked "A-level only". Inorganic chemistry is listed under A-level Paper 1, and Paper 3 can assess any content. Required practical 11 belongs to this section.
+These notes condense section 3.2.6, Reactions of ions in aqueous solution, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. The whole section is marked "A-level only". Inorganic chemistry is listed under A-level Paper 1, and Paper 3 can assess any content. Required practical 11 belongs to this section.
 
 For full explanations and worked examples, use the [study guide](/resources/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution/). Then test yourself with the [practice questions](/resources/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution-practice/). Ligand substitution in general is in [transition metals](/resources/aqa-a-level-chemistry-transition-metals-revision-notes/). For the whole course, see the [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/), the [printable checklist](/checklists/aqa/a-level/chemistry/) and the [free diagnostics](/diagnostics/).
 
@@ -188,4 +188,4 @@ The specification also suggests (as an opportunity, not required content) that y
 
 ## Official syllabus
 
-AQA AS and A-level Chemistry specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level exams June 2016 onwards (AQA). Section 3.2.6 Reactions of ions in aqueous solution (A-level only), including required practical 11.
+AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams June 2016 onwards (AQA). Section 3.2.6 Reactions of ions in aqueous solution (A-level only), including required practical 11.

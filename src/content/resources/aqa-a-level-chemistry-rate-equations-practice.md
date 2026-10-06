@@ -27,7 +27,7 @@ featured: false
 > these alongside the official past papers from your board or school.
 
 These questions cover section **3.1.9 Rate equations** of the AQA AS and A-level Chemistry specification
-(7404/7405), version 1.1, 1 December 2015, for exams from June 2016 onwards: 3.1.9.1, 3.1.9.2 and Required
+(7404/7405), version 1.2, July 2026, for exams from June 2016 onwards: 3.1.9.1, 3.1.9.2 and Required
 practical 7. All of it is **A-level only** and is placed on A-level Paper 2; Paper 3 can test any content.
 
 Learn the ideas first in the [rate equations study guide](/resources/aqa-a-level-chemistry-rate-equations/)
@@ -218,6 +218,6 @@ Ea = 8.31 × 1.386 ÷ 2.11 × 10⁻⁴ = 5.46 × 10⁴ J mol⁻¹ = **54.6 kJ mo
 
 ## Official syllabus
 
-AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.1, 1 December 2015, for AS and A-level
+AQA, *AS and A-level Chemistry* specification (7404/7405), version 1.2, July 2026, for AS and A-level
 exams June 2016 onwards: section 3.1.9 Rate equations (3.1.9.1 and 3.1.9.2, A-level only), with Required
 practical 7.

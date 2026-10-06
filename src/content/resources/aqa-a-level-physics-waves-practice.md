@@ -31,7 +31,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.3 Waves of the AQA AS and A-level Physics specification (7407/7408, version 1.3, AS and A-level exams June 2016 onwards): 3.3.1 Progressive and stationary waves and 3.3.2 Refraction, diffraction and interference, including Required practicals 1 and 2. Waves is AS and A-level content, assessed at A-level in Paper 1 and assumed in Paper 2; it is not one of the Paper 3 Section B options (sections 3.9 to 3.13).
+These questions cover section 3.3 Waves of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards): 3.3.1 Progressive and stationary waves and 3.3.2 Refraction, diffraction and interference, including Required practicals 1 and 2. Waves is AS and A-level content, assessed at A-level in Paper 1 and assumed in Paper 2; it is not one of the Paper 3 Section B options (sections 3.9 to 3.13).
 
 Learn the content first with the [study guide](/resources/aqa-a-level-physics-waves/). Take c = 3.00 × 10⁸ m s⁻¹ and the refractive index of air as 1.00.
 
@@ -181,4 +181,4 @@ Learn the content first with the [study guide](/resources/aqa-a-level-physics-wa
 
 ## Official syllabus
 
-AQA AS and A-level Physics specification (7407/7408), version 1.3, 1 June 2017, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.3 Waves.
+AQA AS and A-level Physics specification (7407/7408), version 1.4, July 2026, for AS and A-level exams June 2016 onwards, published by AQA. Section 3.3 Waves.
