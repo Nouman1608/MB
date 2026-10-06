@@ -92,7 +92,7 @@ Use: e = 1.60 × 10⁻¹⁹ C, ε₀ = 8.85 × 10⁻¹² F m⁻¹, Nᴀ = 6.02 �
 
 **12.** A thermal reactor uses uranium fuel enriched in U-235, with heavy water as moderator.
 
-**(a)** Explain why a moderator is needed, and why the chain reaction needs more than a critical mass of fuel. **[2]**
+**(a)** Explain why a moderator is needed, and why a chain reaction needs at least the critical mass of fuel. **[2]**
 **(b)** A neutron (mass 1 u) collides head-on and elastically with a stationary deuterium nucleus (mass 2 u). Show that the neutron keeps 1/9 of its kinetic energy. **[3]**
 **(c)** Name a suitable material for the control rods and explain how the rods control the reaction. **[2]**
 **(d)** State one property a good coolant needs. **[1]**

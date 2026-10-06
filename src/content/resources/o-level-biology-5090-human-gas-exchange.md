@@ -19,7 +19,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This study guide teaches Topic 9, Human gas exchange, for Cambridge O Level Biology 5090. It is aligned to the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028, and covers every learning outcome in section 9.1 (9.1.1 to 9.1.9), including the two investigations the section lists. The 5090 syllabus is not tiered, so every candidate studies all of it, and it can be tested on Paper 1, Paper 2 and the practical papers.
+This study guide teaches Topic 9, Human gas exchange, for Cambridge O Level Biology 5090. It is aligned to the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028, and covers every learning outcome in section 9.1 (9.1.1 to 9.1.9), including the two investigations the section lists. The 5090 syllabus is not tiered, so every candidate studies all of it.
 
 Use it with the [revision notes for this topic](/resources/o-level-biology-5090-human-gas-exchange-revision-notes/) and the [practice questions](/resources/o-level-biology-5090-human-gas-exchange-practice/). The [course hub](/boards/cambridge/o-level/biology/) lists every topic, and the [printable checklist](/checklists/cambridge/o-level/biology/) lets you tick off each outcome. Gas exchange is diffusion, so revise [Movement into and out of cells](/resources/o-level-biology-5090-movement-into-and-out-of-cells/) first if the idea of a concentration gradient is shaky. To find your weak spots quickly, try one of the [free 10-minute diagnostics](/diagnostics/).
 

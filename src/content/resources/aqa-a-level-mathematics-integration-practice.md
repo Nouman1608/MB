@@ -25,7 +25,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover **Section H: Integration (H1 to H8)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. Section H is Paper 1 content and can also be assessed on Papers 2 and 3. A calculator is required in every 7357 paper, but where a question asks for an exact answer or says "show that", give full working.
+These questions cover **Section H: Integration (H1 to H8)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. Section H is Paper 1 content and can also be assessed on Papers 2 and 3. A calculator is required in every paper of this specification, but where a question asks for an exact answer or says "show that", give full working.
 
 Learn the content first with the [Integration study guide](/resources/aqa-a-level-mathematics-integration/) and the [Integration revision notes](/resources/aqa-a-level-mathematics-integration-revision-notes/). Course hub: [/boards/aqa/a-level/mathematics/](/boards/aqa/a-level/mathematics/). Printable checklist: [/checklists/aqa/a-level/mathematics/](/checklists/aqa/a-level/mathematics/). Free 10-minute diagnostics: [/diagnostics/](/diagnostics/).
 

@@ -150,7 +150,7 @@ P = Ae^(kt), where t is the number of years after 2010.
 
 - Treating log(a + b) as log a + log b when combining logs.
 - Not checking that every log argument is positive after solving, so an invalid root is kept.
-- In hidden quadratics, losing a coefficient (3^(2x + 1) = 3 × 9ˣ) or keeping a negative u.
+- In hidden quadratics, losing a coefficient (3^(2x + 1) is 3 × 9ˣ, not 9ˣ) or keeping a negative u.
 - Missing brackets when bringing a power down: (x + 1) ln 5, not x + 1 ln 5.
 - Giving decimals where "exact" is asked, or exact forms with no decimal where 3 s.f. is asked.
 - Quoting the intercept of a log graph as the parameter itself (ln a instead of a).

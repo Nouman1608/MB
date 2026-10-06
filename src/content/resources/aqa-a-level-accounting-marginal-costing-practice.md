@@ -160,7 +160,7 @@ profit [1]. **[3]**
 **(c)** 700 × 340 = **£238 000** [1]
 **(d)** 1 000 − 700 = **300 boards** [1]; 300 ÷ 1 000 = **30%** [1]
 **(e)** (95 200 + 27 200) ÷ 136 [1] = **900 boards** [1] **[8]**
-*Examiner insight:* An error in (a) can usually be carried forward, so show working to keep later method marks.
+*Examiner insight:* Parts (b) to (e) all build on (a), so show working; a slip there spreads.
 
 **6. (a)** 75 000 ÷ 2 500 = **£30** [1]
 **(b)** Variable costs at break-even = 75 000 − 30 000 = £45 000 [1]; 45 000 ÷ 2 500 = **£18** [1]
@@ -206,7 +206,7 @@ Make R 6 000 (1 800 hours) and P 5 000 (2 000 hours) [1]; the remaining 1 500 ho
 **(c)** Extra Boards contribution = 66 000 × 20% = £13 200 [1]; profit = 29 000 + 13 200 = £42 200,
 still £2 800 below the current £45 000 [1]. Skates' loss comes from apportioned costs; it earns positive
 contribution [1]. Against closure: redundancies and morale [1]; customers who buy skates may also buy
-bikes or boards [1]. Judgement: keep Skates unless Boards could grow by more than 20% [1]. **[12]**
+bikes or boards [1]. Judgement: keep Skates unless Boards' contribution could rise by over 24.2% (16 000 ÷ 66 000) [1]. **[12]**
 *Examiner insight:* The judgement mark needs a decision supported by the figures, not "it depends" alone.
 
 **12. (a)** Contribution needed = 21 000 + 15 000 = £36 000 [1]; per candle 36 000 ÷ 6 000 = £6 [1];

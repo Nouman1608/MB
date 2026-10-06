@@ -115,13 +115,13 @@ Take G = 6.67 × 10⁻¹¹ N m² kg⁻², ε₀ = 8.85 × 10⁻¹² F m⁻¹, e 
 **(c)** V is zero at infinity [1]; the force is attractive, so work must be done on a mass to move it to infinity, so V is less than zero everywhere else [1].
 *Examiner insight:* In (c), give both ideas: zero at infinity and an attractive force.
 
-**3.** g = −ΔV/Δr = −(−2.33 × 10⁷ − (−2.80 × 10⁷)) / (2.0 × 10⁶) [1] = **2.3 N kg⁻¹** (magnitude) [1] **[2]**
+**3.** g = −ΔV/Δr = −(−2.33 × 10⁷ − (−2.80 × 10⁷)) / (2.0 × 10⁶) [1] = 2.35 ≈ **2.4 N kg⁻¹** (magnitude) [1] **[2]**
 *Examiner insight:* Keep the signs consistent: ΔV is positive moving outwards, so the minus sign gives g pointing inwards.
 
 **4. (a)** GMm/r² = mv²/r [1]; v = 2πr/T [1]; so T² = (4π²/GM) r³, and 4π²/GM is constant [1].
 **(b)** T = √(4π² × (2.0 × 10⁷)³ / (6.67 × 10⁻¹¹ × 4.2 × 10²⁴)) = 3.36 × 10⁴ s [1] = **9.3 h** [1]
 **(c)** E = −GMm/2r = −6.67 × 10⁻¹¹ × 4.2 × 10²⁴ × 800 / (2 × 2.0 × 10⁷) [1] = **−5.6 × 10⁹ J** [1]
-*Examiner insight:* On a "show that" in (a), every substitution must be written; jumping straight to the result scores nothing.
+*Examiner insight:* On a "show that" in (a), write every step, from the force equation to the constant 4π²/GM; jumping straight to the result shows nothing.
 
 **5. (a)** F = 8.99 × 10⁹ × 3.0 × 10⁻⁹ × 5.0 × 10⁻⁹ / 0.040² = **8.4 × 10⁻⁵ N** [1]; **attractive** (unlike charges) [1]
 **(b)** E from X = 6.74 × 10⁴ V m⁻¹ and from Y = 1.12 × 10⁵ V m⁻¹, both pointing towards Y [1]; add: E = **1.8 × 10⁵ V m⁻¹** [1] **towards Y** [1]
@@ -130,7 +130,7 @@ Take G = 6.67 × 10⁻¹¹ N m² kg⁻², ε₀ = 8.85 × 10⁻¹² F m⁻¹, e 
 
 **6. (a)** Work done moving Q between the plates: W = Fd = QV [1]; so E = F/Q = V/d [1].
 **(b)** E = 600/0.040 = 1.5 × 10⁴ V m⁻¹ [1]; a = eE/m = 1.44 × 10¹² m s⁻² [1]; t = 0.060 / 1.5 × 10⁶ = 4.0 × 10⁻⁸ s [1]; y = ½at² = **1.1 × 10⁻³ m** [1]
-*Examiner insight:* In (b), a wrong acceleration used correctly afterwards can still earn the later method marks (error carried forward).
+*Examiner insight:* In (b), find the time from the horizontal motion only; the field does not change the speed along the plates.
 
 **7. (a)** εᵣ = Cd / (Aε₀) = 450 × 10⁻¹² × 2.0 × 10⁻³ / (0.0225 × 8.85 × 10⁻¹²) [1] = **4.5** [1]
 **(b)** The polar molecules rotate so their positive ends face the negative plate [1]. This produces a field opposing the applied field [1]. For the same charge the p.d. is lower, so C = Q/V is larger [1].

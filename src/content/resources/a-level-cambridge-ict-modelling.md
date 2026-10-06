@@ -199,7 +199,7 @@ In each case the model holds the rules (how the aircraft responds to its control
 ## Common errors
 
 - Confusing what-if analysis with goal seek. What-if: change inputs, read the output. Goal seek: set the output, find an input.
-- Leaving a goal seek answer unrounded when the context needs whole units (787.5 cups, 6.4 clerks).
+- Leaving a model's answer unrounded when the context needs whole units (787.5 cups, 6.4 clerks).
 - Typing values into formulas instead of referencing input cells, so scenarios cannot be changed easily.
 - Writing "a model is cheaper" without saying cheaper than what. Compare with the real-life alternative.
 - Using "model" and "simulation" as if they mean the same thing.

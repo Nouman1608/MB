@@ -39,7 +39,7 @@ All figures below are invented.
 | Budgetary control | Comparing actual results with budget, investigating variances and taking action |
 | Budget holder | The manager responsible for a budget |
 | Principal budget factor | The factor that limits activity (often sales demand); its budget is prepared first |
-| Master budget | The budgeted income statement and statement of financial position, built from all the other budgets |
+| Master budget | The budgeted income statement and statement of financial position (often with the cash budget), built from all the other budgets |
 | Variance | Actual figure minus budgeted figure |
 | Favourable (F) | The difference increases profit: more revenue or less cost than budget |
 | Adverse (A) | The difference reduces profit: less revenue or more cost than budget |

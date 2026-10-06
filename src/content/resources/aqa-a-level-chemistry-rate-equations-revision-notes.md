@@ -39,8 +39,8 @@ theory and the Maxwell–Boltzmann distribution are in the
 - **Order of reaction with respect to a reactant**: the power to which its concentration is raised in the
   rate equation (m for A, n for B). Orders here are 0, 1 or 2.
 - **Overall order**: the sum of the orders, m + n.
-- **Rate constant, k**: the constant of proportionality in the rate equation. It changes only with
-  temperature (for a given reaction).
+- **Rate constant, k**: the constant of proportionality in the rate equation. It changes with
+  temperature (or if a catalyst is added), never with concentration.
 - **Rate-determining step**: the slowest step in a mechanism; it limits the overall rate.
 - **Initial rate**: the rate at t = 0, the gradient of the tangent to a concentration–time curve at the start.
 

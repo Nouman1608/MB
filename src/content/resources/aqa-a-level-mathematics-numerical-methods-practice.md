@@ -147,7 +147,7 @@ So **0.9038 < I < 1.3038** [1]. **[5]**
 **9. (a)** x₂ = 0.5 [1]; **x₃ = 0.3542, x₄ = 0.3407** [1].
 **(b)** g′(x) = x²/2, and g′(0.34) ≈ 0.058, which is between 0 and 1 [1]. So it is a converging
 **staircase**: the iterates approach from one side, as in (a) [1].
-**(c)** g′(2.26) ≈ 2.56 > 1 [1], so iterates move away from that root (for example, x₁ = 3
+**(c)** g′(2.26) ≈ 2.55 > 1 [1], so iterates move away from that root (for example, x₁ = 3
 gives 4.833, 19.15, ...) and **it cannot be found this way** [1]. **[6]**
 *Examiner insight:* a numerical gradient value at the root, compared with 1, makes the reason checkable; "it diverges" alone is usually not enough.
 

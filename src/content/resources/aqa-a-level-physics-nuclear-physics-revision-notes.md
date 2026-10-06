@@ -76,6 +76,7 @@ Plum-pudding model replaced by the nuclear model; later the neutron, then measur
 
 - Random and spontaneous; constant decay probability λ for each nucleus.
 - Equal times give equal fractional falls.
+- **Modelling**: throw many dice and remove each one showing a six. Every die has the same probability (1/6) per throw, so about 1/6 of those left go each throw and the number falls exponentially, like nuclei with constant λ.
 - **Decay curve**: read several halvings and average.
 - **Log graph**: ln A = ln A₀ − λt. Gradient = −λ, intercept = ln A₀.
 - Uses: waste storage times, radioactive dating.
@@ -113,6 +114,7 @@ Plum-pudding model replaced by the nuclear model; later the neutron, then measur
 
 ## 3.8.1.6 Mass and energy
 
+- **Atomic mass unit**: 1 u is one-twelfth of the mass of a carbon-12 atom (1.661 × 10⁻²⁷ kg); 1 u = 931.5 MeV.
 - **Mass difference**: mass of separate nucleons minus mass of nucleus.
 - **Binding energy**: energy needed to separate the nucleus into nucleons.
 - Binding energy per nucleon peaks near A ≈ 56 (about 8.8 MeV).

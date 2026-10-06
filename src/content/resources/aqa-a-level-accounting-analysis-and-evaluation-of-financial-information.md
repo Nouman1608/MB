@@ -181,7 +181,7 @@ Start from Ashby's current assets £80,000 (inventory £40,000) and current liab
 |---|---|---|---|
 | Pay a trade payable £10,000 from the bank | No effect | 70/30 = 2.33:1 (rises) | 30/30 = 1.00:1 (no change) |
 | Buy inventory £6,000 on credit | No effect | 86/46 = 1.87:1 (falls) | 40/46 = 0.87:1 (falls) |
-| Sell goods costing £3,000 for £5,000 cash | +£2,000 | 82/40 = 2.05:1 (rises) | 45/40 = 1.12:1 (rises) |
+| Sell goods costing £3,000 for £5,000 cash | +£2,000 | 82/40 = 2.05:1 (rises) | 45/40 = 1.13:1 (rises) |
 | Charge depreciation | Falls | No effect | No effect |
 | Buy a non-current asset for cash | No immediate effect | Falls | Falls |
 | Owner takes cash drawings | No effect | Falls | Falls |

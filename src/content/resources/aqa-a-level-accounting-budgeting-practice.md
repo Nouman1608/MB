@@ -134,7 +134,7 @@ June: 28 000 × 40% × 97.5% = 10 920 + 24 000 × 55% = 13 200, total **£24 120
 | **Closing balance** | **(200)** | **(7 200)** | **(5 350)** |
 
 Receipts lagged [1]; loan [1]; purchases and expenses lagged [1]; wages, equipment, interest, drawings [1]; depreciation excluded [1]; opening balance [1]; balances carried forward [1]; all closing balances correct [1].
-**(b)** The limit is breached in November and December. Delay the equipment purchase, or lease it, so November's outflow falls by £16 000 [1]; receive the loan earlier or negotiate a higher limit before November [1]. **[10]**
+**(b)** The limit is breached in November and December. Delay the equipment purchase beyond December, or lease it, so November's outflow falls by £16 000 [1]; negotiate a larger loan or a higher limit before November [1]. **[10]**
 *Examiner insight:* Including the £600 depreciation loses a mark and also every later closing balance, unless own-figure credit applies.
 
 **8. (a)**

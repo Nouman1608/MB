@@ -25,7 +25,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover Topic 8, Human nutrition, of the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4): sections 8.1 Diet, 8.2 Human digestive system and 8.3 Absorption and assimilation. The syllabus is not tiered. Questions 4, 6 and 7 use data or practical contexts; a calculator helps for those.
+These questions cover Topic 8, Human nutrition, of the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4): sections 8.1 Diet, 8.2 Human digestive system and 8.3 Absorption and assimilation. The syllabus is not tiered. Questions 4, 6, 7 and 12(c) involve calculations; a calculator helps for those.
 
 Learn the content first with the [study guide](/resources/o-level-biology-5090-human-nutrition/) and [revision notes](/resources/o-level-biology-5090-human-nutrition-revision-notes/). Questions on enzyme pH optima and food tests are in the [enzymes practice](/resources/enzymes-practice/) and [biological molecules practice](/resources/biological-molecules-practice/) sets, so they are not repeated here.
 
@@ -118,7 +118,7 @@ Learn the content first with the [study guide](/resources/o-level-biology-5090-h
 **4. (a)** 12 × 40 / 100 [1] = **4.8 mg** [1].
 **(b)** 4.8 / 15 × 100 [1] = **32%** [1].
 **(c)** Iron is needed to make haemoglobin [1]. Less haemoglobin means the blood carries less oxygen [1], so less aerobic respiration in cells releases less energy, and the person breathes harder to get oxygen [1]. **[7]**
-*Examiner insight:* If (a) is wrong, carry the wrong value through (b) correctly; the method in (b) can still be worth credit. In (c), the chain must reach oxygen transport, not stop at "iron makes blood".
+*Examiner insight:* Show the division in (b) clearly, using your own value from (a), so your method can be followed. In (c), the chain must reach oxygen transport, not stop at "iron makes blood".
 
 **5. (a)** Food molecules such as starch and protein are large and insoluble [1], so they cannot pass through the gut lining into the blood until broken down into small, soluble molecules [1].
 **(b)** Physical digestion breaks food into smaller pieces without changing the food molecules [1]; chemical digestion breaks large molecules into small molecules (using enzymes) [1]. **[4]**

@@ -117,7 +117,7 @@ Tip: n(A)/n(total) × P can be done in one step on the calculator. This keeps fu
 3. Write the Kp expression for CH₄(g) + H₂O(g) ⇌ CO(g) + 3H₂(g) and give its units in kPa.
 4. For N₂O₄(g) ⇌ 2NO₂(g), p(N₂O₄) = 40.0 kPa and p(NO₂) = 60.0 kPa at equilibrium. Calculate Kp.
 5. For H₂(g) + Cl₂(g) ⇌ 2HCl(g), p(H₂) = 25.0 kPa, p(Cl₂) = 40.0 kPa and p(HCl) = 150 kPa at equilibrium. Calculate Kp.
-6. For N₂O₄(g) ⇌ 2NO₂(g) at another temperature, Kp = 90.0 kPa and p(N₂O₄) = 10.0 kPa. Calculate p(NO₂).
+6. For N₂O₄(g) ⇌ 2NO₂(g) at the same temperature as question 4, Kp = 90.0 kPa and p(N₂O₄) = 10.0 kPa. Calculate p(NO₂).
 7. The total pressure on the equilibrium in question 4 is increased at constant temperature. State the effect on the position of equilibrium and on Kp.
 8. The forward reaction of 2SO₂(g) + O₂(g) ⇌ 2SO₃(g) is exothermic. State the effect of raising the temperature on Kp.
 9. State the effect of adding a catalyst on the value of Kp.

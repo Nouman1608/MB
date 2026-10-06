@@ -150,7 +150,7 @@ Last year's ratios: gross profit margin 38.00%; profit in relation to revenue 12
 *Examiner insight:* Evaluation credit usually goes to linked points (receivable days explaining low cash) and a clear judgement, not to restating each ratio.
 
 **12. (a)** Halden: capital employed 400,000; gearing = **30.00%** [1]; ROCE = **15.00%** [1]. Marsh: capital employed 400,000; gearing = **50.00%** [1]; ROCE = **12.00%** [1].
-**(b)** Halden is less geared, so a new loan adds less risk and its interest burden is lower [1]. Halden earns a higher ROCE, so it generates more profit to cover extra interest [1]. Marsh's current ratio below 1:1 suggests it may struggle to pay short-term debts, a warning for any lender [1]. A further £100,000 would push Marsh's gearing to 60.00% [1]. The bank should still check security and management quality, which ratios do not show [1]. Recommendation: lend to Halden [1]. **[6]**
+**(b)** Halden is less geared, so a new loan adds less risk and its interest burden is lower [1]. Halden earns a higher ROCE, so it generates more profit to cover extra interest [1]. Marsh's current ratio below 1:1 suggests it may struggle to pay short-term debts, a warning for any lender [1]. A further £100,000 would push Marsh's gearing to 60.00% [1]. The bank should still check security and management quality, which ratios do not show [1]. Recommendation: lend to Halden [1]. **[10]**
 *Examiner insight:* A recommendation should follow from the figures; sitting on the fence without a decision limits the credit for "evaluate".
 
 ## Where marks are usually lost

@@ -82,7 +82,8 @@ July production is planned at 560 benches. Each bench takes 1.5 labour hours at 
 | **Production** | **420** | **520** | **590** |
 
 April's opening inventory is 20% of April's sales (80), because March closed on the same policy.
-Each month's closing inventory becomes the next month's opening inventory.
+Each month's closing inventory becomes the next month's opening inventory. Likewise April's opening
+resin is 25% × 840 = 210 kg.
 
 **Materials purchases budget.** Usage is production × 2 kg: April 840, May 1 040, June 1 180, July
 1 120 kg.

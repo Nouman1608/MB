@@ -69,7 +69,7 @@ The answers show one acceptable set of points with a [1] for each creditworthy p
 
 **7.** Explain why computer models are needed to study climate change. **[4]**
 
-**8.** An airline trains its pilots on a flight simulator. Discuss the advantages and disadvantages of using a simulator for pilot training. **[6]**
+**8.** A regional airline plans to move its engine-failure and crosswind-landing practice from real aircraft to a flight simulator. Discuss the advantages and disadvantages of this plan. **[6]**
 
 **9.** A city council wants to plan for a major river flood. Describe how a computer model could be used to create and run a simulation to help it plan. **[5]**
 

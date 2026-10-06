@@ -35,7 +35,7 @@ Revise first with the [study guide](/resources/o-level-biology-5090-human-gas-ex
 
 **2.** Identify each structure of the gas exchange system from its description.
 
-**(a)** A wider region at the top of the windpipe, containing the voice box. **[1]**
+**(a)** A wider region at the top of the windpipe, containing the vocal cords. **[1]**
 **(b)** A tube in the neck, held open by rings of cartilage. **[1]**
 **(c)** Narrow, branching tubes inside each lung. **[1]**
 **(d)** Tiny air sacs, each covered by a network of blood vessels. **[1]**

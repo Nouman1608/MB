@@ -120,7 +120,7 @@ A mixture of 1.00 mol of ethene and 1.00 mol of steam reaches equilibrium. The e
 **(b)** Total = 0.800 + 2.40 + 0.400 = 3.60 mol [1]. p(N₂) = **3.33 MPa**, p(H₂) = **10.0 MPa**, p(NH₃) = **1.67 MPa** [1].
 **(c)** Kp = p(NH₃)² / (p(N₂) × p(H₂)³) = 1.667² / (3.333 × 10.0³) [1] = **8.33 × 10⁻⁴ MPa⁻²** [1].
 **(d)** **No effect** on Kp (it only lets equilibrium be reached faster) [1]. **[7]**
-*Examiner insight:* Rounding the partial pressures to 3 s.f. before (c) gives 8.37 × 10⁻⁴, which can lose the accuracy mark; carry full calculator values through.
+*Examiner insight:* Rounding the partial pressures to 3 s.f. before (c) gives 8.38 × 10⁻⁴, which can lose the accuracy mark; carry full calculator values through.
 
 **10. (a)** One mole of CO and one mole of Cl₂ form for every mole of COCl₂ that decomposes, and there was none of either at the start, so their moles (and so their partial pressures) are equal [1].
 **(b)** Kp = p(CO) × p(Cl₂) / p(COCl₂), so p(CO)² = 40.0 × 90.0 = 3600 [1]; p(CO) = **60.0 kPa** [1].

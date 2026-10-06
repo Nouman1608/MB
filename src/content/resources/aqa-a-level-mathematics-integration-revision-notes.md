@@ -19,7 +19,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-For full explanations and longer worked examples, use the [Integration study guide](/resources/aqa-a-level-mathematics-integration/). These notes condense **Section H: Integration (H1 to H8)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. Section H is Paper 1 content and can also be assessed on Papers 2 and 3. A calculator is required in every 7357 paper, but exact answers and "show that" questions need full working.
+For full explanations and longer worked examples, use the [Integration study guide](/resources/aqa-a-level-mathematics-integration/). These notes condense **Section H: Integration (H1 to H8)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. Section H is Paper 1 content and can also be assessed on Papers 2 and 3. A calculator is required in every paper of this specification, but exact answers and "show that" questions need full working.
 
 Practise with the [Integration practice questions](/resources/aqa-a-level-mathematics-integration-practice/). Course hub: [/boards/aqa/a-level/mathematics/](/boards/aqa/a-level/mathematics/). Printable checklist: [/checklists/aqa/a-level/mathematics/](/checklists/aqa/a-level/mathematics/). Free 10-minute diagnostics: [/diagnostics/](/diagnostics/).
 

@@ -100,7 +100,7 @@ Orbit results to derive, not just quote: v = √(GM/r), T² = (4π²/GM)r³, tot
 
 1. E = V/d, then F = QE and a = F/m.
 2. Time between plates: t = plate length ÷ horizontal speed.
-3. Sideways displacement y = ½at²; sideways velocity at = at.
+3. Sideways displacement y = ½at²; sideways velocity = at.
 4. Check the direction: positive charges move towards the negative plate.
 
 ## 3.7.4 Capacitance: key points
@@ -137,7 +137,7 @@ Orbit results to derive, not just quote: v = √(GM/r), T² = (4π²/GM)r³, tot
 - **Faraday's law**: emf = rate of change of flux linkage. **Lenz's law**: the induced current opposes the change producing it.
 - **Straight conductor**: ε = Blv.
 - **Rotating coil**: ε = BANω sin ωt; emf is maximum when the coil plane is parallel to B (flux linkage zero).
-- **AC**: rms, peak and peak-to-peak values apply to sinusoidal waveforms only.
+- **AC**: the rms, peak and peak-to-peak relations here are for sinusoidal waveforms only.
 - **Oscilloscope**: voltage = divisions × Y-gain; time = divisions × time-base. Usable as a dc or ac voltmeter and for measuring time intervals and frequencies.
 - **Transformer losses**: eddy currents (reduce with a laminated core), coil resistance, magnetising the core, flux leakage.
 - **Transmission**: high voltage → low current → low I²R loss.

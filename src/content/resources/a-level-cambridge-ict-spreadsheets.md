@@ -178,7 +178,7 @@ Select the **data series** from **contiguous** (adjacent) or **non-contiguous** 
 - Leaving out `FALSE` in VLOOKUP (or `0` in MATCH) and getting an approximate match.
 - Putting the condition range first in SUMIFS, as in SUMIF.
 - Testing a lower IF band first, so it catches every value.
-- Calculating with the text output of MID or RIGHT without `VALUE`.
+- Treating the text output of MID or RIGHT as a number (in SUM, comparisons or lookups) without `VALUE`.
 - Adding subtotals to unsorted data.
 
 ## Next steps

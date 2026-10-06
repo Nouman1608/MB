@@ -134,7 +134,7 @@ t = 0.050 / 2.0 × 10⁷ = 2.5 × 10⁻⁹ s
 y = ½at² = 5.5 mm towards the positive plate
 ```
 
-**Electric potential** V is the work done per unit positive charge bringing it from infinity (V = 0). **ΔW = QΔV**. Radial field: **V = (1/4πε₀) Q/r**, negative for a negative charge. No work is done along equipotentials. The magnitude of E is the gradient of a V–r graph, **E = ΔV/Δr**, and ΔV is the area under an E–r graph.
+**Electric potential** V is the work done per unit positive charge bringing it from infinity (V = 0). **ΔW = QΔV**. Radial field: **V = (1/4πε₀) Q/r**, negative for a negative charge. No work is done along equipotentials. Outside a point charge E falls as 1/r² and V as 1/r. The magnitude of E is the gradient of a V–r graph, **E = ΔV/Δr**, and ΔV is the area under an E–r graph.
 
 ### Worked example 6: charged sphere
 

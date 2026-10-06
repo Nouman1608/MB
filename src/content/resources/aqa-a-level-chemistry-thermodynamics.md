@@ -188,7 +188,7 @@ arranged. Units: **J K⁻¹ mol⁻¹**. Every substance has a positive absolute 
 Entropy increases when:
 
 - a solid melts or a liquid boils (solid < liquid < gas);
-- a reaction produces more moles of gas than it uses;
+- a reaction produces more moles of gas than it uses.
 
 ### Calculating ΔS from absolute entropies
 
