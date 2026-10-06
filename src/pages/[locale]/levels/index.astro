@@ -27,7 +27,7 @@ const rows = QUALIFICATIONS.filter((q) => available.includes(q.slug)).map((q) =>
       {rows.map(({ qualification, combos, boards }) => (
         <li class="m-0 bg-white p-[clamp(20px,3vw,32px)]">
           <a href={levelPath(qualification.slug)} class="group block">
-            <h2 class="m-0 font-display text-2xl tracking-[-0.01em] text-navy-800 group-hover:text-gold-600">{qualification.name}</h2>
+            <h2 class="m-0 font-display text-2xl tracking-[-0.01em] text-navy-800 group-hover:text-gold-600 font-semibold">{qualification.name}</h2>
             <p class="m-0 mt-2 text-[15px] text-ink-mute">{combos.length} {copy.combinationsLabel} · {boards.length} {copy.boardsLabel}</p>
             <span class="mt-4 inline-block border-b border-gold-500 text-[14px] font-medium text-navy-800 group-hover:text-gold-600">{copy.viewLabel} {qualification.name} →</span>
           </a>

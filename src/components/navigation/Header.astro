@@ -17,7 +17,7 @@ const isCurrent = (href: string) => isCurrentSection(href, Astro.url.pathname);
         <a
           href={item.href}
           aria-current={isCurrent(item.href) ? 'true' : undefined}
-          class={`whitespace-nowrap border-b py-1.5 text-[15px] hover:border-gold-500 hover:text-white ${isCurrent(item.href) ? 'border-gold-500 text-white' : 'border-transparent text-ivory'} ${i === 0 ? 'font-semibold' : ''}`}
+          class={`whitespace-nowrap border-b-2 py-1.5 text-[15px] hover:border-teal-300 hover:text-white ${isCurrent(item.href) ? 'border-teal-300 text-white' : 'border-transparent text-on-navy'} ${i === 0 ? 'font-semibold' : ''}`}
         >{item.label}</a>
       ))}
     </nav>
@@ -44,8 +44,8 @@ const isCurrent = (href: string) => isCurrentSection(href, Astro.url.pathname);
           students: the portal routes by role after sign-in. Outlined so
           it does not compete with the gold trial CTA, which stays the
           single highlighted action. */}
-      <a href="https://portal.marlbridge.com/login" class="hidden rounded-sm border border-navy-rule px-5 py-3 text-sm font-semibold text-ivory hover:border-gold-500 hover:text-white lg:inline-flex">Portal Login</a>
-      <a href="/trial/" class="hidden rounded-sm bg-gold-500 px-5 py-3 text-sm font-semibold text-navy-800 hover:bg-gold-600 lg:inline-flex">Free Trial Class</a>
+      <a href="https://portal.marlbridge.com/login" class="hidden rounded-sm border-2 border-navy-rule px-5 py-2.5 text-sm font-semibold text-white hover:border-teal-300 hover:text-white lg:inline-flex">Portal Login</a>
+      <a href="/trial/" class="hidden rounded-sm bg-gold-500 px-5 py-3 text-sm font-bold text-navy-800 hover:bg-gold-400 hover:text-navy-800 active:bg-[#C99A1F] lg:inline-flex">Free Trial Class</a>
       <button
         type="button"
         id="menu-toggle"

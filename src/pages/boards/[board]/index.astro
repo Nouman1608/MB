@@ -92,7 +92,7 @@ const faq = faqNode(faqs);
             {g.items.map((c) => (
               <li class="m-0 bg-white">
                 <a href={academicHubPath(c)} class="group flex h-full flex-col justify-between gap-2 p-5">
-                  <span class="font-display text-xl tracking-[-0.01em] text-navy-800 group-hover:text-gold-600">{c.subject}</span>
+                  <span class="font-display text-xl tracking-[-0.01em] text-navy-800 group-hover:text-gold-600 font-semibold">{c.subject}</span>
                   {c.qualificationCode && <span class="font-mono text-[12px] text-ink-mute">Specification {c.qualificationCode}</span>}
                 </a>
               </li>

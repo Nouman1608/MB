@@ -109,17 +109,17 @@ function init(d: Data): void {
     list.replaceChildren();
     d.questions.forEach((q, i) => {
       const li = el('li', 'm-0 rounded-sm border border-rule bg-white p-[clamp(18px,2.4vw,28px)]');
-      li.append(el('p', 'm-0 mb-2 text-[12px] font-medium uppercase tracking-[0.1em] text-gold-600', `Question ${i + 1} · ${q.topicName} · ${q.marks} ${q.marks === 1 ? 'mark' : 'marks'}`));
+      li.append(el('p', 'm-0 mb-2 mb-label text-teal-700', `Question ${i + 1} · ${q.topicName} · ${q.marks} ${q.marks === 1 ? 'mark' : 'marks'}`));
       const qd = el('div', 'diag-prose text-[16px] leading-[1.6]');
       trustedHtml(qd, q.qHtml);
       li.append(qd);
       if (answers[i].trim()) {
         const yours = el('div', 'mt-3 rounded-sm bg-ivory p-3 text-[15px]');
-        yours.append(el('p', 'm-0 mb-1 text-[12px] font-medium uppercase tracking-[0.08em] text-ink-mute', 'Your answer'));
+        yours.append(el('p', 'm-0 mb-1 mb-label text-ink-mute', 'Your answer'));
         yours.append(el('p', 'm-0 whitespace-pre-wrap', answers[i]));
         li.append(yours);
       }
-      li.append(el('p', 'm-0 mb-1 mt-4 text-[12px] font-medium uppercase tracking-[0.1em] text-gold-600', 'Worked answer'));
+      li.append(el('p', 'm-0 mb-1 mt-4 mb-label text-teal-700', 'Worked answer'));
       const ad = el('div', 'diag-prose text-[15.5px] leading-[1.6]');
       trustedHtml(ad, q.aHtml);
       li.append(ad);
@@ -188,7 +188,7 @@ function init(d: Data): void {
       if (ratio < 1 && d.recs[slug]?.length) {
         const ul = el('ul', 'm-0 mt-2 grid list-none gap-1 p-0 text-[14px]');
         for (const r of d.recs[slug]) {
-          const a = el('a', 'underline decoration-gold-500 underline-offset-2 hover:text-gold-600', r.t);
+          const a = el('a', 'underline decoration-teal-500 underline-offset-2 hover:text-teal-700', r.t);
           a.href = r.u;
           a.addEventListener('click', () => track('recommended_resource_click', { source: 'diagnostic', link_kind: r.k, course_code: d.code }));
           const item = el('li', 'm-0');
@@ -200,7 +200,7 @@ function init(d: Data): void {
       // B9 -- retest just this topic in the practice bank. No topic is sent to analytics.
       const rt = ratio < 1 ? d.retest?.[slug] : undefined;
       if (rt) {
-        const a = el('a', 'mt-2 inline-flex min-h-11 items-center rounded-sm border border-rule bg-white px-4 text-[14px] font-medium text-navy-800 hover:border-gold-500', `Retest this topic (${rt.n} questions)`);
+        const a = el('a', 'mt-2 inline-flex min-h-11 items-center rounded-sm border border-rule bg-white px-4 text-[14px] font-medium text-navy-800 hover:border-teal-500', `Retest this topic (${rt.n} questions)`);
         a.href = rt.u;
         // The accessible name starts with the visible text (WCAG 2.5.3); the topic is added for screen readers.
         a.append(el('span', 'sr-only', `: ${t.name}`));
@@ -229,7 +229,7 @@ function init(d: Data): void {
       trialBox.className = low ? 'rounded-sm border-2 border-gold-500 bg-ivory p-5' : 'rounded-sm border border-rule bg-white p-5';
       trialLink.className = low
         ? 'mt-3 inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-5 text-[14.5px] font-medium text-ivory hover:bg-navy-700'
-        : 'mt-3 inline-flex min-h-11 items-center text-[14.5px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600';
+        : 'mt-3 inline-flex min-h-11 items-center text-[14.5px] font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700';
       // D-338 -- only name one topic when it really is the weakest. If every
       // topic scored the same (e.g. all 0 after skipping), "the weakest" would
       // just be the first topic, so talk about "these topics" instead.
@@ -254,13 +254,13 @@ function init(d: Data): void {
     review.replaceChildren();
     d.questions.forEach((q, i) => {
       const li = el('li', 'm-0 rounded-sm border border-rule bg-white p-4');
-      li.append(el('p', 'm-0 mb-1 text-[12px] font-medium uppercase tracking-[0.1em] text-gold-600', `Question ${i + 1} · ${q.topicName} · you awarded ${awarded[i]}/${q.marks} (self-assessed)`));
+      li.append(el('p', 'm-0 mb-1 mb-label text-teal-700', `Question ${i + 1} · ${q.topicName} · you awarded ${awarded[i]}/${q.marks} (self-assessed)`));
       const qd = el('div', 'diag-prose text-[15px] leading-[1.6]');
       trustedHtml(qd, q.qHtml);
       const ad = el('div', 'diag-prose mt-2 border-s-2 border-gold-500 ps-3 text-[15px] leading-[1.6]');
       trustedHtml(ad, q.aHtml);
       const src = el('p', 'm-0 mt-2 text-[13px] text-ink-mute');
-      const a = el('a', 'underline decoration-gold-500 underline-offset-2', q.sourceTitle);
+      const a = el('a', 'underline decoration-teal-500 underline-offset-2', q.sourceTitle);
       a.href = q.source;
       src.append(document.createTextNode('From: '), a);
       li.append(qd, ad, src);

@@ -100,7 +100,7 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
           : <>In-person classes are taught at the Learners Academy campus in Lahore.</>}
         {' '}Students elsewhere in Pakistan join the same teachers live online, and class times are agreed with you before the first class. Most Cambridge syllabuses are examined in
         the June and November series, and some in June only; each syllabus page states its series.
-        {' '}Students outside Pakistan: see <a href="/international-tutoring/" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">international online tutoring</a>.
+        {' '}Students outside Pakistan: see <a href="/international-tutoring/" class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">international online tutoring</a>.
       </p>
     </Container>
   </Section>
@@ -115,7 +115,7 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
       <ul class="m-0 grid gap-3 p-0 sm:grid-cols-2" style="list-style: none;">
         {offeredBoards.map((b) => (
           <li class="rounded-sm border border-rule bg-ivory p-4">
-            <a href={`/boards/${b.slug}/`} class="text-[15.5px] font-semibold text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{b.name}</a>
+            <a href={`/boards/${b.slug}/`} class="text-[15.5px] font-semibold text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{b.name}</a>
           </li>
         ))}
       </ul>
@@ -128,12 +128,12 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
       <p class="m-0 mb-6 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
         Three delivery formats are available in Pakistan -- group classes (per subject, per month), one-to-one classes (per
         class), and IB tuition, which is priced differently again and confirmed for Pakistan only. Full terms, discounts and
-        every other region's rate are on the {' '}<a href={routes.pricing} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">pricing page</a>.
+        every other region's rate are on the {' '}<a href={routes.pricing} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">pricing page</a>.
       </p>
 
       <div class="grid gap-5 sm:grid-cols-3">
         <div class="rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
-          <p class="m-0 mb-1 text-[13px] font-medium uppercase tracking-[0.08em] text-gold-600">Group classes</p>
+          <p class="m-0 mb-1 mb-label text-teal-700">Group classes</p>
           <p class="m-0 mt-2 text-[15px] text-navy-800">
             {formatFee(pkGroup.igcse, pkGroup.currency)} {pkGroup.currency} <span class="text-[13px] text-ink-mute">/subject/month — GCSE / IGCSE / O Level</span>
           </p>
@@ -143,7 +143,7 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
           <p class="m-0 mt-3 text-[13px] text-ink-mute">{PRICING_TERMS.classFormat.group}</p>
         </div>
         <div class="rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
-          <p class="m-0 mb-1 text-[13px] font-medium uppercase tracking-[0.08em] text-gold-600">One-to-one classes</p>
+          <p class="m-0 mb-1 mb-label text-teal-700">One-to-one classes</p>
           <p class="m-0 mt-2 text-[15px] text-navy-800">
             {formatFee(pkOneToOne.igcse, pkOneToOne.currency)} {pkOneToOne.currency} <span class="text-[13px] text-ink-mute">/class — GCSE / IGCSE / O Level</span>
           </p>
@@ -153,7 +153,7 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
           <p class="m-0 mt-3 text-[13px] text-ink-mute">{PRICING_TERMS.classFormat.oneToOne}</p>
         </div>
         <div class="rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
-          <p class="m-0 mb-1 text-[13px] font-medium uppercase tracking-[0.08em] text-gold-600">IB tuition</p>
+          <p class="m-0 mb-1 mb-label text-teal-700">IB tuition</p>
           <p class="m-0 mt-2 text-[15px] text-navy-800">
             {IB_PRICING.perClass.toLocaleString('en-US')} {IB_PRICING.currency} <span class="text-[13px] text-ink-mute">{IB_PRICING.unit}</span>
           </p>
@@ -176,7 +176,7 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
       </p>
       <ul class="m-0 grid gap-2 p-0 sm:grid-cols-2" style="list-style: none;">
         {PK_SEARCHED_HUBS.map((h) => (
-          <li><a href={h.path} class="text-[15px] text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{h.label}</a>{hubIsTaught(h.path) ? '' : <span class="text-[13px] text-ink-mute">{RESOURCES_ONLY_SUFFIX}</span>}</li>
+          <li><a href={h.path} class="text-[15px] text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{h.label}</a>{hubIsTaught(h.path) ? '' : <span class="text-[13px] text-ink-mute">{RESOURCES_ONLY_SUFFIX}</span>}</li>
         ))}
       </ul>
     </Container>
@@ -189,7 +189,7 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
         Marlbridge teaches the six international boards listed above -- it does not currently offer tuition for Pakistan's
         own Matriculation, Federal Board (FBISE) or provincial-board examinations. If your child is studying toward one of
         those, this site and its pricing do not apply to that route. If you're unsure which category your school's exams
-        fall into, {' '}<a href={routes.contact} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">get in touch</a> and we'll clarify honestly rather than guess.
+        fall into, {' '}<a href={routes.contact} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">get in touch</a> and we'll clarify honestly rather than guess.
       </p>
     </Container>
   </Section>

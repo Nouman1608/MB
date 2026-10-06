@@ -2,41 +2,74 @@
 
 /* ---- Design tokens (approved spec §5) ---- */
 @theme {
-  --color-navy-900: #071527;
-  --color-navy-800: #0B1F3A;
-  --color-navy-700: #16304F;
-  --color-navy-rule: #24395A;
-  --color-navy-line: #4A5F80;
-  --color-ivory: #F7F4EC;
-  --color-ivory-dk: #EFEADC;
-  /* QIGT programme (Aug 2026) -- was #8A6D12 (4.47:1 against --color-ivory,
-     just under the 4.5:1 AA threshold for normal text; axe-core/Lighthouse
-     confirmed real color-contrast failures on every page tested, wherever
-     this token sits on an ivory-surface Section). Darkened to clear AA
-     against BOTH light surfaces this token is actually used on: 5.56:1
-     against ivory, 6.11:1 against white. */
-  --color-gold-600: #7A5E10;   /* gold TEXT on light — AA (ivory 5.56:1, white 6.11:1) */
-  --color-gold-500: #C9A227;   /* rules, marks, focus on navy */
-  --color-rule: #E2DCCD;
-  --color-ink: #172033;
-  --color-ink-mute: #5B6472;
-  --color-on-navy: #C6CEDA;
-  --color-on-navy-mute: #9FADC2;
+  /*
+   * D-397 visual refresh (6 Oct 2026) -- "clear study desk". Colour roles:
+   *   navy   ink, headings, the header and footer (foundation)
+   *   teal   anything you can act on or select: links, buttons, chips,
+   *          focus, current section (primary accent)
+   *   gold   highlights only: the free-trial button and marks on navy
+   *   learn / revise / practise   the three resource modes (study guides,
+   *          revision notes, practice questions), each always paired with
+   *          its own icon and label, never colour alone
+   *   mist   the section tint (replaces the old cream "ivory"; the token
+   *          names ivory / ivory-dk are kept so existing classes still work)
+   * Contrast (WCAG 2.2): ink on white 15.8:1; ink-mute on white 7.0:1, on
+   * mist 6.5:1; teal-700 on white 6.5:1, on mist 6.0:1; white on teal-700
+   * 6.5:1; gold-500 on navy-800 7.0:1; teal-300 on navy-800 7.9:1;
+   * revise-700 on revise-50 5.8:1; practise-700 on practise-50 7.2:1.
+   */
+  --color-navy-900: #0A1E36;
+  --color-navy-800: #0F2B4A;
+  --color-navy-700: #1B416A;
+  --color-navy-rule: #284A70;
+  --color-navy-line: #5A7598;
+  --color-ivory: #F2F7F6;      /* mist: section tint */
+  --color-ivory-dk: #E3EEEC;
+  --color-teal-50: #EDF7F6;
+  --color-teal-100: #D2EDEA;
+  --color-teal-300: #7CCFC6;   /* accent on navy */
+  --color-teal-500: #1E9C94;   /* rules, underlines, non-text marks (3.4:1 on white) */
+  --color-teal-600: #127F79;
+  --color-teal-700: #0C6964;   /* accent text, primary buttons */
+  --color-teal-800: #0A524F;
+  --color-gold-600: #7A5E10;   /* gold TEXT on light -- AA (white 6.1:1) */
+  --color-gold-500: #E0AE2E;   /* highlight: trial CTA, marks on navy */
+  --color-gold-400: #EDC253;
+  --color-learn-50: #EDF7F6;
+  --color-learn-200: #B9E1DC;
+  --color-learn-700: #0C6964;
+  --color-revise-50: #FFF5E0;
+  --color-revise-200: #F3D69B;
+  --color-revise-700: #8A5300;
+  --color-practise-50: #F0EFFC;
+  --color-practise-200: #CDC9F2;
+  --color-practise-700: #4840A8;
+  --color-rule: #DCE4E6;
+  --color-ink: #13233A;
+  --color-ink-mute: #4C5A6B;
+  --color-on-navy: #C9D4E2;
+  --color-on-navy-mute: #A3B3C8;
   --color-success: #176B4D;
   --color-error: #A33A3A;
 
-  --font-display: Newsreader, "Newsreader Fallback", "Newsreader Fallback Times", Georgia, serif; /* D-349: metric-matched fallbacks, fonts.css */
+  /* Two families: Bricolage Grotesque for headings and display, Public Sans
+     for reading and UI. --font-mono now points at Public Sans with tabular
+     figures (codes and counts still line up); the monospace face is gone. */
+  --font-display: "Bricolage Grotesque", "Bricolage Fallback", "Public Sans", system-ui, sans-serif;
   --font-sans: "Public Sans", "Public Sans Fallback", system-ui, sans-serif; /* D-349 */
-  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+  --font-mono: "Public Sans", "Public Sans Fallback", system-ui, sans-serif;
 
-  --text-hero: clamp(2.5rem, 1.5rem + 4.4vw, 5.25rem);
-  --text-h1: clamp(2rem, 1.5rem + 2.2vw, 3.25rem);
-  --text-h2: clamp(1.625rem, 1.3rem + 1.2vw, 2.25rem);
-  --text-serif-h2: clamp(1.75rem, 1.35rem + 1.5vw, 2.5rem);
-  --text-lead: clamp(1.0625rem, 1rem + 0.45vw, 1.375rem);
+  /* Type scale (rem at 16px): hero 2.75-5, h1 2.25-3.75, h2 1.75-2.625,
+     h3 1.3-1.6, lead 1.125-1.375, body 1.0625, small 0.9375, label 0.8125. */
+  --text-hero: clamp(2.75rem, 1.7rem + 4.2vw, 5rem);
+  --text-h1: clamp(2.25rem, 1.55rem + 2.9vw, 3.75rem);
+  --text-h2: clamp(1.75rem, 1.4rem + 1.5vw, 2.625rem);
+  --text-serif-h2: clamp(1.75rem, 1.4rem + 1.5vw, 2.625rem);
+  --text-h3: clamp(1.3rem, 1.18rem + 0.5vw, 1.6rem);
+  --text-lead: clamp(1.125rem, 1.04rem + 0.4vw, 1.375rem);
 
-  --radius-sm: 2px;
-  --radius-md: 4px;
+  --radius-sm: 6px;   /* controls, chips, inputs, small cards */
+  --radius-md: 10px;  /* panels and resource columns */
 
   --container-site: 1280px;
   --spacing-gutter: clamp(20px, 5vw, 64px);
@@ -66,21 +99,50 @@
     -webkit-font-smoothing: antialiased;
     text-wrap: pretty;
   }
-  h1, h2, h3 { text-wrap: balance; }
+  /* D-397: every heading uses the display face; weights are set by the
+     component classes (600-700). Tight tracking only at display sizes. */
+  h1, h2, h3, h4 { font-family: var(--font-display); text-wrap: balance; font-optical-sizing: auto; }
+  h1, h2 { letter-spacing: -0.02em; }
   a { color: var(--color-navy-800); text-decoration: none; }
-  a:hover { color: var(--color-gold-600); }
-  /* Navigation round (6 Oct 2026): gold on white/ivory is about 2.4:1, below
-     the 3:1 needed for a focus indicator, so light surfaces use navy; the
-     navy header, footer and bands keep the gold ring. */
-  :focus-visible { outline: 2px solid var(--color-navy-800); outline-offset: 3px; }
+  a:hover { color: var(--color-teal-700); }
+  /* Focus: teal ring (6.5:1 on white) on light surfaces; gold on navy. */
+  :focus-visible { outline: 2px solid var(--color-teal-700); outline-offset: 3px; border-radius: 2px; }
   :is(header, footer, .bg-navy-800, .bg-navy-900) :focus-visible { outline-color: var(--color-gold-500); }
-  ::selection { background: var(--color-navy-800); color: var(--color-ivory); }
+  ::selection { background: var(--color-teal-100); color: var(--color-ink); }
+  code, kbd, samp { font-family: var(--font-sans); font-variant-numeric: tabular-nums; }
   img { max-width: 100%; height: auto; }
 }
 
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
+}
+
+/* D-397 -- small labels and eyebrows in sentence case. These replace the
+   11px monospace, tracked-capitals labels (about 140 of them) that made
+   every section read like a form. Colour comes from the element's own
+   text-* class. */
+@utility mb-label {
+  font-family: var(--font-sans);
+  font-size: 0.8125rem;
+  font-weight: 600;
+  line-height: 1.35;
+  letter-spacing: 0.005em;
+  font-variant-numeric: tabular-nums;
+}
+@utility mb-eyebrow {
+  font-family: var(--font-sans);
+  font-size: 0.9375rem;
+  font-weight: 600;
+  line-height: 1.4;
+  letter-spacing: 0;
+}
+@utility mb-meta {
+  font-family: var(--font-sans);
+  font-size: 0.8125rem;
+  font-weight: 500;
+  line-height: 1.4;
+  font-variant-numeric: tabular-nums;
 }
 
 /* Utility: visually hidden */

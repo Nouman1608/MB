@@ -81,8 +81,8 @@ const groups = [
     <Container>
       <div class="grid items-center gap-8 lg:grid-cols-[1.1fr_1fr] lg:gap-[clamp(32px,5vw,72px)]">
         <div>
-          <p class="m-0 mb-6 text-xs font-medium uppercase tracking-[0.2em] text-gold-600">Where Marlbridge Began</p>
-          <h2 id="academy-heading" class="m-0 mb-6 font-display text-[clamp(1.875rem,1.4rem+1.9vw,2.875rem)] font-normal leading-[1.12] tracking-[-0.02em] text-navy-800">
+          <p class="m-0 mb-6 mb-eyebrow text-teal-700">Where Marlbridge Began</p>
+          <h2 id="academy-heading" class="m-0 mb-6 font-display text-[clamp(1.875rem,1.4rem+1.9vw,2.875rem)] font-bold leading-[1.08] tracking-[-0.025em] text-navy-800">
             Marlbridge is the international branch of Learners Academy.
           </h2>
           <p class="m-0 mb-5 max-w-[54ch] text-[18px] leading-[1.7]">
@@ -96,19 +96,19 @@ const groups = [
                 <dl class="m-0 mt-4 flex flex-wrap gap-x-10 gap-y-2 text-[15.5px]">
                   {about.foundingYear && (
                     <div class="m-0">
-                      <dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Founded </dt>
+                      <dt class="m-0 inline mb-label text-teal-700">Founded </dt>
                       <dd class="m-0 inline">{about.foundingYear}</dd>
                     </div>
                   )}
                   {about.city && (
                     <div class="m-0">
-                      <dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Based in </dt>
+                      <dt class="m-0 inline mb-label text-teal-700">Based in </dt>
                       <dd class="m-0 inline">{[about.city, about.country].filter(Boolean).join(', ')}</dd>
                     </div>
                   )}
                   {about.address && (
                     <div class="m-0 basis-full">
-                      <dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Teaching address </dt>
+                      <dt class="m-0 inline mb-label text-teal-700">Teaching address </dt>
                       <dd class="m-0 inline">{about.address}</dd>
                     </div>
                   )}
@@ -126,7 +126,7 @@ const groups = [
             <p class="m-0 text-[15.5px] leading-snug text-ink-mute">
               <span class="block font-semibold text-navy-800">Learners Academy</span>
               Operates Marlbridge &middot;{' '}
-              <a href="https://learnersacademy.com.pk" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600" rel="noopener" target="_blank">learnersacademy.com.pk</a>
+              <a href="https://learnersacademy.com.pk" class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener" target="_blank">learnersacademy.com.pk</a>
             </p>
           </div>
         </div>
@@ -178,12 +178,12 @@ const groups = [
       <div class="grid gap-[clamp(24px,3vw,48px)] sm:grid-cols-2 lg:grid-cols-3">
         {groups.map((group) => (
           <section class="border-t border-rule pt-5">
-            <h3 class="m-0 mb-1.5 font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">{group.label}</h3>
+            <h3 class="m-0 mb-1.5 mb-label text-teal-700">{group.label}</h3>
             <p class="m-0 mb-4 text-[14.5px] leading-snug text-ink-mute">{group.note}</p>
             <ul class="m-0 list-none p-0">
               {group.entries.map((program) => (
                 <li class="m-0 border-b border-rule last:border-b-0">
-                  <a href={routes.program(program.id)} class="block py-3 text-[16.5px] text-ink hover:text-gold-600">{program.data.title}</a>
+                  <a href={routes.program(program.id)} class="block py-3 text-[16.5px] text-ink hover:text-teal-700">{program.data.title}</a>
                 </li>
               ))}
             </ul>
@@ -214,11 +214,11 @@ const groups = [
         <div class="max-w-[68ch] text-[17.5px] leading-[1.7]">
           <p class="m-0">
             Most study material published on Marlbridge ({teamBylineCount.toLocaleString('en-US')} of {publishedResources.length.toLocaleString('en-US')} resources) is credited to the
-            <a href={routes.author('marlbridge-academic-team')} class="underline decoration-gold-500 underline-offset-2">Marlbridge Academic Team</a>
+            <a href={routes.author('marlbridge-academic-team')} class="underline decoration-teal-500 underline-offset-2">Marlbridge Academic Team</a>
             — an organisational byline, not a person. The other {namedBylineCount.toLocaleString('en-US')} resources carry a real, named author from the Marlbridge teaching team, credited on the resource page and linked to their own profile.
           </p>
           <p class="m-0 mt-5 text-[16.5px] text-ink-mute">
-            Authorship and review are separate roles: a "Reviewed by" line names the subject teacher accountable for a page's accuracy, who is never its author; it is not a record of a dated, line-by-line check. See our <a href="/legal/editorial-policy/" class="underline decoration-gold-500 underline-offset-2">editorial and trust policy</a> for how content is written, reviewed and corrected.
+            Authorship and review are separate roles: a "Reviewed by" line names the subject teacher accountable for a page's accuracy, who is never its author; it is not a record of a dated, line-by-line check. See our <a href="/legal/editorial-policy/" class="underline decoration-teal-500 underline-offset-2">editorial and trust policy</a> for how content is written, reviewed and corrected.
           </p>
         </div>
       </div>

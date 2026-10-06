@@ -45,7 +45,7 @@ const uid = `sub-${source}`;
       </fieldset>
       <label class="flex items-start gap-2.5 text-[14px] sm:col-span-2">
         <input type="checkbox" name="consent" value="yes" required class="mt-0.5 h-5 w-5 shrink-0" aria-describedby={`${uid}-c-err`} />
-        <span>I agree to receive Marlbridge revision emails. I can unsubscribe at any time. See the <a href="/legal/privacy/" class="underline decoration-gold-500 underline-offset-2">Privacy Policy</a>.</span>
+        <span>I agree to receive Marlbridge revision emails. I can unsubscribe at any time. See the <a href="/legal/privacy/" class="underline decoration-teal-500 underline-offset-2">Privacy Policy</a>.</span>
       </label>
       <p id={`${uid}-c-err`} class="m-0 -mt-2 text-[13.5px] text-error sm:col-span-2" hidden data-err="consent"></p>
       {site.turnstile.siteKey && <div class="sm:col-span-2"><div class="cf-turnstile" data-sitekey={site.turnstile.siteKey}></div></div>}

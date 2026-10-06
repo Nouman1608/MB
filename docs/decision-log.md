@@ -15420,3 +15420,74 @@ Three more problems turned up:
   - `sameCourse()` now compares the same normalised codes.
 - **CI.** The CI gate now also runs `npm run test:tools` (119 tests), and the D-395 browser journeys run in Chromium against the built site (Playwright is installed for that step only).
 - **Tests (6 Oct 2026):** build, `audit:all` (including `audit:course-isolation`), test:api 88, test:tools 119, practice-analytics 32, negative suite 45, cross-board regression OK, astro check 0 errors, and the browser journeys 11/11, including the new email-box check.
+
+## D-397 - Visual refresh: "clear study desk" design system and the three study modes (2026-10-06)
+
+- **Why.** The site looked uniform and over-formal: navy, cream and thin rules everywhere; about 140 tiny monospace capitalised labels; a serif and sans heading mix with weak contrast in weight; gold used for every job; and study guides, revision notes and practice questions looked identical on the course pages.
+- **Direction.** Navy is the ink and the frame. Teal is the colour for actions, links and selection. Gold is kept for the one highlighted action (the free trial). The three resource types become three study modes (Learn, Revise, Practise). Each mode has its own tint, icon, label and action, so the types are never told apart by colour alone.
+- **Palette** (tokens in `src/styles/global.css`; contrast ratios are against the background named):
+  - Navy: 900 #0A1E36, 800 #0F2B4A (header, hero, footer), 700 #1B416A, rule #284A70, line #5A7598.
+  - Mist (section tint): #F2F7F6, and #E3EEEC for the darker step.
+  - Teal: 50 #EDF7F6, 100 #D2EDEA, 300 #7CCFC6 (accent on navy, 7.9:1), 500 #1E9C94 (underlines and borders only), 600 #127F79, 700 #0C6964 (links and primary buttons, 6.5:1 on white), 800 #0A524F (hover).
+  - Gold: 500 #E0AE2E (trial button and focus ring on navy; navy text on it is 7.0:1), 400 #EDC253 (hover), 600 #7A5E10.
+  - Modes:
+    - Learn: teal 50 #EDF7F6, 200 #B9E1DC, 700 #0C6964.
+    - Revise: amber 50 #FFF5E0, 200 #F3D69B, 700 #8A5300 (5.8:1 on its tint).
+    - Practise: violet 50 #F0EFFC, 200 #CDC9F2, 700 #4840A8 (7.2:1 on its tint).
+  - Text:
+    - ink #13233A (15.8:1 on white).
+    - ink-mute #4C5A6B (7.0:1 on white, 6.5:1 on mist and on the tints).
+    - on-navy #C9D4E2 (9.6:1).
+    - on-navy-mute #A3B3C8 (6.7:1).
+    - rule #DCE4E6.
+- **Typography.**
+  - Two families:
+    - Bricolage Grotesque (variable, OFL, self-hosted from @fontsource-variable 5.3.0) for headings, with a metric-matched Arial fallback.
+    - Public Sans for body text, labels and figures.
+  - Newsreader and IBM Plex Mono were removed.
+  - Fluid scale:
+    - hero clamp(2.75rem…5rem)
+    - h1 clamp(2.25rem…3.75rem)
+    - h2 clamp(1.75rem…2.625rem)
+    - h3 clamp(1.3rem…1.6rem)
+    - lead clamp(1.125rem…1.375rem)
+  - Headings are bold with slight negative tracking.
+  - The tracked uppercase monospace labels became sentence-case `mb-label` (13px/600), `mb-eyebrow` (15px/600) and `mb-meta` (13px/500, tabular figures).
+- **Shape and spacing.** Corner radius is 6px (sm) and 10px (md), and pills are fully round. The existing spacing scale and alignment are unchanged.
+- **Components.**
+  - Button variants:
+    - primary is teal.
+    - secondary is a 2px teal outline.
+    - highlight is gold.
+    - onDark and onDarkGhost are used on navy.
+    - quiet is an underline.
+    - Each variant has hover and pressed states.
+  - Focus is a 2px teal-700 outline, and gold on navy.
+  - Badge is a pill.
+  - Navigation shows the current section with a 2px teal-300 underline.
+  - Course finder chips have a teal checked state.
+- **Resource section** (`CourseTopicResources`, new `ModeColumns`, `ModeIcon`, `ResourceMode`):
+  - The topic name is the h3 and the largest element in each topic.
+  - The "Topic N" pill, subtopic line and count are secondary.
+  - There are three tinted columns with icon and label, in a fixed order, and they stack on phones.
+  - Each resource is one link with a short title and an action ("Read guide", "Revise topic", "Try questions").
+  - An empty mode shows a dashed panel with a plain sentence ("No revision notes for this topic yet.").
+  - A legend above the topics explains the three modes.
+  - The search hooks are unchanged.
+- **Short titles.** `src/utils/academic/short-title.ts` (with a unit test) removes a leading course prefix and a trailing type word only when the course and type are already on screen. The full title stays in the link's title attribute and on the resource page.
+- **Listings.** Resource cards show the mode chip and an action line, and they use short titles inside a course group. Visible level text now reads "IGCSE, O Level" through a new `levelDisplay()`. `resourceLevelLabel()` itself is unchanged because it is also the Pagefind filter value.
+- **Home hero.** The decorative pathway figure fades out behind the text column, so it no longer crosses the lead paragraph.
+- **Preserved, checked against a build of main (86d5893a):**
+  - All 5,948 pages exist in both builds.
+  - Titles, descriptions, canonicals, Open Graph, robots and JSON-LD are identical on every page.
+  - Heading levels and their order are identical on every page.
+  - The link set on every page is identical.
+  - The sitemap and robots.txt are byte-identical.
+  - No content, claims or resource metadata were added.
+- **Tests (6 Oct 2026):**
+  - build and `audit:all` (fonts, accessibility, course isolation) passed.
+  - test:api 88, test:tools 122, practice-analytics 32 and the negative suite 45 passed.
+  - Cross-board regression OK, and astro check reported 0 errors.
+  - Browser journeys passed 11/11, including no horizontal scroll at 390px and working without JavaScript.
+  - Desktop (1366) and phone (390) screenshots of the home page, nav, course finder, course pages (AS/A Level, IB, a topic with empty modes), subject page, listings, tuition and pricing were reviewed, along with keyboard focus on a resource link.
+- **Limitations.** Program cards on the home page keep their ruled grid. Pagefind's own filter labels still read in capitals. No real-device testing beyond Chromium.

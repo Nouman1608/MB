@@ -42,7 +42,7 @@ const maxCount = Math.max(...E.grades.map((g) => g.count));
 
     <div class="mt-[clamp(32px,4vw,52px)] grid items-start gap-[clamp(28px,4vw,64px)] lg:grid-cols-[minmax(280px,0.9fr)_1.4fr]">
       <div>
-        <p class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Grade spread &middot; {E.totalGrades} grades</p>
+        <p class="m-0 mb-label text-teal-700">Grade spread &middot; {E.totalGrades} grades</p>
         <ul class="m-0 mt-5 grid list-none gap-3 p-0">
           {E.grades.map((g) => (
             <li class="m-0 flex items-center gap-3.5">
@@ -60,7 +60,7 @@ const maxCount = Math.max(...E.grades.map((g) => g.count));
       </div>
 
       <div>
-        <p class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">In their own words</p>
+        <p class="m-0 mb-label text-teal-700">In their own words</p>
         <ul class="m-0 mt-5 grid list-none gap-4 p-0 sm:grid-cols-2">
           {E.testimonials.map((t) => (
             <li class="m-0">
@@ -81,7 +81,7 @@ const maxCount = Math.max(...E.grades.map((g) => g.count));
     </div>
 
     <p class="m-0 mt-[clamp(28px,3.5vw,44px)] border-t border-rule pt-5 text-[13px] leading-relaxed text-ink-mute">
-      Published by {E.sourceName} at <a href={E.sourceUrl} rel="noopener" target="_blank" class="underline decoration-gold-500 underline-offset-2">{E.sourceUrl.replace('https://', '')}</a>, read on {E.verifiedOn}.
+      Published by {E.sourceName} at <a href={E.sourceUrl} rel="noopener" target="_blank" class="underline decoration-teal-500 underline-offset-2">{E.sourceUrl.replace('https://', '')}</a>, read on {E.verifiedOn}.
       Students are shown by first name and initial because some are minors. Grades are a record of what these students achieved and are not a prediction of any other student's result.
     </p>
 

@@ -33,7 +33,7 @@ const programs = (await getPrograms()).filter((p) => p.data.marlbridgeTeaches ==
               <h3 class="m-0 text-[clamp(1.25rem,1.1rem+0.5vw,1.5rem)] font-semibold leading-[1.15] tracking-[-0.02em] text-navy-800">{program.data.title}</h3>
             </span>
             <p class="m-0 text-[15.5px] leading-relaxed text-ink-mute">{program.data.shortDescription}</p>
-            <span aria-hidden="true" class="mt-auto pt-3 font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">View program</span>
+            <span aria-hidden="true" class="mt-auto pt-3 mb-label text-teal-700">View program</span>
           </a>
         </li>
       ))}
@@ -42,7 +42,7 @@ const programs = (await getPrograms()).filter((p) => p.data.marlbridgeTeaches ==
           <a href={routes.trial} data-cta="home-programs-trial" class="flex h-full flex-col justify-center gap-3 p-[clamp(26px,2.6vw,38px)] transition-colors duration-150 hover:bg-white">
             <span class="text-[clamp(1.25rem,1.1rem+0.5vw,1.5rem)] font-semibold leading-[1.15] tracking-[-0.02em] text-navy-800">Not sure where to start?</span>
             <span class="text-[15.5px] leading-relaxed text-ink-mute">Book a free trial class and we will match you with the right specialist.</span>
-            <span aria-hidden="true" class="mt-auto pt-3 font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">Free trial class</span>
+            <span aria-hidden="true" class="mt-auto pt-3 mb-label text-teal-700">Free trial class</span>
           </a>
         </li>
       )}

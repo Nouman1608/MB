@@ -47,16 +47,16 @@ const actions = [
 <Section surface="white" spacing="md" labelledby="free-tools-heading">
   <Container>
     <div class="mb-8 max-w-[60ch]">
-      <p class="m-0 mb-3 text-xs font-medium uppercase tracking-[0.2em] text-gold-600">Free, no sign-up</p>
-      <h2 id="free-tools-heading" class="m-0 font-display text-[clamp(1.75rem,1.35rem+1.5vw,2.5rem)] font-normal leading-[1.12] tracking-[-0.02em] text-navy-800">Find study resources</h2>
+      <p class="m-0 mb-3 mb-eyebrow text-teal-700">Free, no sign-up</p>
+      <h2 id="free-tools-heading" class="m-0 font-display text-[clamp(1.75rem,1.35rem+1.5vw,2.5rem)] font-bold leading-[1.08] tracking-[-0.025em] text-navy-800">Find study resources</h2>
     </div>
     <div class="grid items-start gap-6 lg:grid-cols-[1.7fr_1fr]">
       <CourseFinder id="home-course-finder" source="home" mode="compact" heading="Choose your course" level={3} />
       <ul class="m-0 grid list-none gap-4 p-0">
         {actions.map((a) => (
           <li class="m-0">
-            <a href={a.href} data-free-tool={a.kind} class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-ivory p-[clamp(20px,2.2vw,28px)] transition-colors duration-150 hover:border-gold-500">
-              <span class="text-[19px] font-semibold tracking-[-0.01em] text-navy-800">{a.title} <span aria-hidden="true" class="text-gold-600">→</span></span>
+            <a href={a.href} data-free-tool={a.kind} class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-ivory p-[clamp(20px,2.2vw,28px)] transition-colors duration-150 hover:border-teal-500">
+              <span class="text-[19px] font-semibold tracking-[-0.01em] text-navy-800">{a.title} <span aria-hidden="true" class="text-teal-700">→</span></span>
               <span class="text-[15px] leading-[1.6] text-ink-mute">{a.body}</span>
             </a>
           </li>
@@ -67,10 +67,10 @@ const actions = [
       <p id="home-subjects-label" class="m-0 mb-3 text-[15px] text-ink">Know your subject but not your exam board? Start with the subject:</p>
       <ul class="m-0 flex list-none flex-wrap gap-x-4 gap-y-2 p-0 text-[15px]">
         {withResources.map((s) => (
-          <li class="m-0"><a href={routes.subject(s.id)} class="inline-flex min-h-11 items-center text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600 sm:min-h-0">{s.data.title}</a></li>
+          <li class="m-0"><a href={routes.subject(s.id)} class="inline-flex min-h-11 items-center text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700 sm:min-h-0">{s.data.title}</a></li>
         ))}
       </ul>
-      <p class="m-0 mt-4 text-[15px]"><a href={routes.resources} class="font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">All study resources</a></p>
+      <p class="m-0 mt-4 text-[15px]"><a href={routes.resources} class="font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">All study resources</a></p>
     </nav>
   </Container>
 </Section>

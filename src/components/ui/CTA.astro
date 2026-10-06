@@ -19,12 +19,12 @@ const { heading, buttonLabel, buttonHref, surface = 'navy', linkLabel, linkHref,
 {surface === 'navy' ? (
   <Section surface="navy" spacing="md" searchIgnore>
     <Container class="flex flex-col items-start gap-6">
-      <h2 class="m-0 max-w-[26ch] font-display text-[length:var(--text-serif-h2)] font-normal leading-[1.14] tracking-[-0.02em] text-white">
+      <h2 class="m-0 max-w-[26ch] font-display text-[length:var(--text-serif-h2)] font-bold leading-[1.08] tracking-[-0.025em] text-white">
         {heading}
       </h2>
       <Button href={buttonHref} variant="onDark" size="lg" data-cta={buttonCta}>{buttonLabel}</Button>
       {linkLabel && linkHref && (
-        <a href={linkHref} class="text-[15px] text-white underline decoration-gold-500 underline-offset-4 hover:text-gold-500">{linkLabel}</a>
+        <a href={linkHref} class="text-[15px] text-white underline decoration-teal-300 underline-offset-4 hover:text-teal-300">{linkLabel}</a>
       )}
     </Container>
   </Section>
@@ -34,7 +34,7 @@ const { heading, buttonLabel, buttonHref, surface = 'navy', linkLabel, linkHref,
       <p class="m-0 max-w-[62ch] text-[17px] leading-[1.6] text-ink-mute">{heading}</p>
       <Button href={buttonHref} variant="secondary" data-cta={buttonCta}>{buttonLabel}</Button>
       {linkLabel && linkHref && (
-        <a href={linkHref} class="basis-full text-[15px] text-navy-800 underline decoration-gold-500 underline-offset-4 hover:text-gold-600">{linkLabel}</a>
+        <a href={linkHref} class="basis-full text-[15px] text-navy-800 underline decoration-teal-500 underline-offset-4 hover:text-teal-700">{linkLabel}</a>
       )}
     </Container>
   </Section>

@@ -19,6 +19,8 @@ import ApCourseLinks from '../../components/ap/ApCourseLinks.astro';
 import { getResources } from '../../utils/content/collections';
 import { resourcesForCombination, hubSlugFor, STUDY_KIND } from '../../utils/academic/combination-resources';
 import { KIND_ORDER, KIND_LABEL } from '../../utils/academic/course-topics';
+import ModeIcon from '../../components/academic/ModeIcon.astro';
+import { MODE } from '../../components/academic/ResourceMode';
 import { QUALIFICATIONS } from '../../data/academic/qualifications';
 
 export async function getStaticPaths() {
@@ -115,8 +117,8 @@ const teachingSentence =
               const syl = syllabusFor(o.boardSlug, o.qualificationSlug, o.subjectSlug);
               return (
                 <li class="m-0">
-                  <a href={academicHubPath(o)} class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-white p-[clamp(22px,2.2vw,30px)] transition-colors duration-150 hover:border-gold-500">
-                    <span class="font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">{o.board}</span>
+                  <a href={academicHubPath(o)} class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-white p-[clamp(22px,2.2vw,30px)] transition-colors duration-150 hover:border-teal-500">
+                    <span class="mb-label text-teal-700">{o.board}</span>
                     <span class="text-[18px] font-semibold tracking-[-0.01em] text-navy-800">{o.qualification} {o.subject}</span>
                     <span class="mt-auto flex flex-wrap justify-between gap-x-4 pt-2 font-mono text-[12px] text-ink-mute">
                       {syl && <span>Syllabus {syl.code}</span>}
@@ -141,18 +143,18 @@ const teachingSentence =
             {courseGroups.filter((g) => g.count > 0).map((g) => (
               <details class="group border-b border-rule">
                 <summary class="flex min-h-11 cursor-pointer list-none flex-wrap items-baseline justify-between gap-x-6 gap-y-1 py-3.5 marker:hidden">
-                  <span class="text-[17px] font-semibold text-navy-800"><span aria-hidden="true" class="me-2 inline-block text-gold-600 transition-transform group-open:rotate-90">›</span>{g.label}{g.code && <span class="ms-2 font-mono text-[13px] font-normal text-ink-mute">{g.code}</span>}</span>
+                  <span class="text-[17px] font-semibold text-navy-800"><span aria-hidden="true" class="me-2 inline-block text-teal-700 transition-transform group-open:rotate-90">›</span>{g.label}{g.code && <span class="ms-2 font-mono text-[13px] font-normal text-ink-mute">{g.code}</span>}</span>
                   <span class="font-mono text-[12px] text-ink-mute">{g.count} {g.count === 1 ? 'resource' : 'resources'}</span>
                 </summary>
                 <div class="pb-6">
-                  <p class="m-0 mb-3 text-[15px]"><a href={`${academicHubPath(g.o)}#topics`} class="font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">Open the course page, by topic</a></p>
+                  <p class="m-0 mb-3 text-[15px]"><a href={`${academicHubPath(g.o)}#topics`} class="font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">Open the course page, by topic</a></p>
                   <div class="grid gap-x-8 gap-y-4 md:grid-cols-3">
                     {KIND_ORDER.map((k) => (
                       <div>
-                        <h3 class="m-0 font-mono text-[11px] font-normal uppercase tracking-[0.1em] text-gold-600">{KIND_LABEL[k]}</h3>
+                        <h3 class={`m-0 flex items-center gap-1.5 font-sans text-[15px] font-semibold ${MODE[k].text}`}><ModeIcon kind={k} size={18} />{KIND_LABEL[k]}</h3>
                         {g.byKind[k].length > 0 ? (
                           <ul class="m-0 mt-1 list-none p-0">
-                            {g.byKind[k].map((r) => <li class="m-0 py-1"><a href={routes.resource(r.id)} class="text-[15px] leading-snug text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{r.data.title}</a></li>)}
+                            {g.byKind[k].map((r) => <li class="m-0 py-1"><a href={routes.resource(r.id)} class="text-[15px] leading-snug text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{r.data.title}</a></li>)}
                           </ul>
                         ) : <p class="m-0 mt-1 py-1 text-[14px] text-ink-mute">None yet</p>}
                       </div>
@@ -164,11 +166,11 @@ const teachingSentence =
             {notTied.length > 0 && (
               <details class="group border-b border-rule">
                 <summary class="flex min-h-11 cursor-pointer list-none flex-wrap items-baseline justify-between gap-x-6 gap-y-1 py-3.5 marker:hidden">
-                  <span class="text-[17px] font-semibold text-navy-800"><span aria-hidden="true" class="me-2 inline-block text-gold-600 transition-transform group-open:rotate-90">›</span>Not tied to one course</span>
+                  <span class="text-[17px] font-semibold text-navy-800"><span aria-hidden="true" class="me-2 inline-block text-teal-700 transition-transform group-open:rotate-90">›</span>Not tied to one course</span>
                   <span class="font-mono text-[12px] text-ink-mute">{notTied.length} {notTied.length === 1 ? 'resource' : 'resources'}</span>
                 </summary>
                 <ul class="m-0 list-none pb-6 ps-0">
-                  {notTied.map((r) => <li class="m-0 py-1"><a href={routes.resource(r.id)} class="text-[15px] text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{r.data.title}</a></li>)}
+                  {notTied.map((r) => <li class="m-0 py-1"><a href={routes.resource(r.id)} class="text-[15px] text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{r.data.title}</a></li>)}
                 </ul>
               </details>
             )}

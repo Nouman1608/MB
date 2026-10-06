@@ -56,7 +56,7 @@ const faqs = FAQS[locale];
     <h2 class="m-0 mb-6 text-[24px] font-semibold text-navy-800">{nav.questionsHeading}</h2>
     <FAQ items={faqs} id="trial-faqs" />
     <p class="m-0 mt-8 text-[15.5px]">
-      <a href={localePath(locale, 'contact')} class="underline decoration-gold-500 underline-offset-2">{nav.footerCompany.find((i) => i.key === 'contact')?.label}</a>
+      <a href={localePath(locale, 'contact')} class="underline decoration-teal-500 underline-offset-2">{nav.footerCompany.find((i) => i.key === 'contact')?.label}</a>
     </p>
   </div>
 </LocaleLayout>

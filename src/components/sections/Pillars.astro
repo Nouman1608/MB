@@ -14,7 +14,7 @@ import { pillars } from '../../data/homepage';
       {pillars.map((pillar, i) => (
         <li class="m-0 border-t border-rule py-[clamp(24px,3vw,36px)] first:border-gold-500 sm:[&:nth-child(2)]:border-gold-500">
           <div class="flex items-baseline gap-5">
-            <span aria-hidden="true" class="font-mono text-[12px] text-gold-600">{String(i + 1).padStart(2, '0')}</span>
+            <span aria-hidden="true" class="font-mono text-[12px] text-teal-700">{String(i + 1).padStart(2, '0')}</span>
             <div>
               <h3 class="m-0 text-[clamp(1.375rem,1.15rem+0.9vw,1.875rem)] font-semibold leading-[1.15] tracking-[-0.02em] text-navy-800">{pillar.title}</h3>
               <p class="m-0 mt-3 max-w-[42ch] text-[16.5px] leading-[1.6] text-ink-mute">{pillar.description}</p>

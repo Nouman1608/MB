@@ -56,8 +56,8 @@ const h3 = 'm-0 mb-3 text-[18px] font-semibold tracking-[-0.01em] text-navy-800'
 ---
 <section id="tuition" aria-labelledby="tuition-heading" class="scroll-mt-24 border-t border-rule bg-white py-[clamp(48px,6vw,88px)]">
   <div class="mx-auto max-w-[var(--container-site)] px-[var(--spacing-gutter)]">
-    <p class="m-0 mb-3 text-xs font-medium uppercase tracking-[0.2em] text-gold-600">Tuition</p>
-    <h2 id="tuition-heading" class="m-0 max-w-[30ch] font-display text-[clamp(1.75rem,1.35rem+1.5vw,2.5rem)] font-normal leading-[1.12] tracking-[-0.02em] text-navy-800">Online tuition for {courseLabel}</h2>
+    <p class="m-0 mb-3 mb-eyebrow text-teal-700">Tuition</p>
+    <h2 id="tuition-heading" class="m-0 max-w-[30ch] font-display text-[clamp(1.75rem,1.35rem+1.5vw,2.5rem)] font-bold leading-[1.08] tracking-[-0.025em] text-navy-800">Online tuition for {courseLabel}</h2>
     <p class="m-0 mt-4 max-w-[68ch] text-[17px] leading-[1.65] text-ink-mute">{page.audience}</p>
     <div class="mt-6 flex flex-wrap items-center gap-4">
       <a href={trialHref} data-cta="tuition-page-trial" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-6 py-3 text-[15px] font-medium text-ivory hover:bg-navy-700">Request a free trial class</a>
@@ -71,14 +71,14 @@ const h3 = 'm-0 mb-3 text-[18px] font-semibold tracking-[-0.01em] text-navy-800'
           <ul class="m-0 grid list-none gap-3 p-0">
             {teachers.map((t) => (
               <li class="m-0 flex flex-wrap items-center justify-between gap-3 rounded-sm border border-rule bg-white p-3">
-                <a href={routes.author(t.id)} class="flex items-center gap-3 hover:text-gold-600">
+                <a href={routes.author(t.id)} class="flex items-center gap-3 hover:text-teal-700">
                   {t.data.image ? <img src={t.data.image} alt="" width="44" height="44" loading="lazy" decoding="async" class="h-11 w-11 rounded-full object-cover" /> : <span aria-hidden="true" class="h-11 w-11 rounded-full border border-rule bg-ivory"></span>}
                   <span>
                     <span class="block text-[15.5px] font-semibold text-navy-800">{t.data.name}</span>
                     <span class="block text-[13.5px] text-ink-mute">{t.data.role}{t.data.yearsExperience !== undefined && ` · ${t.data.yearsExperience} years teaching`}</span>
                   </span>
                 </a>
-                <a href={`${routes.trial}?course=${encodeURIComponent(courseId)}&teacher=${t.id}&source=tuition-page`} class="text-[14px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-2">Ask for {t.data.name.split(' ')[0]}</a>
+                <a href={`${routes.trial}?course=${encodeURIComponent(courseId)}&teacher=${t.id}&source=tuition-page`} class="text-[14px] font-medium text-navy-800 underline decoration-teal-500 underline-offset-2">Ask for {t.data.name.split(' ')[0]}</a>
               </li>
             ))}
           </ul>
@@ -102,7 +102,7 @@ const h3 = 'm-0 mb-3 text-[18px] font-semibold tracking-[-0.01em] text-navy-800'
       <div class="overflow-x-auto">
         <table class="w-full min-w-[520px] border-collapse text-left text-[14.5px]">
           <caption class="sr-only">{courseLabel} tuition fees by region</caption>
-          <thead><tr class="border-b border-rule text-[12.5px] uppercase tracking-[0.06em] text-ink-mute"><th scope="col" class="py-2 pe-4 font-medium">Region</th><th scope="col" class="py-2 pe-4 font-medium">Group, per subject per month</th><th scope="col" class="py-2 font-medium">One-to-one, per class</th></tr></thead>
+          <thead><tr class="border-b border-rule mb-label text-ink-mute"><th scope="col" class="py-2 pe-4 font-medium">Region</th><th scope="col" class="py-2 pe-4 font-medium">Group, per subject per month</th><th scope="col" class="py-2 font-medium">One-to-one, per class</th></tr></thead>
           <tbody>
             {REGION_PRICING.map((r) => {
               const one = ONE_TO_ONE_PRICING.find((o) => o.region === r.region);
@@ -117,7 +117,7 @@ const h3 = 'm-0 mb-3 text-[18px] font-semibold tracking-[-0.01em] text-navy-800'
           </tbody>
         </table>
       </div>
-      <p class="m-0 mt-3 text-[13px] leading-[1.6] text-ink-mute">* {ONE_TO_ONE_TERMS.conversionNote} Group rates last confirmed {PRICING_VERIFIED_DATE}. {PRICING_TERMS.notPermanentNote} Discounts and every term: <a href={routes.pricing} class="underline decoration-gold-500 underline-offset-2">pricing page</a>.</p>
+      <p class="m-0 mt-3 text-[13px] leading-[1.6] text-ink-mute">* {ONE_TO_ONE_TERMS.conversionNote} Group rates last confirmed {PRICING_VERIFIED_DATE}. {PRICING_TERMS.notPermanentNote} Discounts and every term: <a href={routes.pricing} class="underline decoration-teal-500 underline-offset-2">pricing page</a>.</p>
     </div>
 
     {topics.length > 0 && (
@@ -136,17 +136,17 @@ const h3 = 'm-0 mb-3 text-[18px] font-semibold tracking-[-0.01em] text-navy-800'
           <h3 class={h3}>Sample material</h3>
           <p class="m-0 mb-3 text-[15px] text-ink-mute">Free Marlbridge material for this syllabus, so you can see how topics are explained.</p>
           <ul class="m-0 grid list-none gap-2 p-0">
-            {sampleResources.map((r) => <li class="m-0"><a href={routes.resource(r.id)} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{r.data.title}</a></li>)}
+            {sampleResources.map((r) => <li class="m-0"><a href={routes.resource(r.id)} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{r.data.title}</a></li>)}
           </ul>
         </div>
       )}
       <div>
         <h3 class={h3}>Free tools for this syllabus</h3>
         <ul class="m-0 grid list-none gap-2 p-0 text-[15px]">
-          {diags.map((d) => <li class="m-0"><a href={diagnosticPath(d)} class="underline decoration-gold-500 underline-offset-2">10-minute diagnostic: {d.scopeLabel}</a></li>)}
-          {practiceHref && <li class="m-0"><a href={practiceHref} class="underline decoration-gold-500 underline-offset-2">Self-check practice questions</a></li>}
-          {checklistHref && <li class="m-0"><a href={checklistHref} class="underline decoration-gold-500 underline-offset-2">Printable syllabus checklist</a></li>}
-          <li class="m-0"><a href={`/revision-planner/?course=${encodeURIComponent(courseId)}`} class="underline decoration-gold-500 underline-offset-2">Make a revision plan</a></li>
+          {diags.map((d) => <li class="m-0"><a href={diagnosticPath(d)} class="underline decoration-teal-500 underline-offset-2">10-minute diagnostic: {d.scopeLabel}</a></li>)}
+          {practiceHref && <li class="m-0"><a href={practiceHref} class="underline decoration-teal-500 underline-offset-2">Self-check practice questions</a></li>}
+          {checklistHref && <li class="m-0"><a href={checklistHref} class="underline decoration-teal-500 underline-offset-2">Printable syllabus checklist</a></li>}
+          <li class="m-0"><a href={`/revision-planner/?course=${encodeURIComponent(courseId)}`} class="underline decoration-teal-500 underline-offset-2">Make a revision plan</a></li>
         </ul>
       </div>
     </div>
@@ -167,7 +167,7 @@ const h3 = 'm-0 mb-3 text-[18px] font-semibold tracking-[-0.01em] text-navy-800'
             </li>
           ))}
         </ul>
-        <p class="m-0 mt-3 text-[13px] text-ink-mute">Published by {LA_EVIDENCE.sourceName} at <a href={LA_EVIDENCE.sourceUrl} rel="noopener" target="_blank" class="underline decoration-gold-500 underline-offset-2">{LA_EVIDENCE.sourceUrl.replace('https://', '')}</a>, read on {LA_EVIDENCE.verifiedOn}. Students are shown by first name and initial.</p>
+        <p class="m-0 mt-3 text-[13px] text-ink-mute">Published by {LA_EVIDENCE.sourceName} at <a href={LA_EVIDENCE.sourceUrl} rel="noopener" target="_blank" class="underline decoration-teal-500 underline-offset-2">{LA_EVIDENCE.sourceUrl.replace('https://', '')}</a>, read on {LA_EVIDENCE.verifiedOn}. Students are shown by first name and initial.</p>
       </div>
     )}
 
@@ -178,7 +178,7 @@ const h3 = 'm-0 mb-3 text-[18px] font-semibold tracking-[-0.01em] text-navy-800'
 
     <div class="mt-10 flex flex-wrap items-center gap-4 border-t border-rule pt-8">
       <a href={trialHref} data-cta="tuition-page-trial-bottom" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-6 py-3 text-[15px] font-medium text-ivory hover:bg-navy-700">Request a free trial class</a>
-      <a href={routes.pricing} class="text-[15px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-4">All fees and terms</a>
+      <a href={routes.pricing} class="text-[15px] font-medium text-navy-800 underline decoration-teal-500 underline-offset-4">All fees and terms</a>
     </div>
   </div>
 </section>

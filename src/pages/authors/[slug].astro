@@ -140,7 +140,7 @@ const jsonLd = [
       <div
         role="img"
         aria-label={`Photograph not yet available for ${d.name}`}
-        class="mt-6 flex h-28 w-28 items-center justify-center rounded-full border border-rule bg-white font-mono text-[10.5px] uppercase tracking-[0.08em] text-[#6F6552]"
+        class="mt-6 flex h-28 w-28 items-center justify-center rounded-full border border-rule bg-white mb-label text-[#6F6552]"
       >
         Photo
       </div>
@@ -153,13 +153,13 @@ const jsonLd = [
         <Content />
       </div>
       {d.credentials.length > 0 && (
-        <p class="mt-6 font-mono text-[12px] uppercase tracking-[0.1em] text-ink-mute">{d.credentials.join(' · ')}</p>
+        <p class="mt-6 mb-label text-ink-mute">{d.credentials.join(' · ')}</p>
       )}
       {(d.links.linkedin || d.links.website) && (
         <p class="mt-4 text-[15px]">
-          {d.links.website && <a href={d.links.website} class="underline decoration-gold-500 underline-offset-2">Website</a>}
+          {d.links.website && <a href={d.links.website} class="underline decoration-teal-500 underline-offset-2">Website</a>}
           {d.links.website && d.links.linkedin && ' · '}
-          {d.links.linkedin && <a href={d.links.linkedin} class="underline decoration-gold-500 underline-offset-2">LinkedIn</a>}
+          {d.links.linkedin && <a href={d.links.linkedin} class="underline decoration-teal-500 underline-offset-2">LinkedIn</a>}
         </p>
       )}
 
@@ -169,14 +169,14 @@ const jsonLd = [
           <dl class="m-0 mt-5 grid gap-3.5 text-[15.5px] leading-[1.6]">
             {teachingFacts.map((f) => (
               <div class="grid gap-1 sm:grid-cols-[minmax(150px,auto)_1fr] sm:gap-4">
-                <dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600 sm:pt-1">{f.label}</dt>
+                <dt class="m-0 mb-label text-teal-700 sm:pt-1">{f.label}</dt>
                 <dd class="m-0 text-ink">{f.value}</dd>
               </div>
             ))}
           </dl>
           {d.sourceUrl && (
             <p class="m-0 mt-5 border-t border-rule pt-4 text-[13px] leading-relaxed text-ink-mute">
-              These details were taken from <a href={d.sourceUrl} rel="noopener" target="_blank" class="underline decoration-gold-500 underline-offset-2">the published faculty listing</a>{d.verifiedOn && <> and last checked on {d.verifiedOn.toISOString().slice(0, 10)}</>}. Where a school is listed above, it records where this teacher has previously worked — it is not an endorsement of Marlbridge by that school.
+              These details were taken from <a href={d.sourceUrl} rel="noopener" target="_blank" class="underline decoration-teal-500 underline-offset-2">the published faculty listing</a>{d.verifiedOn && <> and last checked on {d.verifiedOn.toISOString().slice(0, 10)}</>}. Where a school is listed above, it records where this teacher has previously worked — it is not an endorsement of Marlbridge by that school.
             </p>
           )}
           {!d.sourceUrl && d.sourceNote && (
@@ -197,18 +197,18 @@ const jsonLd = [
               Pakistan rows are the owner-set base rates; other regions are on /pricing/. */}
           <dl class="m-0 mt-6 grid gap-3 text-[15.5px] leading-[1.6] sm:grid-cols-2">
             <div class="rounded-sm border border-rule bg-white p-4">
-              <dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Group classes</dt>
+              <dt class="m-0 mb-label text-teal-700">Group classes</dt>
               <dd class="m-0 mt-1.5">Up to {PRICING_TERMS.maxGroupSize} students. {PRICING_TERMS.classFormat.group} In Pakistan from {formatFee(pkGroup.igcse, pkGroup.currency)} {pkGroup.currency} per subject per month (IGCSE, GCSE, O Level).</dd>
             </div>
             <div class="rounded-sm border border-rule bg-white p-4">
-              <dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">One-to-one</dt>
+              <dt class="m-0 mb-label text-teal-700">One-to-one</dt>
               <dd class="m-0 mt-1.5">{PRICING_TERMS.classFormat.oneToOne} In Pakistan from {formatFee(pkOne.igcse, pkOne.currency)} {pkOne.currency} {ONE_TO_ONE_TERMS.unit}.</dd>
             </div>
           </dl>
           {teachesOneToOneOnly && (
             <p class="m-0 mt-3 text-[14px] text-ink-mute">{ONE_TO_ONE_ONLY_NOTE} In Pakistan {formatFee(ONE_TO_ONE_ONLY_PRICING.perClass, ONE_TO_ONE_ONLY_PRICING.currency)} {ONE_TO_ONE_ONLY_PRICING.currency} {ONE_TO_ONE_ONLY_PRICING.unit}.</p>
           )}
-          <p class="m-0 mt-3 text-[14px] text-ink-mute">A Level, IB and other regions are priced differently: <a href={routes.pricing} class="underline decoration-gold-500 underline-offset-2">Fees in your currency</a>. {PRICING_TERMS.teacherAvailability}</p>
+          <p class="m-0 mt-3 text-[14px] text-ink-mute">A Level, IB and other regions are priced differently: <a href={routes.pricing} class="underline decoration-teal-500 underline-offset-2">Fees in your currency</a>. {PRICING_TERMS.teacherAvailability}</p>
           <div class="mt-6 flex flex-wrap items-center gap-4">
             <Button href={`${routes.trial}?teacher=${author.id}&source=teacher`} variant="primary" data-cta="teacher-trial">Request a free trial with {d.name.split(' ')[0]}</Button>
             <Button href={routes.tutoring} variant="quiet">See all teachers</Button>
@@ -235,7 +235,7 @@ const jsonLd = [
         </RelatedGrid>
       )}
       {resourcePreview.length < resources.length && (
-        <p class="m-0 mt-6 text-[15.5px]"><a href={routes.authorResources(author.id)} class="underline decoration-gold-500 underline-offset-2">All {resources.length} resources by {d.name}</a></p>
+        <p class="m-0 mt-6 text-[15.5px]"><a href={routes.authorResources(author.id)} class="underline decoration-teal-500 underline-offset-2">All {resources.length} resources by {d.name}</a></p>
       )}
     </Container>
   </Section>

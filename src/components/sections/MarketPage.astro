@@ -84,15 +84,15 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
           <caption class="sr-only">Boards and qualifications taught for students in {m.name}</caption>
           <thead>
             <tr class="border-b border-rule text-left">
-              <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Board</th>
-              <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Qualifications</th>
-              <th scope="col" class="py-3 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Subject combinations taught</th>
+              <th scope="col" class="py-3 pr-4 mb-label text-teal-700">Board</th>
+              <th scope="col" class="py-3 pr-4 mb-label text-teal-700">Qualifications</th>
+              <th scope="col" class="py-3 mb-label text-teal-700">Subject combinations taught</th>
             </tr>
           </thead>
           <tbody>
             {boardRows.map((r) => (
               <tr class="border-b border-rule">
-                <th scope="row" class="py-3 pr-4 text-left font-normal"><a href={boardPath(r.slug)} class="font-semibold text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{r.name}</a></th>
+                <th scope="row" class="py-3 pr-4 text-left font-normal"><a href={boardPath(r.slug)} class="font-semibold text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{r.name}</a></th>
                 <td class="py-3 pr-4 text-ink-mute">{r.quals.join(', ')}</td>
                 <td class="py-3 text-ink-mute">{r.count}{r.slug === 'ib' ? ' (one-to-one only)' : ''}</td>
               </tr>
@@ -107,7 +107,7 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
       </p>
       <ul class="m-0 grid list-none gap-3 p-0 sm:grid-cols-2">
         {m.searchedHubs.map((h) => (
-          <li class="m-0"><a href={h.path} class="block rounded-sm border border-rule bg-ivory p-4 text-[15px] font-semibold text-navy-800 hover:border-gold-500">{h.label}{hubIsTaught(h.path) ? '' : <span class="font-normal text-ink-mute">{RESOURCES_ONLY_SUFFIX}</span>}</a></li>
+          <li class="m-0"><a href={h.path} class="block rounded-sm border border-rule bg-ivory p-4 text-[15px] font-semibold text-navy-800 hover:border-teal-500">{h.label}{hubIsTaught(h.path) ? '' : <span class="font-normal text-ink-mute">{RESOURCES_ONLY_SUFFIX}</span>}</a></li>
         ))}
       </ul>
     </Container>
@@ -125,8 +125,8 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
           <caption class="sr-only">{m.name} after-school times converted to Lahore time</caption>
           <thead>
             <tr class="border-b border-rule text-left">
-              <th scope="col" class="py-2 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{m.name === 'United Arab Emirates' ? 'UAE' : m.name} time</th>
-              <th scope="col" class="py-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Lahore time</th>
+              <th scope="col" class="py-2 pr-4 mb-label text-teal-700">{m.name === 'United Arab Emirates' ? 'UAE' : m.name} time</th>
+              <th scope="col" class="py-2 mb-label text-teal-700">Lahore time</th>
             </tr>
           </thead>
           <tbody>
@@ -147,7 +147,7 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
       <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Fees for {m.name === 'United Arab Emirates' ? 'the UAE' : m.name}</h2>
       <p class="m-0 mb-6 max-w-[70ch] text-[15.5px] leading-[1.65] text-ink-mute">
         Group classes are charged per subject per month ({PRICING_TERMS.classFormat.group.replace(/\.$/, '')}); one-to-one classes are charged per class ({PRICING_TERMS.classFormat.oneToOne.replace(/\.$/, '')}).
-        Full terms, discounts and other regions are on the <a href={routes.pricing} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">pricing page</a>.
+        Full terms, discounts and other regions are on the <a href={routes.pricing} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">pricing page</a>.
       </p>
       {group && oneToOne ? (
         <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
@@ -155,10 +155,10 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
             <caption class="sr-only">Tuition fees for {m.name} in {group.currency}</caption>
             <thead>
               <tr class="border-b border-rule text-left">
-                <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Format</th>
-                <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">GCSE / IGCSE / O Level</th>
-                <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">AS / A Level</th>
-                <th scope="col" class="py-3 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Status</th>
+                <th scope="col" class="py-3 pr-4 mb-label text-teal-700">Format</th>
+                <th scope="col" class="py-3 pr-4 mb-label text-teal-700">GCSE / IGCSE / O Level</th>
+                <th scope="col" class="py-3 pr-4 mb-label text-teal-700">AS / A Level</th>
+                <th scope="col" class="py-3 mb-label text-teal-700">Status</th>
               </tr>
             </thead>
             <tbody>
@@ -197,7 +197,7 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
       <ol class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
         {TRIAL_STEPS.map((step, i) => (
           <li class="m-0 rounded-sm border border-rule bg-white p-5">
-            <p class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Step {i + 1}</p>
+            <p class="m-0 mb-label text-teal-700">Step {i + 1}</p>
             <p class="m-0 mt-1 text-[16px] font-semibold text-navy-800">{step.title}</p>
             <p class="m-0 mt-2 text-[14.5px] leading-[1.6] text-ink-mute">{step.body}</p>
           </li>

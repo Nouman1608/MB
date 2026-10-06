@@ -418,7 +418,7 @@ function init(): void {
     cb.addEventListener('change', () => { s.done = cb.checked; persist(); renderPlan(); });
     const body = el('div', 'min-w-0 flex-1');
     const line = el('p', `m-0 text-[14.5px] ${s.done ? 'text-ink-mute line-through' : 'text-ink'}`);
-    line.append(el('span', `mr-2 inline-block rounded-sm px-1.5 py-0.5 text-[11.5px] font-medium uppercase tracking-[0.06em] ${KIND_CLASS[s.kind] ?? ''}`, kindLabel(s.kind)));
+    line.append(el('span', `mr-2 inline-block rounded-sm px-1.5 py-0.5 mb-label ${KIND_CLASS[s.kind] ?? ''}`, kindLabel(s.kind)));
     if (s.subjectLabel) line.append(el('span', 'font-medium', `${s.subjectLabel} — `));
     line.append(document.createTextNode(s.note ?? s.title.replace(/^[^:]+:\s*/, '')));
     body.append(line);
@@ -426,7 +426,7 @@ function init(): void {
       const links = el('p', 'm-0 mt-0.5 text-[13.5px]');
       s.links.forEach((l, i) => {
         if (i) links.append(document.createTextNode(' · '));
-        const a = el('a', 'underline decoration-gold-500 underline-offset-2 hover:text-gold-600', l.t);
+        const a = el('a', 'underline decoration-teal-500 underline-offset-2 hover:text-teal-700', l.t);
         a.href = l.u;
         a.addEventListener('click', () => track('recommended_resource_click', { source: 'planner', link_kind: s.kind }));
         links.append(a);

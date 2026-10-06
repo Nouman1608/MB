@@ -39,7 +39,7 @@ const rows = QUALIFICATIONS
         {rows.map(({ qualification, combos, boards }) => (
           <li class="m-0 bg-white p-[clamp(20px,3vw,32px)]">
             <a href={levelPath(qualification.slug)} class="group block">
-              <h2 class="m-0 font-display text-2xl tracking-[-0.01em] text-navy-800 group-hover:text-gold-600">{qualification.name}</h2>
+              <h2 class="m-0 font-display text-2xl tracking-[-0.01em] text-navy-800 group-hover:text-gold-600 font-semibold">{qualification.name}</h2>
               <p class="m-0 mt-2 text-[15px] text-ink-mute">
                 {combos.length} {combos.length === 1 ? 'combination' : 'combinations'} across {boards.length} {boards.length === 1 ? 'board' : 'boards'}: {boards.join(', ')}.
               </p>

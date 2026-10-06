@@ -35,7 +35,7 @@ const path = '/command-words/';
   <Section surface="white">
     <Container>
       <div class="mx-auto max-w-[560px]">
-        <label for="mb-cw-search" class="m-0 mb-2 block text-[13px] font-medium uppercase tracking-[0.1em] text-ink-mute">Search a command word</label>
+        <label for="mb-cw-search" class="m-0 mb-2 block mb-label text-ink-mute">Search a command word</label>
         <input
           id="mb-cw-search"
           type="search"
@@ -76,7 +76,7 @@ const path = '/command-words/';
       <h3 class="m-0 mb-2 mt-8 text-[17px] font-semibold text-navy-800">Where this list comes from</h3>
       <p class="m-0 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
         This is Cambridge's own official command-word glossary, sourced directly from
-        {' '}<a href={COMMAND_WORDS_SOURCE.officialSourceUrl} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600" rel="noopener">cambridgeinternational.org</a>,
+        {' '}<a href={COMMAND_WORDS_SOURCE.officialSourceUrl} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">cambridgeinternational.org</a>,
         verified {COMMAND_WORDS_SOURCE.verifiedOn}. Cambridge describes these as the command words used in new and revised
         syllabuses published from 2019 onwards, and says that any subject-specific command words will also be listed in
         the syllabus. Those subject-specific words are not duplicated here, so check your own syllabus as well.
@@ -90,16 +90,16 @@ const path = '/command-words/';
         here's each board's own official starting point:
       </p>
       <ul class="m-0 mt-3 max-w-[70ch] list-none space-y-1.5 p-0 text-[14.5px] leading-[1.65] text-ink-mute">
-        <li>AQA — published per subject; for example its <a href="https://www.aqa.org.uk/resources/science/gcse/teach/command-words" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600" rel="noopener">GCSE Science command words</a> or <a href="https://www.aqa.org.uk/resources/geography/as-and-a-level/geography/teach/command-words" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600" rel="noopener">A-level Geography command words</a> pages.</li>
-        <li>OCR — also published per subject; for example its <a href="https://www.ocr.org.uk/images/539424-command-words.pdf" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600" rel="noopener">GCSE Geography command words</a> guide.</li>
-        <li>OxfordAQA — also published per subject; for example its <a href="https://www.oxfordaqa.com/oaqaresources/geography/international-a-level-geography-command-words-v1.pdf" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600" rel="noopener">International A-level Geography command words</a> guide.</li>
+        <li>AQA — published per subject; for example its <a href="https://www.aqa.org.uk/resources/science/gcse/teach/command-words" class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">GCSE Science command words</a> or <a href="https://www.aqa.org.uk/resources/geography/as-and-a-level/geography/teach/command-words" class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">A-level Geography command words</a> pages.</li>
+        <li>OCR — also published per subject; for example its <a href="https://www.ocr.org.uk/images/539424-command-words.pdf" class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">GCSE Geography command words</a> guide.</li>
+        <li>OxfordAQA — also published per subject; for example its <a href="https://www.oxfordaqa.com/oaqaresources/geography/international-a-level-geography-command-words-v1.pdf" class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">International A-level Geography command words</a> guide.</li>
         <li>Pearson Edexcel — does not appear to publish one consolidated official glossary at a stable public address; your subject's own specification document is the reliable source.</li>
       </ul>
       <p class="m-0 mt-3 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
         We haven't yet built a verified, subject-by-subject command-word tool for these boards the way we have for
         Cambridge — sourcing that properly, subject by subject, is a genuinely larger job we'd rather do carefully
         than rush. If your subject and board aren't covered by the links above, your specification document (linked
-        from your{' '}<a href={routes.programs} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">programme page</a>) will list its own command words directly.
+        from your{' '}<a href={routes.programs} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">programme page</a>) will list its own command words directly.
       </p>
     </Container>
   </Section>

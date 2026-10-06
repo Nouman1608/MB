@@ -37,7 +37,7 @@ const rows = BOARDS.map((b) => {
           <li class="m-0 bg-white p-[clamp(20px,3vw,32px)]">
             {board.status === 'offered' ? (
               <a href={boardPath(board.slug)} class="group block">
-                <h2 class="m-0 font-display text-2xl tracking-[-0.01em] text-navy-800 group-hover:text-gold-600">{board.name}</h2>
+                <h2 class="m-0 font-display text-2xl tracking-[-0.01em] text-navy-800 group-hover:text-gold-600 font-semibold">{board.name}</h2>
                 <p class="m-0 mt-2 text-[15px] text-ink-mute">
                   {combos.length} {combos.length === 1 ? 'combination' : 'combinations'} across {qualifications.length} {qualifications.length === 1 ? 'qualification' : 'qualifications'}: {qualifications.join(', ')}.
                 </p>
@@ -45,9 +45,9 @@ const rows = BOARDS.map((b) => {
               </a>
             ) : (
               <div>
-                <h2 class="m-0 font-display text-2xl tracking-[-0.01em] text-ink-mute">{board.name}</h2>
+                <h2 class="m-0 font-display text-2xl tracking-[-0.01em] text-ink-mute font-semibold">{board.name}</h2>
                 <p class="m-0 mt-2 text-[15px] text-ink-mute">{board.notes ?? 'Not currently offered by Marlbridge.'}</p>
-                <span class="mt-4 inline-block rounded-sm border border-rule px-2 py-0.5 font-mono text-[10.5px] uppercase tracking-[0.08em] text-ink-mute">Not currently offered</span>
+                <span class="mt-4 inline-block rounded-sm border border-rule px-2 py-0.5 mb-label text-ink-mute">Not currently offered</span>
               </div>
             )}
           </li>

@@ -84,11 +84,11 @@ const general = entries.filter((e) => (index.byResource.get(e.id) ?? []).length 
             <h2 id={`course-${g.c.boardSlug}-${g.c.qualificationSlug}`} class="m-0 text-[22px] font-semibold tracking-[-0.01em] text-navy-800">
               {g.label}{g.code && <span class="ms-2 font-mono text-[14px] font-normal text-ink-mute">{g.code}</span>}
             </h2>
-            <a href={`${academicHubPath(g.c)}#topics`} class="text-[14.5px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">All topics for this course</a>
+            <a href={`${academicHubPath(g.c)}#topics`} class="text-[14.5px] font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">All topics for this course</a>
           </div>
           <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
             {g.items.map((entry) => (
-              <li class="m-0"><ResourceCard entry={entry} subjectTitle={subjectTitle} /></li>
+              <li class="m-0"><ResourceCard entry={entry} subjectTitle={subjectTitle} context={{ board: g.c.board, qualification: g.c.qualification, subject: g.c.subject, code: g.code }} /></li>
             ))}
           </ul>
         </section>
@@ -104,9 +104,9 @@ const general = entries.filter((e) => (index.byResource.get(e.id) ?? []).length 
         </section>
       )}
       <p class="m-0 mt-10 text-[15px] text-ink-mute">
-        <a href={routes.resourceTypeAnchor(type)} class="underline decoration-gold-500 underline-offset-2">All subjects and resource types</a>
+        <a href={routes.resourceTypeAnchor(type)} class="underline decoration-teal-500 underline-offset-2">All subjects and resource types</a>
         {' · '}
-        <a href={routes.subject(subject.id)} class="underline decoration-gold-500 underline-offset-2">{subjectTitle} subject page</a>
+        <a href={routes.subject(subject.id)} class="underline decoration-teal-500 underline-offset-2">{subjectTitle} subject page</a>
       </p>
     </Container>
   </Section>

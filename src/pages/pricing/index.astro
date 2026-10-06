@@ -94,9 +94,9 @@ const faq = faqNode(faqs);
           <thead>
             <tr class="border-b border-rule text-left">
               <td class="py-3 pr-4"></td>
-              <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Group classes</th>
-              <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">One-to-one</th>
-              <th scope="col" class="py-3 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">IB (one-to-one)</th>
+              <th scope="col" class="py-3 pr-4 mb-label text-teal-700">Group classes</th>
+              <th scope="col" class="py-3 pr-4 mb-label text-teal-700">One-to-one</th>
+              <th scope="col" class="py-3 mb-label text-teal-700">IB (one-to-one)</th>
             </tr>
           </thead>
           <tbody>
@@ -121,15 +121,15 @@ const faq = faqNode(faqs);
           <caption class="sr-only">Group-class fees per subject per month, by region</caption>
           <thead>
             <tr class="border-b border-rule text-left">
-              <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Region</th>
-              <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">GCSE / IGCSE / O Level</th>
-              <th scope="col" class="py-3 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">AS / A Level</th>
+              <th scope="col" class="py-3 pr-4 mb-label text-teal-700">Region</th>
+              <th scope="col" class="py-3 pr-4 mb-label text-teal-700">GCSE / IGCSE / O Level</th>
+              <th scope="col" class="py-3 mb-label text-teal-700">AS / A Level</th>
             </tr>
           </thead>
           <tbody>
             {REGION_PRICING.map((r) => (
               <tr class="border-b border-rule">
-                <th scope="row" class="py-3 pr-4 text-left font-normal text-ink">{r.region}{r.region === 'United Arab Emirates' ? ' (UAE)' : ''}{isIndicative(r) && <span class="ms-2 rounded-sm border border-gold-500 px-1.5 py-0.5 font-mono text-[10.5px] uppercase tracking-[0.08em] text-gold-600">Indicative</span>}</th>
+                <th scope="row" class="py-3 pr-4 text-left font-normal text-ink">{r.region}{r.region === 'United Arab Emirates' ? ' (UAE)' : ''}{isIndicative(r) && <span class="ms-2 rounded-sm border border-gold-500 px-1.5 py-0.5 mb-label text-teal-700">Indicative</span>}</th>
                 <td class="py-3 pr-4 text-ink-mute">{formatFee(r.igcse, r.currency)} {r.currency} <span class="text-[13px] text-ink-mute">/subject/month</span></td>
                 <td class="py-3 text-ink-mute">{formatFee(r.aLevel, r.currency)} {r.currency} <span class="text-[13px] text-ink-mute">/subject/month</span></td>
               </tr>
@@ -145,7 +145,7 @@ const faq = faqNode(faqs);
       </p>
       <p class="m-0 mt-3 max-w-[62ch] text-[15.5px] leading-relaxed text-ink-mute">
         Class times, boards taught and fees for families outside Pakistan are set out on the
-        {' '}<a href="/international-tutoring/" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">international online tutoring page</a>.
+        {' '}<a href="/international-tutoring/" class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">international online tutoring page</a>.
       </p>
       <p class="m-0 mt-3 text-[13px] text-ink-mute">Pricing last verified {PRICING_VERIFIED_DATE}. {PRICING_TERMS.notPermanentNote}</p>
     </Container>
@@ -155,22 +155,22 @@ const faq = faqNode(faqs);
     <Container>
       <h2 class="m-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">One-to-one classes</h2>
       <p class="m-0 mb-6 max-w-[62ch] text-[15.5px] leading-relaxed text-ink-mute">
-        One-to-one tuition is priced per class rather than per subject per month. The multi-subject and sibling discounts above do not apply to one-to-one classes. AP courses, OCR courses, and OxfordAQA Islamiyat and Pakistan Studies, are one-to-one only at their own fee: <a href="#one-to-one-only" class="underline decoration-gold-500 underline-offset-2">see below</a>.
+        One-to-one tuition is priced per class rather than per subject per month. The multi-subject and sibling discounts above do not apply to one-to-one classes. AP courses, OCR courses, and OxfordAQA Islamiyat and Pakistan Studies, are one-to-one only at their own fee: <a href="#one-to-one-only" class="underline decoration-teal-500 underline-offset-2">see below</a>.
       </p>
       <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
         <table class="w-full min-w-[560px] border-collapse text-[15px]">
           <caption class="sr-only">One-to-one fees per class, by region</caption>
           <thead>
             <tr class="border-b border-rule text-left">
-              <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Region</th>
-              <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">GCSE / IGCSE / O Level</th>
-              <th scope="col" class="py-3 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">AS / A Level</th>
+              <th scope="col" class="py-3 pr-4 mb-label text-teal-700">Region</th>
+              <th scope="col" class="py-3 pr-4 mb-label text-teal-700">GCSE / IGCSE / O Level</th>
+              <th scope="col" class="py-3 mb-label text-teal-700">AS / A Level</th>
             </tr>
           </thead>
           <tbody>
             {ONE_TO_ONE_PRICING.map((r) => (
               <tr class="border-b border-rule">
-                <th scope="row" class="py-3 pr-4 text-left font-normal text-ink">{r.region}{r.region === 'United Arab Emirates' ? ' (UAE)' : ''}{isIndicative(r) && <span class="ms-2 rounded-sm border border-gold-500 px-1.5 py-0.5 font-mono text-[10.5px] uppercase tracking-[0.08em] text-gold-600">Indicative</span>}</th>
+                <th scope="row" class="py-3 pr-4 text-left font-normal text-ink">{r.region}{r.region === 'United Arab Emirates' ? ' (UAE)' : ''}{isIndicative(r) && <span class="ms-2 rounded-sm border border-gold-500 px-1.5 py-0.5 mb-label text-teal-700">Indicative</span>}</th>
                 <td class="py-3 pr-4 text-ink-mute">{formatFee(r.igcse, r.currency)} {r.currency} <span class="text-[13px] text-ink-mute">{ONE_TO_ONE_TERMS.unit}</span></td>
                 <td class="py-3 text-ink-mute">{formatFee(r.aLevel, r.currency)} {r.currency} <span class="text-[13px] text-ink-mute">{ONE_TO_ONE_TERMS.unit}</span></td>
               </tr>
@@ -191,12 +191,12 @@ const faq = faqNode(faqs);
         IB (Middle Years Programme and Diploma Programme) is priced differently from the rest of the site above: per class rather than per subject per month, and one-to-one only. The multi-subject and sibling discounts below do not apply to IB tuition.
       </p>
       <div class="mb-2 max-w-[420px] rounded-sm border border-rule bg-white p-6">
-        <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{IB_PRICING.region}</p>
+        <p class="m-0 mb-2 mb-label text-teal-700">{IB_PRICING.region}</p>
         <p class="m-0 text-[17px] text-ink">{IB_PRICING.perClass.toLocaleString('en-US')} {IB_PRICING.currency} <span class="text-[13px] text-ink-mute">{IB_PRICING.unit}</span></p>
         <p class="m-0 mt-2 text-[13px] text-ink-mute">{IB_PRICING.deliveryMode}</p>
       </div>
       <div class="mb-2 mt-4 max-w-[420px] rounded-sm border border-rule bg-white p-6">
-        <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Other countries (US dollars)</p>
+        <p class="m-0 mb-2 mb-label text-teal-700">Other countries (US dollars)</p>
         <p class="m-0 text-[17px] text-ink">{IB_USD_PRICING.myp} USD <span class="text-[13px] text-ink-mute">MYP, per 1-hour class</span></p>
         <p class="m-0 mt-1 text-[17px] text-ink">{IB_USD_PRICING.dp} USD <span class="text-[13px] text-ink-mute">Diploma Programme, per 1-hour class</span></p>
         <p class="m-0 mt-2 text-[13px] text-ink-mute">One-to-one only. Set by Marlbridge, not a currency conversion.</p>
@@ -206,9 +206,9 @@ const faq = faqNode(faqs);
           <caption class="sr-only">IB fee per 1-hour one-to-one class, indicative conversions of the Pakistan fee for the listed regions</caption>
           <thead>
             <tr class="border-b border-rule text-left">
-              <th scope="col" class="py-2 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Region</th>
-              <th scope="col" class="py-2 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Per 1-hour class</th>
-              <th scope="col" class="py-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Status</th>
+              <th scope="col" class="py-2 pr-4 mb-label text-teal-700">Region</th>
+              <th scope="col" class="py-2 pr-4 mb-label text-teal-700">Per 1-hour class</th>
+              <th scope="col" class="py-2 mb-label text-teal-700">Status</th>
             </tr>
           </thead>
           <tbody>
@@ -234,7 +234,7 @@ const faq = faqNode(faqs);
         These courses are taught one-to-one only, charged per class. There is no group option for them, and the multi-subject and sibling discounts do not apply.
       </p>
       <div class="mb-2 max-w-[420px] rounded-sm border border-rule bg-white p-6">
-        <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{ONE_TO_ONE_ONLY_PRICING.region}</p>
+        <p class="m-0 mb-2 mb-label text-teal-700">{ONE_TO_ONE_ONLY_PRICING.region}</p>
         <p class="m-0 text-[17px] text-ink">{formatFee(ONE_TO_ONE_ONLY_PRICING.perClass, ONE_TO_ONE_ONLY_PRICING.currency)} {ONE_TO_ONE_ONLY_PRICING.currency} <span class="text-[13px] text-ink-mute">{ONE_TO_ONE_ONLY_PRICING.unit}</span></p>
         <p class="m-0 mt-2 text-[13px] text-ink-mute">One-to-one only.</p>
       </div>
@@ -243,9 +243,9 @@ const faq = faqNode(faqs);
           <caption class="sr-only">Fee per one-to-one class for AP courses, OCR courses and OxfordAQA Islamiyat and Pakistan Studies, indicative conversions of the Pakistan fee</caption>
           <thead>
             <tr class="border-b border-rule text-left">
-              <th scope="col" class="py-2 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Region</th>
-              <th scope="col" class="py-2 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Per class</th>
-              <th scope="col" class="py-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Status</th>
+              <th scope="col" class="py-2 pr-4 mb-label text-teal-700">Region</th>
+              <th scope="col" class="py-2 pr-4 mb-label text-teal-700">Per class</th>
+              <th scope="col" class="py-2 mb-label text-teal-700">Status</th>
             </tr>
           </thead>
           <tbody>
@@ -270,15 +270,15 @@ const faq = faqNode(faqs);
       <p class="m-0 mb-6 max-w-[62ch] text-[15.5px] leading-relaxed text-ink-mute">The multi-subject and sibling discounts below combine if you qualify for both (added together, not applied one after the other) and apply to group classes only.</p>
       <ul class="m-0 grid list-none gap-5 p-0 sm:grid-cols-3">
         <li class="m-0 rounded-sm border border-rule bg-white p-6">
-          <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Multi-subject</p>
+          <p class="m-0 mb-2 mb-label text-teal-700">Multi-subject</p>
           <p class="m-0 text-[17px] text-ink">{PRICING_TERMS.multiSubjectDiscount.percentOff}% off for {PRICING_TERMS.multiSubjectDiscount.minSubjects}+ subjects taken together, at either level: IGCSE and A Level subjects count together.</p>
         </li>
         <li class="m-0 rounded-sm border border-rule bg-white p-6">
-          <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Sibling discount</p>
+          <p class="m-0 mb-2 mb-label text-teal-700">Sibling discount</p>
           <p class="m-0 text-[17px] text-ink">{PRICING_TERMS.siblingDiscount.summary}</p>
         </li>
         <li class="m-0 rounded-sm border border-rule bg-white p-6">
-          <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Trial class</p>
+          <p class="m-0 mb-2 mb-label text-teal-700">Trial class</p>
           <p class="m-0 text-[17px] text-ink">{PRICING_TERMS.freeTrial}</p>
         </li>
       </ul>
@@ -293,7 +293,7 @@ const faq = faqNode(faqs);
       <h2 class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Questions about pricing</h2>
       <FAQ items={faqs} />
       <p class="m-0 mt-8 text-[15.5px]">
-        Ready to start? <a href={`${routes.trial}?source=pricing`} data-cta="pricing-trial-final" class="underline decoration-gold-500 underline-offset-2">Request a free trial class</a>, <a href={routes.tutoring} class="underline decoration-gold-500 underline-offset-2">meet the teachers</a> or <a href={routes.contact} class="underline decoration-gold-500 underline-offset-2">send an enquiry</a>.
+        Ready to start? <a href={`${routes.trial}?source=pricing`} data-cta="pricing-trial-final" class="underline decoration-teal-500 underline-offset-2">Request a free trial class</a>, <a href={routes.tutoring} class="underline decoration-teal-500 underline-offset-2">meet the teachers</a> or <a href={routes.contact} class="underline decoration-teal-500 underline-offset-2">send an enquiry</a>.
       </p>
     </Container>
   </Section>

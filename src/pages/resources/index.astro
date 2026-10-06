@@ -68,10 +68,10 @@ const rows = subjects
           </form>
         </div>
         <ul class="m-0 grid list-none gap-3 p-0 sm:grid-cols-2">
-          <li class="m-0"><a href="/diagnostics/" class="flex h-full flex-col gap-1 rounded-sm border border-rule bg-white px-4 py-3 hover:border-gold-500"><span class="text-[15.5px] font-semibold text-navy-800">10-minute diagnostics</span><span class="text-[13.5px] text-ink-mute">Find your weakest topics first</span></a></li>
-          <li class="m-0"><a href="/practice/" class="flex h-full flex-col gap-1 rounded-sm border border-rule bg-white px-4 py-3 hover:border-gold-500"><span class="text-[15.5px] font-semibold text-navy-800">Self-check practice</span><span class="text-[13.5px] text-ink-mute">Questions with worked answers</span></a></li>
-          <li class="m-0"><a href="/revision-planner/" class="flex h-full flex-col gap-1 rounded-sm border border-rule bg-white px-4 py-3 hover:border-gold-500"><span class="text-[15.5px] font-semibold text-navy-800">Revision planner</span><span class="text-[13.5px] text-ink-mute">A weekly plan that fits your time</span></a></li>
-          <li class="m-0"><a href={routes.checklists} class="flex h-full flex-col gap-1 rounded-sm border border-rule bg-white px-4 py-3 hover:border-gold-500"><span class="text-[15.5px] font-semibold text-navy-800">Printable checklists</span><span class="text-[13.5px] text-ink-mute">Every syllabus topic, ready to tick off</span></a></li>
+          <li class="m-0"><a href="/diagnostics/" class="flex h-full flex-col gap-1 rounded-sm border border-rule bg-white px-4 py-3 hover:border-teal-500"><span class="text-[15.5px] font-semibold text-navy-800">10-minute diagnostics</span><span class="text-[13.5px] text-ink-mute">Find your weakest topics first</span></a></li>
+          <li class="m-0"><a href="/practice/" class="flex h-full flex-col gap-1 rounded-sm border border-rule bg-white px-4 py-3 hover:border-teal-500"><span class="text-[15.5px] font-semibold text-navy-800">Self-check practice</span><span class="text-[13.5px] text-ink-mute">Questions with worked answers</span></a></li>
+          <li class="m-0"><a href="/revision-planner/" class="flex h-full flex-col gap-1 rounded-sm border border-rule bg-white px-4 py-3 hover:border-teal-500"><span class="text-[15.5px] font-semibold text-navy-800">Revision planner</span><span class="text-[13.5px] text-ink-mute">A weekly plan that fits your time</span></a></li>
+          <li class="m-0"><a href={routes.checklists} class="flex h-full flex-col gap-1 rounded-sm border border-rule bg-white px-4 py-3 hover:border-teal-500"><span class="text-[15.5px] font-semibold text-navy-800">Printable checklists</span><span class="text-[13.5px] text-ink-mute">Every syllabus topic, ready to tick off</span></a></li>
         </ul>
       </div>
     </Container>
@@ -100,11 +100,11 @@ const rows = subjects
           <tbody>
             {rows.map(({ subject, counts }) => (
               <tr class="border-b border-rule last:border-b-0">
-                <th scope="row" class="px-3 py-2 text-start font-medium"><a href={routes.subject(subject.id)} class="text-navy-800 underline decoration-rule underline-offset-2 hover:text-gold-600">{subject.data.title}</a></th>
+                <th scope="row" class="px-3 py-2 text-start font-medium"><a href={routes.subject(subject.id)} class="text-navy-800 underline decoration-rule underline-offset-2 hover:text-teal-700">{subject.data.title}</a></th>
                 {shownTypes.map((t) => (
                   <td class="px-3 py-2 text-end font-mono text-[13px]">
                     {counts[t] > 0
-                      ? <a href={routes.resourceBrowse(t, subject.id)} aria-label={`${counts[t]} ${subject.data.title} ${resourceCategoryMeta[t].title.toLowerCase()}`} class="inline-flex min-h-8 min-w-8 items-center justify-end text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{counts[t]}</a>
+                      ? <a href={routes.resourceBrowse(t, subject.id)} aria-label={`${counts[t]} ${subject.data.title} ${resourceCategoryMeta[t].title.toLowerCase()}`} class="inline-flex min-h-8 min-w-8 items-center justify-end text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{counts[t]}</a>
                       : <span class="text-ink-mute"><span aria-hidden="true">–</span><span class="sr-only">none</span></span>}
                   </td>
                 ))}
@@ -123,8 +123,8 @@ const rows = subjects
         <h2 id="site-guide" class="m-0 mb-4 text-[22px] font-semibold text-navy-800">Study resources, subjects and tuition: what's the difference?</h2>
         <dl class="m-0 grid gap-4 text-[16px] leading-[1.65]">
           <div><dt class="font-semibold text-navy-800">Study resources (this page)</dt><dd class="m-0 text-ink-mute">Free notes, guides and practice for one exact course, such as Cambridge IGCSE Chemistry 0620. Choose your course and you only see material for it.</dd></div>
-          <div><dt class="font-semibold text-navy-800"><a href={routes.subjects} class="underline decoration-gold-500 underline-offset-2">Subjects</a></dt><dd class="m-0 text-ink-mute">One page per subject, listing every course Marlbridge publishes in it. Useful if you know your subject but not your exam board.</dd></div>
-          <div><dt class="font-semibold text-navy-800"><a href={routes.tutoring} class="underline decoration-gold-500 underline-offset-2">Tuition</a></dt><dd class="m-0 text-ink-mute">Paid online classes with Marlbridge teachers, one-to-one or in small groups, by qualification. The study resources stay free whether or not you take classes.</dd></div>
+          <div><dt class="font-semibold text-navy-800"><a href={routes.subjects} class="underline decoration-teal-500 underline-offset-2">Subjects</a></dt><dd class="m-0 text-ink-mute">One page per subject, listing every course Marlbridge publishes in it. Useful if you know your subject but not your exam board.</dd></div>
+          <div><dt class="font-semibold text-navy-800"><a href={routes.tutoring} class="underline decoration-teal-500 underline-offset-2">Tuition</a></dt><dd class="m-0 text-ink-mute">Paid online classes with Marlbridge teachers, one-to-one or in small groups, by qualification. The study resources stay free whether or not you take classes.</dd></div>
         </dl>
       </section>
 
@@ -133,7 +133,7 @@ const rows = subjects
         <section aria-labelledby="advanced-courses" class="mt-[clamp(40px,5vw,64px)] max-w-[72ch]">
           <h2 id="advanced-courses" class="m-0 mb-3 text-[22px] font-semibold text-navy-800">Advanced courses (US curriculum)</h2>
           <p class="m-0 text-[17px] leading-[1.7] text-ink-mute">
-            Study guides, revision notes, practice and checklists for eleven AP® courses in chemistry, biology, physics, calculus, statistics and economics, written to the 2026–27 course frameworks: <a href={apUrls.index} class="underline decoration-gold-500 underline-offset-2">Marlbridge guide to AP® courses</a>.
+            Study guides, revision notes, practice and checklists for eleven AP® courses in chemistry, biology, physics, calculus, statistics and economics, written to the 2026–27 course frameworks: <a href={apUrls.index} class="underline decoration-teal-500 underline-offset-2">Marlbridge guide to AP® courses</a>.
           </p>
           <p class="m-0 mt-3 text-[13px] leading-[1.6] text-ink-mute">{AP_TRADEMARK_ATTRIBUTION}</p>
         </section>

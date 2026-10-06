@@ -17,10 +17,14 @@
  * already on this page: it cannot return another course's material.
  * Without JavaScript the whole list is shown and the search box stays hidden.
  */
-import { KIND_ORDER, KIND_LABEL, topicAnchor, type CourseTopics, type CourseResourceItem, type KindGroups } from '../../utils/academic/course-topics';
+import { KIND_ORDER, topicAnchor, type CourseTopics, type KindGroups } from '../../utils/academic/course-topics';
 import type { SyllabusVersion } from '../../data/academic/syllabus-topics';
 import { nameRtlLang, recordRtlLang } from '../../utils/academic/rtl-names';
 import { routes } from '../../utils/urls/routes';
+import ModeColumns from './ModeColumns.astro';
+import ModeIcon from './ModeIcon.astro';
+import { MODE } from './ResourceMode';
+import type { ShortTitleContext } from '../../utils/academic/short-title';
 
 interface Group { label: string; note: string; slugs: string[] }
 interface Tool { href: string; label: string; detail: string; cta: string }
@@ -39,19 +43,14 @@ interface Props {
   board: string;
   officialTitle: string;
   isMyp: boolean;
+  /** D-397: names the course on screen, so resource titles can drop them. */
+  context: ShortTitleContext;
 }
-const { data, record, courseLabel, searchLabel, groups, tools, board, officialTitle, isMyp } = Astro.props;
+const { data, record, courseLabel, searchLabel, groups, tools, board, officialTitle, isMyp, context } = Astro.props;
 const rtl = recordRtlLang(record?.topics ?? []);
 const bySlug = new Map(data.topics.map((t) => [t.topic.slug, t]));
 const covered = data.topics.filter((t) => t.count > 0).length;
 
-/** A small tag for types that are not the group's main type. */
-const TYPE_TAG: Partial<Record<CourseResourceItem['resourceType'], string>> = {
-  'subject-guides': 'Course guide',
-  'learning-articles': 'Article',
-  'past-papers': 'Past papers guide',
-  'exam-preparation': 'Exam preparation',
-};
 const searchText = (...parts: (string | undefined)[]) => parts.filter(Boolean).join(' ').toLowerCase();
 const hasAny = (g: KindGroups) => KIND_ORDER.some((k) => g[k].length > 0);
 // Review fix: search examples come from this course's own topic list, not
@@ -62,17 +61,22 @@ const exampleTerms = [...new Set((record?.topics ?? []).flatMap((t) => [t.name, 
 const placeholder = exampleTerms.length ? `e.g. ${exampleTerms.join(', ')}` : 'a topic name or keyword';
 ---
 <section id="topics" aria-labelledby="topics-heading" data-course-topics class="scroll-mt-24">
-  <div class="flex flex-wrap items-baseline justify-between gap-x-6 gap-y-2">
-    <h2 id="topics-heading" class="m-0 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Topics and resources</h2>
-    <p class="m-0 font-mono text-[12px] uppercase tracking-[0.08em] text-ink-mute">
-      {data.total} free {data.total === 1 ? 'resource' : 'resources'}{record && <> · {covered} of {record.topics.length} topics covered</>}
+  <div class="flex flex-wrap items-end justify-between gap-x-6 gap-y-2">
+    <h2 id="topics-heading" class="m-0 text-[length:var(--text-h2)] font-bold leading-[1.08] tracking-[-0.025em] text-navy-800">Topics and resources</h2>
+    <p class="m-0 mb-meta text-ink-mute">
+      {data.total} free {data.total === 1 ? 'resource' : 'resources'}{record && <>, {covered} of {record.topics.length} topics covered</>}
     </p>
   </div>
   <p class="m-0 mt-3 max-w-[70ch] text-[16px] leading-[1.6] text-ink-mute">
     {record
-      ? <>Each topic below is {isMyp ? <>a heading from Marlbridge's summary of the IB's <a href={record.sourceUrl} rel="nofollow noopener" class="underline decoration-gold-500 underline-offset-2">subject brief</a></> : <>from the <a href={record.sourceUrl} rel="nofollow noopener" class="underline decoration-gold-500 underline-offset-2">official {board} document</a> for {officialTitle}</>}, with its study guides, revision notes and practice questions together. Everything here is for <strong class="font-semibold text-navy-800">{courseLabel}</strong> only.</>
+      ? <>Each topic below is {isMyp ? <>a heading from Marlbridge's summary of the IB's <a href={record.sourceUrl} rel="nofollow noopener" class="underline decoration-teal-500 underline-offset-2">subject brief</a></> : <>from the <a href={record.sourceUrl} rel="nofollow noopener" class="underline decoration-teal-500 underline-offset-2">official {board} document</a> for {officialTitle}</>}, with its study guides, revision notes and practice questions together. Everything here is for <strong class="font-semibold text-navy-800">{courseLabel}</strong> only.</>
       : <>The free study guides, revision notes and practice questions for <strong class="font-semibold text-navy-800">{courseLabel}</strong>. Topic-by-topic listing appears once the syllabus topics are confirmed against the awarding body's document.</>}
   </p>
+  <ul class="m-0 mt-4 flex list-none flex-wrap gap-x-5 gap-y-2 p-0 text-[14.5px]" aria-label="How resources are grouped">
+    {(['learn', 'review', 'practice'] as const).map((k) => (
+      <li class={`m-0 flex items-center gap-1.5 font-semibold ${MODE[k].text}`}><ModeIcon kind={k} size={18} /><span>{MODE[k].mode}<span class="font-normal text-ink-mute"> with {MODE[k].label.toLowerCase()}</span></span></li>
+    ))}
+  </ul>
   {record?.subtopicsCaveat && (
     <p class="m-0 mt-3 max-w-[70ch] rounded-sm border-l-2 border-gold-500 pl-3 text-[15px] leading-[1.6] text-ink-mute" data-subtopics-caveat>{record.subtopicsCaveat}</p>
   )}
@@ -81,8 +85,8 @@ const placeholder = exampleTerms.length ? `e.g. ${exampleTerms.join(', ')}` : 'a
     <ul class="m-0 mt-6 flex list-none flex-wrap gap-3 p-0" aria-label="Free tools for this course">
       {tools.map((t) => (
         <li class="m-0">
-          <a href={t.href} data-cta={t.cta} class="flex min-h-11 flex-col justify-center rounded-sm border border-rule bg-white px-4 py-2 transition-colors hover:border-gold-500">
-            <span class="text-[14.5px] font-semibold text-navy-800">{t.label}</span>
+          <a href={t.href} data-cta={t.cta} class="flex min-h-11 flex-col justify-center rounded-sm border border-teal-100 bg-teal-50 px-4 py-2 transition-colors hover:border-teal-700 active:bg-teal-100">
+            <span class="text-[14.5px] font-semibold text-teal-800">{t.label}</span>
             <span class="text-[12.5px] text-ink-mute">{t.detail}</span>
           </a>
         </li>
@@ -101,15 +105,15 @@ const placeholder = exampleTerms.length ? `e.g. ${exampleTerms.join(', ')}` : 'a
           spellcheck="false"
           placeholder={placeholder}
           aria-describedby="course-search-status"
-          class="min-h-11 w-full rounded-sm border border-rule bg-white px-3 text-[15.5px] text-ink placeholder:text-ink-mute focus:border-navy-800"
+          class="min-h-11 w-full rounded-sm border-2 border-rule bg-white px-3 text-[15.5px] text-ink placeholder:text-ink-mute hover:border-teal-500 focus:border-teal-700"
         />
-        <button type="button" data-course-search-clear hidden class="min-h-11 shrink-0 rounded-sm border border-rule bg-white px-4 text-[14px] font-medium text-navy-800 hover:border-gold-500">Clear</button>
+        <button type="button" data-course-search-clear hidden class="min-h-11 shrink-0 rounded-sm border border-rule bg-white px-4 text-[14px] font-medium text-navy-800 hover:border-teal-500">Clear</button>
       </div>
       <p id="course-search-status" role="status" aria-live="polite" class="m-0 mt-2 min-h-[1.5em] text-[14px] text-ink-mute">Searches topic names and resource titles for this course only.</p>
     </div>
   )}
 
-  <div data-course-search-empty hidden class="mt-6 max-w-[60ch] border border-rule bg-ivory p-[clamp(20px,2.6vw,32px)]">
+  <div data-course-search-empty hidden class="mt-6 max-w-[60ch] rounded-md border border-rule bg-ivory p-[clamp(20px,2.6vw,32px)]">
     <p class="m-0 text-[18px] font-semibold text-navy-800">No {searchLabel} resources match “<span data-course-search-term></span>”.</p>
     <ul class="m-0 mt-3 list-disc ps-5 text-[15px] leading-[1.6] text-ink-mute">
       <li>Try one shorter word, or check the spelling.</li>
@@ -117,9 +121,9 @@ const placeholder = exampleTerms.length ? `e.g. ${exampleTerms.join(', ')}` : 'a
       <li>Some topics have no Marlbridge resource yet; they are still listed.</li>
     </ul>
     <p class="m-0 mt-4 text-[15px]">
-      <button type="button" data-course-search-reset class="border-b border-gold-500 pb-0.5 font-medium text-navy-800 hover:text-gold-600">Show all topics</button>
+      <button type="button" data-course-search-reset class="border-b-2 border-teal-500 pb-0.5 font-semibold text-navy-800 hover:text-teal-700">Show all topics</button>
       <span class="text-ink-mute"> · </span>
-      <a data-course-search-site href="/search/" class="border-b border-rule pb-0.5 text-ink-mute hover:text-gold-600">Search the whole site instead</a>
+      <a data-course-search-site href="/search/" class="border-b border-rule pb-0.5 text-ink-mute hover:text-teal-700">Search the whole site instead</a>
     </p>
   </div>
 
@@ -128,56 +132,35 @@ const placeholder = exampleTerms.length ? `e.g. ${exampleTerms.join(', ')}` : 'a
       {groups.map((g) => (
         <section class={g.label ? 'mt-[clamp(32px,4vw,48px)] first:mt-0' : ''} aria-label={g.label || undefined} data-topic-group>
           {g.label && (
-            <div class="mb-4 border-t-2 border-navy-800 pt-4">
-              <h3 class="m-0 text-[19px] font-semibold tracking-[-0.01em] text-navy-800">{g.label}</h3>
-              <p class="m-0 mt-1 text-[15px] text-ink-mute">{g.note}</p>
+            <div class="mb-2 rounded-md bg-navy-800 px-5 py-4 text-white">
+              <h3 class="m-0 text-[21px] font-bold tracking-[-0.015em] text-white">{g.label}</h3>
+              <p class="m-0 mt-1 text-[15px] text-on-navy">{g.note}</p>
             </div>
           )}
-          <ol class="m-0 list-none border-t border-rule p-0">
+          <ol class="m-0 list-none p-0">
             {g.slugs.map((slug) => {
               const entry = bySlug.get(slug)!;
               const t = entry.topic;
               const lang = nameRtlLang(t.name, rtl);
               return (
-                <li id={topicAnchor(t.slug)} class="m-0 scroll-mt-24 border-b border-rule py-5" data-topic data-search={searchText(String(t.number), t.name, ...t.subtopics.map((s) => s.name))}>
-                  <div class="flex flex-wrap items-baseline justify-between gap-x-6 gap-y-1">
-                    <h3 class="m-0 flex items-baseline gap-3 text-[18px] font-semibold leading-snug tracking-[-0.01em] text-navy-800">
-                      <span class="font-mono text-[12px] font-normal text-gold-600">{t.stage ? `${t.stage} ` : ''}{t.number}</span>
-                      <span>{lang ? <bdi dir="rtl" lang={lang}>{t.name}</bdi> : t.name}</span>
-                    </h3>
-                    <span class="shrink-0 font-mono text-[10.5px] uppercase tracking-[0.08em] text-ink-mute">
-                      {entry.count > 0 ? `${entry.count} ${entry.count === 1 ? 'resource' : 'resources'}` : 'No resource yet'}
-                    </span>
+                <li id={topicAnchor(t.slug)} class="m-0 scroll-mt-24 border-t border-rule py-[clamp(24px,3vw,36px)] first:border-t-0" data-topic data-search={searchText(String(t.number), t.name, ...t.subtopics.map((s) => s.name))}>
+                  <div class="flex flex-wrap items-center gap-x-4 gap-y-1">
+                    <span class="rounded-full bg-teal-50 px-2.5 py-0.5 mb-label text-teal-800">{t.stage ? `${t.stage === 'A' ? 'A Level' : 'AS'} topic` : 'Topic'} {t.number}</span>
+                    <span class="ms-auto mb-meta text-ink-mute">{entry.count > 0 ? `${entry.count} ${entry.count === 1 ? 'resource' : 'resources'}` : 'No resources yet'}</span>
                   </div>
+                  <h3 class="m-0 mt-2.5 text-[length:var(--text-h3)] font-bold leading-[1.15] tracking-[-0.015em] text-navy-800">{lang ? <bdi dir="rtl" lang={lang}>{t.name}</bdi> : t.name}</h3>
                   {t.subtopics.length > 0 && (
-                    <p class="m-0 mt-1.5 text-[13.5px] leading-relaxed text-ink-mute">
+                    <p class="m-0 mt-2 max-w-[78ch] text-[15px] leading-relaxed text-ink-mute">
+                      <span class="font-semibold text-ink">Covers </span>
                       {t.subtopics.map((st, i) => {
                         const sl = nameRtlLang(st.name, rtl);
-                        return <>{i > 0 && ' · '}{sl ? <bdi dir="rtl" lang={sl}>{st.name}</bdi> : st.name}</>;
+                        return <>{i > 0 && ', '}{sl ? <bdi dir="rtl" lang={sl}>{st.name}</bdi> : st.name}</>;
                       })}
                     </p>
                   )}
-                  {entry.count > 0 && (
-                    <div class="mt-3 grid gap-x-8 gap-y-3 md:grid-cols-3">
-                      {KIND_ORDER.map((k) => (
-                        <div data-kind-group={k}>
-                          <h4 class="m-0 font-mono text-[11px] font-normal uppercase tracking-[0.1em] text-gold-600">{KIND_LABEL[k]}</h4>
-                          {entry.groups[k].length > 0 ? (
-                            <ul class="m-0 mt-1 list-none p-0">
-                              {entry.groups[k].map((r) => (
-                                <li class="m-0 py-1" data-res data-search={searchText(r.title, r.description, KIND_LABEL[k], TYPE_TAG[r.resourceType])}>
-                                  <a href={routes.resource(r.id)} data-course-resource={k} class="text-[15px] leading-snug text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{r.title}</a>
-                                  {TYPE_TAG[r.resourceType] && <span class="ms-1.5 whitespace-nowrap font-mono text-[10.5px] uppercase tracking-[0.06em] text-ink-mute">{TYPE_TAG[r.resourceType]}</span>}
-                                </li>
-                              ))}
-                            </ul>
-                          ) : (
-                            <p class="m-0 mt-1 py-1 text-[14px] text-ink-mute" data-kind-none>None yet</p>
-                          )}
-                        </div>
-                      ))}
-                    </div>
-                  )}
+                  {entry.count > 0
+                    ? <ModeColumns groups={entry.groups} context={context} scope="this topic" />
+                    : <p class="m-0 mt-3 text-[15px] text-ink-mute">No Marlbridge resource for this topic yet. It is still part of the syllabus, so use the official document and past papers for it.</p>}
                 </li>
               );
             })}
@@ -189,37 +172,19 @@ const placeholder = exampleTerms.length ? `e.g. ${exampleTerms.join(', ')}` : 'a
 
   {hasAny(data.wholeCourse) && (
     <section aria-labelledby="whole-course-heading" class="mt-[clamp(32px,4vw,48px)]" data-topic-group>
-      <div data-topic data-search="whole course general all topics" class="border-t-2 border-navy-800 pt-4">
-        <h3 id="whole-course-heading" class="m-0 text-[19px] font-semibold tracking-[-0.01em] text-navy-800">{record ? 'Covering more than one topic' : 'All resources for this course'}</h3>
-        {record && <p class="m-0 mt-1 text-[15px] text-ink-mute">Course guides, exam preparation and pages that span several topics.</p>}
-        <div class="mt-4 grid gap-x-8 gap-y-4 md:grid-cols-3">
-          {KIND_ORDER.map((k) => (
-            <div data-kind-group={k}>
-              <h4 class="m-0 font-mono text-[11px] font-normal uppercase tracking-[0.1em] text-gold-600">{KIND_LABEL[k]}</h4>
-              {data.wholeCourse[k].length > 0 ? (
-                <ul class="m-0 mt-1 list-none p-0">
-                  {data.wholeCourse[k].map((r) => (
-                    <li class="m-0 py-1" data-res data-search={searchText(r.title, r.description, KIND_LABEL[k], TYPE_TAG[r.resourceType])}>
-                      <a href={routes.resource(r.id)} data-course-resource={k} class="text-[15px] leading-snug text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{r.title}</a>
-                      {TYPE_TAG[r.resourceType] && <span class="ms-1.5 whitespace-nowrap font-mono text-[10.5px] uppercase tracking-[0.06em] text-ink-mute">{TYPE_TAG[r.resourceType]}</span>}
-                    </li>
-                  ))}
-                </ul>
-              ) : (
-                <p class="m-0 mt-1 py-1 text-[14px] text-ink-mute" data-kind-none>None yet</p>
-              )}
-            </div>
-          ))}
-        </div>
+      <div data-topic data-search="whole course general all topics" class="rounded-md border border-rule bg-ivory px-[clamp(16px,2.4vw,28px)] py-[clamp(20px,2.6vw,28px)]">
+        <h3 id="whole-course-heading" class="m-0 text-[length:var(--text-h3)] font-bold leading-[1.15] tracking-[-0.015em] text-navy-800">{record ? 'Covering more than one topic' : 'All resources for this course'}</h3>
+        {record && <p class="m-0 mt-1.5 text-[15px] text-ink-mute">Course guides, exam preparation and pages that span several topics.</p>}
+        <ModeColumns groups={data.wholeCourse} context={context} scope="this course" />
       </div>
     </section>
   )}
 
   {data.total === 0 && (
-    <div class="mt-8 max-w-[60ch] border border-rule bg-ivory p-[clamp(20px,2.6vw,32px)]">
+    <div class="mt-8 max-w-[60ch] rounded-md border border-rule bg-ivory p-[clamp(20px,2.6vw,32px)]">
       <p class="m-0 text-[18px] font-semibold text-navy-800">No Marlbridge resources for this course yet</p>
       <p class="m-0 mt-2 text-[15.5px] leading-[1.6] text-ink-mute">The topics are listed {record ? 'above' : 'here once confirmed'} so you can plan with the official syllabus. Past papers are available from {board} directly.</p>
-      <p class="m-0 mt-3 text-[15px]"><a href={routes.resources} class="border-b border-gold-500 pb-0.5 font-medium text-navy-800 hover:text-gold-600">Change course</a></p>
+      <p class="m-0 mt-3 text-[15px]"><a href={routes.resources} class="border-b-2 border-teal-500 pb-0.5 font-semibold text-navy-800 hover:text-teal-700">Change course</a></p>
     </div>
   )}
 

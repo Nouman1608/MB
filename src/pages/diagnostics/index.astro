@@ -121,7 +121,7 @@ const jsonLd = {
 
       <nav aria-label="Jump to a qualification" class="mb-10 flex flex-wrap gap-2">
         {groups.map((g) => (
-          <a href={`#${g.slug}`} class="rounded-sm border border-rule px-3 py-1.5 text-[14px] font-medium text-navy-800 hover:border-gold-500">{g.heading}</a>
+          <a href={`#${g.slug}`} class="rounded-sm border border-rule px-3 py-1.5 text-[14px] font-medium text-navy-800 hover:border-teal-500">{g.heading}</a>
         ))}
       </nav>
 
@@ -132,14 +132,14 @@ const jsonLd = {
             {g.subjects.map((s) => (
               <li class="m-0 flex flex-col gap-3 rounded-sm border border-rule bg-white p-[clamp(18px,2vw,24px)]">
                 <div>
-                  <p class="m-0 font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">{s.board} {s.qualification} · {s.code}</p>
+                  <p class="m-0 mb-label text-teal-700">{s.board} {s.qualification} · {s.code}</p>
                   <h3 class="m-0 mt-1 text-[19px] font-semibold tracking-[-0.01em] text-navy-800">{s.subject}</h3>
                 </div>
                 <ul class="m-0 flex list-none flex-col gap-2 p-0">
                   {s.sets.map((d) => (
                     <li class="m-0">
                       <a href={d.href} data-diagnostic-link={s.code} class="flex flex-wrap items-baseline justify-between gap-x-3 gap-y-0.5 rounded-sm border border-gold-500 bg-ivory px-4 py-3 transition-colors hover:bg-white">
-                        <span class="font-medium text-navy-800">{d.label} <span aria-hidden="true" class="text-gold-600">→</span></span>
+                        <span class="font-medium text-navy-800">{d.label} <span aria-hidden="true" class="text-teal-700">→</span></span>
                         <span class="text-[13.5px] text-ink-mute">{d.questions} questions · about {d.minutes} min</span>
                         <span class="w-full text-[13.5px] text-ink-mute">{d.scope}</span>
                       </a>
@@ -147,9 +147,9 @@ const jsonLd = {
                   ))}
                 </ul>
                 <p class="m-0 text-[13.5px] text-ink-mute">
-                  <a href={s.practice} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">More practice questions</a>
+                  <a href={s.practice} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">More practice questions</a>
                   {' · '}
-                  <a href={s.hub} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">Notes and syllabus</a>
+                  <a href={s.hub} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">Notes and syllabus</a>
                 </p>
               </li>
             ))}
@@ -163,7 +163,7 @@ const jsonLd = {
     <Container>
       <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">After your diagnostic</h2>
       <p class="m-0 max-w-[68ch] text-[15px] leading-[1.6] text-ink-mute">
-        Turn your weak topics into a weekly timetable with the free <a href="/revision-planner/" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">revision planner</a>, or keep going with the <a href="/practice/" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">self-check practice questions</a>. If you would like a teacher to work through them with you, <a href={`${routes.trial}?source=diagnostic`} data-cta="diagnostics-hub-trial" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">request a free trial class</a>.
+        Turn your weak topics into a weekly timetable with the free <a href="/revision-planner/" class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">revision planner</a>, or keep going with the <a href="/practice/" class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">self-check practice questions</a>. If you would like a teacher to work through them with you, <a href={`${routes.trial}?source=diagnostic`} data-cta="diagnostics-hub-trial" class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">request a free trial class</a>.
       </p>
     </Container>
   </Section>

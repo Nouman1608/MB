@@ -1,0 +1,30 @@
+---
+/**
+ * D-397 -- icon for a study mode. Decorative (aria-hidden): the mode's name
+ * is always written next to it. Strokes use currentColor, so the icon takes
+ * the mode colour of its parent.
+ *   learn     an open book
+ *   review    a note card with a highlighted line
+ *   practice  a pencil on a ruled line
+ */
+interface Props { kind: 'learn' | 'review' | 'practice'; size?: number; class?: string }
+const { kind, size = 20, class: className = '' } = Astro.props;
+---
+<svg aria-hidden="true" focusable="false" width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class={`shrink-0 ${className}`}>
+  {kind === 'learn' && <>
+    <path d="M12 6.5C10.2 5 7.6 4.5 4 4.5v13c3.6 0 6.2.5 8 2 1.8-1.5 4.4-2 8-2v-13c-3.6 0-6.2.5-8 2Z" />
+    <path d="M12 6.5v13" />
+  </>}
+  {kind === 'review' && <>
+    <rect x="4" y="4" width="16" height="16" rx="2.5" />
+    <path d="M8 9h8" />
+    <path d="M8 13h8" stroke-width="4" stroke-opacity="0.28" />
+    <path d="M8 13h8" />
+    <path d="M8 17h5" />
+  </>}
+  {kind === 'practice' && <>
+    <path d="M15.5 4.5 19.5 8.5 9 19H5v-4Z" />
+    <path d="m13.5 6.5 4 4" />
+    <path d="M13 20h7" />
+  </>}
+</svg>

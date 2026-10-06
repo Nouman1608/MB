@@ -39,7 +39,7 @@ const { course, steps } = given ?? await resourceNextSteps(resource);
     <ul class="m-0 grid list-none gap-3 p-0 sm:grid-cols-2" data-course-option={o.id || undefined} hidden={i > 0}>
       {o.steps.map((s) => (
         <li class="m-0">
-          <a href={s.href} data-next-step={s.kind} class="flex h-full flex-col gap-0.5 rounded-sm border border-rule bg-white px-4 py-3 transition-colors hover:border-gold-500">
+          <a href={s.href} data-next-step={s.kind} class="flex h-full flex-col gap-0.5 rounded-sm border border-rule bg-white px-4 py-3 transition-colors hover:border-teal-500">
             <span class="text-[15px] font-semibold text-navy-800">{s.label}</span>
             <span class="text-[13.5px] text-ink-mute">{s.detail}</span>
           </a>
