@@ -583,11 +583,11 @@ const jsonLd = [
 >
   <dl slot="hero-extra" class="m-0 mt-7 flex flex-wrap gap-x-8 gap-y-3 text-[14px]">
     {syllabus && (
-      <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Syllabus </dt><dd class="m-0 inline text-ink-mute">{syllabus.code}</dd></div>
+      <div class="m-0"><dt class="m-0 inline mb-label text-teal-700">Syllabus </dt><dd class="m-0 inline text-ink-mute">{syllabus.code}</dd></div>
     )}
-    <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Board </dt><dd class="m-0 inline text-ink-mute"><a href={boardPath(c.boardSlug)} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{c.board}</a></dd></div>
-    <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Qualification </dt><dd class="m-0 inline text-ink-mute"><a href={levelPath(c.qualificationSlug)} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{c.qualification}</a></dd></div>
-    <div class="m-0"><dt class="sr-only">Not your course? </dt><dd class="m-0 inline"><a href={routes.resources} data-change-course class="inline-flex min-h-11 items-center font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600 lg:min-h-0">Change course</a></dd></div>
+    <div class="m-0"><dt class="m-0 inline mb-label text-teal-700">Board </dt><dd class="m-0 inline text-ink-mute"><a href={boardPath(c.boardSlug)} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{c.board}</a></dd></div>
+    <div class="m-0"><dt class="m-0 inline mb-label text-teal-700">Qualification </dt><dd class="m-0 inline text-ink-mute"><a href={levelPath(c.qualificationSlug)} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{c.qualification}</a></dd></div>
+    <div class="m-0"><dt class="sr-only">Not your course? </dt><dd class="m-0 inline"><a href={routes.resources} data-change-course class="inline-flex min-h-11 items-center font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700 lg:min-h-0">Change course</a></dd></div>
   </dl>
 
   {/* Navigation round (6 Oct 2026): tuition stays one click away without
@@ -595,8 +595,8 @@ const jsonLd = [
   {classesOffered && (
     <p slot="hero-extra" class="m-0 mt-4 text-[15px]">
       {tuitionPage
-        ? <a href="#tuition" class="inline-flex min-h-11 items-center text-ink-mute underline decoration-gold-500 underline-offset-2 hover:text-gold-600">Online tuition for this course: teachers, fees and a free trial</a>
-        : <a href={hubTrialHref} data-cta="hub-trial-hero" class="inline-flex min-h-11 items-center text-ink-mute underline decoration-gold-500 underline-offset-2 hover:text-gold-600">Want a teacher? Request a free trial class</a>}
+        ? <a href="#tuition" class="inline-flex min-h-11 items-center text-ink-mute underline decoration-teal-500 underline-offset-2 hover:text-teal-700">Online tuition for this course: teachers, fees and a free trial</a>
+        : <a href={hubTrialHref} data-cta="hub-trial-hero" class="inline-flex min-h-11 items-center text-ink-mute underline decoration-teal-500 underline-offset-2 hover:text-teal-700">Want a teacher? Request a free trial class</a>}
     </p>
   )}
 
@@ -628,6 +628,7 @@ const jsonLd = [
         board={c.board}
         officialTitle={syllabus?.officialTitle ?? `${boardQualPhrase} ${c.subject}`}
         isMyp={c.qualificationSlug === 'ib-myp'}
+        context={{ board: c.board, qualification: c.qualification, subject: courseRenamed ? heading : c.subject, code: syllabus?.code }}
       />
     </Container>
   </Section>
@@ -646,34 +647,34 @@ const jsonLd = [
     <Container>
       <h2 id="at-a-glance-heading" class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">About this course</h2>
       <dl class="m-0 grid gap-x-8 gap-y-4 text-[15px] sm:grid-cols-2 lg:grid-cols-3">
-        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Qualification</dt><dd class="m-0 mt-1 text-ink">{boardQualPhrase} {c.subject}</dd></div>
-        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Spec code</dt><dd class="m-0 mt-1 text-ink">{syllabus?.code ?? 'Being verified'}</dd></div>
-        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Does Marlbridge teach it?</dt><dd class="m-0 mt-1 text-ink">{classesOffered ? (tuitionPage ? <>Yes — <a href="#tuition" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">teachers, fees and a free trial</a></> : <>Yes{oneToOneOnly && <>, one-to-one only ({ONE_TO_ONE_ONLY_PRICING.symbol} {formatFee(ONE_TO_ONE_ONLY_PRICING.perClass, ONE_TO_ONE_ONLY_PRICING.currency)} per class; <a href={`${routes.pricing}#one-to-one-only`} class="underline decoration-rule underline-offset-2">other currencies</a>)</>} — <a href={hubTrialHref} data-cta="hub-trial-glance" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">request a free trial class</a></>) : 'Not at the moment — free study resources only'}</dd></div>
+        <div class="m-0"><dt class="m-0 mb-label text-teal-700">Qualification</dt><dd class="m-0 mt-1 text-ink">{boardQualPhrase} {c.subject}</dd></div>
+        <div class="m-0"><dt class="m-0 mb-label text-teal-700">Spec code</dt><dd class="m-0 mt-1 text-ink">{syllabus?.code ?? 'Being verified'}</dd></div>
+        <div class="m-0"><dt class="m-0 mb-label text-teal-700">Does Marlbridge teach it?</dt><dd class="m-0 mt-1 text-ink">{classesOffered ? (tuitionPage ? <>Yes — <a href="#tuition" class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">teachers, fees and a free trial</a></> : <>Yes{oneToOneOnly && <>, one-to-one only ({ONE_TO_ONE_ONLY_PRICING.symbol} {formatFee(ONE_TO_ONE_ONLY_PRICING.perClass, ONE_TO_ONE_ONLY_PRICING.currency)} per class; <a href={`${routes.pricing}#one-to-one-only`} class="underline decoration-rule underline-offset-2">other currencies</a>)</>} — <a href={hubTrialHref} data-cta="hub-trial-glance" class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">request a free trial class</a></>) : 'Not at the moment — free study resources only'}</dd></div>
         {hubTeachers.length > 0 && (
-          <div class="m-0" data-testid="hub-teachers"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Who teaches it?</dt><dd class="m-0 mt-1 text-ink">{hubTeachers.map((t, i) => <>{i > 0 && ' · '}<a href={routes.author(t.id)} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{t.data.name}</a></>)}</dd></div>
+          <div class="m-0" data-testid="hub-teachers"><dt class="m-0 mb-label text-teal-700">Who teaches it?</dt><dd class="m-0 mt-1 text-ink">{hubTeachers.map((t, i) => <>{i > 0 && ' · '}<a href={routes.author(t.id)} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{t.data.name}</a></>)}</dd></div>
         )}
-        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Are resources available?</dt><dd class="m-0 mt-1 text-ink">{resources.length > 0 ? `Yes — ${resources.length} published` : 'Not yet — none published for this exact combination'}</dd></div>
-        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Is enrolment open?</dt><dd class="m-0 mt-1 text-ink">{!classesOffered ? 'No — classes are not currently offered in this subject' : enrolmentOpenFor('teaching') === 'enquire' ? 'Enquire to join — no online enrolment yet' : 'Not applicable'}</dd></div>
+        <div class="m-0"><dt class="m-0 mb-label text-teal-700">Are resources available?</dt><dd class="m-0 mt-1 text-ink">{resources.length > 0 ? `Yes — ${resources.length} published` : 'Not yet — none published for this exact combination'}</dd></div>
+        <div class="m-0"><dt class="m-0 mb-label text-teal-700">Is enrolment open?</dt><dd class="m-0 mt-1 text-ink">{!classesOffered ? 'No — classes are not currently offered in this subject' : enrolmentOpenFor('teaching') === 'enquire' ? 'Enquire to join — no online enrolment yet' : 'Not applicable'}</dd></div>
         {syllabus && (
-          <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Official {docWord.toLowerCase()}</dt><dd class="m-0 mt-1 text-ink"><a href={syllabus.officialUrl} rel="nofollow noopener" data-cta="hub-official-syllabus" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{c.board} {docWord.toLowerCase()}{editionYears ? ` for ${editionYears}` : ''}</a></dd></div>
+          <div class="m-0"><dt class="m-0 mb-label text-teal-700">Official {docWord.toLowerCase()}</dt><dd class="m-0 mt-1 text-ink"><a href={syllabus.officialUrl} rel="nofollow noopener" data-cta="hub-official-syllabus" class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{c.board} {docWord.toLowerCase()}{editionYears ? ` for ${editionYears}` : ''}</a></dd></div>
         )}
         {checklistHref && (
-          <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Topic checklist</dt><dd class="m-0 mt-1 text-ink"><a href={checklistHref} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">Printable {syllabus?.code ?? ''} checklist</a></dd></div>
+          <div class="m-0"><dt class="m-0 mb-label text-teal-700">Topic checklist</dt><dd class="m-0 mt-1 text-ink"><a href={checklistHref} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">Printable {syllabus?.code ?? ''} checklist</a></dd></div>
         )}
-        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Where was this verified?</dt><dd class="m-0 mt-1 text-ink">{syllabus ? <>{syllabus.verifiedOn}, official {c.board} specification</> : 'Not yet verified against an official source'}</dd></div>
+        <div class="m-0"><dt class="m-0 mb-label text-teal-700">Where was this verified?</dt><dd class="m-0 mt-1 text-ink">{syllabus ? <>{syllabus.verifiedOn}, official {c.board} specification</> : 'Not yet verified against an official source'}</dd></div>
         {practiceCount > 0 && (
-          <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Free practice questions?</dt><dd class="m-0 mt-1 text-ink">Yes — <a href={`/practice/${syllabus!.code}/`} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{practiceCount} self-check questions</a></dd></div>
+          <div class="m-0"><dt class="m-0 mb-label text-teal-700">Free practice questions?</dt><dd class="m-0 mt-1 text-ink">Yes — <a href={`/practice/${syllabus!.code}/`} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{practiceCount} self-check questions</a></dd></div>
         )}
         {hubDiagnostics.length > 0 && (
-          <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Free 10-minute diagnostic?</dt><dd class="m-0 mt-1 text-ink">Yes — {hubDiagnostics.map((d, i) => <>{i > 0 && ' · '}<a href={diagnosticPath(d)} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{d.scopeLabel}</a></>)}</dd></div>
+          <div class="m-0"><dt class="m-0 mb-label text-teal-700">Free 10-minute diagnostic?</dt><dd class="m-0 mt-1 text-ink">Yes — {hubDiagnostics.map((d, i) => <>{i > 0 && ' · '}<a href={diagnosticPath(d)} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{d.scopeLabel}</a></>)}</dd></div>
         )}
       </dl>
       <p class="m-0 mt-6 text-[13.5px] text-ink-mute">
-        Compiled and maintained by the{' '}{teamAuthor ? <a href={routes.author(teamAuthor.id)} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{teamAuthor.data.name}</a> : 'Marlbridge Academic Team'}{syllabus && <>, checked against the official {c.board} specification on {syllabus.verifiedOn}</>}.
+        Compiled and maintained by the{' '}{teamAuthor ? <a href={routes.author(teamAuthor.id)} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{teamAuthor.data.name}</a> : 'Marlbridge Academic Team'}{syllabus && <>, checked against the official {c.board} specification on {syllabus.verifiedOn}</>}.
       </p>
       <p class="m-0 mt-2 text-[13.5px] text-ink-mute">
         Spotted something wrong on this page?
-        {' '}<a href={correctionMailto} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">Report an error</a>
+        {' '}<a href={correctionMailto} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">Report an error</a>
         {' '}— see the <a href="/legal/editorial-policy/" class="underline decoration-rule underline-offset-2">corrections policy</a>.
       </p>
     </Container>
@@ -691,7 +692,7 @@ const jsonLd = [
                 <strong class="font-semibold text-navy-800">{syllabus.officialTitle}</strong>
               </p>
               <div class="m-0 mt-4 border-s-2 border-gold-500 ps-4 text-[17px] text-ink-mute">
-                <p class="m-0 mb-1 font-mono text-[11px] uppercase tracking-[0.08em]">Marlbridge's summary of the course</p>
+                <p class="m-0 mb-1 mb-label">Marlbridge's summary of the course</p>
                 <p class="m-0">{syllabus.boardSummary}</p>
                 <p class="m-0 mt-2 text-[14px]">
                   The board's own description is on the <a href={syllabus.officialUrl} rel="nofollow noopener" class="underline decoration-rule underline-offset-2">official {c.board} syllabus page</a>.
@@ -701,12 +702,12 @@ const jsonLd = [
               {syllabus.laterEditionNote && (
                 <p class="m-0 mt-4 text-[15.5px] text-ink-mute" data-later-edition-note>
                   {syllabus.laterEditionNote.text}{' '}
-                  <a href={syllabus.laterEditionNote.url} rel="nofollow noopener" class="underline decoration-gold-500 underline-offset-2">Read the official {syllabus.laterEditionNote.series} syllabus (PDF)</a>.
+                  <a href={syllabus.laterEditionNote.url} rel="nofollow noopener" class="underline decoration-teal-500 underline-offset-2">Read the official {syllabus.laterEditionNote.series} syllabus (PDF)</a>.
                 </p>
               )}
               <p class="m-0 mt-5 text-[15.5px] text-ink-mute">
                 Specifications change between examination series. Always confirm the current syllabus and assessment structure on
-                <a href={syllabus.officialUrl} rel="nofollow noopener" class="underline decoration-gold-500 underline-offset-2"> the {c.board} syllabus page</a> for your examination year.
+                <a href={syllabus.officialUrl} rel="nofollow noopener" class="underline decoration-teal-500 underline-offset-2"> the {c.board} syllabus page</a> for your examination year.
               </p>
             </>
           ) : (
@@ -722,7 +723,7 @@ const jsonLd = [
             assessments.map((a) => (
               <div class="mb-8 last:mb-0">
                 {assessments.length > 1 && (
-                  <p class="m-0 mb-2 text-[13px] font-semibold uppercase tracking-[0.08em] text-gold-600">
+                  <p class="m-0 mb-2 mb-label text-teal-700">
                     {a.code}{a.tiers[0] !== 'not-tiered' ? ` — ${a.tiers.map((t) => TIER_LABEL[t] ?? t).join(' / ')}` : ''}
                     {a.specStatus === 'legacy-teach-out' && ' (being withdrawn)'}
                     {a.specStatus === 'future' && ' (upcoming — first exams not yet sat)'}
@@ -829,7 +830,7 @@ const jsonLd = [
           ) : (
             <p class="m-0 text-ink-mute">
               Marlbridge has not yet modeled the paper-by-paper assessment structure (marks, weighting, timing) for this
-              specific qualification. {syllabus ? <>Refer to the <a href={syllabus.officialUrl} rel="nofollow noopener" class="underline decoration-gold-500 underline-offset-2">official {c.board} specification</a> for the current assessment scheme.</> : 'Refer to the official awarding-body specification for the current assessment scheme.'}
+              specific qualification. {syllabus ? <>Refer to the <a href={syllabus.officialUrl} rel="nofollow noopener" class="underline decoration-teal-500 underline-offset-2">official {c.board} specification</a> for the current assessment scheme.</> : 'Refer to the official awarding-body specification for the current assessment scheme.'}
             </p>
           )}
         </div>
@@ -848,7 +849,7 @@ const jsonLd = [
           <div class="max-w-[68ch] text-[17.5px] leading-[1.7]">
             <p class="m-0">{subjectEntry.data.description}</p>
             <p class="m-0 mt-4 text-[15.5px]">
-              <a href={routes.subject(hubSlug)} class="underline decoration-gold-500 underline-offset-2">All {subjectEntry.data.title} at Marlbridge</a>
+              <a href={routes.subject(hubSlug)} class="underline decoration-teal-500 underline-offset-2">All {subjectEntry.data.title} at Marlbridge</a>
             </p>
           </div>
         </div>
@@ -891,8 +892,8 @@ const jsonLd = [
             const sib = syllabusFor(s.boardSlug, s.qualificationSlug, s.subjectSlug);
             return (
               <li class="m-0">
-                <a href={academicHubPath(s)} class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-white p-[clamp(22px,2.2vw,30px)] transition-colors duration-150 hover:border-gold-500">
-                  <span class="font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">{s.board}</span>
+                <a href={academicHubPath(s)} class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-white p-[clamp(22px,2.2vw,30px)] transition-colors duration-150 hover:border-teal-500">
+                  <span class="mb-label text-teal-700">{s.board}</span>
                   <span class="text-[18px] font-semibold tracking-[-0.01em] text-navy-800">{s.qualification} {s.subject}</span>
                   {sib && <span class="mt-auto pt-2 font-mono text-[12px] text-ink-mute">Syllabus {sib.code}</span>}
                 </a>

@@ -121,8 +121,8 @@ const reviewedSummary = reviewedResources === 0 && reviewedArticles === 0
         <p>
           If you find a factual error, an outdated syllabus reference, or a broken citation anywhere on
           Marlbridge, please report it — this is the single most useful thing a reader can do for the site.
-          Use the <a href="/report-a-correction/" class="underline decoration-gold-500 underline-offset-2">Report a correction</a> form,
-          or write to <a href={mailto} class="underline decoration-gold-500 underline-offset-2">{FALLBACK_EMAIL}</a>
+          Use the <a href="/report-a-correction/" class="underline decoration-teal-500 underline-offset-2">Report a correction</a> form,
+          or write to <a href={mailto} class="underline decoration-teal-500 underline-offset-2">{FALLBACK_EMAIL}</a>
           with the page URL and what looks wrong. Reports are read and, where the correction is confirmed against
           the official source, the page is updated and its "Verified" date is refreshed. Marlbridge does not
           currently publish a public changelog of individual corrections; the "Last updated"/"Verified" date on
@@ -166,7 +166,7 @@ const reviewedSummary = reviewedResources === 0 && reviewedArticles === 0
         <p>
           Of the {totalResources.toLocaleString('en-US')} published resources, {teamResources.toLocaleString('en-US')} (about {teamPercent}%) and
           {' '}{teamArticles === allArticles.length ? `all ${allArticles.length}` : `${teamArticles} of ${allArticles.length}`} articles carry the
-          <a href="/authors/marlbridge-academic-team/" class="underline decoration-gold-500 underline-offset-2">Marlbridge Academic Team</a> byline
+          <a href="/authors/marlbridge-academic-team/" class="underline decoration-teal-500 underline-offset-2">Marlbridge Academic Team</a> byline
           — an organisational credit, not a person; this byline is marked in the page's structured data as an
           Organization, never as a Person. The other {namedResources.toLocaleString('en-US')} resources carry a real, named author — one of
           {' '}{namedAuthorCount} named teachers from the Marlbridge teaching team, credited on the resource page and linked to their own

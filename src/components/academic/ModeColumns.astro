@@ -1,0 +1,74 @@
+---
+/**
+ * D-397 -- the three study modes side by side for one topic (or for the
+ * course as a whole): study guides, revision notes, practice questions.
+ *
+ * Each column has its own tint, icon and heading; each resource is one link
+ * with a short title (the course and type are already on screen, see
+ * utils/academic/short-title.ts; the full title is in the link's title
+ * attribute and on the resource page) and the action it leads to ("Read
+ * guide", "Revise topic", "Try questions"). An empty column says what is
+ * missing in plain words and keeps its place, so the three modes always line
+ * up from topic to topic. On phones the columns stack in the same order.
+ *
+ * data-kind-group / data-res / data-kind-none are read by the course search
+ * script in CourseTopicResources.astro.
+ */
+import ModeIcon from './ModeIcon.astro';
+import { MODE, ACTION } from './ResourceMode';
+import { KIND_ORDER, type KindGroups } from '../../utils/academic/course-topics';
+import { shortTitle, type ShortTitleContext } from '../../utils/academic/short-title';
+import { routes } from '../../utils/urls/routes';
+
+interface Props {
+  groups: KindGroups;
+  context: ShortTitleContext;
+  /** e.g. "this topic" or "this course" */
+  scope: string;
+}
+const { groups, context, scope } = Astro.props;
+
+const TYPE_TAG: Record<string, string> = {
+  'subject-guides': 'Course guide',
+  'learning-articles': 'Article',
+  'past-papers': 'Past papers guide',
+  'exam-preparation': 'Exam preparation',
+};
+const EMPTY: Record<string, string> = {
+  learn: `No study guide for ${scope} yet`,
+  review: `No revision notes for ${scope} yet`,
+  practice: `No practice questions for ${scope} yet`,
+};
+const searchText = (...parts: (string | undefined)[]) => parts.filter(Boolean).join(' ').toLowerCase();
+---
+<div class="mt-5 grid gap-3 md:grid-cols-3 md:gap-4">
+  {KIND_ORDER.map((k) => {
+    const m = MODE[k];
+    const items = groups[k];
+    return (
+      <div data-kind-group={k} class={`flex flex-col rounded-md border p-2.5 ${items.length ? `${m.tint} ${m.border}` : 'border-dashed border-rule bg-white'}`}>
+        <h4 class={`m-0 flex items-center gap-2 px-1.5 pb-2 pt-1 font-sans text-[15px] font-semibold leading-tight ${m.text}`}>
+          <ModeIcon kind={k} />
+          <span>{m.label}</span>
+          {items.length > 1 && <span class="ms-auto mb-meta font-medium text-ink-mute">{items.length}</span>}
+        </h4>
+        {items.length > 0 ? (
+          <ul class="m-0 grid list-none gap-2 p-0">
+            {items.map((r) => (
+              <li class="m-0" data-res data-search={searchText(r.title, r.description, m.label, TYPE_TAG[r.resourceType])}>
+                <a href={routes.resource(r.id)} data-course-resource={k} title={r.title}
+                  class={`group flex min-h-11 flex-col gap-1 rounded-sm border border-white/0 bg-white px-3 py-2.5 transition-colors duration-150 ${m.hoverBorder} hover:text-navy-800`}>
+                  <span class="line-clamp-3 text-[15.5px] font-semibold leading-snug text-navy-800">{shortTitle(r.title, context)}</span>
+                  {TYPE_TAG[r.resourceType] && <span class="mb-meta text-ink-mute">{TYPE_TAG[r.resourceType]}</span>}
+                  <span class={`text-[14px] font-semibold underline decoration-transparent decoration-2 underline-offset-4 transition-colors group-hover:decoration-current ${m.text}`}>{ACTION[r.resourceType] ?? 'Open'}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        ) : (
+          <p class="m-0 px-1.5 pb-1.5 text-[14px] leading-snug text-ink-mute" data-kind-none>{EMPTY[k]}.</p>
+        )}
+      </div>
+    );
+  })}
+</div>

@@ -64,17 +64,18 @@ const proof = [
 ];
 ---
 <section aria-labelledby="hero-heading" class="relative overflow-hidden bg-navy-800 text-ivory">
-  <PathwayFigure />
+  {/* D-397: the figure fades out behind the text column so lines never cross the lead paragraph. */}
+  <PathwayFigure class="max-md:opacity-40 [mask-image:linear-gradient(to_right,transparent_42%,black_78%)] [-webkit-mask-image:linear-gradient(to_right,transparent_42%,black_78%)]" />
   <Container class="relative pb-[clamp(64px,10vh,120px)] pt-[clamp(56px,9vh,112px)]">
-    <p class="m-0 mb-[clamp(18px,3vh,28px)] text-xs font-medium uppercase tracking-[0.2em] text-gold-500">Online &amp; in-person tuition</p>
-    <h1 id="hero-heading" class="m-0 max-w-[20ch] font-display text-[length:var(--text-hero)] font-normal leading-[1.04] tracking-[-0.02em] text-white">
+    <p class="m-0 mb-[clamp(16px,2.5vh,24px)] mb-eyebrow text-teal-300">Online &amp; in-person tuition</p>
+    <h1 id="hero-heading" class="m-0 max-w-[20ch] font-display text-[length:var(--text-hero)] font-bold leading-[0.98] tracking-[-0.035em] text-white">
       Online IGCSE, O Level and A Level tuition with specialist teachers.
     </h1>
     <p class="mt-[clamp(22px,3.5vh,32px)] max-w-[52ch] text-[length:var(--text-lead)] leading-[1.55] text-on-navy">
       Marlbridge teaches {boardList} courses one-to-one and in small groups &mdash; in person in Pakistan, and online wherever a student studies.{teachesIb && ' IB (Middle Years Programme and Diploma Programme) is taught one-to-one.'} Every class is taught by a named subject specialist.
     </p>
     <div class="mt-[clamp(28px,4vh,40px)] flex flex-wrap gap-3.5">
-      <Button href={`${routes.trial}?source=home`} variant="onDark" size="lg" data-cta="hero-trial">Request a free trial</Button>
+      <Button href={`${routes.trial}?source=home`} variant="highlight" size="lg" data-cta="hero-trial">Request a free trial</Button>
       {/* Navigation round (6 Oct 2026): the second hero action is the free
           library ("Meet the teachers" is the band two sections down). */}
       <Button href={routes.resources} variant="onDarkGhost" size="lg" data-cta="hero-resources">Find study resources</Button>

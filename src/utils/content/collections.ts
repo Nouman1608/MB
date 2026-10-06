@@ -102,6 +102,25 @@ export const resourceLevelLabel = (
     .join(', ');
 };
 
+/**
+ * D-397: the reading form of resourceLevelLabel() for visible card text
+ * ("IGCSE, O Level" rather than "IGCSE, O LEVELS"). resourceLevelLabel()
+ * itself is unchanged because its output is also the Pagefind "Level"
+ * filter value, checked by validate-rendered-academic-labels.mjs.
+ */
+const LEVEL_DISPLAY: Record<string, string> = {
+  'O LEVELS': 'O Level',
+  'A LEVELS': 'A Level',
+  'A LEVEL': 'A Level',
+  'AS LEVEL': 'AS Level',
+  FOUNDATION: 'Foundation',
+};
+export const levelDisplay = (label: string): string =>
+  label
+    .split(', ')
+    .map((part) => LEVEL_DISPLAY[part] ?? part)
+    .join(', ');
+
 export const formatDate = (date: Date): string =>
   new Intl.DateTimeFormat('en-GB', { day: 'numeric', month: 'long', year: 'numeric' }).format(date);
 

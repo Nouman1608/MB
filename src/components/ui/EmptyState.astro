@@ -12,8 +12,8 @@ const { heading, body, primary, secondary } = Astro.props;
   <p class="m-0 mt-3 text-[16.5px] leading-[1.65] text-ink-mute">{body}</p>
   {(primary || secondary) && (
     <div class="mt-6 flex flex-wrap gap-4 text-[15px] font-medium">
-      {primary && <a href={primary.href} class="border-b border-gold-500 pb-1 text-navy-800 hover:text-gold-600">{primary.label}</a>}
-      {secondary && <a href={secondary.href} class="border-b border-rule pb-1 text-ink-mute hover:text-gold-600">{secondary.label}</a>}
+      {primary && <a href={primary.href} class="border-b border-gold-500 pb-1 text-navy-800 hover:text-teal-700">{primary.label}</a>}
+      {secondary && <a href={secondary.href} class="border-b border-rule pb-1 text-ink-mute hover:text-teal-700">{secondary.label}</a>}
     </div>
   )}
 </div>

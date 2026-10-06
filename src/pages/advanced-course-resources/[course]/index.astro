@@ -110,7 +110,7 @@ const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] t
 
       <p class="m-0 mt-8 max-w-[72ch] rounded-sm border border-gold-500 bg-ivory px-5 py-4 text-[15.5px] leading-[1.6]">
         <strong class="text-navy-800">Want a teacher?</strong> Marlbridge teaches {visible} one-to-one online, {ONE_TO_ONE_ONLY_PRICING.symbol} {ONE_TO_ONE_ONLY_PRICING.perClass.toLocaleString('en-US')} per class in {ONE_TO_ONE_ONLY_PRICING.region}, and the first class is free.
-        <a href="/programs/ap/" class="underline decoration-gold-500 underline-offset-2">About AP tuition</a> · <a href="/trial/?program=ap&amp;format=one-to-one&amp;source=resource" class="underline decoration-gold-500 underline-offset-2">Request a free trial</a>
+        <a href="/programs/ap/" class="underline decoration-teal-500 underline-offset-2">About AP tuition</a> · <a href="/trial/?program=ap&amp;format=one-to-one&amp;source=resource" class="underline decoration-teal-500 underline-offset-2">Request a free trial</a>
       </p>
 
       <section aria-labelledby="roadmap" class="mt-[clamp(48px,6vw,80px)]">
@@ -124,7 +124,7 @@ const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] t
             <li class="m-0 rounded-sm border border-rule bg-white">
               <details open={u.topics.some((t) => forTopic(t.number).length > 0)} class="group">
                 <summary class="flex cursor-pointer list-none flex-wrap items-baseline justify-between gap-x-4 gap-y-1 p-[clamp(16px,2vw,24px)] marker:hidden">
-                  <span class="text-[18px] font-semibold text-navy-800">Unit {u.number}: {u.title}{u.bcOnly && <span class="ms-2 rounded-sm bg-navy-800 px-2 py-0.5 align-middle text-[11px] font-medium uppercase tracking-[0.08em] text-ivory">BC only</span>}</span>
+                  <span class="text-[18px] font-semibold text-navy-800">Unit {u.number}: {u.title}{u.bcOnly && <span class="ms-2 rounded-sm bg-navy-800 px-2 py-0.5 align-middle mb-label text-ivory">BC only</span>}</span>
                   <span class="font-mono text-[12.5px] text-ink-mute">{u.weighting} of multiple choice · {u.topics.length} topics</span>
                 </summary>
                 <ul class="m-0 list-none border-t border-rule p-0">
@@ -132,7 +132,7 @@ const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] t
                     const rs = forTopic(t.number);
                     return (
                       <li class="m-0 flex flex-wrap items-baseline justify-between gap-x-4 gap-y-2 border-b border-rule px-[clamp(16px,2vw,24px)] py-3 last:border-b-0">
-                        <span class="text-[15.5px]"><span class="font-mono text-[13px] text-ink-mute">{t.number}</span> {t.title}{t.bcOnly && c.slug === 'calculus-bc' && <span class="ms-2 text-[12px] font-medium uppercase tracking-[0.06em] text-gold-600">BC only</span>}</span>
+                        <span class="text-[15.5px]"><span class="font-mono text-[13px] text-ink-mute">{t.number}</span> {t.title}{t.bcOnly && c.slug === 'calculus-bc' && <span class="ms-2 mb-label text-teal-700">BC only</span>}</span>
                         {rs.length > 0
                           ? <span class="flex flex-wrap gap-2">{rs.map((r) => <a href={apUrls.resource(r)} class="rounded-sm border border-gold-500 px-2 py-0.5 text-[13px] text-navy-800 hover:bg-ivory">{apTypeLabel[r.data.resourceType]}</a>)}</span>
                           : <span class="text-[13px] text-ink-mute">Planned</span>}
@@ -140,7 +140,7 @@ const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] t
                     );
                   })}
                   {unitLevel(u.number).map((r) => (
-                    <li class="m-0 px-[clamp(16px,2vw,24px)] py-3"><a href={apUrls.resource(r)} class="text-[15px] underline decoration-gold-500 underline-offset-2">{r.data.title}</a></li>
+                    <li class="m-0 px-[clamp(16px,2vw,24px)] py-3"><a href={apUrls.resource(r)} class="text-[15px] underline decoration-teal-500 underline-offset-2">{r.data.title}</a></li>
                   ))}
                 </ul>
               </details>
@@ -156,7 +156,7 @@ const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] t
           <ul class="m-0 list-none space-y-3 p-0">
             {examSkills.map((r) => (
               <li class="m-0 rounded-sm border border-rule bg-white px-[clamp(16px,2vw,24px)] py-4">
-                <a href={apUrls.resource(r)} class="text-[16.5px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-2">{r.data.title}</a>
+                <a href={apUrls.resource(r)} class="text-[16.5px] font-medium text-navy-800 underline decoration-teal-500 underline-offset-2">{r.data.title}</a>
                 <p class="m-0 mt-1 text-[14.5px] leading-[1.55] text-ink-mute">{r.data.description}</p>
               </li>
             ))}
@@ -182,7 +182,7 @@ const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] t
       <h2 class={`${h2} mt-[clamp(40px,5vw,64px)]`}>Official sources</h2>
       <p class="m-0 mb-3 max-w-[72ch] text-[15px] leading-[1.6] text-ink-mute">Everything on this page about the course structure and exam was checked against these College Board documents on {c.checkedOn.split('-').reverse().join('/')}. Always check them for later changes.</p>
       <ul class="m-0 list-disc space-y-1 ps-5 text-[15px]">
-        {sources.map((s) => <li><a href={s.url} rel="noopener" class="underline decoration-gold-500 underline-offset-2">{s.title}</a></li>)}
+        {sources.map((s) => <li><a href={s.url} rel="noopener" class="underline decoration-teal-500 underline-offset-2">{s.title}</a></li>)}
       </ul>
     </Container>
   </Section>

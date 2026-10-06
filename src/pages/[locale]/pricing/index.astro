@@ -161,7 +161,7 @@ const faqs = faqTemplates[locale]();
     <h2 class="m-0 mb-3 text-[22px] font-semibold text-navy-800">{T.ibHeading}</h2>
     <p class="m-0 mb-5 max-w-[62ch] text-[14.5px] text-ink-mute">{T.ibNote}</p>
     <div class="max-w-[380px] rounded-sm border border-rule bg-white p-6">
-      <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{IB_PRICING.region}</p>
+      <p class="m-0 mb-2 mb-label text-teal-700">{IB_PRICING.region}</p>
       <p class="m-0 text-[17px] text-ink">{IB_PRICING.perClass.toLocaleString('en-US')} {IB_PRICING.currency} <span class="text-[13px] text-ink-mute">{T.perClass}</span></p>
     </div>
     <p class="m-0 mt-4 text-[13px] text-ink-mute">{T.lastVerified}: {IB_PRICING.verifiedDate}.</p>
@@ -171,15 +171,15 @@ const faqs = faqTemplates[locale]();
     <h2 class="m-0 mb-5 text-[22px] font-semibold text-navy-800">{T.discountsHeading}</h2>
     <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-3">
       <li class="m-0 rounded-sm border border-rule bg-white p-5">
-        <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{T.multiSubject}</p>
+        <p class="m-0 mb-2 mb-label text-teal-700">{T.multiSubject}</p>
         <p class="m-0 text-[15.5px] text-ink">{T.multiSubjectBody(PRICING_TERMS.multiSubjectDiscount.minSubjects, PRICING_TERMS.multiSubjectDiscount.percentOff)}</p>
       </li>
       <li class="m-0 rounded-sm border border-rule bg-white p-5">
-        <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{T.sibling}</p>
+        <p class="m-0 mb-2 mb-label text-teal-700">{T.sibling}</p>
         <p class="m-0 text-[15.5px] text-ink">{T.siblingBody(PRICING_TERMS.siblingDiscount.percentOff)}</p>
       </li>
       <li class="m-0 rounded-sm border border-rule bg-white p-5">
-        <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{T.trialLabel}</p>
+        <p class="m-0 mb-2 mb-label text-teal-700">{T.trialLabel}</p>
         <p class="m-0 text-[15.5px] text-ink">{T.trialBody}</p>
       </li>
     </ul>
@@ -192,7 +192,7 @@ const faqs = faqTemplates[locale]();
     <h2 class="m-0 mb-6 text-[22px] font-semibold text-navy-800">{T.faqHeading}</h2>
     <FAQ items={faqs} />
     <p class="m-0 mt-8 text-[15.5px]">
-      {T.readyNote} <a href={localePath(locale, 'tutoring')} class="underline decoration-gold-500 underline-offset-2">{nav.primaryNav.find((i) => i.key === 'tutoring')?.label}</a>
+      {T.readyNote} <a href={localePath(locale, 'tutoring')} class="underline decoration-teal-500 underline-offset-2">{nav.primaryNav.find((i) => i.key === 'tutoring')?.label}</a>
     </p>
   </div>
 </LocaleLayout>

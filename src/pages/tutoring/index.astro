@@ -61,10 +61,10 @@ const programs = await getPrograms();
         <h2 id="tutoring-programmes" class="m-0 mb-3 text-[19px] font-semibold tracking-[-0.01em] text-navy-800">Tuition by qualification</h2>
         <ul class="m-0 flex list-none flex-wrap gap-2 p-0">
           {programs.map((p) => (
-            <li class="m-0"><a href={routes.program(p.id)} class="inline-flex min-h-11 items-center rounded-sm border border-rule bg-white px-4 text-[15px] font-medium text-navy-800 hover:border-gold-500">{p.data.title}</a></li>
+            <li class="m-0"><a href={routes.program(p.id)} class="inline-flex min-h-11 items-center rounded-sm border border-rule bg-white px-4 text-[15px] font-medium text-navy-800 hover:border-teal-500">{p.data.title}</a></li>
           ))}
         </ul>
-        <p class="m-0 mt-3 text-[14.5px] text-ink-mute">Looking for free notes and practice questions instead? <a href={routes.resources} class="underline decoration-gold-500 underline-offset-2">Find study resources for your course</a>. They are free whether or not you take classes.</p>
+        <p class="m-0 mt-3 text-[14.5px] text-ink-mute">Looking for free notes and practice questions instead? <a href={routes.resources} class="underline decoration-teal-500 underline-offset-2">Find study resources for your course</a>. They are free whether or not you take classes.</p>
       </nav>
 
       {teachers.length > 0 && (
@@ -74,17 +74,17 @@ const programs = await getPrograms();
           <ul class="m-0 grid list-none gap-5 p-0 sm:grid-cols-2 lg:grid-cols-3">
             {teachers.map((t) => (
               <li class="m-0">
-                <a href={routes.author(t.id)} class="flex items-center gap-4 rounded-sm border border-rule p-4 hover:border-gold-500">
+                <a href={routes.author(t.id)} class="flex items-center gap-4 rounded-sm border border-rule p-4 hover:border-teal-500">
                   {t.data.image ? (
                     <img src={t.data.image} alt="" width="56" height="56" class="h-14 w-14 shrink-0 rounded-full object-cover" loading="lazy" decoding="async" />
                   ) : (
-                    <span aria-hidden="true" class="flex h-14 w-14 shrink-0 items-center justify-center rounded-full border border-rule bg-ivory font-mono text-[10px] uppercase tracking-[0.08em] text-ink-mute">Photo</span>
+                    <span aria-hidden="true" class="flex h-14 w-14 shrink-0 items-center justify-center rounded-full border border-rule bg-ivory mb-label text-ink-mute">Photo</span>
                   )}
                   <span>
                     <span class="block text-[16px] font-semibold text-navy-800">{t.data.name}</span>
                     <span class="block text-[14px] text-ink-mute">{t.data.role}</span>
                     {t.data.yearsExperience !== undefined && (
-                      <span class="mt-1 block font-mono text-[10.5px] uppercase tracking-[0.1em] text-gold-600">{t.data.yearsExperience} years teaching</span>
+                      <span class="mt-1 block mb-label text-teal-700">{t.data.yearsExperience} years teaching</span>
                     )}
                   </span>
                 </a>
@@ -118,7 +118,7 @@ const programs = await getPrograms();
         </p>
         <p class="m-0 mb-6 max-w-[62ch] text-[15.5px] leading-relaxed text-ink-mute">
           Studying outside Pakistan? Every class is taught live online from Lahore; see
-          {' '}<a href="/international-tutoring/" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">international online tutoring</a>
+          {' '}<a href="/international-tutoring/" class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">international online tutoring</a>
           {' '}for class times in your time zone and the fees for your country.
         </p>
         <div class="flex flex-wrap items-center gap-4">

@@ -1,8 +1,12 @@
 ---
 import type { CollectionEntry } from 'astro:content';
-import { resourceCategoryMeta, resourceLevelLabel } from '../../utils/content/collections';
+import { resourceCategoryMeta, resourceLevelLabel, levelDisplay } from '../../utils/content/collections';
 import { resourceUrl } from '../../utils/urls/routes';
 import { boardBySlug } from '../../data/academic/boards';
+import { STUDY_KIND } from '../../utils/academic/combination-resources';
+import { MODE, ACTION } from '../academic/ResourceMode';
+import ModeIcon from '../academic/ModeIcon.astro';
+import { shortTitle, type ShortTitleContext } from '../../utils/academic/short-title';
 
 interface Props {
   entry: CollectionEntry<'resources'>;
@@ -16,10 +20,12 @@ interface Props {
    * both claiming the h3 level in the same section.
    */
   headingLevel?: 'h3' | 'h4';
+  /** D-397: when the listing already names the course, titles drop it. */
+  context?: ShortTitleContext;
 }
-const { entry, subjectTitle, headingLevel = 'h3' } = Astro.props;
+const { entry, subjectTitle, headingLevel = 'h3', context } = Astro.props;
 const meta = resourceCategoryMeta[entry.data.resourceType];
-const levels = resourceLevelLabel(entry.data.level, entry.data.stage, entry.data.qualifications);
+const levels = levelDisplay(resourceLevelLabel(entry.data.level, entry.data.stage, entry.data.qualifications));
 /**
  * Audit I08 fix (2026-09-05): a related-resource card previously showed
  * only subject + level, with nothing distinguishing a same-board match
@@ -33,10 +39,17 @@ const levels = resourceLevelLabel(entry.data.level, entry.data.stage, entry.data
  */
 const boardLabel = entry.data.boards.map((b) => boardBySlug(b)?.name).filter(Boolean).join(' & ');
 const Heading = headingLevel;
+// D-397: the type is shown as its study mode (icon, label, tint), the same
+// on every listing as on the course pages.
+const kind = STUDY_KIND[entry.data.resourceType];
+const mode = MODE[kind];
+const typeLabel = meta.title.charAt(0) + meta.title.slice(1).toLowerCase();
+const title = context ? shortTitle(entry.data.title, context) : entry.data.title;
 ---
-<a href={resourceUrl(entry)} class="flex h-full flex-col gap-2.5 rounded-sm border border-rule bg-white p-[clamp(22px,2.2vw,30px)] transition-colors duration-150 hover:border-gold-500">
-  <p class="m-0 font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">{meta.title}</p>
-  <Heading class="m-0 text-[18px] font-semibold tracking-[-0.01em] text-navy-800">{entry.data.title}</Heading>
-  <p class="m-0 text-[15.5px] leading-relaxed text-ink-mute">{entry.data.description}</p>
+<a href={resourceUrl(entry)} class={`group flex h-full flex-col gap-2.5 rounded-md border border-rule bg-white p-[clamp(20px,2.2vw,28px)] transition-colors duration-150 ${mode.hoverBorder} hover:text-navy-800`}>
+  <p class={`m-0 inline-flex w-fit items-center gap-1.5 rounded-full px-2.5 py-0.5 mb-label ${mode.tint} ${mode.text}`}><ModeIcon kind={kind} size={16} />{typeLabel}</p>
+  <Heading class="m-0 line-clamp-4 text-[19px] font-bold leading-snug tracking-[-0.01em] text-navy-800" title={entry.data.title !== title ? entry.data.title : undefined}>{title}</Heading>
+  <p class="m-0 line-clamp-4 text-[15.5px] leading-relaxed text-ink-mute">{entry.data.description}</p>
   <p class="m-0 mt-auto pt-2 text-[13px] text-ink-mute">{[subjectTitle, boardLabel, levels].filter(Boolean).join(' · ')}</p>
+  <span class={`text-[14.5px] font-semibold underline decoration-transparent decoration-2 underline-offset-4 transition-colors group-hover:decoration-current ${mode.text}`}>{ACTION[entry.data.resourceType] ?? 'Open'}</span>
 </a>

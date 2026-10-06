@@ -32,7 +32,7 @@ const outcomes = publishedOutcomes().filter((o) => o.organisation === 'marlbridg
               <div><dt class="m-0 inline font-semibold text-navy-800">Evidence: </dt><dd class="m-0 inline">{o.outcomeEvidence}</dd></div>
             </dl>
             {o.quote && <blockquote class="m-0 mt-5 border-s-2 border-gold-500 ps-4 text-[15.5px] leading-[1.6] text-ink">&ldquo;{o.quote.text}&rdquo; <span class="text-ink-mute">— {o.quote.by === 'parent' ? 'Parent' : 'Student'}</span></blockquote>}
-            <p class="m-0 mt-5 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{o.attribution} &middot; {o.year} series{o.organisation === 'learners-academy' && <> &middot; a Learners Academy student, not a Marlbridge result</>}</p>
+            <p class="m-0 mt-5 mb-label text-teal-700">{o.attribution} &middot; {o.year} series{o.organisation === 'learners-academy' && <> &middot; a Learners Academy student, not a Marlbridge result</>}</p>
           </li>
         ))}
       </ul>

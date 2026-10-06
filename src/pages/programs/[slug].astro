@@ -181,13 +181,13 @@ const jsonLd = [
       <span class="text-[14px] text-ink-mute">Groups capped at {PRICING_TERMS.maxGroupSize} &middot; one-to-one also available</span>
     )}
     {d.marlbridgeTeaches === 'teaching' && hasGroupTuition && oneToOneOnlyHere && (
-      <span class="text-[14px] text-ink-mute">{oneToOneOnlyHere}: one-to-one only &middot; {ONE_TO_ONE_ONLY_PRICING.perClass.toLocaleString('en-US')} {ONE_TO_ONE_ONLY_PRICING.currency} per class in {ONE_TO_ONE_ONLY_PRICING.region} (<a href="/pricing/#one-to-one-only" class="underline decoration-gold-500 underline-offset-2">other currencies</a>)</span>
+      <span class="text-[14px] text-ink-mute">{oneToOneOnlyHere}: one-to-one only &middot; {ONE_TO_ONE_ONLY_PRICING.perClass.toLocaleString('en-US')} {ONE_TO_ONE_ONLY_PRICING.currency} per class in {ONE_TO_ONE_ONLY_PRICING.region} (<a href="/pricing/#one-to-one-only" class="underline decoration-teal-500 underline-offset-2">other currencies</a>)</span>
     )}
     {d.marlbridgeTeaches === 'teaching' && isIb && (
       <span class="text-[14px] text-ink-mute">One-to-one only &middot; {IB_PRICING.perClass.toLocaleString('en-US')} {IB_PRICING.currency} per 1-hour class in {IB_PRICING.region}</span>
     )}
     {d.marlbridgeTeaches === 'teaching' && isAp && (
-      <span class="text-[14px] text-ink-mute">One-to-one only &middot; {apFeeLine} (<a href="/pricing/#one-to-one-only" class="underline decoration-gold-500 underline-offset-2">other currencies</a>)</span>
+      <span class="text-[14px] text-ink-mute">One-to-one only &middot; {apFeeLine} (<a href="/pricing/#one-to-one-only" class="underline decoration-teal-500 underline-offset-2">other currencies</a>)</span>
     )}
     {d.marlbridgeTeaches === 'teaching' && feeOnEnquiry && (
       <span class="text-[14px] text-ink-mute">Fee confirmed on enquiry</span>
@@ -214,7 +214,7 @@ const jsonLd = [
         </RelatedGrid>
       )}
       <p class="m-0 mt-5 text-[15.5px] text-ink-mute">
-        Free study resources: <a href={resourcesStart} class="font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">choose your exam board and subject</a> to see each course's topics, notes and practice questions.
+        Free study resources: <a href={resourcesStart} class="font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">choose your exam board and subject</a> to see each course's topics, notes and practice questions.
       </p>
 
       {d.marlbridgeTeaches === 'teaching' && <ProgramTeachers level={d.level} programTitle={d.title} />}

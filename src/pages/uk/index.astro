@@ -113,16 +113,16 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
         <table class="w-full min-w-[520px] border-collapse text-[15px]">
           <thead>
             <tr class="border-b border-rule text-left">
-              <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Board</th>
-              <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">GCSE / IGCSE subjects</th>
-              <th scope="col" class="py-3 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">AS / A Level subjects</th>
+              <th scope="col" class="py-3 pr-4 mb-label text-teal-700">Board</th>
+              <th scope="col" class="py-3 pr-4 mb-label text-teal-700">GCSE / IGCSE subjects</th>
+              <th scope="col" class="py-3 mb-label text-teal-700">AS / A Level subjects</th>
             </tr>
           </thead>
           <tbody>
             {UK_ROWS.map((r) => (
               <tr class="border-b border-rule">
                 <td class="py-3 pr-4 text-ink">
-                  <a href={boardPath(r.board)} class="font-semibold text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{r.label}</a>
+                  <a href={boardPath(r.board)} class="font-semibold text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{r.label}</a>
                 </td>
                 <td class="py-3 pr-4 text-ink-mute">{r.gcse || '—'}</td>
                 <td class="py-3 text-ink-mute">{r.aLevel || '—'}</td>
@@ -144,7 +144,7 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
         Marlbridge has no office, centre or teacher based in the UK. Every class is taught live online by a named subject
         teacher from our academy in Lahore, Pakistan. Marlbridge does not teach Scottish Nationals or Highers, WJEC or
         Eduqas, CCEA, BTEC or T Levels. Families in other countries: see
-        {' '}<a href="/international-tutoring/" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">international online tutoring</a>.
+        {' '}<a href="/international-tutoring/" class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">international online tutoring</a>.
       </p>
     </Container>
   </Section>
@@ -159,7 +159,7 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
       </p>
       <ul class="m-0 grid gap-2 p-0 sm:grid-cols-2" style="list-style: none;">
         {UK_SEARCHED_HUBS.map((h) => (
-          <li><a href={h.path} class="text-[15px] text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{h.label}</a>{hubIsTaught(h.path) ? '' : <span class="text-[13px] text-ink-mute">{RESOURCES_ONLY_SUFFIX}</span>}</li>
+          <li><a href={h.path} class="text-[15px] text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{h.label}</a>{hubIsTaught(h.path) ? '' : <span class="text-[13px] text-ink-mute">{RESOURCES_ONLY_SUFFIX}</span>}</li>
         ))}
       </ul>
     </Container>
@@ -178,8 +178,8 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
         <table class="w-full min-w-[420px] border-collapse text-[14px]">
           <thead>
             <tr class="border-b border-rule text-left">
-              <th scope="col" class="py-2 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Where</th>
-              <th scope="col" class="py-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Time zone</th>
+              <th scope="col" class="py-2 pr-4 mb-label text-teal-700">Where</th>
+              <th scope="col" class="py-2 mb-label text-teal-700">Time zone</th>
             </tr>
           </thead>
           <tbody>
@@ -208,15 +208,15 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
         Group classes are priced per subject, per month; one-to-one classes per class. The group rates are set for the UK.
         The one-to-one figures are a currency conversion of the Pakistan one-to-one rate (see the note below), not a
         separately published UK price. Full terms, discounts and every other region are on the
-        {' '}<a href={routes.pricing} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">pricing page</a>.
+        {' '}<a href={routes.pricing} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">pricing page</a>.
       </p>
       <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
         <table class="w-full min-w-[520px] border-collapse text-[15px]">
           <thead>
             <tr class="border-b border-rule text-left">
-              <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Format</th>
-              <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">GCSE / IGCSE / O Level</th>
-              <th scope="col" class="py-3 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">AS / A Level</th>
+              <th scope="col" class="py-3 pr-4 mb-label text-teal-700">Format</th>
+              <th scope="col" class="py-3 pr-4 mb-label text-teal-700">GCSE / IGCSE / O Level</th>
+              <th scope="col" class="py-3 mb-label text-teal-700">AS / A Level</th>
             </tr>
           </thead>
           <tbody>

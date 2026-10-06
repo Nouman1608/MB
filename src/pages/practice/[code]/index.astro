@@ -131,7 +131,7 @@ const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQu
           </p>
           <ul class="m-0 mt-3 list-disc pl-5 text-[14.5px] text-ink-mute">
             {[...new Set(clientQuestions.map((q) => q.resourceSlug))].map((slug) => (
-              <li><a href={`/resources/${slug}/`} class="underline decoration-gold-500 underline-offset-2">{clientQuestions.find((q) => q.resourceSlug === slug)?.resourceTitle}</a></li>
+              <li><a href={`/resources/${slug}/`} class="underline decoration-teal-500 underline-offset-2">{clientQuestions.find((q) => q.resourceSlug === slug)?.resourceTitle}</a></li>
             ))}
           </ul>
         </div>
@@ -177,7 +177,7 @@ const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQu
         <div aria-live="polite">
           <div id="mb-practice-topic-banner" tabindex="-1" class="mb-6 flex flex-wrap items-center gap-x-4 gap-y-2 rounded-sm border border-gold-500 bg-ivory px-4 py-3 text-[14.5px]" hidden>
             <p class="m-0 text-ink">Showing questions on: <strong id="mb-practice-topic-label" class="text-navy-800"></strong> <span id="mb-practice-topic-count" class="text-ink-mute"></span></p>
-            <a id="mb-practice-topic-clear" href={path} class="inline-flex min-h-6 items-center font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">Show all questions</a>
+            <a id="mb-practice-topic-clear" href={path} class="inline-flex min-h-6 items-center font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">Show all questions</a>
           </div>
         </div>
 
@@ -188,28 +188,28 @@ const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQu
             <div class="flex flex-wrap gap-3">
               <button type="button" data-tier-choice="core" class="rounded-sm bg-navy-800 px-5 py-2.5 text-[14px] font-medium text-white transition-colors hover:bg-navy-700">{tierNames?.lower}</button>
               <button type="button" data-tier-choice="extended" class="rounded-sm bg-navy-800 px-5 py-2.5 text-[14px] font-medium text-white transition-colors hover:bg-navy-700">{tierNames?.upper}</button>
-              <button type="button" data-tier-choice="unsure" class="rounded-sm border border-rule bg-white px-5 py-2.5 text-[14px] font-medium text-ink transition-colors hover:border-gold-500">Not sure</button>
+              <button type="button" data-tier-choice="unsure" class="rounded-sm border border-rule bg-white px-5 py-2.5 text-[14px] font-medium text-ink transition-colors hover:border-teal-500">Not sure</button>
             </div>
             <p class="m-0 mt-4 text-[13px] text-ink-mute">Not sure includes some {tierNames?.upper}-only content — skip anything your course doesn't cover.</p>
           </div>
         )}
 
         <div id="mb-practice-card" tabindex="-1" class="rounded-sm border border-rule bg-white p-[clamp(22px,3vw,36px)]">
-          <div class="mb-4 flex items-center justify-between text-[12px] font-medium uppercase tracking-[0.1em] text-gold-600">
+          <div class="mb-4 flex items-center justify-between mb-label text-teal-700">
             <span id="mb-practice-qnum">Question 1 of {clientQuestions.length}</span>
             <span id="mb-practice-marks"></span>
           </div>
           <div id="mb-practice-question" class="prose-question text-[16.5px] leading-[1.65] text-ink"></div>
           <div id="mb-practice-answer-wrap" hidden>
             <hr class="my-5 border-rule" />
-            <p class="m-0 mb-2 text-[12px] font-medium uppercase tracking-[0.1em] text-gold-600">Worked answer</p>
+            <p class="m-0 mb-2 mb-label text-teal-700">Worked answer</p>
             <div id="mb-practice-answer" class="prose-question text-[16px] leading-[1.65] text-ink"></div>
           </div>
           <div class="mt-6 flex flex-wrap items-center gap-3">
             <button id="mb-practice-reveal" type="button" class="rounded-sm bg-navy-800 px-5 py-2.5 text-[14px] font-medium text-white transition-colors hover:bg-navy-700">Reveal answer</button>
-            <button id="mb-practice-right" type="button" hidden class="rounded-sm border border-rule bg-white px-5 py-2.5 text-[14px] font-medium text-ink transition-colors hover:border-gold-500">I got this right</button>
-            <button id="mb-practice-wrong" type="button" hidden class="rounded-sm border border-rule bg-white px-5 py-2.5 text-[14px] font-medium text-ink transition-colors hover:border-gold-500">I got this wrong</button>
-            <button id="mb-practice-next" type="button" hidden class="ml-auto rounded-sm px-5 py-2.5 text-[14px] font-medium text-gold-600 transition-colors hover:text-gold-700">Next question →</button>
+            <button id="mb-practice-right" type="button" hidden class="rounded-sm border border-rule bg-white px-5 py-2.5 text-[14px] font-medium text-ink transition-colors hover:border-teal-500">I got this right</button>
+            <button id="mb-practice-wrong" type="button" hidden class="rounded-sm border border-rule bg-white px-5 py-2.5 text-[14px] font-medium text-ink transition-colors hover:border-teal-500">I got this wrong</button>
+            <button id="mb-practice-next" type="button" hidden class="ml-auto rounded-sm px-5 py-2.5 text-[14px] font-medium text-teal-700 transition-colors hover:text-gold-700">Next question →</button>
           </div>
         </div>
         <p id="mb-practice-empty" class="m-0 mt-6 rounded-sm border border-dashed border-rule bg-ivory p-6 text-[14.5px] text-ink-mute" hidden></p>
@@ -219,19 +219,19 @@ const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQu
           <p id="mb-practice-diag-score" class="m-0 mb-6 text-[14.5px] text-ink-mute"></p>
           <div class="grid gap-6 sm:grid-cols-2">
             <div>
-              <h3 class="m-0 mb-2 text-[12px] font-semibold uppercase tracking-[0.1em] text-gold-600">Strengths</h3>
+              <h3 class="m-0 mb-2 mb-label text-teal-700">Strengths</h3>
               <ul id="mb-practice-diag-strengths" class="m-0 list-none p-0 text-[14px] leading-[1.7] text-ink"></ul>
             </div>
             <div>
-              <h3 class="m-0 mb-2 text-[12px] font-semibold uppercase tracking-[0.1em] text-gold-600">Weak areas</h3>
+              <h3 class="m-0 mb-2 mb-label text-teal-700">Weak areas</h3>
               <ul id="mb-practice-diag-weak" class="m-0 list-none p-0 text-[14px] leading-[1.7] text-ink"></ul>
             </div>
           </div>
           <p class="m-0 mt-6 text-[13px] text-ink-mute">A simple, deterministic check based on the questions you were just given, spread across the syllabus topics this bank covers — not a validated diagnostic assessment, and not a prediction of exam performance.</p>
           <div class="mt-5 flex flex-wrap items-center gap-3">
-            <a href={hubPath} class="rounded-sm border border-rule bg-white px-5 py-2.5 text-[14px] font-medium text-ink transition-colors hover:border-gold-500">Review the syllabus hub</a>
+            <a href={hubPath} class="rounded-sm border border-rule bg-white px-5 py-2.5 text-[14px] font-medium text-ink transition-colors hover:border-teal-500">Review the syllabus hub</a>
             <a href={trialHref} id="mb-practice-teacher-support" class="rounded-sm bg-navy-800 px-5 py-2.5 text-[14px] font-medium text-white transition-colors hover:bg-navy-700">Get teacher support</a>
-            <button type="button" id="mb-practice-diag-restart" class="ml-auto rounded-sm px-5 py-2.5 text-[14px] font-medium text-gold-600 transition-colors hover:text-gold-700">Back to standard practice</button>
+            <button type="button" id="mb-practice-diag-restart" class="ml-auto rounded-sm px-5 py-2.5 text-[14px] font-medium text-teal-700 transition-colors hover:text-gold-700">Back to standard practice</button>
           </div>
         </div>
 
@@ -251,7 +251,7 @@ const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQu
           <h2 class="m-0 mb-1 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Your topic mastery</h2>
           <p class="m-0 mb-3 text-[14.5px] text-ink-mute">
             A simple, deterministic signal from your attempts on this page — not a validated diagnostic.
-            {' '}<button type="button" id="mb-practice-mastery-info" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">How this is worked out</button>
+            {' '}<button type="button" id="mb-practice-mastery-info" class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">How this is worked out</button>
           </p>
           <div id="mb-practice-mastery-explain" class="m-0 mb-4 rounded-sm border border-dashed border-rule bg-ivory p-4 text-[13px] leading-[1.6] text-ink-mute" hidden>
             <strong class="text-ink">Not started</strong> — no attempts yet on any question in this topic.{' '}
@@ -273,8 +273,8 @@ const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQu
           browser data will reset it. It is not stored on a Marlbridge server, but practice activity (including
           each question you mark, whether you marked it correct, and your diagnostic score) is sent to Google
           Analytics as usage measurements, without cookies unless you have accepted analytics cookies
-          (<a href="/legal/cookies/" class="underline decoration-gold-500 underline-offset-2">Cookie Policy</a>).
-          <button id="mb-practice-reset" type="button" class="ml-1 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">Reset my progress</button>
+          (<a href="/legal/cookies/" class="underline decoration-teal-500 underline-offset-2">Cookie Policy</a>).
+          <button id="mb-practice-reset" type="button" class="ml-1 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">Reset my progress</button>
         </p>
       </div>
     </Container>
@@ -630,7 +630,7 @@ const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQu
           label.textContent = info.label;
           const badge = document.createElement('a');
           badge.href = hubPath + '#topics-heading';
-          badge.className = 'shrink-0 rounded-sm bg-white px-2.5 py-1 text-[12px] font-medium text-gold-600 underline decoration-gold-500 underline-offset-2 hover:text-gold-700';
+          badge.className = 'shrink-0 rounded-sm bg-white px-2.5 py-1 text-[12px] font-medium text-teal-700 underline decoration-teal-500 underline-offset-2 hover:text-gold-700';
           badge.textContent = info.count + ' wrong · study this topic';
           badge.addEventListener('click', () => {
             track('weak_topic_click', { topic: info.label, wrong_count: info.count });
@@ -644,7 +644,7 @@ const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQu
             links.className = 'flex shrink-0 flex-wrap items-center justify-end gap-2';
             const retest = document.createElement('a');
             retest.href = retestHref(key, retestCoreHere);
-            retest.className = 'rounded-sm bg-white px-2.5 py-1 text-[12px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600';
+            retest.className = 'rounded-sm bg-white px-2.5 py-1 text-[12px] font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700';
             retest.textContent = 'Retest';
             const retestSr = document.createElement('span');
             retestSr.className = 'sr-only';
@@ -678,7 +678,7 @@ const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQu
           li.className = 'rounded-sm border border-rule bg-white px-4 py-3';
           const btn = document.createElement('button');
           btn.type = 'button';
-          btn.className = 'w-full text-left text-[14px] text-ink hover:text-gold-600';
+          btn.className = 'w-full text-left text-[14px] text-ink hover:text-teal-700';
           const plain = q.qHtml.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
           btn.textContent = plain.length > 140 ? plain.slice(0, 140) + '…' : plain;
           btn.addEventListener('click', () => {
@@ -747,7 +747,7 @@ const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQu
           li.className = 'rounded-sm border border-rule bg-white px-4 py-3';
           const btn = document.createElement('button');
           btn.type = 'button';
-          btn.className = 'flex w-full items-center justify-between gap-3 text-left text-[14px] text-ink hover:text-gold-600';
+          btn.className = 'flex w-full items-center justify-between gap-3 text-left text-[14px] text-ink hover:text-teal-700';
           const plain = q.qHtml.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
           const textSpan = document.createElement('span');
           textSpan.textContent = plain.length > 120 ? plain.slice(0, 120) + '…' : plain;
@@ -848,7 +848,7 @@ const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQu
           if (n >= 2) {
             const a = document.createElement('a');
             a.href = retestHref(key, retestCore);
-            a.className = 'ml-2 inline-flex min-h-6 items-center text-[13px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600';
+            a.className = 'ml-2 inline-flex min-h-6 items-center text-[13px] font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700';
             a.textContent = 'Retest this topic (' + n + ' questions)';
             const aSr = document.createElement('span');
             aSr.className = 'sr-only';

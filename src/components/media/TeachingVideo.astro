@@ -46,14 +46,14 @@ const hasTranscript = (video.body ?? '').trim().length > 0;
   <div class="p-[clamp(16px,2vw,24px)]">
     <H class="m-0 text-[17px] font-semibold tracking-[-0.01em] text-navy-800">{d.title}</H>
     <p class="m-0 mt-1 text-[14px] text-ink-mute">
-      {teacher && <>Taught by <a href={routes.author(teacher.id)} class="underline decoration-gold-500 underline-offset-2">{teacher.data.name}</a></>}
+      {teacher && <>Taught by <a href={routes.author(teacher.id)} class="underline decoration-teal-500 underline-offset-2">{teacher.data.name}</a></>}
       {d.syllabusCodes.length > 0 && <> · Syllabus {d.syllabusCodes.join(', ')}</>}
       {d.youtubeId && <> · {d.captionsChecked ? 'Checked captions on YouTube' : 'YouTube auto-captions only'}</>}
     </p>
     <p class="m-0 mt-2 text-[15px] leading-[1.6] text-ink">{d.summary}</p>
     {d.practiceLinks.length > 0 && (
       <p class="m-0 mt-3 text-[14px]">
-        Practise next: {d.practiceLinks.map((l, i) => <>{i > 0 && ' · '}<a href={l.href} class="underline decoration-gold-500 underline-offset-2">{l.label}</a></>)}
+        Practise next: {d.practiceLinks.map((l, i) => <>{i > 0 && ' · '}<a href={l.href} class="underline decoration-teal-500 underline-offset-2">{l.label}</a></>)}
       </p>
     )}
     {hasTranscript && (

@@ -116,12 +116,12 @@ const faq = faqNode(faqs);
     <Container>
       <h2 id="intl-glance" class="sr-only">At a glance</h2>
       <dl class="m-0 grid gap-x-8 gap-y-4 text-[15px] sm:grid-cols-2 lg:grid-cols-3">
-        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">How classes are taught</dt><dd class="m-0 mt-1 text-ink">Live online, anywhere; in person only in Lahore</dd></div>
-        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Qualifications</dt><dd class="m-0 mt-1 text-ink">{qualifications.join(', ')}</dd></div>
-        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Boards</dt><dd class="m-0 mt-1 text-ink">{boards.map((b) => b.name).join(', ')}</dd></div>
-        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Formats</dt><dd class="m-0 mt-1 text-ink">Small group (up to {PRICING_TERMS.maxGroupSize}) or one-to-one; IB one-to-one only</dd></div>
-        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Class length</dt><dd class="m-0 mt-1 text-ink">Group: {PRICING_TERMS.classFormat.group} One-to-one: {PRICING_TERMS.classFormat.oneToOne}</dd></div>
-        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">First step</dt><dd class="m-0 mt-1 text-ink">{PRICING_TERMS.freeTrial} <a href={`${routes.trial}?source=region`} class="underline decoration-gold-500 underline-offset-2">Request it</a></dd></div>
+        <div class="m-0"><dt class="m-0 mb-label text-teal-700">How classes are taught</dt><dd class="m-0 mt-1 text-ink">Live online, anywhere; in person only in Lahore</dd></div>
+        <div class="m-0"><dt class="m-0 mb-label text-teal-700">Qualifications</dt><dd class="m-0 mt-1 text-ink">{qualifications.join(', ')}</dd></div>
+        <div class="m-0"><dt class="m-0 mb-label text-teal-700">Boards</dt><dd class="m-0 mt-1 text-ink">{boards.map((b) => b.name).join(', ')}</dd></div>
+        <div class="m-0"><dt class="m-0 mb-label text-teal-700">Formats</dt><dd class="m-0 mt-1 text-ink">Small group (up to {PRICING_TERMS.maxGroupSize}) or one-to-one; IB one-to-one only</dd></div>
+        <div class="m-0"><dt class="m-0 mb-label text-teal-700">Class length</dt><dd class="m-0 mt-1 text-ink">Group: {PRICING_TERMS.classFormat.group} One-to-one: {PRICING_TERMS.classFormat.oneToOne}</dd></div>
+        <div class="m-0"><dt class="m-0 mb-label text-teal-700">First step</dt><dd class="m-0 mt-1 text-ink">{PRICING_TERMS.freeTrial} <a href={`${routes.trial}?source=region`} class="underline decoration-teal-500 underline-offset-2">Request it</a></dd></div>
       </dl>
     </Container>
   </Section>
@@ -135,14 +135,14 @@ const faq = faqNode(faqs);
       <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
         {COUNTRY_PAGES.map((cp) => (
           <li class="m-0">
-            <a href={cp.href} data-cta="intl-country" class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-white p-5 hover:border-gold-500">
+            <a href={cp.href} data-cta="intl-country" class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-white p-5 hover:border-teal-500">
               <span class="text-[17px] font-semibold text-navy-800">{cp.name}</span>
               <span class="text-[14px] leading-[1.55] text-ink-mute">{cp.note}</span>
             </a>
           </li>
         ))}
         <li class="m-0">
-          <a href={`${routes.trial}?source=region`} data-cta="intl-other-country-trial" class="flex h-full flex-col gap-2 rounded-sm border border-dashed border-rule bg-ivory p-5 hover:border-gold-500">
+          <a href={`${routes.trial}?source=region`} data-cta="intl-other-country-trial" class="flex h-full flex-col gap-2 rounded-sm border border-dashed border-rule bg-ivory p-5 hover:border-teal-500">
             <span class="text-[17px] font-semibold text-navy-800">Anywhere else</span>
             <span class="text-[14px] leading-[1.55] text-ink-mute">Tell us your country, time zone and preferred times. We confirm whether we can offer a teacher, a time and a fee before anything is booked.</span>
           </a>
@@ -159,7 +159,7 @@ const faq = faqNode(faqs);
       </p>
       <ul class="m-0 mb-6 flex list-none flex-wrap gap-3 p-0">
         {boards.map((b) => (
-          <li class="m-0"><a href={boardPath(b.slug)} class="inline-block rounded-sm border border-rule bg-white px-4 py-2 text-[15px] font-semibold text-navy-800 hover:border-gold-500">{b.name}</a></li>
+          <li class="m-0"><a href={boardPath(b.slug)} class="inline-block rounded-sm border border-rule bg-white px-4 py-2 text-[15px] font-semibold text-navy-800 hover:border-teal-500">{b.name}</a></li>
         ))}
       </ul>
       <p class="m-0 max-w-[80ch] text-[14.5px] leading-[1.7] text-ink-mute"><span class="font-semibold text-navy-800">Subjects with classes:</span> {subjectNames.join(', ')}.</p>
@@ -177,9 +177,9 @@ const faq = faqNode(faqs);
           <caption class="sr-only">Local 5 pm converted to Lahore time</caption>
           <thead>
             <tr class="border-b border-rule text-left">
-              <th scope="col" class="py-2 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Country</th>
-              <th scope="col" class="py-2 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Difference</th>
-              <th scope="col" class="py-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">5:00 pm local is, in Lahore</th>
+              <th scope="col" class="py-2 pr-4 mb-label text-teal-700">Country</th>
+              <th scope="col" class="py-2 pr-4 mb-label text-teal-700">Difference</th>
+              <th scope="col" class="py-2 mb-label text-teal-700">5:00 pm local is, in Lahore</th>
             </tr>
           </thead>
           <tbody>
@@ -204,7 +204,7 @@ const faq = faqNode(faqs);
         <li class="m-0 rounded-sm border border-rule bg-white p-5"><p class="m-0 font-semibold text-navy-800">Indicative</p><p class="m-0 mt-1 text-[15px] text-ink-mute">Currency conversions of the Pakistan fee, shown so you can see the approximate cost in your currency: one-to-one and IB fees in the listed countries outside Pakistan, all Malaysia fees, and US dollar group fees. The exact fee is confirmed in writing before any payment.</p></li>
         <li class="m-0 rounded-sm border border-rule bg-white p-5"><p class="m-0 font-semibold text-navy-800">Every other country: US dollars</p><p class="m-0 mt-1 text-[15px] text-ink-mute">Group classes {formatFee(usdGroup.igcse, 'USD')}–{formatFee(usdGroup.aLevel, 'USD')} USD per subject per month; one-to-one {formatFee(usdOne.igcse, 'USD')}–{formatFee(usdOne.aLevel, 'USD')} USD per class; IB {IB_USD_PRICING.myp} USD (MYP) or {IB_USD_PRICING.dp} USD (Diploma) per 1-hour one-to-one class. Group fees are indicative; one-to-one and IB US dollar prices are set by Marlbridge.</p></li>
       </ul>
-      <p class="m-0 mt-5 max-w-[70ch] text-[15px] text-ink-mute">All figures, discounts and terms are on the <a href={routes.pricing} class="underline decoration-gold-500 underline-offset-2">pricing page</a>. {PRICING_TERMS.billing} {PRICING_TERMS.cancellationPolicy}</p>
+      <p class="m-0 mt-5 max-w-[70ch] text-[15px] text-ink-mute">All figures, discounts and terms are on the <a href={routes.pricing} class="underline decoration-teal-500 underline-offset-2">pricing page</a>. {PRICING_TERMS.billing} {PRICING_TERMS.cancellationPolicy}</p>
     </Container>
   </Section>
 
@@ -214,7 +214,7 @@ const faq = faqNode(faqs);
       <ol class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
         {TRIAL_STEPS.map((step, i) => (
           <li class="m-0 rounded-sm border border-rule bg-ivory p-5">
-            <p class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Step {i + 1}</p>
+            <p class="m-0 mb-label text-teal-700">Step {i + 1}</p>
             <p class="m-0 mt-1 text-[16px] font-semibold text-navy-800">{step.title}</p>
             <p class="m-0 mt-2 text-[14.5px] leading-[1.6] text-ink-mute">{step.body}</p>
           </li>

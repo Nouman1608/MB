@@ -33,11 +33,11 @@ const { surface = 'ivory' } = Astro.props;
         <li class="m-0 flex h-full flex-col rounded-sm border border-rule bg-white p-[clamp(24px,2.6vw,36px)]">
           <h3 class="m-0 text-[21px] font-semibold tracking-[-0.015em] text-navy-800">{f.name}</h3>
           <dl class="m-0 mt-5 grid gap-3.5 text-[15.5px] leading-[1.6]">
-            <div><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Class format</dt><dd class="m-0 mt-1 text-ink-mute">{f.format}</dd></div>
-            <div><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Class size</dt><dd class="m-0 mt-1 text-ink-mute">{f.groupSize}</dd></div>
-            <div><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">How fees are charged</dt><dd class="m-0 mt-1 text-ink-mute">{f.billing}</dd></div>
-            <div><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Discounts</dt><dd class="m-0 mt-1 text-ink-mute">{f.discounts}</dd></div>
-            <div><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Free trial</dt><dd class="m-0 mt-1 text-ink-mute">{f.trial}</dd></div>
+            <div><dt class="m-0 mb-label text-teal-700">Class format</dt><dd class="m-0 mt-1 text-ink-mute">{f.format}</dd></div>
+            <div><dt class="m-0 mb-label text-teal-700">Class size</dt><dd class="m-0 mt-1 text-ink-mute">{f.groupSize}</dd></div>
+            <div><dt class="m-0 mb-label text-teal-700">How fees are charged</dt><dd class="m-0 mt-1 text-ink-mute">{f.billing}</dd></div>
+            <div><dt class="m-0 mb-label text-teal-700">Discounts</dt><dd class="m-0 mt-1 text-ink-mute">{f.discounts}</dd></div>
+            <div><dt class="m-0 mb-label text-teal-700">Free trial</dt><dd class="m-0 mt-1 text-ink-mute">{f.trial}</dd></div>
           </dl>
         </li>
       ))}

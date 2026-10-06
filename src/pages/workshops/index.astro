@@ -38,14 +38,14 @@ const published = workshops.filter((w) => !isDraft(w));
   <Section surface="white" spacing="md">
     <Container>
       {rows.length === 0 ? (
-        <p class="m-0 max-w-[62ch] rounded-sm border border-dashed border-rule bg-ivory p-6 text-[15.5px] text-ink-mute">No workshops are scheduled right now. In the meantime, the <a href="/revision-planner/" class="underline decoration-gold-500 underline-offset-2">revision planner</a> and <a href="/practice/" class="underline decoration-gold-500 underline-offset-2">free practice</a> are open to everyone.</p>
+        <p class="m-0 max-w-[62ch] rounded-sm border border-dashed border-rule bg-ivory p-6 text-[15.5px] text-ink-mute">No workshops are scheduled right now. In the meantime, the <a href="/revision-planner/" class="underline decoration-teal-500 underline-offset-2">revision planner</a> and <a href="/practice/" class="underline decoration-teal-500 underline-offset-2">free practice</a> are open to everyone.</p>
       ) : (
         <ul class="m-0 grid list-none gap-4 p-0" data-workshop-list>
           {rows.map(({ w, teacher, ends }) => (
             <li class="m-0" data-ends={ends}>
-              <a href={`/workshops/${w.id}/`} class="block rounded-sm border border-rule bg-white p-5 hover:border-gold-500">
+              <a href={`/workshops/${w.id}/`} class="block rounded-sm border border-rule bg-white p-5 hover:border-teal-500">
                 {isDraft(w) && <span class="mb-2 inline-block rounded-sm bg-[#fff4d6] px-2 py-0.5 text-[12px] font-medium text-[#6b4b00]">DRAFT — not published</span>}
-                <span class="block font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">{w.data.syllabusCodes.join(', ')} · {w.data.topic}</span>
+                <span class="block mb-label text-teal-700">{w.data.syllabusCodes.join(', ')} · {w.data.topic}</span>
                 <span class="mt-1 block text-[18px] font-semibold text-navy-800">{w.data.title}</span>
                 <span class="mt-1 block text-[14.5px] text-ink-mute">{teacher?.data.name} · {formatInZone(w.data.startsAt, 'UTC')} UTC ({formatInZone(w.data.startsAt, TEACHING_TIME_ZONE)} Pakistan time) · {w.data.durationMinutes} min</span>
                 <span class="mt-1 block text-[14px] text-ink" data-local-time={w.data.startsAt}></span>

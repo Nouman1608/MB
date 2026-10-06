@@ -67,7 +67,7 @@ const choice = 'flex min-h-11 cursor-pointer items-center gap-2 rounded-sm borde
   </div>
 
   <div class="rounded-sm bg-ivory p-5">
-    <p class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Estimate</p>
+    <p class="m-0 mb-label text-teal-700">Estimate</p>
     <output data-fc-out for="fc-region fc-igcse fc-alevel fc-classes" aria-live="polite" class="mt-2 block text-[15px] leading-relaxed">
       <noscript>The calculator needs JavaScript. Every fee is in the tables below.</noscript>
     </output>
@@ -108,7 +108,7 @@ const choice = 'flex min-h-11 cursor-pointer items-center gap-2 rounded-sm borde
           p(`Discount (${r.discountPercent}%): −${money(r.discountAmount)}`, 'm-0');
         }
         p(`Total: ${money(r.total)} ${r.period}`, 'm-0 mt-2 text-[20px] font-semibold text-navy-800');
-        if (r.indicative) p('Indicative', 'm-0 mt-1 inline-block rounded-sm border border-gold-500 px-1.5 py-0.5 font-mono text-[10.5px] uppercase tracking-[0.08em] text-gold-600');
+        if (r.indicative) p('Indicative', 'm-0 mt-1 inline-block rounded-sm border border-gold-500 px-1.5 py-0.5 mb-label text-teal-700');
       }
       const ul = document.createElement('ul');
       ul.className = 'm-0 mt-3 grid gap-1 ps-4 text-[13.5px] text-ink-mute';

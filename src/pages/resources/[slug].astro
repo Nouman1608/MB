@@ -22,6 +22,7 @@ import { teachersForSubjectTitle } from '../../utils/content/subject-teachers';
 import ResourceNextSteps from '../../components/tools/ResourceNextSteps.astro';
 import { resourceNextSteps, resourceCoursePlans } from '../../utils/content/resource-next-steps';
 import { topicAnchor } from '../../utils/academic/course-topics';
+import { STUDY_KIND } from '../../utils/academic/combination-resources';
 import { onThisTopicLinks } from '../../utils/content/next-steps';
 import VideoSection from '../../components/media/VideoSection.astro';
 import { videosForResource } from '../../utils/content/media';
@@ -274,9 +275,10 @@ const jsonLd = [articleNode({
   description={d.seoDescription ?? d.description}
   path={path}
   eyebrow={meta.title}
+  eyebrowMode={STUDY_KIND[d.resourceType]}
   heading={d.title}
   lead={d.description}
-  headingFont="display"
+  headingFont="sans"
   type="article"
   publishedDate={d.publishedDate}
   updatedDate={d.updatedDate}
@@ -305,16 +307,16 @@ const jsonLd = [articleNode({
           data-crumb-topic-label={crumbFor(p).topic.label} data-crumb-topic-href={crumbFor(p).topic.href}
           class="grid gap-1">
           <p class="m-0 flex flex-wrap items-baseline gap-x-3">
-            <span class="font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Course</span>
-            <a href={p.hubHref} class="inline-flex min-h-11 items-center font-semibold sm:min-h-0 text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{p.label}</a>
+            <span class="mb-label text-teal-700">Course</span>
+            <a href={p.hubHref} class="inline-flex min-h-11 items-center font-semibold sm:min-h-0 text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{p.label}</a>
           </p>
           <p class="m-0 flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1">
             {p.topic
-              ? <a href={`${p.hubHref}#${topicAnchor(p.topic.slug)}`} class="inline-flex min-h-11 items-center text-navy-800 underline decoration-gold-500 sm:min-h-0 underline-offset-2 hover:text-gold-600">Topic {p.topic.number}: {p.topic.name}</a>
+              ? <a href={`${p.hubHref}#${topicAnchor(p.topic.slug)}`} class="inline-flex min-h-11 items-center text-navy-800 underline decoration-teal-500 sm:min-h-0 underline-offset-2 hover:text-teal-700">Topic {p.topic.number}: {p.topic.name}</a>
               : <span class="text-ink-mute">Covers more than one topic</span>}
             <span class="flex gap-x-3">
-              <a href={`${p.hubHref}#topics`} class="inline-flex min-h-11 items-center text-ink-mute underline decoration-gold-500 sm:min-h-0 underline-offset-2 hover:text-gold-600">All topics</a>
-              <a href={routes.resources} data-change-course class="inline-flex min-h-11 items-center text-ink-mute underline decoration-gold-500 sm:min-h-0 underline-offset-2 hover:text-gold-600">Change course</a>
+              <a href={`${p.hubHref}#topics`} class="inline-flex min-h-11 items-center text-ink-mute underline decoration-teal-500 sm:min-h-0 underline-offset-2 hover:text-teal-700">All topics</a>
+              <a href={routes.resources} data-change-course class="inline-flex min-h-11 items-center text-ink-mute underline decoration-teal-500 sm:min-h-0 underline-offset-2 hover:text-teal-700">Change course</a>
             </span>
           </p>
         </div>
@@ -323,7 +325,7 @@ const jsonLd = [articleNode({
         <p class="m-0 mt-1.5 text-[13.5px] text-ink-mute" data-course-also>
           Also written for:{' '}
           {coursePlans.map((p, i) => (
-            <a href={p.hubHref} data-course-also-link={p.id} hidden={i === 0} class="me-2 underline decoration-rule underline-offset-2 hover:text-gold-600">{p.label}</a>
+            <a href={p.hubHref} data-course-also-link={p.id} hidden={i === 0} class="me-2 underline decoration-rule underline-offset-2 hover:text-teal-700">{p.label}</a>
           ))}
         </p>
       )}
@@ -334,13 +336,13 @@ const jsonLd = [articleNode({
     <div slot="hero-extra" data-testid="on-this-topic" class="mt-4">
       {(coursePlans.length > 0 ? onThisTopicOptions : [{ id: '', links: onThisTopic }]).map((o, i) => (
         <nav aria-labelledby={`on-this-topic-label-${i}`} data-course-option={o.id || undefined} hidden={i > 0} class="flex flex-wrap items-center gap-x-3 gap-y-1 text-[14.5px]">
-          <span id={`on-this-topic-label-${i}`} class="font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">On this topic:</span>
+          <span id={`on-this-topic-label-${i}`} class="mb-label text-teal-700">On this topic:</span>
           {o.links.length > 0 ? (
             <ul class="m-0 flex list-none flex-wrap items-center gap-x-2 gap-y-1 p-0">
               {o.links.map((l, j) => (
                 <li class="m-0 flex items-center gap-x-2">
                   {j > 0 && <span aria-hidden="true" class="text-ink-mute">·</span>}
-                  <a href={l.href} data-on-this-topic={l.kind} title={l.title} class="inline-flex min-h-11 items-center font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600 sm:min-h-6">{l.label}</a>
+                  <a href={l.href} data-on-this-topic={l.kind} title={l.title} class="inline-flex min-h-11 items-center font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700 sm:min-h-6">{l.label}</a>
                 </li>
               ))}
             </ul>
@@ -351,17 +353,17 @@ const jsonLd = [articleNode({
   )}
 
   <dl slot="hero-extra" class="m-0 mt-7 flex flex-wrap gap-x-8 gap-y-3 text-[14px]">
-    <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Subject </dt><dd class="m-0 inline"><a href={routes.subject(d.subject.id)} data-pagefind-filter="Subject" class="underline decoration-rule underline-offset-2">{subject?.data.title}</a></dd></div>
-    <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Level </dt><dd class="m-0 inline text-ink-mute" data-pagefind-filter="Level">{levels}</dd></div>
-    {d.curriculum && <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Curriculum </dt><dd class="m-0 inline text-ink-mute">{d.curriculum}</dd></div>}
-    {d.topic && <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Topic </dt><dd class="m-0 inline text-ink-mute">{d.topic}</dd></div>}
-    {author && <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Author </dt><dd class="m-0 inline text-ink-mute"><a href={routes.author(author.id)} class="underline decoration-rule underline-offset-2">{author.data.name}</a></dd></div>}
-    <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Updated </dt><dd class="m-0 inline text-ink-mute"><time datetime={(d.updatedDate ?? d.publishedDate).toISOString()}>{formatDate(d.updatedDate ?? d.publishedDate)}</time></dd></div>
+    <div class="m-0"><dt class="m-0 inline mb-label text-teal-700">Subject </dt><dd class="m-0 inline"><a href={routes.subject(d.subject.id)} data-pagefind-filter="Subject" class="underline decoration-rule underline-offset-2">{subject?.data.title}</a></dd></div>
+    <div class="m-0"><dt class="m-0 inline mb-label text-teal-700">Level </dt><dd class="m-0 inline text-ink-mute" data-pagefind-filter="Level">{levels}</dd></div>
+    {d.curriculum && <div class="m-0"><dt class="m-0 inline mb-label text-teal-700">Curriculum </dt><dd class="m-0 inline text-ink-mute">{d.curriculum}</dd></div>}
+    {d.topic && <div class="m-0"><dt class="m-0 inline mb-label text-teal-700">Topic </dt><dd class="m-0 inline text-ink-mute">{d.topic}</dd></div>}
+    {author && <div class="m-0"><dt class="m-0 inline mb-label text-teal-700">Author </dt><dd class="m-0 inline text-ink-mute"><a href={routes.author(author.id)} class="underline decoration-rule underline-offset-2">{author.data.name}</a></dd></div>}
+    <div class="m-0"><dt class="m-0 inline mb-label text-teal-700">Updated </dt><dd class="m-0 inline text-ink-mute"><time datetime={(d.updatedDate ?? d.publishedDate).toISOString()}>{formatDate(d.updatedDate ?? d.publishedDate)}</time></dd></div>
     {specCheckEntry && (
-      <div class="m-0" data-spec-check={d.specCheck!.scope}><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Checked by </dt><dd class="m-0 inline text-ink-mute"><a href={routes.author(specCheckEntry.id)} class="underline decoration-rule underline-offset-2">{specCheckEntry.data.name}</a>, against {d.specCheck!.scope === 'official-specification' ? 'the official specification' : "the board's public course documents"}, <time datetime={d.specCheck!.date.toISOString()}>{formatDate(d.specCheck!.date)}</time> <a href="/legal/editorial-policy/#specification-check" class="text-[12.5px] underline decoration-rule underline-offset-2">(what this means)</a></dd></div>
+      <div class="m-0" data-spec-check={d.specCheck!.scope}><dt class="m-0 inline mb-label text-teal-700">Checked by </dt><dd class="m-0 inline text-ink-mute"><a href={routes.author(specCheckEntry.id)} class="underline decoration-rule underline-offset-2">{specCheckEntry.data.name}</a>, against {d.specCheck!.scope === 'official-specification' ? 'the official specification' : "the board's public course documents"}, <time datetime={d.specCheck!.date.toISOString()}>{formatDate(d.specCheck!.date)}</time> <a href="/legal/editorial-policy/#specification-check" class="text-[12.5px] underline decoration-rule underline-offset-2">(what this means)</a></dd></div>
     )}
     {genuinelyReviewed && (
-      <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Reviewed by </dt><dd class="m-0 inline text-ink-mute"><a href={routes.author(reviewerEntry!.id)} class="underline decoration-rule underline-offset-2">{reviewerEntry!.data.name}</a> <a href="/legal/editorial-policy/#academic-review-policy" class="text-[12.5px] underline decoration-rule underline-offset-2">(what this means)</a></dd></div>
+      <div class="m-0"><dt class="m-0 inline mb-label text-teal-700">Reviewed by </dt><dd class="m-0 inline text-ink-mute"><a href={routes.author(reviewerEntry!.id)} class="underline decoration-rule underline-offset-2">{reviewerEntry!.data.name}</a> <a href="/legal/editorial-policy/#academic-review-policy" class="text-[12.5px] underline decoration-rule underline-offset-2">(what this means)</a></dd></div>
     )}
   </dl>
 
@@ -379,7 +381,7 @@ const jsonLd = [articleNode({
       {alignedToText}{officialSyllabuses.map((s) => (
         <>
           {' '}
-          <a href={s.officialUrl} rel="noopener" class="underline decoration-gold-500 underline-offset-2">
+          <a href={s.officialUrl} rel="noopener" class="underline decoration-teal-500 underline-offset-2">
             Official specification{officialSyllabuses.length > 1 && ` (${qualificationBySlug(s.qualificationSlug)?.name ?? s.qualificationSlug})`}
           </a>
           {officialSyllabuses.indexOf(s) === officialSyllabuses.length - 1 ? '.' : ';'}
@@ -391,7 +393,7 @@ const jsonLd = [articleNode({
         Syllabus page (what it covers and how it is assessed):{' '}
         {syllabusHubs.map((h, i) => (
           <>
-            <a href={h.href} class="underline decoration-gold-500 underline-offset-2">{h.label}</a>{i < syllabusHubs.length - 1 ? '; ' : '.'}
+            <a href={h.href} class="underline decoration-teal-500 underline-offset-2">{h.label}</a>{i < syllabusHubs.length - 1 ? '; ' : '.'}
           </>
         ))}
       </p>
@@ -412,7 +414,7 @@ const jsonLd = [articleNode({
         {hasTieredPoints && <p class="m-0 mt-2">"Core and Extended" means part of that syllabus point is Extended only. The page's own tier notes say which part.</p>}
       </details>
     )}
-    <p class="m-0 mt-1"><a href={correctionHref} class="underline decoration-gold-500 underline-offset-2">Found an error? Report a correction.</a></p>
+    <p class="m-0 mt-1"><a href={correctionHref} class="underline decoration-teal-500 underline-offset-2">Found an error? Report a correction.</a></p>
     {/* D-326 -- GA4 (27 Aug-23 Sep 2026): resource pages take ~60% of views,
         but only ~13% of visitors scroll to the tuition block at the foot of
         the page, and 3 trial clicks came from all resource pages combined.
@@ -421,9 +423,9 @@ const jsonLd = [articleNode({
     {classesAvailable && (
       <p class="m-0 mt-1">
         {taughtCourseLabel
-          ? <>Need help with this topic? <a href={courseTrialHref} data-cta="resource-trial-top" class="font-medium text-navy-800 underline decoration-gold-500 underline-offset-2">Request a free trial class for {taughtCourseLabel}</a>.</>
+          ? <>Need help with this topic? <a href={courseTrialHref} data-cta="resource-trial-top" class="font-medium text-navy-800 underline decoration-teal-500 underline-offset-2">Request a free trial class for {taughtCourseLabel}</a>.</>
           : <>Want a teacher for this? Marlbridge teaches {subject?.data.title ?? 'this subject'} online.{' '}
-            <a href={courseTrialHref} data-cta="resource-trial-top" class="font-medium text-navy-800 underline decoration-gold-500 underline-offset-2">Request a free trial class</a>.</>}
+            <a href={courseTrialHref} data-cta="resource-trial-top" class="font-medium text-navy-800 underline decoration-teal-500 underline-offset-2">Request a free trial class</a>.</>}
       </p>
     )}
   </div>
@@ -450,14 +452,14 @@ const jsonLd = [articleNode({
       {(siblings.prev || siblings.next) && (
         <nav aria-label="Topic sequence" class="mt-12 grid gap-4 border-t border-rule pt-6 sm:grid-cols-2">
           {siblings.prev && (
-            <a href={resourceUrl(siblings.prev)} class="rounded-sm border border-rule p-5 hover:border-gold-500">
-              <span class="block font-mono text-[11px] uppercase tracking-[0.1em] text-ink-mute">Previous</span>
+            <a href={resourceUrl(siblings.prev)} class="rounded-sm border border-rule p-5 hover:border-teal-500">
+              <span class="block mb-label text-ink-mute">Previous</span>
               <span class="mt-1 block text-[17px] font-semibold text-navy-800">{siblings.prev.data.title}</span>
             </a>
           )}
           {siblings.next && (
-            <a href={resourceUrl(siblings.next)} class="rounded-sm border border-rule p-5 text-end hover:border-gold-500 sm:col-start-2">
-              <span class="block font-mono text-[11px] uppercase tracking-[0.1em] text-ink-mute">Next</span>
+            <a href={resourceUrl(siblings.next)} class="rounded-sm border border-rule p-5 text-end hover:border-teal-500 sm:col-start-2">
+              <span class="block mb-label text-ink-mute">Next</span>
               <span class="mt-1 block text-[17px] font-semibold text-navy-800">{siblings.next.data.title}</span>
             </a>
           )}
@@ -484,7 +486,7 @@ const jsonLd = [articleNode({
     <Container>
       <div class="grid items-start gap-6 lg:grid-cols-[1.5fr_1fr] lg:gap-[clamp(32px,5vw,72px)]">
         <div>
-          <p class="m-0 mb-3 text-xs font-medium uppercase tracking-[0.2em] text-gold-600">Studying this with a teacher</p>
+          <p class="m-0 mb-3 mb-eyebrow text-teal-700">Studying this with a teacher</p>
           <h2 class="m-0 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">
             {studyLabel ? `Working through ${studyLabel}?` : 'Working through this with a teacher?'}
           </h2>
@@ -502,11 +504,11 @@ const jsonLd = [articleNode({
           )}
           {subjectTeachers.length > 0 && (
             <div data-testid="subject-teachers" class="mt-6">
-              <p class="m-0 mb-3 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{teacherBoardLabel ? `${teacherBoardLabel} ${subject?.data.title} teachers at Marlbridge` : `${subject?.data.title} teachers at Marlbridge`}</p>
+              <p class="m-0 mb-3 mb-label text-teal-700">{teacherBoardLabel ? `${teacherBoardLabel} ${subject?.data.title} teachers at Marlbridge` : `${subject?.data.title} teachers at Marlbridge`}</p>
               <ul class="m-0 flex list-none flex-wrap gap-3 p-0">
                 {subjectTeachers.map((t) => (
                   <li class="m-0">
-                    <a href={routes.author(t.id)} class="flex items-center gap-3 rounded-sm border border-rule bg-white py-2 pe-4 ps-2 hover:border-gold-500">
+                    <a href={routes.author(t.id)} class="flex items-center gap-3 rounded-sm border border-rule bg-white py-2 pe-4 ps-2 hover:border-teal-500">
                       {t.data.image ? (
                         <img src={t.data.image} alt="" width="40" height="40" class="h-10 w-10 shrink-0 rounded-full object-cover" loading="lazy" decoding="async" />
                       ) : (
@@ -529,7 +531,7 @@ const jsonLd = [articleNode({
           {classesAvailable ? (
             <>
               <a href={courseTrialHref} data-cta="resource-trial" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-6 py-3 text-[15px] font-medium text-ivory transition-colors duration-150 hover:bg-navy-700">Request a free trial</a>
-              <a href={routes.tutoring} class="text-[15px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-4 hover:text-gold-600">Meet the teachers</a>
+              <a href={routes.tutoring} class="text-[15px] font-medium text-navy-800 underline decoration-teal-500 underline-offset-4 hover:text-teal-700">Meet the teachers</a>
             </>
           ) : (
             <a href={routes.resources} class="inline-flex min-h-11 items-center justify-center rounded-sm border border-navy-800 px-6 py-3 text-[15px] font-medium text-navy-800 hover:bg-white">Browse free resources</a>

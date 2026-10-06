@@ -13,14 +13,14 @@ import { routes } from '../../utils/urls/routes';
 ---
 <Section surface="navy" labelledby="cta-heading">
   <Container class="flex flex-col items-center gap-6 text-center">
-    <h2 id="cta-heading" class="m-0 max-w-[24ch] font-display text-[length:var(--text-h1)] font-normal leading-[1.1] tracking-[-0.02em] text-white">
+    <h2 id="cta-heading" class="m-0 max-w-[24ch] font-display text-[length:var(--text-h1)] font-bold leading-[1.06] tracking-[-0.025em] text-white">
       Try a class before you decide anything.
     </h2>
     <p class="m-0 max-w-[54ch] text-[17.5px] leading-[1.6] text-on-navy">
       {PRICING_TERMS.freeTrial} Tell us the subject and level, and we will confirm a specialist teacher and a time that works where you are. {PRICING_TERMS.enquiryResponse.short}
     </p>
     <div class="mt-1.5 flex flex-wrap justify-center gap-3.5">
-      <Button href={routes.trial} variant="onDark" size="lg" data-cta="final-trial">Request a free trial</Button>
+      <Button href={routes.trial} variant="highlight" size="lg" data-cta="final-trial">Request a free trial</Button>
       <Button href={routes.pricing} variant="onDarkGhost" size="lg">See tuition fees</Button>
     </div>
   </Container>

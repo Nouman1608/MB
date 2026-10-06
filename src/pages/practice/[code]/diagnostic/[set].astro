@@ -135,16 +135,16 @@ const trialHref = `/trial/?course=${encodeURIComponent(courseId)}&source=diagnos
       <div id="diag-intro" class="grid gap-8 lg:grid-cols-[1.3fr_1fr]">
         <div>
           <dl class="m-0 grid gap-x-8 gap-y-4 rounded-sm border border-rule bg-ivory p-[clamp(18px,2.4vw,28px)] text-[15px] sm:grid-cols-2">
-            <div><dt class="font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Qualification</dt><dd class="m-0 mt-1">{courseTitle}</dd></div>
-            <div><dt class="font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Exam board and syllabus</dt><dd class="m-0 mt-1">{c.board} · syllabus {set.code}{topicRecord ? ` (${topicRecord.syllabusSeries})` : ''}</dd></div>
-            <div><dt class="font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">What it covers</dt><dd class="m-0 mt-1">{set.scopeLabel}: {[...new Set(questions.map((q) => q.topicName))].join(', ')}</dd></div>
-            <div><dt class="font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Length</dt><dd class="m-0 mt-1">{questions.length} questions, {totalMarks} marks, about {set.minutes} minutes</dd></div>
-            <div class="sm:col-span-2"><dt class="font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Who it is for</dt><dd class="m-0 mt-1">{set.audience}</dd></div>
+            <div><dt class="mb-label text-teal-700">Qualification</dt><dd class="m-0 mt-1">{courseTitle}</dd></div>
+            <div><dt class="mb-label text-teal-700">Exam board and syllabus</dt><dd class="m-0 mt-1">{c.board} · syllabus {set.code}{topicRecord ? ` (${topicRecord.syllabusSeries})` : ''}</dd></div>
+            <div><dt class="mb-label text-teal-700">What it covers</dt><dd class="m-0 mt-1">{set.scopeLabel}: {[...new Set(questions.map((q) => q.topicName))].join(', ')}</dd></div>
+            <div><dt class="mb-label text-teal-700">Length</dt><dd class="m-0 mt-1">{questions.length} questions, {totalMarks} marks, about {set.minutes} minutes</dd></div>
+            <div class="sm:col-span-2"><dt class="mb-label text-teal-700">Who it is for</dt><dd class="m-0 mt-1">{set.audience}</dd></div>
           </dl>
           <button type="button" id="diag-start" class="mt-6 inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-7 py-3.5 text-[15px] font-medium text-ivory transition-colors hover:bg-navy-700">Start the diagnostic</button>
-          <noscript><p class="m-0 mt-4 text-[14.5px] text-ink-mute">This diagnostic needs JavaScript. The same questions are in the <a href={`/practice/${set.code}/`} class="underline decoration-gold-500 underline-offset-2">practice questions for {set.code}</a>.</p></noscript>
+          <noscript><p class="m-0 mt-4 text-[14.5px] text-ink-mute">This diagnostic needs JavaScript. The same questions are in the <a href={`/practice/${set.code}/`} class="underline decoration-teal-500 underline-offset-2">practice questions for {set.code}</a>.</p></noscript>
           {otherSets.length > 0 && (
-            <p class="m-0 mt-4 text-[14.5px] text-ink-mute">Also available: {otherSets.map((o, i) => <>{i > 0 && ', '}<a href={diagnosticPath(o)} class="underline decoration-gold-500 underline-offset-2">{o.scopeLabel}</a></>)}.</p>
+            <p class="m-0 mt-4 text-[14.5px] text-ink-mute">Also available: {otherSets.map((o, i) => <>{i > 0 && ', '}<a href={diagnosticPath(o)} class="underline decoration-teal-500 underline-offset-2">{o.scopeLabel}</a></>)}.</p>
           )}
         </div>
         <aside class="text-[14.5px] leading-[1.6] text-ink-mute">
@@ -158,11 +158,11 @@ const trialHref = `/trial/?course=${encodeURIComponent(courseId)}&source=diagnos
             <p class="m-0 mt-4">The questions are original, written to test the skills and the mistakes examiners reported in {set.modelledOn}. No exam-board questions are reproduced. {everyAnswerHasPointer ? 'Each worked answer names the real past-paper question to try next.' : 'Most worked answers name the real past-paper question to try next.'}</p>
           )}
           <p class="m-0 mt-4"><strong class="text-ink">This is a short study check, not a predicted grade.</strong> One question per topic shows where to look first. It cannot measure a whole topic or forecast an exam result.</p>
-          <p class="m-0 mt-4">The questions come from Marlbridge's published <a href={`/practice/${set.code}/`} class="underline decoration-gold-500 underline-offset-2">{set.code} practice questions</a>, written by {authors.map((a, i) => <>{i > 0 && (i === authors.length - 1 ? ' and ' : ', ')}<a href={routes.author(a!.id)} class="underline decoration-gold-500 underline-offset-2">{a!.data.name}</a></>)}.
+          <p class="m-0 mt-4">The questions come from Marlbridge's published <a href={`/practice/${set.code}/`} class="underline decoration-teal-500 underline-offset-2">{set.code} practice questions</a>, written by {authors.map((a, i) => <>{i > 0 && (i === authors.length - 1 ? ' and ' : ', ')}<a href={routes.author(a!.id)} class="underline decoration-teal-500 underline-offset-2">{a!.data.name}</a></>)}.
             {reviewer
-              ? <> This set was reviewed by <a href={routes.author(reviewer.id)} class="underline decoration-gold-500 underline-offset-2">{reviewer.data.name}</a> on {set.setReview!.reviewedOn}.</>
+              ? <> This set was reviewed by <a href={routes.author(reviewer.id)} class="underline decoration-teal-500 underline-offset-2">{reviewer.data.name}</a> on {set.setReview!.reviewedOn}.</>
               : <> This selection has not yet been reviewed as a set by a subject teacher.</>}
-            {' '}<a href={routes.reportCorrection} class="underline decoration-gold-500 underline-offset-2">Report an error</a>.</p>
+            {' '}<a href={routes.reportCorrection} class="underline decoration-teal-500 underline-offset-2">Report an error</a>.</p>
         </aside>
       </div>
 
@@ -172,12 +172,12 @@ const trialHref = `/trial/?course=${encodeURIComponent(courseId)}&source=diagnos
           <p class="m-0 text-ink-mute">Time: <span id="diag-timer" class="font-mono">0:00</span> <span class="text-ink-mute">(about {set.minutes} min)</span></p>
         </div>
         <article class="rounded-sm border border-rule bg-white p-[clamp(20px,3vw,34px)]" aria-labelledby="diag-qlabel">
-          <p id="diag-qlabel" class="m-0 mb-3 text-[12px] font-medium uppercase tracking-[0.1em] text-gold-600"></p>
+          <p id="diag-qlabel" class="m-0 mb-3 mb-label text-teal-700"></p>
           <div id="diag-question" class="diag-prose text-[16.5px] leading-[1.65] text-ink"></div>
           <label for="diag-answer" class="mt-5 block text-[14px] font-medium">Your answer <span class="font-normal text-ink-mute">(optional — or write on paper; not saved)</span></label>
           <textarea id="diag-answer" rows="4" class="mt-1.5 w-full rounded-sm border border-rule px-3 py-2 text-[15.5px]"></textarea>
           <div class="mt-5 flex flex-wrap gap-3">
-            <button type="button" id="diag-prev" class="min-h-11 rounded-sm border border-rule bg-white px-5 text-[14.5px] font-medium hover:border-gold-500">← Previous</button>
+            <button type="button" id="diag-prev" class="min-h-11 rounded-sm border border-rule bg-white px-5 text-[14.5px] font-medium hover:border-teal-500">← Previous</button>
             <button type="button" id="diag-next" class="min-h-11 rounded-sm bg-navy-800 px-5 text-[14.5px] font-medium text-ivory hover:bg-navy-700">Next question →</button>
           </div>
         </article>
@@ -206,12 +206,12 @@ const trialHref = `/trial/?course=${encodeURIComponent(courseId)}&source=diagnos
               <p id="diag-next-session" class="m-0 text-[15px] text-ink"></p>
               <div class="mt-4 flex flex-wrap gap-2.5">
                 <a id="diag-plan-link" href={`/revision-planner/?course=${encodeURIComponent(courseId)}&from=diagnostic`} class="inline-flex min-h-11 items-center rounded-sm bg-navy-800 px-5 text-[14.5px] font-medium text-ivory hover:bg-navy-700">Make my revision plan</a>
-                <a href={`/practice/${set.code}/`} class="inline-flex min-h-11 items-center rounded-sm border border-rule bg-white px-5 text-[14.5px] font-medium hover:border-gold-500">Practise more {set.code} questions</a>
+                <a href={`/practice/${set.code}/`} class="inline-flex min-h-11 items-center rounded-sm border border-rule bg-white px-5 text-[14.5px] font-medium hover:border-teal-500">Practise more {set.code} questions</a>
               </div>
             </div>
             <div id="diag-trial-box" class="rounded-sm border border-rule bg-white p-5">
               <p id="diag-trial-text" class="m-0 text-[15px] text-ink">Want help with these topics? Request a free class with a {c.subject} teacher.</p>
-              <a id="diag-trial-link" href={trialHref} data-cta="diagnostic-trial" data-subject={c.subject} class="mt-3 inline-flex min-h-11 items-center text-[14.5px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">Request a free trial class</a>
+              <a id="diag-trial-link" href={trialHref} data-cta="diagnostic-trial" data-subject={c.subject} class="mt-3 inline-flex min-h-11 items-center text-[14.5px] font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">Request a free trial class</a>
               <p class="m-0 mt-2 text-[13px] text-ink-mute">Optional. Your results are not sent with it.</p>
             </div>
           </div>
@@ -219,8 +219,8 @@ const trialHref = `/trial/?course=${encodeURIComponent(courseId)}&source=diagnos
         <h3 class="m-0 mb-3 mt-10 text-[17px] font-semibold text-navy-800">Worked answers</h3>
         <ol id="diag-review" class="m-0 grid list-none gap-4 p-0"></ol>
         <div class="mt-8 flex flex-wrap gap-3">
-          <button type="button" id="diag-restart" class="min-h-11 rounded-sm border border-rule bg-white px-5 text-[14.5px] font-medium hover:border-gold-500">Take it again</button>
-          <a href={hub} class="inline-flex min-h-11 items-center rounded-sm px-2 text-[14.5px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-2">All {set.code} notes and topics</a>
+          <button type="button" id="diag-restart" class="min-h-11 rounded-sm border border-rule bg-white px-5 text-[14.5px] font-medium hover:border-teal-500">Take it again</button>
+          <a href={hub} class="inline-flex min-h-11 items-center rounded-sm px-2 text-[14.5px] font-medium text-navy-800 underline decoration-teal-500 underline-offset-2">All {set.code} notes and topics</a>
         </div>
         <div class="mt-10">
           <SubscribeBox source="diagnostic" preset={{ qualification: c.qualificationSlug, courseId }} />

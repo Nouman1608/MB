@@ -115,7 +115,7 @@ const jsonLd = [...siteGraph(), webPageNode(path, title, description)];
         <a href={path} class="shrink-0 text-[17px] font-semibold text-ivory">Marlbridge</a>
         <nav aria-label="Primary" class="hidden flex-wrap items-center gap-x-5 gap-y-1 text-[14.5px] lg:flex">
           {nav.primaryNav.map((item) => (
-            <a href={localePath(locale, item.key)} class="border-b border-transparent py-1 text-ivory hover:border-gold-500 hover:text-white">{item.label}</a>
+            <a href={localePath(locale, item.key)} class="border-b border-transparent py-1 text-ivory hover:border-teal-500 hover:text-white">{item.label}</a>
           ))}
         </nav>
         <div class="flex shrink-0 items-center gap-3">
@@ -143,7 +143,7 @@ const jsonLd = [...siteGraph(), webPageNode(path, title, description)];
     {(heading || lead) && (
       <section class="border-b border-navy-rule bg-white px-[var(--spacing-gutter)] py-10">
         <div class="mx-auto max-w-[var(--container-site)]">
-          {eyebrow && <p class="m-0 mb-3 text-[13px] font-semibold uppercase tracking-[0.16em] text-gold-600">{eyebrow}</p>}
+          {eyebrow && <p class="m-0 mb-3 mb-label text-teal-700">{eyebrow}</p>}
           {heading && <h1 class="m-0 mb-4 max-w-[26ch] text-[clamp(26px,3.6vw,40px)] font-semibold leading-[1.16] text-navy-900">{heading}</h1>}
           {lead && <p class="m-0 max-w-[62ch] text-[16.5px] leading-[1.65] text-ink-mute">{lead}</p>}
         </div>
@@ -159,7 +159,7 @@ const jsonLd = [...siteGraph(), webPageNode(path, title, description)];
     <footer class="border-t border-navy-rule bg-navy-900 px-[var(--spacing-gutter)] py-12 text-on-navy">
       <div class="mx-auto grid max-w-[var(--container-site)] gap-8 sm:grid-cols-3">
         <div>
-          <h2 class="m-0 mb-3 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-500">{nav.footerExploreHeading}</h2>
+          <h2 class="m-0 mb-3 mb-label text-gold-500">{nav.footerExploreHeading}</h2>
           <ul class="m-0 flex list-none flex-col gap-1.5 p-0 text-[14px]">
             {nav.footerExplore.map((item) => (
               <li><a href={localePath(locale, item.key)} class="text-on-navy-mute hover:text-white">{item.label}</a></li>
@@ -167,7 +167,7 @@ const jsonLd = [...siteGraph(), webPageNode(path, title, description)];
           </ul>
         </div>
         <div>
-          <h2 class="m-0 mb-3 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-500">{nav.footerResourcesHeading}</h2>
+          <h2 class="m-0 mb-3 mb-label text-gold-500">{nav.footerResourcesHeading}</h2>
           <ul class="m-0 flex list-none flex-col gap-1.5 p-0 text-[14px]">
             {nav.footerResources.map((item) => (
               <li><a href={localePath(locale, item.key)} class="text-on-navy-mute hover:text-white">{item.label}</a></li>
@@ -175,7 +175,7 @@ const jsonLd = [...siteGraph(), webPageNode(path, title, description)];
           </ul>
         </div>
         <div>
-          <h2 class="m-0 mb-3 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-500">{nav.footerCompanyHeading}</h2>
+          <h2 class="m-0 mb-3 mb-label text-gold-500">{nav.footerCompanyHeading}</h2>
           <ul class="m-0 flex list-none flex-col gap-1.5 p-0 text-[14px]">
             {nav.footerCompany.map((item) => (
               <li><a href={localePath(locale, item.key)} class="text-on-navy-mute hover:text-white">{item.label}</a></li>
@@ -184,7 +184,7 @@ const jsonLd = [...siteGraph(), webPageNode(path, title, description)];
         </div>
       </div>
       <div class="mx-auto mt-8 flex max-w-[var(--container-site)] flex-wrap items-center justify-between gap-4 border-t border-[#22314B] pt-6">
-        <a href={enUrl} class="text-[13.5px] underline decoration-gold-500 underline-offset-2 text-on-navy-mute hover:text-white">{nav.backToEnglish}</a>
+        <a href={enUrl} class="text-[13.5px] underline decoration-teal-500 underline-offset-2 text-on-navy-mute hover:text-white">{nav.backToEnglish}</a>
         <div class="flex flex-wrap items-center gap-4">
           {/* Same "Cookie Settings" control as the English footer
               (Footer.astro); this layout keeps its own footer markup (see file
@@ -193,7 +193,7 @@ const jsonLd = [...siteGraph(), webPageNode(path, title, description)];
           <button
             type="button"
             data-open-cookie-settings
-            class="m-0 cursor-pointer border-0 bg-transparent p-0 text-[13.5px] text-on-navy-mute underline decoration-gold-500 underline-offset-2 hover:text-white"
+            class="m-0 cursor-pointer border-0 bg-transparent p-0 text-[13.5px] text-on-navy-mute underline decoration-teal-500 underline-offset-2 hover:text-white"
           >{nav.cookieSettingsLabel}</button>
           <p class="m-0 text-[13px] text-on-navy-mute">{nav.copyright}</p>
         </div>

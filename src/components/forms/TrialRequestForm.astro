@@ -116,7 +116,7 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
           </label>
         ))}
       </div>
-      <p class="m-0 mt-1.5 text-[13px] text-ink-mute">Group fees are per subject, per month; one-to-one fees are per class. <a href="/pricing/" class="underline decoration-gold-500 underline-offset-2">See fees</a>.</p>
+      <p class="m-0 mt-1.5 text-[13px] text-ink-mute">Group fees are per subject, per month; one-to-one fees are per class. <a href="/pricing/" class="underline decoration-teal-500 underline-offset-2">See fees</a>.</p>
       <p id="trial-format-err" data-error-for="format" hidden class="m-0 mt-1.5 text-[13.5px] text-error"></p>
     </fieldset>
   </fieldset>
@@ -162,12 +162,12 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
   {site.turnstile.siteKey && <div class="cf-turnstile" data-sitekey={site.turnstile.siteKey} data-theme="light"></div>}
 
   <div class="grid gap-3">
-    <p class="m-0 text-[14px] text-ink-mute">We match you with a specialist teacher and confirm a time with you, in your own time zone. By sending, you agree to our <a href="/legal/privacy/" class="underline decoration-gold-500 underline-offset-2">Privacy Policy</a>; we use your details only to respond.</p>
+    <p class="m-0 text-[14px] text-ink-mute">We match you with a specialist teacher and confirm a time with you, in your own time zone. By sending, you agree to our <a href="/legal/privacy/" class="underline decoration-teal-500 underline-offset-2">Privacy Policy</a>; we use your details only to respond.</p>
     <div class="flex flex-wrap items-center gap-4">
       <button type="submit" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-7 py-3.5 text-[15px] font-medium text-ivory transition-colors hover:bg-navy-700 disabled:opacity-60">Request my free trial class</button>
       <a href={waHref} target="_blank" rel="noopener noreferrer" data-trial-whatsapp class="inline-flex min-h-11 items-center gap-2 text-[15px] font-medium text-navy-800 underline decoration-[#25D366] underline-offset-4">Prefer WhatsApp? Message us</a>
     </div>
-    <p class="m-0 text-[13.5px] text-ink-mute">Or email <a href={`mailto:${FALLBACK_EMAIL}`} class="underline decoration-gold-500 underline-offset-2">{FALLBACK_EMAIL}</a>. The WhatsApp message opens with a general greeting only; add your details in the chat if you wish.</p>
+    <p class="m-0 text-[13.5px] text-ink-mute">Or email <a href={`mailto:${FALLBACK_EMAIL}`} class="underline decoration-teal-500 underline-offset-2">{FALLBACK_EMAIL}</a>. The WhatsApp message opens with a general greeting only; add your details in the chat if you wish.</p>
   </div>
   <div data-form-status role="status" aria-live="polite"></div>
   {/* D-330: shown only after the server has accepted the request (result.ok). */}
@@ -183,7 +183,7 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
       <li>The trial class is free, with no obligation to continue.</li>
     </ol>
     <p data-trial-ack class="m-0 mt-4"></p>
-    <p class="m-0 mt-3">Made a mistake, or need to add something? Email <a href={`mailto:${FALLBACK_EMAIL}`} class="underline decoration-gold-500 underline-offset-2">{FALLBACK_EMAIL}</a> or <a href={waHref} target="_blank" rel="noopener noreferrer" class="underline decoration-[#25D366] underline-offset-2">message us on WhatsApp</a>.</p>
+    <p class="m-0 mt-3">Made a mistake, or need to add something? Email <a href={`mailto:${FALLBACK_EMAIL}`} class="underline decoration-teal-500 underline-offset-2">{FALLBACK_EMAIL}</a> or <a href={waHref} target="_blank" rel="noopener noreferrer" class="underline decoration-[#25D366] underline-offset-2">message us on WhatsApp</a>.</p>
     <p data-trial-next class="m-0 mt-3"></p>
   </section>
 </form>
@@ -361,7 +361,7 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
         const next = panel.querySelector<HTMLElement>('[data-trial-next]')!;
         const course = courseIn.value && has(data.courses, courseIn.value) ? data.courses[courseIn.value] : null;
         const a = document.createElement('a');
-        a.className = 'underline decoration-gold-500 underline-offset-2';
+        a.className = 'underline decoration-teal-500 underline-offset-2';
         if (course) { a.href = course.hub; a.textContent = `${course.label} resources and checklist`; }
         else { a.href = '/diagnostics/'; a.textContent = '10-minute diagnostics'; }
         next.replaceChildren('While you wait, you can use our ', a, '. They are free, with no sign-up.');

@@ -42,7 +42,7 @@ const PAST_PAPER_GUIDES = (await getCollection('resources'))
   <Section surface="white">
     <Container>
       <div class="mx-auto max-w-[360px]">
-        <label for="mb-gt-select" class="m-0 mb-2 block text-[13px] font-medium uppercase tracking-[0.1em] text-ink-mute">Choose a specification</label>
+        <label for="mb-gt-select" class="m-0 mb-2 block mb-label text-ink-mute">Choose a specification</label>
         <select id="mb-gt-select" class="w-full rounded-sm border border-rule bg-white px-4 py-3 text-[16px] text-navy-800 outline-none transition-colors duration-150 focus:border-gold-500">
           {GRADE_THRESHOLDS.map((g) => (
             <option value={g.code}>{g.qualificationLabel} {g.subjectLabel} ({g.code})</option>
@@ -91,7 +91,7 @@ const PAST_PAPER_GUIDES = (await getCollection('resources'))
 
             <p class="m-0 mt-3 text-[13px] text-ink-mute">
               Sourced directly from Cambridge's official grade-threshold document for {g.code}, {g.series}, verified {g.verifiedOn} —
-              {' '}<a href={g.officialSourceUrl} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600" rel="noopener">view the original PDF</a>.
+              {' '}<a href={g.officialSourceUrl} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">view the original PDF</a>.
             </p>
           </div>
         ))}
@@ -122,7 +122,7 @@ const PAST_PAPER_GUIDES = (await getCollection('resources'))
       </p>
       <ul class="m-0 grid list-none gap-2 p-0 text-[14.5px] sm:grid-cols-2">
         {PAST_PAPER_GUIDES.map((g) => (
-          <li><a class="text-navy-800 underline decoration-gold-500 underline-offset-2" href={`/resources/${g.slug}/`}>{g.label}</a></li>
+          <li><a class="text-navy-800 underline decoration-teal-500 underline-offset-2" href={`/resources/${g.slug}/`}>{g.label}</a></li>
         ))}
       </ul>
     </Container>

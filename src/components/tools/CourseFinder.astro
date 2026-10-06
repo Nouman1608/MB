@@ -54,20 +54,20 @@ const H3 = `h${level + 2}` as 'h4' | 'h5';
 const full = mode === 'full';
 /** Compact mode renders no qualification headings, so board headings move up a level. */
 const BoardH = full ? H3 : H2;
-const chip = 'flex min-h-11 cursor-pointer items-center gap-2 rounded-sm border border-rule bg-white px-3.5 text-[15px] text-ink transition-colors hover:border-gold-500 has-[:checked]:border-navy-800 has-[:checked]:bg-ivory has-[:checked]:font-semibold has-[:checked]:text-navy-800';
+const chip = 'flex min-h-11 cursor-pointer items-center gap-2 rounded-full border-2 border-rule bg-white px-4 text-[15px] font-medium text-ink transition-colors hover:border-teal-500 has-[:checked]:border-teal-700 has-[:checked]:bg-teal-50 has-[:checked]:font-semibold has-[:checked]:text-teal-800 has-[:focus-visible]:outline has-[:focus-visible]:outline-2 has-[:focus-visible]:outline-offset-2 has-[:focus-visible]:outline-teal-700';
 const courseLabel = (e: (typeof catalogue)[number]) => `${e.bs === 'ib' ? e.q : `${e.b} ${e.q}`} ${e.s}${e.code && e.bs !== 'ib' ? ` (${e.code})` : ''}`;
 ---
 <div id={id} data-course-finder data-source={source} data-mode={mode} class="scroll-mt-24">
-  <div class={full ? '' : 'rounded-sm border border-rule bg-white p-[clamp(20px,2.6vw,32px)]'}>
-    <H class={full ? 'm-0 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800' : 'm-0 text-[21px] font-semibold tracking-[-0.01em] text-navy-800'}>{heading}</H>
+  <div class={full ? '' : 'rounded-md border border-rule bg-white p-[clamp(20px,2.6vw,32px)]'}>
+    <H class={full ? 'm-0 text-[length:var(--text-h2)] font-bold leading-[1.08] tracking-[-0.025em] text-navy-800' : 'm-0 text-[24px] font-bold tracking-[-0.015em] text-navy-800'}>{heading}</H>
     <p class="m-0 mt-2 max-w-[62ch] text-[15.5px] leading-[1.6] text-ink-mute">
       Choose your qualification, then your exam board, then your subject. You'll see that course's topics, each with its study guides, revision notes and practice questions. Free, no sign-up.
     </p>
 
-    <div data-finder-continue hidden class="mt-5 flex flex-wrap items-center gap-x-4 gap-y-2 rounded-sm border border-gold-500 bg-ivory px-4 py-3">
+    <div data-finder-continue hidden class="mt-5 flex flex-wrap items-center gap-x-4 gap-y-2 rounded-md border-2 border-gold-500 bg-[#FFF8E6] px-4 py-3">
       <span class="text-[14.5px] text-ink">Your course:</span>
-      <a data-finder-continue-link href={routes.resources} class="text-[16px] font-semibold text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600"></a>
-      <button type="button" data-finder-change class="min-h-11 text-[14.5px] text-ink-mute underline decoration-rule underline-offset-2 hover:text-gold-600">Change course</button>
+      <a data-finder-continue-link href={routes.resources} class="text-[16px] font-semibold text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700"></a>
+      <button type="button" data-finder-change class="min-h-11 text-[14.5px] text-ink-mute underline decoration-rule underline-offset-2 hover:text-teal-700">Change course</button>
     </div>
 
     <form data-finder-form hidden class="mt-6 grid gap-6" aria-label="Choose your course">
@@ -75,7 +75,7 @@ const courseLabel = (e: (typeof catalogue)[number]) => `${e.bs === 'ib' ? e.q : 
         <legend class="mb-2.5 p-0 text-[15px] font-semibold text-navy-800">1. Qualification</legend>
         <div class="flex flex-wrap gap-2">
           {quals.map((q) => (
-            <label class={chip}><input type="radio" name={`${id}-q`} value={q.slug} class="h-4 w-4 accent-[#0B1F3A]" />{q.name}</label>
+            <label class={chip}><input type="radio" name={`${id}-q`} value={q.slug} class="h-4 w-4 accent-[#0C6964]" />{q.name}</label>
           ))}
         </div>
       </fieldset>
@@ -84,7 +84,7 @@ const courseLabel = (e: (typeof catalogue)[number]) => `${e.bs === 'ib' ? e.q : 
         <p data-finder-boards-hint class="m-0 text-[14.5px] text-ink-mute">Choose a qualification first.</p>
         <div class="flex flex-wrap gap-2">
           {allBoards.map(([bs, b]) => (
-            <label class={chip} data-board-chip data-quals={qualsForBoard(bs)} hidden><input type="radio" name={`${id}-b`} value={bs} class="h-4 w-4 accent-[#0B1F3A]" />{b}</label>
+            <label class={chip} data-board-chip data-quals={qualsForBoard(bs)} hidden><input type="radio" name={`${id}-b`} value={bs} class="h-4 w-4 accent-[#0C6964]" />{b}</label>
           ))}
         </div>
       </fieldset>
@@ -99,13 +99,13 @@ const courseLabel = (e: (typeof catalogue)[number]) => `${e.bs === 'ib' ? e.q : 
     <p data-finder-status role="status" aria-live="polite" class="m-0 mt-3 min-h-[1.25em] text-[14px] text-ink-mute"></p>
     {full && (
       <p data-finder-all-wrap hidden class="m-0 mt-2">
-        <button type="button" data-finder-showall class="inline-flex min-h-11 items-center text-[15px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">Or show every course ({catalogue.length})</button>
+        <button type="button" data-finder-showall class="inline-flex min-h-11 items-center text-[15px] font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">Or show every course ({catalogue.length})</button>
       </p>
     )}
 
     {!full && (
       <noscript>
-        <p class="m-0 mt-4 text-[15px]"><a href={routes.resources} class="font-medium text-navy-800 underline decoration-gold-500 underline-offset-2">Browse every course by qualification and exam board</a></p>
+        <p class="m-0 mt-4 text-[15px]"><a href={routes.resources} class="font-medium text-navy-800 underline decoration-teal-500 underline-offset-2">Browse every course by qualification and exam board</a></p>
       </noscript>
     )}
 
@@ -119,14 +119,14 @@ const courseLabel = (e: (typeof catalogue)[number]) => `${e.bs === 'ib' ? e.q : 
           {q.boards.map((b) => (
             <div data-b-block={b.bs} id={full ? `${q.qs}-${b.bs}` : undefined} class="mt-5 scroll-mt-24 first:mt-0">
               {b.bs !== 'ib' && (
-                <BoardH class="m-0 mb-2 font-mono text-[11.5px] font-normal uppercase tracking-[0.12em] text-gold-600">{`${b.b} ${q.q}`}</BoardH>
+                <BoardH class="m-0 mb-2 mb-label text-teal-700">{`${b.b} ${q.q}`}</BoardH>
               )}
               <ul class={`m-0 grid list-none gap-2 p-0 sm:grid-cols-2 ${full ? 'lg:grid-cols-3' : ''}`}>
                 {b.courses.map((e) => (
                   <li class="m-0" data-course-item data-search={`${e.s} ${e.code ?? ''}`.toLowerCase()}>
                     <a href={e.hub} data-course-link={e.id} data-course-label={courseLabel(e)} data-course-code={e.bs !== 'ib' ? e.code : undefined}
-                      class="flex h-full min-h-11 flex-col gap-0.5 rounded-sm border border-rule bg-white px-4 py-2.5 transition-colors hover:border-gold-500">
-                      <span class="text-[15.5px] font-semibold text-navy-800">{e.s}</span>
+                      class="flex h-full min-h-11 flex-col gap-0.5 rounded-md border border-rule bg-white px-4 py-3 transition-colors hover:border-teal-700 hover:bg-teal-50 hover:text-navy-800 active:bg-teal-100">
+                      <span class="font-display text-[17px] font-semibold leading-tight text-navy-800">{e.s}</span>
                       <span class="font-mono text-[11.5px] text-ink-mute">{e.code && e.bs !== 'ib' && <>{e.code} · </>}{e.n > 0 ? `${e.n} ${e.n === 1 ? 'resource' : 'resources'}` : 'topics only'}</span>
                     </a>
                   </li>
@@ -136,7 +136,7 @@ const courseLabel = (e: (typeof catalogue)[number]) => `${e.bs === 'ib' ? e.q : 
           ))}
         </section>
       ))}
-      <p data-finder-filter-empty hidden class="m-0 mt-3 text-[15px] text-ink-mute">No subject matches that filter. <button type="button" data-finder-filter-clear class="underline decoration-gold-500 underline-offset-2">Show all subjects</button></p>
+      <p data-finder-filter-empty hidden class="m-0 mt-3 text-[15px] text-ink-mute">No subject matches that filter. <button type="button" data-finder-filter-clear class="underline decoration-teal-500 underline-offset-2">Show all subjects</button></p>
     </div>
   </div>
 </div>

@@ -14,9 +14,9 @@ const { subjects, counts } = Astro.props;
     <li class="m-0 border-b border-rule">
       <a href={routes.subject(subject.id)} class="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1 py-[17px]">
         <span class="flex min-w-0 items-baseline gap-2.5">
-          <span class="font-display text-2xl tracking-[-0.01em]">{subject.data.title}</span>
+          <span class="font-display text-2xl tracking-[-0.01em] font-semibold">{subject.data.title}</span>
           {counts && counts[subject.id] > 0 && (
-            <span class="shrink-0 whitespace-nowrap rounded-sm border border-[#E4D7A8] bg-[#FBF7EA] px-1.5 py-0.5 font-mono text-[10.5px] uppercase tracking-[0.08em] text-gold-600">
+            <span class="shrink-0 whitespace-nowrap rounded-sm border border-[#E4D7A8] bg-[#FBF7EA] px-1.5 py-0.5 mb-label text-teal-700">
               {counts[subject.id]} {counts[subject.id] === 1 ? 'resource' : 'resources'}
             </span>
           )}
