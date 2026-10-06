@@ -20,8 +20,8 @@ featured: false
 
 OxfordAQA International A-Level Accounting (9615) is a modular qualification of four papers, sat over
 the AS and A-level teaching period. AS Paper 1 (Introduction to Financial Accounting) and AS Paper 2
-(Financial & Management Accounting) are each 2 hours, 80 marks and 20% of the full A-level. A-level
-Paper 1 (Financial Accounting) and A-level Paper 2 (Accounting for Analysis and Decision Making) step up
+(Financial & Management Accounting) are each 2 hours, 80 marks and 20% of the full A-level. The A-level papers,
+Paper 3 (Financial Accounting) and Paper 4 (Accounting for Analysis and Decision Making), step up
 to 2 hours 15 minutes, 90 marks, and 30% of the full A-level each. This is a recently launched
 specification -- first teaching September 2024, first AS exams May/June 2025, first A-level exams
 May/June 2026 -- already examined at both levels as of this record's verification. These notes
@@ -38,13 +38,13 @@ the qualification against the AS papers' 40%.
 
 ## Financial Accounting threads through all four papers
 
-AS Paper 1 introduces double-entry, ledger accounts and basic financial statements; A-level Paper 1
+AS Paper 1 introduces double-entry, ledger accounts and basic financial statements; Paper 3
 builds directly on that foundation with more complex adjustments and statement preparation.
-**Exam-preparation priority**: treat AS Paper 1 technique as the base layer for A-level Paper 1 revision
+**Exam-preparation priority**: treat AS Paper 1 technique as the base layer for Paper 3 revision
 rather than revising the two in isolation -- errors carried up from AS-level bookkeeping habits cost
 marks at A-level too.
 
-## A-level Paper 2 is genuinely new analytical territory
+## Paper 4 is genuinely new analytical territory
 
 Accounting for Analysis and Decision Making moves beyond statement preparation into ratio analysis,
 budgeting and investment appraisal -- skills that AS Paper 2's financial management content only
@@ -54,8 +54,7 @@ than assuming AS-level financial management coverage carries across automaticall
 ## Presentation format is examined, not just the numbers
 
 Financial statements must follow standard professional layout -- correct headings, subtotals in the
-right place, workings shown -- and marks are available for that format independently of arithmetic
-accuracy. **Exam-preparation priority**: practise reproducing statement formats from memory until the
+right place, workings shown -- and a clear layout makes your figures easy to follow and check. **Exam-preparation priority**: practise reproducing statement formats from memory until the
 layout itself needs no thought, freeing attention for the figures.
 
 ## Two of the four papers examine content the others do not repeat
@@ -96,8 +95,8 @@ lose the marks silently.
 
 ## Before/during exam checklist
 
-- **Before the exams**: revise AS Paper 1 bookkeeping technique as the foundation for A-level Paper 1,
-  not in isolation; give A-level Paper 2's analysis and decision-making content its own dedicated
+- **Before the exams**: revise AS Paper 1 bookkeeping technique as the foundation for Paper 3,
+  not in isolation; give Paper 4's analysis and decision-making content its own dedicated
   revision time; drill statement formats from memory.
 - **During any paper**: work through every stated adjustment methodically before starting the final
   statements, and show workings for partial credit.
@@ -106,12 +105,12 @@ lose the marks silently.
 ## Self-test
 
 1. How do the AS and A-level papers differ in marks and weighting?
-2. Why should AS Paper 1 and A-level Paper 1 be revised together rather than separately?
-3. What kind of content does A-level Paper 2 introduce that AS Paper 2 does not fully cover?
+2. Why should AS Paper 1 and Paper 3 be revised together rather than separately?
+3. What kind of content does Paper 4 introduce that AS Paper 2 does not fully cover?
 4. What should you do if a prepared balance sheet does not balance?
 
 **Answers:** 1. AS papers are 80 marks each for 20% of the A-level; A-level papers are 90 marks each for
-30% -- so each A-level mark carries more weight. 2. Because A-level Paper 1 builds directly on AS Paper
+30% -- so each A-level mark carries more weight. 2. Because Paper 3 builds directly on AS Paper
 1's bookkeeping and statement-preparation foundations, and errors carried up from AS technique cost
 marks at A-level too. 3. Ratio analysis, budgeting and investment appraisal -- analytical skills only
 partially anticipated by AS Paper 2's financial management content. 4. Go back through the adjustments

@@ -177,7 +177,10 @@ const INTERNAL_NOTE_PATTERNS = [
   // markdown code span that never rendered (the notes are plain text); the
   // to-do phrase is a maintenance reminder; a hyphenated name ending in -*
   // is a file glob; 'in this file' refers to the data file itself.
-  { re: /`[^`\s]{1,40}`/, label: 'backticked internal value' },
+  // D-400: a backtick inside a rendered <code>/<pre> element is deliberate code
+  // (Haskell writes infix functions as `div`), not an unrendered note, so this
+  // one rule is tested against the text with code elements removed.
+  { re: /`[^`\s]{1,40}`/, label: 'backticked internal value', outsideCode: true },
   { re: /\bwhen next touched\b|\bre-checked for a successor\b/i, label: 'maintenance to-do' },
   { re: /\b[a-z0-9]+(?:-[a-z0-9]+)+-\*/, label: 'file-name pattern' },
   { re: /\b(?:record|elsewhere|already) in this file\b/i, label: 'reference to the data file' },
@@ -212,8 +215,9 @@ for (const file of builtHtmlFiles) {
     .replace(/<script[\s\S]*?<\/script>/gi, '')
     .replace(/<style[\s\S]*?<\/style>/gi, '')
     .replace(/<!--[\s\S]*?-->/g, '');
-  for (const { re, label } of INTERNAL_NOTE_PATTERNS) {
-    const match = visibleHtml.match(re);
+  for (const { re, label, outsideCode } of INTERNAL_NOTE_PATTERNS) {
+    const haystack = outsideCode ? visibleHtml.replace(/<pre[\s\S]*?<\/pre>/gi, '').replace(/<code[\s\S]*?<\/code>/gi, '') : visibleHtml;
+    const match = haystack.match(re);
     if (match) {
       problems.push(`[7] "${pageUrlPath}" renders what looks like an internal note (${label}): "${match[0]}"`);
     }
