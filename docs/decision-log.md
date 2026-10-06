@@ -15524,3 +15524,30 @@ Three more problems turned up:
 - **Tests (6 Oct 2026).**
   - `check_new.py` passed on all 330 pages. The only flag left is the known `$A$2` cell-reference false positive.
   - `validate-academic-content`, the duplicate-scope check, `npm run build` and `audit:all` passed.
+
+## D-400 - Topic gaps round 2: 88 uncovered topics filled in OxfordAQA 9620/9615/9725/9645 and Edexcel YAC11 (branch `topic-gaps-round2`, 6 Oct 2026, 22:15 PKT)
+
+- **Why.** After D-399 these five specifications had the most topics with no page. The owner asked for them next.
+- **What.** 88 topics, each with a study guide, revision notes and a practice set:
+  - 9620: 29
+  - 9615: 18
+  - 9725: 14
+  - 9645: 14
+  - YAC11: 13
+
+  `coverage:academic-v2` now reports zero topics without resources for all five.
+- **Sources.** Official PDFs were downloaded on 6 Oct 2026:
+  - 9620 Version 5.3
+  - 9615 Version 1.2
+  - 9725 Version 1.1 (the revised specification, first teaching September 2026)
+  - 9645 Version 1.1
+  - YAC11 Issue 2 (September 2018)
+- **Method.** The same process as D-399 (one writer and one independent verifier per topic, Python checks, outcome mapping). Because these specifications sit close to the AQA ones, writers and verifiers also ran a 10-word overlap scan against every page and checked that every invented name is unused. Verifiers replaced the reused examples and copied sentences they found.
+- **Data and site fixes.**
+  - **9725 record:** now cites the Version 1.1 PDF and its corrected sub-section 3.2.1.3 "Inventory and supply chain management". Slugs are unchanged.
+  - **9615 exam-preparation page:** the A-level papers are now named Paper 3 and Paper 4, as in the specification, and a mark-award claim is reworded as advice.
+  - **Audit rule:** the backtick check now ignores `<code>` and `<pre>`, because Haskell infix functions use backticks.
+- **Tests (6 Oct 2026).**
+  - `check_new.py` passed on all 264 pages.
+  - None of the 264 pages contains a finding-ID-shaped token, a checkbox list or a calculator label.
+  - The duplicate-scope check, `npm run build` and `audit:all` passed.
