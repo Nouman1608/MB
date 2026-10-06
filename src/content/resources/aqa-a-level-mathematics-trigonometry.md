@@ -223,7 +223,7 @@ For another fully set-out "show that" with a double angle, see the [exam prepara
 
 ## E9: trigonometry in context
 
-Periodic situations (tides, wheels, oscillations) are modelled by functions such as d = p + q cos(kt). Forces and velocities are resolved with trigonometry: a force F at angle θ to the horizontal has components F cos θ horizontally and F sin θ vertically.
+Periodic situations (tides, wheels, oscillations) are modelled by functions such as d = p + q cos(kt). Forces and velocities are resolved with trigonometry: a force F at angle θ to the horizontal has components F cos θ horizontally and F sin θ vertically. In the same way, a velocity or other vector of magnitude r at angle θ to i is r cos θ i + r sin θ j, and the vector ai + bj makes an angle with i whose tangent is b/a (check the quadrant).
 
 **Worked example 12.** The depth of water in a harbour is d = 6 + 2.5 cos(πt/6) metres, t hours after midnight. Find the times in 0 ≤ t ≤ 12 when the depth is 7.25 m.
 

@@ -33,7 +33,7 @@ Use this page with the [Proof revision notes](/resources/aqa-a-level-mathematics
 | A1 (counter-example) | Disprove a general statement with one case where it fails |
 | A1 (contradiction) | Assume the statement is false and reach an impossibility, including the irrationality of √2, the infinity of primes and unfamiliar proofs |
 
-A calculator is allowed in every 7357 paper, but it cannot prove anything. A calculator check of a few values is evidence, not proof.
+A calculator is required in every 7357 paper, but it cannot prove anything. A calculator check of a few values is evidence, not proof.
 
 ## The structure of a proof
 

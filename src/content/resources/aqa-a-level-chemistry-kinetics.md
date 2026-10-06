@@ -67,7 +67,7 @@ molecules have each energy.
 - The curve starts at the **origin**: no molecule has zero energy.
 - It rises to a single peak. The peak is the **most probable energy**.
 - It falls away to the right and **never touches the energy axis**: there is no maximum energy.
-- The curve is not symmetrical. It has a long tail at high energy, so the **mean energy** lies a little to
+- The curve is not symmetrical. It has a long tail at high energy, so the **mean energy** lies to
   the right of the peak.
 - The **area under the curve** equals the total number of molecules.
 - Mark Ea as a vertical line well to the right of the peak. The area under the curve to the right of Ea is
@@ -159,7 +159,7 @@ Sulfur dioxide is toxic and irritates the lungs, so work in a well-ventilated ro
 | 50 | 17 | 0.0588 |
 
 Step 1: work out 1/t for each run, as shown. Plotting 1/t against temperature gives a curve that gets steeper.
-Step 2: compare 20 °C and 30 °C: 0.0161 ÷ 0.00833 = 1.94. A 10 °C rise nearly doubles the rate here.
+Step 2: compare 20 °C and 30 °C: 120 ÷ 62 = 1.94. A 10 °C rise nearly doubles the rate here.
 Step 3: compare 20 °C and 50 °C: 120 ÷ 17 = 7.06. The rate rises about sevenfold over 30 °C.
 
 The explanation is the Maxwell–Boltzmann one above: many more molecules have E ≥ Ea at the higher

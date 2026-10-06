@@ -126,7 +126,7 @@ Learn the content first with the [Section D study guide](/resources/aqa-a-level-
 
 **9. (a)** nk = 20 [1] and n(n − 1)k²/2 = 150. [1] Dividing, (n − 1)k = 15, so nk − k = 15 and **k = 5** [1], then **n = 4**. [1]
 **(b)** ⁴C₃ × 5³ [1] = **500**. [1] **[6]**
-*Examiner insight:* The method mark for the x² coefficient needs k² (from (kx)²); writing n(n − 1)k/2 makes the equations unsolvable in whole numbers.
+*Examiner insight:* The method mark for the x² coefficient needs k² (from (kx)²); writing n(n − 1)k/2 instead leads to the wrong values n = 16 and k = 5/4.
 
 **10. (a)** (8 + 3x)^(1/3) = 2(1 + 3x/8)^(1/3). [1] (1 + X)^(1/3) = 1 + X/3 − X²/9 + … [1] With X = 3x/8: 1 + x/8 − x²/64. [1] So the expansion is **2 + x/4 − x²/32**. [1]
 **(b)** |3x/8| < 1, so **|x| < 8/3**. [1]

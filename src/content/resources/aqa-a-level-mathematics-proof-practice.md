@@ -25,7 +25,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-This set covers section 3.2 **A: Proof** (content reference **A1**) of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards: proof by deduction, proof by exhaustion, disproof by counter-example and proof by contradiction, including unfamiliar proofs. 7357 is a linear A-level with no AS/A split. Proof is listed in the Paper 1 content, and Papers 2 and 3 can assess any Paper 1 content. A calculator is allowed in all 7357 papers, but every mark here is for written reasoning.
+This set covers section 3.2 **A: Proof** (content reference **A1**) of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards: proof by deduction, proof by exhaustion, disproof by counter-example and proof by contradiction, including unfamiliar proofs. 7357 is a linear A-level with no AS/A split. Proof is listed in the Paper 1 content, and Papers 2 and 3 can assess any Paper 1 content. A calculator is required in all 7357 papers, but every mark here is for written reasoning.
 
 Before you start, read the [Proof study guide](/resources/aqa-a-level-mathematics-proof/) and the [Proof revision notes](/resources/aqa-a-level-mathematics-proof-revision-notes/). Course links: [AQA A-level Mathematics hub](/boards/aqa/a-level/mathematics/) and [printable checklist](/checklists/aqa/a-level/mathematics/). For notation and argument questions, try the [Overarching themes practice questions](/resources/aqa-a-level-mathematics-themes-practice/).
 

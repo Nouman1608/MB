@@ -120,7 +120,7 @@ the particles move apart unchanged, an unsuccessful collision [1]. **[2]**
 particle energies with Ea.
 
 **3.** Any three: the curve starts at the origin (no molecule has zero energy) [1]; it has a single peak at
-the most probable energy, with the mean energy slightly to its right [1]; it approaches but never meets the
+the most probable energy, with the mean energy to its right [1]; it approaches but never meets the
 energy axis, as there is no maximum energy [1]. Also allow: the area under the curve equals the total number
 of molecules. **[3]**
 *Examiner insight:* Each feature must be a separate point for its own mark; "it is a curve with a peak" alone

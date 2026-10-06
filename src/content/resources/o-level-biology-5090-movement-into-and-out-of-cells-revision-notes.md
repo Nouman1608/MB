@@ -21,7 +21,7 @@ featured: false
 
 For full explanations and worked examples, read the [study guide for this topic](/resources/o-level-biology-5090-movement-into-and-out-of-cells/) first.
 
-These notes cover Topic 3, Movement into and out of cells, of the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028: sections 3.1 (Diffusion and osmosis) and 3.2 (Active transport). The syllabus is not tiered, so every outcome here applies to every candidate, on the theory papers and on the practical papers. When you have been through them, test yourself with the [practice questions](/resources/o-level-biology-5090-movement-into-and-out-of-cells-practice/). The [course hub](/boards/cambridge/o-level/biology/) lists every 5090 topic, and the [printable checklist](/checklists/cambridge/o-level/biology/) lets you track the outcomes.
+These notes cover Topic 3, Movement into and out of cells, of the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028: sections 3.1 (Diffusion and osmosis) and 3.2 (Active transport). The syllabus is not tiered, so every outcome here applies to every candidate, on Papers 1 and 2 and on the practical papers (diffusion and osmosis are listed experimental contexts). When you have been through them, test yourself with the [practice questions](/resources/o-level-biology-5090-movement-into-and-out-of-cells-practice/). The [course hub](/boards/cambridge/o-level/biology/) lists every 5090 topic, and the [printable checklist](/checklists/cambridge/o-level/biology/) lets you track the outcomes.
 
 ## Definitions to learn word for word
 
@@ -102,7 +102,7 @@ These notes cover Topic 3, Movement into and out of cells, of the Cambridge O Le
 
 ## 3.1.9 Dialysis tubing
 
-- Visking (dialysis) tubing is **partially permeable**: water passes through, sucrose and starch do not.
+- Visking (dialysis) tubing is **partially permeable**: water passes through quickly, sucrose only very slowly and starch not at all.
 - Bag of sugar solution in water: water enters, the bag gains mass and becomes firm, or the level rises in an attached capillary tube.
 - Bag of water in concentrated sugar solution: water leaves, the bag loses mass and goes limp.
 - Control: bag of water in water, no change.

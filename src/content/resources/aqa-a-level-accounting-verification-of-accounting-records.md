@@ -253,7 +253,7 @@ A bank reconciliation explains why the cash book bank column and the bank statem
 ### Worked example 3: bank reconciliation
 
 Kestrel Print's cash book showed a debit (favourable) bank balance of £4 215 on 30 June 2026. The bank
-statement showed bank charges £65, a standing order for insurance £320, a credit transfer from a customer
+statement showed a favourable balance of £5 790, bank charges £65, a standing order for insurance £320, a credit transfer from a customer
 £1 180 and a dishonoured customer cheque £540, none in the cash book. A cheque for £1 670 paid to a
 supplier had been entered in the cash book as £1 760. Unpresented cheques were £2 340 and £815; an
 outstanding lodgement was £1 925.

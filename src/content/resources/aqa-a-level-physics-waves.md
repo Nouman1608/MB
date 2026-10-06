@@ -102,7 +102,7 @@ A string fixed at both ends must have a node at each end. The **first harmonic**
 A string of length 0.80 m has tension 40 N and mass per unit length 2.5 × 10⁻³ kg m⁻¹. Find the first-harmonic frequency, the third-harmonic frequency, and the new first harmonic if the tension is increased to 160 N.
 
 ```
-√(T/μ) = √(40 / 2.5 × 10⁻³) = √16 000 = 126 m s⁻¹
+√(T/μ) = √(40 / 2.5 × 10⁻³) = √16 000 = 126.5 m s⁻¹
 f₁ = 126.5 / (2 × 0.80) = 79.1 Hz
 f₃ = 3 × 79.06 = 237 Hz
 T × 4 → √(T/μ) × 2 → f₁ = 2 × 79.06 = 158 Hz

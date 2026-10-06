@@ -173,7 +173,7 @@ tan α = 20/12 = 5/3 [1], so **α = 59.0°** [1]
 - Choosing a sign for tan θ or sin θ without naming the quadrant.
 - Using the principal value of arccos or arcsin when it lies outside the question's interval.
 - Skipping the identity step in a "show that" or "prove" question.
-- In R-form, using tan α = a/b instead of b/a.
+- For a cos x + b sin x in R cos(x − α) form, using tan α = a/b instead of b/a.
 - In context questions, giving a boundary time instead of the length of the interval asked for.
 
 ## Next steps

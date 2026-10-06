@@ -129,8 +129,8 @@ These errors were then found.
 
 ## Answers
 
-**1.** **C** -- an unequal posting (debit £1 420, credit £1 240) [1] **[1]**
-*Examiner insight:* B (principle) and D (commission) leave the totals equal; only the exact error type earns the mark.
+**1.** **C** -- a transposition (debit £1 420, credit £1 240) [1] **[1]**
+*Examiner insight:* B and D (both errors of commission) leave the totals equal; only the exact error type earns the mark.
 
 **2. (a)** Dr Shop fittings £3 600; Cr Purchases £3 600 [1]. Narrative: purchase of shelving (a non-current asset) wrongly debited to purchases [1].
 **(b)** Dr Revenue £180; Cr T Marsh £180 [1]. Narrative: credit sale entered in the sales journal as £1 420 instead of £1 240 [1]. **[4]**

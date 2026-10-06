@@ -67,7 +67,7 @@ Why most collisions fail: most particles have energy **less than Ea**, so no bon
 
 - Axes: **energy** (x) and **number of molecules** with that energy (y).
 - Starts at the **origin**.
-- One peak = most probable energy. The mean energy is slightly to the right of the peak.
+- One peak = most probable energy. The mean energy is to the right of the peak.
 - Long tail; the curve **never meets the energy axis**.
 - Area under the curve = **total number of molecules**.
 - Area to the right of Ea = number of molecules that **can** react on collision.
@@ -139,7 +139,7 @@ The catalyst is not used up: the same mass and composition remain at the end.
 | Raise gas pressure | Up | No change | No | No |
 | Add a catalyst | No change | Up (Ea marker moves left) | No | Lower route provided |
 
-- **Most probable energy vs mean energy:** the peak is the most probable; the mean is slightly to its right.
+- **Most probable energy vs mean energy:** the peak is the most probable; the mean is to its right.
 - **Initial rate method vs continuous monitoring:** an initial rate method times one early fixed point (for
   example, a cross disappearing); continuous monitoring records the change throughout one run.
 - **Mean rate vs instantaneous rate:** mean rate is a change divided by an interval; instantaneous rate is a

@@ -131,7 +131,7 @@ At equilibrium, 0.400 mol of CO₂ is present.
 **(c)** Kc is unchanged because the temperature is unchanged [1]. The equilibrium shifts right to use up some of the added hydrogen, so the amount of HI increases [1].
 *Examiner insight:* Taking the square root keeps this a one-step solve; the other root from a quadratic (x = 1.33) needs more H₂ than was present and must be rejected.
 
-**12.** (i) more NO₂; Kc increases [1]. (ii) less NO₂ (shifts to the side with fewer moles of gas); Kc unchanged [1]. (iii) no change in NO₂; Kc unchanged [1]. (iv) more NO₂ forms to replace some removed (shifts right); Kc unchanged [1]. **[4]**
+**12.** (i) more NO₂; Kc increases [1]. (ii) less NO₂ (shifts to the side with fewer moles of gas); Kc unchanged [1]. (iii) no change in NO₂; Kc unchanged [1]. (iv) shifts right, so some NO₂ is replaced, but there is less NO₂ than before the removal; Kc unchanged [1]. **[4]**
 *Examiner insight:* Each mark needs both effects correct; only temperature changes Kc.
 
 ## Where marks are usually lost

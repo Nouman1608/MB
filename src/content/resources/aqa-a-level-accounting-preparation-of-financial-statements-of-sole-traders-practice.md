@@ -170,7 +170,7 @@ Provision for doubtful debts account
 *Examiner insight:* Compare each line separately; comparing total cost with total NRV gives the wrong value and loses the final mark.
 
 **7.** Remove the sale: -£2,400 [1]. Add the goods to inventory at cost, 2,400 / 1.6 = 1,500: +£1,500 [1]. Goods for own use reduce purchases: +£680 [1]. Accrued electricity: -£290 [1]. Corrected profit 41,300 - 2,400 + 1,500 + 680 - 290 = **£40,790** [1]. **[5]**
-*Examiner insight:* Show each adjustment with its sign; a bare final figure gets one mark at most if it is wrong.
+*Examiner insight:* Show each adjustment with its sign; a wrong bare final figure earns no marks, while shown adjustments can still earn method marks.
 
 **8.**
 

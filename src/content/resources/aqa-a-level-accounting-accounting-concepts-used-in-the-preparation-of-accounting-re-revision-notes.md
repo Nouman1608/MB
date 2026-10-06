@@ -108,7 +108,7 @@ Draft profit
 = Corrected profit
 ```
 
-Name the concept on every line. Two parts to each mark: the figure, then the reason. Show additions and
+Name the concept on every line. Give two things for each adjustment: the figure, then the reason. Show additions and
 deductions clearly, starting from the draft profit, so that a slip in one figure still lets the marker give
 own-figure credit for the corrected total. Remember the knock-on effects in the statement of financial position:
 private spending raises drawings, accrued expenses appear in other payables, and inventory write-downs and sale or

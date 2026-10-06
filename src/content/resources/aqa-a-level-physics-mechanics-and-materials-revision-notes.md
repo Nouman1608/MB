@@ -27,7 +27,7 @@ featured: false
 
 For full explanations and worked examples, use the [Mechanics and materials study guide](/resources/aqa-a-level-physics-mechanics-and-materials/).
 
-These notes cover section 3.4 of AQA A-level Physics (7408), following the AQA AS and A-level Physics specification (7407/7408), version 1.3, for AS and A-level exams from June 2016 onwards. They cover sub-sections 3.4.1.1 to 3.4.2.2. All of section 3.4 is AS and A-level content, examined on A-level Paper 1 and assumed for Paper 2, with its required practicals feeding Paper 3 Section A. Sections 3.9 to 3.13 are options: you study one, assessed in Paper 3 Section B.
+These notes cover section 3.4 of AQA A-level Physics (7408), following the AQA AS and A-level Physics specification (7407/7408), version 1.3, for AS and A-level exams from June 2016 onwards. They cover sub-sections 3.4.1.1 to 3.4.2.2. All of section 3.4 is AS and A-level content, examined on A-level Paper 1 and assumed for Paper 2, and its required practicals are assessed in the written papers. Sections 3.9 to 3.13 are options: you study one, assessed in Paper 3 Section B.
 
 Course pages: [hub](/boards/aqa/a-level/physics/), [printable checklist](/checklists/aqa/a-level/physics/), [practice questions](/resources/aqa-a-level-physics-mechanics-and-materials-practice/). Uncertainty rules for the practicals are in the [measurements revision notes](/resources/aqa-a-level-physics-measurements-revision-notes/).
 
@@ -106,7 +106,7 @@ Qualitative points:
 - Momentum is conserved in any closed system: collisions and explosions (one dimension).
 - F = Δ(mv)/Δt; impulse FΔt = Δ(mv); area under F–t graph = change in momentum.
 - Longer contact time → smaller force for the same momentum change (crumple zones, packaging, kicking a ball).
-- Elastic: Ek conserved. Inelastic: Ek not conserved (momentum still is). Explosion: total momentum zero before and after.
+- Elastic: Ek conserved. Inelastic: Ek not conserved (momentum still is). Explosion: total momentum unchanged (zero if starting at rest).
 
 ## 3.4.1.7–3.4.1.8 Work, power, energy
 

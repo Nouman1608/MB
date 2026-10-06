@@ -94,7 +94,7 @@ Use the related acute angle and the quadrant sign for multiples, e.g. sin(4π/3)
 | arccos x | [−1, 1] | [0, π] |
 | arctan x | all reals | (−π/2, π/2) |
 
-- sec x has a minimum of 1 where cos x = 1 and a maximum of −1 where cos x = −1.
+- sec x has a local minimum of 1 where cos x = 1 and a local maximum of −1 where cos x = −1.
 - cot x has asymptotes where sin x = 0 and zeros where cos x = 0.
 - Inverse graphs: reflect the restricted original in y = x.
 
@@ -191,7 +191,7 @@ Dividing by cos x at the start would lose π/2 and 3π/2.
 - Choosing the wrong sign for a reciprocal value: check the quadrant before taking ±√ in sec²x = 1 + tan²x.
 - Writing approximations like sin 3θ ≈ θ instead of 3θ.
 - In "prove" questions, working on both sides or skipping the step that uses an identity.
-- In R-form, finding α from tan α = a/b instead of b/a, or giving α in degrees when the interval is in radians.
+- In R cos(θ − α) form, finding α from tan α = a/b instead of b/a, or giving α in degrees when the interval is in radians.
 - Using the sine rule for an angle without checking whether the obtuse alternative is possible.
 
 For the link between small angles and differentiating sin x from first principles, see the [Differentiation revision notes](/resources/aqa-a-level-mathematics-differentiation-revision-notes/). For examiner-style setting out of a "show that", see the [exam preparation guide](/resources/aqa-a-level-mathematics-exam-preparation/). When you're ready, the [free 10-minute diagnostics](/diagnostics/) help you find other gaps.

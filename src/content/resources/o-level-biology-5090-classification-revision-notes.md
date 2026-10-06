@@ -74,7 +74,7 @@ Four vertebrates: a pigeon, a shark, a toad and a lizard. Four organisms need 4 
 1 a  Has feathers ............................ pigeon
   b  No feathers ............................. go to 2
 2 a  Has fins ................................ shark
-  b  No fins; has four legs .................. go to 3
+  b  No fins ................................. go to 3
 3 a  Dry skin covered in scales .............. lizard
   b  Moist skin with no scales ............... toad
 ```

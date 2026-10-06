@@ -294,6 +294,8 @@ Test with ten 1s: the expected average is 1. The trace gives Total = 55 and an o
 - Line 4 adds the loop counter, not the input. Correct to `Total ← Total + Num`.
 - Line 6 divides by 9. Correct to `Average ← Total / 10`.
 
+**Editing to meet a new need.** To make Worked example 3 also count dry days, add `Dry ← 0` before the loop, add `IF Rain = 0 THEN Dry ← Dry + 1 ENDIF` inside the loop after the INPUT, and add Dry to the PRINT line. With the same six readings, Dry is **1**.
+
 Other errors to look for: a counter or total set to zero inside the loop; a loop with no way to end (WHILE condition never changes); the wrong comparison (`>` where the scenario says "at least"); a missing ENDIF or NEXT; a decision box with only one exit; a flowline with no arrowhead.
 
 ## Common errors

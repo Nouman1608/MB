@@ -31,20 +31,20 @@ Course hub: [/boards/aqa/a-level/mathematics/](/boards/aqa/a-level/mathematics/)
 
 ## Formulas to know
 
-| Result | Formula | Given in the exam? |
+| Result | Formula | In the Appendix B recall list? |
 |---|---|---|
-| Gradient through two points | m = (y₂ − y₁)/(x₂ − x₁) | No |
-| Line through (x₁, y₁) | y − y₁ = m(x − x₁) | No (Appendix B: recall) |
-| Perpendicular lines | m₁m₂ = −1 | No (Appendix B: recall) |
-| Parallel lines | m₁ = m₂ | No |
-| Gradient of ax + by + c = 0 | −a/b | No |
-| Midpoint | ((x₁ + x₂)/2, (y₁ + y₂)/2) | No |
-| Distance | √((x₂ − x₁)² + (y₂ − y₁)²) | No |
-| Circle, centre (a, b), radius r | (x − a)² + (y − b)² = r² | No |
-| Circle in parametric form | x = a + r cos θ, y = b + r sin θ | No |
+| Gradient through two points | m = (y₂ − y₁)/(x₂ − x₁) | Not listed |
+| Line through (x₁, y₁) | y − y₁ = m(x − x₁) | Yes |
+| Perpendicular lines | m₁m₂ = −1 | Yes |
+| Parallel lines | m₁ = m₂ | Not listed |
+| Gradient of ax + by + c = 0 | −a/b | Not listed |
+| Midpoint | ((x₁ + x₂)/2, (y₁ + y₂)/2) | Not listed |
+| Distance | √((x₂ − x₁)² + (y₂ − y₁)²) | Not listed |
+| Circle, centre (a, b), radius r | (x − a)² + (y − b)² = r² | Not listed |
+| Circle in parametric form | x = a + r cos θ, y = b + r sin θ | Not listed |
 
 Appendix B of the specification lists the line equation and the perpendicular condition among the
-formulae you must recall. Learn every row of this table anyway: none of it is printed on the paper.
+formulae you must recall. Learn every row of this table anyway: you need all of them, and the method marks depend on using them correctly.
 
 ## C1: Straight lines
 

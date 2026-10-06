@@ -102,7 +102,7 @@ Six organisms need 6 − 1 = 5 couplets. Start with the feature that splits the 
 4 a  Three pairs of legs ............................. housefly
   b  Four pairs of legs .............................. spider
 5 a  Body covered in feathers ........................ sparrow
-  b  No feathers; moist skin ......................... frog
+  b  No feathers ..................................... frog
 ```
 
 **Using it.** A specimen has jointed legs, ten legs and two pairs of antennae. Step 1: exoskeleton, go to 2. Step 2: five pairs is more than four, go to 3. Step 3: two pairs of antennae, so it is the **crab**. Always write down the route (1a → 2a → 3a) in an exam answer if the question asks how you reached the name.

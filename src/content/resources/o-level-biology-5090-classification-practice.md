@@ -88,7 +88,7 @@ Learn the content first with the [classification study guide](/resources/o-level
 4 a  Two pairs of legs on most segments ...... millipede
   b  One pair of legs on each segment ........ woodlouse
 5 a  Has a coiled shell ...................... snail
-  b  No shell; body made of ring-like segments  earthworm
+  b  No shell ................................ earthworm
 ```
 
 Specimen A: no legs, no shell, body of ring-like segments. Specimen B: seven pairs of legs, one pair on each segment. Specimen C: four pairs of legs. Specimen D: three pairs of legs.

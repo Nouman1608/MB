@@ -170,7 +170,7 @@ Always say what n counts and whether term 1 is "now" or "after one step". Name o
 
 ## Where marks are usually lost
 
-- Writing (2x)³ as 2x³ inside a binomial term, which loses the accuracy mark for every term after it.
+- Writing (2x)³ as 2x³ inside a binomial term, which makes that coefficient wrong and loses the accuracy mark.
 - Using (1 + x)ⁿ for (4 − x)^(1/2) without first taking out 4^(1/2) = 2.
 - Giving the validity of (a + bx)ⁿ as |x| < 1 when it should be |x| < |a/b|.
 - Rounding a "least n" answer down instead of up, or failing to check the neighbouring integer.

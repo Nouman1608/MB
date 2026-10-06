@@ -136,7 +136,7 @@ Revise first with the [study guide](/resources/o-level-biology-5090-movement-int
 *Examiner insight:* The minus sign is needed for the accuracy mark in (a); in (c) and (d) state which side has the higher water potential and use the named terms.
 
 **8. (a)** 40 mm / 20 min [1] = **2.0 mm per min** [1].
-**(b)** Distilled water has a higher water potential than the sucrose solution [1]. Water enters the tubing by osmosis through the partially permeable membrane [1]. Sucrose cannot pass out, so the volume inside increases and liquid is pushed up the tube [1].
+**(b)** Distilled water has a higher water potential than the sucrose solution [1]. Water enters the tubing by osmosis through the partially permeable membrane [1]. Water enters much faster than any sucrose leaves, so the volume inside increases and liquid is pushed up the tube [1].
 **(c)** Water entering dilutes the sucrose solution [1], so the water potential gradient becomes less steep and osmosis slows [1].
 **(d)** The same set-up with distilled water inside the tubing instead of sucrose solution [1].
 *Examiner insight:* A rate needs a unit for the second mark; "2" alone loses it even with correct working.

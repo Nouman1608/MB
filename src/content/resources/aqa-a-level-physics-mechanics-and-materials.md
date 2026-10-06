@@ -25,7 +25,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This guide teaches section 3.4, Mechanics and materials, of AQA A-level Physics (7408). It follows the AQA AS and A-level Physics specification (7407/7408), version 1.3, for AS and A-level exams from June 2016 onwards, and covers every sub-section from 3.4.1.1 to 3.4.2.2. Section 3.4 is AS and A-level content (no part of it is A-level only). At A-level it is examined on Paper 1, which covers sections 1 to 5 and 6.1, and it is assumed knowledge for Paper 2; Paper 3 Section A tests practical skills, including the two required practicals here. Sections 3.9 to 3.13 are options: you study one, assessed in Paper 3 Section B.
+This guide teaches section 3.4, Mechanics and materials, of AQA A-level Physics (7408). It follows the AQA AS and A-level Physics specification (7407/7408), version 1.3, for AS and A-level exams from June 2016 onwards, and covers every sub-section from 3.4.1.1 to 3.4.2.2. Section 3.4 is AS and A-level content (no part of it is A-level only). At A-level it is examined on Paper 1, which covers sections 1 to 5 and 6.1, and it is assumed knowledge for Paper 2; Paper 3 Section A tests practical skills and data analysis, and the written papers assess the two required practicals here. Sections 3.9 to 3.13 are options: you study one, assessed in Paper 3 Section B.
 
 Use it with the [revision notes](/resources/aqa-a-level-physics-mechanics-and-materials-revision-notes/) and the [practice questions](/resources/aqa-a-level-physics-mechanics-and-materials-practice/). See also the [course hub](/boards/aqa/a-level/physics/) and the [printable checklist](/checklists/aqa/a-level/physics/). For uncertainties in the required practicals, see [Measurements and their errors](/resources/aqa-alevel-physics-limitation-of-physical-measurements/).
 
@@ -148,7 +148,7 @@ Momentum = mass × velocity (kg m s⁻¹ or N s), a vector. In a closed system, 
 
 Newton's second law in general form: **F = Δ(mv)/Δt**. **Impulse** FΔt = Δ(mv) for a constant force. The **area under a force–time graph** is the change in momentum, even for a varying force. For a given momentum change, a longer contact time means a smaller force: crumple zones, airbags and packaging use this, which links momentum to ethical transport design.
 
-**Elastic** collision: total kinetic energy conserved. **Inelastic**: it is not. **Explosion**: total momentum stays zero; kinetic energy comes from a store such as a spring.
+**Elastic** collision: total kinetic energy conserved. **Inelastic**: it is not. **Explosion**: total momentum is unchanged (zero if starting at rest); kinetic energy comes from a store such as a spring.
 
 **Worked example.** A 2.0 kg trolley at 3.0 m s⁻¹ hits a stationary 1.0 kg trolley and they stick together.
 
