@@ -15551,3 +15551,14 @@ Three more problems turned up:
   - `check_new.py` passed on all 264 pages.
   - None of the 264 pages contains a finding-ID-shaped token, a checkbox list or a calculator label.
   - The duplicate-scope check, `npm run build` and `audit:all` passed.
+
+## D-401 - Past-papers guides for 9709, 4024, 5054, 5070 and 2210 (branch `past-papers-five`, 6 Oct 2026, 23:20 PKT)
+
+- **Why.** The owner added Cambridge examiner reports and grade thresholds for these five syllabuses, up to June 2026, to the shared Papers 2025 folder. This was the last item of the gaps plan.
+- **What.** Five new `past-papers` resource pages, in the same format as the existing guides (for example 2281):
+  - `cambridge-a-level-mathematics-9709-past-papers`: March, June and November 2023 to June 2026
+  - `cambridge-o-level-mathematics-4024-past-papers`, `cambridge-o-level-physics-5054-past-papers`, `cambridge-o-level-chemistry-5070-past-papers`, `cambridge-o-level-computer-science-2210-past-papers`: June 2023 to June 2026
+- **Grade thresholds.** Transcribed by script from Cambridge's grade-threshold documents. The June and March 2026 documents use a new layout without option codes, so these pages' tables list components instead of option codes. Every row was matched again against the document text. For 9709 the tables show the full A Level routes (all four papers in one series) and the AS routes. Staged and special routes are counted in a "Not shown" line. The O Level June 2026 tables leave out one special route (component 50) in the same way.
+- **Examiner notes.** One summariser per series wrote notes in our own words. One composer per page wrote it from those notes. Independent checkers then compared every claim against the report text and made 36 corrections to wrong paper numbers, unsupported series tags and overstatements. No page shares an 8-word run with any report. Questions that Cambridge removed, or for which every candidate got full marks, are left out.
+- **Not done.** The 11 existing past-papers guides stop at 2025 or earlier. The folder now has newer reports for several of them, and they could be extended the same way.
+- **Tests (6 Oct 2026).** `check_pp.py` passed on all five pages. `validate-academic-content`, the duplicate-scope check, `npm run build` and `audit:all` also passed.
