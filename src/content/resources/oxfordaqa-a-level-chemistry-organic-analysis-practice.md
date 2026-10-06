@@ -38,7 +38,7 @@ featured: false
 This set practises **Organic analysis**, section 3.3.6 of the OxfordAQA International AS and A-level
 Chemistry (9620) specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards:
 test tube reactions and Required practical 5 (3.3.6.1), precise-mass work (3.3.6.2) and IR spectra
-(3.3.6.3). Everything here is **International AS** content and is examined in Unit 2. Question 4 uses the
+(3.3.6.3). Section 3.3.6 is **International AS** content and is examined in Unit 2. Question 4 uses the
 acid–carbonate reaction from 3.3.9.1, an **International A-level only** statement.
 
 Before starting, read the [study guide](/resources/oxfordaqa-a-level-chemistry-organic-analysis/)

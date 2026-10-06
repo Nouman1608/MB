@@ -49,7 +49,7 @@ Learn the content first in the [study guide](/resources/oxfordaqa-a-level-chemis
 
 **2.** A C–C single bond is about 154 pm long and a C=C double bond about 134 pm. All six carbon–carbon bonds in benzene are about 139 pm. Explain how these data support a delocalised model of benzene rather than cyclohexa-1,3,5-triene. **[3]**
 
-**3.** One textbook gives these enthalpies of hydrogenation, each forming cyclohexane: cyclohexa-1,3-diene (two C=C bonds), −230 kJ mol⁻¹; benzene, −206 kJ mol⁻¹.
+**3.** Use these enthalpies of hydrogenation, each forming cyclohexane: cyclohexa-1,3-diene (two C=C bonds), −230 kJ mol⁻¹; benzene, −206 kJ mol⁻¹.
 
 **(a)** Use the diene value to estimate ΔH for hydrogenating one C=C bond. **[1]**
 **(b)** Predict ΔH for hydrogenating cyclohexa-1,3,5-triene. **[1]**

@@ -110,7 +110,7 @@ If the ideas are new, start with the [polymers study guide](/resources/oxfordaqa
 
 **3. (a)** **–[CO–(CH₂)₄–CO–NH–(CH₂)₈–NH]–** with bonds through the brackets [1]
 **(b)** **HOOC–(CH₂)₄–COOH, hexanedioic acid** [1]; **H₂N–(CH₂)₈–NH₂, octane-1,8-diamine** [1] **[3]**
-*Examiner insight:* A structure needs its correct name to earn the mark here, so count the carbons in each residue, including the two carbonyl carbons of the acid.
+*Examiner insight:* Give each structure with its correct name, and count the carbons in each residue before naming, including the two carbonyl carbons of the acid.
 
 **4. (a)** **H₂N–CH(CH₂CH₂CH₃)–COOH** [1]; **H₂N–(CH₂)₃–COOH** [1]
 **(b)** Each molecule has both an –NH₂ group and a –COOH group, so the amine end of one molecule reacts with the acid end of another, and the chain can grow at both ends [1]. **[3]**
@@ -131,7 +131,7 @@ If the ideas are new, start with the [polymers study guide](/resources/oxfordaqa
 (check: 146.0 + 144.0 − 2 × 18.0 = 254.0)
 **(b)** 6.35 × 10⁴ ÷ 254.0 = **250** [1]
 **(c)** % N = 28.0 ÷ 254.0 × 100 = **11.0%** [1] **[4]**
-*Examiner insight:* Show the formula of the repeating unit before the Mr; a bare number gives an examiner nothing to credit if the arithmetic slips.
+*Examiner insight:* Write the formula of the repeating unit before the Mr, so your method is clear and any slip in the arithmetic is easy to spot.
 
 **9. (a)** **H₂N–(CH₂)₁₀–NH₂** [1]; **decane-1,10-diamine** [1]
 **(b)** **–[CO–C₆H₄–CO–NH–(CH₂)₁₀–NH]–** with bonds through the brackets [1]

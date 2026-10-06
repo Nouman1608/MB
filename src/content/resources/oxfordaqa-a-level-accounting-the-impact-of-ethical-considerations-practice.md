@@ -34,7 +34,7 @@ Revise first with the [study guide](/resources/oxfordaqa-a-level-accounting-the-
 
 **1.** State the fundamental principle most clearly breached in each case.
 
-**(a)** A management accountant emails a colleague's salary details to a friend who runs a recruitment agency. **[1]**
+**(a)** Before results are announced, a management accountant uses the unpublished loss figure to sell her own shares in the company. **[1]**
 **(b)** An assistant accountant records a complex lease she does not understand and does not ask anyone for help. **[1]**
 **(c)** A small practice advertises that it "guarantees a lower tax bill for every client". **[1]**
 
@@ -56,7 +56,7 @@ Revise first with the [study guide](/resources/oxfordaqa-a-level-accounting-the-
 **(a)** Calculate interest cover with and without the accrued interest, and state whether the loan condition is met in each case. **[3]**
 **(b)** Explain the ethical issues this raises and recommend a course of action for the accountant. **[4]**
 
-**8.** Selwyn is a management accountant at Tollerby Plastics Ltd. He sits on a panel choosing a new cleaning contractor. His brother-in-law is a director of one of the bidders. Explain the threat to the fundamental principles and how Selwyn should resolve it. **[4]**
+**8.** Selwyn is a management accountant at Tollerby Plastics Ltd. He is preparing the make-or-buy costing for outsourcing moulding work. His brother-in-law directs the only outside firm being considered. Explain the threat to the fundamental principles and how Selwyn should resolve it. **[4]**
 
 **9.** Calderhythe Castings Ltd pays its production manager a bonus of 5% of any favourable labour efficiency variance. The manager set the standard time at 2.5 hours per unit, although an engineering study found 2.0 hours to be achievable. In June, 3,600 units were made in 7,560 labour hours. The standard rate is 18 per hour.
 
@@ -75,7 +75,7 @@ Evaluate the corporate governance of Yarrowfield Foods plc and recommend changes
 
 ## Answers
 
-**1. (a)** Confidentiality: personal information disclosed without authority [1].
+**1. (a)** Confidentiality: information obtained at work used for personal advantage [1].
 **(b)** Professional competence and due care: work done without the knowledge needed or the care to seek help [1].
 **(c)** Professional behavior: a misleading claim that could discredit the profession [1].
 *Examiner insight:* Use the principle's exact name; a loose paraphrase may not be accepted.
@@ -100,8 +100,8 @@ Evaluate the corporate governance of Yarrowfield Foods plc and recommend changes
 **(b)** Omitting the accrual breaks the accruals concept, understating finance costs and current liabilities [1]. Doing it knowingly to pass the covenant breaches integrity and misleads the bank [1]. The managing director has a self-interest threat; the instruction is an intimidation threat to the accountant [1]. The accountant should explain the correct treatment in writing, refuse, and escalate to the board or audit committee if pressed [1].
 *Examiner insight:* Show the formula and working; a bare ratio gives nothing to reward if a figure slips.
 
-**8.** The family link creates a conflict of interest, a threat to objectivity [1]; even if Selwyn is fair, others may believe the choice was biased, a risk to professional behavior [1]. He should declare the relationship to the panel chair in writing [1] and withdraw from assessing and voting on the bids, so the decision is made by people with no connection [1].
-*Examiner insight:* "Resolve" needs declare and withdraw; declaring alone leaves him influencing the decision.
+**8.** The family link creates a conflict of interest, a threat to objectivity [1]; his cost estimates could lean towards the relative's firm, and a reasonable and informed third party would doubt the result [1]. He should disclose the relationship in writing to the finance director [1] and hand the costing to an unconnected colleague, or have it independently reviewed [1].
+*Examiner insight:* "Resolve" needs disclosure plus a step that removes his influence on the figures; disclosure alone does not resolve it.
 
 **9. (a)** Manager's standard: standard hours = 3,600 x 2.5 = 9,000 [1]; variance = (9,000 - 7,560) x 18 = **25,920 favourable** [1]. Engineering standard: standard hours = 3,600 x 2.0 = 7,200 [1]; variance = (7,200 - 7,560) x 18 = **6,480 adverse** [1].
 **(b)** Bonus = 5% x 25,920 = **1,296** under the manager's standard; **nil** under the engineering standard [1].

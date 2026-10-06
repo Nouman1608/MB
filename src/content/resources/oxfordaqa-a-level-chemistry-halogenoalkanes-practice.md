@@ -53,7 +53,8 @@ C = 12.0, Cl = 35.5, H = 1.0, K = 39.1, N = 14.0, O = 16.0.
 **(b)** Identify the two species in the list that act as nucleophiles towards halogenoalkanes, and give the
 feature they share. **[2]**
 
-**2.** Explain why the carbon atom bonded to bromine in a bromoalkane is attacked by nucleophiles. **[2]**
+**2.** Nucleophiles react with a bromoalkane at one particular carbon atom. Say which one, and account for
+this in terms of how the bonding electrons are shared. **[2]**
 
 **3.** 1-Bromo-2,3-dimethylbutane, BrCH₂CH(CH₃)CH(CH₃)CH₃, is heated under reflux with potassium
 cyanide in aqueous ethanol.
@@ -121,7 +122,7 @@ and state how many there are. **[3]**
 *Examiner insight:* "Negative ion" is not the shared feature, since NH₃ is neutral; answers built
 around the lone pair are the ones that earn credit.
 
-**2.** The bonding pair in C–Br is drawn towards bromine, the more electronegative atom, leaving carbon δ+ [1]. The
+**2.** The carbon joined to bromine: the C–Br bonding pair is drawn towards bromine, the more electronegative atom, leaving that carbon δ+ [1]. The
 electron-deficient carbon attracts the lone pair of a nucleophile [1]. **[2]**
 *Examiner insight:* Say which atom is δ+ and why; "the bond is polar" alone does not explain the
 attack.

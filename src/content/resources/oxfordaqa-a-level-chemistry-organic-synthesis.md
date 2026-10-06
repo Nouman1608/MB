@@ -73,7 +73,7 @@ Examples you meet in this specification:
 - **Epoxyethane production** (3.3.4.4 asks you to understand its hazards). Epoxyethane is extremely
   flammable, forms explosive mixtures with air, and is toxic and carcinogenic.
 - **(Chloromethyl)benzene**, the side-chain chlorination product of methylbenzene, is toxic, irritates the
-  eyes and skin, and is a carcinogen. Chlorine, used to make it, is a toxic gas.
+  eyes and skin, and may cause cancer. Chlorine, used to make it, is a toxic gas.
 - **Ethanoic anhydride rather than ethanoyl chloride** for aspirin (3.3.9.2): the anhydride is cheaper,
   less corrosive, reacts less violently with water and gives no hydrogen chloride gas.
 
@@ -89,7 +89,7 @@ From 3.1.2.5:
 
 Take the masses from the balanced equation, multiplying each reactant by its coefficient. A high value
 means most reactant atoms finish in the wanted product, so less is thrown away. Additions (one product)
-give 100%. Substitutions and eliminations always make a by-product, so they give less than 100%.
+give 100%. Substitutions and eliminations usually make a by-product as well, so they usually give less than 100%.
 
 Atom economy is a property of the **equation**. Percentage yield is a property of the **experiment**: how
 much product you actually collect compared with the maximum. Do not mix them up.

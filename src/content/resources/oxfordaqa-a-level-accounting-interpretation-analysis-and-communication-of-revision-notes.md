@@ -20,7 +20,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-These revision notes condense section 3.2.9, Interpretation, analysis and communication of accounting information, of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. This content belongs to the **International A-level only**; according to the specification, Paper 3 and Paper 4 both assess it. The [study guide] has the full teaching(/resources/oxfordaqa-a-level-accounting-interpretation-analysis-and-communication-of/); to test yourself, use the [practice questions](/resources/oxfordaqa-a-level-accounting-interpretation-analysis-and-communication-of-practice/). Names and numbers are made up; money is in dollars, share prices in cents.
+These revision notes condense section 3.2.9, Interpretation, analysis and communication of accounting information, of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. This content belongs to the **International A-level only**; according to the specification, Paper 3 and Paper 4 both assess it. The [study guide](/resources/oxfordaqa-a-level-accounting-interpretation-analysis-and-communication-of/) has the full teaching; to test yourself, use the [practice questions](/resources/oxfordaqa-a-level-accounting-interpretation-analysis-and-communication-of-practice/). Names and numbers are made up; money is in dollars, share prices in cents.
 
 Other links: the [course hub](/boards/oxfordaqa/a-level/accounting/), the [9615 checklist](/checklists/oxfordaqa/a-level/accounting/), the free [diagnostics](/diagnostics/), and the International AS [ratio revision notes](/resources/oxfordaqa-a-level-accounting-analysis-and-evaluation-of-financial-information-revision-notes/), which hold the twelve 3.1.8 ratios you still need here.
 
@@ -43,7 +43,7 @@ OxfordAQA's guide *Formulae for accounting ratios* states that you are required 
 | Dividend yield | Income-seeking shareholders | % | Dividend per share / Market price per share × 100 |
 | Interest cover | Lenders | times | Profit before interest and tax / Interest payable |
 | Price earnings | Potential investors | times | Market price per share / Earnings per share |
-| Dividend cover | Shareholders judging dividend safety | times | Profit after interest and tax / Ordinary share dividends paid |
+| Dividend cover | Shareholders judging dividend safety | times (the guide prints × 100, giving %) | Profit after interest and tax / Ordinary share dividends paid |
 
 **Linked figures**
 

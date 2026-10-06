@@ -76,7 +76,8 @@ skills a synthesis draws on.
 - Every step loses some product, so the overall yield drops with each step added.
 - Every step needs its own reagents, energy, separation, time and waste disposal.
 - High atom economy: most reactant atoms end up in the product, so less by-product and less waste.
-- Addition = 100% atom economy. Substitution and elimination are always below 100%.
+- Addition = 100% atom economy. Substitution and elimination are usually below 100% (an exception: an
+  amine plus a halogenoalkane giving a quaternary ammonium salt as the only product).
 - A useful by-product (one that can be sold) softens a low atom economy.
 
 ## The 9620 reaction map

@@ -153,7 +153,7 @@ ROH + nC₂H₄O       → R(OCH₂CH₂)ₙOH        surfactant when R is a lon
 ```
 
 > **Method: mechanism with water or an alcohol**
-> 1. Arrow from a lone pair on the O of H₂O or ROH to a ring carbon.
+> 1. Curly arrow starts at an oxygen lone pair of H₂O or ROH and ends at a ring carbon.
 > 2. Arrow from that ring C–O bond to the ring O (ring opens).
 > 3. Intermediate RO⁺(H)CH₂CH₂O⁻; a proton moves from O⁺–H to O⁻.
 

@@ -200,7 +200,7 @@ The payroll supervisor is a close friend of Rhosyn's line manager. Rhosyn should
 
 - Naming a principle without tying it to a specific fact in the scenario.
 - Mixing up objectivity (free from bias) and integrity (honesty).
-- Calling a qualified opinion "the accounts are wrong"; that describes an adverse opinion.
+- Reading a qualified opinion as a verdict on all the statements; that is an adverse opinion.
 - Treating ethics as a financial accounting topic only, and missing it in budgets, standards and investment appraisals.
 - Jumping straight to the press or a regulator before internal routes and professional advice.
 - Ignoring given figures: show the effect, then the ethics.

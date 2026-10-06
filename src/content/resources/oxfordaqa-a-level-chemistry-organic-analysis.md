@@ -77,8 +77,9 @@ oxidised. A ketone leaves Fehling's solution blue and gives no silver mirror.
 
 - **Bromine.** Br₂ adds across the double bond (electrophilic addition), so the orange bromine is used up.
   For but-2-ene: CH₃CH=CHCH₃ + Br₂ → CH₃CHBrCHBrCH₃.
-- **Dichromate(VI).** The alcohol is oxidised and orange Cr₂O₇²⁻ is reduced to green Cr³⁺. With [O] as the
-  oxidant, a secondary alcohol gives a ketone: CH₃CH(OH)CH₂CH₃ + [O] → CH₃COCH₂CH₃ + H₂O.
+- **Dichromate(VI).** Orange Cr₂O₇²⁻ ions gain electrons and become green Cr³⁺ ions while the alcohol is
+  oxidised. With [O] as the oxidant, octan-2-ol (secondary) gives octan-2-one:
+  CH₃CH(OH)(CH₂)₅CH₃ + [O] → CH₃CO(CH₂)₅CH₃ + H₂O.
 - **Fehling's solution.** An aldehyde reduces the blue copper(II) complex to red copper(I) oxide, Cu₂O,
   and is itself oxidised.
 - **Tollens' reagent.** The active species is the linear complex [Ag(NH₃)₂]⁺ (the specification names it

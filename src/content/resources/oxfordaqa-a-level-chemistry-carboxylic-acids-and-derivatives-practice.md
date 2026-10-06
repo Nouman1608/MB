@@ -71,7 +71,7 @@ Revise from the [study guide](/resources/oxfordaqa-a-level-chemistry-carboxylic-
 **(c)** excess ammonia **[1]**
 **(d)** excess propylamine, CH₃CH₂CH₂NH₂. **[1]**
 
-**7.** Heptanoyl chloride, CH₃(CH₂)₅COCl, reacts with methanol.
+**7.** Octanoyl chloride, CH₃(CH₂)₆COCl, reacts with methanol.
 
 **(a)** State the name of this type of mechanism. **[1]**
 **(b)** Outline it, describing each curly arrow and the intermediate. **[3]**
@@ -97,12 +97,12 @@ Revise from the [study guide](/resources/oxfordaqa-a-level-chemistry-carboxylic-
 **(d)** Use the melting point data to compare the purity of the two samples. **[2]**
 **(e)** Suggest one reason, other than the removal of impurities, why the mass falls. **[1]**
 
-**11.** Ester X, C₆H₁₂O₂, is heated under reflux with excess sodium hydroxide solution. The products are sodium propanoate and an alcohol, B. When B is warmed with acidified potassium dichromate(VI), the solution turns from orange to green. The organic product gives no silver mirror with Tollens' reagent.
+**11.** Ester X, C₆H₁₂O₂, is heated under reflux with excess sodium hydroxide solution. The products are sodium propanoate and an alcohol, B. When B is warmed with acidified potassium dichromate(VI) and the product is distilled off as it forms, the solution turns from orange to green. The distillate gives no silver mirror with Tollens' reagent.
 
 **(a)** Identify B, explaining your reasoning. **[2]**
 **(b)** Give the structural formula of X. **[1]**
 **(c)** Calculate the mass of sodium propanoate formed from 4.64 g of X. **[2]**
-**(d)** Name a reagent that converts B into X in a reaction that is not reversible, and write an equation for this reaction. **[2]**
+**(d)** Write an equation for the reaction of B with propanoic anhydride to form X, and explain why this route gives a higher yield of X than heating B with propanoic acid and an acid catalyst. **[2]**
 
 ## Answers
 
@@ -137,7 +137,7 @@ Revise from the [study guide](/resources/oxfordaqa-a-level-chemistry-carboxylic-
 
 **7. (a)** Nucleophilic addition–elimination [1]
 **(b)** Curly arrow from an O lone pair in CH₃OH to the δ+ C of C=O, plus a curly arrow from the C=O π bond onto O [1]; intermediate showing O⁻, Cl still attached, and O⁺ (bonded to H and CH₃) from the methanol [1]; C=O re-formed from the O⁻ lone pair, C–Cl electrons moving onto Cl as Cl⁻ leaves, and H⁺ lost from O⁺ [1]
-**(c)** **Methyl heptanoate** [1] **[5]**
+**(c)** **Methyl octanoate** [1] **[5]**
 *Examiner insight:* Begin every curly arrow at a bond or a lone pair; arrows that start on a charge or an atom symbol do not show the source of the electrons.
 
 **8. (a)** (C₄H₉CO)₂O + H₂O → 2C₄H₉COOH [1]
@@ -157,10 +157,10 @@ Revise from the [study guide](/resources/oxfordaqa-a-level-chemistry-carboxylic-
 **(e)** Some Z stays dissolved in the cold solvent and is lost in the filtrate [1] **[6]**
 *Examiner insight:* For (d), use both features of the data, the temperature and the width of the range, for each sample.
 
-**11. (a)** Sodium propanoate has three carbons, so B has 6 − 3 = 3 carbons [1]; B is oxidised to a product that is not an aldehyde, so B is a secondary alcohol: **propan-2-ol** [1]
+**11. (a)** Sodium propanoate has three carbons, so B has 6 − 3 = 3 carbons [1]; B is oxidised, but the distillate is not an aldehyde (a primary alcohol would give propanal), so B is a secondary alcohol: **propan-2-ol** [1]
 **(b)** **CH₃CH₂COOCH(CH₃)₂** [1]
 **(c)** Mr of X = 116.0, so amount = 4.64 ÷ 116.0 = 0.0400 mol [1]; Mr of CH₃CH₂COONa = 96.0, so mass = 0.0400 × 96.0 = **3.84 g** [1]
-**(d)** Propanoyl chloride [1]; CH₃CH₂COCl + (CH₃)₂CHOH → CH₃CH₂COOCH(CH₃)₂ + HCl [1] **[7]**
+**(d)** (CH₃CH₂CO)₂O + (CH₃)₂CHOH → CH₃CH₂COOCH(CH₃)₂ + CH₃CH₂COOH [1]; the anhydride reaction is not reversible, whereas esterification with the acid reaches an equilibrium [1] **[7]**
 *Examiner insight:* Link each observation to a conclusion in (a); a bare name for B cannot earn the reasoning mark.
 
 ## Where marks are usually lost

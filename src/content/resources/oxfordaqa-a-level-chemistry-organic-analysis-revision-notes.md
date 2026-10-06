@@ -32,8 +32,8 @@ featured: false
 Here is **Organic analysis**, section 3.3.6 of the OxfordAQA International AS and A-level Chemistry (9620)
 specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards, in condensed form.
 The notes summarise functional group tests and Required practical 5 (3.3.6.1), molecular formulae from
-precise masses (3.3.6.2) and IR spectra (3.3.6.3). Everything here is **International AS** content and is
-examined in Unit 2. For full explanations and
+precise masses (3.3.6.2) and IR spectra (3.3.6.3). Section 3.3.6 is **International AS** content and is
+examined in Unit 2; the one exception, the carbonate test, is labelled below. For full explanations and
 worked examples, use the [organic analysis study guide](/resources/oxfordaqa-a-level-chemistry-organic-analysis/).
 
 When you can recall these notes, try the [practice questions](/resources/oxfordaqa-a-level-chemistry-organic-analysis-practice/).

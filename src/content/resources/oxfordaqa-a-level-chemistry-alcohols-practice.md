@@ -108,15 +108,15 @@ C₇H₁₄O, with concentrated phosphoric acid and distilling the alkene off as
 **(b)** Draw the repeating unit of poly(propene). **[1]**
 **(c)** Give one advantage of this route over making propene from crude oil. **[1]**
 
-**11.** Heptan-1-ol, CH₃(CH₂)₅CH₂OH, is oxidised by acidified potassium dichromate(VI) in two experiments.
+**11.** 2-Methylpentan-1-ol, CH₃CH₂CH₂CH(CH₃)CH₂OH, is oxidised by acidified potassium dichromate(VI) in two experiments.
 
-- Experiment A: heptan-1-ol in excess, gentle warming, product distilled off as it forms.
+- Experiment A: 2-methylpentan-1-ol in excess, gentle warming, product distilled off as it forms.
 - Experiment B: excess oxidising agent, heated under reflux, then distilled.
 
 **(a)** Name the organic product of each experiment and write an equation, using [O], for each. **[4]**
-**(b)** Explain why the product of Experiment A has a lower boiling point than heptan-1-ol. **[2]**
+**(b)** Explain why the product of Experiment A has a lower boiling point than 2-methylpentan-1-ol. **[2]**
 **(c)** Each product is warmed with Tollens' reagent. State what is seen in each case. **[2]**
-**(d)** In Experiment A, 6.38 g of heptan-1-ol gives 3.99 g of product. Calculate the percentage yield. **[2]**
+**(d)** In Experiment A, 5.61 g of 2-methylpentan-1-ol gives 3.50 g of product. Calculate the percentage yield. **[2]**
 
 ## Answers
 
@@ -162,11 +162,11 @@ C₇H₁₄O, with concentrated phosphoric acid and distilling the alkene off as
 **(c)** It does not use monomers derived from crude oil, a finite resource [1]
 *Examiner insight:* A repeating unit without the two extension bonds, or with a C=C left in it, is not credited.
 
-**11. (a)** A: **heptanal** [1]; CH₃(CH₂)₅CH₂OH + [O] → CH₃(CH₂)₅CHO + H₂O [1]; B: **heptanoic acid** [1]; CH₃(CH₂)₅CH₂OH + 2[O] → CH₃(CH₂)₅COOH + H₂O [1]
-**(b)** Heptan-1-ol molecules form hydrogen bonds with each other (O–H group) [1]; heptanal has no O–H, so no hydrogen bonding between its molecules and less energy is needed to separate them [1]
-**(c)** Heptanal (A): a silver mirror forms [1]; heptanoic acid (B): no change [1]
-**(d)** n(heptan-1-ol) = 6.38 ÷ 116.0 = 0.0550 mol; n(heptanal) = 3.99 ÷ 114.0 = 0.0350 mol [1]; yield = 0.0350 ÷ 0.0550 × 100 = **63.6 %** [1]
-*Examiner insight:* In (b), "heptanal has weaker bonds" scores nothing; the answer must name hydrogen bonding between molecules of the alcohol and its absence in the aldehyde.
+**11. (a)** A: **2-methylpentanal** [1]; CH₃CH₂CH₂CH(CH₃)CH₂OH + [O] → CH₃CH₂CH₂CH(CH₃)CHO + H₂O [1]; B: **2-methylpentanoic acid** [1]; CH₃CH₂CH₂CH(CH₃)CH₂OH + 2[O] → CH₃CH₂CH₂CH(CH₃)COOH + H₂O [1]
+**(b)** 2-Methylpentan-1-ol molecules form hydrogen bonds with each other (O–H group) [1]; 2-methylpentanal has no O–H, so no hydrogen bonding between its molecules and less energy is needed to separate them [1]
+**(c)** 2-Methylpentanal (A): a silver mirror forms [1]; 2-methylpentanoic acid (B): no change [1]
+**(d)** n(2-methylpentan-1-ol) = 5.61 ÷ 102.0 = 0.0550 mol; n(2-methylpentanal) = 3.50 ÷ 100.0 = 0.0350 mol [1]; yield = 0.0350 ÷ 0.0550 × 100 = **63.6 %** [1]
+*Examiner insight:* In (b), "the aldehyde has weaker bonds" scores nothing; the answer must name hydrogen bonding between molecules of the alcohol and its absence in the aldehyde.
 
 ## Where marks are usually lost
 
@@ -175,8 +175,6 @@ C₇H₁₄O, with concentrated phosphoric acid and distilling the alkene off as
 - Describing distillation for an aldehyde without "as it forms" and the reason.
 - No observation for the compound that does not react in a Fehling's or Tollens' test.
 - Curly arrows starting at H⁺ or a positive charge, or no H⁺ released in the last step.
-- Missing positional isomers or E/Z isomers among elimination products.
-- Using masses, not moles, in a percentage yield.
 
 ## Next steps
 

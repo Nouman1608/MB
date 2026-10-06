@@ -20,7 +20,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This study guide teaches section 3.2.9, Interpretation, analysis and communication of accounting information, from the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. It is **International A-level only** content. The specification lists 3.2.9 in what is assessed by Paper 3: Financial Accounting and by Paper 4: Accounting for analysis and decision making. Every company and number below is made up; money is shown in dollars, with share prices quoted in cents.
+This study guide teaches section 3.2.9, Interpretation, analysis and communication of accounting information, from the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. It is **International A-level only** content. The specification lists 3.2.9 in what is assessed by Paper 3: Financial Accounting and by Paper 4: Accounting for analysis and decision making. All companies and numbers are invented; money is in dollars, share prices in cents.
 
 The International AS ratios and their general limitations are taught in [analysis and evaluation of financial information](/resources/oxfordaqa-a-level-accounting-analysis-and-evaluation-of-financial-information/) and not repeated here. Use this guide with the [revision notes](/resources/oxfordaqa-a-level-accounting-interpretation-analysis-and-communication-of-revision-notes/) and the [practice questions](/resources/oxfordaqa-a-level-accounting-interpretation-analysis-and-communication-of-practice/). For the whole course see the [OxfordAQA accounting hub](/boards/oxfordaqa/a-level/accounting/); track progress with the [printable checklist](/checklists/oxfordaqa/a-level/accounting/); a free [diagnostic](/diagnostics/) shows where to start.
 
@@ -45,11 +45,11 @@ OxfordAQA's guide *Formulae for accounting ratios* states that you are required 
 | Dividend yield | per cent | Dividend per share / Market price per share × 100 |
 | Interest cover | times | Profit before interest and tax / Interest payable |
 | Price earnings | times | Market price per share / Earnings per share |
-| Dividend cover | times | Profit after interest and tax / Ordinary share dividends paid |
+| Dividend cover | times (the guide prints × 100, giving %) | Profit after interest and tax / Ordinary share dividends paid |
 
 Dividend per share is total ordinary dividends shared across every issued ordinary share. Work EPS and dividend per share in cents when the share price is in cents. For a company, profit before interest and tax is profit from operations.
 
-### Worked example: Ardleigh Pumps plc
+### Worked example: Ardleigh Valves plc
 
 Ardleigh has 8,000,000 issued ordinary shares. Years ended 30 June:
 
@@ -91,21 +91,22 @@ The specification includes management information. A month's variance report fro
 | Fixed overhead expenditure | 700 A |
 | Net | 2,000 A |
 
-Look past the total. A favourable price variance beside an adverse usage variance suggests cheaper, lower-grade metal that produced more scrap. A higher labour rate with favourable efficiency suggests more skilled staff working faster. The methods behind these figures are in [standard costing and variance analysis](/resources/oxfordaqa-a-level-accounting-standard-costing-and-variance-analysis/) and [budgeting](/resources/oxfordaqa-a-level-accounting-budgeting/).
+Look past the total. A favourable price variance beside an adverse usage variance suggests cheaper, lower-grade metal that produced more scrap. A higher labour rate with favourable efficiency suggests more skilled staff working faster. Methods: [standard costing and variance analysis](/resources/oxfordaqa-a-level-accounting-standard-costing-and-variance-analysis/) and [budgeting](/resources/oxfordaqa-a-level-accounting-budgeting/).
 
 ## Evaluating performance across periods and against competitors
 
 **Internal comparison** sets this year against earlier years, a budget or a target. **External comparison** sets the business against a competitor or the industry average. Organise both under profitability, liquidity, efficiency and capital structure.
 
-Merrowdale Pumps plc is a rival. Ardleigh's equity was 7,400,000 in 2025 and 8,024,000 in 2026; its debentures were 1,600,000 and 2,600,000.
+Merrowdale Valves plc is a rival. Ardleigh's equity was 7,400,000 in 2025 and 8,024,000 in 2026; its debentures were 1,600,000 and 2,600,000.
 
 | Measure | Ardleigh 2025 | Ardleigh 2026 | Merrowdale 2026 |
 |---|---:|---:|---:|
 | Gross profit margin | 39.00% | 38.00% | 41.00% |
-| Profit from operations to revenue | 12.55% | 12.00% | 14.00% |
+| Profit in relation to revenue | 9.09% | 8.39% | 8.80% |
 | Return on capital employed | 15.33% | 14.01% | 16.80% |
 | Current ratio | 2.00 : 1 | 1.80 : 1 | 1.30 : 1 |
 | Liquid capital ratio | 1.24 : 1 | 1.00 : 1 | 0.70 : 1 |
+| Trade receivable days | 41 | 46 | 58 |
 | Capital gearing | 17.78% | 24.47% | 52.00% |
 | Interest cover | 10.62 times | 7.91 times | 3.00 times |
 | EPS (cents) | 12.5 | 13.0 | 16.8 |
@@ -117,6 +118,7 @@ ROCE for 2026 is 1,488,000 / (8,024,000 + 2,600,000) × 100 = 14.01%.
 
 - **Profitability.** Revenue grew 12.73%, but both margins slipped. Merrowdale converts more of each sale into profit and earns more on its capital.
 - **Liquidity.** Ardleigh's ratios fell but remain sound. Merrowdale relies on selling inventory to pay current liabilities.
+- **Efficiency.** Ardleigh collects debts more slowly than last year, but faster than Merrowdale.
 - **Capital structure.** Merrowdale finances over half its long-term capital with debt; interest cover of 3.00 times leaves little room if profit falls.
 - **Investors.** Merrowdale pays out 80% of profit after tax, giving a high yield, but cover of 1.25 times makes the dividend fragile. Its low price earnings shows the market prices in that risk. Its higher EPS proves nothing on its own: it has half as many shares.
 
@@ -207,7 +209,7 @@ Rights issue: 2,500,000 new shares
 - Praising a high dividend yield without checking dividend cover.
 - Listing stakeholder impacts without reaching a judgement.
 
-Next, the [revision notes](/resources/oxfordaqa-a-level-accounting-interpretation-analysis-and-communication-of-revision-notes/), the [practice questions](/resources/oxfordaqa-a-level-accounting-interpretation-analysis-and-communication-of-practice/), [limited company accounts](/resources/oxfordaqa-a-level-accounting-limited-company-accounts/) and [capital investment appraisal](/resources/oxfordaqa-a-level-accounting-capital-investment-appraisal/).
+Next: [limited company accounts](/resources/oxfordaqa-a-level-accounting-limited-company-accounts/) and [capital investment appraisal](/resources/oxfordaqa-a-level-accounting-capital-investment-appraisal/).
 
 ## Official syllabus
 

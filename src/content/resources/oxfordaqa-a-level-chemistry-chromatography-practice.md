@@ -31,7 +31,7 @@ featured: false
 
 This set covers 3.3.16 Chromatography (subsection 3.3.16.1) of the OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS and A-level exams from May/June 2020 onwards. Because this is International A2 content, all of these questions are **International A-level only**. Question 4 also uses 3.3.13.2 (locating amino acids), and questions 7 and 9 use precise masses from 3.3.6.2.
 
-Learn the topic first from the [study guide](/resources/oxfordaqa-a-level-chemistry-chromatography/) or the [revision notes](/resources/oxfordaqa-a-level-chemistry-chromatography-revision-notes/). The [OxfordAQA A-Level Chemistry hub](/boards/oxfordaqa/a-level/chemistry/), the [printable checklist](/checklists/oxfordaqa/a-level/chemistry/) while the [free diagnostics](/diagnostics/) point to your weakest topics.
+Learn the topic first from the [study guide](/resources/oxfordaqa-a-level-chemistry-chromatography/) or the [revision notes](/resources/oxfordaqa-a-level-chemistry-chromatography-revision-notes/). The [OxfordAQA A-Level Chemistry hub](/boards/oxfordaqa/a-level/chemistry/) and the [printable checklist](/checklists/oxfordaqa/a-level/chemistry/) cover the whole course, while the [free diagnostics](/diagnostics/) point to your weakest topics.
 
 **Data.** Precise masses to use: C = 12.0000, H = 1.0078, N = 14.0031, O = 15.9949. Give Rf values to 2 decimal places.
 

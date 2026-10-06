@@ -181,7 +181,7 @@ Excess ammonia favours the primary amine; excess halogenoalkane pushes through t
 
 ### Quaternary ammonium salts as cationic surfactants
 
-A tertiary amine and a long-chain halogenoalkane give a quaternary salt with a long hydrocarbon tail, such as CH₃(CH₂)₁₃N⁺(CH₃)₃ Cl⁻ from trimethylamine and 1-chlorotetradecane. The charged N⁺ head interacts with water; the non-polar tail mixes with oils and grease. A surfactant with a positive head is **cationic**. Quaternary ammonium salts of this kind are used in liquid fabric softeners and hair conditioners.
+A tertiary amine and a long-chain halogenoalkane give a quaternary salt with a long hydrocarbon tail, such as CH₃(CH₂)₁₃N⁺(CH₂CH₃)₃ Cl⁻ from triethylamine and 1-chlorotetradecane. The charged N⁺ head interacts with water; the non-polar tail mixes with oils and grease. A surfactant with a positive head is **cationic**. Quaternary ammonium salts of this kind are used in liquid fabric softeners and hair conditioners.
 
 ### Addition–elimination with acyl chlorides
 

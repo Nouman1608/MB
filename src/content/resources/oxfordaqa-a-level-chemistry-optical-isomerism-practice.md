@@ -146,7 +146,7 @@ Learn the ideas first in the [optical isomerism study guide](/resources/oxfordaq
 **(b)** In pentanal the C=O carbon and its three attached atoms lie in one **plane** [1]. The cyanide ion can add to this carbon from **above the plane or from below it** [1]. Neither route is favoured, so a **50:50 mixture** of the enantiomers results [1]
 **(c)** Mr of pentanal = 86.0, so n = 3.44 / 86.0 = 0.0400 mol [1]. Mr of C₆H₁₁NO = 113.0, so maximum mass = 0.0400 × 113.0 = **4.52 g** [1]
 **(d)** 0.800 × 4.52 = 3.616 g; each enantiomer = 3.616 / 2 = **1.81 g** [1] **[7]**
-*Examiner insight:* Show both Mr values in (c); a clear line of working lets an examiner follow a slip, while a bare wrong answer earns nothing.
+*Examiner insight:* Show both Mr values in (c) and the moles of pentanal, so every step of your method is visible; a bare final answer gives no evidence of correct working if it turns out to be wrong.
 
 **10. (a)** CH₃COCH₂CH₂CH₂CH₃ + HCN → **CH₃C(OH)(CN)CH₂CH₂CH₂CH₃** [1]
 **(b)** **2-hydroxy-2-methylhexanenitrile** [1]
@@ -155,7 +155,7 @@ Learn the ideas first in the [optical isomerism study guide](/resources/oxfordaq
 **(e)** The conclusion is wrong: the product does have a chiral centre (C2) [1]. It forms as a racemate, so the equal and opposite rotations of the two enantiomers cancel [1] **[8]**
 *Examiner insight:* For (e), an "evaluate" answer needs a judgement plus a reason; "the student is wrong" on its own earns nothing.
 
-**11. (a)** C3 carries **H, Cl, CH₃ and CH=CH₂**, so it is a chiral centre [1]. the terminal CH₂= carbon has two identical H atoms, so E and Z forms are impossible [1]
+**11. (a)** C3 carries **H, Cl, CH₃ and CH=CH₂**, so it is a chiral centre [1]. The terminal CH₂= carbon has two identical H atoms, so E and Z forms are impossible [1]
 **(b)** Rotation about the C=C is restricted and both alkene carbons have two unlike substituents (C2: H and CH₂Cl; C3: H and CH₃) [1]. No carbon has four different groups: C1 is CH₂Cl and C4 is CH₃ [1]
 **(c)** 2 enantiomers + 2 E–Z isomers = **4** [1] **[5]**
 *Examiner insight:* Deal with each type of stereoisomerism separately; one sentence covering both usually misses a reason for one of them.

@@ -115,9 +115,9 @@ In alkali the acid ends up as its carboxylate ion, which does not react with the
 
 ### Worked example 4: one fat, two products
 
-Glyceryl tritetradecanoate, (C₁₃H₂₇COO)₃C₃H₅, has Mr 722.0. Separate 28.9 g samples are (a) boiled with excess NaOH(aq) and (b) reacted with methanol and a catalyst. Calculate the maximum mass of sodium tetradecanoate (Mr 250.0), of methyl tetradecanoate (Mr 242.0) and of glycerol (Mr 92.0) from one sample.
+Glyceryl tritetradecanoate, (C₁₃H₂₇COO)₃C₃H₅, has Mr 722.0. Separate 28.88 g samples are (a) boiled with excess NaOH(aq) and (b) reacted with methanol and a catalyst. Calculate the maximum mass of sodium tetradecanoate (Mr 250.0), of methyl tetradecanoate (Mr 242.0) and of glycerol (Mr 92.0) from one sample.
 
-1. Amount of fat = 28.9 ÷ 722.0 = 0.0400 mol.
+1. Amount of fat = 28.88 ÷ 722.0 = 0.0400 mol.
 2. (C₁₃H₂₇COO)₃C₃H₅ + 3NaOH → 3C₁₃H₂₇COONa + C₃H₅(OH)₃
 3. Sodium tetradecanoate = 3 × 0.0400 = 0.120 mol, so mass = 0.120 × 250.0 = **30.0 g**.
 4. (C₁₃H₂₇COO)₃C₃H₅ + 3CH₃OH → 3C₁₃H₂₇COOCH₃ + C₃H₅(OH)₃

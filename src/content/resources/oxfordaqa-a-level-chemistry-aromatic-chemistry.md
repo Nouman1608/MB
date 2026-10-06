@@ -61,7 +61,7 @@ The structure with three fixed C=C bonds is a theoretical molecule called **cycl
 
 Comparing the energy released when benzene and a compound with one C=C bond are hydrogenated shows how much more stable benzene is than the triene.
 
-**Worked example 1.** One textbook data set gives these enthalpies of hydrogenation:
+**Worked example 1.** Use these enthalpies of hydrogenation:
 
 - cyclohexene + H₂ → cyclohexane, ΔH = −118 kJ mol⁻¹
 - benzene + 3H₂ → cyclohexane, ΔH = −206 kJ mol⁻¹
@@ -123,7 +123,7 @@ You may also see the electrophile written as HSO₃⁺. The pattern of curly arr
 
 **Methylbenzene** gives mainly **4-methylbenzenesulfonic acid**, with some 2-methylbenzenesulfonic acid.
 
-**Why sulfonation matters.** Sulfonation is an important step in making **surfactants** and **sulfonamides**. Many detergents are sodium salts of alkylbenzenesulfonic acids: a long alkyl chain is joined to the ring, the ring is sulfonated, and the acid is neutralised with sodium hydroxide. Sulfonamides include the original synthetic antibacterial drugs.
+**Why sulfonation matters.** Sulfonation is an important step in making **surfactants** and **sulfonamides**. Many detergents are sodium salts of alkylbenzenesulfonic acids: a long alkyl chain is joined to the ring, the ring is sulfonated, and the acid is neutralised with sodium hydroxide. Sulfonamides include the sulfa drugs, an early group of synthetic antibacterial medicines.
 
 ### Friedel–Crafts acylation and alkylation
 
@@ -137,7 +137,7 @@ Both reactions use **aluminium chloride, AlCl₃**, as a catalyst under dry cond
 | Product from benzene | phenyl ketone, C₆H₅COR | alkylbenzene, C₆H₅R |
 | Catalyst re-formed | H⁺ + AlCl₄⁻ → AlCl₃ + HCl | H⁺ + AlCl₄⁻ → AlCl₃ + HCl |
 
-Both reactions join a new carbon chain to the ring, which is why acylation is an important step in synthesis. An alkyl group makes the ring more reactive, so the alkylbenzene can be attacked again. Using benzene in excess keeps the main product monosubstituted.
+Both reactions join a new carbon chain to the ring, which is why acylation is an important step in synthesis. An alkyl group makes the ring more reactive, so the alkylbenzene can be attacked again. A large excess of benzene is used so that the main product is monosubstituted.
 
 **Worked example 2.** 11.7 g of benzene is heated with 2-chloropropane, CH₃CHClCH₃, and AlCl₃. The organic product weighs 13.5 g. Ar: H = 1.0, C = 12.0, Cl = 35.5.
 

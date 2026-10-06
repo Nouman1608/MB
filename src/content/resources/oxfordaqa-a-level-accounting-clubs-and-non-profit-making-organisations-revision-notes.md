@@ -106,7 +106,7 @@ Balancing figure                             =  9,890
 Subscription income (9,890 - 40 written off) =  9,850
 ```
 
-Show 9,890 less 40 in the income and expenditure account, or 9,850 with the 40 as an expense: the surplus is the same.
+Show 9,890 less 40 (net 9,850) in the income and expenditure account, or 9,890 as income with the 40 as an expense: the surplus is the same.
 
 ## Bar or café trading account
 

@@ -162,7 +162,7 @@ Rf  =  --------------------------------------------------------
 ### Answers
 
 1. Rf = 3.8 / 5.0 = **0.76**.
-2. 0.62 × 8.5 = **5.27 cm**.
+2. 0.62 × 8.5 = 5.27, so about **5.3 cm** (2 s.f., like the data).
 3. The ratio is upside down; an Rf value cannot exceed 1. Rf = 41 / 50 = **0.82**.
 4. A **gas**.
 5. **Column chromatography.**

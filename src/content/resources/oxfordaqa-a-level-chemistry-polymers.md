@@ -26,7 +26,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This study guide teaches section 3.3.12, Polymers, from OxfordAQA's International AS and A-level Chemistry specification (9620), Version 5.3, for International AS and A-level exams from May/June 2020, and spans 3.3.12.1 Condensation polymers and 3.3.12.2 Biodegradability and disposal of polymers. The specification places this section in the International A2 organic content, so all of it is **International A-level only**. You meet it in Unit 4 (Organic 2 and Physical 2), whose content runs from 3.3.7 to 3.3.16, while Unit 5 (practical and synoptic) may test anything in the course.
+This study guide teaches section 3.3.12, Polymers, from OxfordAQA's International AS and A-level Chemistry specification (9620), Version 5.3, for International AS and A-level exams from May/June 2020, and spans 3.3.12.1 Condensation polymers and 3.3.12.2 Biodegradability and disposal of polymers. The specification places this section in the International A2 organic content, so all of it is **International A-level only**. You meet it in Unit 4 (Organic 2 and Physical 2), whose organic content runs from 3.3.7 to 3.3.16, while Unit 5 (practical and synoptic) may test anything in the course.
 
 Pair this guide with the [polymers revision notes](/resources/oxfordaqa-a-level-chemistry-polymers-revision-notes/) and the [polymers practice questions](/resources/oxfordaqa-a-level-chemistry-polymers-practice/). The [alkenes study guide](/resources/oxfordaqa-a-level-chemistry-alkenes/) deals with addition polymers (3.3.4.3), and the three kinds of intermolecular force are in [shapes, polarity and intermolecular forces](/resources/oxfordaqa-a-level-chemistry-shapes-polarity-and-intermolecular-forces/). See also the [course hub](/boards/oxfordaqa/a-level/chemistry/), the [printable checklist](/checklists/oxfordaqa/a-level/chemistry/) and the [free diagnostics](/diagnostics/).
 
@@ -160,7 +160,7 @@ The products depend on the conditions, just as for simple esters in section 3.3.
 
 In acid, the amine groups are protonated, so the diamine leaves as an ammonium salt. In alkali, the –COOH groups are deprotonated, so the acid leaves as a carboxylate salt.
 
-**Worked example 7.** The polyamide from worked example 3 is heated (a) with aqueous sodium hydroxide, and (b) with dilute hydrochloric acid. Name the organic products in each case.
+**Worked example 6.** The polyamide from worked example 3 is heated (a) with aqueous sodium hydroxide, and (b) with dilute hydrochloric acid. Name the organic products in each case.
 
 - (a) Alkali: **sodium octanedioate**, NaOOC–(CH₂)₆–COONa, and **ethane-1,2-diamine**.
 - (b) Acid: **octanedioic acid** and **ethane-1,2-diammonium chloride**, ⁺H₃N–CH₂CH₂–NH₃⁺ 2Cl⁻.

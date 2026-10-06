@@ -153,7 +153,7 @@ NPV overstated by 6,000 x 2.486 = 14,916
 1. An audit manager's spouse is the client's finance director. Name the threat.
 2. A firm earns 45,000 of its 300,000 annual fees from one client. Calculate the percentage and name the threat.
 3. An auditor finds misstatements that are material and pervasive. Which opinion?
-4. Who should decide executive directors' pay under good governance?
+4. Which board committee oversees the external auditor and internal controls, and who should sit on it?
 5. Closing inventory is overstated by 6,500. State the effect on this year's and next year's profit.
 6. A budget officer is asked to review the budget she drew up. Name the threat.
 7. List the four courses of action the specification names for a suspected unethical or illegal act.
@@ -167,7 +167,7 @@ NPV overstated by 6,000 x 2.486 = 14,916
 1. Familiarity: a close family relationship with someone who prepares the figures being audited.
 2. 45,000 / 300,000 x 100 = **15%**; self-interest (fee dependence).
 3. Adverse.
-4. The remuneration committee, staffed by independent NEDs.
+4. The audit committee, made up of independent NEDs.
 5. This year +6,500; next year -6,500.
 6. Self-review.
 7. Ensure safeguards are in place; evaluate the significance of threats to the fundamental principles; resolve conflicts of interest; seek external/professional help when necessary.

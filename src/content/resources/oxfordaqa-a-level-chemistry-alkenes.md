@@ -77,7 +77,7 @@ that bond. Each mechanism has the same shape:
 
 1. Arrow from the C=C bond to the δ+ atom of the electrophile; a second arrow from the bond in the
    electrophile to its δ− atom. A **carbocation** (positive carbon) and a negative ion form.
-2. Arrow from a lone pair on the negative ion to the positive carbon.
+2. Arrow from one lone pair of the anion to C⁺.
 
 ### Hydrogen bromide
 

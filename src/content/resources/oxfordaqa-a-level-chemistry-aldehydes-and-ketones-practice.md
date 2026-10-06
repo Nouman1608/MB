@@ -132,7 +132,7 @@ Revise first with the [study guide](/resources/oxfordaqa-a-level-chemistry-aldeh
 **11. (a)** [Ag(NH₃)₂]⁺ + e⁻ → Ag + 2NH₃ [1]
 **(b)** n(aldehyde) = 0.500 ÷ 100.0 = 0.00500 mol, so n(Ag) = 2 × 0.00500 = 0.0100 mol [1]; mass = 0.0100 × 107.9 = **1.08 g** [1]
 **(c)** Reduction turns –CHO into –CH₂OH, so the old carbonyl carbon carries two hydrogen atoms [1]; with KCN it carries H, OH, CN and the R group, which can be four different groups [1] **[5]**
-*Examiner insight:* In (b), write the 1 : 2 ratio in your working; a final answer of 0.54 g shows the ratio was missed, and without working there is nothing to credit.
+*Examiner insight:* In (b), write the 1 : 2 ratio in your working; a final answer of 0.54 g shows the ratio was missed, and clear working lets the examiner see which steps were right.
 
 ## Where marks are usually lost
 
