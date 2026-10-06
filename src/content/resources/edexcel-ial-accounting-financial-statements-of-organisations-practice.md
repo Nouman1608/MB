@@ -47,7 +47,7 @@ All businesses and figures are invented. Use IAS terminology in your answers.
 
 **6.** A fire destroyed most of a shop's inventory at the year end. Revenue for the year was 84,000 at a gross margin of 35%. Opening inventory was 6,900 and purchases were 55,100. Inventory saved from the fire was valued at 2,150. Calculate the cost of inventory lost. **[4]**
 
-**7.** Selin and Teodor are partners with no partnership agreement. Their capitals are 50,000 and 20,000. Selin works full time and wants a salary of 10,000. Teodor lent the firm 8,000, beyond his capital, at the start of the year. Profit before any interest on the loan was 36,400. Using Section 24 of the Partnership Act 1890, calculate each partner's share of profit. **[4]**
+**7.** Selin and Teodor are partners with no partnership agreement. Their capitals are 50,000 and 20,000. Selin, who runs the shop daily, claims 10,000 a year for her work. Teodor advanced 12,000 to the firm, beyond his capital, at the start of the year. Profit before any interest on the advance was 43,800. Using Section 24 of the Partnership Act 1890, calculate each partner's share of profit. **[4]**
 
 **8.** Ffion and Tobias are partners with fixed capitals of 45,000 and 30,000. Their agreement provides interest on capital at 6%, a salary of 9,000 for Tobias, and residual profit shared Ffion 2 : Tobias 1. Interest on drawings is Ffion 520 and Tobias 380. Profit for the year was 47,700.
 
@@ -100,7 +100,7 @@ Correct columnar layout with total column [1]; both profits correct [1]. **[5]**
 **6.** Gross profit = 35% × 84,000 = 29,400, so cost of sales = 54,600 [1]. Expected closing inventory = 6,900 + 55,100 − 54,600 [1] = 7,400 [1]. Inventory lost = 7,400 − 2,150 = **5,250** [1]. **[4]**
 *Examiner insight:* A 35% margin is on revenue; treating it as a mark-up on cost changes every later figure.
 
-**7.** Loan interest = 5% × 8,000 = 400, charged against profit [1]. Profit to share = 36,400 − 400 = 36,000 [1]. No salary and no interest on capital under Section 24 [1]. Shared equally: **Selin 18,000, Teodor 18,000** [1]. **[4]**
+**7.** Loan interest = 5% × 12,000 = 600, charged against profit [1]. Profit to share = 43,800 − 600 = 43,200 [1]. No salary and no interest on capital under Section 24 [1]. Shared equally: **Selin 21,600, Teodor 21,600** [1]. **[4]**
 *Examiner insight:* Unequal capitals do not change the equal split when there is no agreement.
 
 **8. (a)** Fixed: capital accounts change only for capital introduced or withdrawn, and appropriations and drawings go to current accounts [1]. Fluctuating: all these items go through the capital account, so its balance changes every year [1].

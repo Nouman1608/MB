@@ -104,8 +104,8 @@ The specification states that the derivation of ΔG = ΔH – TΔS is not requir
 3. Multiply each ΔhydH by the number of those ions in the formula.
 4. If ΔsolH is given, rearrange for the unknown.
 
-**Why hydration is exothermic:** water's δ– oxygen is attracted to cations and its δ+ hydrogens to
-anions. Smaller and more highly charged ions attract water more strongly, so their ΔhydH is more
+**Why hydration is exothermic:** cations attract the δ– oxygen end of water molecules and anions
+attract the δ+ hydrogen end. Smaller and more highly charged ions attract water more strongly, so their ΔhydH is more
 exothermic.
 
 ## 3.1.8.2 Entropy and Gibbs free energy
@@ -147,7 +147,7 @@ at 400 K (feasible).
 - **Lattice formation vs dissociation:** same size, opposite sign.
 - **Hydration vs solution:** gaseous ions → aqueous ions vs solid → aqueous ions.
 - **First vs second electron affinity of oxygen:** exothermic vs endothermic.
-- **Feasible vs fast:** ΔG ≤ 0 says a reaction can happen, not how quickly. A high activation energy
+- **Feasible vs fast:** ΔG ≤ 0 shows a reaction is thermodynamically possible but says nothing about its rate. A high activation energy
   can make a feasible reaction too slow to observe.
 - **Absolute entropy vs ΔfH⦵ of an element:** S of an element is never zero; ΔfH⦵ of an element in
   its standard state is zero.
@@ -160,8 +160,8 @@ at 400 K (feasible).
 4. How many first electron affinities of chlorine appear in the Born–Haber cycle for AlCl₃?
 5. Lattice enthalpy of dissociation of CsCl = +676 kJ mol⁻¹; ΔhydH(Cs⁺) = –276; ΔhydH(Cl⁻) = –381.
    Calculate ΔsolH(CsCl).
-6. ΔsolH(MgBr₂) = –186 kJ mol⁻¹; lattice enthalpy of dissociation = +2405; ΔhydH(Br⁻) = –335.
-   Calculate ΔhydH(Mg²⁺).
+6. ΔsolH(BaBr₂) = –25 kJ mol⁻¹; lattice enthalpy of dissociation = +1985; ΔhydH(Br⁻) = –335.
+   Calculate ΔhydH(Ba²⁺).
 7. A compound's Born–Haber lattice enthalpy of formation is –735 kJ mol⁻¹ and its perfect ionic
    model value is –733 kJ mol⁻¹. What does this show?
 8. State the sign of ΔS for 2KClO₃(s) → 2KCl(s) + 3O₂(g), with a reason.
@@ -176,7 +176,7 @@ at 400 K (feasible).
 3. ½I₂(s) → I(g)
 4. **Three**: three Cl⁻ ions form.
 5. ΔsolH = 676 – 276 – 381 = **+19 kJ mol⁻¹**
-6. –186 = 2405 + ΔhydH(Mg²⁺) + 2(–335), so ΔhydH(Mg²⁺) = **–1921 kJ mol⁻¹**
+6. –25 = 1985 + ΔhydH(Ba²⁺) + 2(–335), so ΔhydH(Ba²⁺) = **–1340 kJ mol⁻¹**
 7. The values almost match, so the compound is very close to purely ionic (little covalent
    character).
 8. Positive: a solid forms 3 moles of gas, so disorder increases.

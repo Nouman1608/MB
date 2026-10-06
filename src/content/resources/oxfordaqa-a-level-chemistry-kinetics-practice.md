@@ -164,19 +164,19 @@ second [1]. **[5]**
 
 **7. (a)** 54 ÷ 30 = **1.8 cm³ s⁻¹** [1].
 **(b)** 29 ÷ 30 = **0.97 cm³ s⁻¹** [1].
-**(c)** The 1.0 mol dm⁻³ acid has more acid particles in the same volume [1]; so collisions between acid
-particles and the zinc surface are more frequent [1]; so there are more collisions with E ≥ Ea per second
-and the rate is higher; the proportion of collisions with E ≥ Ea is the same in both runs [1].
+**(c)** Each cm³ of the 1.0 mol dm⁻³ acid holds more H⁺ ions [1]; so they strike the zinc
+more often [1]; the same fraction of strikes reaches Ea in both runs (same temperature), so more succeed
+each second in the stronger acid [1].
 **(d)** n(Zn) = 0.300 ÷ 65.4 = 4.59 × 10⁻³ mol, and n(H₂) = n(Zn) = 4.59 × 10⁻³ mol (1 : 1) [1];
 V = nRT/p = 4.59 × 10⁻³ × 8.31 × 293 ÷ 100 000 = 1.12 × 10⁻⁴ m³ [1] = **112 cm³** [1].
 **(e)** Zinc is the limiting reagent and its amount is the same in both runs, so the same amount of hydrogen
 forms [1]. **[9]**
 *Examiner insight:* In (d), p must be in Pa, so V comes out in m³; remember to multiply by 10⁶ for cm³.
 
-**8.** The metal acts as a catalyst: it provides an alternative reaction route with a lower activation
-energy [1]. The temperature is unchanged, so the Maxwell–Boltzmann curve is unchanged [1]. Ea(cat) lies to
-the left of Ea, so a greater proportion of molecules have energy at or above the activation energy [1]; so
-more collisions are successful per second and the rate increases [1]. **[4]**
+**8.** The metal is a catalyst, offering a different pathway whose energy barrier is lower [1]. With no
+change in temperature, a single, unmoved distribution curve applies [1]. Ea(cat) sits at lower energy than
+Ea, so a bigger slice of the tail lies beyond it: more molecules can react [1]; hence more successful
+collisions per second and a faster rate [1]. **[4]**
 *Examiner insight:* A sketch should show one curve with two Ea lines; a second, shifted curve shows a temperature change.
 
 **9. (a)** Without: 3 ÷ 2000 × 100 = **0.15 %** [1]; with: 57 ÷ 2000 × 100 = **2.85 %** [1].
@@ -201,15 +201,14 @@ proportion with E ≥ Ea is unchanged, but there are more successful collisions 
 
 ## Where marks are usually lost
 
-- Defining activation energy without "minimum", or as the energy "to start" a reaction.
-- Choosing the hotter Maxwell–Boltzmann curve by its taller peak; the hotter peak is lower.
-- Explaining the temperature effect through collision frequency alone.
-- Claiming that higher concentration or pressure gives particles more energy, or a larger proportion with
-  E ≥ Ea.
-- Moving the distribution curve for a catalyst instead of moving only the Ea line.
-- Saying a catalyst "lowers Ea" without "alternative route", or suggesting it changes ΔH.
-- Leaving the time part out of a rate unit, or giving a negative rate.
-- Forgetting the m³ to cm³ conversion after using pV = nRT.
+- An Ea definition with no "minimum".
+- Picking the warmer curve because its peak is taller (it is shorter).
+- Putting the temperature effect down to more frequent collisions only.
+- Linking concentration or pressure to a change in molecular energy.
+- Redrawing the curve for a catalyst instead of just adding a lower Ea marker.
+- Omitting the new pathway, or claiming a catalyst alters ΔH.
+- Negative rates, or rate units with no time part.
+- Leaving a gas volume in m³ when cm³ was asked for.
 
 ## Next steps
 

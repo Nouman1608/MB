@@ -66,7 +66,7 @@ The Unit 2 paper includes a calculation section (Section B, 10 marks), so the me
 
 **Matching the source to the situation.** Ask four questions: how much is needed, for how long, can the business repay it, and will the owners give up control? A start-up has no retained profits and no trading record, so banks may lend only with security; business angels, crowd funding and the owner's own share capital are common answers. A short-term cash gap suits an overdraft or trade credit. A long-life asset such as machinery suits a loan, because repayments are spread over the asset's working life.
 
-**Worked example.** Wrenfield Bakery, a sole trader with three years of profits, needs £40,000 for a second oven that will last ten years. It also needs £3,000 for six weeks each December to buy extra flour. *Judgement:* a bank loan fits the oven -- the amount is fixed, the asset lasts, and the bakery's trading record supports borrowing; retained profit could cover part of it. An overdraft fits the December gap, because it is short-term and the bakery pays interest only while it is used. An overdraft for the oven would be long-term debt repayable on demand.
+**Worked example.** Quillcote Print Studio, a sole trader with three years of profits and a workshop it owns outright, needs £40,000 for a large-format printer that will last eight years. *Judgement:* a bank loan fits -- the amount is fixed, the printer earns revenue for years, and the trading record and the workshop as security support borrowing; retained profit could cover part of it. Sale and leaseback of the workshop would raise more but adds rent for good, which is costly for a £40,000 need. An overdraft would be long-term debt repayable on demand.
 
 ## 3.2.3.2 Break-even analysis
 
@@ -147,7 +147,7 @@ The gap between a 40% gross margin and a 13% operating margin tells you overhead
 
 A **budget** is a financial plan for a future period. **Variance = actual figure − budgeted figure.** A variance is **favourable** if it raises profit (revenue above budget, or costs below budget) and **adverse** if it lowers profit.
 
-**Worked example.** Wrenfield Bakery, one month:
+**Worked example.** Brackenmoor Bakery, one month:
 
 | Item | Budget (£) | Actual (£) | Variance (£) |
 |---|---|---|---|

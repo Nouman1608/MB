@@ -40,10 +40,10 @@ Learn it first: [study guide](/resources/oxfordaqa-a-level-business-mission-obje
 
 **4.** A furniture maker sets an objective to cut its carbon emissions by 30% within four years. Explain how this objective could affect its operations function. **[4]**
 
-**5.** Ashdown Print had an average of 56 employees last year, and 14 left. It completed 8,400 print jobs against a maximum potential output of 10,500. The industry averages are labour turnover 15% and capacity utilisation 85%.
+**5.** Penrowan Print had an average of 56 employees last year, and 14 left. It completed 8,400 print jobs against a maximum potential output of 10,500. The industry averages are labour turnover 15% and capacity utilisation 85%.
 
-**(a)** Calculate Ashdown's labour turnover. **[2]**
-**(b)** Calculate Ashdown's capacity utilisation. **[2]**
+**(a)** Calculate Penrowan's labour turnover. **[2]**
+**(b)** Calculate Penrowan's capacity utilisation. **[2]**
 **(c)** State whether each result is a strength or a weakness, giving a reason. **[2]**
 
 **6.** A market grew from £80 million to £92 million in a year. A firm's sales in that market rose from £10.4 million to £11.5 million.
@@ -64,9 +64,9 @@ Learn it first: [study guide](/resources/oxfordaqa-a-level-business-mission-obje
 
 **11.** Analyse why the objectives of shareholders and employees in a public limited company may both overlap and conflict. **[6]**
 
-**12.** Fennick Tiles plc (£000): revenue 12,500; operating profit 975; non-current liabilities 4,200; total equity 3,300; current assets 2,100 including inventory 1,300; current liabilities 1,400. Industry averages: ROCE 10%, gearing 40%, acid test 0.8. Labour turnover is 9% against an industry 14%. The directors want a growth objective of opening a second factory.
+**12.** Tallowfield Tiles plc (£000): revenue 12,500; operating profit 975; non-current liabilities 4,200; total equity 3,300; current assets 2,100 including inventory 1,300; current liabilities 1,400. Industry averages: ROCE 10%, gearing 40%, acid test 0.8. Labour turnover is 9% against an industry 14%. The directors want a growth objective of opening a second factory.
 
-**(a)** Calculate Fennick's ROCE and gearing. **[4]**
+**(a)** Calculate Tallowfield's ROCE and gearing. **[4]**
 **(b)** Evaluate whether a SWOT analysis based on this data is enough for the directors to decide on the growth objective. **[12]**
 
 ## Answers

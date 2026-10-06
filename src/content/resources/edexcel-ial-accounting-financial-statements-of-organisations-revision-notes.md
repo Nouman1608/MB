@@ -119,7 +119,7 @@ Loan interest is a **charge against profit** in the statement of profit or loss,
 **Goodwill on admission or retirement (not kept in books):**
 
 1. Credit all old partners' capital accounts in the **old** ratio.
-2. Debit the continuing partners' capital accounts in the **new** ratio.
+2. Debit the partners of the new firm, in the **new** ratio.
 
 Assets a new partner brings in are debited to the asset account and credited to their capital account. A retiring partner's current account is transferred to capital; the total is paid in cash or moved to a loan account.
 
@@ -135,6 +135,10 @@ Assets a new partner brings in are debited to the asset account and credited to 
 *Reminder:* opening bank 640 + receipts 9,310 − payments 8,770 = closing bank **1,180**.
 
 **Accumulated fund** = assets − liabilities (the club's capital).
+
+**Club statement of financial position:** closing accumulated fund = opening accumulated fund + surplus (or − deficit). Subscriptions in arrears are other receivables; subscriptions in advance are other payables; the life membership fund is shown separately from the accumulated fund.
+
+*Reminder:* opening accumulated fund 12,400 and a surplus of 1,850 give a closing accumulated fund of **14,250**.
 
 **Subscriptions account:** debit opening arrears and closing advance; credit opening advance, cash received and closing arrears. The balancing figure (on the debit side) is income for the year.
 

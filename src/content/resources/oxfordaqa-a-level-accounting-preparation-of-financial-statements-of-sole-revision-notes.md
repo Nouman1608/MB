@@ -82,7 +82,7 @@ You must prepare financial statements from **ledger accounts** and from a **tria
 
 ## Method in steps: trial balance plus notes
 
-1. Read every note. Tick each trial balance line it changes. Most notes change two lines.
+1. Go through the notes one at a time and mark which balances each one alters; a typical note alters one figure in each statement.
 2. Adjust inventory first (lower of cost and NRV, plus goods on sale or return at cost).
 3. Adjust revenue and receivables for sale or return; purchases and drawings for own use.
 4. Write off irrecoverable debts, then calculate the provision on the remaining receivables.
@@ -130,7 +130,7 @@ The charge is 41,300 - 560 + 735 = 41,475. The 735 credit balance is an other pa
 
 ## Must-know distinctions
 
-- **Other payable vs trade payable.** Trade payables are credit suppliers of goods; other payables are accrued expenses and income received in advance.
+- **Other payable vs trade payable.** Trade payables are amounts owed to credit suppliers of goods; other payables are accrued expenses and income received in advance.
 - **Irrecoverable debt vs provision.** A written-off debt is gone and leaves the receivables ledger; a provision is an estimate and the debts stay recorded.
 - **Write-down vs depreciation.** Inventory goes down to NRV once; non-current assets are depreciated every year.
 - **Drawings vs expenses.** Goods or cash taken by the owner are never an expense.
@@ -139,11 +139,11 @@ The charge is 41,300 - 560 + 735 = 41,475. The 735 credit balance is an other pa
 
 1. Rates paid were 6,240. At the start of the year 380 was prepaid; at the end 290 is owing. Calculate the rates charge.
 2. Rent received was 9,900, of which 825 relates to next year. State the income figure and how 825 is shown.
-3. Equipment costs 14,800, residual value 1,300, life 5 years. Calculate the straight line charge.
+3. A sole trader expects to use equipment bought for 14,800 for 5 years and then sell it for 1,300. Work out the yearly depreciation by the straight line method.
 4. A machine costs 18,750. Calculate year 2 depreciation at 20% reducing balance.
-5. The provision for doubtful debts was 1,320. Trade receivables are 29,500 and the provision is to be 4%. State the income statement entry.
-6. Equipment cost 9,600 with accumulated depreciation 7,050 and is sold for 2,800. Calculate the result on disposal.
-7. The owner took goods costing 450. Give the double entry.
+5. A trader's year-end trade receivables total 29,500 and she keeps a 4% provision for doubtful debts, which stood at 1,320 a year earlier. What appears in the income statement for the provision?
+6. Equipment bought for 9,600 has been depreciated by 7,050 in total. The trader sells it for 2,800. Was there a profit or a loss on disposal, and how much?
+7. The owner took home stock that had cost the business 385. Give the double entry.
 8. Goods on sale or return were recorded as sales at 1,560, priced at cost plus 30%. The customer has not accepted them. At what value are they included in inventory?
 9. Goods cost 3,400 and have an NRV of 2,950. State the inventory value and the concept applied.
 10. A debt of 820 written off last year is received in full. Give the entries.
@@ -156,7 +156,7 @@ The charge is 41,300 - 560 + 735 = 41,475. The 735 credit balance is an other pa
 4. Year 1: 20% x 18,750 = 3,750. Year 2: 20% x 15,000 = **3,000**.
 5. New provision 4% x 29,500 = 1,180, a decrease of 140: **140 shown as income**.
 6. Carrying amount 9,600 - 7,050 = 2,550; 2,800 - 2,550 = **250 profit** on disposal.
-7. **Debit drawings 450, credit purchases 450.**
+7. **Debit drawings 385, credit purchases 385.**
 8. 1,560 / 1.3 = **1,200** (at cost). Revenue and trade receivables both fall by 1,560.
 9. **2,950**, the lower of cost and NRV: **prudence**.
 10. **Debit the customer, credit irrecoverable debts recovered 820; then debit bank, credit the customer 820.** The 820 is income.

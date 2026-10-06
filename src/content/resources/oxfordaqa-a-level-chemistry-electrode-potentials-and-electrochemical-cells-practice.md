@@ -155,14 +155,14 @@ S₂O₈²⁻ + 2e⁻ ⇌ 2SO₄²⁻, E⦵ = +2.01 V
 
 **7. (a)** −0.13 − (−0.26) = **0.13 V** [1]
 **(b)** (0.116 + 0.120 + 0.118) ÷ 3 = **0.118 V** [1]
-**(c)** Any two: oxide layer left on an electrode [1]; solutions not exactly 1.00 mol dm⁻³ or temperature not 298 K; the voltmeter draws some current [1]
+**(c)** Any two of: oxide on an electrode; solutions not exactly 1.00 mol dm⁻³ or temperature not 298 K; the voltmeter draws some current [2]
 **(d)** So that almost no current flows and the reading equals the EMF [1]
 *Examiner insight:* In (c), "human error" is too vague; name a specific cause linked to this cell.
 
 **8. (a)** **Li + CoO₂ → Li⁺[CoO₂]⁻** [1]
 **(b)** Lithium is oxidised at the negative electrode, releasing electrons [1]; the electrons flow through the external circuit to the positive electrode, where CoO₂ is reduced (cobalt +4 to +3) [1]; Li⁺ ions move through the electrolyte to the positive electrode to balance the charge [1]
 **(c)** **Li⁺[CoO₂]⁻ → Li⁺ + CoO₂ + e⁻** [1]
-**(d)** Benefit: rechargeable, so less waste than many throwaway cells [1]; risk: lithium is reactive and a damaged cell can catch fire [1]
+**(d)** Benefit: reused over many charge cycles, so fewer cells are discarded [1]; risk: an overcharged or crushed cell can overheat and ignite [1]
 *Examiner insight:* In (b), say where electrons go and where ions go; they take different paths.
 
 **9. (a)** Negative electrode: **Zn + 4OH⁻ → [Zn(OH)₄]²⁻ + 2e⁻** [1]; positive electrode: **O₂ + 2H₂O + 4e⁻ → 4OH⁻** [1]
@@ -174,7 +174,7 @@ S₂O₈²⁻ + 2e⁻ ⇌ 2SO₄²⁻, E⦵ = +2.01 V
 **10. (a)** Negative: **H₂ + 2OH⁻ → 2H₂O + 2e⁻** [1]; positive: **O₂ + 2H₂O + 4e⁻ → 4OH⁻** [1]
 **(b)** Doubling the negative-electrode equation and adding gives **2H₂ + O₂ → 2H₂O** [1]; the 4OH⁻ made at the positive electrode equals the 4OH⁻ used at the negative electrode [1]
 **(c)** Hydrogen and oxygen are supplied continuously, so the reactants are never used up [1]
-**(d)** Hydrogen is flammable and hard to store; or making it needs energy, often from fossil fuels [1]
+**(d)** Any one: hydrogen–air mixtures are explosive; it is bulky to store; producing it may use fossil-fuel energy [1]
 *Examiner insight:* Reverse the hydrogen half-equation for the negative electrode.
 
 **11. (a)** Ca²⁺/Ca and S₂O₈²⁻/SO₄²⁻ [1]; EMF = 2.01 − (−2.87) = **+4.88 V** [1]; calcium reacts with water, so it would not stay in equilibrium with its ions [1]

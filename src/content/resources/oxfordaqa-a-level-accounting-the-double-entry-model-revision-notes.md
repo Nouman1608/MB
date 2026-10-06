@@ -131,6 +131,20 @@ Test: does the spending give a benefit over more than one period by adding to an
 - **Straight line vs reducing balance.** Straight line gives an equal charge each year. Reducing balance gives larger charges in early years, which suits assets such as vehicles that lose more value early on.
 - **Contra in the cash book vs contra between ledgers.** Moving cash into the bank is a cash book contra. A set-off between a customer's and supplier's accounts for the same business goes through the general journal.
 
+## 10. Service business layout
+
+A service business has no cost of sales or gross profit. Pell Street Tutors received fees of 58,400, of which 900 is for next year's lessons.
+
+```
+Income statement for the year ended 30 June 2026
+Fees (58,400 - 900)                              57,500
+Expenses: rent 9,600; wages 21,300;
+insurance 720; depreciation 1,450               (33,070)
+Profit for the year                              24,430
+```
+
+The 900 is a current liability. The statement of financial position uses the same five subheadings as for a trading business.
+
 ## Quick self-test
 
 1. Goods with a list price of 5,000 are sold on credit with 20% trade discount and 3% cash discount for payment within 7 days. The customer pays in time. What is the invoice value, the discount allowed and the amount received?

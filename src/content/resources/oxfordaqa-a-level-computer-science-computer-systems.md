@@ -75,7 +75,7 @@ Time (ms)  0-2  2-4  4-6  6-8  8-9  9-11  11-12  12-14
 Process    P1   P2   P3   P1   P2   P3    P1     P3
 ```
 
-P2 finishes at 9 ms (it needs only 1 ms in its second turn), P1 at 12 ms and P3 at 14 ms, the total of 5 + 3 + 6. No process waits for another to finish completely.
+P2 finishes at 9 ms (needing only 1 ms in its second turn), P1 at 12 ms and P3 at 14 ms (5 + 3 + 6). No process waits for another to finish completely.
 
 **Memory allocation.** A running program and its data must be in main memory. The OS decides where each process goes, records which areas are used and free, stops processes overwriting each other's areas, and reclaims memory when a process ends.
 
@@ -161,7 +161,7 @@ Some compilers produce an intermediate language such as **bytecode** as their fi
 2. Security checks can be performed on the intermediate code before it is executed.
 3. Intermediate code can use less memory than equivalent machine code.
 
-The bytecode is then used by either a **virtual machine**, which interprets the bytecode to execute it, or a **just-in-time (JIT) compiler**, which converts it into machine code suitable for the computer it is running on. Java source is compiled to bytecode that is typically JIT-compiled before it runs, and C# is compiled to an intermediate language run by .NET.
+The bytecode is then used by either a **virtual machine**, which interprets the bytecode to execute it, or a **just-in-time (JIT) compiler**, which converts it into machine code suitable for the computer it is running on. Java source is compiled to bytecode, which the Java virtual machine first interprets and then JIT-compiles where code runs often; C# is compiled to an intermediate language that .NET JIT-compiles.
 
 **Worked example: seeing bytecode.** The standard Python interpreter (CPython) first compiles source to bytecode, then its virtual machine runs that bytecode. Python's `dis` module shows it. For
 

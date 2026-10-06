@@ -136,13 +136,13 @@ error.
 
 ## Born–Haber values and the perfect ionic model
 
-A lattice enthalpy can also be **calculated** from a **perfect ionic model**: perfectly spherical
+Theory gives a **calculated** value from a **perfect ionic model**: perfectly spherical
 ions with evenly spread charge, held only by electrostatic attraction, with no covalent character.
-A Born–Haber value comes from experimental data, so it reflects the real bonding.
+A Born–Haber value uses measured data, so it includes the actual bonding.
 
 - **Values almost equal:** the bonding is very close to purely ionic.
-- **Born–Haber value clearly more exothermic:** there is extra attraction the model leaves out. This
-  is **evidence for covalent character**.
+- **Born–Haber value clearly more exothermic:** the real lattice is held more strongly than pure
+  electrostatics predicts: **evidence for covalent character**.
 
 Covalent character comes from **polarisation**: the cation distorts the anion's electron cloud,
 pulling electron density between the ions. A small or highly charged cation and a large anion give
@@ -219,7 +219,7 @@ Entropy increases (ΔS positive) in both kinds of change:
 ΔS = ΣS(products) – ΣS(reactants)
 ```
 
-Multiply each value by its coefficient. Elements have non-zero absolute entropies.
+Scale each entropy by its equation coefficient; elements have non-zero absolute entropies.
 
 ### The Gibbs free-energy change
 
@@ -229,8 +229,8 @@ The specification gives the relationship
 ΔG = ΔH – TΔS        (derivation not required)
 ```
 
-with T in kelvin. **A reaction is feasible when ΔG is zero or negative.** ΔH is usually in kJ mol⁻¹
-and ΔS in J K⁻¹ mol⁻¹, so divide ΔS by 1000 first.
+with T in kelvin. **A reaction is feasible when ΔG is zero or negative.** Convert ΔS from J K⁻¹ mol⁻¹
+to kJ K⁻¹ mol⁻¹ (÷ 1000) to match ΔH.
 
 Melting ice shows the balance. For H₂O(s) → H₂O(l), take ΔH = +6.01 kJ mol⁻¹ and
 ΔS = +22.0 J K⁻¹ mol⁻¹:

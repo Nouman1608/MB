@@ -114,7 +114,7 @@ Objectives can conflict. Higher dividends leave less retained profit to fund gro
 
 A figure is only a strength or a weakness **in comparison** with something: last year, a competitor, the industry average or the business's own target.
 
-**Worked example 1: financial ratios, Halvorsen Ceramics Ltd (£000)**
+**Worked example 1: financial ratios, Calderbeck Ceramics Ltd (£000)**
 
 Data: revenue 4,800; cost of sales 2,880; operating expenses 1,320; non-current liabilities 1,500; total equity 2,500; inventory 400; trade receivables 480; cash 20; current liabilities 600; trade payables 360.
 
@@ -132,7 +132,7 @@ Payables days        = 360/2,880 × 365 = 45.6 days
 Inventory turnover   = 2,880/400 = 7.2 times (inventory taken as the average)
 ```
 
-The industry averages are ROCE 11%, gearing 45%, acid test 1.0. Strengths: ROCE above average, lower gearing, and customers pay about nine days before Halvorsen pays suppliers. Weakness: an acid test below 1 means it relies on selling inventory to meet short-term debts. Shareholder ratios (dividend per share and yield, above) complete the financial picture. Section 3.3.2, on analysing the existing internal position, develops ratio analysis further.
+The industry averages are ROCE 11%, gearing 45%, acid test 1.0. Strengths: ROCE above average, lower gearing, and customers pay about nine days before Calderbeck pays suppliers. Weakness: an acid test below 1 means it relies on selling inventory to meet short-term debts. Shareholder ratios (dividend per share and yield, above) complete the financial picture. Section 3.3.2, on analysing the existing internal position, develops ratio analysis further.
 
 **Worked example 2: marketing, operations and HR data, Sunfield Juices**
 

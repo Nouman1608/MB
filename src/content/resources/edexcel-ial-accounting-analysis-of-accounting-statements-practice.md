@@ -63,7 +63,7 @@ Learn the content first with the [study guide](/resources/edexcel-ial-accounting
 
 **9.** A business has a current ratio of 2.40 : 1 and a liquid ratio of 1.50 : 1. Its current liabilities are 25,000. Calculate the value of its inventory. **[3]**
 
-**10.** Dalia Mbeki runs Wrenfield Optics as a sole trader. During the year ended 30 June 2026 she bought new testing equipment, partly financed by a bank loan, and cut the prices of her frames. Figures for 2026: revenue 390,000; cost of sales 234,000; expenses 105,300 including loan interest of 3,900; non-current assets 300,000; capital at 30 June 2026 230,000; bank loan (non-current) 65,000. Her ratios for 2025 were: gross profit as a % of revenue 42.00%, profit for the year as a % of revenue 15.50%, ROCE 19.80%, non-current assets to revenue 1.60 times.
+**10.** Dalia Mbeki runs Larchmere Optics as a sole trader. During the year ended 30 June 2026 she bought new testing equipment, partly financed by a bank loan, and cut the prices of her frames. Figures for 2026: revenue 390,000; cost of sales 234,000; expenses 105,300 including loan interest of 3,900; non-current assets 300,000; capital at 30 June 2026 230,000; bank loan (non-current) 65,000. Her ratios for 2025 were: gross profit as a % of revenue 42.00%, profit for the year as a % of revenue 15.50%, ROCE 19.80%, non-current assets to revenue 1.60 times.
 
 **(a)** Calculate the four ratios for 2026. **[8]**
 **(b)** Evaluate whether the business's profitability and use of assets improved in 2026. **[4]**
@@ -89,14 +89,14 @@ Learn the content first with the [study guide](/resources/edexcel-ial-accounting
 *Examiner insight:* An explanation that just says "inventory is not liquid" restates the question; link it to the time taken to turn inventory into cash.
 
 **2.** Gross profit = 315,000 − 210,000 = 105,000 [1]. Gross profit % = 105,000 / 315,000 × 100 = **33.33%** [1]. Mark-up = 105,000 / 210,000 × 100 = **50.00%** [1]. **[3]**
-*Examiner insight:* Show each formula with the figures substituted; a bare percentage gives the examiner nothing to credit if it is wrong.
+*Examiner insight:* Show each formula with the figures substituted; a bare percentage shows no method if it turns out to be wrong.
 
 **3. (a)** Mark-up = 28 / (100 − 28) × 100 [1] = **38.89%** [1].
 **(b)** Selling price = 54 × 1.3889, or 54 / 0.72 = **75** [1]. Check: gross profit 21 is 28% of 75. **[3]**
 *Examiner insight:* Adding 28% to cost (giving 69.12) is the classic error; the margin is a percentage of the selling price, not of cost.
 
 **4.** Average inventory = (27,500 + 32,500) / 2 = 30,000 [1]. Inventory turnover = cost of sales / average inventory = 255,000 / 30,000 [1] = **8.5 times** [1]. **[3]**
-*Examiner insight:* Give the unit "times"; using closing inventory alone gives 7.85 times and loses the method step.
+*Examiner insight:* Give the unit "times"; using closing inventory alone gives 7.85 times, a common error.
 
 **5. (a)** 21,900 / 219,000 × 365 [1] = **36.5 days** [1].
 **(b)** 17,520 / 146,000 × 365 [1] = **43.8 days** [1].
@@ -111,25 +111,25 @@ Learn the content first with the [study guide](/resources/edexcel-ial-accounting
 *Examiner insight:* Pemberly's debit current account must be subtracted; adding it is a common slip that changes capital employed.
 
 **8. (a)** Current assets = 52,000 + 30,000 = 82,000 [1]. Current liabilities = 38,000 + 3,000 + 3,000 = 44,000 [1]. Current ratio = 82,000 / 44,000 = **1.86 : 1** [1]. Liquid ratio = 30,000 / 44,000 = **0.68 : 1** [1].
-**(b)** Both ratios fell, and the liquid ratio is now well below 1 : 1, so the business cannot meet its current liabilities from liquid assets [1]. Inventory rose to 52,000 and the bank is overdrawn, so cash is tied up in stock; the partners should reduce purchases or speed up collection from customers [1]. **[6]**
+**(b)** Both ratios fell, and the liquid ratio is now well below 1 : 1, so the business cannot meet its current liabilities from liquid assets [1]. Inventory is now a larger share of current assets (the gap between the two ratios widened) and the bank is overdrawn, so cash is tied up in stock; the partners should reduce purchases or speed up collection from customers [1]. **[6]**
 *Examiner insight:* The overdraft is a current liability, not a negative current asset; treating it as a deduction from current assets changes both ratios.
 
 **9.** Current assets = 2.40 × 25,000 = 60,000 [1]. Liquid assets = 1.50 × 25,000 = 37,500 [1]. Inventory = 60,000 − 37,500 = **22,500** [1]. **[3]**
-*Examiner insight:* Label each intermediate figure; a missing-figure question rewards each correct step even if the final subtraction goes wrong.
+*Examiner insight:* Label each intermediate figure (current assets, liquid assets) so your method is clear before the final subtraction.
 
 **10. (a)** Gross profit = 390,000 − 234,000 = 156,000 [1]; GP % = 156,000 / 390,000 × 100 = **40.00%** [1].
 Profit for the year = 156,000 − 105,300 = 50,700 [1]; profit % = 50,700 / 390,000 × 100 = **13.00%** [1].
 NPBI = 50,700 + 3,900 = 54,600 and capital employed = 230,000 + 65,000 = 295,000 [1]; ROCE = 54,600 / 295,000 × 100 = **18.51%** [1].
 Non-current assets to revenue = 390,000 / 300,000 [1] = **1.30 times** [1].
 **(b)** The gross margin fell from 42.00% to 40.00%, which is consistent with the price cuts on frames [1]. Profit for the year % fell by 2.5 points, more than the gross margin, so expenses also rose as a share of revenue, possibly depreciation on the new equipment [1]. ROCE fell to 18.51% and non-current assets to revenue fell to 1.30 times, so the new equipment and loan have not yet produced matching revenue [1]. Judgement: profitability and use of assets both worsened in 2026, but the equipment may raise revenue in later years, so Dalia should review the next year's figures before judging the investment [1]. **[12]**
-*Examiner insight:* On an "Evaluate" part, the final mark needs a supported judgement; a list of changes with no conclusion stops short.
+*Examiner insight:* "Evaluate" asks for a supported judgement, so end with a conclusion; a list of changes with no conclusion stops short.
 
 **11. (a)** Revenue = 400,000 × 1.10 = 440,000; gross profit = 440,000 × 30% = **132,000** [1].
 **(b)** Cost of sales = 440,000 − 132,000 = 308,000 [1]. Average inventory = 308,000 / 7 = 44,000 [1]. Closing inventory = 2 × 44,000 − 41,000 = **47,000** [1].
 **(c)** Purchases = cost of sales + closing inventory − opening inventory [1] = 308,000 + 47,000 − 41,000 = **314,000** [1].
 **(d)** Trade receivables = 365,000 × 40 / 365 = **40,000** [1]. Trade payables = 314,000 × 36.5 / 365 = **31,400** [1].
 **(e)** Profit for the year = 132,000 − 98,000 = 34,000 [1]; 34,000 / 440,000 × 100 = **7.73%** [1]. **[10]**
-*Examiner insight:* Projections build on each other, so set out each figure on its own labelled line; a wrong closing inventory can still leave the purchases method creditable when the working is visible.
+*Examiner insight:* Projections build on each other, so set out each figure on its own labelled line; visible working makes an early slip, such as a wrong closing inventory, easy to trace.
 
 ## Where marks are usually lost
 

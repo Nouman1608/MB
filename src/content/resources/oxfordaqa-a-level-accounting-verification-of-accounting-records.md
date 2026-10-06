@@ -60,7 +60,7 @@ It names six errors a trial balance **does not reveal**, because each leaves deb
 
 | Error | Meaning | Illustration |
 |---|---|---|
-| Commission | Right amount, right class of account, wrong account | Invoice for D Mensah posted to D Mensa |
+| Commission | Right amount, right class of account, wrong account | Invoice for L Hartigan posted to L Harrigan |
 | Complete reversal | Right accounts, right amount, sides swapped | Payment to a supplier debited to bank, credited to the supplier |
 | Compensating | Two errors of the same value cancel | Rent account and revenue account both overcast by 50 |
 | Omission | Transaction not recorded at all | A credit note never entered |
@@ -197,7 +197,7 @@ Method:
 3. Reconcile: start with the bank statement balance, add outstanding lodgements, deduct unpresented
    cheques, and arrive at the updated cash book balance.
 
-### Worked example 3: Tamarind Lane Florists, 30 June 2026
+### Worked example 3: Heronsgate Bakery, 30 June 2026
 
 The cash book showed a debit (favourable) balance of 3,860. The bank statement showed bank charges 75,
 a credit transfer from a customer 1,240, a direct debit for insurance 310 and a customer's cheque of 520
@@ -293,7 +293,7 @@ Agreement shows the arithmetic is consistent. It does not prove the records are 
 - Netting a credit balance in the receivables ledger against the debit balance.
 - Including cash sales or the provision for doubtful debts in a control account.
 - Reconciling from the original cash book balance instead of the updated one.
-- Changing profit for an error that affects only the statement of financial position, such as a
+- Changing profit for an error that touches no income or expense account, such as a
   commission error between two customers.
 
 ## Official syllabus

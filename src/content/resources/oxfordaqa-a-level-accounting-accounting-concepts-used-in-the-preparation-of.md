@@ -32,8 +32,8 @@ on the [printable checklist](/checklists/oxfordaqa/a-level/accounting/). For fas
 [revision notes](/resources/oxfordaqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of-revision-notes/),
 then test yourself with the
 [practice questions](/resources/oxfordaqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of-practice/).
-The [role of the accountant guide](/resources/a-level-oxfordaqa-accounting-role-of-the-accountant/) summarises
-several concepts in a line each; this page shows what each does to the figures. Amounts are in US dollars.
+See also the [role of the accountant guide](/resources/a-level-oxfordaqa-accounting-role-of-the-accountant/).
+Amounts are in US dollars.
 
 ## What this topic covers
 
@@ -46,70 +46,70 @@ There are no International A-level only statements in this section.
 
 ## The ten general accounting concepts
 
-Naming a concept is only half an answer: also say what it does to profit, an asset or a liability.
+In answers, pair each concept with its effect: which figure changes, and in which direction.
 
 | Concept | What it says | Where you see it in the accounts |
 |---|---|---|
-| Money measurement | Record only items that can be given a reliable money value | Staff morale, a good location or a strong reputation are not recorded |
-| Duality | Every transaction has two equal effects | Each debit has a matching credit; assets = capital + liabilities |
+| Money measurement | Record only items that can be given a reliable money value | Staff morale, a trusted brand or a good supplier relationship are left out |
+| Duality | Every transaction has two equal effects | Each item is entered once as a debit and once as a credit, so the accounting equation holds |
 | Historic cost | Record assets at the price paid when acquired | Land stays at its purchase price even if its market value rises |
-| Going concern | Assume the business will keep trading for the foreseeable future | Non-current assets at cost less depreciation, not break-up value |
+| Going concern | Assume the business will keep trading for the foreseeable future | Non-current assets carried at cost less accumulated depreciation, not at forced-sale prices |
 | Accruals | Match income and expenses to the period they relate to, not when cash moves | Accruals, prepayments, income due, income received in advance, depreciation |
 | Consistency | Use the same methods from one period to the next | Same depreciation method and rate each year |
 | Prudence | Do not overstate assets or profit; recognise foreseeable losses now | Provision for doubtful debts; inventory at net realisable value if lower |
-| Materiality | Items too small to affect users' decisions can be treated in the simplest way | A cheap tool is expensed, not depreciated |
+| Materiality | Items too small to affect users' decisions can be treated in the simplest way | A $20 extension lead is charged as an expense, not depreciated |
 | Realisation | Recognise revenue when it is earned, normally when goods or services pass to the customer | No revenue on receiving an order or a deposit |
-| Business entity | The business is separate from its owner | Owner's private spending is drawings; money the owner puts in is capital |
+| Business entity | The business is separate from its owner | Private payments for the owner are drawings; resources the owner introduces are capital |
 
-Prudence means caution, not pessimism: it never lets you invent losses. Materiality is relative: a sum that
-matters to a corner shop may be trivial to a large wholesaler.
+Prudence means caution, not pessimism: it never lets you invent losses. Materiality has no fixed cut-off; it
+depends on the size of the business.
 
 ## Situation 1: preparation of financial statements
 
-Every year-end adjustment applies a concept. For each item ask: which concept, and does profit rise or fall?
+Year-end adjustments are where the concepts turn into figures. Work through each item, naming the concept and the direction of the change to profit.
 
 **Worked example.** Juniper Street Bakery's year ends on 31 December 2025. Draft profit is **$64,300**.
 Three items need correcting.
 
 1. Insurance of $4,800 was paid on 1 October 2025 for the year to 30 September 2026. All of it was charged as
    an expense.
-2. A customer paid a deposit of $1,250 on 20 December for a cake to be delivered in February 2026. It was
-   credited to revenue.
-3. The owner's private car insurance of $700 was paid from the business bank account and debited to motor
+2. On 29 December a catering client paid $1,250 in advance for an order to be supplied on 15 January 2026.
+   It was credited to revenue.
+3. The owner's home broadband bill of $700 was paid from the business bank account and debited to telephone
    expenses.
 
 ```
 All figures in $
 Draft profit for the year                         64,300
 Add:  insurance prepaid 9/12 x 4,800                3,600   (accruals)
-Less: deposit not yet earned                       (1,250)  (realisation)
-Add:  private car insurance removed                   700   (business entity)
+Less: advance payment not yet earned               (1,250)  (realisation)
+Add:  owner's broadband bill removed                  700   (business entity)
 Corrected profit for the year                     67,350
 ```
 
-In the statement of financial position the $3,600 is a prepayment (other receivables), the deposit is a
-current liability until the cake is delivered, and drawings rise by the amount of the private insurance.
+In the statement of financial position the $3,600 is a prepayment (other receivables), the advance
+payment is a current liability until the order is supplied, and drawings rise by the $700 broadband bill.
 
 ## Situation 2: asset valuation
 
-**Historic cost** sets the starting value: the price paid, backed by an invoice, so it is objective. **Going
-concern** says you do not replace that with a forced-sale figure, because the business will go on using the
-asset. So a warehouse bought ten years ago for $90,000 stays at cost (less any depreciation) even if it could
+Under **historic cost** the starting figure is what was actually paid, a number anyone can check against the
+invoice. **Going concern** explains why it is not swapped for a liquidation price: the business expects to keep
+the asset working, so a forced-sale figure is irrelevant. So a warehouse bought ten years ago for $90,000 stays at cost (less any depreciation) even if it could
 now be sold for $140,000. Recording the higher figure would show a gain that has not been realised.
 
 If the owner decides to close the business, going concern no longer holds. Assets are then shown at what they
 are expected to fetch when sold, which may be well below their carrying amount.
 
-**Prudence** sets a ceiling in the other direction: where an asset is worth less than its recorded amount, as
-with damaged inventory or a receivable that will not be paid, the lower figure is used. **Money measurement**
-explains what is missing altogether: a loyal customer base is valuable, but it has no reliable money value.
+**Prudence** works only downwards. If an asset will bring in less than its book figure (goods that have been
+spoiled, say, or a customer who has stopped paying), the book figure is cut; it is never raised to a higher
+market value. **Money measurement** explains what is missing altogether: a dependable network of suppliers is valuable, but it has no reliable money value.
 
 ## Situation 3: depreciation of non-current assets
 
-Depreciation is **accruals** at work. A non-current asset helps earn revenue over several years, so its cost
-is spread over those years rather than charged in full when it is bought. **Consistency** means the method
-and the estimates are kept from year to year. **Prudence** means useful life and residual value should be
-realistic, not stretched to flatter profit.
+Spreading an asset's cost over the years it is used is the **accruals** concept: each year bears a share of
+the cost of the asset that helped earn that year's revenue. Once a method, rate and life are chosen,
+**consistency** keeps them in place so years can be compared, and **prudence** asks for honest estimates of
+life and residual value.
 
 **Worked example.** A printing firm buys a guillotine for $27,600. It expects to use it for 6 years and sell
 it for $2,400 at the end. It uses the straight-line method.
@@ -118,7 +118,7 @@ it for $2,400 at the end. It uses the straight-line method.
 Annual depreciation = (27,600 - 2,400) / 6 = 25,200 / 6 = $4,200 per year
 ```
 
-In a poor year the owner suggests changing the useful life to 9 years.
+Midway through a difficult year the owner asks whether the guillotine's life could be stretched to 9 years.
 
 ```
 Revised charge = 25,200 / 9 = $2,800 per year
@@ -138,8 +138,9 @@ Inventory is valued at the **lower of cost and net realisable value (NRV)**, com
 NRV = expected selling price - any costs still needed to complete and sell the item
 ```
 
-**Prudence** stops inventory being shown at more than it will bring in. **Historic cost** and **realisation**
-stop it being shown above cost: an expected profit on a sale that has not happened is not recognised.
+The two halves of the rule come from different concepts. Cutting to NRV when it is lower is **prudence**: a
+loss that can already be seen is taken now. Never going above cost, however profitable the goods look, is
+**historic cost** with **realisation**: the profit belongs to the period of sale.
 
 **Worked example.** Coralbay Electronics holds three product lines at its year end (all figures in $).
 
@@ -152,15 +153,15 @@ stop it being shown above cost: an expected profit on a sale that has not happen
 
 Total cost is 1,920 + 1,500 + 1,125 = $4,545, so inventory is written down by
 **$530**, and cost of sales
-rises (profit falls) by the same amount. Comparing totals would be wrong: total NRV is $4,975, above total
-cost, and you would miss the losses on speakers and chargers. A note in section 3.1.6 of the specification says the FIFO,
+rises (profit falls) by the same amount. Comparing only the totals (NRV 4,975 against cost 4,545) would
+keep everything at cost and let the headphones' margin hide the other losses. A note in section 3.1.6 of the specification says the FIFO,
 AVCO and LIFO methods of inventory valuation will not be examined.
 
 ## Situation 5: recording the purchase of non-current assets
 
-A non-current asset is recorded at **historic cost**, which means every cost of getting it to its place and
-ready for use. Costs of running it afterwards are revenue expenditure, charged to the income statement in the
-year they relate to (**accruals**).
+The asset account is debited with full **historic cost**: the price plus whatever had to be spent before the
+asset could do its job, such as carriage, fitting and alterations. Spending that keeps it going once in use is
+revenue expenditure, matched to its year under **accruals**.
 
 **Worked example.** Pinecrest Joinery buys a saw bench (all figures in $).
 
@@ -175,13 +176,14 @@ year they relate to (**accruals**).
 
 The ledger entry is debit Machinery **$15,300**, credit Bank (or the supplier). The
 $275 of revenue items go
-to repairs and maintenance. **Materiality** settles small purchases: a set of drill bits for $45 may last for
-years, but it is charged as an expense because depreciating it would not change any user's decision.
+to repairs and maintenance. **Materiality** covers the borderline: drill bits costing $45 will last several
+years, yet depreciating them would change no user's decision, so they go straight to expenses.
 
 ## Situation 6: recording transactions in ledger accounts
 
-**Duality** gives the double entry. **Business entity** decides whose transaction it is. **Money
-measurement** decides whether there is anything to record.
+Three concepts sit behind every ledger entry. **Duality** supplies the debit and its matching credit,
+**business entity** filters out the owner's private affairs, and **money measurement** screens out events with
+no reliable money amount.
 
 ```
 (a) Owner brings in a private laptop worth $900 for business use
@@ -195,10 +197,10 @@ measurement** decides whether there is anything to record.
 
 ## Situation 7: goods sold on a sale or return basis
 
-Goods sent on sale or return still belong to the seller until the customer accepts them, or keeps them past
-the agreed return date. Under **realisation** there is no sale until then. At the year end, goods still held
-on approval come out of revenue and trade receivables and go into closing inventory at **cost** (or NRV if
-lower, under **prudence**).
+On sale or return, ownership does not pass when the goods leave the seller. The customer becomes the owner by
+accepting them, or by holding them beyond the agreed return date, and until then **realisation** says there is
+no sale. Goods still out on approval at the year end are taken back out of revenue and the customer's balance,
+and counted in closing inventory at **cost** (NRV if lower, under **prudence**).
 
 **Worked example.** A wholesaler sent goods with a selling price of $5,200 on sale or return and recorded the
 whole amount as a credit sale. Its mark-up is 30% on cost. By the year end the customer had accepted goods
@@ -216,25 +218,21 @@ The $1,950 of accepted goods stays as revenue: that sale has been realised.
 
 ## When concepts conflict
 
-Accruals would spread an expected loss over future periods, but prudence brings it into this one. Historic
-cost would keep damaged inventory at cost, but prudence cuts it to NRV. Consistency would block any change of
-method, but a change that gives a fairer view is allowed if it is disclosed.
+- **Realisation and prudence.** Gains wait until they are earned, but a loss that can already be foreseen is
+  recognised now. That imbalance is why inventory can fall to NRV but never rise above cost.
+- **Materiality and precision.** Applying every rule to a $20 item costs more than it is worth, so small items
+  are simplified.
 
 ## Common errors
 
-- Treating historic cost as if it meant current market value, and so revaluing assets upwards.
-- Naming a concept without stating its effect on profit or on the statement of financial position.
-- Valuing inventory using total cost against total NRV instead of item by item.
-- Adding sale or return goods back to inventory at selling price rather than cost.
-- Removing all sale or return goods, including those the customer has already accepted.
-- Capitalising running costs such as servicing, or expensing delivery and installation.
-- Treating a customer deposit as revenue before the goods are delivered.
+- Revaluing an asset upwards because its market price has risen; historic cost forbids it.
+- Setting one total NRV against one total cost, so a profitable line hides a loss-making one.
+- Putting unaccepted sale or return goods into inventory at their selling price.
+- Reversing the whole sale or return consignment, including goods already accepted.
+- Charging carriage or fitting to expenses, or adding servicing to the asset's cost.
 
 ## Where to go next
 
-Use the [revision notes](/resources/oxfordaqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of-revision-notes/)
-for recall, then the
-[practice questions](/resources/oxfordaqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of-practice/).
 The [exam preparation guide](/resources/oxfordaqa-a-level-accounting-exam-preparation/) shows how the four
 papers fit together. To find weak spots across the course, try the free [diagnostics](/diagnostics/).
 

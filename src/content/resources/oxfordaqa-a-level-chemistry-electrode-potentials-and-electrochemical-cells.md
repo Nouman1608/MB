@@ -161,7 +161,7 @@ Data: Cr³⁺/Cr²⁺ −0.41 V; H₂O₂/H₂O +1.78 V.
 
 ## Required practical 6: measuring the EMF of a cell
 
-1. Clean metal electrodes with emery paper to remove oxide.
+1. Rub each metal electrode with emery paper so no oxide coating is left on it.
 2. Put each electrode in a 1.00 mol dm⁻³ solution of its ions (platinum where both species are ions).
 3. Join the solutions with filter paper soaked in an unreactive salt solution such as potassium nitrate, whose ions will not precipitate ions in either half-cell.
 4. Connect a high-resistance voltmeter so almost no current flows and the reading equals the EMF. Record which terminal is negative.
@@ -217,9 +217,9 @@ Double the negative-electrode equation so 4e⁻ cancel. OH⁻ made at one electr
 
 ### Benefits and risks to society
 
-- **Fuel cells**: only water at the point of use, but making hydrogen needs energy, often from fossil fuels, and hydrogen is flammable and hard to store.
-- **Rechargeable cells**: less waste than throwaway cells, but lithium is reactive and damaged cells can catch fire.
-- **All cells**: toxic metal compounds if dumped, so recycling matters.
+- **Fuel cells**: the device emits water and no carbon dioxide where it runs. But the hydrogen has to be produced first, using energy that may come from burning fossil fuels, and hydrogen mixed with air is explosive and bulky to store unless compressed.
+- **Rechargeable cells**: one cell serves through many charge cycles, so fewer cells are made and discarded. But a lithium cell that is overcharged or crushed can overheat and ignite.
+- **All cells**: metals such as lithium and cobalt must be mined, and dumped cells can leak harmful compounds, so collecting and recycling them matters.
 
 ## Common errors
 

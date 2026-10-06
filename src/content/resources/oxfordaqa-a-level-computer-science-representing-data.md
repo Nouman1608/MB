@@ -111,7 +111,7 @@ exponent 0011 = +3
 move the point 3 places right: 0110.1000 = 6.5
 ```
 
-Negative mantissa 1.0110000, exponent 0010: the mantissa is −1 + 0.25 + 0.125 = −0.625, and −0.625 × 2² = **−2.5**.
+Negative mantissa 1.0101000, exponent 0011: the mantissa is −1 + 0.25 + 0.0625 = −0.6875, and −0.6875 × 2³ = **−5.5**.
 
 **Decimal to binary.** Represent 13.25.
 
@@ -210,7 +210,7 @@ file size (bits) = rate (Hz) × resolution × seconds
 
 **Encryption** uses an algorithm (a **cipher**) to turn **plaintext** into **ciphertext** that a third party cannot easily understand without the method and the **key**, a value such as letters or bits.
 
-**Caesar cipher.** Shift each letter a fixed number of places, wrapping from Z to A. With shift 7, SIGNAL becomes ZPNUHS (L + 7 wraps past Z to S). Decrypt by shifting back. It is easily cracked: only 25 possible keys, letter frequencies survive (frequency analysis), and one letter's shift reveals all.
+**Caesar cipher.** Shift each letter a fixed number of places, wrapping from Z to A. With shift 7, SIGNAL becomes ZPNUHS (L + 7 wraps past Z to S). Decrypt by shifting back 7: ZPNUHS returns to SIGNAL. It is easily cracked: only 25 possible keys, letter frequencies survive (frequency analysis), and one letter's shift reveals all.
 
 **Vernam cipher** (one-time pad): XOR each bit with a key bit; XOR again to decrypt.
 

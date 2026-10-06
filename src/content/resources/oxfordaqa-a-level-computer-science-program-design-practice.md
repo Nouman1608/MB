@@ -133,7 +133,7 @@ The programmer tests it with 30 and 72, and both results are correct.
 **1.** A sequence of steps that can be followed to complete a task [1], and that always terminates [1]. **[2]**
 *Examiner insight:* Termination is the part that is easy to leave out. "A set of instructions" with no mention of finishing gives only half the definition.
 
-**2. (a)** Abstraction is removing unnecessary details from a problem [1] to make it easier to solve. Details that could be left out, any two: **frame colour** [1], **manufacturer or frame material**, rider's height, **number of gears** [1].
+**2. (a)** Abstraction is removing unnecessary details from a problem [1] to make it easier to solve. Details that could be left out, any two: **frame colour** [1], **manufacturer or frame material**, date of purchase, **number of gears** [1].
 **(b)** Break the problem into sub-problems, each doing one identifiable task [1], for example *find nearest station*, *show bikes available* and *reserve a bike* [1]. Each sub-problem can be broken down further and written as a subroutine, for example *find nearest station* splits into *get rider location* and *calculate distances* [1].
 *Examiner insight:* Details you leave out must be truly irrelevant to the app. Bike location or whether a bike is docked must stay, so naming either would not earn credit.
 

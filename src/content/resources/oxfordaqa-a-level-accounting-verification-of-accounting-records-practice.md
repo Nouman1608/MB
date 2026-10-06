@@ -42,7 +42,7 @@ A error of original entry; B partial omission; C complete reversal; D error of p
 
 **2.** For each error, name the type of error and state whether it is revealed by a trial balance.
 
-**(a)** A credit sale of 2,350 to H Brennan was posted to the account of H Brennand. **[1]**
+**(a)** A credit sale of 2,350 to H Castellano was posted to the account of H Castellanos. **[1]**
 **(b)** The discounts allowed total of 415 was posted to the discounts allowed account as 451. **[1]**
 **(c)** A supplier's invoice for 780 was lost and never recorded. **[1]**
 **(d)** The wages account and the revenue account were each overcast by 100. **[1]**
@@ -224,7 +224,7 @@ changes agree [1].
 *Examiner insight:* Say "overstated" or "understated" and give the amount; "affects profit" alone does not answer the question.
 
 **10.** It cannot reveal an error made identically in both records, for example a cheque written out for the wrong amount, which the bank pays as written [1], because the comparison relies on the two records differing [1]. It checks only the bank account, so errors in other ledger accounts such as a payment posted to the wrong expense account remain hidden [1], since the cash book side is correct [1].
-*Examiner insight:* "Explain" needs a reason after each limitation; two bare statements earn at most half the marks.
+*Examiner insight:* "Explain" needs a reason after each limitation; two bare statements with no reasons are unlikely to gain full credit.
 
 **11.** For the view: an agreeing trial balance shows that the arithmetic and posting of debits and credits are consistent [1], and it reveals addition, partial omission, transposition and unequal posting errors [1].
 Against: six error types, such as original entry, commission and compensating errors, still leave it in agreement [1]. A bank reconciliation compares the cash book with an independent record, so it finds unrecorded charges, dishonoured cheques and a wrong amount in the cash book [1]. Control accounts localise errors to the receivables or payables ledger [1], give quick totals for the statement of financial position [1], and help deter fraud if kept by someone other than the ledger clerk [1].

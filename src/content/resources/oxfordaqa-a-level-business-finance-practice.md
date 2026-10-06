@@ -85,7 +85,7 @@ Links: [Finance study guide](/resources/oxfordaqa-a-level-business-finance/) · 
 **(a)** Explain the difference between profit and cash. **[2]**
 **(b)** Explain the difference between profit and profitability. **[2]**
 
-**11.** Larkspur Furniture makes tables and sells them to retailers on credit. Its revenue is £876,000 and its trade receivables are £144,000. Larkspur is short of cash and is choosing between debt factoring and offering retailers a discount for paying early.
+**11.** Larkspur Textiles makes curtain fabric and sells it to retailers on credit. Its revenue is £876,000 and its trade receivables are £144,000. Larkspur is short of cash and is choosing between debt factoring and offering retailers a discount for paying early.
 
 **(a)** Calculate Larkspur's receivables days. **[2]**
 **(b)** Analyse whether debt factoring or an early payment incentive would better improve Larkspur's cash flow. **[6]**

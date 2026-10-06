@@ -165,7 +165,7 @@ Profit per employee    = 2,000,000 ÷ 250 = £8,000
 
 ## Quick self-test
 
-1. A café has an average of 56 staff and 14 leave in a year. Calculate labour turnover.
+1. A café has an average of 48 staff and 6 leave in a year. Calculate labour turnover.
 2. A firm recruited 60 people; 48 were still employed one year later. What percentage were retained?
 3. Labour costs are £84,000 and output is 12,000 units. Calculate labour cost per unit.
 4. Employee costs are £1.5m and revenue is £5m. Calculate employee costs as a percentage of turnover.
@@ -178,7 +178,7 @@ Profit per employee    = 2,000,000 ÷ 250 = £8,000
 
 ### Answers
 
-1. 14 ÷ 56 × 100 = **25%**.
+1. 6 ÷ 48 × 100 = **12.5%**.
 2. 48 ÷ 60 × 100 = **80%**.
 3. £84,000 ÷ 12,000 = **£7 per unit**.
 4. 1.5 ÷ 5 × 100 = **30%**.

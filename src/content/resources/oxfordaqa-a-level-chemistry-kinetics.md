@@ -78,12 +78,12 @@ Ea**. When two of them collide, the collision does not supply enough energy to b
 breaking, so the particles bounce apart unchanged. Only the small fraction of collisions with energy at or
 above Ea are **successful**.
 
-So the rate depends on two things:
+Two quantities therefore control the rate:
 
-1. how **often** particles collide (collision frequency);
-2. what **proportion** of those collisions have energy at or above Ea.
+1. the collision **frequency** (collisions per second);
+2. the **fraction** of those collisions that carry energy of at least Ea.
 
-Every factor in this topic works through one or both of these.
+Temperature, concentration, pressure and catalysts each act on one or both of these.
 
 **Worked example 1.** A mixture of methane and air can sit in a closed room at 25 °C for days without
 reacting, yet the same mixture burns fast once a flame is applied. Explain this.
@@ -96,18 +96,18 @@ above Ea too, so the reaction spreads.
 
 ## 3.1.6.2 The Maxwell–Boltzmann distribution
 
-The molecules in a gas at one temperature have a spread of energies. The Maxwell–Boltzmann distribution
-shows how the number of molecules varies with energy.
+At a fixed temperature, gas molecules share out energy unevenly: a few are slow, most are moderate, a few
+are very fast. The Maxwell–Boltzmann distribution plots this spread.
 
 **Drawing it**
 
-- x-axis: **energy**; y-axis: **number of molecules** with that energy.
-- The curve starts at the **origin**: no molecule has zero energy.
-- It rises to one peak at the **most probable energy**, then falls away.
-- It is **not symmetrical**. The high-energy tail is long, so the **mean energy** lies to the right of the
-  peak.
-- The tail gets closer and closer to the energy axis but **never touches it**: there is no maximum energy.
-- The **area under the curve** represents the total number of molecules.
+- Label the axes **energy** (horizontal) and **number of molecules** (vertical).
+- Begin the line at **(0, 0)**, since zero-energy molecules do not exist.
+- Climb to a single maximum, the **most probable energy**, then descend more slowly.
+- The shape is **lopsided**: the stretched-out high-energy side drags the **mean energy** above the most
+  probable value.
+- Let the tail flatten towards the energy axis **without ever reaching it**, as no upper energy limit exists.
+- Everything under the line stands for the **whole sample** of molecules.
 - Ea is a vertical line far out in the tail. The area to the right of it represents the molecules with
   E ≥ Ea.
 
@@ -118,8 +118,8 @@ shows how the number of molecules varies with energy.
 - the curve is **broader**;
 - the **total area is unchanged**, because the number of molecules is unchanged.
 
-The two curves cross once. Beyond that point, including everywhere to the right of Ea, the hotter curve lies
-above the cooler one.
+The cooler curve is higher at low energies and the hotter curve is higher at high energies, with a single
+crossing between them. Ea lies in the region where the hotter curve is on top.
 
 **Worked example 2 (interpreting curves from a grid).** A teacher draws two distribution curves for the same
 gas sample on squared paper. The total area under each curve is 1200 small squares. To the right of Ea, the
@@ -159,37 +159,38 @@ The equation is 1 : 1, so bromide ions form at the same rate. A rate is always q
 
 ### Why a small temperature rise gives a large rise in rate
 
-When you heat a reaction mixture, the molecules gain kinetic energy. Two things follow.
+Heating raises the average kinetic energy of the molecules, and this has two consequences.
 
-1. Molecules move a little faster, so they collide a little more often.
-2. The Maxwell–Boltzmann curve shifts to higher energy, so a **much larger proportion of molecules have
+1. Faster molecules meet slightly more often.
+2. The whole distribution slides towards higher energy, so a **much larger proportion of molecules have
    E ≥ Ea**.
 
-Point 2 is the main reason. Ea sits far out in the tail of the curve. When the curve shifts right, the small
+The second effect dominates. Ea sits far out in the tail of the curve. When the curve shifts right, the small
 area beyond Ea grows by a large factor, so the number of successful collisions per second rises sharply.
 
 **Worked example 4 (why the energy effect dominates).** For a reaction with Ea = 50 kJ mol⁻¹, calculations
-of the kind you meet later in 3.1.11 give these figures for a rise from 300 K to 310 K:
+of the kind you meet later in 3.1.11 give these figures for a rise from 295 K to 305 K:
 
-| Quantity | Change from 300 K to 310 K |
+| Quantity | Change from 295 K to 305 K |
 |---|---|
 | Mean molecular speed (so collision frequency) | rises by about 1.7 % |
-| Proportion of collisions with E ≥ Ea | about 1.91 times larger |
+| Proportion of collisions with E ≥ Ea | about 1.95 times larger |
 
 Step 1: the frequency effect alone would raise the rate by a factor of only about 1.017.
-Step 2: the energy effect raises it by about 1.91.
-Step 3: together the rate rises by about 1.017 × 1.91 ≈ 1.94, so it nearly doubles for a 10 K rise, and
+Step 2: the energy effect raises it by about 1.95.
+Step 3: together the rate rises by about 1.017 × 1.95 ≈ 1.98, so it nearly doubles for a 10 K rise, and
 almost all of that comes from the larger proportion with E ≥ Ea.
 
 You do not need this calculation at International AS, only the explanation it supports.
 
 ## 3.1.6.4 Effect of concentration and pressure
 
-**Concentration (solutions).** A higher concentration puts **more particles in the same volume**. They
-collide **more often**, so there are more collisions with E ≥ Ea each second and the rate rises.
+**Concentration (solutions).** Making a solution more concentrated means each cm³ holds **more reactant
+particles**. With less space between them, they meet **more often**, so the number of collisions reaching Ea
+each second goes up and so does the rate.
 
-**Pressure (gases).** Raising the pressure of a gas at constant temperature squeezes **more molecules into
-each unit of volume**. Collisions become **more frequent**, so the rate rises.
+**Pressure (gases).** Compressing a gas at fixed temperature leaves the same molecules in a **smaller
+volume**, so their number per cm³ rises. They meet **more often**, and the rate goes up.
 
 **What does not change.** Neither change alters the energy of the molecules. The Maxwell–Boltzmann curve
 keeps its shape and position, and the **proportion** of collisions with E ≥ Ea is the same. Only the number
@@ -224,12 +225,10 @@ A catalyst does not change the position of an equilibrium; that point belongs to
 
 At a fixed temperature the catalyst does not move the curve. Only the activation energy that matters changes.
 
-1. Draw one curve for the gas at that temperature.
-2. Mark Ea for the uncatalysed route in the tail.
-3. Mark Ea(cat) **to the left** of Ea.
-4. The area to the right of Ea(cat) is much larger than the area to the right of Ea.
-
-A greater proportion of molecules can now react by the new route, so more collisions succeed per second.
+Sketch a single curve, because the temperature is fixed. Put two vertical lines in its tail: Ea for the
+uncatalysed reaction, and a lower Ea(cat) **nearer the peak**. Shade the strip between the two lines. Those
+molecules could not react before but can react by the catalysed route, so the successful-collision rate
+rises.
 
 **Worked example 6.** On a distribution curve with a total area of 900 squares, 2 squares lie beyond Ea for
 the uncatalysed reaction and 27 squares lie beyond Ea(cat). By what factor does the catalyst increase the
@@ -242,15 +241,13 @@ moved.
 
 ## Common errors
 
-- Defining activation energy as "the energy needed to start a reaction". Use **minimum** energy for a
-  collision to lead to a reaction.
-- Drawing the hotter curve with a **taller** peak, or with a different total area.
-- Explaining the temperature effect only by "particles collide more often". The main reason is the larger
-  proportion with E ≥ Ea.
-- Saying that higher concentration or pressure gives particles more energy, or a larger proportion of
-  successful collisions. It raises collision **frequency** only.
-- Writing "a catalyst lowers the activation energy" with no mention of an **alternative route**.
-- Moving or reshaping the distribution curve when a catalyst is added. Only the Ea marker moves.
+- An activation energy definition that drops the word **minimum**.
+- A hotter Maxwell–Boltzmann curve whose peak is higher, or which encloses more area than the cooler one.
+- A temperature answer built only on faster, more frequent collisions; the energy fraction is the key idea.
+- Crediting concentration or pressure with giving molecules extra energy. They change how **often**
+  molecules meet, nothing else.
+- A catalyst answer with no **alternative route**.
+- A second, shifted curve drawn for a catalyst. The temperature is the same, so the curve stays put.
 
 ## Next steps
 

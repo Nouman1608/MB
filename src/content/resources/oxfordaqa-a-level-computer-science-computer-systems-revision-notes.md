@@ -161,7 +161,7 @@ How it is then used: a **virtual machine** interprets it, **or** a **just-in-tim
 6. State one advantage of assembly language over a high-level language.
 7. Explain "imperative high-level language".
 8. Which translator produces no object code?
-9. A games company sells its program without the source code. Which translator suits, and why?
+9. A firm sells its stock-control program without the source code. Which translator suits, and why?
 10. Give the two ways bytecode can be executed.
 11. Name the two low-level languages.
 

@@ -79,7 +79,7 @@ Course hub: [Edexcel A-Level Accounting](/boards/edexcel/a-level/accounting/). C
 
 **8.** A packing line produced 2,040 units in 340 labour hours in week 1 and 2,170 units in 350 labour hours in week 2. Calculate labour productivity for each week and the percentage change. **[3]**
 
-**9.** Tarnwell Joinery has two production departments (Cutting, Assembly) and two service departments (Canteen, Stores). Allocated overheads are: Cutting 23,500; Assembly 17,750; Canteen 3,250; Stores 2,900. Rent of 18,000 is shared by floor area: Cutting 500 m², Assembly 450 m², Canteen 150 m², Stores 100 m².
+**9.** Tarnwell Joinery has two production departments (Cutting, Assembly) and two service departments (Canteen, Stores). Allocated overheads are: Cutting 23,000; Assembly 17,300; Canteen 3,100; Stores 2,800. Rent of 19,200 is apportioned by floor area: Cutting 500 m², Assembly 450 m², Canteen 150 m², Stores 100 m².
 
 Canteen serves Cutting 40%, Assembly 50% and Stores 10%. Stores serves Cutting 60%, Assembly 30% and Canteen 10%. Budgeted activity: Cutting 9,100 machine hours; Assembly 5,800 direct labour hours.
 
@@ -129,7 +129,7 @@ Canteen serves Cutting 40%, Assembly 50% and Stores 10%. Stores serves Cutting 6
 **(b)** 360 x 1.40 = **504.00** [1]
 **(c)** Time allowed = 360 x 8 / 60 = 48 hours; time saved = 6 hours [1]. 462 + 0.5 x 6 x 11 = 462 + 33 = **495.00** [1]
 **(d)** Bonus = 42/48 x 6 x 11 = 57.75 [1]. 462 + 57.75 = **519.75** [1] **[6]**
-*Examiner insight:* Show time allowed and time saved as separate lines; a wrong bare total earns nothing.
+*Examiner insight:* Show time allowed and time saved as separate lines; a wrong bare total leaves no method for the examiner to credit.
 
 **7. (a)** Pool = (1,720 - 1,500) x 0.75 = 165 [1]. Total hours = 40 + 38 + 32 = 110, so 1.50 per hour [1]. Asha **60**, Bilal **57**, Chen **48** [1]. **[3]**
 **(b)** Basic pay = 480 + 456 + 480 = 1,416; gross pay = 1,416 + 165 = 1,581 [1]. Employer cost = 1,581 x 1.10 = **1,739.10** [1]. **[2]**
@@ -138,7 +138,7 @@ Canteen serves Cutting 40%, Assembly 50% and Stores 10%. Stores serves Cutting 6
 **8.** Week 1: 2,040 / 340 = 6.0 units per hour [1]. Week 2: 2,170 / 350 = 6.2 units per hour [1]. Change = (6.2 - 6.0) / 6.0 x 100 = **3.33% increase** [1]. **[3]**
 *Examiner insight:* Total output alone is not productivity; hours changed too, so compare output per hour.
 
-**9. (a)** Rent: Cutting 7,500; Assembly 6,750; Canteen 2,250; Stores 1,500 [1]. Totals: Cutting **31,000**, Assembly **24,500** [1], Canteen **5,500**, Stores **4,400** (check: 65,400) [1].
+**9. (a)** Rent: Cutting 8,000; Assembly 7,200; Canteen 2,400; Stores 1,600 [1]. Totals: Cutting **31,000**, Assembly **24,500** [1], Canteen **5,500**, Stores **4,400** (check: 65,400) [1].
 **(b)**
 
 ```

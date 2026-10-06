@@ -40,16 +40,16 @@ Learn the specification's names exactly. Each line gives the rule and the "so wh
 
 | Concept | Rule in one line | Effect you should be able to state |
 |---|---|---|
-| Money measurement | Only items with a reliable money value are recorded | Skills, reputation and location never appear as assets |
-| Duality | Two equal and opposite effects per transaction | Debits = credits; the accounting equation balances |
+| Money measurement | Only items with a reliable money value are recorded | Goodwill built by staff or customers stays off the books |
+| Duality | Two equal and opposite effects per transaction | Trial balance totals agree; assets always equal capital plus liabilities |
 | Historic cost | Assets at the price originally paid | No upward revaluation for rising market prices |
-| Going concern | Business assumed to continue | Assets at cost less depreciation, not break-up value |
+| Going concern | Business assumed to continue | Carrying amounts, not liquidation prices |
 | Accruals | Income and expenses in the period they relate to | Accruals, prepayments, income due, income received in advance, depreciation |
-| Consistency | Same methods every period | Results comparable year on year |
+| Consistency | Same methods every period | Trends between years are meaningful |
 | Prudence | Do not overstate assets or profit | Foreseeable losses now; gains only when realised |
 | Materiality | Small items treated in the simplest way | Low-cost durable items expensed |
 | Realisation | Revenue when earned (goods or service pass to the customer) | Not on order, not on deposit, not on cash receipt |
-| Business entity | Business separate from owner | Private spending = drawings; owner's money in = capital |
+| Business entity | Business separate from owner | Owner's private payments go to drawings; what the owner introduces goes to capital |
 
 Memory hook: three concepts deal with **what** is recorded (money measurement, business entity, materiality),
 three with **value** (historic cost, going concern, prudence), three with **timing** (accruals, realisation,
@@ -72,38 +72,38 @@ consistency over time), and duality with **how** it is recorded.
 ### Inventory: lower of cost and NRV
 
 ```
-1. NRV per unit = selling price - costs to complete and sell
-2. Compare NRV with cost for each line separately
-3. Value per line = lower figure x units
-4. Add the lines
-5. Write-down = total cost - total value used (reduces profit)
+NRV per unit      = selling price - costs to complete and sell
+Line value        = units x (cost or NRV, whichever is lower)
+Closing inventory = sum of the line values
+Write-down        = total cost - closing inventory   (cuts profit)
 ```
 
-Small reminder: 40 scarves cost $11 each; they will sell for
+Small reminder: 36 scarves cost $11 each; they will sell for
 $14 but need
 $4 of re-labelling and postage.
-NRV = 14 - 4 = 10, below cost, so value = 40 × 10 = 400 dollars, a write-down of 40.
+NRV = 14 - 4 = 10, below cost, so value = 36 × 10 = 360 dollars, a write-down of 36.
 
 ### Sale or return at the year end
 
-```
-1. Find goods still on approval (not accepted, return date not passed)
-2. Revenue:            reduce by their selling price
-3. Trade receivables:  reduce by their selling price
-4. Closing inventory:  add their cost (NRV if lower)
-5. Profit falls by:    selling price - cost
-Cost from a mark-up on cost of m%:  cost = selling price / (1 + m/100)
-```
+Identify goods still on approval: not accepted and the return date not passed. Then:
+
+| Item | Change |
+|---|---|
+| Revenue and the customer's receivable | Both down by the selling price |
+| Closing inventory | Up by cost (NRV if lower) |
+| Profit for the year | Down by the profit margin on those goods (selling price - cost) |
+
+With a mark-up of m% on cost, cost = selling price / (1 + m/100).
 
 Goods the customer has already accepted stay in revenue.
 
 ### Capital or revenue expenditure
 
 ```
-Capital (debit the asset account): purchase price, delivery, installation,
-  modifications needed before first use, legal fees on buying property
-Revenue (income statement): running costs, servicing, repairs,
-  fuel, insurance, replacement consumables
+Capital (asset account): price, carriage in, fitting, alterations made
+  before first use, legal costs of acquiring land or buildings
+Revenue (income statement): anything that keeps the asset running:
+  servicing, repairs, power, fuel, insurance, consumable parts
 ```
 
 ### Ledger entries: which concept decides?
@@ -120,15 +120,10 @@ credits, which is duality, so the trial balance still agrees.
 
 ### Correcting a draft profit
 
-```
-Draft profit
-+ expenses wrongly charged (private spending, prepaid amounts, capital items)
-- income wrongly included (deposits, unaccepted sale or return goods)
-- write-downs (inventory to NRV) and missing charges (depreciation, accruals)
-= Corrected profit
-```
-
-Always write the concept next to each line.
+Start from draft profit. Add back anything charged as an expense that does not belong to this period's
+business costs: the owner's private bills, amounts paid in advance, capital items. Deduct income not yet earned
+(advance payments, unaccepted sale or return goods), then charges not yet made (NRV write-downs, depreciation,
+unpaid expenses). Write the concept beside each line.
 
 ## Must-know distinctions
 
@@ -155,7 +150,7 @@ Always write the concept next to each line.
    $16.50 each. Value the inventory.
 4. Goods with a selling price of $2,800 were sent on sale or return and recorded as sales. Mark-up is 40% on
    cost. They were not accepted by the year end. By how much is profit overstated?
-5. A $120 waste bin will last six years. How should it be recorded, and which concept allows this?
+5. A $65 desk fan will last six years. How should it be recorded, and which concept allows this?
 6. A van costs $21,000. Shelving fitted before use costs
    $1,400 and the first tank of fuel costs
    $90. What
@@ -189,13 +184,13 @@ Always write the concept next to each line.
 
 - Naming a concept but not explaining its effect on profit, assets or liabilities.
 - Using "cost" loosely when a question is about net realisable value, or mixing up the two.
-- Comparing total cost with total NRV for inventory instead of each line.
+- Valuing inventory from one grand total of cost and one of NRV.
 - Taking sale or return goods out of revenue but forgetting to add their cost to closing inventory.
 - Adding sale or return goods back at selling price, or removing goods the customer has already accepted.
 - Working out cost from a mark-up by multiplying by (1 - m%) instead of dividing by (1 + m%).
 - Recording a customer deposit as revenue before the goods or service have been supplied.
-- Treating the owner's private bills as business expenses, or crediting drawings.
-- Describing prudence as "understating profit to be safe".
+- Charging the owner's household bills to business expense accounts, or crediting drawings.
+- Writing that prudence means "keeping profit low to be safe".
 - Defending a change of depreciation method only because it raises profit.
 
 ## Official syllabus

@@ -30,9 +30,9 @@ Use it with the [revision notes](/resources/oxfordaqa-a-level-accounting-prepara
 |---|---|
 | The use of concepts in the preparation of financial statements | Record other payables and other receivables, depreciation (straight line and reducing balance), disposal of non-current assets, provision for doubtful debts, irrecoverable debts, recovery of irrecoverable debts, income due, income received in advance, goods taken for own use, goods on sale or return, and inventory |
 | Preparing financial statements of sole traders from ledger accounts, including adjustments | Write up the ledger accounts for these items and transfer them to the income statement, for service businesses and trading businesses |
-| Preparing income statements and statements of financial position from a trial balance, including adjustments | Turn a trial balance plus notes into both statements |
+| Preparing income statements and statements of financial position from a trial balance, including adjustments | Start from a trial balance and year-end notes and produce an adjusted income statement and statement of financial position |
 
-The specification notes that FIFO, AVCO and LIFO inventory valuation will not be examined.
+FIFO, AVCO and LIFO are outside this topic: the specification states that these methods of inventory valuation will not be examined.
 
 ## Why the adjustments exist
 
@@ -50,39 +50,39 @@ A trial balance shows what was recorded. The concepts from section 3.1.5 decide 
 
 An expense owing at the year end is an **other payable** (a current liability). An expense paid in advance is an **other receivable** (a current asset).
 
-**Worked example (ledger account).** Insurance at 1 January 2025 was owing, 420. During 2025 the business paid 4,860. At 31 December 2025, 1,140 of that was for 2026.
+**Worked example (ledger account).** Insurance at 1 January 2025 was owing, 385. During 2025 the business paid 4,860. At 31 December 2025, 1,140 of that was for 2026.
 
 ```
                       Insurance
 2025              Dr           2025                 Cr
-Bank           4,860           1 Jan Balance b/d   420
-                               Income statement  3,300
+Bank           4,860           1 Jan Balance b/d   385
+                               Income statement  3,335
                                31 Dec Balance c/d 1,140
                4,860                             4,860
 2026
 1 Jan Balance b/d 1,140
 ```
 
-The charge is 4,860 - 420 - 1,140 = **3,300**. The 420 paid off last year's debt, so it is not a 2025 cost. The 1,140 debit balance carried down is an other receivable in the statement of financial position.
+The charge is 4,860 - 385 - 1,140 = **3,335**. The 385 paid off last year's debt, so it is not a 2025 cost. The 1,140 debit balance carried down is an other receivable in the statement of financial position.
 
 ## Income due and income received in advance
 
 Income earned but not received is **income due**, shown with other receivables. Income received before it is earned is **income received in advance**, shown with other payables.
 
-**Worked example.** A business earns commission. At 1 January 2025 it had received 300 in advance for 2025 work. It received 7,350 during 2025, and 480 was due at 31 December 2025.
+**Worked example.** A business earns commission. At 1 January 2025 it had received 270 in advance for 2025 work. It received 7,350 during 2025, and 480 was due at 31 December 2025.
 
 ```
                  Commission receivable
 2025              Dr           2025                 Cr
-Income statement 8,130         1 Jan Balance b/d   300
+Income statement 8,100         1 Jan Balance b/d   270
                                Bank              7,350
                                31 Dec Balance c/d  480
-                 8,130                           8,130
+                 8,100                           8,100
 2026
 1 Jan Balance b/d  480
 ```
 
-Income = 7,350 + 300 + 480 = **8,130**. The 480 debit balance is income due, an other receivable.
+Income = 7,350 + 270 + 480 = **8,100**. The 480 debit balance is income due, an other receivable.
 
 ## Depreciation
 
@@ -143,12 +143,12 @@ Always write off irrecoverable debts before calculating the provision.
 
 ## Full worked example: trial balance to statements
 
-Farida Noor trades as Noor Lighting. Trial balance at 31 March 2026:
+Farida Noor trades as Noor Lighting. Trial balance at 30 September 2026:
 
 | Account | Dr | Cr |
 |---|---|---|
 | Revenue | | 214,600 |
-| Purchases / inventory 1 April 2025 | 131,900 / 17,300 | |
+| Purchases / inventory 1 October 2025 | 131,900 / 17,300 | |
 | Wages | 36,450 | |
 | Rent and rates / heat and light | 13,200 / 4,380 | |
 | General expenses / irrecoverable debts | 2,970 / 520 | |
@@ -162,19 +162,19 @@ Farida Noor trades as Noor Lighting. Trial balance at 31 March 2026:
 | Drawings / capital | 24,000 | 55,390 |
 | **Totals** | **337,960** | **337,960** |
 
-Notes at 31 March 2026: closing inventory at cost 19,450 includes damaged lamps costing 1,100 with NRV 640; Farida took goods costing 600 for her own use (not recorded); heat and light owing 465; rent and rates prepaid 1,100; a further debt of 700 is irrecoverable; provision for doubtful debts 5% of trade receivables; depreciation on fixtures 10% straight line on cost and on the vehicle 30% reducing balance.
+Notes at 30 September 2026: closing inventory at cost 19,450 includes damaged lamps costing 1,100 with NRV 640; Farida took goods costing 600 for her own use (not recorded); heat and light owing 465; rent and rates prepaid 1,100; a further debt of 700 is irrecoverable; provision for doubtful debts 5% of trade receivables; depreciation on fixtures 10% straight line on cost and on the vehicle 30% reducing balance.
 
 **Workings.** Inventory 19,450 - 460 = 18,990. Purchases 131,900 - 600 = 131,300. Receivables 24,700 - 700 = 24,000; provision 1,200, increase 440. Fixtures 4,600; vehicle 30% x 15,840 = 4,752.
 
 ```
 Noor Lighting
-Income statement for the year ended 31 March 2026
+Income statement for the year ended 30 September 2026
 Revenue                                      214,600
 Less cost of sales
-  Inventory 1 April 2025          17,300
+  Inventory 1 October 2025        17,300
   Purchases                      131,300
                                  148,600
-  Less inventory 31 March 2026    18,990     129,610
+  Less inventory 30 Sept 2026     18,990     129,610
 Gross profit                                  84,990
 Less expenses
   Wages                           36,450
@@ -190,7 +190,7 @@ Profit for the year                           16,013
 ```
 
 ```
-Statement of financial position at 31 March 2026
+Statement of financial position at 30 September 2026
 Non-current assets         Cost   Acc. dep.   Carrying
   Fixtures and fittings  46,000    23,000     23,000
   Delivery vehicle       28,800    17,712     11,088

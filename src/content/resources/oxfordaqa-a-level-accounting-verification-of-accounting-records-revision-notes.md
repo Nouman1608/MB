@@ -78,9 +78,9 @@ an error of original entry and is not revealed.
    expense account.
 ```
 
-Small reminder: a payment of 450 to P Lindqvist was debited to bank and credited to his account (complete
+Small reminder: a payment of 450 to P Okwuosa was debited to bank and credited to his account (complete
 reversal). To fix it you must undo the wrong entry and make the right one, so the journal is Dr P
-Lindqvist 900, Cr Bank 900.
+Okwuosa 900, Cr Bank 900.
 
 ## Method in steps: effect on the statements
 

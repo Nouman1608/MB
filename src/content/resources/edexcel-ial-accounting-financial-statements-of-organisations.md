@@ -50,59 +50,59 @@ Every adjustment has two effects:
 - **Provisions** are amounts set aside for a known cost or loss whose exact amount is uncertain. They are charged against profit (prudence) and reduce an asset's value or appear as a liability. Provisions for depreciation and the allowance for irrecoverable debts are the two you will meet most.
 - **Irrecoverable debts** are written off as an expense and taken out of trade receivables. Only the **change** in the allowance goes to the statement of profit or loss; the full allowance is deducted from receivables.
 
-### Worked example: Vey Lighting
+### Worked example: Penhallow Lamps
 
-Tamsin Vey's trial balance at 31 March 2026 included: revenue 186,400; purchases 104,250; inventory 1 April 2025 12,600; wages 28,300; rent 9,600; electricity 3,140; commission received 2,200; loan interest 600; equipment at cost 48,000; provision for depreciation 18,000; trade receivables 15,400; allowance for irrecoverable debts 450; bank 6,230; trade payables 9,870; drawings 21,000; bank loan (repayable 2030) 10,000; capital 22,200.
+Dilys Penhallow's trial balance at 30 June 2026 included: revenue 213,700; purchases 121,480; inventory 1 July 2025 15,320; wages 33,960; insurance 4,380; heating 2,915; rent received 3,600; loan interest 450; equipment at cost 56,000; provision for depreciation 21,000; trade receivables 18,250; allowance for irrecoverable debts 520; bank 4,775; trade payables 11,640; drawings 24,600; bank loan (repayable 2031) 9,000; capital 22,670.
 
-Notes: closing inventory 14,850; rent prepaid 800; electricity accrued 360; commission due but not received 300; depreciation 20% reducing balance; write off a debt of 400; allowance to be 4% of remaining receivables.
+Notes: closing inventory 16,840; insurance prepaid 730; heating accrued 285; rent received includes 300 for next year; depreciation 25% reducing balance; write off a debt of 250; allowance to be 4% of remaining receivables.
 
-Working: depreciation (48,000 − 18,000) × 20% = 6,000. Receivables 15,400 − 400 = 15,000; allowance 4% = 600, so the increase is 600 − 450 = 150.
-
-```
-Statement of profit or loss for the year ended 31 March 2026
-Revenue                                      186,400
-Cost of sales (12,600 + 104,250 - 14,850)   (102,000)
-Gross profit                                  84,400
-Commission received (2,200 + 300)              2,500
-                                              86,900
-Wages                       28,300
-Rent (9,600 - 800)           8,800
-Electricity (3,140 + 360)    3,500
-Depreciation                 6,000
-Irrecoverable debts            400
-Increase in allowance          150
-Finance costs                  600           (47,750)
-Profit for the year                           39,150
-```
+Working: depreciation (56,000 − 21,000) × 25% = 8,750. Receivables 18,250 − 250 = 18,000; allowance 4% = 720, so the increase is 720 − 520 = 200.
 
 ```
-Statement of financial position at 31 March 2026
-Equipment: cost 48,000, depreciation 24,000   24,000
-Inventory                                     14,850
-Trade receivables (15,000 - 600)              14,400
-Other receivables (800 + 300)                  1,100
-Bank                                           6,230
-                                              36,580
-Total assets                                  60,580
-Capital 22,200 + 39,150 - 21,000              40,350
-Bank loan (non-current)                       10,000
-Trade payables 9,870 + other payables 360     10,230
-Capital and liabilities                       60,580
+Statement of profit or loss for the year ended 30 June 2026
+Revenue                                      213,700
+Cost of sales (15,320 + 121,480 - 16,840)   (119,960)
+Gross profit                                  93,740
+Rent received (3,600 - 300)                    3,300
+                                              97,040
+Wages                       33,960
+Insurance (4,380 - 730)      3,650
+Heating (2,915 + 285)        3,200
+Depreciation                 8,750
+Irrecoverable debts            250
+Increase in allowance          200
+Finance costs                  450           (50,460)
+Profit for the year                           46,580
+```
+
+```
+Statement of financial position at 30 June 2026
+Equipment: cost 56,000, depreciation 29,750   26,250
+Inventory                                     16,840
+Trade receivables (18,000 - 720)              17,280
+Other receivables (insurance prepaid)            730
+Bank                                           4,775
+                                              39,625
+Total assets                                  65,875
+Capital 22,670 + 46,580 - 24,600              44,650
+Bank loan (non-current)                        9,000
+Trade payables 11,640 + other payables 585    12,225
+Capital and liabilities                       65,875
 ```
 
 ## Departmental statements (1.3.7)
 
 Use one column per department plus a total. Direct costs go to their own department; shared costs are apportioned on a fair basis (floor area for rent, revenue for advertising).
 
-A shop has two departments, Furniture and Soft furnishings. Revenue 120,000 and 80,000; cost of sales 78,000 and 44,000; direct wages 15,000 and 11,000. Rent of 18,000 is shared by floor area (2:1); advertising of 6,000 by revenue (3:2).
+A shop has two departments, Furniture and Soft furnishings. Revenue 120,000 and 80,000; cost of sales 78,000 and 44,000; direct wages 15,000 and 11,000. Rent of 16,500 is apportioned by floor area (2:1); advertising of 6,000 by revenue (3:2).
 
 | | Furniture | Soft furnishings | Total |
 |---|---|---|---|
 | Gross profit | 42,000 | 36,000 | 78,000 |
 | Wages | 15,000 | 11,000 | 26,000 |
-| Rent | 12,000 | 6,000 | 18,000 |
+| Rent | 11,000 | 5,500 | 16,500 |
 | Advertising | 3,600 | 2,400 | 6,000 |
-| Profit | 11,400 | 16,600 | 28,000 |
+| Profit | 12,400 | 17,100 | 29,500 |
 
 ## Incomplete records (1.3.8)
 
@@ -157,11 +157,11 @@ Ines's current account opened at 2,300 credit and her drawings were 26,000: 2,30
 
 Goodwill is the excess of the business's value over its net assets. When the ratio changes, existing partners are credited with the goodwill they built up.
 
-Leah joins Ines and Marek. Goodwill is valued at 30,000 and is not kept in the books. The new ratio is Ines 2 : Marek 2 : Leah 1. Leah brings 25,000 cash and a vehicle worth 8,000.
+Leah joins Ines and Marek. Goodwill is valued at 36,000 and will not appear in the books; the new ratio is Ines 4 : Marek 3 : Leah 2. Leah brings 21,000 cash and a vehicle worth 9,500.
 
-- Credit old partners in the **old** ratio (3:2): Ines 18,000, Marek 12,000.
-- Debit all partners in the **new** ratio (2:2:1): Ines 12,000, Marek 12,000, Leah 6,000.
-- Leah's capital: 25,000 + 8,000 − 6,000 = **27,000**. Debit bank 25,000 and vehicles 8,000.
+- Credit old partners in the **old** ratio (3:2): Ines 21,600, Marek 14,400.
+- Debit all partners in the **new** ratio (4:3:2): Ines 16,000, Marek 12,000, Leah 8,000.
+- Leah's capital: 21,000 + 9,500 − 8,000 = **22,500**. Debit bank 21,000 and vehicles 9,500.
 
 On **retirement**, the same goodwill entries apply; the retiring partner's balances are paid in cash or moved to a loan account.
 
@@ -173,16 +173,16 @@ On **retirement**, the same goodwill entries apply; the retiring partner's balan
 - **Life membership** fees go to a separate fund and are transferred to income over the period the club chooses.
 - **Losses of inventory or cash** found at a count are expenditure.
 
-### Worked example: Moorcroft Chess Club
+### Worked example: Moorcroft Rowing Club
 
-Subscriptions: at the start, 180 in arrears and 240 in advance; received 6,420 in the year; at the end, 150 in arrears and 300 in advance.
+Subscriptions: at the start, 215 in arrears and 345 in advance; received 7,860 in the year; at the end, 130 in arrears and 455 in advance.
 
 ```
 Subscriptions account
-Dr  Balance b/d (arrears)  180  | Cr  Balance b/d (advance)  240
-    Income and expenditure 6,330 |     Bank                  6,420
-    Balance c/d (advance)  300  |     Balance c/d (arrears)   150
-                          6,810 |                           6,810
+Dr  Balance b/d (arrears)  215  | Cr  Balance b/d (advance)  345
+    Income and expenditure 7,665 |     Bank                  7,860
+    Balance c/d (advance)  455  |     Balance c/d (arrears)   130
+                          8,335 |                           8,335
 ```
 
 Café: takings 14,200; opening inventory 900; supplier payments 8,100 with payables rising from 600 to 750, so purchases are 8,250; closing inventory 1,050. Cost of sales = 900 + 8,250 − 1,050 = 8,100. After café wages of 2,400, café profit is **3,700**. Life fees of 2,000 spread over ten years give 200 income a year.

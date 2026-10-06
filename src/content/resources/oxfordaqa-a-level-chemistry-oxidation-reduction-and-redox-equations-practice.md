@@ -35,7 +35,7 @@ If you need to review first, read the [study guide](/resources/oxfordaqa-a-level
 
 ## Questions
 
-**1.** Define reduction in terms of electrons, and state what a reducing agent does in a redox reaction. **[2]**
+**1.** Explain, in terms of electrons, why the reducing agent in a redox reaction is itself oxidised. **[2]**
 
 **2.** Deduce the oxidation state of the stated element in each species.
 
@@ -44,7 +44,7 @@ If you need to review first, read the [study guide](/resources/oxfordaqa-a-level
 **(c)** xenon in XeOF₄ **[1]**
 **(d)** bromine in BrF₅ **[1]**
 
-**3.** State the oxidation state of hydrogen in magnesium hydride, MgH₂. Explain your answer. **[2]**
+**3.** Lithium aluminium hydride, LiAlH₄, contains lithium and aluminium in their usual oxidation states. Deduce the oxidation state of hydrogen in LiAlH₄, showing how you reached it. **[2]**
 
 **4.** Magnesium continues to burn in carbon dioxide:
 
@@ -88,12 +88,12 @@ Explain what is wrong with it and write the correct half-equation. **[2]**
 **(c)** Write the overall ionic equation for the reaction. **[2]**
 **(d)** A 20.0 cm³ sample of methanoic acid solution reacts exactly with 24.00 cm³ of 0.0500 mol dm⁻³ Ce⁴⁺ solution. Calculate the concentration of methanoic acid in mol dm⁻³. **[3]**
 
-**10.** A student proposes that magnesium reduces nitrate ions, NO₃⁻, to ammonium ions, NH₄⁺, in acidic solution, and that the magnesium is oxidised to Mg²⁺ ions. Use this proposal to answer the questions.
+**10.** A student proposes that magnesium reduces selenous acid, H₂SeO₃, to selenium, Se, in acidic solution, and that the magnesium is oxidised to Mg²⁺ ions. Use this proposal to answer the questions.
 
-**(a)** Give the oxidation state of nitrogen in NO₃⁻ and in NH₄⁺. **[1]**
-**(b)** Write a half-equation for the reduction of NO₃⁻ to NH₄⁺ in acidic solution. **[2]**
+**(a)** Give the oxidation state of selenium in H₂SeO₃ and in Se. **[1]**
+**(b)** Write a half-equation for the reduction of H₂SeO₃ to Se in acidic solution. **[2]**
 **(c)** Write the overall ionic equation for the reaction. **[2]**
-**(d)** Calculate the mass of magnesium needed to reduce 0.0150 mol of nitrate ions. Use Ar of Mg = 24.3. **[3]**
+**(d)** Calculate the mass of magnesium needed to reduce 0.0150 mol of H₂SeO₃. Use Ar of Mg = 24.3. **[3]**
 
 **11.** Chlorine dioxide, ClO₂, can be made by reacting chlorine with chlorite ions, ClO₂⁻:
 
@@ -106,27 +106,27 @@ Explain what is wrong with it and write the correct half-equation. **[2]**
 
 ## Answers
 
-**1.** Reduction is the gain of electrons [1]. A reducing agent donates electrons to another species (and is itself oxidised) [1]. **[2]**
-*Examiner insight:* "Loss of oxygen" does not answer a question that asks for electrons; the definition must refer to electron gain.
+**1.** A reducing agent is an electron donor: it gives electrons to the species it reduces [1]. Oxidation is the process of electron loss, so the reducing agent is oxidised [1]. **[2]**
+*Examiner insight:* Make the link explicit in two steps (donates electrons, then electron loss is oxidation); "because it reduces something" just repeats the name.
 
 **2. (a)** x + (−2) + 2(−1) = 0, so **+4** [1]
 **(b)** 3(+1) + x = 0, so **−3** [1]
 **(c)** x + (−2) + 4(−1) = 0, so **+6** [1]
 **(d)** x + 5(−1) = 0, so **+5** [1]
-*Examiner insight:* Every oxidation state needs a sign, written before the number; "6" or "6+" for xenon is not a correctly written oxidation state.
+*Examiner insight:* Start from the atoms with fixed values (F at −1, then O at −2) and write each result with the sign in front, such as +6, so it cannot be mistaken for an ionic charge.
 
-**3.** Hydrogen is **−1** [1]. Magnesium is a Group 2 metal and is +2, so the two hydrogen atoms must total −2; in a metal hydride, hydrogen is bonded to a metal and takes the negative value [1]. **[2]**
-*Examiner insight:* "It is an exception" is not an explanation; link the value to Mg being +2 and the compound being neutral.
+**3.** Li is +1 and Al is +3, so the four hydrogen atoms must total −4 for a neutral compound: (+1) + (+3) + 4x = 0 [1]. Hydrogen is **−1** [1]. **[2]**
+*Examiner insight:* Assuming hydrogen is +1 here gives a total of +8 for a neutral compound, which is impossible; when the sum will not reach zero, check whether hydrogen is bonded to a metal.
 
 **4. (a)** Magnesium: **0 → +2** [1]. Carbon: **+4 → 0** [1].
 **(b)** **CO₂** (carbon dioxide) [1]
-*Examiner insight:* In (b), "carbon" is ambiguous because carbon is also a product; give the formula of the species that accepts the electrons.
+*Examiner insight:* Magnesium gains oxygen here, but base (b) on electrons: the carbon atom in CO₂ gains four electrons, so CO₂ is the oxidising agent to name.
 
 **5.** **B and D** are redox reactions (and no others) [1]. In B, **hydrogen** is oxidised from **0 to +1** [1]. In D, **iron** is oxidised from **0 to +3** [1]. **[3]**
-*Examiner insight:* A and C are not redox because no oxidation state changes; ticking extra reactions usually costs the identification mark.
+*Examiner insight:* Work out the oxidation state of every element in A and C as well; each element keeps the same value on both sides, which is why neither is redox.
 
 **6.** Mn falls from +4 to +2, so this is a reduction and the electrons belong on the left; as written the charge does not balance (+4 on the left, 0 on the right) [1]. Correct: **MnO₂ + 4H⁺ + 2e⁻ → Mn²⁺ + 2H₂O** [1] **[2]**
-*Examiner insight:* "It is not balanced" is too vague; say that the charges differ or that electrons are on the wrong side for a reduction.
+*Examiner insight:* Use the oxidation state change to place the electrons: Mn falls by 2, so 2e⁻ go with the reactants, and both sides then total +2.
 
 **7. (a)** **+3** in H₃PO₃ and **+5** in H₃PO₄ (both needed) [1]
 **(b)** Species with H₂O and H⁺ balanced: H₃PO₃ + H₂O → H₃PO₄ + 2H⁺ [1]; electrons added: **H₃PO₃ + H₂O → H₃PO₄ + 2H⁺ + 2e⁻** [1]
@@ -145,22 +145,22 @@ Amount of HCOOH = 1.20 × 10⁻³ ÷ 2 = 6.00 × 10⁻⁴ mol [1]
 Concentration = 6.00 × 10⁻⁴ ÷ 0.0200 dm³ = **0.0300 mol dm⁻³** [1]
 *Examiner insight:* Convert cm³ to dm³ before multiplying, and state the 2 : 1 ratio you are using so your method is clear even if a number slips.
 
-**10. (a)** **+5** in NO₃⁻ and **−3** in NH₄⁺ (both needed) [1]
-**(b)** Atoms balanced: NO₃⁻ + 10H⁺ → NH₄⁺ + 3H₂O [1]; with electrons: **NO₃⁻ + 10H⁺ + 8e⁻ → NH₄⁺ + 3H₂O** [1]
-**(c)** Mg → Mg²⁺ + 2e⁻ multiplied by 4 so 8 electrons transfer [1]; **4Mg + NO₃⁻ + 10H⁺ → 4Mg²⁺ + NH₄⁺ + 3H₂O** [1]
-**(d)** Mole ratio Mg : NO₃⁻ = 4 : 1, so amount of Mg = 4 × 0.0150 = 0.0600 mol [1]
-Mass = 0.0600 × 24.3 [1] = **1.46 g** [1]
-*Examiner insight:* The nitrogen change is 8 (from +5 to −3), not 2; check that the electrons in (b) match this before you combine.
+**10. (a)** **+4** in H₂SeO₃ and **0** in Se (both needed) [1]
+**(b)** Atoms balanced: H₂SeO₃ + 4H⁺ → Se + 3H₂O [1]; with electrons: **H₂SeO₃ + 4H⁺ + 4e⁻ → Se + 3H₂O** [1]
+**(c)** Mg → Mg²⁺ + 2e⁻ multiplied by 2 so 4 electrons transfer [1]; **2Mg + H₂SeO₃ + 4H⁺ → 2Mg²⁺ + Se + 3H₂O** [1]
+**(d)** Mole ratio Mg : H₂SeO₃ = 2 : 1, so amount of Mg = 2 × 0.0150 = 0.0300 mol [1]
+Mass = 0.0300 × 24.3 [1] = **0.729 g** [1]
+*Examiner insight:* Selenium falls by 4 (from +4 to 0), so (b) needs 4e⁻; that count, set against 2e⁻ per Mg, gives the 2 : 1 ratio you use in (d).
 
 **11. (a)** ClO₂⁻ **+3**, ClO₂ **+4** [1]; Cl₂ **0**, Cl⁻ **−1** [1]
 **(b)** Oxidation: **ClO₂⁻ → ClO₂ + e⁻** [1]. Reduction: **Cl₂ + 2e⁻ → 2Cl⁻** [1]
 **(c)** Each ClO₂⁻ loses 1 electron and each Cl₂ gains 2, so the oxidation is doubled: 2 mol ClO₂⁻ supply the 2 mol of electrons that 1 mol Cl₂ accepts [1]
 **(d)** The chlorine atoms are in different species: Cl in ClO₂⁻ is oxidised (+3 → +4) while Cl in Cl₂ is reduced (0 → −1) [1]
-*Examiner insight:* In (d), "chlorine is oxidised and reduced" restates the question; you need to name the two species and give both oxidation state changes.
+*Examiner insight:* For (d), point to two different starting species, ClO₂⁻ and Cl₂, and quote the direction of each change; the element alone cannot show it.
 
 ## Where marks are usually lost
 
-- Defining reduction as "loss of oxygen" instead of electron gain.
+- Explaining redox with gain or loss of oxygen instead of electrons.
 - Calling the reducing agent "the species reduced".
 - Writing oxidation states without a sign, or with the sign after the number.
 - Forgetting that fluorine is always −1, so getting the wrong value for xenon in XeOF₄ or bromine in BrF₅.

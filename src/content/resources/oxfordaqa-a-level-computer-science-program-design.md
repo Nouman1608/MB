@@ -171,7 +171,7 @@ Draw one column per variable and add a new row each time a value changes. Here, 
 | 6 | 1 | 3 | 3 |
 | 7 | 0 | 0 | 3 |
 
-Output: **3** (days 4 to 6). Check the result against the purpose: the wet runs are 3, 5 (length 2) and 2, 4, 1 (length 3), so 3 is right.
+Output: **3** (indexes 4 to 6). Check the result against the purpose: the wet runs are 3, 5 (length 2) and 2, 4, 1 (length 3), so 3 is right.
 
 ### Converting to program code
 

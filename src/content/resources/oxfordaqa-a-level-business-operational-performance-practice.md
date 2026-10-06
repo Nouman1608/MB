@@ -53,7 +53,7 @@ Learn it first: [study guide](/resources/oxfordaqa-a-level-business-operational-
 **(a)** Calculate the unit cost. **[2]**
 **(b)** Calculate the capacity utilisation. **[2]**
 
-**4.** Kestrel Print produced 42,000 units last year with an average of 15 employees. This year it produced 46,800 units with an average of 18 employees. Calculate the percentage change in labour productivity. **[4]**
+**4.** Tarnfield Print produced 42,000 units last year with an average of 15 employees. This year it produced 46,800 units with an average of 18 employees. Calculate the percentage change in labour productivity. **[4]**
 
 **5.** Bramwell Tiles holds a maximum of 900 boxes of tiles and a buffer stock of 180 boxes. It sells 120 boxes a week, its supplier's lead time is 3 weeks, and each delivery arrives as inventory reaches the buffer stock. Inventory is 900 boxes at the end of week 0.
 
@@ -81,7 +81,7 @@ Learn it first: [study guide](/resources/oxfordaqa-a-level-business-operational-
 **(a)** Explain the difference between quality control and quality assurance. **[2]**
 **(b)** Analyse two costs of poor quality to Pinewell. **[4]**
 
-**10.** Saltmarsh Ice Cream makes and sells ice cream in a seaside town. Summer demand is about four times winter demand. It employs full-time staff all year and makes ice cream to order. Evaluate whether Saltmarsh should use flexible labour or build up inventory to match supply to demand. **[16]**
+**10.** Cove Lane Ice Cream makes and sells ice cream in a seaside town. Summer demand is about four times winter demand. It employs full-time staff all year and makes ice cream to order. Evaluate whether Cove Lane should use flexible labour or build up inventory to match supply to demand. **[16]**
 
 **11.** Arkwell Furniture holds large inventories of timber and fittings (a just-in-case approach). Its managers want to adopt lean production, including Just in Time and Kaizen. One supplier delivered two weeks late last year. Evaluate whether Arkwell should adopt lean production. **[12]**
 
@@ -122,11 +122,11 @@ Learn it first: [study guide](/resources/oxfordaqa-a-level-business-operational-
 *Examiner insight:* "Analyse" asks for a chain of reasoning: cost, then effect on unit cost or sales, then effect on profit or reputation.
 
 **10.** Indicative answer:
-- Flexible labour means temporary, part-time, agency or zero hours staff [1]; Saltmarsh could hire extra staff for summer only [1], so its wage bill follows demand instead of paying idle full-time staff in winter [1], which lowers average unit costs over the year [1].
+- Flexible labour means temporary, part-time, agency or zero hours staff [1]; Cove Lane could hire extra staff for summer only [1], so its wage bill follows demand instead of paying idle full-time staff in winter [1], which lowers average unit costs over the year [1].
 - But seasonal staff need training [1] and may be less committed, so service and product quality at the busiest time could fall [1], and zero hours contracts may attract ethical criticism [1].
 - Building inventory means making ice cream in quiet months to sell in summer [1]; this keeps the existing full-time staff busy all year [1] and uses capacity evenly [1].
 - But frozen storage is costly [1], ice cream has a limited shelf life [1], and making in advance does not suit making to order [1].
-- Judgement: flexible labour fits a fourfold peak in a perishable product better than inventory [1], provided Saltmarsh can recruit and train reliable seasonal staff [1]; a mix (a small inventory of best-selling flavours plus summer staff) may work best, depending on freezer capacity and local labour supply [1].
+- Judgement: flexible labour fits a fourfold peak in a perishable product better than inventory [1], provided Cove Lane can recruit and train reliable seasonal staff [1]; a mix (a small inventory of best-selling flavours plus summer staff) may work best, depending on freezer capacity and local labour supply [1].
 **[16]**
 *Examiner insight:* Credit for evaluation depends on a justified judgement that uses the case (fourfold peak, made to order, perishable); a one-sided answer, or one that never decides, limits the evaluation.
 

@@ -114,7 +114,7 @@ Sales per employee     = £9,500,000 ÷ 190 = £50,000
 Profit per employee    = £1,140,000 ÷ 190 = £6,000
 ```
 
-Of the 180 employees there at the start, 153 were still employed at the end: 153 ÷ 180 × 100 = **85%** retained. Of 40 people recruited in the previous year, 30 were still there one year after joining: 30 ÷ 40 × 100 = **75%**. When a business is also hiring, check which staff the question wants counted, because new joiners can push an end-of-period headcount above the starting figure.
+Of the 180 employees there at the start, 153 were still employed at the end: 153 ÷ 180 × 100 = **85%** retained. Of 40 people recruited in the previous year, 30 were still there one year after joining: 30 ÷ 40 × 100 = **75%**. Applied to raw headcounts, the appendix formula gives 200 ÷ 180 × 100 = 111%, because new joiners are counted; so check which staff the question wants counted.
 
 **Interpreting.** 20% turnover means one in five staff left: higher recruitment and training costs and lost experience, though some turnover brings new ideas. The specification stresses that measures such as labour productivity **vary in different contexts**: a hand-finishing workshop makes fewer items per employee than an automated line. Compare like with like and look at trends.
 

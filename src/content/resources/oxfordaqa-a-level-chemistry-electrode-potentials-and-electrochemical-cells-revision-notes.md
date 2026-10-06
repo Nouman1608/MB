@@ -175,9 +175,9 @@ Oxidation at the negative electrode releases electrons → electrons flow throug
 
 | Cell | Benefit | Risk |
 |---|---|---|
-| Fuel cell | Only water at the point of use | Hydrogen production needs energy, often from fossil fuels; hydrogen is flammable and hard to store |
-| Rechargeable | Less waste than throwaway cells | Lithium is reactive; damaged cells can catch fire |
-| Any cell | Portable electrical energy | Toxic metal compounds if dumped; needs recycling |
+| Fuel cell | Water is the only product where it runs; no CO₂ there | Making hydrogen uses energy, possibly from fossil fuels; hydrogen–air mixtures explode; bulky to store |
+| Rechargeable | Reused over many charge cycles, so fewer cells discarded | An overcharged or crushed lithium cell can overheat and ignite |
+| Any cell | Portable electrical energy | Lithium and cobalt must be mined; dumped cells leak harmful compounds, so collect and recycle |
 
 ## Must-know distinctions
 

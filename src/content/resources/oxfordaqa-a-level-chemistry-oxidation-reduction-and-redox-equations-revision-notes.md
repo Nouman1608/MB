@@ -83,7 +83,7 @@ Simple atoms and monatomic ions only need electrons to balance the charge. Balan
 | nickel atom to nickel ion | Ni → Ni²⁺ + 2e⁻ | oxidation |
 | lead ion to lead atom | Pb²⁺ + 2e⁻ → Pb | reduction |
 | oxide ions to oxygen | 2O²⁻ → O₂ + 4e⁻ | oxidation |
-| tin(IV) ion to tin(II) ion | Sn⁴⁺ + 2e⁻ → Sn²⁺ | reduction |
+| cobalt(III) ion to cobalt(II) ion | Co³⁺ + e⁻ → Co²⁺ | reduction |
 
 The number in front of e⁻ equals the total change in oxidation state. In 2O²⁻ → O₂ + 4e⁻, two oxygen atoms each rise by 2, so four electrons are lost.
 
@@ -105,7 +105,7 @@ Reminder: N in N₂O₅ → 2x + 5(−2) = 0 → x = **+5**.
 3. Up = oxidised (the species containing it is the reducing agent).
 4. Down = reduced (the species containing it is the oxidising agent).
 
-Reminder: CuO + H₂ → Cu + H₂O. Cu falls from +2 to 0, so CuO is reduced and is the oxidising agent. H rises from 0 to +1, so H₂ is oxidised and is the reducing agent.
+Reminder: WO₃ + 3H₂ → W + 3H₂O. W falls from +6 to 0, so WO₃ is reduced and is the oxidising agent. H rises from 0 to +1, so H₂ is oxidised and is the reducing agent. Six electrons move per W atom, supplied by three H₂ molecules.
 
 ### Half-equation in acidic solution
 
@@ -150,24 +150,24 @@ Reminder: SO₃ + H₂O → H₂SO₄. Sulfur is +6 on both sides, hydrogen stay
 
 ## Must-know distinctions
 
-| This | Is not the same as |
+| Pair | How to tell them apart |
 |---|---|
-| Oxidising agent (gets reduced) | Species oxidised (the reducing agent) |
-| Oxidation state +2 | Ionic charge 2+ |
-| Half-equation (has e⁻) | Overall equation (no e⁻) |
-| e⁻ on the left: reduction | e⁻ on the right: oxidation |
-| H in H₂O, HCl: +1 | H in LiH, MgH₂: −1 |
-| O in oxides: −2 | O in peroxides: −1; O with F: positive |
-| Value per atom | Total for all atoms of that element |
-| Every atom of an element changes | Only some atoms change (e.g. part of the HCl in a reaction) |
+| Oxidising agent / substance oxidised | The oxidising agent takes electrons, so its own oxidation state falls |
+| +2 / 2+ | Sign first for an oxidation state; number first for the charge on an ion |
+| Half-equation / full equation | Only a half-equation shows e⁻ |
+| Reduction / oxidation half-equation | Look at where e⁻ sits: with the reactants for reduction, with the products for oxidation |
+| H at +1 / H at −1 | −1 only when hydrogen is bonded to a metal (LiH, MgH₂) |
+| O at −2 / O at −1 or above | Peroxides give −1; bonding to fluorine makes O positive |
+| Per-atom value / element total | Divide by the number of atoms of that element |
+| All atoms change / some atoms change | Track each atom: in PbO₂ + 4HCl, two Cl atoms stay at −1 |
 
 ## Final checks on any redox equation
 
-- Atoms of every element balance.
-- Total charge balances.
-- Electrons lost = electrons gained, and no e⁻ remain in the overall equation.
-- H⁺ and H₂O each appear on one side only.
-- A reaction is only redox if at least one oxidation state changes.
+- Count each element on the left and on the right.
+- Add up the charges on each side; the two totals must agree.
+- The electron count from the oxidation must match the count from the reduction, and the final equation shows none.
+- After cancelling, no H⁺ or H₂O is left on both sides.
+- At least one oxidation state rises and another falls; if not, it is not redox.
 
 ## Quick self-test
 

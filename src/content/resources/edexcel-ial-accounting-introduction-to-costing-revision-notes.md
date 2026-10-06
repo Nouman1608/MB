@@ -144,7 +144,7 @@ Causes: actual hours differ from budget, actual spending differs from budget, or
 
 1. Classify: (a) factory rent, (b) a line rental plus a charge per call, (c) one extra supervisor for every 2,000 units.
 2. A business buys 100 units at 4, then 50 units at 5, then issues 120. Value closing inventory using FIFO and using LIFO.
-3. An item cost 60. It can be sold for 75 after completion costs of 12 and selling costs of 8. At what value should it be shown?
+3. An item cost 52. It can be sold for 64 after completion costs of 9 and selling costs of 6. At what value should it be shown?
 4. A worker makes 340 units at a piece rate of 0.95. Calculate gross pay.
 5. Time allowed 30 hours, time taken 24 hours, rate 15 an hour. Calculate total earnings under Halsey.
 6. Same data as question 5. Calculate total earnings under Rowan.
@@ -159,7 +159,7 @@ Causes: actual hours differ from budget, actual spending differs from budget, or
 
 1. (a) Fixed. (b) Semi-variable. (c) Semi-fixed (stepped).
 2. 30 units left. FIFO: 30 at 5 = **150**. LIFO: 30 at 4 = **120** (perpetual and periodic give the same here because all issues come after both purchases).
-3. NRV = 75 - 12 - 8 = 55, below cost of 60, so **55**.
+3. NRV = 64 - 9 - 6 = 49, below cost of 52, so **49**.
 4. 340 x 0.95 = **323.00**.
 5. Time saved 6 hours. Bonus = 0.5 x 6 x 15 = 45. Earnings = 24 x 15 + 45 = **405**.
 6. Bonus = 24/30 x 6 x 15 = 72. Earnings = 360 + 72 = **432**.

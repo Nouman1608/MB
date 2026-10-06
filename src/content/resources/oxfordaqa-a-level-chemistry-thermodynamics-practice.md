@@ -72,7 +72,7 @@ lattice enthalpy of formation of RbBr –660. Calculate the first electron affin
 | CuCl | –996 | –921 |
 
 **(a)** State two assumptions of the perfect ionic model. **[2]**
-**(b)** Deduce which compound has more covalent character. Explain your answer. **[3]**
+**(b)** Which compound has the greater degree of covalent bonding? Justify your choice from the data. **[3]**
 **(c)** Predict whether LiF or LiI shows the larger difference between the two values. Explain
 your answer. **[2]**
 

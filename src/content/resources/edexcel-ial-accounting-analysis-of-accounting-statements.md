@@ -151,7 +151,7 @@ The ratios are the same. Two points change.
 1. **Profit** for ROCE and the profit percentage is the profit for the year **before** the appropriation account. Partners' salaries, interest on capital and shares of profit are divisions of profit between the partners, not expenses.
 2. **Capital** is the total of the capital accounts plus the current accounts. A debit balance on a current account reduces it.
 
-**Worked example 2.** Tomasz Feld and Rhea Quillon are in partnership. Capital accounts: Feld 75,000, Quillon 55,000. Current accounts: Feld 6,500 credit, Quillon 2,500 debit. A bank loan of 40,000 is a non-current liability, and its interest of 2,400 was charged in arriving at a profit for the year of 26,400. The appropriation account then gives Quillon a salary of 10,000 and both partners interest on capital at 5%.
+**Worked example 2.** Tomasz Feld and Rhea Vantorre are in partnership. Capital accounts: Feld 75,000, Vantorre 55,000. Current accounts: Feld 6,500 credit, Vantorre 2,500 debit. A bank loan of 40,000 is a non-current liability, and its interest of 2,400 was charged in arriving at a profit for the year of 26,400. The appropriation account then gives Vantorre a salary of 10,000 and both partners interest on capital at 5%.
 
 ```
 Capital          = 75,000 + 55,000 + 6,500 - 2,500 = 134,000

@@ -43,10 +43,10 @@ Learn the method first in the [study guide](/resources/oxfordaqa-a-level-account
 
 **4.** Corvin Print has a year end of 30 June. At 1 July 2025 rent of 1,450 had been paid in advance. During the year to 30 June 2026 rent paid was 17,600. At 30 June 2026 rent of 1,600 is owing. Prepare the rent payable account for the year, showing the transfer to the income statement and the balance brought down. **[5]**
 
-**5.** A trader sublets part of a shop at 900 a month. During the year 11,700 rent was received, which includes rent for the first month of next year. Commission of 360 earned in the year has not been received.
+**5.** A trader sublets part of a shop at 900 a month. During the year 12,600 rent was received, which includes rent for the first two months of next year. Commission of 360 earned in the year has not been received.
 
 **(a)** Calculate the rent receivable for the income statement. **[2]**
-**(b)** State how the 900 and the 360 are shown in the statement of financial position. **[2]**
+**(b)** State how the 1,800 and the 360 are shown in the statement of financial position. **[2]**
 
 **6.** A van was bought on 1 January 2023 for 26,500 and depreciated at 30% reducing balance, with a full year's charge in the year of purchase and none in the year of disposal. It was sold on 20 August 2025 for 11,400. Calculate the accumulated depreciation at the date of sale and prepare the disposal account. **[6]**
 
@@ -58,13 +58,13 @@ Learn the method first in the [study guide](/resources/oxfordaqa-a-level-account
 
 **8.** Saffron Homeware's draft profit for the year is 28,640. These items have not been dealt with:
 
-- goods sent to a customer on sale or return were recorded as sales at 3,250, priced at cost plus 25%; the customer has not accepted them and they are not in closing inventory
+- goods sent to a customer on sale or return were recorded as sales at 3,350, priced at cost plus 25%; the customer has not accepted them and they are not in closing inventory
 - the owner took goods costing 540 for her own use; no entry was made
 - closing inventory includes items costing 1,380 with a net realisable value of 910.
 
 Calculate the corrected profit for the year. **[5]**
 
-**9.** The owner of a small business says the provision for doubtful debts is "only a guess, so it should be left out". Explain, with reference to two accounting concepts, why it is recorded. **[4]**
+**9.** The owner of a small business argues that, because nobody can say which customers will fail to pay, no provision for doubtful debts should be made. Explain, with reference to two accounting concepts, why it is recorded. **[4]**
 
 **10.** Leena Kaur runs Brightwater Surveys, a service business. Extract from the trial balance at 31 August 2026:
 
@@ -82,11 +82,11 @@ Calculate the corrected profit for the year. **[5]**
 | Trade receivables | 22,500 | |
 | Provision for doubtful debts | | 1,060 |
 
-Notes: fees of 2,400 for a survey finished in August have not been recorded; fees include 1,800 received for a survey to be done in September 2026; salaries owing 1,350; insurance prepaid 720; provision for doubtful debts 4% of trade receivables; depreciation on equipment 20% straight line on cost and on the vehicle 25% reducing balance.
+Notes: fees of 2,400 for a survey finished in August have not been recorded; fees include 1,800 received for a survey to be done in September 2026; salaries owing 1,350; insurance prepaid 720; provision for doubtful debts 4% of the trade receivables shown in the trial balance; depreciation on equipment 20% straight line on cost and on the vehicle 25% reducing balance.
 
 Prepare the income statement for the year ended 31 August 2026. **[12]**
 
-**11.** Tomasz Wren trades as Wren Tiles. His profit for the year ended 31 May 2026, after all adjustments, is 23,480. Balances at 31 May 2026: shop fittings cost 24,000, accumulated depreciation 9,600; van cost 19,500, accumulated depreciation 8,190; inventory 14,260; trade receivables 17,400; trade payables 12,350; bank overdraft 2,140; loan repayable 2031, 25,000; capital at 1 June 2025, 15,490; drawings 22,000.
+**11.** Tomasz Wren trades as Wren Tiles. His profit for the year ended 31 May 2026 is 23,480; this figure already reflects every note below. Balances at 31 May 2026: shop fittings cost 24,000, accumulated depreciation 9,600; van cost 19,500, accumulated depreciation 8,190; inventory 14,260; trade receivables 17,400; trade payables 12,350; bank overdraft 2,140; loan repayable 2031, 25,000; capital at 1 June 2025, 15,490; drawings 22,000.
 
 Notes: inventory excludes goods costing 640 held by a customer on sale or return (the sale has already been removed from revenue and receivables); provision for doubtful debts is 5% of trade receivables; insurance prepaid 380; wages owing 610; rent received in advance 450.
 
@@ -118,8 +118,8 @@ Bank                    17,600
 Opening balance on the debit side [1]; bank 17,600 [1]; closing 1,600 carried down on the debit side [1]; transfer **20,650** [1]; 1,600 brought down on the credit side [1]
 *Examiner insight:* Date and narrate each entry, and make sure the brought-down balance is on the opposite side to the carried-down one.
 
-**5. (a)** 11,700 / 900 = 13 months, so one month is in advance [1]; income **10,800** [1]
-**(b)** 900: income received in advance, an other payable under current liabilities [1]; 360: income due, an other receivable under current assets [1]
+**5. (a)** 12,600 / 900 = 14 months, so two months (1,800) are in advance [1]; income 12,600 - 1,800 = **10,800** [1]
+**(b)** 1,800: income received in advance, an other payable under current liabilities [1]; 360: income due, an other receivable under current assets [1]
 *Examiner insight:* Name both the item and the subheading; "current liability" alone is weaker than "other payable, current liabilities".
 
 **6.** 2023: 30% x 26,500 = 7,950 [1]; 2024: 30% x 18,550 = 5,565 [1]; accumulated **13,515**.
@@ -140,7 +140,7 @@ Cost debited [1]; depreciation credited [1]; proceeds credited [1]; **loss 1,585
 **(c)** Trade receivables 40,000 less provision 1,200 [1] = **38,800** [1]
 *Examiner insight:* Reinstating the debt first leaves a record that the customer paid, which is why it is not just debit bank, credit income.
 
-**8.** Remove the sale: -3,250 [1]; add inventory at cost 3,250 / 1.25 = 2,600: +2,600 [1]; goods for own use reduce purchases: +540 [1]; NRV write-down 1,380 - 910 = 470: -470 [1]; corrected profit **28,060** [1]
+**8.** Revenue overstated: -3,350 [1]; goods back in inventory at cost, 3,350 / 1.25 = 2,680: +2,680 [1]; purchases cut by the owner's goods: +540 [1]; NRV write-down 1,380 - 910 = 470: -470 [1]; corrected profit **28,040** [1]
 *Examiner insight:* Show each adjustment with a plus or minus sign so every step can be followed.
 
 **9.** Prudence: assets should not be overstated [1], so receivables are shown at the amount expected to be collected [1]. Accruals: the expected loss belongs to the period in which the credit sales were made [1], so it is charged against that period's revenue rather than when the debt is finally written off [1]
@@ -203,13 +203,10 @@ Non-current assets with cost, depreciation and carrying amount [1]; total 25,710
 ## Where marks are usually lost
 
 - Deducting an opening prepayment instead of adding it to the expense charge.
-- Ignoring the depreciation policy for the years of purchase and disposal.
 - Using cost for every year of reducing balance depreciation.
 - Calculating the provision before writing off year-end irrecoverable debts.
-- Recording a recovered debt only as cash, with no reinstatement of the customer's account.
 - Adding goods on sale or return to inventory at selling price.
 - Giving a service business a cost of sales or gross profit line.
-- Leaving out headings or the date on a financial statement.
 
 ## Next steps
 

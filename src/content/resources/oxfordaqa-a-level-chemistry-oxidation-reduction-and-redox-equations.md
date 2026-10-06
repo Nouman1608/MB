@@ -114,7 +114,7 @@ x = −1
 
 **(d) Hydrogen in lithium hydride, LiH**
 
-Lithium is Group 1, so +1. Hydrogen must be −1. This is a metal hydride.
+Lithium, in Group 1, is +1 and the compound is neutral, so hydrogen is −1. Hydrogen bonded to a metal takes the negative value.
 
 **(e) Oxygen in O₂F₂**
 

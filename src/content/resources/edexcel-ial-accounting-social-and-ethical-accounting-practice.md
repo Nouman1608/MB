@@ -38,7 +38,7 @@ Learn the content first in the [study guide](/resources/edexcel-ial-accounting-s
 
 **3.** Explain how a decision to buy timber from the cheapest available supplier could affect the use of natural resources. **[2]**
 
-**4.** Kestrel Print Works pays its machine operators a day rate of 12.50 per hour for a 38-hour week. The owner proposes to pay piecework at 0.95 per unit instead. A typical operator produces 560 units a week.
+**4.** Sedgebrook Print Works pays its machine operators a day rate of 12.50 per hour for a 38-hour week. The owner proposes to pay piecework at 0.95 per unit instead. A typical operator produces 560 units a week.
 
 **(a)** Calculate a typical operator's weekly earnings under each method. **[2]**
 **(b)** Explain **two** workforce or health and safety implications of the switch to piecework. **[4]**
@@ -48,9 +48,9 @@ Learn the content first in the [study guide](/resources/edexcel-ial-accounting-s
 **(a)** Calculate the effect on profit for the year of an allowance of (i) 4% and (ii) 1.5%. **[4]**
 **(b)** Explain why the owner's request is unethical. **[3]**
 
-**6.** Lindqvist and Moyo are admitting Adaeze as a partner. Goodwill is to be valued at twice the average profit of the last three years. The correct profits are 36,000, 41,000 and 46,000. Lindqvist proposes to record repairs of 9,000, carried out in the latest year, in the following year instead.
+**6.** Achterberg and Pimlott are admitting Adaeze as a partner. Goodwill is to be valued at twice the average profit of the last three years. The correct profits are 36,000, 41,000 and 46,000. Achterberg proposes to record repairs of 9,000, carried out in the latest year, in the following year instead.
 
-**(a)** Calculate goodwill using the correct profits and using Lindqvist's proposal. **[4]**
+**(a)** Calculate goodwill using the correct profits and using Achterberg's proposal. **[4]**
 **(b)** Explain the ethical problem and who would be harmed. **[3]**
 
 **7.** Bramblecote Upholstery is pricing a job to re-cover hotel furniture. Direct materials are 2,400. Direct labour is 60 hours at 14 per hour. Overheads are absorbed at 9 per direct labour hour. The price is total cost plus 25%.
@@ -58,7 +58,7 @@ Learn the content first in the [study guide](/resources/edexcel-ial-accounting-s
 **(a)** Calculate the price of the job. **[4]**
 **(b)** The owner proposes to use a cheaper fabric that is not fire-retardant, saving 600 on materials, without telling the hotel. Evaluate the proposal. **[6]**
 
-**8.** Ferncliff Laundry must buy a washing machine. Both machines last 5 years and are depreciated on the straight-line basis.
+**8.** Thornaby Laundry must buy a washing machine. Both machines last 5 years and are depreciated on the straight-line basis.
 
 | | Machine A | Machine B |
 |---|---|---|
@@ -69,7 +69,7 @@ Learn the content first in the [study guide](/resources/edexcel-ial-accounting-s
 Machine B uses much less water and is quieter.
 
 **(a)** Calculate the total annual charge to profit for each machine. **[4]**
-**(b)** Recommend which machine Ferncliff Laundry should buy. **[5]**
+**(b)** Recommend which machine Thornaby Laundry should buy. **[5]**
 
 **9.** Oakmere Ceramics is the largest employer in a small town. The owner plans to move production to a cheaper site 150 km away. Explain how the decision might affect **three** different stakeholders. **[6]**
 
@@ -78,7 +78,7 @@ Machine B uses much less water and is quieter.
 **(a)** Calculate the annual effect on profit, and the effect in the first year. **[4]**
 **(b)** Evaluate whether Pennock Bakery should automate. **[8]**
 
-**11.** Wrenfield Cycles has revenue of 400,000, a gross margin of 30% and expenses of 84,000, which are expected to stay the same. The owner wants the accountant to prepare a projection for a bank loan using 25% sales growth. The accountant's evidence supports 5% growth. Assume the gross margin stays the same.
+**11.** Rookwood Cycles has revenue of 400,000, a gross margin of 30% and expenses of 84,000, which are expected to stay the same. The owner wants the accountant to prepare a projection for a bank loan using 25% sales growth. The accountant's evidence supports 5% growth. Assume the gross margin stays the same.
 
 **(a)** Calculate projected profit for the year under each growth rate. **[4]**
 **(b)** Discuss the ethical issues and recommend what the accountant should do. **[6]**
