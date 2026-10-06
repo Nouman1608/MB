@@ -169,7 +169,7 @@ Opening balances and Wenlock's cash [1]; revaluation profit [1]; goodwill create
 
 **8. (a)** Revaluation profit 12,600 − 2,400 − 1,200 = 9,000 [1]; Faulds' share 1/6 = 1,500 [1]; goodwill share 30,000 × 1/6 = 5,000 [1]; amount due 24,000 + 1,680 + 1,500 + 5,000 = **32,180** [1].
 **(b)** Revaluation shares Durrell 4,500, Everard 3,000 [1]; goodwill created 15,000 and 10,000, written off 18,000 and 12,000 [1]; Durrell **55,500**, Everard **37,000** [1].
-**(c)** Loan 32,180 − 12,180 = 20,000; interest 20,000 × 6% = **1,200**, an expense in the income statement [1]; the loan itself is a liability in the statement of financial position [1]. **[9]**
+**(c)** Loan 32,180 − 12,180 = 20,000; interest 20,000 × 6% = **1,200** [1]; an expense in the income statement (the loan is a liability) [1]. **[9]**
 *Examiner insight:* Transfer the current account balance to capital first; leaving it out understates the amount due.
 
 **9.** Six months before admission: 30,000 shared equally, Garside 15,000 and Hebden 15,000 [1]. Six months after: 30,000 shared 2 : 2 : 1, giving 12,000, 12,000 and 6,000 [1]. Totals: Garside **27,000** and Hebden **27,000** [1]; Ivers **6,000** [1]. **[4]**
@@ -177,7 +177,7 @@ Opening balances and Wenlock's cash [1]; revaluation profit [1]; goodwill create
 
 **10.** Totals: Sallow 2,400 − 1,640 − 300 = **460**; Pengelly 1,800 + 9,000 − 1,640 − 240 = **8,920** [1]; Haverstock 1,200 + 9,000 − 820 − 160 = **9,220**; check 460 + 8,920 + 9,220 = 18,600 [1].
 
-For a change: Sallow supplies about 44% of the capital but receives about 2.5% of the profit [1]. Salaries take priority, so when profit falls the residual loss hits Sallow, who has no salary, hardest [1]. Higher interest on capital or a larger profit share would reward his capital more fairly [1].
+For a change: Sallow supplies about 44% of the capital but receives about 2.5% of the profit [1]. Salaries take priority, so when profit falls the residual loss wipes out most of Sallow's reward, as he has no salary [1]. Higher interest on capital or a larger profit share would reward his capital more fairly [1].
 
 Against: the salaries may reward full-time work, and one poor year may not justify a new agreement [1]. A compromise is to pay salaries only once profit passes an agreed figure [1].
 

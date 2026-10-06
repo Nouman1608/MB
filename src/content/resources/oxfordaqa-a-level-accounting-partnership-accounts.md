@@ -199,7 +199,7 @@ Keverne is owed 24,750 in total. The 12,000 loan is a liability; interest on it 
 
 "Comment" needs judgements backed by figures:
 
-- Does each partner's total reward (salary plus interest plus profit share) match the capital and effort they contribute? In example C, only Vardakis earns a salary, which rewards the extra work he does.
+- Does each partner's total reward (salary plus interest plus profit share) match the capital and effort they contribute? In example C, only Vardakis earns a salary; ask whether extra work by him justifies it.
 - Is a current account in debit? Vardakis drew 41,200 against 37,976 credited this year, draining cash.
 - On admission or retirement, is the goodwill valuation fair to both sides, and can the firm afford the cash paid out?
 

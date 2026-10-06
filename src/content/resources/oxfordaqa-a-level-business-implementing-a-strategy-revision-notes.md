@@ -20,7 +20,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-These notes condense section 3.4.5 Implementing a strategy from the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. This content is examined only at International A-level, on the Unit 4: Business strategy paper. Students still finishing the older 9625 specification should revise from their own specification. For full explanations and longer worked examples, use the [implementing a strategy study guide](/resources/oxfordaqa-a-level-business-implementing-a-strategy/).
+These notes condense section 3.4.5 Implementing a strategy from the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. This content is **International A-level only**, examined on the Unit 4: Business strategy paper. Anyone completing the earlier 9625 course should revise from the 9625 specification. For full explanations and longer worked examples, use the [implementing a strategy study guide](/resources/oxfordaqa-a-level-business-implementing-a-strategy/).
 
 Practise next: [implementing a strategy practice questions](/resources/oxfordaqa-a-level-business-implementing-a-strategy-practice/) · [every 9725 Business topic](/boards/oxfordaqa/a-level/business/) · [tick-list for 9725 Business](/checklists/oxfordaqa/a-level/business/) · [short diagnostic quizzes](/diagnostics/)
 

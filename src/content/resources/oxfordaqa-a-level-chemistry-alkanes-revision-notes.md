@@ -92,7 +92,7 @@ Mechanisms: not required for either.
 3. Subtract carbons and hydrogens separately to find what is left.
 4. Check each product against CₙH₂ₙ₊₂ (alkane) or CₙH₂ₙ (alkene).
 
-*Reminder:* octadecane to decane and butene: C₁₈H₃₈ → C₁₀H₂₂ + 2C₄H₈ (H: 22 + 16 = 38).
+*Reminder:* undecane to pentane and propene: C₁₁H₂₄ → C₅H₁₂ + 2C₃H₆ (H: 12 + 12 = 24).
 
 **Economic reasons, as a chain:**
 
@@ -159,8 +159,8 @@ Flue-gas masses are practised in the
 
 ## 3.3.2.4 Chlorination of methane
 
-Condition: **UV light**. Mechanism: **free-radical substitution**. Dots for unpaired electrons; no curly
-arrows (section 3.3.1.2).
+Condition: **UV light**. Mechanism: **free-radical substitution**. Dots for unpaired electrons; curly arrows
+are not required (section 3.3.1.2).
 
 | Stage | Equation | Radicals: left → right |
 |---|---|---|

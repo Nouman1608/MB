@@ -136,7 +136,7 @@ A deep network with layers 5, 4, 4, 2 has 5 × 4 + 4 × 4 + 4 × 2 = 20 + 16 + 8
 9. A face-recognition door entry system for a sports club was trained mostly on photos of adults. Suggest one group of members it may perform poorly for, and explain why.
 10. Which application area does an AI that writes a cover letter belong to?
 11. Give two benefits of using AI in medical diagnosis.
-12. Name two risks of generative AI that the specification lists.
+12. Name two risks from the specification's list that apply to generative AI.
 
 ### Answers
 

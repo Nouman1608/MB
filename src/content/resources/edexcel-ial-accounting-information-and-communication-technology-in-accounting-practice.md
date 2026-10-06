@@ -49,10 +49,10 @@ Work through the [study guide](/resources/edexcel-ial-accounting-information-and
 **(a)** Calculate the invoice total. **[4]**
 **(b)** State the double entry the package posts for this invoice. **[2]**
 
-**6.** Glenquay Packaging uses a payroll package. Imani Rotherwood worked 42 hours last week. The basic week is 38 hours at 15 per hour, and any hours beyond that earn time and a half. Assume income tax is 18% of gross pay above 150 a week, and a pension deduction is 5% of gross pay.
+**6.** Glenquay Packaging uses a payroll package. Corisande Rotherwood worked 42 hours last week. The basic week is 38 hours at 15 per hour, and any hours beyond that earn time and a half. Assume income tax is 18% of gross pay above 150 a week, and a pension deduction is 5% of gross pay.
 
-**(a)** Calculate Imani's gross pay. **[2]**
-**(b)** Calculate the deductions and Imani's net pay. **[3]**
+**(a)** Calculate Corisande's gross pay. **[2]**
+**(b)** Calculate the deductions and Corisande's net pay. **[3]**
 **(c)** State **one** advantage to Glenquay of using a payroll package rather than a manual payroll. **[1]**
 
 **7.** Selwood Wholesale gives 30 days' credit. Its accounting package produces this aged debtors list.
@@ -130,7 +130,7 @@ Annual savings: one clerk's wages 14,000; stationery and postage 700; fewer erro
 *Examiner insight:* Cost of a system is a financial point, not a technical one; keep the aspect the question asks for.
 
 **10. (a)** One-off: 9,000 + 4,200 + 2,100 + 2,700 = **18,000** [1]. Savings 16,000 less running costs 3,500 [1] = net annual saving **12,500** [1]. Payback 18,000 ÷ 12,500 = 1.44 years [1] = **1 year 5 months** (0.44 × 12 = 5.3) [1].
-**(b)** For: payback well under two years; over three years the gain is 3 × 12,500 − 18,000 = 19,500 [1]. Faster invoices and debtors lists should improve cash flow; arithmetic is accurate [1]. A computerised audit trail logs each entry and user [1]. Against: in year 1 the business is 5,500 worse off [1]. A clerk loses their job; other staff need training and may resist [1]. Breakdowns, hacking and data loss need backups and security, and the savings are estimates [1]. Judgement: introduce it, with training and backups in place, and redeploy the clerk if possible [1]. **[7]**
+**(b)** For: payback well under two years; over three years the gain is 3 × 12,500 − 18,000 = 19,500 [1]. Faster invoices and debtors lists should improve cash flow; arithmetic is accurate [1]. A computerised audit trail logs each entry and user [1]. Against: in year 1 the business is 5,500 worse off [1]. A clerk loses their job; other staff need training and may resist [1]. Breakdowns, hacking and data loss need backups and security, and the savings are estimates [1]. Judgement: introduce it, with training and backups in place, and redeploy the clerk if possible [1]. **[12]**
 *Examiner insight:* Use the payback from part (a) in part (b); judgements that draw on your own figures and the scenario earn more than general lists.
 
 **11. (a)** January 0.6 × 18,000 + 0.4 × 15,000 = **16,800** [1]; February 12,600 + 7,200 = **19,800** [1]; March 14,400 + 8,400 = **22,800** [1].

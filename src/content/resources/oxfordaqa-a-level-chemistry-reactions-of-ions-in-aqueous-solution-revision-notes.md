@@ -149,7 +149,7 @@ Mole ratios you will use in calculations:
 7. Write the equation for copper(II) aqua ions reacting with carbonate ions.
 8. Why is no aluminium carbonate formed when sodium carbonate is added to Al³⁺(aq)?
 9. What species is formed from ammonia when it acts as a base in these reactions?
-10. How many moles of OH⁻ are needed in total to precipitate 0.00800 mol of Al³⁺ and then redissolve it all?
+10. Precipitating all the Al³⁺ in a solution uses 0.0270 mol of OH⁻. How many more moles of OH⁻ are needed to redissolve the precipitate?
 11. 0.0130 mol of [Fe(H₂O)₆]³⁺ reacts fully with NH₃(aq). How many moles of NH₄⁺ form?
 12. A solution gives a white precipitate with NaOH(aq) that does not dissolve in excess. Is Al³⁺ present?
 
@@ -164,7 +164,7 @@ Mole ratios you will use in calculations:
 7. [Cu(H₂O)₆]²⁺ + CO₃²⁻ → CuCO₃ + 6H₂O.
 8. [Al(H₂O)₆]³⁺ is acidic enough to protonate carbonate ions, which form CO₂ and water, leaving [Al(H₂O)₃(OH)₃] as the precipitate.
 9. The ammonium ion, NH₄⁺.
-10. 4 × 0.00800 = 0.0320 mol.
+10. n(Al³⁺) = 0.0270/3 = 0.00900 mol, so a further 0.00900 mol (1 : 1).
 11. 3 × 0.0130 = 0.0390 mol.
 12. No. Aluminium hydroxide dissolves in excess NaOH(aq); a white precipitate that stays points to another ion, such as Mg²⁺.
 

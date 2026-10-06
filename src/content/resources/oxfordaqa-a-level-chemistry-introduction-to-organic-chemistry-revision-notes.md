@@ -44,7 +44,7 @@ The [OxfordAQA A-Level Chemistry hub](/boards/oxfordaqa/a-level/chemistry/) and
 
 ## 3.3.1.1 Nomenclature
 
-### Definitions to learn word for word
+### Key definitions
 
 | Term | Meaning |
 |---|---|
@@ -74,7 +74,7 @@ ratio cannot be simplified (C₃H₈O stays C₃H₈O).
 | Group | Suffix or prefix | Numbering note |
 |---|---|---|
 | C=C | -ene | lowest locant for the first carbon of the C=C |
-| –OH | -ol | takes the suffix over C=C: but-3-en-2-ol |
+| –OH | -ol | takes the suffix over C=C: pent-4-en-2-ol |
 | –CHO | -al | always C1, no locant |
 | C=O in chain | -one | locant needed once there are five or more carbons (pentan-2-one) |
 | –COOH | -oic acid | always C1 |
@@ -187,7 +187,7 @@ because the decision is made one bond earlier.
 
 - Empirical formula is a ratio; molecular formula is the real count.
 - Structural formula (CH₃CH₂OH) is not a molecular formula (C₂H₆O).
-- Structural isomers differ in bonding order; stereoisomers differ only in 3-D arrangement.
+- Structural isomers differ in how the atoms are connected; stereoisomers differ only in 3-D arrangement.
 - Chain isomers change the skeleton; position isomers move the group; functional group isomers change the
   group.
 - Radical steps: dots and equations. Other mechanisms: curly arrows from lone pairs or bonds.

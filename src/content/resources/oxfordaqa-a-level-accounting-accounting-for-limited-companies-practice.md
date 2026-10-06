@@ -32,7 +32,7 @@ Study the topic first in the [study guide](/resources/oxfordaqa-a-level-accounti
 
 ## Questions
 
-**1.** During the year Velmont Lighting plc made a 1 for 5 bonus issue, revalued its warehouse upwards, repaid a bank loan, and received cash from a rights issue. For each event, state whether it appears in the statement of cash flows and, if so, under which heading. **[4]**
+**1.** During the year Velmont Lighting plc made a 1 for 5 bonus issue, revalued its warehouse upwards, repaid a bank loan, and received cash from a rights issue. For each event, state whether it appears in the statement of cash flows, giving its heading or the reason it is left out. **[4]**
 
 **2.** Corvelle Robotics plc has 1,200,000 ordinary shares of 0.20 each in issue. It makes a 2 for 5 rights issue at 0.55 per share, and every share offered is bought. Find the new shares issued, the cash raised and the amount credited to share premium. **[3]**
 
@@ -44,7 +44,7 @@ Study the topic first in the [study guide](/resources/oxfordaqa-a-level-accounti
 **(b)** Prepare the journal entry to record the revaluation (narrative not required). **[3]**
 **(c)** Calculate the depreciation charge for the year ending 31 March 2027. **[2]**
 
-**5.** For the year, Gorsewick Paints Ltd's tax charge was 27,450. Tax payable was 23,600 at the start of the year and 26,050 at the end. Its 7% debentures of 150,000 were in issue all year; interest owing was 5,250 at the start and 2,625 at the end. Work out how much tax and how much debenture interest the company paid in the year. **[4]**
+**5.** For the year, Gorsewick Paints Ltd's tax charge was 27,450. Tax payable was 23,600 at the start of the year and 26,050 at the end. It had 6% debentures of 150,000 throughout the year; interest owing was 3,000 at the start and 1,500 at the end. Work out how much tax and how much debenture interest the company paid in the year. **[4]**
 
 **6.** Ravensclough Hire Ltd: non-current assets at 1 April 2025.
 
@@ -80,7 +80,7 @@ Prepare Quillan's statement of cash flows for its year to 30 September 2026, usi
 ## Answers
 
 **1.** Bonus issue: not shown, no cash [1]. Revaluation: not shown, no cash [1]. Loan repayment: **financing**, outflow [1]. Rights issue: **financing**, inflow [1]. **[4]**
-*Examiner insight:* "Not shown" earns credit only when you give the reason; a bare "none" leaves the explanation out.
+*Examiner insight:* For the non-cash events, a bare "none" omits the reason the question asks for.
 
 **2.** New shares 1,200,000 x 2/5 = **480,000** [1]. Cash 480,000 x 0.55 = **264,000** [1]. Share premium 480,000 x (0.55 - 0.20) = **168,000** [1]. **[3]**
 *Examiner insight:* Writing 0.35 as the premium on each share makes your split of the 264,000 clear.
@@ -93,7 +93,7 @@ Prepare Quillan's statement of cash flows for its year to 30 September 2026, usi
 **(c)** Years used 105,000 / 10,500 = 10, so 30 years remain [1]. 465,000 / 30 = **15,500** [1]. **[8]**
 *Examiner insight:* Charge the current year's depreciation before revaluing; skipping it understates the surplus by 10,500.
 
-**5.** Tax paid 23,600 + 27,450 - 26,050 [1] = **25,000** [1]. Interest charge 7% x 150,000 = 10,500; paid 5,250 + 10,500 - 2,625 [1] = **13,125** [1]. **[4]**
+**5.** Tax paid 23,600 + 27,450 - 26,050 [1] = **25,000** [1]. Interest charge 6% x 150,000 = 9,000; paid 3,000 + 9,000 - 1,500 [1] = **10,500** [1]. **[4]**
 *Examiner insight:* Write the formula line with figures in it; a wrong bare figure shows no method at all.
 
 **6. (a)** Carrying amount 30,000 - 21,600 = 8,400 [1]. Proceeds 9,900, so **profit 1,500** [1].

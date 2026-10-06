@@ -147,7 +147,7 @@ breaking C–C or C–H bonds contradicts the explanation.
 **(b)** **Thermal** cracking [1]
 **(c)** **Zeolite** [1]; **motor fuels** and **aromatic hydrocarbons** [1] **[4]**
 *Examiner insight:* In (a), check the leftover fragment: C₄H₈ fits CₙH₂ₙ, so it is an alkene; writing
-C₄H₁₀ leaves hydrogen unbalanced and the equation earns nothing.
+C₄H₁₀ leaves hydrogen unbalanced, so the equation is unlikely to gain credit.
 
 **4.** Distillation gives a fixed mix of fractions that does not match demand [1]. There is a surplus of
 heavy gas oil and a shortage of lighter fractions such as motor fuel [1]. The lighter fractions are in
@@ -182,8 +182,8 @@ N₂ + O₂ → 2NO [1].
 **(b)** **C₆H₁₄ + 19NO → 6CO₂ + 7H₂O + 9½N₂** [1]
 **(c)** A **limited supply of oxygen** (incomplete combustion) [1]
 **(d)** **2CO + 2NO → 2CO₂ + N₂** [1] **[5]**
-*Examiner insight:* For (a), an answer saying the nitrogen comes from the fuel cannot gain credit,
-because alkanes contain no nitrogen.
+*Examiner insight:* For (a), an answer saying the nitrogen comes from the fuel is unlikely to gain
+credit, because alkanes contain no nitrogen.
 
 **9. (a)** **CH₃SH + 3O₂ → CO₂ + SO₂ + 2H₂O** [1]
 **(b)** SO₂ is an acidic oxide [1]. Calcium carbonate is a base that reacts with acids, so it

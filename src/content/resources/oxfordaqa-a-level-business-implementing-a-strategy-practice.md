@@ -118,7 +118,7 @@ Further information: a contractor can install the line in 4 weeks for an extra Â
 *Examiner insight:* Use the commission scheme in the case; a general list of reasons for alignment stays at knowledge level.
 
 **8.** Past success: compact cameras had been profitable for years [1], so managers assumed improving them would keep working and saw no need to change [1]. Poor environmental scanning: the firm may not have tracked how quickly phone cameras improved [1], so it reacted only after sales had fallen too far to recover [1]. **[4]**
-*Examiner insight:* Each reason needs a linked consequence for Sallowfield; two bare reasons are worth half the marks at most.
+*Examiner insight:* Each reason needs a linked consequence for Sallowfield; two bare reasons with no development earn limited credit.
 
 **9.** Leadership: Trevanna's directors must choose franchisees carefully and keep standards consistent abroad [1]. Clear brand rules and regular visits would protect quality, so the brand's reputation grows in each new country [1]. Rushing to sign franchisees to hit expansion targets could create poor outlets that damage the brand at home too [1]. Communication: franchisees need clear manuals, training and regular contact [1]. In a country with a different language, misunderstandings about recipes or service could cut quality and sales [1]. Two-way communication also tells Trevanna what local customers want, so it can adapt the menu [1]. **[6]**
 *Examiner insight:* Tie every point to franchising in another country; definitions of leadership or communication add little.

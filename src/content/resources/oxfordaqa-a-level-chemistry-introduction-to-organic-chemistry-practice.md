@@ -136,8 +136,8 @@ Name X. **[1]**
 ## Answers
 
 **1. (a)** Compounds that share a structural formula but have their atoms arranged differently in space [1].
-**(b)** Any two from: same general formula [1]; successive members differ by CH₂; gradual trend in physical
-properties such as boiling point [1]. **[3]**
+**(b)** Any two, one mark each: same general formula; successive members differ by CH₂; similar chemical
+reactions; gradual trend in physical properties such as boiling point [2]. **[3]**
 *Examiner insight:* A stereoisomer definition built on "molecular formula" describes isomers in general;
 the key point is the same *structural* formula.
 

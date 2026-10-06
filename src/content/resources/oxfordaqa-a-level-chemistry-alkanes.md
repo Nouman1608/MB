@@ -73,7 +73,7 @@ Alkanes are the main constituent of crude oil, an important raw material for the
 
 Two words define an alkane. **Hydrocarbon**: made of carbon and hydrogen atoms and nothing else.
 **Saturated**: every carbon–carbon bond is a single bond. Chain alkanes fit **CₙH₂ₙ₊₂**, so the
-fifteen-carbon alkane is C₁₅H₃₂ and the nine-carbon one is C₉H₂₀.
+twelve-carbon alkane is C₁₂H₂₆ and the nine-carbon one is C₉H₂₀.
 
 **Petroleum** (crude oil) is a mixture made up mainly of alkanes with a wide spread of chain lengths.
 **Fractional distillation** splits it into **fractions**: groups of
@@ -111,15 +111,15 @@ Mechanisms are not required for either type.
 
 ### Worked example 1: writing and completing cracking equations
 
-(a) Pentadecane, C₁₅H₃₂, is cracked. Each molecule gives one molecule of nonane and propene only. Write
+(a) Dodecane, C₁₂H₂₆, is cracked. Each molecule gives one molecule of hexane and propene only. Write
 the equation.
 
 ```
-Nonane is the alkane:   C9H20
-Carbon left over:       15 − 9 = 6, shared as 2 × C3H6 (propene)
-Hydrogen check:         20 + 2 × 6 = 32   matches C15H32
+Hexane is the alkane:   C6H14
+Carbon left over:       12 − 6 = 6, shared as 2 × C3H6 (propene)
+Hydrogen check:         14 + 2 × 6 = 26   matches C12H26
 
-C15H32 → C9H20 + 2C3H6
+C12H26 → C6H14 + 2C3H6
 ```
 
 (b) Tridecane, C₁₃H₂₈, cracks to give heptane, ethene and one other product, X. Find X.
@@ -251,8 +251,8 @@ so the mechanism is **free-radical substitution**.
 Overall reaction:   CH4 + Cl2 → CH3Cl + HCl
 ```
 
-Section 3.3.1.2 of the specification sets the notation: show the unpaired electron as a dot, and do not
-use curly arrows for radical mechanisms. Each step needs its own balanced equation.
+Section 3.3.1.2 of the specification sets the notation: show the unpaired electron as a dot; curly
+arrows are not required for radical mechanisms. Each step needs its own balanced equation.
 
 ### Initiation
 
@@ -307,7 +307,7 @@ on the right; initiation has none on the left.
 ## Common errors
 
 - Saying distillation "breaks down" crude oil. Bonds break only in cracking.
-- Explaining boiling points by "size" without naming van der Waals forces.
+- Linking boiling point to chain length but never naming van der Waals forces.
 - Giving catalytic cracking a high pressure, or giving thermal cracking a zeolite.
 - Writing the alkene in a cracking equation as CₙH₂ₙ₊₂, so hydrogen will not balance.
 - Tracing the N in NOₓ to the fuel rather than to air drawn into the engine.

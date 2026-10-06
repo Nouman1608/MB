@@ -122,7 +122,7 @@ Afterwards, try the original [practice questions](/resources/oxfordaqa-a-level-a
 3. 960,000 ordinary shares of 0.50 are in issue. The company offers 1 for 8 rights at 1.20, and all are taken up. Calculate the cash received, the increase in share capital and the increase in share premium.
 4. A company with 500,000 shares of 1.00 makes a 3 for 10 bonus issue. How many new shares are issued, and how much cash is received?
 5. Land bought for 140,000 is revalued to 185,000. State the surplus and where it is recorded.
-6. A building cost 250,000 and has accumulated depreciation of 35,000. It is revalued to 280,000. Give the journal entry.
+6. A building cost 230,000 and has accumulated depreciation of 35,000. It is revalued to 280,000. Give the journal entry.
 7. Retained earnings rose from 72,500 to 86,300. Profit after tax was 41,800. No other movements. Calculate dividends paid.
 8. Vehicles at cost were 84,000 at the start and 97,000 at the end. A vehicle costing 19,000 was sold. Calculate vehicle purchases.
 9. 5% debentures of 160,000 were in issue all year. Interest owing was 2,000 at the start and 4,000 at the end. Calculate the finance cost and the interest paid.
@@ -137,7 +137,7 @@ Afterwards, try the original [practice questions](/resources/oxfordaqa-a-level-a
 3. New shares 960,000 / 8 = 120,000. Cash **144,000**; share capital **60,000**; share premium 120,000 x 0.70 = **84,000**.
 4. 500,000 x 3/10 = **150,000** new shares; **no cash**. 150,000 of reserves become share capital.
 5. **45,000**, credited to the revaluation reserve (equity).
-6. Dr Building 30,000; Dr Accumulated depreciation 35,000; Cr Revaluation reserve **65,000**.
+6. Dr Building 50,000; Dr Accumulated depreciation 35,000; Cr Revaluation reserve **85,000**.
 7. 72,500 + 41,800 - 86,300 = **28,000**.
 8. 97,000 - 84,000 + 19,000 = **32,000**.
 9. Finance cost 5% x 160,000 = **8,000**; paid 2,000 + 8,000 - 4,000 = **6,000**.

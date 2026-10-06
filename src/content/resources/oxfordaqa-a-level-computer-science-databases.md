@@ -22,7 +22,7 @@ featured: false
 
 This study guide teaches topic 15, Databases, of the OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. It covers sections 3.15.1.1 to 3.15.1.5 (relational databases) and 3.15.2 (Big Data). Every outcome here is International A-level only, tested in the written Unit 4 paper.
 
-The specification fixes no SQL dialect, so queries here use standard SQL, and every query was run in SQLite to check its output.
+The specification names no SQL dialect, so queries use standard SQL; each was checked in SQLite.
 
 Then test yourself with the [databases practice set](/resources/oxfordaqa-a-level-computer-science-databases-practice/) and recap with the [short notes](/resources/oxfordaqa-a-level-computer-science-databases-revision-notes/). Big Data links to [functional programming](/resources/oxfordaqa-a-level-computer-science-functional-programming/), and client-server ideas with [networking](/resources/oxfordaqa-a-level-computer-science-networking-and-cyber-security/). See also the [9645 hub](/boards/oxfordaqa/a-level/computer-science/), the [topic checklist](/checklists/oxfordaqa/a-level/computer-science/) and our [diagnostics](/diagnostics/).
 
@@ -64,7 +64,7 @@ A **foreign key** links two tables: it is a field holding values of another tabl
 
 ### Entity descriptions
 
-You write each entity in the form Entity(Attribute1, Attribute2, ...). In the exam you underline the identifier; on this page the identifier is shown in **bold**.
+You write each entity in the form Entity(Attribute1, Attribute2, ...). The specification allows underlining to mark the identifier; here it is shown in **bold**.
 
 ```text
 Customer(CustomerID, Name, Town)
@@ -99,7 +99,7 @@ Customer ─────< Clock ─────< Service >───── Restor
 3. Replace each many-to-many relationship with a link entity.
 4. Put the foreign key on the "many" side of each one-to-many relationship.
 
-So CustomerID goes into Clock. If ClockID went into Customer instead, a customer with three clocks would need three values in one field.
+So CustomerID goes into Clock; ClockID in Customer would need several values in one field.
 
 ## Normalisation (3.15.1.3)
 
@@ -138,7 +138,7 @@ You will not be asked to tell first, second and third normal forms apart, so aim
 
 **Step 3. Remove non-key dependencies.** In the new clock relation, CustName and Town depend on CustID, which is not the key. Move them to a Customer relation. In the service relation, RestorerName depends on RestorerID, so move it to a Restorer relation.
 
-The result is the four 3NF relations listed under entity descriptions above. The log lacked YearMade, HourlyRate, Senior, StartTime and Paid; each depends only on its own relation's key, so adding them keeps 3NF.
+The result is the four 3NF relations listed under entity descriptions above. Attributes missing from the log (YearMade, HourlyRate, Senior, StartTime, Paid) depend only on their relation's key.
 
 Now Kenward's town is stored once, new restorers can be added, and deleting a service keeps the customer.
 
@@ -163,6 +163,8 @@ Types: INTEGER, REAL (FLOAT in some systems), VARCHAR(n) for strings, BOOLEAN, D
 
 ### Retrieving data from several tables
 
+The examples use six Service rows: the four logged above (all paid except clock 7 on 2026-04-14), plus two for clock 9, a Carriage clock owned by a Draymoor customer: 2026-03-09 by Olu Yewdale (restorer 33, 2.5 hours, unpaid) and 2026-05-05 by Lucan Treave (1.0 hour, paid).
+
 In the WHERE clause, match each foreign key to the primary key it references, then add the search conditions.
 
 **Example 1.** List the date, clock type and restorer for every unpaid service, oldest first.
@@ -181,7 +183,7 @@ ORDER BY Service.ServiceDate;
 | 2026-03-09 | Carriage | Olu Yewdale |
 | 2026-04-14 | Longcase | Linnea Kettleby |
 
-Three tables need two join conditions; miss one and every row pairs with every row of the other table. ORDER BY sorts ascending unless you add DESC.
+Three tables need two join conditions; miss one and rows pair up wrongly. ORDER BY sorts ascending unless you add DESC.
 
 ### Aggregate functions and GROUP BY
 
@@ -297,9 +299,6 @@ Round brackets stand for ovals, square brackets for rectangles and dotted lines 
 
 ## Common errors
 
-- Foreign key placed on the "one" side of a one-to-many relationship.
-- Many-to-many relationship left without a link entity.
-- Only half of a composite identifier marked.
 - A non-key attribute still depending on another non-key attribute.
 - A join condition missing from a multi-table SELECT.
 - A non-aggregated field selected but not listed in GROUP BY.

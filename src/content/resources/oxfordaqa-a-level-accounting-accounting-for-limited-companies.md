@@ -112,31 +112,31 @@ The reserve cannot fund a cash dividend because the gain is unrealised. A later 
 
 A bonus issue converts reserves (share premium, revaluation reserve or retained earnings) into share capital.
 
-**Sallowby's equity at 1 January 2025:** 400,000 ordinary shares of 0.25 (100,000); share premium 36,000; retained earnings 188,000.
+**Sallowby's equity at 1 January 2025:** 500,000 ordinary shares of 0.20 (100,000); share premium 36,000; retained earnings 188,000.
 
 **1 March 2025: bonus issue, 1 for 2, using share premium first.**
 
 ```
-New shares        400,000 / 2 = 200,000;  x 0.25 = 50,000
+New shares        500,000 / 2 = 250,000;  x 0.20 = 50,000
 Dr Share premium          36,000   (all of it)
 Dr Retained earnings      14,000   (the balance)
    Cr Ordinary share capital      50,000
 ```
 
-**1 July 2025: rights issue, 1 for 6 at 0.70, fully taken up.** The ratio applies to the 600,000 shares now in issue, not the original 400,000.
+**1 July 2025: rights issue, 1 for 6 at 0.56, fully taken up.** The ratio applies to the 750,000 shares now in issue, not the original 500,000.
 
 ```
-New shares        600,000 / 6 = 100,000
-Dr Bank                    100,000 x 0.70 = 70,000
-   Cr Ordinary share capital   100,000 x 0.25 = 25,000
-   Cr Share premium            100,000 x 0.45 = 45,000
+New shares        750,000 / 6 = 125,000
+Dr Bank                    125,000 x 0.56 = 70,000
+   Cr Ordinary share capital   125,000 x 0.20 = 25,000
+   Cr Share premium            125,000 x 0.36 = 45,000
 ```
 
 Equity rose from 324,000 to 394,000 before profit and dividends: exactly the 70,000 of cash from the rights issue.
 
 ## Statement of changes in equity
 
-On 30 October 2025, Sallowby paid a dividend of 0.04 per share on 700,000 shares: 28,000. Profit for the year after tax was 61,300.
+On 30 October 2025, Sallowby paid a dividend of 0.032 per share on 875,000 shares: 28,000. Profit for the year after tax was 61,300.
 
 | | Share capital | Share premium | Revaluation reserve | Retained earnings | Total |
 |---|---:|---:|---:|---:|---:|
@@ -158,7 +158,7 @@ IAS7 explains the change in cash and cash equivalents under **operating**, **inv
 
 - Profit from operations 84,600; finance costs 6,000; profit before tax 78,600; tax charge 17,300.
 - Interest owing: 900 at the start, 1,200 at the end. Tax payable: 14,900 at the start, 16,100 at the end.
-- Inventory fell from 47,300 to 42,900. Trade receivables rose from 38,200 to 45,700. Trade payables fell from 29,600 to 26,850.
+- Inventory fell from 47,300 to 42,900. Trade receivables rose from 37,900 to 45,400. Trade payables fell from 29,600 to 26,850.
 - 40,000 of 6% debentures were repaid on 30 June 2025. Cash and cash equivalents were 12,650 at 1 January 2025.
 
 **Workings**

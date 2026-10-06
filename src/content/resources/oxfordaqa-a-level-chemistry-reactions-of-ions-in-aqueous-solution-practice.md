@@ -31,15 +31,18 @@ featured: false
 
 These questions cover subsection 3.2.6.1 (the only subsection of the aqueous-ions topic) in OxfordAQA's International AS and A-level Chemistry specification (9620), Version 5.3, for exams from May/June 2020. All of it is International A2 content, so it is **International A-level only**. Unit 3 assesses 3.2.4 to 3.2.6, and Unit 5 can draw on any content. Questions 9 and 10 draw on required practical 9; question 3 is synoptic with Ka from section 3.1.10, and question 8 uses pV = nRT from section 3.1.2.
 
-Question 9 also uses the ammonium and sulfate tests from [Group 2](/resources/oxfordaqa-a-level-chemistry-group-2-the-alkaline-earth-metals/). Course links: [hub](/boards/oxfordaqa/a-level/chemistry/), [printable checklist](/checklists/oxfordaqa/a-level/chemistry/), [free diagnostics](/diagnostics/).
+Question 9 also uses the sulfate test from [Group 2](/resources/oxfordaqa-a-level-chemistry-group-2-the-alkaline-earth-metals/) and the ammonium test from required practical 3. Course links: [hub](/boards/oxfordaqa/a-level/chemistry/), [printable checklist](/checklists/oxfordaqa/a-level/chemistry/), [free diagnostics](/diagnostics/).
 
 ## Questions
 
-**1.** Four salts are dissolved separately in water: copper(II) nitrate, ammonium iron(II) sulfate, iron(III) nitrate and aluminium nitrate. For each, give the formula of the metal-aqua ion formed and the colour of the solution. **[4]**
+**1.** Ammonium iron(II) sulfate and aluminium nitrate are dissolved separately in water.
 
-**2.** A student writes: "Iron(II) solutions are more acidic than iron(III) solutions because the Fe²⁺ ion is smaller."
+**(a)** For each, give the formula of the metal-aqua ion formed and the colour of the solution. **[2]**
+**(b)** A week later the iron solution, left open to the air, has turned yellow-brown. Name the iron species now present and explain the change. **[2]**
 
-Write an equation to show why a solution containing [Fe(H₂O)₆]³⁺ is acidic, then correct the student's statement, explaining your answer in terms of charge/size ratio. **[4]**
+**2.** A student writes: "Copper(II) nitrate solution is more acidic than aluminium nitrate solution of the same concentration, because Cu²⁺ is the larger ion."
+
+Write an equation to show why aluminium nitrate solution is acidic, then correct the student's statement in terms of charge/size ratio. **[4]**
 
 **3.** A 0.200 mol dm⁻³ solution of aluminium nitrate has a pH of 2.85. Treat [Al(H₂O)₆]³⁺ as a weak monoprotic acid and use the usual weak-acid approximation. Calculate Ka for the aqua ion, giving units. **[3]**
 
@@ -78,20 +81,21 @@ Write an equation to show why a solution containing [Fe(H₂O)₆]³⁺ is acidi
 **(d)** Write an equation for the formation of the orange-brown precipitate in (a). **[1]**
 **(e)** Explain, with an equation, why the solution of Z is acidic. **[2]**
 
-**10.** A very dilute solution contains either Fe²⁺(aq) or Fe³⁺(aq), and its colour is too faint to judge. Three students suggest adding (i) NaOH(aq), (ii) NH₃(aq) or (iii) Na₂CO₃(aq) to separate samples.
+**10.** A solution contains either Fe²⁺(aq) or Fe³⁺(aq) at about 0.1 mol dm⁻³; under yellowish lab lighting its colour cannot be judged. Three students suggest adding (i) NaOH(aq), (ii) NH₃(aq) or (iii) Na₂CO₃(aq) to separate samples.
 
 Evaluate each reagent as a way of deciding which iron ion is present. For each, give the expected result for both ions, explain any difference, and state which reagent gives the clearest single observation. **[7]**
 
 ## Answers
 
-**1.** [Cu(H₂O)₆]²⁺, blue [1]; [Fe(H₂O)₆]²⁺, pale green [1]; [Fe(H₂O)₆]³⁺, yellow-brown (yellow to brown) [1]; [Al(H₂O)₆]³⁺, colourless solution [1] **[4]**
-*Examiner insight:* Credit here depends on the aqua-ion formula with its charge as well as the colour; "clear" is not accepted for colourless.
+**1. (a)** [Fe(H₂O)₆]²⁺, pale green [1]; [Al(H₂O)₆]³⁺, colourless [1]
+**(b)** [Fe(H₂O)₆]³⁺ (iron(III)) [1]; oxygen in the air has oxidised iron(II) to iron(III) [1] **[4]**
+*Examiner insight:* Write "colourless" for the aluminium solution, not "clear", and give each aqua ion with its charge.
 
-**2.** [Fe(H₂O)₆]³⁺(aq) + H₂O(l) ⇌ [Fe(H₂O)₅(OH)]²⁺(aq) + H₃O⁺(aq) [1]. The statement is wrong: iron(III) solutions are the more acidic, and Fe³⁺ is the smaller ion [1]. Fe³⁺ has a higher charge and a smaller radius, so a greater charge/size ratio and greater polarising power [1]. It weakens the O–H bonds in its water ligands more, so H⁺ is released more readily and **the iron(III) solution has the lower pH** [1] **[4]**
-*Examiner insight:* Correcting the student needs both halves fixed, the direction of acidity and the size comparison; then the O–H bond weakening must be stated for the final mark.
+**2.** [Al(H₂O)₆]³⁺(aq) + H₂O(l) ⇌ [Al(H₂O)₅(OH)]²⁺(aq) + H₃O⁺(aq) [1]. The statement is wrong: the aluminium solution is the more acidic, and a larger ion is less polarising, not more [1]. Al³⁺ has a higher charge and a smaller radius, so a greater charge/size ratio and greater polarising power [1]. It weakens the O–H bonds in its water ligands more, so H⁺ is released more readily and **the aluminium solution has the lower pH** [1] **[4]**
+*Examiner insight:* Fix both halves of the claim, which solution is more acidic and what ion size does, then link the charge/size ratio to weaker O–H bonds in the water ligands.
 
 **3.** [H⁺] = 10⁻²·⁸⁵ = 1.41 × 10⁻³ mol dm⁻³ [1]. Ka = [H⁺]²/[HA] = (1.41 × 10⁻³)² / 0.200 [1] = **1.0 × 10⁻⁵ mol dm⁻³** [1] **[3]**
-*Examiner insight:* Ka without units loses the last mark when units are requested; with pH to two decimal places, two significant figures in Ka is the sensible precision.
+*Examiner insight:* Always give units with Ka when they are asked for; with pH to two decimal places, two significant figures in Ka is the sensible precision.
 
 **4. (a)** Orange-brown precipitate, which does not dissolve in excess [1]
 **(b)** Green precipitate, with no effervescence [1]
@@ -107,7 +111,7 @@ Evaluate each reagent as a way of deciding which iron ion is present. For each, 
 **(b)** n(OH⁻) = 4 × 1.60 × 10⁻³ = 6.40 × 10⁻³ mol, so V = **16.0 cm³** [1]
 **(c)** [Al(H₂O)₃(OH)₃](s) + OH⁻(aq) → [Al(H₂O)₂(OH)₄]⁻(aq) + H₂O(l) [1]
 **(d)** Ammonia is a weak base; its OH⁻ concentration is too low to remove a fourth proton [1] **[5]**
-*Examiner insight:* An error in (a) can still allow credit in (b) if the 1 : 4 ratio is applied correctly to your own amount; show the moles so the method is visible.
+*Examiner insight:* Show the amount in moles at each stage so your method is visible, and check that (b) uses the 1 : 4 ratio rather than adding 1 : 3 twice.
 
 **7.** Copper: blue-green precipitate, no effervescence [1]; [Cu(H₂O)₆]²⁺(aq) + CO₃²⁻(aq) → CuCO₃(s) + 6H₂O(l) [1]. Aluminium: white precipitate with effervescence [1]; 2[Al(H₂O)₆]³⁺(aq) + 3CO₃²⁻(aq) → 2[Al(H₂O)₃(OH)₃](s) + 3CO₂(g) + 3H₂O(l) [1]. The 3+ aqua ion is acidic enough (higher charge/size ratio) to protonate carbonate, giving CO₂, so a hydroxide forms; the 2+ ion is not acidic enough, so the metal carbonate precipitates [1] **[5]**
 *Examiner insight:* An equation producing Al₂(CO₃)₃ is a chemical error and gains no credit, however well balanced it is.
@@ -124,14 +128,12 @@ Evaluate each reagent as a way of deciding which iron ion is present. For each, 
 **(e)** [Fe(H₂O)₆]³⁺(aq) + H₂O(l) ⇌ [Fe(H₂O)₅(OH)]²⁺(aq) + H₃O⁺(aq) [1]; the small, highly charged Fe³⁺ ion polarises the water ligands, weakening O–H bonds so that H⁺ is released [1] **[9]**
 *Examiner insight:* In (a) the identification marks need the observation that supports them; naming both ions without saying which result shows which gains less credit.
 
-**10.** NaOH(aq): Fe²⁺ gives a green precipitate, Fe³⁺ an orange-brown one [1]; but with a faint solution the green precipitate can brown quickly in air, so the colours may be confused [1]. NH₃(aq): the same two precipitate colours as with NaOH [1], so it has the same weakness and no advantage [1]. Na₂CO₃(aq): Fe²⁺ gives a green precipitate with no gas; Fe³⁺ gives a precipitate with effervescence [1]. The difference arises because [Fe(H₂O)₆]³⁺ is acidic enough to protonate carbonate, releasing CO₂, while [Fe(H₂O)₆]²⁺ is not [1]. Sodium carbonate gives the clearest single observation, because gas or no gas does not depend on judging a colour [1] **[7]**
+**10.** NaOH(aq): Fe²⁺ gives a green precipitate, Fe³⁺ an orange-brown one [1]; but this relies on judging colour under poor lighting, and the green precipitate browns on standing in air, so the two may be confused [1]. NH₃(aq): the same two precipitate colours as with NaOH [1], so it has the same weakness and no advantage [1]. Na₂CO₃(aq): Fe²⁺ gives a green precipitate with no gas; Fe³⁺ gives a precipitate with effervescence [1]. The difference arises because [Fe(H₂O)₆]³⁺ is acidic enough to protonate carbonate, releasing CO₂, while [Fe(H₂O)₆]²⁺ is not [1]. Sodium carbonate gives the clearest single observation, because gas or no gas does not depend on judging a colour [1] **[7]**
 *Examiner insight:* "Evaluate" needs a judgement as well as results; an answer that lists observations for all three reagents but never says which is best cannot gain the final mark.
 
 ## Where marks are usually lost
 
 - Quoting only the end result in excess and missing the precipitate seen first.
-- Giving the aqua-ion formula without its charge, or giving a charge to a neutral hydroxide.
-- Treating "higher charge" as the whole acidity argument and leaving out the smaller radius and the O–H bond.
 - Writing a metal(III) carbonate as a product or forgetting the effervescence with 3+ ions.
 - Using 1 : 3 instead of 1 : 4 between Al³⁺ and OH⁻ when the precipitate has fully redissolved.
 

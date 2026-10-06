@@ -32,7 +32,7 @@ Condensed version: [revision notes](/resources/oxfordaqa-a-level-business-implem
 | The value of network analysis | Explain the purpose and value of project management and of network analysis; understand, interpret, amend and complete network diagrams; calculate Earliest Start Times, Latest Finish Times and total float; identify the critical path | International A-level only |
 | Strategic decision making | Explain the value of strategic planning, why strategies fail and the reasons for strategic drift | International A-level only |
 
-**Where it is tested.** Everything in 3.4 belongs to the Unit 4: Business strategy paper. That paper lasts 1 hour 45 minutes for 80 marks (30% of the International A-level): two case studies, each with five questions worth 40 marks. The specification's quantitative skills appendix names network analysis among the diagrams you may need to interpret.
+**Where it is tested.** Everything in 3.4 belongs to the Unit 4: Business strategy paper. That paper lasts 1 hour 45 minutes for 80 marks (30% of the International A-level): two case studies, each with five questions worth 40 marks. Network analysis is named in the quantitative skills appendix as a diagram you may need to interpret.
 
 ## 1. What makes implementation succeed
 

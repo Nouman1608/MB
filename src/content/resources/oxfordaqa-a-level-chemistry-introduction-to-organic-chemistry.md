@@ -311,7 +311,7 @@ Decide whether this alkene is E or Z.
 
 ## Next steps
 
-Use the [revision notes] to condense this guide(/resources/oxfordaqa-a-level-chemistry-introduction-to-organic-chemistry-revision-notes/),
+Use the [revision notes](/resources/oxfordaqa-a-level-chemistry-introduction-to-organic-chemistry-revision-notes/) to condense this guide,
 then try the [practice questions](/resources/oxfordaqa-a-level-chemistry-introduction-to-organic-chemistry-practice/).
 
 ## Official syllabus
