@@ -40,3 +40,18 @@ jobs:
 
       - name: Enquiry validation unit tests
         run: npm run test:api
+
+      - name: Revision-tools and tier unit tests
+        run: npm run test:tools
+
+      # D-396: the study-resource journeys (D-395) in a real browser against
+      # the built site: course finder, course pages, resource pages, course
+      # memory, course-only search, keyboard use, phone width, JavaScript off.
+      # Playwright is installed for this step only (not a project dependency).
+      - name: Browser journeys (study resources)
+        run: |
+          npm i --no-save playwright@1.56.0
+          npx playwright install --with-deps chromium
+          (cd dist && python3 -m http.server 4402 > /dev/null 2>&1 &)
+          sleep 2
+          node scripts/e2e-navigation-journeys.mjs http://localhost:4402

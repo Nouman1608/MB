@@ -66,14 +66,24 @@ const uid = `sub-${source}`;
       const courses = form.querySelector<HTMLElement>('[data-subscribe-courses]')!;
       const status = form.querySelector<HTMLElement>('[data-subscribe-status]')!;
       const button = form.querySelector<HTMLButtonElement>('button[type="submit"]')!;
-      const preset = box.dataset.presetCourse ?? '';
+      // D-396: read at render time, not once. A resource page shared by two
+      // courses (e.g. 0620 and 5070) switches data-preset-course and the
+      // qualification to the student's chosen course, then fires "change".
+      const presetOf = () => box.dataset.presetCourse ?? '';
       // D-310: keep the box short. The subject of the page being read is
       // pre-ticked and shown; every other subject for the qualification sits
       // in a folded "Add other subjects" list (still submitted when ticked).
+      // D-396: two renders can overlap (page load and a course switch); only
+      // the latest one draws, so subjects are never listed twice.
+      let renderId = 0;
       const renderCourses = async () => {
+        const mine = ++renderId;
         courses.replaceChildren();
         if (!q.value) return;
-        const list = (await loadCatalogue()).filter((e) => e.qs === q.value);
+        const catalogue = await loadCatalogue();
+        if (mine !== renderId) return;
+        courses.replaceChildren();
+        const list = catalogue.filter((e) => e.qs === q.value);
         const item = (e: (typeof list)[number], checked: boolean) => {
           const lab = document.createElement('label');
           lab.className = 'flex min-h-9 items-center gap-2 text-[14px]';
@@ -83,6 +93,7 @@ const uid = `sub-${source}`;
           lab.append(cb, document.createTextNode(courseLabel(e)));
           return lab;
         };
+        const preset = presetOf();
         const picked = list.filter((e) => e.id === preset);
         const rest = list.filter((e) => e.id !== preset);
         for (const e of picked) courses.append(item(e, true));

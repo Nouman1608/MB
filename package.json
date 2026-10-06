@@ -49,7 +49,7 @@
     "growth:practice-report": "node scripts/growth/practice-analytics-report.mjs",
     "test:practice-analytics": "node scripts/test-practice-analytics.mjs",
     "validate:diagnostics": "node --experimental-strip-types scripts/validate-diagnostics.mjs",
-    "test:tools": "node --experimental-strip-types --test src/scripts/__tests__/planner-engine.test.mjs src/utils/pricing/__tests__/calculator.test.mjs src/utils/academic/__tests__/syllabus-points.test.mjs src/utils/academic/__tests__/course-subject-name.test.mjs src/utils/content/__tests__/next-steps.test.mjs src/utils/practice/__tests__/topic-filter.test.mjs src/utils/practice/__tests__/question-tier.test.mjs functions/api/__tests__/signup-endpoints.test.mjs functions/api/__tests__/enquiry-validation.test.mjs",
+    "test:tools": "node --experimental-strip-types --test src/scripts/__tests__/planner-engine.test.mjs src/utils/pricing/__tests__/calculator.test.mjs src/utils/academic/__tests__/syllabus-points.test.mjs src/utils/academic/__tests__/course-subject-name.test.mjs src/utils/academic/__tests__/syllabus-codes.test.mjs src/utils/content/__tests__/next-steps.test.mjs src/utils/practice/__tests__/topic-filter.test.mjs src/utils/practice/__tests__/question-tier.test.mjs functions/api/__tests__/signup-endpoints.test.mjs functions/api/__tests__/enquiry-validation.test.mjs",
     "test:api": "node --experimental-strip-types --test functions/api/__tests__/*.mjs functions/_lib/__tests__/*.mjs src/worker/__tests__/*.mjs",
     "audit:course-isolation": "node scripts/audit-course-isolation.mjs"
   },

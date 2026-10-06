@@ -7,8 +7,9 @@
  *   (cd dist && python3 -m http.server 4402) &
  *   node scripts/e2e-navigation-journeys.mjs http://localhost:4402
  *
- * Needs Playwright with Chromium (not a project dependency, so CI does not
- * install a browser): `npm i --no-save playwright && npx playwright install chromium`.
+ * Needs Playwright with Chromium (not a project dependency; the CI gate
+ * installs it for this step only, see .github/workflows/deploy.yml):
+ * `npm i --no-save playwright@1.56.0 && npx playwright install chromium`.
  * Each journey prints PASS/FAIL; the script exits 1 if any fails.
  */
 import { chromium } from 'playwright';
@@ -101,6 +102,15 @@ await journey('Shared 0620/5070 page follows the chosen O Level course', async (
   expect(crumbs.some((h) => h.startsWith('/boards/cambridge/o-level/chemistry/')), 'breadcrumb not switched to 5070');
   const steps = await page.$$eval('[data-next-steps] ul:not([hidden]) a', (as) => as.map((a) => a.getAttribute('href')));
   expect(!steps.some((h) => h.includes('/igcse/')), `next steps still point at IGCSE: ${steps.join(', ')}`);
+  // D-396: the revision-email box pre-ticks the same course (when the box is on).
+  if (await page.locator('[data-subscribe-box]').count()) {
+    const box = page.locator('[data-subscribe-box]').first();
+    expect((await box.getAttribute('data-preset-course')) === 'cambridge/o-level/chemistry', 'email box preset not switched');
+    expect((await box.locator('select[name="qualification"]').inputValue()) === 'o-level', 'email box qualification not switched');
+    await page.waitForFunction(() => document.querySelector('[data-subscribe-box] input[name="courses"]:checked'), null, { timeout: 10000 });
+    const ticked = await box.locator('input[name="courses"]:checked').evaluateAll((els) => els.map((e) => e.value));
+    expect(ticked.length === 1 && ticked[0] === 'cambridge/o-level/chemistry', `email box ticked ${ticked.join(', ')}`);
+  }
 });
 
 // 4. The chosen course is offered back and can be changed.
