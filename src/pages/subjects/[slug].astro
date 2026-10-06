@@ -18,9 +18,8 @@ import { routes } from '../../utils/urls/routes';
 import ApCourseLinks from '../../components/ap/ApCourseLinks.astro';
 import { getResources } from '../../utils/content/collections';
 import { resourcesForCombination, hubSlugFor, STUDY_KIND } from '../../utils/academic/combination-resources';
-import { KIND_ORDER, KIND_LABEL } from '../../utils/academic/course-topics';
-import ModeIcon from '../../components/academic/ModeIcon.astro';
-import { MODE } from '../../components/academic/ResourceMode';
+import { KIND_ORDER, type KindGroups } from '../../utils/academic/course-topics';
+import ModeColumns from '../../components/academic/ModeColumns.astro';
 import { QUALIFICATIONS } from '../../data/academic/qualifications';
 
 export async function getStaticPaths() {
@@ -148,18 +147,12 @@ const teachingSentence =
                 </summary>
                 <div class="pb-6">
                   <p class="m-0 mb-3 text-[15px]"><a href={`${academicHubPath(g.o)}#topics`} class="font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">Open the course page, by topic</a></p>
-                  <div class="grid gap-x-8 gap-y-4 md:grid-cols-3">
-                    {KIND_ORDER.map((k) => (
-                      <div>
-                        <h3 class={`m-0 flex items-center gap-1.5 font-sans text-[15px] font-semibold ${MODE[k].text}`}><ModeIcon kind={k} size={18} />{KIND_LABEL[k]}</h3>
-                        {g.byKind[k].length > 0 ? (
-                          <ul class="m-0 mt-1 list-none p-0">
-                            {g.byKind[k].map((r) => <li class="m-0 py-1"><a href={routes.resource(r.id)} class="text-[15px] leading-snug text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{r.data.title}</a></li>)}
-                          </ul>
-                        ) : <p class="m-0 mt-1 py-1 text-[14px] text-ink-mute">None yet</p>}
-                      </div>
-                    ))}
-                  </div>
+                  <ModeColumns
+                    groups={Object.fromEntries(KIND_ORDER.map((k) => [k, g.byKind[k].map((r) => ({ id: r.id, title: r.data.title, description: r.data.description, resourceType: r.data.resourceType, kind: k }))])) as KindGroups}
+                    context={{ board: g.o.board, qualification: g.o.qualification, subject: g.o.subject, code: g.code }}
+                    scope="this course"
+                    headingLevel={3}
+                  />
                 </div>
               </details>
             ))}

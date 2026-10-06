@@ -43,13 +43,17 @@ const Heading = headingLevel;
 // on every listing as on the course pages.
 const kind = STUDY_KIND[entry.data.resourceType];
 const mode = MODE[kind];
-const typeLabel = meta.title.charAt(0) + meta.title.slice(1).toLowerCase();
+// One resource per card, so the label is singular where the type has one.
+const SINGULAR: Record<string, string> = { 'study-guides': 'Study guide', 'revision-notes': 'Revision notes', 'practice-questions': 'Practice questions' };
+const typeLabel = SINGULAR[entry.data.resourceType] ?? meta.title.charAt(0) + meta.title.slice(1).toLowerCase();
 const title = context ? shortTitle(entry.data.title, context) : entry.data.title;
 ---
-<a href={resourceUrl(entry)} class={`group flex h-full flex-col gap-2.5 rounded-md border border-rule bg-white p-[clamp(20px,2.2vw,28px)] transition-colors duration-150 ${mode.hoverBorder} hover:text-navy-800`}>
-  <p class={`m-0 inline-flex w-fit items-center gap-1.5 rounded-full px-2.5 py-0.5 mb-label ${mode.tint} ${mode.text}`}><ModeIcon kind={kind} size={16} />{typeLabel}</p>
-  <Heading class="m-0 line-clamp-4 text-[19px] font-bold leading-snug tracking-[-0.01em] text-navy-800" title={entry.data.title !== title ? entry.data.title : undefined}>{title}</Heading>
-  <p class="m-0 line-clamp-4 text-[15.5px] leading-relaxed text-ink-mute">{entry.data.description}</p>
-  <p class="m-0 mt-auto pt-2 text-[13px] text-ink-mute">{[subjectTitle, boardLabel, levels].filter(Boolean).join(' · ')}</p>
-  <span class={`text-[14.5px] font-semibold underline decoration-transparent decoration-2 underline-offset-4 transition-colors group-hover:decoration-current ${mode.text}`}>{ACTION[entry.data.resourceType] ?? 'Open'}</span>
+<a href={resourceUrl(entry)} class={`group flex h-full flex-col overflow-hidden rounded-[14px] border bg-white transition-colors duration-150 ${mode.border} ${mode.hoverBorder} hover:text-navy-800`}>
+  <p class={`m-0 flex items-center gap-3 px-[clamp(16px,1.8vw,22px)] py-3 text-[15.5px] font-semibold text-navy-800 ${mode.tint}`}><span class={`grid size-9 shrink-0 place-items-center rounded-[9px] bg-white ${mode.text}`}><ModeIcon kind={kind} size={20} /></span>{typeLabel}</p>
+  <div class="flex flex-1 flex-col gap-2.5 px-[clamp(16px,1.8vw,22px)] pb-[clamp(18px,2vw,24px)] pt-4">
+    <Heading class="m-0 line-clamp-4 text-[clamp(1.125rem,1.05rem+0.3vw,1.25rem)] font-bold leading-[1.25] tracking-[-0.01em] text-navy-800" title={entry.data.title !== title ? entry.data.title : undefined}>{title}</Heading>
+    <p class="m-0 line-clamp-4 text-[16px] leading-[1.6] text-ink-mute">{entry.data.description}</p>
+    <p class="m-0 mt-auto pt-2 text-[14px] text-ink-mute">{[subjectTitle, boardLabel, levels].filter(Boolean).join(' · ')}</p>
+    <span class={`w-fit text-[16px] font-semibold underline decoration-2 underline-offset-[5px] transition-colors ${mode.text} ${mode.underline} group-hover:decoration-current`}>{ACTION[entry.data.resourceType] ?? 'Open'}</span>
+  </div>
 </a>

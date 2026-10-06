@@ -132,35 +132,41 @@ const placeholder = exampleTerms.length ? `e.g. ${exampleTerms.join(', ')}` : 'a
       {groups.map((g) => (
         <section class={g.label ? 'mt-[clamp(32px,4vw,48px)] first:mt-0' : ''} aria-label={g.label || undefined} data-topic-group>
           {g.label && (
-            <div class="mb-2 rounded-md bg-navy-800 px-5 py-4 text-white">
+            <div class="mb-4 rounded-[18px] bg-navy-800 px-[clamp(18px,3vw,36px)] py-5 text-white">
               <h3 class="m-0 text-[21px] font-bold tracking-[-0.015em] text-white">{g.label}</h3>
               <p class="m-0 mt-1 text-[15px] text-on-navy">{g.note}</p>
             </div>
           )}
-          <ol class="m-0 list-none p-0">
+          <ol class="m-0 grid list-none gap-[clamp(16px,2vw,24px)] p-0">
             {g.slugs.map((slug) => {
               const entry = bySlug.get(slug)!;
               const t = entry.topic;
               const lang = nameRtlLang(t.name, rtl);
+              const tileLabel = t.stage ? (t.stage === 'A' ? 'A Level' : 'AS') : 'Topic';
               return (
-                <li id={topicAnchor(t.slug)} class="m-0 scroll-mt-24 border-t border-rule py-[clamp(24px,3vw,36px)] first:border-t-0" data-topic data-search={searchText(String(t.number), t.name, ...t.subtopics.map((s) => s.name))}>
-                  <div class="flex flex-wrap items-center gap-x-4 gap-y-1">
-                    <span class="rounded-full bg-teal-50 px-2.5 py-0.5 mb-label text-teal-800">{t.stage ? `${t.stage === 'A' ? 'A Level' : 'AS'} topic` : 'Topic'} {t.number}</span>
-                    <span class="ms-auto mb-meta text-ink-mute">{entry.count > 0 ? `${entry.count} ${entry.count === 1 ? 'resource' : 'resources'}` : 'No resources yet'}</span>
+                <li id={topicAnchor(t.slug)} class="m-0 scroll-mt-24 rounded-[18px] border border-surface-line bg-surface p-[clamp(18px,3vw,36px)]" data-topic data-search={searchText(String(t.number), t.name, ...t.subtopics.map((s) => s.name))}>
+                  <div class="grid grid-cols-[auto_minmax(0,1fr)] items-start gap-x-[clamp(14px,2vw,22px)] gap-y-2.5">
+                    <span class="row-span-2 flex min-w-[52px] flex-col items-center justify-center self-start rounded-[12px] bg-teal-700 px-2 py-1.5 text-white sm:min-w-[60px] sm:py-2">
+                      <span class="text-[12px] font-semibold leading-tight text-teal-50">{tileLabel}{t.stage && <span class="sr-only"> topic</span>}</span>
+                      <span class="font-display text-[22px] font-bold leading-none sm:text-[26px]">{t.number}</span>
+                    </span>
+                    <div class="flex min-w-0 flex-wrap items-start justify-between gap-x-5 gap-y-2 sm:min-h-[60px]">
+                      <h3 class="m-0 min-w-0 max-w-[30ch] self-center text-[clamp(1.5rem,1.1rem+1.2vw,2rem)] font-bold leading-[1.1] tracking-[-0.022em] text-navy-800 [overflow-wrap:anywhere]">{lang ? <bdi dir="rtl" lang={lang}>{t.name}</bdi> : t.name}</h3>
+                      <span class="shrink-0 rounded-full border border-surface-line bg-white px-3 py-1 text-[14px] font-medium text-ink-mute sm:mt-1">{entry.count > 0 ? `${entry.count} ${entry.count === 1 ? 'resource' : 'resources'}` : 'No resources yet'}</span>
+                    </div>
+                    {t.subtopics.length > 0 && (
+                      <p class="col-span-2 m-0 max-w-[72ch] text-[16px] leading-[1.6] text-ink-mute sm:col-span-1 sm:col-start-2">
+                        <span class="font-semibold text-ink">Covers </span>
+                        {t.subtopics.map((st, i) => {
+                          const sl = nameRtlLang(st.name, rtl);
+                          return <>{i > 0 && ', '}{sl ? <bdi dir="rtl" lang={sl}>{st.name}</bdi> : st.name}</>;
+                        })}
+                      </p>
+                    )}
                   </div>
-                  <h3 class="m-0 mt-2.5 text-[length:var(--text-h3)] font-bold leading-[1.15] tracking-[-0.015em] text-navy-800">{lang ? <bdi dir="rtl" lang={lang}>{t.name}</bdi> : t.name}</h3>
-                  {t.subtopics.length > 0 && (
-                    <p class="m-0 mt-2 max-w-[78ch] text-[15px] leading-relaxed text-ink-mute">
-                      <span class="font-semibold text-ink">Covers </span>
-                      {t.subtopics.map((st, i) => {
-                        const sl = nameRtlLang(st.name, rtl);
-                        return <>{i > 0 && ', '}{sl ? <bdi dir="rtl" lang={sl}>{st.name}</bdi> : st.name}</>;
-                      })}
-                    </p>
-                  )}
                   {entry.count > 0
                     ? <ModeColumns groups={entry.groups} context={context} scope="this topic" />
-                    : <p class="m-0 mt-3 text-[15px] text-ink-mute">No Marlbridge resource for this topic yet. It is still part of the syllabus, so use the official document and past papers for it.</p>}
+                    : <p class="m-0 mt-5 rounded-[14px] border border-dashed border-surface-line bg-white/55 px-5 py-4 text-[16px] leading-[1.55] text-ink-mute">No Marlbridge resource for this topic yet. It is still part of the syllabus, so use the official document and past papers for it.</p>}
                 </li>
               );
             })}
@@ -172,9 +178,9 @@ const placeholder = exampleTerms.length ? `e.g. ${exampleTerms.join(', ')}` : 'a
 
   {hasAny(data.wholeCourse) && (
     <section aria-labelledby="whole-course-heading" class="mt-[clamp(32px,4vw,48px)]" data-topic-group>
-      <div data-topic data-search="whole course general all topics" class="rounded-md border border-rule bg-ivory px-[clamp(16px,2.4vw,28px)] py-[clamp(20px,2.6vw,28px)]">
-        <h3 id="whole-course-heading" class="m-0 text-[length:var(--text-h3)] font-bold leading-[1.15] tracking-[-0.015em] text-navy-800">{record ? 'Covering more than one topic' : 'All resources for this course'}</h3>
-        {record && <p class="m-0 mt-1.5 text-[15px] text-ink-mute">Course guides, exam preparation and pages that span several topics.</p>}
+      <div data-topic data-search="whole course general all topics" class="rounded-[18px] border-2 border-surface-line bg-white p-[clamp(18px,3vw,36px)]">
+        <h3 id="whole-course-heading" class="m-0 text-[clamp(1.5rem,1.1rem+1.2vw,2rem)] font-bold leading-[1.1] tracking-[-0.022em] text-navy-800">{record ? 'Covering more than one topic' : 'All resources for this course'}</h3>
+        {record && <p class="m-0 mt-2.5 text-[16px] text-ink-mute">Course guides, exam preparation and pages that span several topics.</p>}
         <ModeColumns groups={data.wholeCourse} context={context} scope="this course" />
       </div>
     </section>
