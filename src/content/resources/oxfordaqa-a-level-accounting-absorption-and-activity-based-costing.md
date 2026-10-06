@@ -41,7 +41,7 @@ Under absorption costing a product's **total cost** is its **direct costs** (mat
 
 - **Allocation** charges a cost in full to the one product or cost centre it belongs to: direct costs to products, or a department's own indirect wages to that department.
 - **Apportionment** divides an indirect cost that several departments share, using a basis that reflects how much each one benefits.
-- **Absorption** loads each production department's overhead total onto the units it works on, using an **overhead absorption rate (OAR)**.
+- **Absorption** loads each production department's overhead total onto the units it works on, at an **overhead absorption rate (OAR)**.
 - **Under-absorption**: overheads charged to output are less than overheads actually incurred.
 - **Over-absorption**: overheads charged to output exceed overheads actually incurred.
 

@@ -64,11 +64,11 @@ Revise first with the [study guide](/resources/oxfordaqa-a-level-chemistry-trans
 **(b)** State the shape of the iron complex before and after the reaction. **[1]**
 **(c)** Explain why the co-ordination number changes. **[2]**
 
-**4.** EDTA⁴⁻ reacts with hexaamminenickel(II) ions:
+**4.** EDTA⁴⁻ is added to hexaamminenickel(II) ions:
 
 [Ni(NH₃)₆]²⁺ + EDTA⁴⁻ → [Ni(EDTA)]²⁻ + 6NH₃
 
-For this question, take ΔH = −1.8 kJ mol⁻¹ and ΔS = +205 J K⁻¹ mol⁻¹.
+Values for this change: ΔH = −1.8 kJ mol⁻¹, ΔS = +205 J K⁻¹ mol⁻¹.
 
 **(a)** Explain why ΔS is large and positive. **[1]**
 **(b)** Explain why ΔH is close to zero. **[1]**
@@ -77,12 +77,12 @@ For this question, take ΔH = −1.8 kJ mol⁻¹ and ΔS = +205 J K⁻¹ mol⁻�
 **5.** This question is about haemoglobin.
 
 **(a)** Describe how haemoglobin carries oxygen in the blood. **[2]**
-**(b)** Explain why carbon monoxide is toxic. **[1]**
+**(b)** Someone breathes air containing carbon monoxide. Explain why their blood then delivers less oxygen. **[1]**
 
 **6.** This question is about the shapes of complexes.
 
 **(a)** [Pt(NH₃)₂Cl₂] is square planar and has two isomers. Describe how they differ and identify cisplatin. **[2]**
-**(b)** For [Co(C₂O₄)₃]³⁻, state the co-ordination number and name the type of stereoisomerism it shows. **[2]**
+**(b)** [Co(H₂NCH₂CH₂NH₂)₂(C₂O₄)]⁺ has three ligands and two mirror-image forms. Explain why its co-ordination number is 6 and why the forms are different compounds. **[2]**
 **(c)** Give the shape of [CoCl₄]²⁻ and of [Ag(NH₃)₂]⁺, with the bond angle in each. **[2]**
 
 **7.** Hexaaquacopper(II) ions are pale blue.
@@ -101,11 +101,11 @@ For this question, take ΔH = −1.8 kJ mol⁻¹ and ΔS = +205 J K⁻¹ mol⁻�
 **(b)** Find the gradient of the calibration line and the concentration of MnO₄⁻ in the steel solution. **[2]**
 **(c)** Calculate the percentage by mass of manganese in the steel. **[2]**
 
-**9.** Zinc and dilute sulfuric acid are added to a yellow solution of vanadate(V) ions.
+**9.** A yellow vanadate(V) solution is shaken with zinc and dilute sulfuric acid.
 
-**(a)** Give the oxidation state and colour of vanadium in VO²⁺ and in V²⁺. **[2]**
+**(a)** Give the formula of the blue species, and the colour seen when all the vanadium is V³⁺. **[2]**
 **(b)** Use half-equations to write an overall equation for the reduction of VO²⁺ to V³⁺ by zinc. **[2]**
-**(c)** The violet solution turns green when left open to the air. Explain this. **[1]**
+**(c)** A green colour appears between yellow and blue, although neither VO₂⁺ nor VO²⁺ is green. Explain this. **[1]**
 
 **10.** Data: Ag⁺ + e⁻ ⇌ Ag, E⦵ = +0.80 V; [Ag(NH₃)₂]⁺ + e⁻ ⇌ Ag + 2NH₃, E⦵ = +0.37 V.
 
@@ -123,10 +123,10 @@ For this question, take ΔH = −1.8 kJ mol⁻¹ and ΔS = +205 J K⁻¹ mol⁻�
 
 **12.** This question is about transition metal catalysts.
 
-**(a)** Using equations, explain the catalytic role of V₂O₅ in the Contact process. Refer to oxidation states. **[3]**
+**(a)** V₂O₅ reacts with sulfur dioxide in the Contact process yet is not used up. Explain, with equations and vanadium oxidation states. **[3]**
 **(b)** A plant spreads its catalyst on a ceramic support. An impurity in the feed gas sticks to the catalyst surface. Explain the purpose of the support, and the effect of the impurity on the plant's costs. **[2]**
-**(c)** Explain why the reaction between S₂O₈²⁻ and I⁻ is slow without a catalyst, and write two equations to show how Fe²⁺ ions catalyse it. **[3]**
-**(d)** Acidified MnO₄⁻ reacts with excess C₂O₄²⁻ at constant temperature. Describe and explain how the rate changes from the start to the end. **[2]**
+**(c)** Fe³⁺ ions catalyse the reaction between S₂O₈²⁻ and I⁻ as well as Fe²⁺ ions do. Explain why the reaction is slow on its own, and write the two catalysed steps in order, starting from Fe³⁺. **[3]**
+**(d)** A colorimeter tracks [MnO₄⁻] as acidified MnO₄⁻ reacts with excess C₂O₄²⁻ at constant temperature. Describe and explain the shape of the concentration–time curve. **[2]**
 
 ## Answers
 
@@ -146,16 +146,16 @@ For this question, take ΔH = −1.8 kJ mol⁻¹ and ΔS = +205 J K⁻¹ mol⁻�
 **4. (a)** Two particles become seven, so disorder increases [1]
 **(b)** Six Ni–N bonds are broken and six similar co-ordinate bonds to EDTA's N and O donor atoms are formed [1]
 **(c)** ΔS = +0.205 kJ K⁻¹ mol⁻¹ [1]; ΔG = −1.8 − (298 × 0.205) = **−62.9 kJ mol⁻¹** [1]; negative, so the substitution is feasible: the chelate effect, driven by entropy [1]
-*Examiner insight:* Using 205 instead of 0.205 gives about −61 000 kJ mol⁻¹; a value that size should prompt a units check.
+*Examiner insight:* Using 205 instead of 0.205 gives about −61 000 kJ mol⁻¹; check units.
 
 **5. (a)** Oxygen forms a co-ordinate bond [1]; to the iron(II) ion in haem, so it is carried round the body [1]
-**(b)** CO bonds to Fe(II) in place of O₂, so the blood transports less oxygen [1]
+**(b)** CO forms a co-ordinate bond to Fe(II) in haem in place of O₂, so less oxygen is carried [1]
 *Examiner insight:* Name the bond type and the iron oxidation state.
 
 **6. (a)** In one isomer the two Cl⁻ ligands are next to each other at 90°; in the other they are opposite at 180° [1]; **cisplatin is the cis isomer** (Cl⁻ at 90°) [1]
-**(b)** **6** (three bidentate ligands) [1]; **optical isomerism** [1]
+**(b)** Three bidentate ligands give 3 × 2 = **6** co-ordinate bonds [1]; the mirror images are non-superimposable: **optical isomers** [1]
 **(c)** [CoCl₄]²⁻: **tetrahedral, 109.5°** [1]; [Ag(NH₃)₂]⁺: **linear, 180°** [1]
-*Examiner insight:* In (b), a co-ordination number of 3 counts ligands, not co-ordinate bonds.
+*Examiner insight:* In (b), "mirror images" alone is not enough; say they cannot be superimposed.
 
 **7. (a)** Some visible wavelengths are absorbed as d electrons are promoted to a higher energy level (excited state) [1]; the remaining wavelengths are transmitted, and these give the colour [1]
 **(b)** ΔE per ion = 205 000 ÷ 6.02 × 10²³ = 3.405 × 10⁻¹⁹ J [1]; λ = hc/ΔE = 5.84 × 10⁻⁷ m = **584 nm** [1]
@@ -165,36 +165,36 @@ For this question, take ΔH = −1.8 kJ mol⁻¹ and ΔS = +205 J K⁻¹ mol⁻�
 **8. (a)** Mn²⁺(aq) is very pale and absorbs little light; MnO₄⁻ is intensely coloured [1]
 **(b)** Gradient = 0.46 ÷ 2.0 × 10⁻⁴ = **2300 dm³ mol⁻¹** [1]; [MnO₄⁻] = 0.69 ÷ 2300 = **3.00 × 10⁻⁴ mol dm⁻³** [1]
 **(c)** n(Mn) = 3.00 × 10⁻⁴ × 0.250 = 7.50 × 10⁻⁵ mol; mass = 7.50 × 10⁻⁵ × 54.9 = 4.12 × 10⁻³ g [1]; percentage = 4.12 × 10⁻³ ÷ 0.450 × 100 = **0.915%** [1]
-*Examiner insight:* Show the gradient working, not just a value read from a sketch.
+*Examiner insight:* Show the gradient working.
 
-**9. (a)** VO²⁺: **+4, blue** [1]; V²⁺: **+2, violet** [1]
+**9. (a)** **VO²⁺** [1]; **green** [1]
 **(b)** VO²⁺ + 2H⁺ + e⁻ → V³⁺ + H₂O, doubled to match Zn → Zn²⁺ + 2e⁻ [1]; **2VO²⁺ + 4H⁺ + Zn → 2V³⁺ + Zn²⁺ + 2H₂O** [1]
-**(c)** Oxygen in the air oxidises V²⁺ to green V³⁺ [1]
+**(c)** A mixture of yellow VO₂⁺ and blue VO²⁺ while the first reduction is part-way [1]
 *Examiner insight:* Check charge balance in (b): +8 on each side.
 
 **10. (a)** **Ag⁺** (more positive E⦵) [1]; the ammonia ligand makes the silver(I) ion harder to reduce, lowering its redox potential [1]
 **(b)** Hexanal: a silver mirror forms, because the aldehyde is oxidised and Ag(I) is reduced to Ag [1]; hexan-2-one: no change, because ketones are not oxidised by this mild reagent [1]
-*Examiner insight:* Each observation needs its reason; "silver mirror" alone does not explain the test.
+*Examiner insight:* Each observation needs its reason.
 
 **11. (a)** **2MnO₄⁻ + 16H⁺ + 5C₂O₄²⁻ → 2Mn²⁺ + 10CO₂ + 8H₂O** [1]
 **(b)** n(C₂O₄²⁻) = 0.1675 ÷ 134.0 = 1.25 × 10⁻³ mol [1]; n(MnO₄⁻) = 1.25 × 10⁻³ × 2/5 = 5.00 × 10⁻⁴ mol [1]; [KMnO₄] = 5.00 × 10⁻⁴ ÷ 0.02500 = **0.0200 mol dm⁻³** [1]
 **(c)(i)** Each FeC₂O₄ gives 3 e⁻ (1 from Fe²⁺, 2 from C₂O₄²⁻) and each MnO₄⁻ takes 5 e⁻, so 15 e⁻ gives 5 : 3 [1]
 **(ii)** n(MnO₄⁻) = 0.0200 × 0.02450 = 4.90 × 10⁻⁴ mol [1]; n(FeC₂O₄) = 4.90 × 10⁻⁴ × 5/3 = 8.17 × 10⁻⁴ mol [1]; mass = 8.17 × 10⁻⁴ × 179.8 = 0.147 g, so purity = **97.9%** [1]
-*Examiner insight:* Using 2 : 5 in (c) ignores the iron(II); when both ions in a salt are oxidised, count the electrons from each.
+*Examiner insight:* Using 2 : 5 in (c) ignores the iron(II); count electrons from both ions.
 
-**12. (a)** **V₂O₅ + SO₂ → V₂O₄ + SO₃** [1]; **V₂O₄ + ½O₂ → V₂O₅** [1]; V goes +5 → +4 → +5, so the catalyst is regenerated via a lower-activation-energy route [1]
+**12. (a)** **V₂O₅ + SO₂ → V₂O₄ + SO₃** [1]; **V₂O₄ + ½O₂ → V₂O₅** [1]; V is reduced from +5 to +4, then oxidised back to +5, so V₂O₅ is regenerated [1]
 **(b)** The support gives a large surface area from less catalyst, lowering cost [1]; the impurity poisons the catalyst by blocking active sites, so efficiency falls and replacement adds cost [1]
-**(c)** S₂O₈²⁻ and I⁻ carry like (negative) charges and repel, giving a high activation energy [1]; **2Fe²⁺ + S₂O₈²⁻ → 2Fe³⁺ + 2SO₄²⁻** [1]; **2I⁻ + 2Fe³⁺ → I₂ + 2Fe²⁺** [1]
-**(d)** Slow at first because there is no Mn²⁺ catalyst yet [1]; it speeds up as Mn²⁺ forms (autocatalysis), then slows as MnO₄⁻ is used up [1]
-*Examiner insight:* In (a), the second equation must regenerate V₂O₅; an answer that only reduces the catalyst does not show catalysis.
+**(c)** S₂O₈²⁻ and I⁻ are both negative and repel, giving a high activation energy [1]; first **2Fe³⁺ + 2I⁻ → 2Fe²⁺ + I₂** [1]; then **2Fe²⁺ + S₂O₈²⁻ → 2Fe³⁺ + 2SO₄²⁻** [1]
+**(d)** Shallow at first: no Mn²⁺ catalyst yet [1]; steeper as Mn²⁺ forms and autocatalyses, then levels off as MnO₄⁻ runs out [1]
+*Examiner insight:* In (a), the second equation must regenerate V₂O₅.
 
 ## Where marks are usually lost
 
-- Using the number of ligands, not co-ordinate bonds, for C₂O₄²⁻, ethane-1,2-diamine or EDTA⁴⁻ complexes.
+- Counting ligands, not co-ordinate bonds, in chelate complexes.
 - Explaining the chelate effect without counting particles.
-- Leaving λ in nm inside hc/λ, or forgetting × 1000 for kJ.
-- Missing the dilution or scale-up factor in a titration or colorimetry calculation.
-- Using 1 : 5 or 2 : 5 for iron(II) ethanedioate, where both ions react.
+- Leaving λ in nm, or forgetting × 1000 for kJ.
+- Missing a dilution or scale-up factor.
+- Using 1 : 5 or 2 : 5 for iron(II) ethanedioate.
 - Not showing that a catalyst is regenerated.
 
 ## Next steps

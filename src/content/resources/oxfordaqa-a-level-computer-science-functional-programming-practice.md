@@ -60,7 +60,7 @@ eligible a h = (a >= 16 && h < 40) || a >= 65
 
 Evaluate `eligible 17 45`, `eligible 70 50` and `eligible 16 39`. **[3]**
 
-**6.** This function counts the digits of a whole number:
+**6.** This function counts the digits of a positive whole number:
 
 ```haskell
 digits 0 = 0
@@ -163,7 +163,7 @@ Correct arguments 409, 40, 4 from `div` 10; [1] reaching the base case `digits 0
 **8. (a)** ((100 − 30) − 25) − 5 [1] = **40** [1]
 **(b)** 30 − (25 − (5 − 100)) [1] = 30 − (25 + 95) = 30 − 120 = **-90** [1]
 **(c)** Addition gives the same total whatever order or grouping is used, [1] but subtraction does not: foldl puts the running value on the left and foldr puts each list item on the left, so the grouping changes the answer. [1]
-*Examiner insight:* Write the brackets before calculating; most lost marks on foldr come from placing 100 on the left instead of the right.
+*Examiner insight:* Write the brackets before calculating: the start value 100 belongs on the right of the innermost subtraction, (5 − 100), and putting it on the left is a common slip.
 
 **9. (a)** **2** [1]
 **(b)** **[9,4]** [1]
@@ -204,7 +204,7 @@ First call splits the head 'c' from the tail; [1] the third call matches the bas
 **(c)** `xs` is the tail, one item shorter than the original list, so each call moves closer to the base case `[]`. [1]
 **(d)** **`++`** [1]
 **(e)** **[]** [1]
-*Examiner insight:* Show the `:` operations being built up; jumping straight to the final list gives no credit for the trace marks.
+*Examiner insight:* Show the `:` operations being built up; jumping straight to the final list leaves no evidence for the trace marks.
 
 ## Where marks are usually lost
 

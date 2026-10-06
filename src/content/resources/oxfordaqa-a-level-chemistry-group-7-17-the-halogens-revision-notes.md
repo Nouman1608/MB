@@ -79,7 +79,7 @@ Rule: a halogen oxidises the halide ions of any halogen lower in the group.
 General ionic equation, where X sits above Y: **X₂ + 2Y⁻ → 2X⁻ + Y₂**.
 
 **Colour tip:** shake with cyclohexane. Iodine turns the upper organic layer violet; in water it looks
-brown. Bromine gives an orange to red-brown organic layer.
+brown. Bromine gives an orange organic layer.
 
 ## 3.2.3.1 Solid sodium halides with concentrated H₂SO₄
 

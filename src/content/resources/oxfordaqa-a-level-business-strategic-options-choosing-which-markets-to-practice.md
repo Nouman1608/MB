@@ -102,7 +102,7 @@ The directors are choosing between **Option A**, market development (exporting i
 *Examiner insight:* Show the substituted formula before the answer, and give the % sign; a bare 0.725 does not answer the question as set.
 
 **6.** Marketing must research tour operators' needs abroad [1] and set prices and distribution suited to those regions, which shapes its promotion budget [1]. Finance must fund set-up costs such as overseas sales staff and shipping before revenue arrives [1], and may need to manage currency risk if prices are set in another currency [1]. **[4]**
-*Examiner insight:* Both named functions are needed; an answer covering only marketing caps at half the marks however well developed.
+*Examiner insight:* Both named functions are needed; an answer covering only marketing leaves half the question unanswered, however well developed.
 
 **7. (a)** 8.4 ÷ (8.4 + 5.6) × 100 [1] = **60%** [1].
 **(b)** Gearing of 60% is high, so lenders may refuse further loans or charge higher interest [1]; Tamsett may have to fund the clinics from share capital or retained profit, or delay the plan [1].
@@ -126,7 +126,7 @@ Judgement: Option A is better, because it uses existing strengths against a grow
 *Examiner insight:* Strong evaluations use the calculated figures and finish with a decision plus what it depends on; balanced lists with no judgement tend to score in the middle.
 
 **12. (a)** Last year 31,500 ÷ 45 = 700 cases per employee; this year 30,240 ÷ 48 = 630 [1]. Change = (630 − 700) ÷ 700 × 100 [1] = **−10%** [1].
-**(b)** Productivity fell by 10% [1], so unit labour costs are rising: a weakness that could make new, possibly more complex lightweight bottles costly to produce [1]. Labour turnover is 6 ÷ 48 × 100 = 12.5%, double the 6% average [1], so skills may be lost just when new production methods must be learned [1]. On the other hand, the product is for existing customers, so Lunsford keeps its market knowledge, and lighter bottles may cut customers' transport costs [1]. The data is internal only; it shows nothing about customer demand or rivals' plans [1], and one year's fall may reflect new staff still in training [1]. Judgement: the data should delay rather than stop the plan; Lunsford should tackle turnover and productivity first, then check demand before investing [1].
+**(b)** Productivity fell by 10% [1], so unit labour costs are rising: a weakness that could make new, possibly more complex lightweight bottles costly to produce [1]. Labour turnover is 6 ÷ 46.5 (average of 45 and 48 staff) × 100 = 12.9%, more than double the 6% average [1], so skills may be lost just when new production methods must be learned [1]. On the other hand, the product is for existing customers, so Lunsford keeps its market knowledge, and lighter bottles may cut customers' transport costs [1]. The data is internal only; it shows nothing about customer demand or rivals' plans [1], and one year's fall may reflect new staff still in training [1]. Judgement: the data should delay rather than stop the plan; Lunsford should tackle turnover and productivity first, then check demand before investing [1].
 *Examiner insight:* "Assess how far" needs a limit on the data as well as its use; answers that only interpret the figures miss the evaluative credit.
 
 ## Where marks are usually lost

@@ -26,7 +26,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover **3.2.3 Capital investment appraisal** of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International A-level exams from May/June 2026 onwards. The topic belongs to the International A-level only and is assessed in Paper 4: Accounting for analysis and decision making. Money is in dollars, the firms are made up, and present values are to the nearest dollar.
+These questions cover **3.2.3 Capital investment appraisal** of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International A-level exams from May/June 2026 onwards. The topic is **International A-level only** and is assessed in Paper 4: Accounting for analysis and decision making. Money is in dollars, the firms are made up, and present values are to the nearest dollar.
 
 Links: [study guide](/resources/oxfordaqa-a-level-accounting-capital-investment-appraisal/) · [revision notes](/resources/oxfordaqa-a-level-accounting-capital-investment-appraisal-revision-notes/) · [course hub](/boards/oxfordaqa/a-level/accounting/) · [checklist](/checklists/oxfordaqa/a-level/accounting/) · [diagnostics](/diagnostics/)
 

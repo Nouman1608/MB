@@ -79,7 +79,7 @@ Rule of thumb: a price above rivals needs benefits customers can see and believe
 
 **Must-know distinction:** low **cost** is about the cost base; low **price** is a choice the low cost firm may or may not make. Matching rivals' prices with lower costs gives a higher margin per unit.
 
-**Worked reminder.** Pebblerow car washes charge £12 a wash. One has a cost of £7.50 per wash; a rival with 20% lower costs (£6.00) earns £6.00 a wash instead of £4.50 at the same price.
+**Worked reminder.** Two mid-range Pebblerow car washes both charge £12 a wash. One has a cost of £7.50 per wash; a rival with 20% lower costs (£6.00) earns £6.00 a wash instead of £4.50 at the same price.
 
 ## Influences on the choice
 

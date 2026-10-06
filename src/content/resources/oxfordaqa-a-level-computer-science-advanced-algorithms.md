@@ -277,7 +277,7 @@ In-order outputs **date, fig, kiwi, lime, pear, plum, yam**: alphabetical order,
 
 - Swapping the structures: BFS uses a queue, DFS a stack.
 - Marking a vertex visited when it is removed from the BFS queue rather than when it is added, so it is queued twice.
-- Claiming DFS finds the shortest route. Only BFS does, and only in an unweighted graph.
+- Claiming DFS finds the shortest route. BFS finds the fewest-edge route, which is shortest only in an unweighted graph.
 - In Dijkstra, choosing the next vertex by the smallest edge weight instead of the smallest total distance.
 - Writing pre-order as "root, right, left". Left always comes before right in all three traversals.
 - Saying in-order sorts any binary tree; it only does so for a binary search tree.

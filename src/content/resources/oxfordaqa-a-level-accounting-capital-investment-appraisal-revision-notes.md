@@ -20,7 +20,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-These notes condense section **3.2.3 Capital investment appraisal** of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International A-level exams from May/June 2026 onwards. Only International A-level candidates study 3.2.3, and the specification assesses it in Paper 4: Accounting for analysis and decision making. If a point here is unclear, the [study guide](/resources/oxfordaqa-a-level-accounting-capital-investment-appraisal/) explains it step by step. Money is in dollars; the firms are made up.
+These notes condense section **3.2.3 Capital investment appraisal** of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International A-level exams from May/June 2026 onwards. Section 3.2.3 is **International A-level only**, and the specification assesses it in Paper 4: Accounting for analysis and decision making. If a point here is unclear, the [study guide](/resources/oxfordaqa-a-level-accounting-capital-investment-appraisal/) explains it step by step. Money is in dollars; the firms are made up.
 
 Links: [practice questions](/resources/oxfordaqa-a-level-accounting-capital-investment-appraisal-practice/) · [budgeting notes](/resources/oxfordaqa-a-level-accounting-budgeting-revision-notes/) · [course hub](/boards/oxfordaqa/a-level/accounting/) · [printable checklist](/checklists/oxfordaqa/a-level/accounting/) · [free 10-minute diagnostic](/diagnostics/)
 

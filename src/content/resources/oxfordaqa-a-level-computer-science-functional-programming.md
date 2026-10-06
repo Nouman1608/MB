@@ -215,6 +215,8 @@ foldr f z [x1, x2, x3] = f x1 (f x2 (f x3 z))
 
 In `foldl` the running value is the **left** operand at each step. In `foldr` each list item is the **left** operand and the running value is on the right.
 
+The specification describes `foldr` as starting with the rightmost item and working backward, and gives `foldr (-) 0 [1, 2, 3, 4]` as -2. Haskell groups that call as 1 - (2 - (3 - (4 - 0))): the rightmost item 4 meets the initial value first, and working back to 1 gives -2. When asked what a fold evaluates to, show this grouping.
+
 **Worked example.** With subtraction and initial value 0 on [10, 4, 3]:
 
 ```
@@ -309,13 +311,10 @@ lastItem (x:xs) = lastItem xs
 
 ## Common errors
 
-- Writing `f(3, 4)` in Haskell. Application is `f 3 4`.
 - Leaving out brackets in a recursive call, such as `power b e - 1`.
 - Saying the co-domain is "the outputs". It is the set outputs are chosen from; not every member has to be output.
 - Applying g ∘ f with g first. f is applied first.
 - Treating the tail as an element. `tail [5, 2]` is `[2]`, not 2.
-- Using 0 as the start value for a product fold.
-- Expanding `foldr (-)` with the running value on the left.
 
 Next, use the [revision notes](/resources/oxfordaqa-a-level-computer-science-functional-programming-revision-notes/) for recall, then try the [practice questions](/resources/oxfordaqa-a-level-computer-science-functional-programming-practice/).
 

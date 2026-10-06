@@ -129,8 +129,8 @@ is a frequent error and overstates the loss.
 **6. (a)** Standard hours = 2,000 × 0.75 = 1,500. Efficiency = (1,500 − 1,460) × 15.00 [1] = **600 F** [1].
 **(b)** Rate = total − efficiency = 495 A − 600 F = **1,095 A** [1].
 **(c)** 1,095 ÷ 1,460 = 0.75 more per hour than standard [1], so actual rate = 15.00 + 0.75 = **15.75** [1]. **[5]**
-*Examiner insight:* Treat adverse figures as negative when combining them; adding 495 and 600 gives a
-wrong rate variance.
+*Examiner insight:* Treat adverse figures as negative when combining them; netting 600 against 495 to
+get 105 gives a wrong rate variance.
 
 **7.** Trainees are paid less, giving the favourable rate variance of 2,880 [1]. They work more slowly, so
 more hours were needed than standard: the adverse efficiency variance [1]. Inexperience also leads to

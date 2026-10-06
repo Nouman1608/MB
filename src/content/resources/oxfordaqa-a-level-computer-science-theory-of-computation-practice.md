@@ -60,7 +60,7 @@ Before you start: [theory of computation study guide](/resources/oxfordaqa-a-lev
 
 ```
 δ(S0, 0) = (S0, 0, R)     δ(S1, 0) = (S1, 1, L)
-δ(S0, 1) = (S0, 1, R)     δ(S1, 1) = (S2, 0, L)
+δ(S0, 1) = (S0, 1, R)     δ(S1, 1) = (S2, 0, R)
 δ(S0, □) = (S1, □, L)
 ```
 
@@ -157,7 +157,7 @@ Then any number of further `a`s: **`ab*a+`** (or `ab*aa*`). [1]
 **7. (a)** In S0 the head moves right over 1, 1, 0, 0 unchanged. [1]
 At the blank it moves left into S1. [1]
 In S1 both 0s become 1 as it moves left (tape `1111`). [1]
-The second 1 becomes 0 and the machine moves left into S2, halting with tape **`1011`**. [1]
+The second 1 becomes 0 and the machine moves right into S2, halting with tape **`1011`**. [1]
 **(b)** It subtracts 1 from the binary number (12 → 11). [1]
 **(c)** An arc from S1 back to S1 labelled **`0 / 1, L`**. [1]
 **(d)** S2 has no outgoing transitions. [1]

@@ -128,7 +128,7 @@ The **domain service** lets people use names while routers use numbers; it relie
 
 Layers let each part be designed, changed and replaced independently, and let different manufacturers' products work together.
 
-A **socket** is an IP address plus a port number, e.g. 203.0.113.8:443; it identifies one end of a connection, so one computer can hold many connections at once. A **MAC address** is the unique hardware address of a network interface, used for delivery within a local network; it changes at each hop while IP addresses stay end to end.
+A **socket** is an IP address plus a port number, e.g. 203.0.113.8:443; it identifies one end of a connection, so one computer can hold many connections at once. A **MAC address** is the unique hardware address of a network interface, used for delivery within a local network; a frame's MAC addresses are rewritten at each hop while the IP addresses stay end to end.
 
 ### Application layer protocols
 

@@ -86,7 +86,7 @@ Unit cost falls about 9.8% (purchasing and technical economies). But at sales of
 | **Franchising** | Rapid growth using franchisees' capital | Profit shared; less quality control; brand risk |
 | **Joint venture** (jointly owned project) | Shared cost, risk and local knowledge | Disputes; know-how may leak |
 
-**Integration.** *Backward vertical:* buying a supplier (a bakery buys a flour mill), securing supply and its margin. *Forward vertical:* buying a customer or outlet (a brewer buys bars), controlling distribution. Both can lock the firm into its own supplier or outlet when outside ones become better. *Horizontal:* buying a firm at the same stage in the same industry; more share and economies of scale, but competition authorities may object. *Conglomerate:* buying into an unrelated industry; spreads risk, but managers lack expertise and savings are few.
+**Integration.** *Backward vertical:* buying a supplier (a bakery buys a flour mill), securing supply and its margin. *Forward vertical:* buying a customer or outlet (a brewer buys bars), controlling distribution. Both can lock the firm into its own supplier or outlet. *Horizontal:* buying a firm at the same stage in the same industry; more share and economies of scale, but competition authorities may object. *Conglomerate:* buying into an unrelated industry; spreads risk, but managers lack expertise and savings are few.
 
 **Retrenchment** is cutting back: closing sites, selling divisions, dropping products or making redundancies. *Reasons:* falling demand, losses, diseconomies, low capacity utilisation, a need for cash, refocusing on the core. *Problems:* redundancy costs, low morale among those who stay, lost skills, reputational damage and too little capacity if demand recovers.
 
@@ -138,6 +138,9 @@ Unit cost falls about 9.8% (purchasing and technical economies). But at sales of
 | PED | −0.6 | −1.5 |
 | YED | +1.8 | +0.4 |
 | GDP growth forecast | 3% | 1% |
+| Inflation | 6% | 2% |
+| Unemployment | 4% | 9% |
+| Interest rate | 7% | 3% |
 
 ```
 Four firm concentration ratio: A = 82%   B = 45%
@@ -148,7 +151,7 @@ B, price −10%: demand +15%; revenue 0.90 × 1.15 → +3.5%
 
 **Exchange rate.** A pack sells for £4.00 and Country A uses euros. At £1 = €1.20 it costs €4.80. If the pound falls to £1 = €1.12, Ombrevale can cut the price to €4.48 (6.7% cheaper) or hold €4.80 and earn 4.80 ÷ 1.12 = £4.29, 7.1% more per pack.
 
-**Interpretation.** Country A has rising incomes and inelastic demand, but four firms hold 82%, so entry is hard. Country B is fragmented and price-sensitive, suiting a low-price entry, but slow income growth limits demand. Market share is firm sales ÷ market sales × 100: £1.2m in a £40m market is 3%.
+**Interpretation.** Country A has rising incomes and inelastic demand, but four firms hold 82%, so entry is hard. Country B is fragmented and price-sensitive, suiting a low-price entry, but slow income growth limits demand. A's 6% inflation raises local costs and erodes income gains; its 7% interest rate makes local borrowing dear. B's 9% unemployment limits spending but eases recruitment. Market share is firm sales ÷ market sales × 100: £1.2m in a £40m market is 3%.
 
 ### Methods of entry
 
@@ -189,11 +192,9 @@ Each profit margin is that profit ÷ revenue × 100. Year 2 included fair-wage p
 
 - Dividing total cost by capacity instead of actual output.
 - Naming a diseconomy as "too big" without control, communication or coordination.
-- Mixing up backward and forward vertical integration.
 - Saying a patent protects a brand name (that is a trademark).
-- Multiplying by the exchange rate when converting a foreign price into pounds.
 
-Next: the [revision notes](/resources/oxfordaqa-a-level-business-types-of-strategies-revision-notes/), the [practice questions](/resources/oxfordaqa-a-level-business-types-of-strategies-practice/) and [exam preparation](/resources/oxfordaqa-a-level-business-exam-preparation/).
+Next: [practice questions](/resources/oxfordaqa-a-level-business-types-of-strategies-practice/) and [exam preparation](/resources/oxfordaqa-a-level-business-exam-preparation/).
 
 ## Official syllabus
 

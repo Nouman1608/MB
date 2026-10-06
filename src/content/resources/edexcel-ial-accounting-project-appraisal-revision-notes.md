@@ -47,7 +47,7 @@ Links: [practice questions](/resources/edexcel-ial-accounting-project-appraisal-
 | 2.6.2 | Average (accounting) rate of return (ARR) | No | Profit | ARR > target return |
 | 2.6.2 | Payback period | No | Cash flows | Payback ≤ maximum set by the business |
 
-## Definitions to learn word for word
+## Key definitions
 
 - **Net cash flow**: for a single year, the project's extra cash coming in less its extra cash going out.
 - **Time value of money**: money received sooner is worth more, because it can be reinvested, is not

@@ -57,17 +57,17 @@ All figures below are invented, and all amounts are in US dollars, the currency 
 |---|---|
 | Capital | Assets − Liabilities |
 | Profit (capital method) | Closing capital − Opening capital + Drawings − Capital introduced |
-| Markup % | 100 × Gross profit / Cost of sales |
-| Gross profit margin % | 100 × Gross profit / Revenue |
+| Markup % | Gross profit / Cost of sales × 100 |
+| Gross profit margin % | Gross profit / Revenue × 100 |
 | Margin from markup | markup / (100 + markup) |
 | Markup from margin | margin / (100 − margin) |
 | Rate of inventory turnover (number of times) | Cost of sales / Average inventory |
-| Rate of inventory turnover (days) | 365 × Average inventory / Cost of sales |
-| Profit in relation to revenue % | 100 × Profit for the year / Revenue |
+| Rate of inventory turnover (days) | Average inventory / Cost of sales × 365 |
+| Profit in relation to revenue % | Profit for year / Revenue × 100 |
 | Cost of sales | Opening inventory + Purchases − Closing inventory |
 | Expense for the year | Amount paid − accrual at start + accrual at end + prepayment at start − prepayment at end |
 
-The specification points to the OxfordAQA guide "Formulae for accounting ratios" for the ratio formulae.
+Section 3.1.8 of the specification points to the OxfordAQA guide "Formulae for accounting ratios", which gives the margin, markup, profit in relation to revenue and inventory turnover (days) forms above. Average inventory is normally the average of opening and closing inventories.
 
 ## Method in steps
 
@@ -103,7 +103,7 @@ Opening cash + cash sales = amount banked + payments out of takings + closing ca
 
 Cost of sales = Revenue × 100 / (100 + markup). Then expected closing inventory = opening + purchases − cost of sales.
 
-*Reminder (Hollinmoor Pantry):* revenue 60,000 at a markup of 25% gives cost of sales = 60,000 × 100/125 = 48,000 and gross profit 12,000.
+*Reminder (Hollinmoor Pantry):* revenue 57,500 at a markup of 15% gives cost of sales = 57,500 × 100/115 = 50,000 and gross profit 7,500.
 
 ### Non-current assets
 
@@ -151,18 +151,18 @@ deducted from the amount paid; a prepayment at the start belongs to this year, s
 
 | | Single entry | Double entry |
 |---|---|---|
-| Benefits | Cheap; simple; quick for a tiny cash business | Trial balance check; full statements; control over receivables and payables; supports ratio analysis, budgets and loan applications |
-| Limitations | No arithmetic check; errors and fraud harder to spot; profit may be only a total; costly reconstruction each year | Time, skill and cost; some errors still not revealed by the trial balance |
+| Benefits | Low cost; no bookkeeping training; workable when almost every sale is for cash | Arithmetic proof via the trial balance; regular full statements; an account per customer and supplier; evidence for ratios, budgets and lenders |
+| Limitations | Mistakes and theft can stay hidden; often only a single profit total; an accountant must rebuild the year for a fee | Takes time, skill and often software; omissions and compensating errors still pass the trial balance |
 
 ## Quick self-test
 
-1. Opening capital 18,500, closing capital 21,300, drawings 9,600, capital introduced 2,000. Profit?
+1. Opening capital 18,500, closing capital 21,300, drawings 9,600, capital introduced 1,700. Profit?
 2. Convert a markup of 20% to a gross profit margin.
 3. Convert a gross profit margin of 20% to a markup.
-4. Revenue 48,000 at a markup of 50%. Cost of sales and gross profit?
-5. Cost of sales 90,000; rate of inventory turnover 9 times. Average inventory?
+4. Revenue 48,000 at a markup of 60%. Cost of sales and gross profit?
+5. Cost of sales 90,000; rate of inventory turnover 12 times. Average inventory?
 6. Trade receivables: opening 2,600, closing 3,050, receipts 27,400, irrecoverable debts 350. Credit sales?
-7. Trade payables: opening 4,100, closing 3,700, paid 36,900, discounts received 300. Credit purchases?
+7. Trade payables: opening 5,160, closing 4,720, paid 35,850, discounts received 460. Credit purchases?
 8. Rent paid 5,400; prepaid 300 at the start and 450 at the end. Rent expense?
 9. A machine with carrying amount 6,400 is sold for 7,000. Result on disposal?
 10. Opening carrying amount 30,000, additions 8,000, carrying amount of disposal 2,500, closing carrying amount 28,900. Depreciation charge?
@@ -171,13 +171,13 @@ deducted from the amount paid; a prepayment at the start belongs to this year, s
 
 ### Answers
 
-1. 21,300 − 18,500 + 9,600 − 2,000 = **10,400**
+1. 21,300 − 18,500 + 9,600 − 1,700 = **10,700**
 2. 20 / 120 = **16.67%**
 3. 20 / 80 = **25%**
-4. 48,000 × 100/150 = **32,000**; gross profit **16,000**
-5. 90,000 / 9 = **10,000**
+4. 48,000 × 100/160 = **30,000**; gross profit **18,000**
+5. 90,000 / 12 = **7,500**
 6. 27,400 + 350 + 3,050 − 2,600 = **28,200**
-7. 36,900 + 300 + 3,700 − 4,100 = **36,800**
+7. 35,850 + 460 + 4,720 − 5,160 = **35,870**
 8. 5,400 + 300 − 450 = **5,250**
 9. 7,000 − 6,400 = **600 profit**
 10. 30,000 + 8,000 − 2,500 − 28,900 = **6,600**

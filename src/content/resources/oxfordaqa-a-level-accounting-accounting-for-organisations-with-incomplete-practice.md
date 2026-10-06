@@ -50,9 +50,9 @@ Other useful pages: the [OxfordAQA A-level Accounting hub](/boards/oxfordaqa/a-l
 
 **4.** Vantrell Electricals: at the start of the year receivables ledger debit balances were 8,460 and credit balances 120. During the year: received by bank 92,310; sales returns 1,270; contra with payables ledger 1,640; irrecoverable debts written off 730; interest charged on overdue accounts 85. At the end, debit balances were 9,050 and credit balances 210. Prepare a trade receivables total account to find credit sales. **[5]**
 
-**5.** Nyambura Crafts' till rolls show cash sales of 34,860. Cash in hand was 260 at the start and 310 at the end of the year. From takings the owner banked 26,500, paid wages 3,900 and bought goods for 1,150. The rest was taken as drawings. Calculate the cash drawings. **[4]**
+**5.** Nyambura Crafts sells at weekend craft fairs and keeps its takings in a cash box. Cash in hand was 260 at the start of the year and 310 at the end. From the cash box the owner banked 26,350, paid stall fees of 2,600 and bought materials for 1,150, and she estimates that she took 70 a week for 52 weeks for herself. Calculate cash sales for the year. **[4]**
 
-**6.** Morwick Paints had revenue of 126,000 at a gross profit margin of 32%. Its rate of inventory turnover was 8 times, and closing inventory was 2,000 higher than opening inventory. Calculate opening inventory, closing inventory and purchases. **[5]**
+**6.** Morwick Paints' opening inventory was 9,710 and its closing inventory 11,710. Its rate of inventory turnover was 7 times and its gross profit margin 32%. Calculate cost of sales, revenue, gross profit and purchases. **[5]**
 
 **7.** Kelso Street Grocers' expenses were 23,400. The gross profit margin was 30% and profit in relation to revenue was 12%. Calculate revenue, gross profit, profit for the year and the markup. **[5]**
 
@@ -64,7 +64,7 @@ Other useful pages: the [OxfordAQA A-level Accounting hub](/boards/oxfordaqa/a-l
 
 **9.** Nasreen Vashti runs Vashti Bakehouse. At 1 January 2025: ovens and equipment at cost 30,000, accumulated depreciation 9,000; inventory 2,400; trade receivables 1,800; bank 3,150; trade payables 2,050; electricity accrued 160.
 
-Bank summary for 2025. Receipts: credit customers 22,700; cash sales (all banked) 61,300. Payments: suppliers 31,900; wages 18,400; electricity 2,280; rent 7,200; drawings 14,000.
+Bank summary for 2025. Receipts: credit customers 22,700; cash takings paid in 61,300. Payments: suppliers 31,900; electricity 2,280; rent 7,200; drawings 14,000. Wages of 18,400 were paid from cash takings before banking.
 
 At 31 December 2025: trade receivables 2,100; trade payables 2,460; inventory 2,750; electricity accrued 240; rent prepaid 600. Equipment is depreciated at 10% a year on cost.
 
@@ -102,11 +102,11 @@ Balance c/d            210   Contra (payables)       1,640
 Both opening balances correct [1]; bank and returns credited [1]; contra and irrecoverable debts credited [1]; interest debited and closing credit balance debited [1]; credit sales **96,365** [1]. **[5]**
 *Examiner insight:* Credit balances in the receivables ledger go on the opposite side to debit balances; netting them first is acceptable only if shown clearly.
 
-**5.** Receipts side: 260 + 34,860 = 35,120 [1]. Known payments: 26,500 + 3,900 + 1,150 = 31,550 [1]; closing cash 310 [1]. Drawings = 35,120 − 31,550 − 310 = **3,260** [1]. **[4]**
-*Examiner insight:* A cash account layout makes the method visible; a single line of arithmetic with one slip earns little.
+**5.** Drawings = 70 × 52 = 3,640 [1]. Payments out: 26,350 + 2,600 + 1,150 + 3,640 = 33,740 [1]; add closing cash 310 = 34,050 [1]. Cash sales = 34,050 − 260 = **33,790** [1]. **[4]**
+*Examiner insight:* The drawings left the cash box without being banked, so omitting them understates cash sales by the whole 3,640; a cash account layout makes such gaps easy to spot.
 
-**6.** Gross profit = 126,000 × 32% = 40,320 [1]; cost of sales = 85,680 [1]. Average inventory = 85,680 / 8 = 10,710 [1]. Opening **9,710**, closing **11,710** [1]. Purchases = 85,680 + 11,710 − 9,710 = **87,680** [1]. **[5]**
-*Examiner insight:* Turnover uses cost of sales, not revenue; using revenue gives an average inventory of 15,750 and loses every later figure.
+**6.** Average inventory = (9,710 + 11,710) / 2 = 10,710 [1]; cost of sales = 10,710 × 7 = **74,970** [1]. Cost of sales is 68% of revenue, so revenue = 74,970 / 0.68 = **110,250** [1]. Gross profit = **35,280** [1]. Purchases = 74,970 + 11,710 − 9,710 = **76,970** [1]. **[5]**
+*Examiner insight:* Multiplying cost of sales by 1.32 treats the margin as a markup and gives revenue of about 98,960; a margin is a share of revenue, not of cost.
 
 **7.** Expenses = 30% − 12% = 18% of revenue [1]; revenue = 23,400 / 0.18 = **130,000** [1]. Gross profit = **39,000** [1]. Profit = **15,600** [1]. Markup = 30 / 70 = **42.86%** [1]. **[5]**
 *Examiner insight:* Check that gross profit − expenses = profit (39,000 − 23,400 = 15,600) before moving on.
@@ -117,9 +117,9 @@ Both opening balances correct [1]; bank and returns credited [1]; contra and irr
 *Examiner insight:* A loss means proceeds were below carrying amount, so subtract; adding the loss is a common sign error.
 
 **9. (a)** Assets 21,000 + 2,400 + 1,800 + 3,150 = 28,350 [1]; less 2,050 + 160 = opening capital **26,140** [1].
-**(b)** Credit sales = 22,700 + 2,100 − 1,800 = 23,000; revenue = 23,000 + 61,300 = **84,300** [1] [1]. Purchases = 31,900 + 2,460 − 2,050 = **32,310** [1].
-**(c)** Cost of sales = 2,400 + 32,310 − 2,750 = 31,960; gross profit = **52,340** [1]. Electricity 2,280 + 240 − 160 = 2,360 [1]; rent 7,200 − 600 = 6,600 [1]; depreciation 3,000 [1]. Expenses with wages 18,400 = 30,360; profit = **21,980** [1].
-**(d)** Bank = 3,150 + 22,700 + 61,300 − 31,900 − 18,400 − 2,280 − 7,200 − 14,000 = **13,370** [1]. Non-current assets 18,000; current assets 2,750 + 2,100 + 600 + 13,370 = 18,820 [1]; less current liabilities 2,460 + 240 = 2,700; net assets 18,000 + 18,820 − 2,700 = **34,120** [1]. Capital 26,140 + 21,980 − 14,000 = **34,120** [1]. **[14]**
+**(b)** Credit sales = 22,700 + 2,100 − 1,800 = 23,000 [1]; cash sales = 61,300 + 18,400 = 79,700, so revenue = **102,700** [1]. Purchases = 31,900 + 2,460 − 2,050 = **32,310** [1].
+**(c)** Cost of sales = 2,400 + 32,310 − 2,750 = 31,960; gross profit = **70,740** [1]. Electricity 2,280 + 240 − 160 = 2,360 [1]; rent 7,200 − 600 = 6,600 [1]; depreciation 3,000 [1]. Expenses with wages 18,400 = 30,360; profit = **40,380** [1].
+**(d)** Bank = 3,150 + 22,700 + 61,300 − 31,900 − 2,280 − 7,200 − 14,000 = **31,770** [1]. Non-current assets 18,000; current assets 2,750 + 2,100 + 600 + 31,770 = 37,220 [1]; less current liabilities 2,460 + 240 = 2,700; net assets 18,000 + 37,220 − 2,700 = **52,520** [1]. Capital 26,140 + 40,380 − 14,000 = **52,520** [1]. **[14]**
 *Examiner insight:* If your statement does not balance, recheck the prepayment and accruals first; they are easy to put on the wrong side.
 
 **10.** Single entry suits his current cash-only stalls: it is cheap and quick [1]. With credit customers he needs a receivables record to chase debts and spot irrecoverable debts [1]. Double entry gives a trial balance, an arithmetic check that a notebook lacks [1]. A lender will want a reliable income statement and statement of financial position [1]. Ratios such as markup and inventory turnover help him price and control inventory in the shop [1]. Against this, double entry costs time, skill or software fees [1], and the trial balance still misses some errors [1]. Judgement: the expansion makes double entry, probably through software, worth its cost [1]. **[8]**

@@ -131,7 +131,7 @@ Test yourself with the [practice questions](/resources/oxfordaqa-a-level-compute
 
 **Why layers:** each layer is independent, so one can change without the others; complex problem divided up; standard interfaces let different makers' products work together.
 
-**Socket** = IP address + port number. **MAC address** = unique hardware address of a network interface, used inside the local network and replaced at each hop.
+**Socket** = IP address + port number. **MAC address** = unique hardware address of a network interface, used inside the local network; the frame's MAC addresses are replaced at each hop.
 
 | Protocol | What it does |
 |---|---|

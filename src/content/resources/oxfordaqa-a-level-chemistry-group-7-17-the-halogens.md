@@ -112,12 +112,12 @@ solution.
 
 Colours in water can be faint, so shake the mixture with a non-polar solvent such as cyclohexane. The
 halogen moves into the upper organic layer: iodine is violet there (brown in water), and bromine gives an
-orange to red-brown layer.
+orange layer.
 
 ### Worked example 3: naming an unknown halide
 
 *A colourless solution contains one sodium halide, Y. A student adds chlorine water to one portion, then
-cyclohexane, and shakes: the organic layer turns orange to red-brown. With bromine water and cyclohexane,
+cyclohexane, and shakes: the organic layer turns orange. With bromine water and cyclohexane,
 the organic layer just shows the colour of the bromine added, and no new halogen appears. Identify Y and
 write the ionic equation.*
 

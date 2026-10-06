@@ -92,12 +92,12 @@ TiCl₄ + 2Mg → Ti + 2MgCl₂
 Ti: +4 → 0 (reduced)      Mg: 0 → +2 (oxidised, so Mg is the reducing agent)
 ```
 
-**Worked reminder.** Mass of Mg needed for 1.899 kg of TiCl₄ (Mr 189.9; Aᵣ Mg = 24.3):
+**Worked reminder.** Mass of TiCl₄ that reacts with 1.215 kg of Mg (Mr TiCl₄ 189.9; Aᵣ Mg = 24.3):
 
 ```
-n(TiCl₄) = 1899 ÷ 189.9 = 10.0 mol
-n(Mg)    = 2 × 10.0     = 20.0 mol
-mass Mg  = 20.0 × 24.3  = 486 g
+n(Mg)       = 1215 ÷ 24.3    = 50.0 mol
+n(TiCl₄)    = 50.0 ÷ 2       = 25.0 mol
+mass TiCl₄  = 25.0 × 189.9   = 4748 g = 4.75 kg
 ```
 
 ## 5. Solubility trends
@@ -144,12 +144,12 @@ CaO and CaCO₃ both react 1 : 1 with SO₂; only the carbonate route releases C
 | Why acidify? | to remove CO₃²⁻ (as CO₂), which would otherwise give white BaCO₃ |
 | Why not H₂SO₄? | it adds SO₄²⁻, so every sample would test positive |
 
-**Worked reminder.** Excess acidified BaCl₂ is added to 20.0 cm³ of 0.0450 mol dm⁻³ Na₂SO₄
+**Worked reminder.** Excess acidified BaCl₂ is added to 15.0 cm³ of 0.0620 mol dm⁻³ Na₂SO₄
 (Mr BaSO₄ = 233.4):
 
 ```
-n(SO₄²⁻)   = 0.0200 × 0.0450  = 9.00 × 10⁻⁴ mol
-mass BaSO₄ = 9.00 × 10⁻⁴ × 233.4 = 0.210 g
+n(SO₄²⁻)   = 0.0150 × 0.0620  = 9.30 × 10⁻⁴ mol
+mass BaSO₄ = 9.30 × 10⁻⁴ × 233.4 = 0.217 g
 ```
 
 ## 8. Required practical 3: Group 2 cations
@@ -190,8 +190,8 @@ Compare solutions of similar concentration.
 5. Write an equation for calcium reacting with water.
 6. Calculate the amount of hydrogen, in mol, from 2.746 g of barium with excess water. (Aᵣ Ba = 137.3)
 7. Which Group 2 hydroxide does the specification call sparingly soluble?
-8. Calculate the amount of HCl neutralised by 0.583 g of Mg(OH)₂. (Mr 58.3)
-9. Calculate the mass of CaO, in kg, that removes 3.205 kg of SO₂. (Mr SO₂ = 64.1, CaO = 56.1)
+8. Calculate the mass of Ca(OH)₂ that neutralises 0.300 mol of H⁺ in acidic soil. (Mr 74.1)
+9. Calculate the mass of SO₂, in kg, removed by 1.683 kg of CaO. (Mr SO₂ = 64.1, CaO = 56.1)
 10. Give the oxidation state change of titanium in its extraction.
 11. Why is barium chloride solution acidified in the sulfate test?
 12. A solution gives a white precipitate with dilute H₂SO₄ but none with NaOH(aq). Which Group 2 ion is
@@ -206,8 +206,8 @@ Compare solutions of similar concentration.
 5. Ca + 2H₂O → Ca(OH)₂ + H₂
 6. n(Ba) = 2.746 ÷ 137.3 = 0.0200 mol, so **0.0200 mol** of H₂.
 7. Magnesium hydroxide, Mg(OH)₂.
-8. n(Mg(OH)₂) = 0.583 ÷ 58.3 = 0.0100 mol; n(HCl) = 2 × 0.0100 = **0.0200 mol**.
-9. n(SO₂) = 3205 ÷ 64.1 = 50.0 mol = n(CaO); mass = 50.0 × 56.1 = 2805 g = **2.81 kg**.
+8. n(Ca(OH)₂) = 0.300 ÷ 2 = 0.150 mol; mass = 0.150 × 74.1 = **11.1 g**.
+9. n(CaO) = 1683 ÷ 56.1 = 30.0 mol = n(SO₂); mass = 30.0 × 64.1 = 1923 g = **1.92 kg**.
 10. +4 to 0.
 11. To remove carbonate ions, which would also give a white precipitate with barium ions.
 12. Ba²⁺.

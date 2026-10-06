@@ -131,6 +131,8 @@ Practise: [practice questions](/resources/oxfordaqa-a-level-business-types-of-st
 
 **Protectionism.** Tariff = tax on imports. Quota = limit on import quantity.
 
+**Economic data in a target market.** Inflation raises local wages, rents and prices: at 5% inflation a monthly wage bill of 40,000 local units becomes 42,000. High unemployment weakens spending but eases recruitment. High interest rates make local borrowing dear and cut spending by customers who buy on credit.
+
 **Entry methods ranked by control, cost and risk:** export (lowest) → licensing/franchising → joint venture → FDI (highest).
 
 **Method in steps: comparing two international markets**

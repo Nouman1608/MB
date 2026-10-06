@@ -83,7 +83,7 @@ gases. The limestone is 95.0% CaCO₃ by mass.
 **(a)** Write an equation for the reaction of calcium carbonate with sulfur dioxide. **[1]**
 **(b)** Calculate the mass of SO₂ removed per day, in tonnes. **[3]**
 **(c)** Calculate the mass of carbon dioxide released per day, in tonnes. **[1]**
-**(d)** Suggest one reason for using calcium oxide instead of limestone. **[1]**
+**(d)** Suggest why the limestone is used as a powder rather than as lumps. **[1]**
 
 **9.** A solution contains both sodium carbonate and sodium sulfate.
 
@@ -162,7 +162,7 @@ hydroxide leaves the comparison unfinished.
 **(b)** Mass of CaCO₃ = 0.950 × 6.00 = 5.70 tonnes [1]. n(CaCO₃) = 5.70 × 10⁶ ÷ 100.1 = 5.694 × 10⁴ mol =
 n(SO₂) [1]. Mass of SO₂ = 5.694 × 10⁴ × 64.1 = 3.65 × 10⁶ g = **3.65 tonnes** [1].
 **(c)** n(CO₂) = 5.694 × 10⁴ mol; mass = 5.694 × 10⁴ × 44.0 = **2.51 tonnes** [1].
-**(d)** Calcium oxide does not release carbon dioxide, a greenhouse gas [1]. **[6]**
+**(d)** Larger surface area, so SO₂ reacts faster [1]. **[6]**
 *Examiner insight:* Apply the 95.0% before converting to moles; using the full 6.00 tonnes overstates
 every answer.
 

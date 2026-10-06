@@ -101,6 +101,8 @@ foldl f z [a, b, c]  =  f (f (f z a) b) c      running value on the LEFT
 foldr f z [a, b, c]  =  f a (f b (f c z))      list item on the LEFT
 ```
 
+The specification describes `foldr` as starting with the rightmost item and working backward. In the Haskell grouping above, the rightmost item meets the start value first (`f c z` is innermost) and the result works back to the head.
+
 For subtraction:
 
 ```
@@ -211,7 +213,7 @@ Called with `[40, 2, 7]`, x is 40 and xs is [2, 7] on the first call. The result
 - Calling a function higher-order just because it is recursive. It must take or return a function.
 - Writing `fact n - 1` instead of `fact (n - 1)` in a recursive case.
 - A recursive case placed above the base case, so the base case never matches.
-- Expanding `foldr (-)` as if it were `foldl`, or putting the running value on the wrong side.
+- Expanding `foldr (-)` as if it were `foldl`, or putting the start value on the wrong side.
 - Writing `tail [5, 2]` as 2 rather than [2].
 - Using `++` with a bare element, such as `xs ++ 9`.
 - Giving the trace result but no working when the question asks you to show how it is evaluated.

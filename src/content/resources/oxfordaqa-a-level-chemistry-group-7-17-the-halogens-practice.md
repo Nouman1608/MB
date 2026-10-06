@@ -85,17 +85,20 @@ silver nitrate solution is added in excess. Excess dilute ammonia solution is th
 chloride ions. **[2]**
 **(b)** Calculate the mass of precipitate formed. **[2]**
 
-**8.** Chlorine dissolves in water.
+**8.** A student claims that chlorine is simply reduced when it dissolves in water.
 
-**(a)** Give the equation for chlorine reacting with water to give chloride ions and chlorate(I) ions. **[1]**
-**(b)** For both chlorine-containing products, state chlorine's oxidation state. Name this type of
-reaction. **[2]**
+**(a)** Write an equation for the reversible reaction of chlorine with water that forms chloride ions and
+chlorate(I) ions. **[1]**
+**(b)** Use the oxidation states of chlorine in the products to show that the student is wrong, and name
+this type of reaction. **[2]**
 **(c)** In sunlight the reaction is 2Cl₂ + 2H₂O → 4H⁺ + 4Cl⁻ + O₂. Use oxidation states to explain why this
 is not the same type of reaction as in (b). **[2]**
 
-**9.** A works absorbs 1.50 kg of chlorine in excess cold, dilute sodium hydroxide.
+**9.** A works absorbs 1.50 kg of chlorine in excess cold, dilute sodium hydroxide, making 40.0 dm³ of
+solution.
 
-**(a)** Calculate the maximum mass of sodium chlorate(I), NaClO, formed, in kg. **[2]**
+**(a)** Calculate the maximum concentration of sodium chlorate(I), NaClO, in this solution, in
+mol dm⁻³. **[2]**
 **(b)** State one use of the solution produced. **[1]**
 
 **10.** A town council is deciding whether to chlorinate a new drinking-water supply.
@@ -166,16 +169,17 @@ volume = 1.80 × 10⁻³ ÷ 0.120 = 0.0150 dm³ = **15.0 cm³** [1]
 *Examiner insight:* Each MgCl₂ supplies two chloride ions; a 1 : 1 ratio halves both answers.
 
 **8. (a)** **Cl₂ + H₂O ⇌ HClO + HCl** (or Cl₂ + H₂O ⇌ 2H⁺ + ClO⁻ + Cl⁻) [1]
-**(b)** ClO⁻ (HClO) +1 and Cl⁻ (HCl) −1 [1]; **disproportionation** [1]
+**(b)** Cl⁻ (HCl) −1 but ClO⁻ (HClO) +1, so chlorine is oxidised as well as reduced [1];
+**disproportionation** [1]
 **(c)** Chlorine only goes from 0 to −1, so it is only reduced [1]; oxygen goes from −2 to 0 and is
 oxidised, so two different elements change oxidation state [1]. **[5]**
 *Examiner insight:* "Redox" on its own does not name the reaction in (b); the specific term
 disproportionation is what gains the mark.
 
-**9. (a)** n(Cl₂) = 1500 ÷ 71.0 = 21.1 mol = n(NaClO) [1];
-mass = 21.13 × 74.5 = 1574 g = **1.57 kg** [1]
+**9. (a)** n(Cl₂) = 1500 ÷ 71.0 = 21.13 mol = n(NaClO) [1];
+concentration = 21.13 ÷ 40.0 = **0.528 mol dm⁻³** [1]
 **(b)** **Bleach** (or a disinfectant for cleaning) [1] **[3]**
-*Examiner insight:* Give the final answer in the unit asked for (kg here), not in grams.
+*Examiner insight:* Convert 1.50 kg to grams before dividing by 71.0.
 
 **10. (a)** To kill bacteria (and so prevent water-borne disease) [1]
 **(b)** Chlorine is toxic [1]; with organic matter in water it forms chlorinated organic compounds that
@@ -210,10 +214,7 @@ credit, because the question asks you to rule out the other halides.
 ## Where marks are usually lost
 
 - Explaining electronegativity with nuclear charge instead of distance and shielding.
-- Saying that halogen molecules split into atoms when they boil.
 - Leaving NaHSO₄ out of an equation that starts from the solid sodium halide.
-- Describing a precipitate's colour but not saying dilute or concentrated ammonia.
-- Treating MgCl₂ as if it gives one chloride ion.
 - Calling every chlorine reaction disproportionation, including the sunlight one.
 - Giving a test with no result, or a result with no reagent, in Required practical 3 questions.
 

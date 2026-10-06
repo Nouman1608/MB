@@ -58,20 +58,20 @@ Appraisal works with **cash**, not profit. The test for every item is simple: wi
 
 **Timing conventions.** "Year 0" means today. In net present value work, each later year's cash is treated as arriving on the last day of that year. In payback work, cash is treated as arriving evenly across each year, which is what lets you express part of a year in months.
 
-### Worked example 1: Wexcombe Laundry's cash flows
+### Worked example 1: Wexcombe Cider's cash flows
 
-Wexcombe Laundry, which washes hotel linen, is thinking of buying a tunnel washer for 210,000, with 14,000 of installation work, both paid now. Its two old washers would be sold today for 8,000. The tunnel washer would last five years and then be sold for 18,000. The manager has also supplied these items:
+Wexcombe Cider, which supplies cider to local pubs, is thinking of buying a canning line for 210,000, with 14,000 of installation work, both paid now. Its two old bottle fillers would be sold today for 8,000. The canning line would last five years and then be sold for 18,000. The manager has also supplied these items:
 
 - depreciation of 41,200 a year on the straight-line basis;
 - a 2,400 fee paid last month to an engineer who checked the floor could take the weight;
-- 6,000 a year of existing head-office costs to be charged to the washer;
+- 6,000 a year of existing head-office costs to be charged to the canning line;
 - interest of 9,000 a year on a bank loan that would fund the purchase.
 
 None of these four items belongs in the appraisal.
 
 **Year 0:** 210,000 + 14,000 − 8,000 = **(216,000)**. Brackets mean cash out.
 
-| Year | Extra receipts | Extra payments | Sale of washer | Net cash flow |
+| Year | Extra receipts | Extra payments | Sale of line | Net cash flow |
 |---|---|---|---|---|
 | 1 | 118,000 | 68,000 | | 50,000 |
 | 2 | 134,000 | 75,000 | | 59,000 |
@@ -125,7 +125,7 @@ Money due in future is worth less than the same sum today: cash in hand can earn
 | 5 | 72,000 | 0.519 | 37,368 |
 | | | **NPV** | **(5,031)** |
 
-The present values of the inflows total 210,969, which is 5,031 short of the outlay. Undiscounted, the washer returns 314,000 for 216,000 and pays back inside its life, yet it earns less than 14% a year. On financial grounds Wexcombe should not buy it at this cost of capital. This is the gap that NPV exposes and payback cannot.
+The present values of the inflows total 210,969, which is 5,031 short of the outlay. Undiscounted, the canning line returns 314,000 for 216,000 and pays back inside its life, yet it earns less than 14% a year. On financial grounds Wexcombe should not buy it at this cost of capital. This is the gap that NPV exposes and payback cannot.
 
 ## 4. Benefits and limitations of each method
 

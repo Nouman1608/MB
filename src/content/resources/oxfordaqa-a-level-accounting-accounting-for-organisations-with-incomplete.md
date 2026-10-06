@@ -48,32 +48,33 @@ All businesses and figures here are invented. The specification says question pa
 | How accounting techniques are applied in the preparation and analysis of financial statements for a business with incomplete records | Recover missing figures using: control/total accounts; cash and bank accounts; four ratios (gross profit margin, mark up, profit in relation to revenue, inventory turnover); depreciation of non-current assets; profit or loss on disposal of non-current assets; and the financial statements |
 | The benefits and limitations of maintaining accounting records using different systems including single and double entry records | Compare single entry with double entry and judge which suits a given business |
 
+
 ## Single entry and incomplete records
 
-Under **double entry**, every transaction is recorded twice, so ledger balances feed a trial balance and then
-the financial statements. Many small traders keep far less: a bank statement, a box of invoices, perhaps a
-note of takings. This is **single entry** (or incomplete) record keeping. Your task is to rebuild what is
-missing using the logic of double entry, even though the owner never used it.
-
-How much you can rebuild depends on what survives:
-
-- **Almost nothing** beyond lists of assets and liabilities: profit is found from the change in capital.
-- **Bank and cash records plus opening and closing balances**: each income and expense figure can be
-  rebuilt, so a full income statement and statement of financial position can be prepared.
+Under **double entry** each transaction is posted to two accounts, giving a trial balance and then the
+financial statements. Many owners keep only a cheque book, a folder of invoices and a diary of takings:
+**single entry** or **incomplete records**. The accountant applies double entry logic after the event.
+With only asset and debt lists at two dates, you can find one profit figure from the movement in capital.
+With bank statements, cash notes and balances at both dates, you can rebuild every income and expense
+figure and prepare full statements.
 
 ## Profit from statements of affairs
 
-A **statement of affairs** sets out everything the business owns and owes on one particular day, with capital as
-the difference. It looks like a statement of financial position, but its figures come from counts, valuations
-and documents rather than ledger balances.
+A **statement of affairs** sets out what the business owns and owes at one date, valued from counts,
+invoices and estimates rather than taken from a ledger. Capital is whatever is left over:
 
 ```
 Capital = Assets - Liabilities
-Profit  = Closing capital - Opening capital + Drawings - Capital introduced
 ```
 
-Why adjust? Drawings reduced capital but were never an expense, so they go back in. Money the owner
-paid in raised capital without being earned, so it comes out. Drawings include goods taken for own use.
+Capital moved during the year because of profit and the owner's own movements of money. Strip those out
+and what remains is profit:
+
+```
+Profit = Closing capital - Opening capital + Drawings - Capital introduced
+```
+
+Drawings include cash, private cheques and goods taken from the shelves.
 
 ### Worked example 1: Tobiah Grinstead, bicycle repairs
 
@@ -105,29 +106,28 @@ Less capital introduced                    = (3,000)
 Profit for the year                          11,590
 ```
 
-The overdraft is a **liability**, not a negative asset. Capital fell, yet profit was **11,590**, because
-drawings were larger than profit plus the money paid in. The method gives one figure only: no revenue,
-no gross profit, no expense detail.
+Capital is 3,850 lower than a year ago, but Tobiah removed 18,440 and put in 3,000, so the business
+earned **11,590**. The overdraft sits with the liabilities, and the relative's loan is a liability, not
+capital introduced. This method yields profit only: no revenue, expense or ratio figures.
 
 ## Control/total accounts, cash accounts and bank accounts
 
-When bank and cash records exist, rebuild each account in outline. The **missing figure is the balancing figure**.
-
-- Trade receivables total account finds **credit sales**.
-- Trade payables total account finds **credit purchases**.
-- Cash account finds **cash sales** (or cash drawings) when takings were spent before banking.
-- Bank account finds a missing **balance** or payment.
-
-Control account items from AS, such as contra entries and interest charged on overdue accounts, can appear.
+Each missing figure sits in an account you can rebuild in outline: credit sales in the trade receivables
+total account, credit purchases in the trade payables total account, takings spent before banking in the
+cash account, and an unrecorded payment or unknown balance in the bank account. The figure that makes the
+two sides agree is the answer.
 
 ### Worked example 2: Lumenara Textiles, year ended 31 March 2026
 
-Trade receivables 5,240 at the start and 6,010 at the end. Received from credit customers by bank 63,870;
-contra with a supplier 1,150; irrecoverable debts 480; interest charged on overdue accounts 90.
-Trade payables 7,330 at the start and 6,980 at the end; paid by bank 48,620; discounts received 540.
-Cash in hand 180 at the start, 210 at the end. Out of takings the owner paid wages 6,240,
-cleaning 610 and drawings 9,100, and banked 21,400. Bank at the start 3,410; rent paid 8,400;
-a sewing machine bought for 4,950.
+What survives:
+
+- **Customers**: owed 5,240 at the start and 6,010 at the end. Debts of 480 were written off, 90 interest
+  was charged on overdue accounts, and 1,150 owed by a customer who also supplies Lumenara was set off
+  against the amount Lumenara owed that supplier.
+- **Suppliers**: owed 7,330 at the start and 6,980 at the end; discounts received 540.
+- **Bank statements**: opening 3,410, closing 17,610. Receipts: credit customers 63,870; takings paid in
+  21,400. Payments: suppliers 48,620; rent 8,400; a sewing machine 4,950; private cheques to the owner (stubs lost).
+- **Cash box**: 180 at the start and 210 at the end. Wages 6,240 and cleaning 610 were paid from takings before banking.
 
 ```
              Trade receivables total account
@@ -146,40 +146,42 @@ Balance c/d          6,980
 
                       Cash account
 Balance b/d            180   Bank                   21,400
-Cash sales (bal)    37,380   Wages                   6,240
+Cash sales (bal)    28,280   Wages                   6,240
                              Cleaning                  610
-                             Drawings                9,100
                              Balance c/d               210
-                    37,560                          37,560
+                    28,460                          28,460
 
                       Bank account
 Balance b/d          3,410   Trade payables         48,620
 Trade receivables   63,870   Rent                    8,400
 Cash                21,400   Sewing machine          4,950
-                             Balance c/d (bal)      26,710
+                             Drawings (bal)          9,100
+                             Balance c/d            17,610
                     88,680                          88,680
 ```
 
-Revenue = 66,180 + 37,380 = **103,560**. Purchases = **49,960**. Closing bank = **26,710**. The contra
-appears in **both** total accounts. Interest charged increases what customers owe, so it is a debit in the receivables account.
+Revenue = 66,180 + 28,280 = **94,460**; purchases = **49,960**; drawings = **9,100** (the statement gave
+the closing balance, so the bank account balanced on the missing payment). The contra appears in **both**
+total accounts; interest charged is a receivables debit because it adds to what customers owe.
 
 ## Ratios as a source of missing figures
 
-The ratios named in 3.2.4 come from section 3.1.8. The specification refers you to the OxfordAQA guide
-"Formulae for accounting ratios" for the formulae; the usual forms are:
+The ratios named in 3.2.4 are defined in section 3.1.8, which refers to the OxfordAQA guide "Formulae for
+accounting ratios". That guide gives:
 
 | Ratio | Formula |
 |---|---|
-| Markup % | 100 × Gross profit / Cost of sales |
-| Gross profit margin % | 100 × Gross profit / Revenue |
-| Rate of inventory turnover (number of times) | Cost of sales / Average inventory |
-| Rate of inventory turnover (days) | 365 × Average inventory / Cost of sales |
-| Profit in relation to revenue % | 100 × Profit for the year / Revenue |
+| Gross profit margin % | Gross profit / Revenue × 100 |
+| Markup % | Gross profit / Cost of sales × 100 |
+| Profit in relation to revenue % | Profit for year / Revenue × 100 |
+| Rate of inventory turnover (days) | Average inventory / Cost of sales × 365 |
 
-Average inventory = (opening + closing) / 2. Markup is on **cost**; margin is on **selling price**:
+Average inventory is normally the average of the opening and closing inventories. Turnover as a number of
+times is the same comparison inverted: cost of sales / average inventory. Markup is measured against
+**cost**, margin against **selling price**:
 
 ```
-margin = markup / (100 + markup)       markup = margin / (100 - margin)
+margin % = 100 x markup / (100 + markup)     markup % = 100 x margin / (100 - margin)
 ```
 
 ### Worked example 3: a cash shortfall at Pelham Rise Gifts
@@ -195,79 +197,92 @@ Takings accounted = 59,880 + 1,200             = 61,080
 Shortfall                                      =  1,920
 ```
 
-The likely cash missing is **1,920**. Multiply cost of sales by 1.40; don't take 40% of anything. The
-equivalent margin is 40/140 = 28.57%.
+The likely cash missing is **1,920**. Multiply cost of sales by 1.40; the equivalent margin is 40/140 = 28.57%.
 
 ### Worked example 4: using the financial statements (Quillfeather Stationers)
 
-Revenue 216,000; gross profit margin 37.5%; rate of inventory turnover 36.5 days; opening inventory
-12,100; profit in relation to revenue 12%. Lay out the income statement and fill each blank in turn.
+Inventory sheets are lost. Known: opening inventory 12,100; purchases 137,800; rate of
+inventory turnover 36.5 days; markup 60%; total expenses 55,080. Find closing inventory, revenue and
+profit in relation to revenue.
 
 ```
-Gross profit       = 216,000 x 37.5%             =  81,000
-Cost of sales      = 216,000 - 81,000            = 135,000
-Average inventory  = 135,000 x 36.5 / 365        =  13,500
-Closing inventory  = (2 x 13,500) - 12,100       =  14,900
-Purchases          = 135,000 + 14,900 - 12,100   = 137,800
-Profit for the year = 216,000 x 12%              =  25,920
-Total expenses     = 81,000 - 25,920             =  55,080
+36.5 days means average inventory = cost of sales x 36.5/365 = cost of sales / 10
+Let closing inventory = C
+Cost of sales       = 12,100 + 137,800 - C        = 149,900 - C
+Average inventory   = (12,100 + C) / 2
+(12,100 + C) / 2    = (149,900 - C) / 10
+60,500 + 5C         = 149,900 - C,  so  C        =  14,900
+Cost of sales       = 149,900 - 14,900           = 135,000
+Revenue             = 135,000 x 160/100          = 216,000
+Gross profit        = 216,000 - 135,000          =  81,000
+Profit for the year = 81,000 - 55,080            =  25,920
+Profit in relation to revenue = 25,920 / 216,000 x 100 = 12.00%
 ```
 
-Check: markup = 81,000 / 135,000 = 60%, and 60 / 160 = 37.5%, so the two ratios agree.
+Check: gross profit margin = 81,000 / 216,000 = 37.5%, and 60 / 160 = 37.5%, so the ratios agree.
 
 ## Depreciation and disposal of non-current assets
 
-A missing cost, depreciation charge or sale proceeds can be found from the asset accounts.
+### Worked example 5: Thornacre Landscaping's vehicles
 
-### Worked example 5: Thornacre Couriers' vans
-
-At 1 January 2025 vans cost 64,000 with accumulated depreciation 22,550. Policy: 25% reducing balance
-on vans held at the year end, a full year's charge when a van is bought and nothing when it is sold. A van
-bought for 20,000 two years earlier was sold for 10,600. Vans at cost on 31 December 2025 were 72,000.
+At 1 January 2025 vehicles cost 64,000, with accumulated depreciation of 22,550. Policy: 20% reducing
+balance on vehicles held at the year end, a full year's charge in the year of purchase and none in the year
+of sale. The bank statements show 12,150 received for a truck bought two years earlier for 20,000, and
+28,000 paid for its replacement. Find the result on disposal, the 2025 charge and the closing carrying amount.
 
 ```
-Depreciation on van sold = 5,000 + 3,750        =  8,750
-Carrying amount at sale  = 20,000 - 8,750       = 11,250
-Loss on disposal         = 11,250 - 10,600      =    650
+Depreciation on truck sold = 4,000 + 3,200              =  7,200
+Carrying amount at sale    = 20,000 - 7,200             = 12,800
+Loss on disposal           = 12,800 - 12,150            =    650
 
-Cost of new van        = 72,000 - (64,000 - 20,000) = 28,000
-Accumulated dep. left  = 22,550 - 8,750             = 13,800
-Depreciation for 2025  = (72,000 - 13,800) x 25%    = 14,550
+Vehicles at cost, 31 Dec   = 64,000 - 20,000 + 28,000   = 72,000
+Accumulated dep. remaining = 22,550 - 7,200             = 15,350
+Depreciation for 2025      = (72,000 - 15,350) x 20%    = 11,330
+Closing carrying amount    = 72,000 - (15,350 + 11,330) = 45,320
 ```
 
-Carrying amount check: 41,450 − 11,250 + 28,000 − 14,550 = **43,650** = 72,000 − (13,800 + 14,550).
-The 650 loss is an expense in the income statement; the 28,000 and 10,600 also appear in the bank account.
+The 650 loss is an income statement expense. Had the closing cost been known and the replacement price
+lost, the replacement would be the balancing figure.
 
 ## Building a complete set of statements
 
-1. Draw up the opening statement of affairs to get **opening capital**.
-2. Bank and cash accounts: find any missing receipt, payment or balance.
-3. Total accounts give **credit sales** and **credit purchases**; revenue and purchases also include any cash transactions.
-4. Adjust expenses for other payables and other receivables at both dates (expense = paid + closing accrual − opening accrual).
-5. Depreciation and any profit or loss on disposal.
-6. Income statement, then statement of financial position, where capital at the end = capital at the start + capital introduced + profit − drawings.
+A full reconstruction is a chain in which each result feeds the next:
 
-A statement that balances tells you the reconstructed figures hang together. Practice question 9 works through a full set.
+```
+opening statement of affairs        -> capital at the start
+bank and cash summaries             -> missing receipts, payments and balances
+total accounts                      -> credit sales and credit purchases (add cash items)
+amounts owing / prepaid, both dates -> each expense for the year
+asset accounts                      -> depreciation and profit or loss on disposal
+income statement                    -> profit for the year
+statement of financial position     -> closing capital = opening capital
+                                       + capital introduced + profit - drawings
+```
+
+A balancing statement of financial position confirms the figures. Practice question 9 works a full set.
 
 ## Single entry and double entry compared
 
-| | Single entry | Double entry |
+| Consideration | Single entry | Double entry |
 |---|---|---|
-| Benefits | Cheap, quick and needs little skill; can be enough for a small cash-based business | The trial balance checks the arithmetic; complete financial statements every period; tight control of receivables, payables and inventory; ratio analysis possible |
-| Limitations | No trial balance, so errors and fraud can go unnoticed; profit may only be known as a total; weak evidence for a lender or tax authority; accountant's fees to reconstruct each year | Needs time, skill and often software; costs more; some errors (such as compensating errors or errors of omission) still pass the trial balance |
+| Cost and skill | Little time, no training, no software | Bookkeeping time, skill and often software fees |
+| Accuracy check | None; a slip in the cash book stays hidden | Trial balance exposes many errors, though omissions and compensating errors still pass |
+| Information | Profit perhaps only as one total, rebuilt by an accountant for a fee | Income statement and statement of financial position every period; ratios available |
+| Credit control | Hard to see who owes what | An account for each customer and supplier |
+| Theft and fraud | Missing cash or inventory is hard to detect | Totals and reconciliations show gaps sooner |
+| Evidence for lenders | Weak | Reliable statements support a loan application |
 
-Judge the system against the business: a cash-only stall with few assets may manage with single entry;
-a trader with credit customers, staff and a loan needs reliable records.
+Test each point against the business in the question, then reach a decision.
 
 ## Common errors
 
-- Forgetting goods taken for own use when totalling drawings.
-- Showing a bank overdraft as a negative asset in a statement of affairs instead of a liability.
-- Recording a contra in only one total account.
-- Taking the markup percentage of revenue instead of dividing revenue by (100 + markup)/100.
-- Using closing inventory where the ratio needs average inventory.
-- Ignoring takings spent before banking, which understates cash sales.
-- Giving a van a depreciation charge in the year it leaves the business, against the stated policy.
+- Leaving goods taken for own use out of drawings.
+- Listing a bank overdraft, or a loan from a relative, anywhere other than liabilities.
+- Posting a contra to one total account only, or interest charged as a credit to receivables.
+- Mixing up turnover in days with turnover in times.
+- Taking the markup percentage of revenue, which treats it as a margin.
+- Balancing the bank account on the closing balance when the statement already gives it.
+- Charging depreciation on an asset in its year of sale, against the stated policy.
 
 ## Official syllabus
 
