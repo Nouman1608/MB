@@ -105,7 +105,7 @@ cis-but-2-ene(g) ⇌ trans-but-2-ene(g)     Kp = 1.50 at temperature T
 *Examiner insight:* "Evaluate" needs a judgement as well as reasons; agreeing that "more product per second" means a higher yield gains nothing.
 
 **7.** The position of equilibrium moves to the left [1], because raising the temperature favours the endothermic direction, which is the reverse reaction [1]. The value of Kp decreases [1]. **[3]**
-*Examiner insight:* the explanation mark needs the word endothermic (or "reverse reaction absorbs heat"), not just "to oppose the change".
+*Examiner insight:* name the endothermic direction (or say the reverse reaction absorbs heat); "to oppose the change" on its own does not explain which way the equilibrium moves.
 
 **8. (a)** There is 1 mole of gas on each side, so the pressure units cancel [1].
 **(b)** Let y mol of cis convert: Kp = y ÷ (0.800 − y) = 1.50 [1]. y = 1.20 − 1.50y, so y = 0.480 [1]. Equilibrium: **0.480 mol trans** and **0.320 mol cis** [1].
