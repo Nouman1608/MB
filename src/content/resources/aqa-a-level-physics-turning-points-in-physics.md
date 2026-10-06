@@ -81,7 +81,7 @@ e/m = 2 × 250 / ((0.90 × 10⁻³)² × 0.059²) = 1.77 × 10¹¹ C kg⁻¹
 
 (Thomson used crossed fields: no deflection when eE = Bev, so v = E/B.)
 
-**Significance.** Thomson got the same e/m whatever gas or cathode he used, so the particles are in all matter. His value (about 1.76 × 10¹¹ C kg⁻¹) is roughly 1800 times the specific charge of the hydrogen ion (about 9.6 × 10⁷ C kg⁻¹). For equal charge, the electron's mass is far smaller than the lightest ion's: it is sub-atomic.
+**Significance.** Thomson got the same e/m whatever gas or cathode he used, so the particles are in all matter. The electron's specific charge (about 1.76 × 10¹¹ C kg⁻¹) is roughly 1800 times the specific charge of the hydrogen ion (about 9.6 × 10⁷ C kg⁻¹). For equal charge, the electron's mass is far smaller than the lightest ion's: it is sub-atomic.
 
 ### Millikan's oil drop experiment
 

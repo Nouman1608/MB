@@ -34,7 +34,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.12 Turning points in physics of the AQA AS and A-level Physics specification (7407/7408, version 1.3, AS and A-level exams June 2016 onwards), sub-sections 3.12.1 to 3.12.3. Turning points is one of the options (sections 3.9 to 3.13); you study one option, assessed in Paper 3 Section B. All of it is A-level only. A calculator is allowed.
+These questions cover section 3.12 Turning points in physics of the AQA AS and A-level Physics specification (7407/7408, version 1.3, AS and A-level exams June 2016 onwards), sub-sections 3.12.1 to 3.12.3. Turning points is one of the options (sections 3.9 to 3.13); you study one option, assessed in Paper 3 Section B. All of it is A-level only.
 
 Review the [study guide](/resources/aqa-a-level-physics-turning-points-in-physics/) and [revision notes](/resources/aqa-a-level-physics-turning-points-in-physics-revision-notes/) first; see also the [course hub](/boards/aqa/a-level/physics/), [checklist](/checklists/aqa/a-level/physics/) and free [diagnostics](/diagnostics/).
 
@@ -152,7 +152,7 @@ Use e = 1.60 × 10⁻¹⁹ C, mₑ = 9.11 × 10⁻³¹ kg, mass of hydrogen ion 
 **(c)** A frame that is not accelerating, in which Newton's first law holds [1].
 **(d)** Earth-frame time = 1800/(0.98 × 3.00 × 10⁸) = 6.12 μs [1]; γ = 5.03, dilated half-life = 7.54 μs [1]; with dilation 1000 × 0.5^(6.12/7.54) = **570** [1]; without, 1000 × 0.5^(6.12/1.5) = **59** [1]
 **(e)** Contracted distance = 1800/5.03 = 358 m, time = 358/(0.98c) = 1.22 μs [1]; 1.22/1.5 = 0.81 half-lives, giving the same **570** [1].
-*Examiner insight:* Pair the proper half-life with muon-frame time, or the dilated half-life with Earth-frame time; mixing frames scores nothing.
+*Examiner insight:* Pair the proper half-life with muon-frame time, or the dilated half-life with Earth-frame time; mixing frames loses the dilation and answer marks.
 
 **12. (a)** m₀c² = 9.11 × 10⁻³¹ × (3.00 × 10⁸)² = 8.20 × 10⁻¹⁴ J [1]; E = 4.80 × 10⁻¹³ + 8.20 × 10⁻¹⁴ = 5.62 × 10⁻¹³ J, γ = 6.85 [1]; v = c√(1 − 1/γ²) = **0.989c = 2.97 × 10⁸ m s⁻¹** [1]
 **(b)** m = γm₀ = **6.24 × 10⁻³⁰ kg** [1]

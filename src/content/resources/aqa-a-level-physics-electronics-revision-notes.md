@@ -130,12 +130,12 @@ Only the inverting amplifier needs a derivation. The specification says the LC, 
 | EOR | exactly one input 1 |
 
 - **Binary counter**: n outputs, 2ⁿ states. **BCD counter**: 0 to 9. **Johnson counter**: n stages, 2n states, one bit changes per pulse.
-- Counter inputs: clock, reset, up/down.
+- Counter inputs: clock (one count per pulse), reset (back to zero), up/down (sets the counting direction). Outputs: one logic line per stage, read together as the count.
 - Astable: larger R or C in the external RC network → longer period, lower clock frequency.
 
 ## 3.13.6 Communication: key facts
 
-- **Block diagram**: know the purpose of each stage (transducers, amplifiers, ADC/DAC, multiplexer, modulator/demodulator, transmitter, receiver).
+- **Block diagram**: know the purpose of each stage. Transducers convert between the signal and electrical form; amplifiers raise signal strength; the ADC/DAC convert between analogue and digital; the multiplexer combines channels on one link and the demultiplexer separates them; the modulator puts the signal onto a carrier and the demodulator recovers it; the transmitter sends the signal along the path; the tuned receiver selects the wanted carrier.
 - **Wire**: cheap, low bandwidth, interference. **Fibre**: high bandwidth, secure, low loss, costly to lay. **Radio/microwave**: no cable; microwaves are line of sight.
 - **Ground wave**: long wavelengths diffract round the Earth. **Sky wave**: refracted and reflected by the ionosphere.
 - **Satellites**: different up-link and down-link frequencies so the receiver is not de-sensed.

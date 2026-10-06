@@ -85,7 +85,7 @@ Revise first with the [Quantities and units study guide](/resources/aqa-a-level-
 **1.** acceleration: **metres per second per second, m s⁻²** [1]
 force: **newton, N** [1]
 moment: **newton metre, N m** [1] **[3]**
-*Examiner insight:* the unit name or the symbol is usually enough, but a wrong power (m s⁻¹ for acceleration) or a missing distance unit for moment (N only) earns nothing for that item.
+*Examiner insight:* in this answer the unit name or the symbol earns the mark, but a wrong power (m s⁻¹ for acceleration) or a missing distance unit for moment (N only) earns nothing for that item.
 
 **2.** 108 × 1000 ÷ 3600, or 108 ÷ 3.6 [1]
 = **30 m s⁻¹** [1] **[2]**
@@ -109,7 +109,7 @@ a = (7.5 − 5) ÷ 4 [1]
 = **15 N m** [1]
 **(b)** F × 0.4 = 15 [1]
 F = **37.5 N** [1] **[4]**
-*Examiner insight:* in (b) follow-through from your (a) is usually allowed, but the answer must be a force in N, not a moment.
+*Examiner insight:* in (b) this scheme allows follow-through from your (a), but the answer must be a force in N, not a moment.
 
 **7. (a)** k = R ÷ v², units N ÷ (m s⁻¹)² = kg m s⁻² ÷ m² s⁻² [1]
 = **kg m⁻¹** [1]

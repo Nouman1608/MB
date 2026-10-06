@@ -69,7 +69,7 @@ Learn the content first with the [study guide](/resources/a-level-cambridge-ict-
 
 **(a)** State the tasks being worked on in week 2. **[1]**
 **(b)** State how long the project is planned to take. **[1]**
-**(c)** At the end of week 5, only one-third of W3 is complete. Explain the effect on the project. **[3]**
+**(c)** W5 cannot start until W3 is finished. At the end of week 5, only one-third of W3 is complete. Explain the effect on the project. **[3]**
 **(d)** Give one disadvantage of a Gantt chart for managing this project. **[1]**
 
 **8.** Describe these components of a PERT chart:

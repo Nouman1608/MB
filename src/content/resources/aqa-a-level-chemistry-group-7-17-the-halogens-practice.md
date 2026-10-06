@@ -109,7 +109,7 @@ bromide. Include observations and equations, and explain the difference in terms
 ## Answers
 
 **1.** **D** [1]. Reducing ability of halide ions increases down the group. **[1]**
-*Examiner insight:* B is a common wrong answer from confusing this trend with the oxidising ability of the halogens, which is greatest for fluorine.
+*Examiner insight:* A is a common wrong answer from confusing this trend with the oxidising ability of the halogens, which is greatest for fluorine.
 
 **2.** Electronegativity **decreases** from F to I [1]. Atomic radius increases and there is more shielding
 from extra inner shells [1]. So the bonding pair of electrons is further from the nucleus and is attracted

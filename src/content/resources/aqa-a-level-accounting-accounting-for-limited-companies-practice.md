@@ -107,7 +107,7 @@ Prepare the statement of cash flows for the year ended 30 June 2026 using the in
 **5. (a)** Carrying amount 250,000 - 40,000 = £210,000 [1]; surplus 300,000 - 210,000 = **£90,000** [1].
 **(b)** Dr Building £50,000 [1]; Dr Provision for depreciation £40,000 [1]; Cr Revaluation reserve £90,000 [1].
 **(c)** 300,000 / 25 = **£12,000** [1]. **[6]**
-*Examiner insight:* Crediting the surplus to the income statement or retained earnings loses the accuracy mark; it belongs in the revaluation reserve.
+*Examiner insight:* Crediting the surplus to the income statement or retained earnings is a common slip; it belongs in the revaluation reserve.
 
 **6.** Tax paid = 17,800 + 21,300 - 21,300 [1] = **£17,800** [1]. Interest charge 7% x 90,000 = £6,300 [1]; interest paid 1,575 + 6,300 - 3,150 = **£4,725** [1]. **[4]**
 *Examiner insight:* Write out opening + charge - closing, so your method is visible even if a figure is misread.
@@ -132,7 +132,7 @@ Prepare the statement of cash flows for the year ended 30 June 2026 using the in
 
 Additions and disposals at cost [1]; closing cost **£152,000** [1]; charge 20% x 152,000 = **£30,400** [1]; depreciation on disposal £15,000 deducted [1]; closing depreciation **£71,400** [1]; opening carrying amount £84,000 [1]; closing carrying amount **£80,600** [1].
 **(b)** Carrying amount 24,000 - 15,000 = £9,000 [1]; loss = 9,000 - 7,200 = **£1,800** [1]. **[9]**
-*Examiner insight:* Allow follow-through: an error in the charge is penalised once, not again in the closing figures.
+*Examiner insight:* Base the charge on the closing cost, after the addition and the disposal; charging 20% on the opening £140,000 gives £28,000 and throws out every closing figure.
 
 **9.**
 

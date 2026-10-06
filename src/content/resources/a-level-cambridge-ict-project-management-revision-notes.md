@@ -115,6 +115,13 @@ Tasks down the side, time along the top, one bar per task from start to end. Rea
 | Dependency | An activity that must wait for another to finish |
 | Deliverable | A product of an activity or phase |
 
+**Method in steps: creating a PERT chart**
+
+1. Draw a start node.
+2. Add a box for each activity, showing its duration.
+3. Draw an arrow from each activity to every activity that depends on it.
+4. Join the final activities to a finish node, then add EST, LST and float to each box.
+
 ### Timing formulas
 
 | Quantity | Rule |

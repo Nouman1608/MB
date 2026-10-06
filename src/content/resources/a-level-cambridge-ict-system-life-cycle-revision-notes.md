@@ -108,12 +108,12 @@ Test yourself with the [practice questions](/resources/a-level-cambridge-ict-sys
 | Parallel running | Failure would be serious; outputs must be checked | Staff cannot cope with double work |
 | Direct changeover | Old system is unusable, or the system is small and low risk | A failure would stop the business |
 | Phased | The system splits into separate modules | Modules depend heavily on each other |
-| Pilot | There are several similar branches or departments | There is only one site |
+| Pilot | There are several similar branches or departments | There is no separate branch or department to trial it in |
 
 **Method in steps: recommending an implementation method**
 
 1. Read the scenario for clues: number of sites, whether modules are separate, how serious a failure would be, staff time available.
-2. Rule out unsuitable methods with a reason (one site rules out pilot).
+2. Rule out unsuitable methods with a reason (no separate branch or department rules out pilot).
 3. Recommend one method and describe how it would be carried out in *this* scenario.
 4. Give one benefit and one drawback of your choice for this organisation.
 5. Conclude: why its benefits outweigh its drawbacks here.
@@ -178,7 +178,7 @@ Printed: usable without a device, but dates quickly. Online: searchable and easy
 4. A field accepts 50 to 500 grams. Classify 500, 501 and 250.
 5. Who carries out beta testing?
 6. Which testing method needs knowledge of the program code?
-7. A system's 4 modules are introduced one every 2 weeks, while the old system handles the rest. How long does the changeover take, and which method is it?
+7. A system has 4 modules. Each is switched over in its own 2-week period, one after another, while the old system handles the rest. How long does the changeover take, and which method is it?
 8. Name the implementation method with no fallback.
 9. Which document would a technician use to find the file layouts?
 10. A new tax rate means the payroll system must change. Which type of maintenance?

@@ -69,7 +69,7 @@ analysis → design → development and testing → implementation → documenta
 - **Questionnaire** the members: too many to interview; an online survey gathers views on booking times.
 - **Analyse documents**: the paper membership form and booking sheets show every field the new system must store.
 
-Each choice is justified by the group's size and the information needed.
+Each choice fits the group's size and the information needed.
 
 ### Specifications
 
@@ -121,7 +121,7 @@ A **system flowchart** shows hardware, files and processes, not program logic. I
 
 Testing finds errors before users depend on the system and proves it meets the design. A **test plan** lists, for each test: test number, what is being tested, the test data, the type of test data, the expected result, the actual result, and any action or comment.
 
-**Test data types**: **normal** (valid, within range: accepted), **extreme** (valid, on the boundary: accepted), **abnormal** (invalid: rejected with a message), and **live** data (real data from the old system, run to compare results). Spreadsheet test plans are covered in [spreadsheets](/resources/a-level-cambridge-ict-spreadsheets/), so here is a system example.
+**Test data types**: **normal** (valid, within range: accepted), **extreme** (valid, on the boundary: accepted), **abnormal** (invalid: rejected with a message), and **live** data (real data from the old system, run to compare results). (For spreadsheet test plans, see [spreadsheets](/resources/a-level-cambridge-ict-spreadsheets/).)
 
 **Worked example.** Rule: a member books 1 to 6 places on a class, whole numbers only.
 
@@ -150,9 +150,9 @@ Testing finds errors before users depend on the system and proves it meets the d
 | **Parallel running** | Old and new run together; outputs compared | Old system is a backup | Double the work and cost |
 | **Direct changeover** | Old stops; new starts at once | Quick and cheap | No fallback if it fails |
 | **Phased** | One part (module) introduced at a time | Problems confined to one part | Slow; parts must work with the old system |
-| **Pilot** | Whole system live in one branch first | Real trial, limited risk; pilot staff train others | Slow rollout; pilot site bears the risk |
+| **Pilot** | Whole system live in one branch or department first | Real trial, limited risk; pilot staff train others | Slow rollout; pilot site bears the risk |
 
-**Worked example.** The leisure centre has one site, so pilot is impossible, and direct changeover risks lost bookings. **Parallel running** for two weeks suits it: paper sheets remain a backup, at the cost of extra staff time.
+**Worked example.** The leisure centre has one site and one reception team, so there is nothing separate to pilot in; direct changeover risks lost bookings. **Parallel running** for two weeks suits it: paper sheets remain a backup, at the cost of extra staff time.
 
 ## 16.6 Documentation
 
@@ -202,7 +202,7 @@ Corrective work is unplanned; perfective work adds value but costs money with no
 - Naming a research method without linking it to the scenario.
 - Drawing a flow straight from an entity into a data store.
 - Calling a boundary value "abnormal": it is **extreme** and accepted.
-- Recommending pilot for a business with a single site.
+- Recommending pilot with no separate branch or department to trial it.
 
 ## Official syllabus
 

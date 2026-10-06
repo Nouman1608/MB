@@ -54,7 +54,7 @@ Useful derived results: Millikan radius r = √(9ηv/(2ρg)); Fizeau c = 2d/t wi
 - **Cathode rays:** low-pressure gas, high pd. Positive ions hit the cathode and free electrons; these accelerate to the anode, ionising and exciting gas atoms. De-excitation gives the glow.
 - **Thermionic emission:** heating a metal gives conduction electrons enough energy to leave the surface. An anode in a vacuum accelerates them; work done = eV.
 - **e/mₑ (one method):** fine-beam tube, or Thomson's crossed fields (v = E/B when undeflected).
-- **Significance of Thomson's e/m:** same value for any gas or cathode, so electrons are in all matter. About 1800 times the hydrogen ion's specific charge, so (for equal charge) much less massive than any atom.
+- **Significance of Thomson's e/m:** same value for any gas or cathode, so electrons are in all matter. The electron's e/m is about 1800 times the hydrogen ion's specific charge, so (for equal charge) much less massive than any atom.
 - **Millikan:** field off → terminal speed → radius from Stokes' law → mass. Field on, drop stationary → Q = mgd/V. Drop rising at terminal speed → QV/d = mg + 6πηrv.
 - **Significance of Millikan:** all charges were integer multiples of e. Charge is quantised.
 
@@ -102,7 +102,7 @@ Useful derived results: Millikan radius r = √(9ηv/(2ρg)); Fizeau c = 2d/t wi
 ## Must-know distinctions
 
 - **Thermionic emission vs photoelectric emission:** heating vs photons.
-- **Cathode-ray tube (gas) vs electron gun (vacuum, heated filament).**
+- **Discharge tube (low-pressure gas) vs electron gun (vacuum, heated filament).**
 - **Stationary drop vs terminal-speed drop:** QV/d = mg vs mg = 6πηrv (field off).
 - **Planck vs Einstein:** Planck quantised emission from a black body; Einstein said light itself travels as photons.
 - **TEM vs STM:** TEM transmits electrons through a thin sample; STM uses tunnelling between tip and surface.

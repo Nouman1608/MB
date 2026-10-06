@@ -183,7 +183,7 @@ The change itself switches on a response that reverses it, so the value stays cl
 
 ### The skin
 
-On a diagram of the skin you must identify: **hairs**, **hair erector muscles**, **sweat glands**, **receptors**, **sensory neurones**, **blood vessels** and **fatty tissue** (the layer at the bottom).
+On a diagram of the skin identify: **hairs**; **hair erector muscles**, small muscles attached to each hair; coiled **sweat glands** with ducts to the surface; **receptors** linked to **sensory neurones**; **blood vessels**; and **fatty tissue**, the bottom layer.
 
 ### Insulation
 
@@ -209,7 +209,7 @@ Mammals keep a constant internal temperature, around 37 °C in humans. **Insulat
 2. **Vasoconstriction:** arterioles supplying the skin surface capillaries narrow, so less warm blood flows near the skin surface and less heat is lost by radiation.
 3. **Hair erector muscles contract:** hairs stand up and trap a layer of air, which insulates the skin.
 
-Shivering produces heat rather than reducing heat loss, so it does not answer this question.
+Shivering produces heat; it does not reduce heat loss.
 
 ## 14.6 Blood glucose control
 

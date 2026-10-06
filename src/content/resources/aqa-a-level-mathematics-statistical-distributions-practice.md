@@ -93,8 +93,8 @@ with a reason.
 **(a)** The number of hearts when 5 cards are dealt from one standard pack of 52 cards. **[2]**
 **(b)** The masses of eggs laid at a large farm, shown by a symmetrical histogram. **[2]**
 **(c)** The number of times a dice is rolled until the first six appears. **[2]**
-**(d)** Delivery delays have mean 4 minutes and standard deviation 3 minutes. Find P(X < 0) under
-N(4, 3²), and use it to comment on a Normal model for the delays. **[3]**
+**(d)** Delivery delays have mean 5 minutes and standard deviation 4 minutes. Find P(X < 0) under
+N(5, 4²), and use it to comment on a Normal model for the delays. **[3]**
 
 **10.** The lengths of bolts made by a machine are modelled by X ~ N(50, 0.4²), in mm. A bolt is
 rejected if its length is less than 49.3 mm or more than 50.6 mm.
@@ -169,7 +169,7 @@ probability of a heart changes and the deals are not independent [1].
 **(b)** **Normal** [1]: mass is continuous and the data are symmetrical and bell-shaped [1].
 **(c)** **Neither** [1]: the number of trials is not fixed, so it is not binomial, and the variable
 is discrete [1].
-**(d)** P(X < 0) = **0.0912** [1]. A delay cannot be negative [1], yet the model gives about 9% of
+**(d)** P(X < 0) = **0.106** [1]. A delay cannot be negative [1], yet the model gives about 11% of
 deliveries a negative delay, so a Normal model is not appropriate (the data are likely skewed) [1].
 *Examiner insight:* the reason mark needs the context; "p is not constant" without saying why
 (cards are not replaced) is unlikely to earn it.

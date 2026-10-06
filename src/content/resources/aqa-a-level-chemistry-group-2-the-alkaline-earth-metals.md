@@ -170,7 +170,7 @@ Calculate the mass of magnesium needed to produce 75.0 kg of titanium, and the m
 ```
 n(Ti)     = 75.0 × 10³ g ÷ 47.9           = 1566 mol (1565.8)
 n(Mg)     = 2 × n(Ti)                       = 3132 mol
-mass Mg   = 3131.6 × 24.3 = 76.1 × 10³ g    = 76.1 kg
+mass Mg   = 3131.5 × 24.3 = 76.1 × 10³ g    = 76.1 kg
 Mr(TiCl₄) = 47.9 + (4 × 35.5)               = 189.9
 mass TiCl₄ = 1565.8 × 189.9 = 297 × 10³ g   = 297 kg
 ```

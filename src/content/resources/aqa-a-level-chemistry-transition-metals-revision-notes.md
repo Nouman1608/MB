@@ -176,7 +176,7 @@ Mn²⁺:      4Mn²⁺ + MnO₄⁻ + 8H⁺ → 5Mn³⁺ + 4H₂O;   2Mn³⁺ + C
 - Stating the chelate effect as "stronger bonds" with no mention of the increase in the number of particles.
 - Forgetting H⁺ in manganate(VII) equations, so charges do not balance.
 - Not scaling up from the titrated portion to the whole volumetric flask.
-- Using nm instead of m in hc/λ, giving an answer 10⁹ times too large.
+- Using nm instead of m in hc/λ, giving an answer 10⁹ times too small.
 - Describing colour as the light absorbed rather than the light transmitted or reflected.
 - Writing one Contact process equation only; the oxidation of V₂O₄ back to V₂O₅ shows regeneration.
 - Leaving out the oxidation states when asked how variable oxidation states help catalysis.

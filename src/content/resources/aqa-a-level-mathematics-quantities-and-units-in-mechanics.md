@@ -168,7 +168,7 @@ Had you used 40 instead of 0.4, the answer would be 1200, which is the moment in
 
 ## Using units to check your work
 
-Every term in a correct equation has the same units. This gives you a fast check on a formula you have written down, and a way to find the units of a constant. Treat it as a checking habit; it is not a separate method you will be asked to name.
+Every term in a correct equation has the same units. This gives you a fast check on a formula you have written down, and a way to find the units of a constant. Treat it as a checking habit; Section P does not list it as a separate content statement.
 
 **Worked example 5.** A model says the air resistance on a cyclist is R = kv², where R is in newtons and v is the speed in m s⁻¹.
 

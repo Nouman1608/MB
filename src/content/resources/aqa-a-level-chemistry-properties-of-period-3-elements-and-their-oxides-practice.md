@@ -110,7 +110,8 @@ water.
 - X: very high melting point, insoluble in water, reacts with both hydrochloric acid and sodium hydroxide.
 - Y: high melting point, insoluble in water, no reaction with hydrochloric acid, reacts with hot,
   concentrated sodium hydroxide.
-- Z: low melting point, reacts with water to give a solution of pH about 0.
+- Z: low melting point, formed directly when its element burns in excess oxygen, reacts with water to give
+  a solution of pH about 0.
 
 **(a)** Identify X, Y and Z. **[3]**
 **(b)** State the type of structure in Y and in Z. **[2]**

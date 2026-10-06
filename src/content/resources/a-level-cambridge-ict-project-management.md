@@ -20,7 +20,7 @@ publishedDate: 2026-10-06
 featured: false
 ---
 
-This study guide covers **topic 15, Project management** (sections 15.1–15.3) of the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3). It is **A Level only** content. The syllabus states that Paper 3 (Advanced Theory) questions are based on sections 12–21, so this is a theory topic examined there. Calculators are not allowed in Paper 3, so the timing calculations below are all done by hand.
+This study guide covers **topic 15, Project management** (sections 15.1–15.3) of the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3). It is **A Level only** content. The syllabus states that Paper 3 (Advanced Theory) questions are based on sections 12–21, so this is a theory topic examined there. Calculators are not allowed in Paper 3, so work timings by hand.
 
 Use it with the [revision notes](/resources/a-level-cambridge-ict-project-management-revision-notes/) and the [practice questions](/resources/a-level-cambridge-ict-project-management-practice/). The full course is on the [Cambridge A Level IT hub](/boards/cambridge/a-level/ict/), and the [printable 9626 checklist](/checklists/cambridge/a-level/ict/) lists every outcome. To find your gaps first, try a [free diagnostic](/diagnostics/).
 
@@ -145,7 +145,7 @@ Components you must know:
 - **Dependencies**: an activity that cannot start until another has finished.
 - **Deliverables**: the products an activity or phase produces, such as a test report or the finished system.
 
-Some charts show activities as boxes joined by arrows; others show activities as arrows between numbered event circles. Use whichever layout a question gives you.
+**Creating one** (activities as boxes): draw a start node; add a box for each activity showing its duration; draw an arrow from each activity to every activity that depends on it; join the final activities to a finish node.
 
 ### Critical path calculations
 
@@ -171,6 +171,8 @@ The **critical path** is the longest path of dependent activities from start to 
 | G Train staff | 2 | C |
 | H Go live | 1 | F, G |
 
+In the PERT chart, A leads to B and C; B to D; C to E and G; D and E to F; F and G to H.
+
 Forward pass: A 0–4. B 4–9, C 4–7. D 9–15, E 7–11, G 7–9. F starts at the larger of 15 and 11, so 15–18. H starts at the larger of 18 and 9, so 18–19. **Project duration = 19 days.**
 
 Backward pass: H LFT 19, LST 18. F LFT 18, LST 15. G LFT 18, LST 16. D LFT 15, LST 9. E LFT 15, LST 11. C must finish before both E and G start, so LFT = smaller of 11 and 16 = 11, LST 8. B LFT 9, LST 4. A LFT = smaller of 4 and 8 = 4, LST 0.
@@ -188,7 +190,7 @@ Backward pass: H LFT 19, LST 18. F LFT 18, LST 15. G LFT 18, LST 16. D LFT 15, L
 
 **Critical path: A → B → D → F → H** (4 + 5 + 6 + 3 + 1 = 19 days).
 
-Interpreting it: if E overruns by 3 days, that is within its 4 days of float, so the project still ends on day 19. Any delay to B or D delays the whole project by the same amount.
+If E overruns by 3 days, that is within its 4 days of float, so the project still ends on day 19.
 
 ### Using critical path analysis to manage work
 
@@ -209,12 +211,11 @@ Interpreting it: if E overruns by 3 days, that is within its 4 days of float, so
 - Taking the **smallest** EFT for an activity with two predecessors in the forward pass. It must be the largest.
 - Taking the **largest** LST in the backward pass. It must be the smallest.
 - Calling the critical path the "shortest path". It is the longest path, which sets the shortest project time.
-- Describing a Gantt chart as showing dependencies clearly. That is a strength of PERT.
 - Confusing objectives (what the project must achieve) with success criteria (how achievement is measured).
 
 ## Where next
 
-Condense this with the [project management revision notes](/resources/a-level-cambridge-ict-project-management-revision-notes/), then test yourself on the [practice questions](/resources/a-level-cambridge-ict-project-management-practice/).
+Next, use the [revision notes](/resources/a-level-cambridge-ict-project-management-revision-notes/) and the [practice questions](/resources/a-level-cambridge-ict-project-management-practice/).
 
 ## Official syllabus
 

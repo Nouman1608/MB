@@ -53,7 +53,8 @@ For full explanations and worked examples, read the [study guide](/resources/a-l
 
 ## 14.3 Servers and 14.4 Cloud
 
-- **File, web, mail, applications, print, FTP** servers: each provides one shared service.
+- **File, web, mail, applications, print, FTP** servers: each provides one shared service. Common plus: central control, back-up and security. Common minus: cost, specialist staff, and that service stops if the server fails.
+  - File: one copy of data with access rights; heavy load slows it. Print: queues jobs fairly; a queue fault blocks printing. Applications: install software once; needs a fast network. Mail and web: control of own email and site; must be secured, as they face the internet. FTP: large file transfers; plain FTP is unencrypted.
 - **Proxy**: go-between for internet requests; filters, caches, hides internal addresses.
 - **Virtual**: software server sharing hardware with others.
 - **Request and response**: client asks, server replies.
@@ -83,6 +84,8 @@ For full explanations and worked examples, read the [study guide](/resources/a-l
 **Worked reminder**: a 400 MB video sent at 80 Mbit/s → 400 × 8 = 3200 Mbit → 3200 ÷ 80 = **40 s**.
 
 **Streaming**: real-time = live, as it happens; on-demand = stored, played when chosen. Bandwidth below the stream's bit rate means buffering or lower quality. UHD TV needs a high bit rate.
+
+**Access technologies**: fibre gives the most bandwidth, then cabled Ethernet; wireless and mobile links usually give less, and it varies with distance, interference and the number of users sharing them. A low-bandwidth medium may carry data and audio well but not several video or UHD streams at once.
 
 | Medium | Strength | Weakness |
 |---|---|---|
@@ -133,6 +136,7 @@ A **protocol** is a set of rules for formatting, addressing, sending and receivi
 | Radio | Broadcast | FM radio |
 | NFC | Devices almost touching | Contactless payment |
 
+- **Data transfer**: data is carried by modulating electromagnetic waves (radio, microwave or infrared); each method follows its own protocol, e.g. IEEE 802.11 for Wi-Fi, Bluetooth pairing.
 - **Wireless power transfer**: inductive charging pads.
 - Uses: data exchange, mobile comms, IoT.
 - Security: WPA2/WPA3 not WEP; strong passphrase; change default passwords; update firmware.
@@ -154,10 +158,13 @@ A **protocol** is a set of rules for formatting, addressing, sending and receivi
 | DoS | Flooding a server with requests |
 | Botnet | Hijacked computers controlled together |
 | SQL injection | Database code typed into a form |
+| Malware | Viruses, worms, spyware or ransomware spread across the network |
+| Malicious actors | People who attack on purpose: criminals, hackers, disgruntled staff |
 | Poor policies | Weak passwords, no updates |
 
 - **Impacts**: destruction, manipulation, theft, identity theft.
 - **Prevention**: physical (locks, guards, alarms, surveillance); software (biometrics, anti-malware, encryption, access rights, firewall rules).
+
 | Prevention | Advantage | Disadvantage |
 |---|---|---|
 | Biometrics | Cannot be forgotten or shared | Costly; false rejections |
@@ -168,6 +175,7 @@ A **protocol** is a set of rules for formatting, addressing, sending and receivi
 
 - **Disaster types**: natural, equipment and power failure, cybercrime, malware, crime, accidents.
 - **Risk analysis**, **perpetrator analysis**, **risk testing**, **quantifying** (likelihood × impact).
+
 **Worked reminder**: risks scored 1 to 5. Server failure (likelihood 3, impact 4) = 12; theft of laptops (likelihood 2, impact 3) = 6. Deal with server failure first, for example with a spare server and tested back-ups.
 
 - **Control**: detect (monitoring, alerts, intrusion logs), prevent (firewalls, anti-malware, training), restore (back-ups and a recovery plan).

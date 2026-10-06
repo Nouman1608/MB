@@ -182,7 +182,7 @@ A bean root on a still dish grew from 12 mm to 30 mm long in 3 days.
 
 ## Common errors
 
-- Writing that auxin is made in the root tip, or "in the leaves". The syllabus states it is made in the **shoot tip**.
+- Giving the root tip, or "the leaves", as where auxin is made. The answer the syllabus expects is the **shoot tip**.
 - Writing that light "destroys" auxin. Use the syllabus idea: auxin is **unequally distributed**, with more on the shaded side.
 - Writing that auxin makes cells **divide**. The syllabus point is that auxin stimulates cell **elongation**.
 - Saying the shoot bends towards the side with more auxin. It bends **away from** that side, because that side grows longer.
