@@ -16,7 +16,11 @@
    * Contrast (WCAG 2.2): ink on white 15.8:1; ink-mute on white 7.0:1, on
    * mist 6.5:1; teal-700 on white 6.5:1, on mist 6.0:1; white on teal-700
    * 6.5:1; gold-500 on navy-800 7.0:1; teal-300 on navy-800 7.9:1;
-   * revise-700 on revise-50 5.8:1; practise-700 on practise-50 7.2:1.
+   * D-398 mode colours: learn (study guides) is blue, revise (revision
+   * notes) is teal, practise (practice questions) is amber. learn-700 on
+   * learn-50 6.2:1; revise-700 on revise-50 5.9:1; practise-700 on
+   * practise-50 5.8:1. surface is the soft blue-grey topic panel (ink-mute
+   * on it 6.6:1).
    */
   --color-navy-900: #0A1E36;
   --color-navy-800: #0F2B4A;
@@ -35,15 +39,17 @@
   --color-gold-600: #7A5E10;   /* gold TEXT on light -- AA (white 6.1:1) */
   --color-gold-500: #E0AE2E;   /* highlight: trial CTA, marks on navy */
   --color-gold-400: #EDC253;
-  --color-learn-50: #EDF7F6;
-  --color-learn-200: #B9E1DC;
-  --color-learn-700: #0C6964;
-  --color-revise-50: #FFF5E0;
-  --color-revise-200: #F3D69B;
-  --color-revise-700: #8A5300;
-  --color-practise-50: #F0EFFC;
-  --color-practise-200: #CDC9F2;
-  --color-practise-700: #4840A8;
+  --color-learn-50: #EEF4FD;    /* study guides: blue */
+  --color-learn-200: #C9DBF5;
+  --color-learn-700: #1F5AA6;
+  --color-revise-50: #E8F6F4;   /* revision notes: teal */
+  --color-revise-200: #B5E0DA;
+  --color-revise-700: #0C6964;
+  --color-practise-50: #FFF4DD; /* practice questions: amber */
+  --color-practise-200: #F2D394;
+  --color-practise-700: #8A5300;
+  --color-surface: #F4F8FB;     /* topic panels */
+  --color-surface-line: #D5E1EC;
   --color-rule: #DCE4E6;
   --color-ink: #13233A;
   --color-ink-mute: #4C5A6B;

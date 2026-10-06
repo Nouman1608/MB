@@ -15491,3 +15491,42 @@ Three more problems turned up:
   - Browser journeys passed 11/11, including no horizontal scroll at 390px and working without JavaScript.
   - Desktop (1366) and phone (390) screenshots of the home page, nav, course finder, course pages (AS/A Level, IB, a topic with empty modes), subject page, listings, tuition and pricing were reviewed, along with keyboard focus on a resource link.
 - **Limitations.** Program cards on the home page keep their ruled grid. Pagefind's own filter labels still read in capitals. No real-device testing beyond Chromium.
+
+## D-398 - Topic resources as panels and type cards (2026-10-06)
+
+- **Why.** After D-397 the owner still found the topic-resource section too close to the original. Topics sat directly on white and were split by thin rules, topic headings were too small, and the three types differed only in a tinted column.
+- **Topic panel.**
+  - Each topic is a rounded panel (18px corners) on a soft blue-grey surface (#F4F8FB, border #D5E1EC), with 18–36px padding.
+  - Topics are separated by 16–24px of space instead of rules.
+  - Stage bands (AS / A Level) are navy with the same corners.
+- **Topic header.**
+  - The number sits in a solid teal tile (#0C6964, white text) reading "Topic 3", or "AS 1" / "A Level 12" for staged courses. Screen readers hear "AS topic 1".
+  - The topic heading is 24px on phones and up to 32px on desktop, in bold.
+  - The resource count is a white pill badge.
+  - The "Covers" line is 16px and runs under the heading. On phones it spans the full panel width.
+- **Type cards.** There are three white cards per topic, three across from 768px and stacked below that. Each has a tinted header strip with a white icon tile and a label:
+  - Study guide: blue, #EEF4FD / #C9DBF5 / #1F5AA6, 6.2:1 on its tint.
+  - Revision notes: teal, #E8F6F4 / #B5E0DA / #0C6964, 5.9:1.
+  - Practice questions: amber, #FFF4DD / #F2D394 / #8A5300, 5.8:1.
+  - These replace the D-397 teal / amber / violet set. Token names are unchanged (learn / revise / practise). Badge's gold tone now uses the amber tokens.
+- **Resource links.**
+  - Each resource is one link holding the short title (17–19px Bricolage semibold) and the action ("Read guide", "Revise topic", "Try questions", in the mode colour with an underline that darkens on hover). That is one keyboard stop, with nothing nested.
+  - When a card holds a single resource, the link is stretched over the whole card.
+  - The card border darkens to the mode colour on hover, and focus uses the global teal ring.
+  - An empty mode is a dashed card that says what is missing.
+- **Applied to:**
+  - Course pages, both the topics and "Covering more than one topic" (white panel, 2px border).
+  - Subject pages: the per-course lists now use the same cards, with short titles. The heading level is unchanged (h3).
+  - Resource listing cards: tinted header strip with icon tile and singular type label, 18–20px title, 16px description, action line.
+- **Preserved, checked against a build of main (c207fb13):**
+  - All 5,948 pages exist in both builds.
+  - Titles, descriptions, canonicals, Open Graph, robots and JSON-LD are identical on every page.
+  - Heading sequence and link set are identical on every page.
+  - The sitemap and robots.txt are byte-identical.
+  - The course search hooks are unchanged.
+- **Tests (6 Oct 2026):**
+  - build and `audit:all` passed.
+  - test:api 88, test:tools 122, practice-analytics 32 and the negative suite 45 passed.
+  - Cross-board regression OK, and astro check reported 0 errors.
+  - Browser journeys passed 11/11.
+  - Screenshots reviewed at 1366 and 390: IGCSE Chemistry (Stoichiometry, Electrochemistry, multi-resource topic, whole-course block), 9701 AS band, IB Economics (empty modes), subject page and study-guide listing, plus hover and keyboard-focus states.
