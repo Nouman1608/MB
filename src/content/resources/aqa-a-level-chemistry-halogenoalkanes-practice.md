@@ -185,8 +185,8 @@ Moles of alcohol [1]; theoretical mass of product [1]; **68.0%** [1]
 pressure (CO₂), then discard the aqueous layer [1]. Dry the organic layer with an anhydrous salt such as
 anhydrous sodium sulfate [1]. Distil and collect the fraction boiling near the boiling point of the product [1].
 **[7]**
-*Examiner insight:* Allow error carried forward in (b): a wrong Mr used consistently still earns the later
-method marks.
+*Examiner insight:* In (b) the theoretical mass must use the Mr of the chloroalkane (92.5), not the alcohol;
+moles stay the same because the ratio is 1 : 1.
 
 **10. (a)** Sum of Mr of reactants = 122.9 + 56.1 = 179.0 [1]; atom economy = 42.0 ÷ 179.0 × 100 = **23.5%** [1]
 **(b)** 60.0 ÷ 179.0 × 100 = **33.5%** [1]
@@ -222,6 +222,7 @@ ambiguous and can cost the mark.
 
 - Recap with the [halogenoalkanes revision notes](/resources/aqa-a-level-chemistry-halogenoalkanes-revision-notes/).
 - Reread the [halogenoalkanes study guide](/resources/aqa-a-level-chemistry-halogenoalkanes/).
+- See what the alkene products do next in [alkenes](/resources/aqa-a-level-chemistry-alkenes/).
 - Course hub: [AQA A-Level Chemistry](/boards/aqa/a-level/chemistry/).
 - [Printable checklist](/checklists/aqa/a-level/chemistry/) for every specification point.
 - Try all free 10-minute [diagnostics](/diagnostics/).

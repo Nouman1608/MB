@@ -65,6 +65,8 @@ Appendix B of the specification lists formulae you must recall. For mechanics it
 
 These come from OT3.5 (understand and use modelling assumptions). The [Overarching themes guide](/resources/aqa-a-level-mathematics-overarching-themes/) covers the modelling cycle.
 
+Related mechanics notes: [Forces and Newton's laws](/resources/aqa-a-level-mathematics-forces-and-newtons-laws-revision-notes/) (resolving, friction) and [Kinematics](/resources/aqa-a-level-mathematics-kinematics-revision-notes/).
+
 ## Method in steps: rigid body in equilibrium
 
     1. Draw a clear diagram. Mark every force: weights, reactions,

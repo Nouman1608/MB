@@ -73,15 +73,14 @@ product.
 **(a)** Outline the mechanism for this reaction. **[4]**
 **(b)** The product is a mixture that has no effect on plane-polarised light. Explain why. **[3]**
 
-**8.** A student warms 2.16 g of butanal (Mr 72.0) with an excess of a mild oxidising agent
-(calculator allowed).
+**8.** A student warms 2.16 g of butanal (Mr 72.0) with an excess of a mild oxidising agent.
 
 **(a)** Calculate the maximum mass of silver formed if the reagent is Tollens'. **[2]**
 **(b)** Calculate the maximum mass of copper(I) oxide formed if the reagent is Fehling's solution. Assume one
 mole of Cu₂O forms per mole of butanal. **[2]**
 
 **9.** 4.40 g of ethanal is converted into 2-hydroxypropanenitrile, CH₃CH(OH)CN, using KCN followed by dilute
-acid. The student obtains 5.33 g of product. Calculate the percentage yield (calculator allowed). **[4]**
+acid. The student obtains 5.33 g of product. Calculate the percentage yield. **[4]**
 
 **10.** X, Y and Z are isomers with the formula C₄H₈O. Each contains a C=O group and no C=C bond.
 

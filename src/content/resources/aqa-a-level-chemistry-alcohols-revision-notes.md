@@ -83,7 +83,7 @@ to see where to focus.
 ```
 
 With an unsymmetrical alkene, the more stable carbocation (tertiary > secondary > primary) gives the major
-alcohol.
+alcohol. Carbocation stability is explained in [alkenes](/resources/aqa-a-level-chemistry-alkenes/).
 
 **Worked reminder.** But-1-ene + steam: H⁺ adds to C1, giving the secondary carbocation on C2. Major product:
 butan-2-ol. Minor product (via the primary carbocation): butan-1-ol. But-2-ene is symmetrical, so it gives

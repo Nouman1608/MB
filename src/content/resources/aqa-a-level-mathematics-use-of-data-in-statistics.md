@@ -56,8 +56,9 @@ bullet points.
 For exams in 2018 and 2019, the data set was an extract of the data behind DEFRA's 'Family
 Food 2014 report' (published in 2015): purchased quantities of household food and drink by
 Government Office Region from 2001 to 2014. For exams from 2020 there is a new data set. The
-specification says the current data set and its supporting resources are available only on the
-AQA website. Download it from there, and do not rely on descriptions of it found elsewhere.
+specification says this replacement data set is available only on the AQA website, which also
+has supporting resources. Download it from there, and do not rely on descriptions of it found
+elsewhere.
 
 ### What "familiar" means
 

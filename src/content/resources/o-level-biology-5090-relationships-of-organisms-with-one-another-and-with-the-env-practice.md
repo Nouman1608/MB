@@ -128,7 +128,7 @@ Revise first with the [study guide](/resources/o-level-biology-5090-relationship
 **(b)** (27 ÷ 30,000) × 100 [1] = **0.09%** [1]
 **(c)** Any three [3]: not all of the organism is eaten; some is not digested (faeces); energy released in respiration is lost as heat; energy is used for movement; energy is lost in excretory products.
 **(d)** Only 27 kJ per m² per year reaches the tertiary consumers [1]; after another transfer too little would remain to support a population [1]. **[9]**
-*Examiner insight:* The question asks for a percentage, so 0.12 left as a decimal loses the accuracy mark.
+*Examiner insight:* The question asks for a percentage, so give 12%, not the decimal 0.12.
 
 **4. (a)** Aphids: 40,000 × 0.5 g = 20,000 g = **20 kg** [1]; ladybirds: 600 × 0.04 g = 24 g = **0.024 kg** [1]
 **(b)** The pyramid of numbers has a narrow base (one tree), a very wide middle (aphids) and a narrower top (ladybirds) [1]. The pyramid of biomass is a true pyramid: 800 kg, 20 kg, 0.024 kg [1], because biomass allows for size: one tree is heavier than all the aphids [1]. **[5]**

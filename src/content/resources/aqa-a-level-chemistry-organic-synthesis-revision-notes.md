@@ -121,7 +121,7 @@ The course hub is [AQA A-Level Chemistry](/boards/aqa/a-level/chemistry/), the
 The specification does not name the reducing agents for nitriles or nitro compounds; those above are
 standard choices.
 
-**New C–C bonds:** only three reactions make one. KCN + halogenoalkane, KCN + aldehyde or ketone, and
+**New C–C bonds:** apart from addition polymerisation, only three reactions make one. KCN + halogenoalkane, KCN + aldehyde or ketone, and
 Friedel–Crafts acylation.
 
 ## Method in steps
@@ -179,7 +179,7 @@ use [organic analysis](/resources/aqa-a-level-chemistry-organic-analysis-revisio
    C = 12.0, O = 16.0)
 3. State the % atom economy for ethanal + HCN → CH₃CH(OH)CN.
 4. A three-step route has step yields of 90%, 80% and 50%. Calculate the overall yield.
-5. Name the three reactions in the specification that form a new C–C bond.
+5. Apart from addition polymerisation, name the three reactions in the specification that form a new C–C bond.
 6. Give the reagent and conditions to make butanoic acid from butan-1-ol.
 7. Outline a two-step route from 1-bromobutane to butan-2-ol.
 8. Name the organic product of ethanoyl chloride with methanol.

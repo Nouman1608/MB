@@ -174,17 +174,17 @@ precise-mass calculations are taught in the [organic analysis guide](/resources/
 
 ### Worked example 5: GC-MS
 
-One GC peak gives a molecular ion at m/z = 88.0522. Which of C₅H₁₂O, C₄H₈O₂, C₃H₈N₂O and C₄H₁₂N₂ is it?
+One GC peak gives a molecular ion at m/z = 100.0635. Which of C₆H₁₂O, C₅H₈O₂, C₄H₈N₂O and C₅H₁₂N₂ is it?
 Use H = 1.0078, C = 12.0000, N = 14.0031 and O = 15.9949.
 
 ```
-C5H12O  : 5(12.0000) + 12(1.0078) + 15.9949             = 88.0885
-C4H8O2  : 4(12.0000) + 8(1.0078) + 2(15.9949)           = 88.0522
-C3H8N2O : 3(12.0000) + 8(1.0078) + 2(14.0031) + 15.9949 = 88.0635
-C4H12N2 : 4(12.0000) + 12(1.0078) + 2(14.0031)          = 88.0998
+C6H12O  : 6(12.0000) + 12(1.0078) + 15.9949             = 100.0885
+C5H8O2  : 5(12.0000) + 8(1.0078) + 2(15.9949)           = 100.0522
+C4H8N2O : 4(12.0000) + 8(1.0078) + 2(14.0031) + 15.9949 = 100.0635
+C5H12N2 : 5(12.0000) + 12(1.0078) + 2(14.0031)          = 100.0998
 ```
 
-Only **C₄H₈O₂** matches. GC separated this component; mass spectrometry identified its formula.
+Only **C₄H₈N₂O** matches. GC separated this component; mass spectrometry identified its formula.
 
 ## Required practical 12: separation of species by TLC
 

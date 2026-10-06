@@ -25,7 +25,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover **Section S: Moments (S1)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. The specification places Section S in **Paper 2**. A calculator is required in every 7357 paper, so every question here assumes you have one. Take g = 9.8 m s⁻² and give answers to 3 significant figures where they are not exact, unless the question says otherwise.
+These questions cover **Section S: Moments (S1)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. The specification places Section S in **Paper 2**. A calculator is required in every 7357 paper. Take g = 9.8 m s⁻² and give answers to 3 significant figures where they are not exact, unless the question says otherwise.
 
 Revise first with the [Moments study guide](/resources/aqa-a-level-mathematics-moments/) and the [Moments revision notes](/resources/aqa-a-level-mathematics-moments-revision-notes/). Course hub: [/boards/aqa/a-level/mathematics/](/boards/aqa/a-level/mathematics/). Checklist: [/checklists/aqa/a-level/mathematics/](/checklists/aqa/a-level/mathematics/). Not sure where you stand? Try the [free 10-minute diagnostics](/diagnostics/).
 
@@ -173,6 +173,7 @@ so the true moment about the clamp may be slightly different from the calculated
 - Recap the methods: [Moments revision notes](/resources/aqa-a-level-mathematics-moments-revision-notes/).
 - Full explanations: [Moments study guide](/resources/aqa-a-level-mathematics-moments/).
 - Units of moment: [Quantities and units practice questions](/resources/aqa-a-level-mathematics-quantities-and-units-in-mechanics-practice/).
+- Related practice: [Forces and Newton's laws](/resources/aqa-a-level-mathematics-forces-and-newtons-laws-practice/) and [Kinematics](/resources/aqa-a-level-mathematics-kinematics-practice/).
 - Modelling language: [Overarching themes practice](/resources/aqa-a-level-mathematics-themes-practice/).
 - Course hub: [/boards/aqa/a-level/mathematics/](/boards/aqa/a-level/mathematics/). Checklist: [/checklists/aqa/a-level/mathematics/](/checklists/aqa/a-level/mathematics/).
 - [All free 10-minute diagnostics](/diagnostics/).

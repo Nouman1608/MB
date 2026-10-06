@@ -166,7 +166,8 @@ No curly arrows are required for radical mechanisms. The dot goes on the atom wi
 (the carbon in •CH₃).
 
 **Further substitution** gives CH₂Cl₂, CHCl₃ and CCl₄. Excess methane favours CH₃Cl; excess chlorine
-favours more substitution. Overall for full substitution: CH₄ + 4Cl₂ → CCl₄ + 4HCl.
+favours more substitution. Overall for full substitution: CH₄ + 4Cl₂ → CCl₄ + 4HCl. The products are
+[halogenoalkanes](/resources/aqa-a-level-chemistry-halogenoalkanes-revision-notes/), the next topic.
 
 ## Must-know distinctions
 

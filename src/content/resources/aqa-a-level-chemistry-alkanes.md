@@ -226,7 +226,8 @@ Overall: CH4 + Cl2 → CH3Cl + HCl
 ```
 
 A **radical** is a species with an **unpaired electron**. The specification represents the unpaired
-electron by a **dot**, and does **not** require curly arrows for radical mechanisms. You must write
+electron by a **dot**, and does **not** require curly arrows for radical mechanisms (see
+[introduction to organic chemistry](/resources/aqa-a-level-chemistry-introduction-to-organic-chemistry/)). You must write
 balanced equations for each step.
 
 ### The three stages
@@ -292,7 +293,8 @@ none out.
 ## Where to go next
 
 Use the [alkanes revision notes](/resources/aqa-a-level-chemistry-alkanes-revision-notes/) and
-[alkanes practice questions](/resources/aqa-a-level-chemistry-alkanes-practice/). For mole calculations,
+[alkanes practice questions](/resources/aqa-a-level-chemistry-alkanes-practice/). Chloromethane is a
+halogenoalkane, so continue with [halogenoalkanes](/resources/aqa-a-level-chemistry-halogenoalkanes/). For mole calculations,
 see the [mole revision notes](/resources/aqa-a-level-chemistry-mole-revision-notes/); for a wider plan, the
 [exam preparation guide](/resources/aqa-a-level-chemistry-exam-preparation/).
 

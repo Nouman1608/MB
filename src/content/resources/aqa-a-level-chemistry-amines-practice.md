@@ -78,17 +78,17 @@ a weak base. **[2]**
 **(c)** Trimethylamine reacts with 1-bromohexadecane, CH₃(CH₂)₁₅Br. Give the formula of the product and
 explain why it can act as a cationic surfactant. **[3]**
 
-**8.** Propanoyl chloride, CH₃CH₂COCl, reacts with excess ethylamine.
+**8.** 2-Methylpropanoyl chloride, (CH₃)₂CHCOCl, reacts with excess ethylamine.
 
 **(a)** Write an equation for the reaction. **[2]**
 **(b)** Name the organic product. **[1]**
 **(c)** Outline the mechanism. Describe each curly arrow. **[4]**
 
-**9.** Phenylamine reacts with ethanoic anhydride.
+**9.** Phenylamine reacts with propanoic anhydride, (CH₃CH₂CO)₂O.
 
 **(a)** Write an equation for the reaction (1 : 1). **[2]**
 **(b)** Name the organic product containing nitrogen. **[1]**
-**(c)** State one difference between this reaction and the reaction of phenylamine with ethanoyl chloride.
+**(c)** State one difference between this reaction and the reaction of phenylamine with propanoyl chloride.
 **[1]**
 
 **10.** 1.18 g of a primary aliphatic amine was dissolved in water and made up to 250 cm³. A 25.0 cm³
@@ -158,17 +158,17 @@ chloromethane [1].
 *Examiner insight:* In (c) the word "cationic" needs the positive head to be named; a description of the
 chain alone earns only one mark.
 
-**8. (a)** CH₃CH₂COCl + 2CH₃CH₂NH₂ → CH₃CH₂CONHCH₂CH₃ [1] + CH₃CH₂NH₃⁺Cl⁻ [1]
-**(b)** **N-ethylpropanamide** [1]
+**8. (a)** (CH₃)₂CHCOCl + 2CH₃CH₂NH₂ → (CH₃)₂CHCONHCH₂CH₃ [1] + CH₃CH₂NH₃⁺Cl⁻ [1]
+**(b)** **N-ethyl-2-methylpropanamide** [1]
 **(c)** Arrow from N lone pair to the δ+ carbonyl carbon [1]; arrow from C=O to O, giving O⁻ [1]; arrow from
 O⁻ reforming C=O with the C–Cl bond breaking and Cl⁻ leaving [1]; Cl⁻ or a second ethylamine removes H⁺
 from N⁺ [1]. **[7]**
 *Examiner insight:* A one-step substitution with no O⁻ intermediate is not an addition–elimination
 mechanism and loses the second and third marks.
 
-**9. (a)** (CH₃CO)₂O + C₆H₅NH₂ → CH₃CONHC₆H₅ [1] + CH₃COOH [1]
-**(b)** **N-phenylethanamide** [1]
-**(c)** The by-product is ethanoic acid rather than HCl, or the reaction is slower [1]. **[4]**
+**9. (a)** (CH₃CH₂CO)₂O + C₆H₅NH₂ → CH₃CH₂CONHC₆H₅ [1] + CH₃CH₂COOH [1]
+**(b)** **N-phenylpropanamide** [1]
+**(c)** The by-product is propanoic acid rather than HCl, or the reaction is slower [1]. **[4]**
 *Examiner insight:* Writing HCl as a by-product of an anhydride reaction is wrong chemistry and loses the
 second mark in (a).
 

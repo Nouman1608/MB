@@ -92,8 +92,9 @@ appears in the IR spectrum of the organic product but not in that of Y. **[1]**
 
 - IR spectrum: a broad absorption at 3400 cm⁻¹, a strong absorption at 1720 cm⁻¹, and no very broad
   absorption across 2500–3000 cm⁻¹.
-- Warming with Tollens' reagent: no change.
+- Warming with Tollens' reagent: a silver mirror forms.
 - Warming with acidified potassium dichromate(VI): orange to green.
+- The O–H group and the C=O group are on the carbon atoms at opposite ends of the chain.
 
 **(a)** Z is C₄H₁₀O, C₃H₆O₂ or C₂H₆N₂O. Show by calculation which is its molecular formula. **[2]**
 **(b)** Use all the evidence to deduce the structure of Z. Explain each step. **[7]**
@@ -163,10 +164,10 @@ precipitate). CH₃CHO + [O] → CH₃COOH [1].
 so Z is **C₃H₆O₂** [1].
 **(b)** The broad absorption at 3400 cm⁻¹ is O–H in an alcohol (3230–3550) [1]. The strong absorption at
 1720 cm⁻¹ is C=O (1680–1750) [1]. There is no very broad absorption at 2500–3000 cm⁻¹, so Z is not a
-carboxylic acid [1]. Tollens' reagent gives no change, so the C=O is not an aldehyde; it is a ketone [1].
-The dichromate turns from orange to green, so the O–H is in a primary or secondary alcohol [1]. With three
-carbons, a ketone C=O must be on the middle carbon, which leaves the O–H on an end carbon [1]. Z is
-**hydroxypropanone, CH₃COCH₂OH** [1]. **[9]**
+carboxylic acid [1]. The silver mirror with Tollens' reagent shows the C=O is in an aldehyde, –CHO, which is
+on an end carbon [1]. The dichromate result does not show the alcohol type, because the
+aldehyde is itself oxidised [1]. The O–H is on the carbon at the other end of the chain, so it is a
+primary alcohol [1]. Z is **3-hydroxypropanal, HOCH₂CH₂CHO** [1]. **[9]**
 *Examiner insight:* In a multi-evidence structure question, tie every piece of evidence to a conclusion; a correct structure with no reasoning answers only the last step.
 
 ## Where marks are usually lost
@@ -176,15 +177,13 @@ carbons, a ketone C=O must be on the middle carbon, which leaves the O–H on an
 - Using acidified dichromate(VI) while an aldehyde could still be present, so two compounds both turn green.
 - Picking a molecular formula from precise masses without showing the sum for every candidate.
 - Assigning a 2500–3000 cm⁻¹ absorption to an alcohol, or 3230–3550 cm⁻¹ to an acid.
-- Naming a functional group from a C–H absorption, which almost every organic compound shows.
 - Describing the fingerprint region without saying the spectrum is compared with a known sample.
-- Explaining an impurity without saying which absorption the pure product should not show.
-- Leaving infrared absorption by bonds out of a global warming explanation.
 
 ## Next steps
 
 - [Organic analysis revision notes](/resources/aqa-a-level-chemistry-organic-analysis-revision-notes/)
 - [Organic analysis study guide](/resources/aqa-a-level-chemistry-organic-analysis/)
+- [NMR spectroscopy (A-level only)](/resources/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy/)
 - [AQA A-Level Chemistry exam preparation](/resources/aqa-a-level-chemistry-exam-preparation/)
 - [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/)
 - [Printable checklist](/checklists/aqa/a-level/chemistry/)

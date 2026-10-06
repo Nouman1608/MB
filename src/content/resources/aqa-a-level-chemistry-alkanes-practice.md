@@ -155,7 +155,7 @@ n(H) = 2 × n(H₂O) = 2 × (3.15 ÷ 18.0) = 0.350 mol [1].
 Ratio C : H = 0.150 : 0.350 = 3 : 7, so the empirical formula is C₃H₇ [1].
 An alkane must fit CₙH₂ₙ₊₂; C₃H₇ does not, but C₆H₁₄ does, so the molecular formula is **C₆H₁₄** [1]. **[4]**
 *Examiner insight:* Forgetting to double the moles of water gives C : H = 0.150 : 0.175 and loses the
-second mark, though the later steps can still earn error-carried-forward credit.
+second mark and an empirical formula (C₆H₇) that cannot be an alkane.
 
 **7.** n(C₄H₁₀) = 1.50 ÷ 58.0 = 0.02586 mol [1].
 n(CO₂) = 4 × 0.02586 = 0.1034 mol [1].
@@ -178,8 +178,8 @@ for.
 **(c)** **C₅H₁₂ + 16NO → 5CO₂ + 6H₂O + 8N₂** [1]
 **(d)** Any one: carbon monoxide from incomplete combustion; carbon (soot) from incomplete combustion;
 unburned hydrocarbons from fuel that does not burn [1]. **[5]**
-*Examiner insight:* Saying the nitrogen comes from the fuel is a contradiction that cancels the first mark
-in (a); alkanes contain no nitrogen.
+*Examiner insight:* Saying the nitrogen comes from the fuel does not earn the first mark in (a); alkanes
+contain no nitrogen.
 
 **10. (a)** **Free-radical substitution** [1]
 **(b)** **Cl₂ → 2Cl•** [1]; UV light provides the energy to break the Cl–Cl bond [1].
@@ -233,6 +233,7 @@ top marks; use figures from the table to support both the surplus and the shorta
 
 - [Alkanes revision notes](/resources/aqa-a-level-chemistry-alkanes-revision-notes/)
 - [Alkanes study guide](/resources/aqa-a-level-chemistry-alkanes/)
+- [Halogenoalkanes practice questions](/resources/aqa-a-level-chemistry-halogenoalkanes-practice/)
 - [Mole practice questions](/resources/aqa-a-level-chemistry-mole-practice/)
 - [Energetics practice questions](/resources/aqa-a-level-chemistry-energetics-practice/)
 - [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/)

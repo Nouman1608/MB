@@ -70,7 +70,8 @@ The course hub is [AQA A-Level Chemistry](/boards/aqa/a-level/chemistry/), and t
 | Br₂ | room temperature | induced Brδ+ | 1,2-dibromoethane, CH₂BrCH₂Br |
 | H₂SO₄ | cold, concentrated | H of H₂SO₄ | ethyl hydrogensulfate, CH₃CH₂OSO₂OH |
 
-With H₂SO₄, the hydrogensulfate ion bonds to the carbon **through its negative O atom**.
+With H₂SO₄, the hydrogensulfate ion bonds to the carbon **through its negative O atom**. Hydration of alkenes
+to make alcohols is in the [alcohols study guide](/resources/aqa-a-level-chemistry-alcohols/).
 
 **Small reminder (skeleton for HBr with but-2-ene):**
 

@@ -43,7 +43,7 @@ For IR and mass spectrometry questions, see the
 ## Questions
 
 Where a question needs chemical shift ranges, use these approximate values, written for this practice
-set. In the exam, use the AQA Chemistry Data Booklet you are given.
+set. For your own revision, work from the AQA Chemistry Data Booklet itself.
 
 | ¹H environment | δ / ppm | ¹³C environment | δ / ppm |
 |---|---|---|---|
@@ -212,7 +212,6 @@ The δ range for ¹³C is much wider than for ¹H, so peaks rarely overlap [1]. 
 - Forgetting that equivalent protons do not split each other.
 - Giving an integration ratio without scaling it to the H count of the molecular formula.
 - Explaining TMS only as "the zero point" and missing the single-peak, inert and volatile points.
-
 - Ignoring the IR or mass spectrum in a combined question.
 
 

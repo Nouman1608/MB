@@ -52,7 +52,7 @@ Required practical 6 (AS) still includes a carboxylic acid test.
 - Dichromate: Cr₂O₇²⁻ (orange) → Cr³⁺ (green).
 - Tollens': [Ag(NH₃)₂]⁺ → Ag (the mirror).
 - Fehling's: Cu²⁺ complex (blue) → Cu₂O (red precipitate).
-- Bromine water is different: Br₂ **adds** across C=C. It is not a redox test for the organic compound.
+- Bromine water is different: Br₂ **adds** across C=C by electrophilic addition; no oxidising agent is involved.
 
 ### Method in steps: building a key
 
@@ -135,7 +135,8 @@ Structure questions often give you all three kinds of evidence. Use them in this
 3. **IR spectrum:** for each candidate, list which absorptions it must show and which it cannot show.
    Rule out any candidate that does not fit. Quote the wavenumber range and the bond each time.
 4. **Test-tube reaction:** use a test to split any candidates IR cannot separate (for example, Tollens'
-   reagent for an aldehyde against a ketone).
+   reagent for an aldehyde against a ketone). At A-level,
+   [NMR spectroscopy](/resources/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy/) (A-level only) adds further evidence.
 5. **Conclusion:** name the compound and draw its structure.
 
 ### Worked reminder: reading a spectrum in steps

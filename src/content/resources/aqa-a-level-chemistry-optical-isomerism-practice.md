@@ -130,7 +130,7 @@ side** of the plane [1]. Attack from each side is **equally likely**, so equal a
 form [1]
 **(d)** n(butanone) = 1.44 / 72.0 = 0.0200 mol [1]. Mr of product (C₅H₉NO) = 99.0, so maximum mass =
 0.0200 × 99.0 = **1.98 g** [1]. Each enantiomer = 1.98 / 2 = **0.990 g** [1] **[8]**
-*Examiner insight:* In (d), show the Mr and the mole calculation; with clear working, an earlier slip can still earn the later method marks as an error carried forward.
+*Examiner insight:* In (d), show the Mr and the mole calculation; with clear working, a slip in the Mr is easy to spot and the later steps can still be followed.
 
 **8. (a)** **2-chloropentane** [1]; **1-chloro-2-methylbutane** [1]; **2-chloro-3-methylbutane** [1]
 **(b)** 8 structural isomers + 3 extra enantiomers = **11** [1] **[4]**
@@ -165,7 +165,7 @@ wrong [1] **[8]**
   molecule twice.
 - Leaving out "planar" or "equal probability of attack from either side" when explaining racemate formation.
 - Calling the product of propanone and KCN chiral; its central carbon carries two CH₃ groups.
-- Not showing Mr and moles in a calculation, so an error cannot carry forward.
+- Not showing Mr and moles in a calculation, so a slip cannot be traced.
 - Counting stereoisomers without checking each type separately (E–Z and optical).
 
 ## Next steps

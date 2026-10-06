@@ -172,7 +172,7 @@ Forests are cleared for farmland, timber and building. Consequences:
 - **Biodiversity**: habitats and food sources are destroyed, so fewer species live there.
 - **Extinction**: species found only in that forest may die out.
 - **Loss of soil**: without roots to hold it, rain washes soil away.
-- **Flooding**: fewer trees take up water, and eroded soil fills rivers, so water runs off quickly.
+- **Flooding**: fewer trees take up and hold back rain, so water runs off quickly, and eroded soil silts up rivers.
 - **Carbon dioxide**: fewer trees photosynthesise, and burning or decomposing trees release carbon dioxide, so its atmospheric concentration rises.
 
 ### Over-harvesting and non-native species (19.4.2)

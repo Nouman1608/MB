@@ -83,7 +83,7 @@ R–X + 2NH3 → R–NH2 + NH4X
 
 **Why excess ammonia?** The amine has a lone pair and can itself act as a nucleophile. Excess NH₃ reduces
 further substitution. Formation of secondary and tertiary amines and quaternary ammonium salts is in
-3.3.11 (A-level only).
+[3.3.11 Amines](/resources/aqa-a-level-chemistry-amines/) (A-level only).
 
 **Naming nitriles.** Count all carbons, including the C of C≡N. CH₃CH₂CH₂CN is butanenitrile.
 

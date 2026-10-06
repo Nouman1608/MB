@@ -142,7 +142,7 @@ process releases more CO₂ than the crop absorbed.
 
 ### Environmental and ethical issues
 
-Use both sides when you discuss decision making about biofuels:
+Weigh both sides when discussing biofuel decisions:
 
 - **For:** the crop is renewable; less finite crude oil is used; net CO₂ emissions can be lower than for petrol.
 - **Against:** land for fuel crops is not used for food, which can raise food prices (an ethical issue);
@@ -270,7 +270,7 @@ Answer: **70.1 %**. Product is lost in transfers, on the drying agent and throug
 
 ## Where this links
 
-Alcohol combustion calorimetry: [energetics](/resources/aqa-a-level-chemistry-energetics/). Dichromate(VI)
+Carbocations and polymers: [alkenes](/resources/aqa-a-level-chemistry-alkenes/). Combustion calorimetry: [energetics](/resources/aqa-a-level-chemistry-energetics/). Dichromate(VI)
 half-equations: [redox equations](/resources/aqa-a-level-chemistry-oxidation-reduction-and-redox-equations/).
 Exam technique: [exam preparation](/resources/aqa-a-level-chemistry-exam-preparation/).
 

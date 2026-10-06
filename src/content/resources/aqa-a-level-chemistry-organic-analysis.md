@@ -83,7 +83,7 @@ this section collects tests from 3.3.4, 3.3.5 and 3.3.9 and uses them to tell co
 - Use small volumes of the organic liquid in clean test tubes.
 - Warm with a water bath, not a Bunsen flame. Most of these organic liquids are flammable.
 - Record the colour **before** and **after**. "Goes green" is incomplete; "orange to green" is an observation.
-- Run a control (the reagent with water) so you can judge a change.
+- Run a control (reagent with water) to judge a change.
 
 ### Order matters
 
@@ -136,7 +136,7 @@ You will be given precise atomic masses in the question. The values used on this
 1. Write down each candidate molecular formula with the right whole-number Mr.
 2. Calculate the precise mass of each one from the given atomic masses.
 3. Compare each with the measured value and pick the one that matches.
-4. Show every calculation. A choice without working proves nothing.
+4. Show every calculation.
 
 ### Worked example 2: molecular ion at m/z = 60.0210
 
@@ -164,8 +164,8 @@ The spectrum plots **transmittance** (%) against **wavenumber** in cm⁻¹. An a
 
 ### The data you use
 
-The specification expects you to use the Chemistry Data Sheet or Booklet. AQA's data booklet gives these
-ranges; always read them from the copy you are given.
+The specification expects you to use the Chemistry Data Sheet or Booklet. The ranges used on this page are
+below; always read them from the copy you are given.
 
 | Bond | Wavenumber / cm⁻¹ |
 |---|---|
@@ -192,7 +192,7 @@ The region at lower wavenumbers (below about 1500 cm⁻¹) contains many overlap
 whole molecule. This pattern is unique to each compound, like a fingerprint. To identify a compound, you
 compare its spectrum with the spectrum of a known sample (for example from a database). An exact match
 across the fingerprint region confirms the identity. This also lets you tell apart two compounds with the
-same functional groups, such as propanal and propanone, which both show C=O.
+same bonds, such as propanal and propanone, which both show C=O.
 
 ### Worked example 3: identifying an impurity
 
@@ -236,7 +236,7 @@ these gases mean more infrared is absorbed, and this contributes to global warmi
 - Picking a molecular formula from precise masses without showing the calculation for each candidate.
 - Rounding precise masses to fewer than four decimal places, so two candidates look the same.
 - Assigning a broad absorption at 2500–3000 cm⁻¹ to an alcohol. That range is the acid O–H.
-- Claiming that IR alone tells propanal from propanone. Both show C=O; use the fingerprint region or Tollens'.
+- Claiming that functional-group absorptions alone tell propanal from propanone. Both show C=O; use the fingerprint region or Tollens'.
 - Saying greenhouse gases "trap" heat without mentioning absorption of infrared by bonds.
 
 ## Where to go next
@@ -244,6 +244,8 @@ these gases mean more infrared is absorbed, and this contributes to global warmi
 Work through the [practice questions](/resources/aqa-a-level-chemistry-organic-analysis-practice/), then see
 [relative mass and the mole](/resources/a-level-aqa-chemistry-relative-mass-and-the-mole/) for Mr and
 molecular formulae and the [exam preparation guide](/resources/aqa-a-level-chemistry-exam-preparation/).
+At A-level, [NMR spectroscopy](/resources/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy/)
+(A-level only) builds on this evidence.
 
 ## Official syllabus
 

@@ -77,8 +77,8 @@ scale runs from right (δ = 0) to left (larger δ). Chemical shift depends on th
 A nucleus close to an electronegative atom such as O, or close to a C=O group, appears at a larger δ.
 
 The specification expects you to use shift data from the Chemistry Data Booklet. The ranges below are
-**approximate values written for this page**, not copied from the AQA booklet. In the exam, use the
-booklet you are given.
+**approximate values written for this page**, not copied from the AQA booklet. Always work from the
+AQA booklet itself.
 
 | ¹H environment (approximate) | δ / ppm | ¹³C environment (approximate) | δ / ppm |
 |---|---|---|---|

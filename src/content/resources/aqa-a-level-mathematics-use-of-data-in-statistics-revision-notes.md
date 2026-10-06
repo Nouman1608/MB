@@ -47,8 +47,8 @@ From the Department for Education's content document, common to all exam boards.
 - Exams in 2018 and 2019: an extract of the data behind DEFRA's 'Family Food 2014 report'
   (published 2015), on purchased quantities of household food and drink by Government Office
   Region, 2001 to 2014.
-- Exams from 2020: a new data set, available only on the AQA website with its supporting
-  resources.
+- Exams from 2020: a new data set, available only on the AQA website (which also has
+  supporting resources).
 - You must know the **contexts**, the **main features** of the data and how **technology** helps
   explore it.
 - You must be able to analyse a **subset or features** of the data using a calculator with

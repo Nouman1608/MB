@@ -124,8 +124,8 @@ Step 2   H₃C–CH₂⁺  +  ⁻OSO₂OH   →   CH₃CH₂OSO₂OH   (ethyl hy
          arrow 3: from a lone pair on the negative O to the positive carbon
 ```
 
-The negative O in the hydrogensulfate ion bonds to the carbon. A common error is to show the S or the
-OH group bonding to the carbon.
+The negative O of the hydrogensulfate ion, not the S or an OH, bonds to the carbon. Making alcohols by
+hydrating alkenes is taught in the [alcohols study guide](/resources/aqa-a-level-chemistry-alcohols/).
 
 ### Major and minor products (unsymmetrical alkenes)
 
@@ -235,7 +235,7 @@ polymer can be given very different properties.
 ### Practical opportunity
 
 The specification suggests making poly(phenylethene) from phenylethene (AT k, PS 1.2). This is not a
-required practical; it practises safe handling of organic liquids.
+required practical.
 
 ## Common errors
 

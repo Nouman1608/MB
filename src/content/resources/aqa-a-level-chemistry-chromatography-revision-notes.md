@@ -157,7 +157,7 @@ ultraviolet lamp.
 8. What happens to GC retention times when the column temperature is raised?
 9. A sample spot and a standard spot have the same Rf in one solvent. Is this proof they are the same
    substance? What further test helps?
-10. A GC component gives a molecular ion at m/z = 74.0366. Is it C₃H₆O₂ or C₄H₁₀O? (H = 1.0078,
+10. A GC component gives a molecular ion at m/z = 86.0729. Is it C₄H₆O₂ or C₅H₁₀O? (H = 1.0078,
     C = 12.0000, O = 15.9949)
 11. On a polar stationary phase with a less polar solvent, which travels further: a compound that can hydrogen
     bond or a weakly polar compound that cannot?
@@ -175,7 +175,7 @@ ultraviolet lamp.
 8. They **decrease**: components spend more time in the gas phase.
 9. **No.** Two substances can share an Rf value in one solvent. Run sample and standard together in a
    different solvent; a match again is stronger evidence.
-10. C₃H₆O₂ = 3(12.0000) + 6(1.0078) + 2(15.9949) = 74.0366; C₄H₁₀O = 74.0729. It is **C₃H₆O₂**.
+10. C₅H₁₀O = 5(12.0000) + 10(1.0078) + 15.9949 = 86.0729; C₄H₆O₂ = 86.0366. It is **C₅H₁₀O**.
 11. The **weakly polar compound**: it is retained less by the polar stationary phase and dissolves better in
     the less polar solvent.
 12. The one **least retained** by the stationary phase and most soluble in the solvent, because it moves down

@@ -61,7 +61,7 @@ see the [course hub](/boards/aqa/a-level/chemistry/) and the
 
 Larger δ means the nucleus is near an electronegative atom (such as O) or a C=O group. The specification
 expects you to read shifts from the Chemistry Data Booklet. The approximate ranges below are written for
-these notes and are **not copied from the AQA booklet**. Use the booklet you are given in the exam.
+these notes and are **not copied from the AQA booklet**. Always work from the AQA booklet itself.
 
 | ¹H (approximate) | δ / ppm |
 |---|---|

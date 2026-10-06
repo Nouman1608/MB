@@ -134,7 +134,7 @@ Step 4: products are ethylamine, CH3CH2NH2, and NH₄⁺ (with Br⁻, NH₄Br).
 **Why use excess ammonia?** The amine product also has a lone pair on nitrogen, so it can attack another
 halogenoalkane molecule. Excess ammonia makes it more likely that the halogenoalkane meets NH₃ rather than
 amine, so the primary amine is the main product. Further substitution, giving secondary and tertiary amines
-and quaternary ammonium salts, is in 3.3.11 Amines, which is **A-level only**.
+and quaternary ammonium salts, is in [3.3.11 Amines](/resources/aqa-a-level-chemistry-amines/), which is **A-level only**.
 
 ### Why bond enthalpy controls the rate
 

@@ -132,7 +132,7 @@ Ar values C = 12.0, H = 1.0, O = 16.0.
 
 **4. (a)** n(ethanol) = 115 ÷ 46.0 = 2.50 mol, so n(glucose) = 1.25 mol [1]; mass = 1.25 × 180.0 = **225 g** [1]
 **(b)** n(CO₂) = 2.50 mol; mass = 2.50 × 44.0 = **110 g** [1]
-*Examiner insight:* An error in (a) is normally carried forward into (b) if the method is right, so set out each mole step.
+*Examiner insight:* Set out each mole step, including the 1 : 2 ratio, so the method in (b) is clear even if (a) contains a slip.
 
 **5. (a)** 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ [1]; C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂ [1]; C₂H₅OH + 3O₂ → 2CO₂ + 3H₂O [1]
 **(b)** 6 mol CO₂ absorbed; 2 mol from fermentation and 4 mol from burning 2 mol ethanol are released, so no net CO₂ [1]
@@ -186,6 +186,7 @@ Ar values C = 12.0, H = 1.0, O = 16.0.
 
 - [Alcohols revision notes](/resources/aqa-a-level-chemistry-alcohols-revision-notes/)
 - [Alcohols study guide](/resources/aqa-a-level-chemistry-alcohols/)
+- [AQA A-Level Chemistry alkenes](/resources/aqa-a-level-chemistry-alkenes/)
 - [AQA A-Level Chemistry exam preparation](/resources/aqa-a-level-chemistry-exam-preparation/)
 - [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/)
 - [Printable checklist](/checklists/aqa/a-level/chemistry/)

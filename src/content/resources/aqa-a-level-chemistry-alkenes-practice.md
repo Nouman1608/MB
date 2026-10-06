@@ -221,6 +221,7 @@ figures to match the data.
 
 - [Alkenes revision notes](/resources/aqa-a-level-chemistry-alkenes-revision-notes/)
 - [Alkenes study guide](/resources/aqa-a-level-chemistry-alkenes/)
+- [Alcohols study guide](/resources/aqa-a-level-chemistry-alcohols/)
 - [Bonding](/resources/aqa-a-level-chemistry-bonding/)
 - [Mole practice questions](/resources/aqa-a-level-chemistry-mole-practice/)
 - [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/)

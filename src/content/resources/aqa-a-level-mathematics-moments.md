@@ -204,6 +204,7 @@ Notice the distances. The weight acts vertically, so its perpendicular distance 
 - Test yourself: [Moments practice questions](/resources/aqa-a-level-mathematics-moments-practice/).
 - Units first: [Quantities and units revision notes](/resources/aqa-a-level-mathematics-quantities-and-units-in-mechanics-revision-notes/).
 - Forces as vectors: [Vectors study guide](/resources/aqa-a-level-mathematics-vectors/).
+- Resolving and friction: [Forces and Newton's laws study guide](/resources/aqa-a-level-mathematics-forces-and-newtons-laws/); motion: [Kinematics study guide](/resources/aqa-a-level-mathematics-kinematics/).
 - Exam planning: [AQA A-level Maths exam preparation](/resources/aqa-a-level-mathematics-exam-preparation/).
 - [All free 10-minute diagnostics](/diagnostics/).
 

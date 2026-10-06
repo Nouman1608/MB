@@ -178,7 +178,7 @@ The reagents for the two reductions are not named in the specification; the ones
 ### Method
 
 1. **Compare start and target.** Write both structures. List the functional groups and count the carbons.
-2. **Carbon count changed?** Only three reactions in the map make a new C–C bond: KCN with a halogenoalkane,
+2. **Carbon count changed?** Apart from addition polymerisation, only three reactions in the map make a new C–C bond: KCN with a halogenoalkane,
    KCN with an aldehyde or ketone, and Friedel–Crafts acylation.
 3. **Work backwards** from the target. Ask: "What could this be made from in one step?"
 4. **Check the position** of the functional group. Addition to an unsymmetrical alkene goes through the more
