@@ -15491,3 +15491,36 @@ Three more problems turned up:
   - Browser journeys passed 11/11, including no horizontal scroll at 390px and working without JavaScript.
   - Desktop (1366) and phone (390) screenshots of the home page, nav, course finder, course pages (AS/A Level, IB, a topic with empty modes), subject page, listings, tuition and pricing were reviewed, along with keyboard focus on a resource link.
 - **Limitations.** Program cards on the home page keep their ruled grid. Pagefind's own filter labels still read in capitals. No real-device testing beyond Chromium.
+
+## D-399 - A-level topic gaps: 110 uncovered topics filled in six specifications; AQA versions updated (branch `topic-gaps-a-level`, 6 Oct 2026, 18:30 PKT)
+
+- **Why.** The owner asked for the worst A-level topic gaps to be filled. Six specifications had the most topics with no page: AQA 7405, 7357, 7408 and 7127, Cambridge 9626 and Cambridge O Level 5090.
+- **What.** 110 topics, each with a study guide, revision notes and a practice set:
+  - 7405: 31
+  - 7357: 18
+  - 7408: 12
+  - 7127: 15
+  - 9626: 18
+  - 5090: 16
+
+  `coverage:academic-v2` now reports zero topics without resources for all six.
+- **Method.**
+  - **Writing and checking.** One writer and one independent verifier per topic. Every number was recomputed in Python by both. Every learning outcome in the official text was mapped to the page that teaches it.
+  - **Rules.** Practice questions are original. Author is `marlbridge-academic-team`, with no reviewer fields and no resource counts.
+  - **Verifier fixes.** Arithmetic slips, mark-scheme claims removed from examiner insights, missing outcomes added, a pilot-implementation error (9626), an α-hydroxyketone Tollens' error (7405), and repeated worked numbers replaced.
+- **AQA versions.** The filestore PDFs were superseded copies. The current aqa.org.uk PDFs are:
+  - 7405 v1.2 (July 2026)
+  - 7408 v1.4 (July 2026)
+  - 7127 v1.1 (October 2026)
+  - 7357 v1.3 (unchanged)
+
+  Subject content is unchanged. Every 7405, 7408 and 7127 page now cites the current version (351 strings).
+- **Owner decision.** 7405/7408 v1.2/v1.4 add a notice: for UK overseas centres, the AS science specifications end after 2027 and the A-level ones after 2028. September 2026 is the last first-teaching cohort. The site does not say this yet.
+- **Facts check.** Eight online checkers confirmed about 230 claims. They made 4 corrections and 5 softenings (`docs/topic-gaps/facts-check/`). The web-search allowance ran out before the rest; the facts still to check are listed in `docs/topic-gaps/README-2026-10-06.md`.
+- **Audit fixes.**
+  - "(calculator allowed)" labels were removed from six 7405 practice sets, because AQA makes no such distinction.
+  - Finding-ID-shaped tokens were replaced (cell references E40/I22, athlete IDs E01-E05, "Q10").
+  - Markdown checkbox lists were turned into plain lists.
+- **Tests (6 Oct 2026).**
+  - `check_new.py` passed on all 330 pages. The only flag left is the known `$A$2` cell-reference false positive.
+  - `validate-academic-content`, the duplicate-scope check, `npm run build` and `audit:all` passed.

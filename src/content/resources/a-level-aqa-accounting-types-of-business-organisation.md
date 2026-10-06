@@ -23,7 +23,7 @@ featured: false
 
 This guide covers **3.2 Types of Business Organisation**, the second of
 18 subject-content sections in AQA A-Level Accounting (7127), A-level
-exams June 2019 onwards, Version 1.0. Like Topic 1, this is a compact,
+exams June 2019 onwards, Version 1.1 (October 2026). Like Topic 1, this is a compact,
 flat section of the specification rather than one broken into numbered
 sub-headings.
 
@@ -155,6 +155,6 @@ follow.
 
 ## Official syllabus
 
-AQA A-Level Accounting (7127) specification, Version 1.0, June 2019
+AQA A-Level Accounting (7127) specification, Version 1.1, October 2026
 onwards —
 [aqa.org.uk/7127](https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content).
