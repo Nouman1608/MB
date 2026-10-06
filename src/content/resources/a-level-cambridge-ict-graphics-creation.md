@@ -119,7 +119,7 @@ Using 3600 pixels over 24 inches gives 3600 ÷ 24 = 150 ppi → visibly softer
 | JPG/JPEG | Bitmap; lossy; millions of colours; no transparency | Photographs on the web |
 | PNG | Bitmap; lossless; supports transparency | Logos, screenshots, sharp edges and text |
 | GIF | Bitmap; lossless; 256 colours at most; can animate | Simple graphics, small animations |
-| TIF | Bitmap; uncompressed or lossless; large | Print and publishing masters |
+| TIF | Bitmap; usually uncompressed or lossless; large | Print and publishing masters |
 | PDF | Holds vector and bitmap content and fonts; keeps the layout | Print-ready artwork |
 
 **Exporting** saves a copy in the chosen format, with options such as quality and transparency. The syllabus states that Paper 4 work saved in an incorrect file format earns no marks for that task.

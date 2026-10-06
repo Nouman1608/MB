@@ -104,7 +104,7 @@ CMYK adds a separate black ink because mixing cyan, magenta and yellow gives a m
 | JPG/JPEG | Lossy | No | Photographs |
 | PNG | Lossless | Yes | Logos, screenshots, sharp text |
 | GIF | Lossless, max 256 colours | Simple | Simple graphics, short animations |
-| TIF | None or lossless | -- | Print and archive masters |
+| TIF | Usually none or lossless | -- | Print and archive masters |
 | PDF | Mixed content | -- | Fixed-layout, print-ready artwork |
 
 Paper 4: the syllabus states that work saved in an incorrect file format earns no marks for that task, so check the format every task asks for.

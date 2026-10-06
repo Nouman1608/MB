@@ -116,7 +116,7 @@ Acceleration = 20 ÷ 40 = **0.5 m s⁻²** [1]
 
 **4.** From v = u + at, u = v − at [1]
 s = (v − at)t + ½at² [1]
-= vt − at² + ½at² = vt − ½at² [1] **[3]**
+= vt − at² + ½at² = vt − ½at² [1]
 *Examiner insight:* each substitution must be shown; quoting the result earns no marks.
 
 **5. (a)** Cyclist: s = 8t [1]
@@ -133,7 +133,7 @@ t = 6 ± 4√2; t = 6 − 4√2 ≈ 0.343 is before the car starts, so **t = 6 +
 **(c)** r = (2i + 3j) + (4i − 6j)t + ½(−i + 2j)t² [1]
 At t = 3: r = (2 + 12 − 4.5)i + (3 − 18 + 9)j = 9.5i − 6j [1]
 Distance = √(9.5² + 6²) = √126.25 = **11.2 m** [1]
-*Examiner insight:* leaving out the starting position (2i + 3j) in (c) is a method error, so no follow-through applies.
+*Examiner insight:* leaving out the starting position (2i + 3j) in (c) puts the particle at the wrong point.
 
 **7. (a)** (t − 2)(t − 5) = 0 [1]
 **t = 2 s and t = 5 s** [1]
@@ -189,9 +189,7 @@ Using sin 2α = 2 sin α cos α, R = U² sin 2α / g [1]
 
 - Giving a distance when a displacement is asked for, or dropping its sign.
 - Using suvat in questions 7, 8 or 9, where the acceleration depends on t.
-- Integrating v straight across a change of direction to find distance.
 - Taking upwards as positive and then using a = +9.8 m s⁻².
-- Keeping a root of a quadratic from before the motion starts.
 - Dropping or mishandling a constant of integration, especially a vector one.
 - Giving only the speed when the velocity or direction of motion is asked for.
 
@@ -199,6 +197,7 @@ Using sin 2α = 2 sin α cos α, R = U² sin 2α / g [1]
 
 - Recap with the [Kinematics revision notes](/resources/aqa-a-level-mathematics-kinematics-revision-notes/).
 - Re-read any weak section in the [Kinematics study guide](/resources/aqa-a-level-mathematics-kinematics/).
+- Then try the [Forces and Newton's laws practice](/resources/aqa-a-level-mathematics-forces-and-newtons-laws-practice/) and [Moments practice](/resources/aqa-a-level-mathematics-moments-practice/).
 - Course hub: [/boards/aqa/a-level/mathematics/](/boards/aqa/a-level/mathematics/).
 - Printable checklist: [/checklists/aqa/a-level/mathematics/](/checklists/aqa/a-level/mathematics/).
 - [All free 10-minute diagnostics](/diagnostics/).

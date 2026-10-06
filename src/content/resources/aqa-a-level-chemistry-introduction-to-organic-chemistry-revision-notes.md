@@ -152,7 +152,8 @@ opposite sides, it is the E isomer.
     Br      Cl              Br      H
       \    /                  \    /
        C=C                     C=C
-      /    \                  /         H      H                H      Cl
+      /    \                  /    \
+     H      H                H      Cl
        (Z)                     (E)
 ```
 

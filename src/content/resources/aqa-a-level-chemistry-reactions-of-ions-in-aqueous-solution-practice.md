@@ -105,7 +105,7 @@ Identify A, B and C, giving one piece of evidence for each. Suggest one further 
 *Examiner insight:* Two equations are needed, one with acid and one with base; one equation cannot show amphoteric behaviour.
 
 **7.** A is Al³⁺ [1]: white precipitate and effervescence, so a colourless 3+ ion [1]. B is Fe²⁺ [1]: green precipitate (FeCO₃) with no gas, so a 2+ ion [1]. C is Fe³⁺: brown precipitate and effervescence, so iron(III) [1]. Confirm A: add NaOH(aq) dropwise then in excess; a white precipitate forms and dissolves in excess [1] **[6]**
-*Examiner insight:* Identification marks usually need the supporting observation; a bare list "A = Al³⁺, B = Fe²⁺, C = Fe³⁺" with no evidence gains only part of the credit.
+*Examiner insight:* Identification marks usually need the supporting observation; a bare list "A = Al³⁺, B = Fe²⁺, C = Fe³⁺" with no evidence gains only the identification marks in this scheme.
 
 **8. (a)** So that the precipitate can be seen forming before excess reagent is present (it may dissolve in excess) [1]
 **(b)** So that products of one reagent do not interfere with the observations for the next [1]
@@ -113,11 +113,11 @@ Identify A, B and C, giving one piece of evidence for each. Suggest one further 
 *Examiner insight:* The precaution must match the hazard named; "wear a lab coat" for an irritant vapour does not answer the risk.
 
 **9.** [H⁺]² = Ka × [HA] = 6.0 × 10⁻³ × 0.150 = 9.0 × 10⁻⁴ [1]. [H⁺] = 0.0300 mol dm⁻³ [1]. pH = −log 0.0300 = **1.52** [1] **[3]**
-*Examiner insight:* Give pH to two decimal places; an error carried forward from a wrong [H⁺] is usually still credited for a correct log step.
+*Examiner insight:* Give pH to two decimal places, and remember to square-root Ka × [HA]; taking −log of 9.0 × 10⁻⁴ itself gives 3.05, which is wrong.
 
 **10. (a)** 2[Fe(H₂O)₆]³⁺ + 3CO₃²⁻ → 2[Fe(H₂O)₃(OH)₃] + 3CO₂ + 3H₂O [1]
 **(b)** n(Fe³⁺) = 0.200 × 25.0/1000 = 5.00 × 10⁻³ mol [1]. Mr of [Fe(H₂O)₃(OH)₃] = 55.8 + 3(18.0) + 3(17.0) = 160.8; mass = **0.804 g** [1]. n(CO₂) = 5.00 × 10⁻³ × 3/2 = 7.50 × 10⁻³ mol [1]. Mass of CO₂ = 7.50 × 10⁻³ × 44.0 = **0.330 g** [1] **[5]**
-*Examiner insight:* The 2 : 3 ratio from the equation is the usual point of loss; using 1 : 1 for CO₂ gives 0.220 g and loses that mark, but later marks can follow through.
+*Examiner insight:* The 2 : 3 ratio from the equation is the usual point of loss; using 1 : 1 for CO₂ gives 0.220 g and loses that mark in this scheme.
 
 **11. (a)** Add NaOH(aq) drop by drop, then in excess [1]. Both give a white precipitate at first [1]; only the aluminium precipitate dissolves in excess (magnesium hydroxide does not) [1]
 **(b)** Add sodium carbonate solution [1]. Aluminium sulfate: white precipitate with effervescence [1]. Magnesium sulfate: white precipitate with no effervescence [1]

@@ -95,7 +95,7 @@ Two updates since the specification was written. BIS was replaced by the Departm
 
 The **Consultative Committee of Accountancy Bodies (CCAB)** is a forum for its member bodies and gives the profession a common voice when dealing with the UK government. Its members are ICAEW, ACCA, CIPFA, ICAS and Chartered Accountants Ireland.
 
-**CIMA**, the Chartered Institute of Management Accountants, trains and regulates management accountants. It announced in 2011 that it was leaving CCAB, so it is no longer a member. CIMA's Code of Ethics came into force on 1 January 2020 and keeps the five fundamental principles.
+**CIMA**, the Chartered Institute of Management Accountants, trains and regulates management accountants. It announced in 2011 that it was leaving CCAB, so it is no longer a member. CIMA's Code of Ethics is built on the five fundamental principles.
 
 Professional bodies **establish** codes by publishing them and making compliance a condition of membership. They **enforce** them by investigating complaints and disciplining members, which can end in exclusion from membership.
 
@@ -120,7 +120,7 @@ Work through these steps:
 4. **Apply safeguards** where they can reduce the threat, such as an independent review.
 5. **Resolve any conflict of interest.** Disclose it and step back from the decision.
 6. **Escalate internally.** Go to your line manager, then a higher level (the audit committee or the board) if your manager is involved.
-7. **Seek external or professional help when necessary.** Take advice from your professional body or a lawyer. Under the Public Interest Disclosure Act 1998, a worker who reasonably believes the information shows, for example, a criminal offence or a failure to comply with a legal obligation is protected from detriment for a protected disclosure.
+7. **Seek external or professional help when necessary.** Take advice from your professional body or a lawyer. Under the Public Interest Disclosure Act 1998, a worker who reasonably believes the information shows, for example, a criminal offence or a failure to comply with a legal obligation can be protected from detriment if the disclosure qualifies.
 8. **Refuse to take part,** and as a last resort resign or withdraw from the engagement.
 
 ### Worked example

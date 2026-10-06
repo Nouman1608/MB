@@ -140,6 +140,8 @@ vector form: r = r₀ + ut − ½gt² j      v = u − gt j
 
 If asked to improve a model, name one assumption and say how relaxing it changes the answer (for example, air resistance would reduce the range).
 
+Kinematics feeds straight into the [Forces and Newton's laws revision notes](/resources/aqa-a-level-mathematics-forces-and-newtons-laws-revision-notes/) (Section R) and the [Moments revision notes](/resources/aqa-a-level-mathematics-moments-revision-notes/) (Section S).
+
 ## Must-know distinctions
 
 | This | is not | this |

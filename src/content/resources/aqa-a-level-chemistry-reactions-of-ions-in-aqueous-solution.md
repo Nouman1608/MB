@@ -178,7 +178,7 @@ Add sodium carbonate solution. Here the 2+ and 3+ ions behave differently, and t
 | Fe³⁺ | brown precipitate and effervescence | [Fe(H₂O)₃(OH)₃] and CO₂ |
 | Al³⁺ | white precipitate and effervescence | [Al(H₂O)₃(OH)₃] and CO₂ |
 
-**2+ ions** are only weakly acidic. The carbonate ion is not protonated to any extent, so the metal carbonate precipitates:
+**2+ ions** are only weakly acidic. They are not acidic enough to protonate carbonate ions to carbon dioxide, so the metal carbonate precipitates:
 
 ```
 [Fe(H₂O)₆]²⁺ + CO₃²⁻ → FeCO₃ + 6H₂O

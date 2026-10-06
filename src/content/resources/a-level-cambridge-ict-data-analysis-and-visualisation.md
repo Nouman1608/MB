@@ -83,7 +83,7 @@ North's raw extract has eight rows:
 | N104 | Omar Shah | Tents | −1 |
 | N105 | Ayesha Noor | Kayaks␣ | 2 |
 | N106 | Bilal Raza | Tents | 4 |
-| N107 | Zainab Ali | Bikes | 1 |
+| N107 | Zainab Ali | Bikes | 5 |
 
 (␣ marks a space.)
 
@@ -185,7 +185,7 @@ This gives 150 + 75 = **225**. A combined table is usually more efficient: one p
 
 ## Displaying data to communicate information
 
-After cleaning, the combined table has 12 hires:
+After cleaning, and with N103 corrected to 4 days, the combined table has 12 hires:
 
 | Branch | Category | Days | Month | Revenue |
 |---|---|---|---|---|

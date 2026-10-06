@@ -64,11 +64,12 @@ H - C - C - C - C - O - H
 
 A **skeletal formula** follows three rules:
 
-1. Each line is a C–C bond; each end and each corner is a carbon atom.
+1. Each line is a bond; each end and each corner is a carbon atom unless another atom is written there.
 2. Hydrogen atoms on carbon are not drawn (each carbon makes four bonds).
 3. Every other atom is drawn, with any hydrogen on it (so –OH is written in full).
 
-So butan-1-ol is a zigzag of three lines with OH at one end, and a plain hexagon is cyclohexane, C₆H₁₂.
+So butan-1-ol is a zigzag of three C–C lines plus a fourth line from the end carbon to OH, and a plain
+hexagon is cyclohexane, C₆H₁₂.
 
 ### Worked example 1: from percentage composition to formulas
 

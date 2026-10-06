@@ -130,7 +130,7 @@ This formula is entered in B2 of the Mall worksheet and copied down to B5:
 
 **6. (a)** B2 **Both**, B3 **Both** [1]; B4 **Mall only**, B5 **Both** [1] **[2]**
 **(b)** So the range stays fixed on Station!A2:A5 when the formula is copied down [1]. **[1]**
-**(c)** Enter the same formula on the Station sheet, counting each code in the Mall range; P07 shows "Station only" [1]. **[1]**
+**(c)** Enter the same formula on the Station sheet, counting each code in the Mall range, labelled "Station only"; P07 is flagged [1]. **[1]**
 *Examiner insight:* In (a), check each code against the whole Station list; P03 is in both lists even though it sits in a different row.
 
 **7.** Import the csv file using a comma delimiter and the txt file using a tab delimiter, so each value is in its own field [1]. Rearrange the Station fields into the same order with the same field names as Mall [1]. Convert Station's text dates into true dates, and make data types and formats consistent [1]. Add a Shop field to both sets of records so each record shows its source [1]. Append Station's records below Mall's, remove duplicates and check the record count equals the two sources added together [1]. **[5]**

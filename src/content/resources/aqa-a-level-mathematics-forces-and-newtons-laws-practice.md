@@ -185,6 +185,7 @@ By **Newton's third law** the box pushes down on the floor with **135 N** [1] **
 - Condensed recall: [Forces and Newton's laws revision notes](/resources/aqa-a-level-mathematics-forces-and-newtons-laws-revision-notes/).
 - Full explanations: [Forces and Newton's laws study guide](/resources/aqa-a-level-mathematics-forces-and-newtons-laws/).
 - Force vectors: [Vectors practice questions](/resources/aqa-a-level-mathematics-vectors-practice/).
+- Related practice: [Kinematics](/resources/aqa-a-level-mathematics-kinematics-practice/) and [Moments](/resources/aqa-a-level-mathematics-moments-practice/).
 - Course hub: [/boards/aqa/a-level/mathematics/](/boards/aqa/a-level/mathematics/). Checklist: [/checklists/aqa/a-level/mathematics/](/checklists/aqa/a-level/mathematics/).
 - [All free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).

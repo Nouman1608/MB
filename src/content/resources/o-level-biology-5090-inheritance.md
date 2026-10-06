@@ -45,7 +45,7 @@ Use it with the [revision notes](/resources/o-level-biology-5090-inheritance-rev
 
 ### Investigating variation (17.1.5)
 
-1. **Continuous:** measure one feature of many individuals of one species, such as the length of 24 leaves from one tree, using a ruler in mm. Group the values into equal classes and draw a **histogram** (bars touching), because the data are continuous.
+1. **Continuous:** measure one feature of many individuals of one species, such as the length of one leaf from each of 24 plants of one species, using a ruler in mm. Group the values into equal classes and draw a **histogram** (bars touching), because the data are continuous.
 2. **Discontinuous:** count individuals in each category, such as round and wrinkled seeds from a sample of pea pods. Draw a **bar chart** (bars of equal width, not touching), because the data are in categories.
 3. Use a large sample, and measure the same way each time.
 
@@ -55,7 +55,7 @@ Leaf lengths (mm) were sorted into classes: 35–44: 2 leaves; 45–54: 7; 55–
 
 - These are lengths, so any value is possible: **continuous** variation. Plot a **histogram** with class on the x-axis and number of leaves on the y-axis.
 - The data peak in the middle class and tail off at both ends. That shape is typical of continuous variation.
-- The leaves share similar genes, yet differ in length. This suggests the **environment** (light, water, position on the tree) also affects length.
+- Like other continuous features, leaf length is affected by **genes** and by the **environment** (light, water, soil).
 
 ## 17.2 DNA
 

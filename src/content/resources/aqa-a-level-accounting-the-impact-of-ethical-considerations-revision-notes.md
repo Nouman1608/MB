@@ -81,7 +81,7 @@ A safeguard reduces a threat to an acceptable level. It may not remove it. If no
 | Government | Company law (Companies Act 2006); Companies House; Insolvency Service. BIS (named in the specification) became BEIS in July 2016; business functions moved to the Department for Business and Trade in February 2023 |
 | EU | IAS Regulation (EC 1606/2002): publicly traded companies use international standards for consolidated accounts. UK left on 31 January 2020; EU-adopted standards were frozen into UK law at the end of 2020, then UK-adopted standards apply |
 | CCAB | Forum and common voice to government for ICAEW, ACCA, CIPFA, ICAS and Chartered Accountants Ireland |
-| CIMA | Management accountants' body; not a CCAB member (announced its exit in 2011); Code of Ethics in force from 1 January 2020 |
+| CIMA | Management accountants' body; not a CCAB member (announced its exit in 2011); own Code of Ethics built on the five principles |
 
 **Consequences of breaking the rules:** sanctions from the FRC or a professional body (up to exclusion), legal action under company law, a modified audit opinion, loss of investor and lender confidence, and personal loss of job or reputation.
 

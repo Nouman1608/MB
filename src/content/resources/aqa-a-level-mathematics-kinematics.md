@@ -21,7 +21,7 @@ featured: false
 
 This guide teaches **Section Q: Kinematics (Q1 to Q5)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. The specification lists Section Q under **Paper 2**, with vectors, units, forces and moments. A calculator is required in every 7357 paper.
 
-Kinematics describes motion without asking what causes it; forces come in Section R.
+Kinematics describes motion without asking what causes it; forces come in Section R ([Forces and Newton's laws study guide](/resources/aqa-a-level-mathematics-forces-and-newtons-laws/)) and turning effects in Section S ([Moments study guide](/resources/aqa-a-level-mathematics-moments/)).
 
 Use this guide with the [Kinematics revision notes](/resources/aqa-a-level-mathematics-kinematics-revision-notes/) and the [Kinematics practice questions](/resources/aqa-a-level-mathematics-kinematics-practice/). The course hub is at [/boards/aqa/a-level/mathematics/](/boards/aqa/a-level/mathematics/), the printable checklist at [/checklists/aqa/a-level/mathematics/](/checklists/aqa/a-level/mathematics/), and you can find your weak spots first with the [free 10-minute diagnostics](/diagnostics/).
 

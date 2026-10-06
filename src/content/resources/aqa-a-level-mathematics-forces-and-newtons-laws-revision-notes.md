@@ -23,7 +23,7 @@ For full explanations and worked examples, read the [Forces and Newton's laws st
 
 They cover **Section R: Forces and Newton's laws (R1 to R6)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. The specification places Section R in **Paper 2**. A calculator is required in every 7357 paper. Take g = 9.8 m s⁻² unless told otherwise.
 
-Links: [practice questions](/resources/aqa-a-level-mathematics-forces-and-newtons-laws-practice/) · [course hub](/boards/aqa/a-level/mathematics/) · [checklist](/checklists/aqa/a-level/mathematics/) · [free 10-minute diagnostics](/diagnostics/) · [Quantities and units revision notes](/resources/aqa-a-level-mathematics-quantities-and-units-in-mechanics-revision-notes/) · [Vectors revision notes](/resources/aqa-a-level-mathematics-vectors-revision-notes/).
+Links: [practice questions](/resources/aqa-a-level-mathematics-forces-and-newtons-laws-practice/) · [course hub](/boards/aqa/a-level/mathematics/) · [checklist](/checklists/aqa/a-level/mathematics/) · [free 10-minute diagnostics](/diagnostics/) · [Quantities and units revision notes](/resources/aqa-a-level-mathematics-quantities-and-units-in-mechanics-revision-notes/) · [Vectors revision notes](/resources/aqa-a-level-mathematics-vectors-revision-notes/) · [Kinematics revision notes](/resources/aqa-a-level-mathematics-kinematics-revision-notes/) · [Moments revision notes](/resources/aqa-a-level-mathematics-moments-revision-notes/).
 
 ## Specification checklist
 

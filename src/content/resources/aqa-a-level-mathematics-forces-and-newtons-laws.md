@@ -56,7 +56,7 @@ Constant velocity → resultant force = 0 (first law)
 R = 170 N
 ```
 
-The speed is not needed: constant velocity at any speed means balanced forces.
+The speed is not needed: any constant velocity means balanced forces.
 
 ## R2 and R3: Newton's second law and weight
 
@@ -207,6 +207,7 @@ F = ma:         19.6 − 8.487 = 4a  →  a = 2.78 m s⁻² down the plane
 - Condensed recall: [Forces and Newton's laws revision notes](/resources/aqa-a-level-mathematics-forces-and-newtons-laws-revision-notes/).
 - Test yourself: [Forces and Newton's laws practice questions](/resources/aqa-a-level-mathematics-forces-and-newtons-laws-practice/).
 - Force vectors: [Vectors practice questions](/resources/aqa-a-level-mathematics-vectors-practice/).
+- Related topics: [Kinematics](/resources/aqa-a-level-mathematics-kinematics/) and [Moments](/resources/aqa-a-level-mathematics-moments/).
 - Find your gaps: [all free 10-minute diagnostics](/diagnostics/).
 - Course hub: [/boards/aqa/a-level/mathematics/](/boards/aqa/a-level/mathematics/). Checklist: [/checklists/aqa/a-level/mathematics/](/checklists/aqa/a-level/mathematics/).
 
