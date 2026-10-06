@@ -146,7 +146,7 @@ Reconciliation: inventory rose by 3,000 cases × 3.00 = 9,000, so absorption pro
 
 **7. (a)** Marginal cost = 4.60 + 3.80 + 1.20 = 9.60 [1]; 15,000 × 9.60 = 144,000 [1]. Add lease avoided by buying 9,000 [1] and lost sublet income 6,500 [1]: relevant cost of making = 159,500. Buying = 15,000 × 11.20 = 168,000 [1]. Making is cheaper by **8,500**, so keep making [1].
 **(b)** Any two: supplier's quality and reliability [1]; loss of control over delivery times, jobs or skills [1].
-*Examiner insight:* the 2.90 absorbed overhead is irrelevant; using full cost of 12.50 reverses the decision and gains no credit for the method.
+*Examiner insight:* the 2.90 absorbed overhead is irrelevant; using full cost of 12.50 reverses the decision.
 
 **8. (a)** Spa contribution = 54,000 − 32,400 = 21,600 lost [1]. Fixed costs saved 11,400 [1]. Profit falls by **10,200** [1], from 18,000 to **7,800** [1].
 **(b)** −10,200 + 13,000 rent = profit rises by **2,800** [1], to **20,800** [1].
@@ -156,7 +156,7 @@ Reconciliation: inventory rose by 3,000 cases × 3.00 = 9,000, so absorption pro
 **9. (a)** Hours needed: X 5,400 + Y 6,000 + Z 4,000 = 15,400 [1], more than the 13,900 available [1].
 **(b)** Contribution per hour: X 18 ÷ 3 = 6.00 [1]; Y 28 ÷ 4 = 7.00 [1]; Z 15 ÷ 2 = 7.50 [1]. Rank Z, Y, X [1]. Make 2,000 Z (4,000 hours) and 1,500 Y (6,000 hours) [1], then 3,900 ÷ 3 = **1,300 X** [1].
 **(c)** Contribution: 30,000 + 42,000 + 23,400 = 95,400 [1]. Profit = 95,400 − 61,000 = **34,400** [1].
-*Examiner insight:* Y has the highest contribution per unit but ranks second; ranking by unit contribution gives a wrong plan and loses the credit available for the ranking and allocation.
+*Examiner insight:* Y has the highest contribution per unit but ranks second; ranking by unit contribution gives a wrong plan.
 
 **10. (a)** 150,000 ÷ 30,000 = 5.00 per unit [1]; 8,000 units × 5.00 = **40,000** [1].
 **(b)** Producing more than is sold raises absorption profit, because fixed overhead is carried forward [1]. So the manager could raise the bonus by overproducing [1]. This ties up cash and adds storage costs and obsolescence risk [1]. A bonus based on marginal costing profit, which follows sales, removes the incentive [1].

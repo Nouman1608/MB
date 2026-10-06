@@ -163,7 +163,7 @@ Extra profit               = 1,800 × 5.40      =  9,720
 
 The price is below the absorption cost of 26.00, but normal sales already cover fixed overheads. On financial grounds, **accept**. Then consider: will regular customers ask for the lower price? Could it lead to repeat work? Is the hotel a sound credit risk?
 
-After accepting it, a second buyer wants 2,500 vases at 21.00. Only 1,200 vases of spare capacity remain, so 1,300 normal sales would be lost. Each normal sale earns 40.00 − 18.00 − 1.20 = 20.80.
+After accepting it, a second buyer wants 2,500 vases at 21.00, with no extra costs. Only 1,200 vases of spare capacity remain, so 1,300 normal sales would be lost. Each normal sale earns 40.00 − 18.00 − 1.20 = 20.80.
 
 ```
 Contribution from new order    = 2,500 × (21.00 − 18.00) =   7,500
@@ -186,22 +186,22 @@ Making is cheaper by **1,800**, although the full cost (3.10) exceeds the suppli
 
 ### Continuing or discontinuing a service or product
 
-Hatherden Coaches runs three services. Fixed costs of 135,000 are apportioned in proportion to revenue.
+Hatherden Coaches runs three services. Fixed costs of 140,000 are apportioned in proportion to revenue.
 
 | | Airport | Schools | Tours | Total |
 |---|---|---|---|---|
-| Revenue | 210,000 | 150,000 | 90,000 | 450,000 |
-| Variable costs | (126,000) | (84,000) | (66,000) | (276,000) |
-| Contribution | 84,000 | 66,000 | 24,000 | 174,000 |
-| Apportioned fixed costs | (63,000) | (45,000) | (27,000) | (135,000) |
-| Profit/(loss) | 21,000 | 21,000 | (3,000) | 39,000 |
+| Revenue | 240,000 | 160,000 | 100,000 | 500,000 |
+| Variable costs | (150,000) | (92,000) | (78,000) | (320,000) |
+| Contribution | 90,000 | 68,000 | 22,000 | 180,000 |
+| Apportioned fixed costs | (67,200) | (44,800) | (28,000) | (140,000) |
+| Profit/(loss) | 22,800 | 23,200 | (6,000) | 40,000 |
 
-Closing Tours saves only its depot hire of 7,500; the rest of its 27,000 share is charged to the other services.
+Closing Tours saves only its depot hire of 8,500; the rest of its 28,000 share is charged to the other services.
 
 ```
-Contribution lost        (24,000)
-Fixed costs saved          7,500
-Change in profit         (16,500)   → total profit falls from 39,000 to 22,500
+Contribution lost        (22,000)
+Fixed costs saved          8,500
+Change in profit         (13,500)   → total profit falls from 40,000 to 26,500
 ```
 
 **Continue Tours**: its contribution exceeds its avoidable costs. Consider also whether Tours customers book other services, and drivers' jobs.
@@ -233,7 +233,7 @@ Resin for full demand = 6,000 + 9,000 + 5,000 = 20,000 kg, more than 17,000, so 
 | Satin | 2,000 (6,000 kg ÷ 3) | 6,000 | 24,000 |
 | Total | | 17,000 | 95,000 |
 
-Maximum profit = 95,000 − 50,000 = **45,000**. Ranking by contribution per tin would put Satin second and give only 39,000: Satin earns more per tin than Matt but uses twice the resin.
+Maximum profit = 95,000 − 50,000 = **45,000**. Ranking by contribution per tin would give only 39,000: Satin earns more per tin than Matt but uses twice the resin.
 
 ## Common errors
 
