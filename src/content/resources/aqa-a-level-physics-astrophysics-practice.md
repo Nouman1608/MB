@@ -124,7 +124,7 @@ Data: c = 3.00 × 10⁸ m s⁻¹; G = 6.67 × 10⁻¹¹ N m² kg⁻²; σ = 5.67
 *Examiner insight:* In (b), quote both numbers in your comparison; a bare "no" gives no reason for the judgement.
 
 **4. (a)** The atmosphere is transparent to most radio wavelengths, so radio waves reach the ground [1]; X-rays are absorbed by the atmosphere, so the telescope must be above it [1].
-**(b)** A CCD has a much higher quantum efficiency, detecting a larger fraction of incident photons [1]; it can integrate over long exposures and store a digital image for processing [1].
+**(b)** A CCD has a much higher quantum efficiency than the eye, detecting a larger fraction of incident photons [1]; it can integrate over long exposures and store a digital image for processing, unlike the eye [1].
 *Examiner insight:* "Compare" needs both detectors in each point; describing only the CCD is incomplete.
 
 **5. (a)** **Star A** (lower magnitude) [1]
@@ -177,7 +177,6 @@ Data: c = 3.00 × 10⁸ m s⁻¹; G = 6.67 × 10⁻¹¹ N m² kg⁻²; σ = 5.67
 - Calling the higher-magnitude star brighter.
 - Putting d in metres into m − M = 5 log(d/10).
 - Forgetting the fourth power of T, or not square-rooting to get r.
-- Explaining Balmer strength with only one temperature limit.
 - Using the percentage dip without converting it to a fraction.
 - Leaving H in km s⁻¹ Mpc⁻¹ when computing 1/H in seconds.
 

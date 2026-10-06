@@ -64,7 +64,7 @@ The syllabus names seven uses. Learn all seven, and be ready to match each one t
 | Passage of electrical impulses along neurones | A nerve impulse travelling from the eye to the brain |
 | Maintenance of a constant body temperature | A mammal or bird keeping warm in cold surroundings |
 
-When a question gives you a situation, name the use exactly. "Active transport" earns more than "moving things", and "maintaining a constant body temperature" earns more than "keeping warm".
+When a question gives you a situation, name the use exactly: "active transport", not "moving things"; "maintaining a constant body temperature", not "keeping warm".
 
 ## 10.2 Aerobic respiration
 

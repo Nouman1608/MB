@@ -26,7 +26,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover **topic 13, New and emerging technologies** (section 13.1) of the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3). This is **A Level only** content, examined on Paper 3 (Advanced Theory), which is based on sections 12–21; in Paper 4 candidates apply knowledge and understanding of all subject content. All questions can be answered on paper; use a calculator for question 6.
+These questions cover **topic 13, New and emerging technologies** (section 13.1) of the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3). This is **A Level only** content, examined on Paper 3 (Advanced Theory), which is based on sections 12–21; in Paper 4 candidates apply knowledge and understanding of all subject content. All questions can be answered on paper. The syllabus states that calculators are not allowed in Paper 3, so work question 6 by hand.
 
 Learn the content first with the [study guide](/resources/a-level-cambridge-ict-new-and-emerging-technologies/) and the [revision notes](/resources/a-level-cambridge-ict-new-and-emerging-technologies-revision-notes/). The course hub is [Cambridge A Level IT](/boards/cambridge/a-level/ict/), and the [9626 checklist](/checklists/cambridge/a-level/ict/) lists every outcome.
 
@@ -51,7 +51,7 @@ Learn the content first with the [study guide](/resources/a-level-cambridge-ict-
 **(b)** Describe how holographic data storage differs from storage on a standard optical disc. **[2]**
 **(c)** Give **one** reason why holographic data storage is not yet widely used. **[1]**
 
-**6.** (calculator allowed) A warehouse replaces its forklift trucks, which used 110,000 kWh of electricity a year, with 15 robots. Each robot is rated at 1.2 kW and runs for 16 hours a day on 300 days a year.
+**6.** (non-calculator) A warehouse replaces its forklift trucks, which used 110,000 kWh of electricity a year, with 15 robots. Each robot is rated at 1.2 kW and runs for 16 hours a day on 300 days a year.
 
 **(a)** Calculate the energy the robots use in a year. **[2]**
 **(b)** Calculate the percentage reduction in energy use, to 1 decimal place. **[2]**

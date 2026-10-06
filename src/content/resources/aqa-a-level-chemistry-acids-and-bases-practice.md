@@ -103,7 +103,7 @@ of 0.250 mol dm⁻³ HA.
 
 **(a)** Calculate the pH of the buffer formed. **[4]**
 **(b)** 1.00 cm³ of 0.500 mol dm⁻³ HCl is added to the buffer. Calculate the new pH. **[3]**
-**(c)** Calculate the pH if the same HCl were added to 56.0 cm³ of water instead, and comment on the
+**(c)** Calculate the pH if the same HCl were added to 55.0 cm³ of water instead, and comment on the
 difference. **[2]**
 
 ## Answers
@@ -131,7 +131,7 @@ difference. **[2]**
 Ka = [H⁺]² / [HB] = (2.40 × 10⁻⁴)² / 0.0450 [1]
 Ka = **1.28 × 10⁻⁶ mol dm⁻³** [1]
 pKa = −log₁₀(1.28 × 10⁻⁶) = **5.89** [1]
-*Examiner insight:* An error in [H⁺] is usually carried forward, so later marks remain available if the method is right.
+*Examiner insight:* Write [H⁺] down before squaring it; if it is wrong, the Ka and pKa steps here can still earn method credit.
 
 **6.** Ka(X) = 10^(−3.86) = 1.38 × 10⁻⁴ mol dm⁻³ [1]
 pKa(Y) = −log₁₀(2.4 × 10⁻⁵) = 4.62 [1]
@@ -182,7 +182,7 @@ pH = **4.46** [1]
 **(b)** n(H⁺) added = 0.500 × 0.00100 = 5.00 × 10⁻⁴ mol; HA = 7.50 × 10⁻³ mol, A⁻ = 2.50 × 10⁻³ mol [1]
 [H⁺] = 1.50 × 10⁻⁵ × 7.50/2.50 = 4.50 × 10⁻⁵ mol dm⁻³ [1]
 pH = **4.35** [1]
-**(c)** [H⁺] = 5.00 × 10⁻⁴ / 0.0560 = 8.93 × 10⁻³; pH = **2.05** [1]. The buffer pH falls by only 0.11,
+**(c)** Total volume 56.0 cm³: [H⁺] = 5.00 × 10⁻⁴ / 0.0560 = 8.93 × 10⁻³; pH = **2.05** [1]. The buffer pH falls by only 0.11,
 but in water the pH falls to about 2 [1]
 *Examiner insight:* In (b), adding H⁺ to [H⁺] instead of changing the moles of HA and A⁻ scores only the first mark.
 

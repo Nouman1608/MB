@@ -114,7 +114,7 @@ Rule: a valve opens when pressure behind it is higher, and closes when pressure 
 
 | | Artery | Vein | Capillary |
 |---|---|---|---|
-| Blood pressure | High | Low | Lower still |
+| Blood pressure | High | Low | Lower than arteries, falling along the capillary |
 | Wall | Thick | Thin | One cell thick |
 | Muscle and elastic tissue | Much | Little | None |
 | Lumen | Narrow | Wide | Very narrow |

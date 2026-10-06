@@ -86,7 +86,7 @@ Course hub: [Cambridge A Level ICT](/boards/cambridge/a-level/ict/). Checklist: 
 | Change values in matching records | Update |
 | Spot repeated records | Find duplicates, check, then delete extras |
 
-Operators: =, >, <, >=, <=, AND, OR, NOT, wildcards (any characters / one character; the symbols depend on the software), date ranges and Boolean criteria. **Sort** ascending or descending, and on a second field to break ties.
+Operators: =, >, <, >=, <=, AND, OR, NOT, wildcards (any characters / one character; the symbols depend on the software), text and numeric criteria, date ranges, time criteria (StartTime < 12:00 for morning lessons) and Boolean criteria. **Sort** ascending or descending, and on a second field to break ties.
 
 ### Worked reminder: a calculated field
 

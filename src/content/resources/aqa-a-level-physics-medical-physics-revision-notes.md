@@ -128,8 +128,8 @@ P = 1/u + 1/v
 ## 3.10.6 Radionuclides
 
 - **Good tracer**: γ only, half-life suited to the scan, γ energy that escapes the body yet is stopped in the camera crystal, can be labelled to an organ-seeking compound.
-- **Tc-99m**: pure γ, short half-life, widely labelled. **I-131**: β⁻ and γ, thyroid. **In-111**: γ, labels e.g. white blood cells.
-- **Mo-Tc generator**: longer-lived Mo-99 decays to Tc-99m; Tc-99m is eluted with saline on site.
+- **Tc-99m**: pure γ (about 140 keV), half-life about 6 h, widely labelled. **I-131**: β⁻ and γ (main γ about 364 keV), half-life about 8 days, thyroid. **In-111**: electron capture, γ about 171 and 245 keV, half-life about 2.8 days, labels e.g. white blood cells. (Approximate values.)
+- **Mo-Tc generator**: longer-lived Mo-99 (half-life about 66 h) decays to Tc-99m; Tc-99m is eluted with saline on site.
 - **PET**: positron emitter; annihilation gives two γ photons back to back; coincidence detection locates the line of the source.
 - **Gamma camera**: collimator → scintillator crystal → photomultiplier tubes → position logic → computer.
 - **Photomultiplier**: photocathode (photoelectric effect) → dynodes at rising potentials multiply electrons → anode pulse.

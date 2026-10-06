@@ -277,7 +277,7 @@ With 210 included, σ = 17.9 g: one extreme value tripled the standard deviation
 
 ### Cleaning data
 
-Real data sets, including AQA's large data set, need cleaning before you analyse them.
+Real data sets often need cleaning before you analyse them.
 
 - **Missing data**: a blank or a code such as "n/a". Leave it out of calculations, say so, and
   never replace it with 0.

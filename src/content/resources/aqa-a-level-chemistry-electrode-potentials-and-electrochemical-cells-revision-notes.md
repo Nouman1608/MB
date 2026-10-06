@@ -134,6 +134,8 @@ Always use the data the question gives you.
 | Rechargeable | An external supply reverses the electrode reactions |
 | Fuel cell | Fuel and oxygen supplied continuously; no electrical recharging needed |
 
+**Deducing reactions from given data (non-rechargeable or rechargeable cell):** the more negative half-equation runs backwards (oxidation) at the negative electrode; the more positive one runs forwards (reduction) at the positive electrode; EMF = E⦵(positive) − E⦵(negative). In a rechargeable cell, both reactions reverse on charging. Practice questions 4 (non-rechargeable) and 11 (rechargeable) use this method.
+
 ### Lithium cell (simplified, as in the specification)
 
 ```

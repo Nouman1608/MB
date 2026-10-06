@@ -163,11 +163,13 @@ Through 0.10 m: e^(−2.77) = 0.0625, i.e. (1/2)⁴
 
 **Tracers** are γ emitters labelled onto a compound that collects in a target organ. Judge them on radiation (γ escapes to be detected; α or β only adds dose), half-life (long enough for the scan, short enough to limit dose), γ energy (escapes the body but is stopped in the camera crystal) and ease of labelling.
 
-- **Technetium-99m**: pure γ emitter, short half-life, labels many compounds.
-- **Iodine-131**: emits β⁻ and γ; taken up by the thyroid.
-- **Indium-111**: γ emitter used to label compounds such as white blood cells.
+Approximate values:
 
-**Mo-Tc generator.** Mo-99, with a longer half-life, decays by β⁻ to Tc-99m on a column; the Tc-99m is washed out with saline when needed, so hospitals can make the short-lived tracer on site for several days.
+- **Technetium-99m**: pure γ emitter, γ about 140 keV, half-life about 6 hours; labels many compounds.
+- **Iodine-131**: emits β⁻ and γ (main γ about 364 keV), half-life about 8 days; taken up by the thyroid.
+- **Indium-111**: decays by electron capture, γ about 171 and 245 keV, half-life about 2.8 days; labels compounds such as white blood cells.
+
+**Mo-Tc generator.** Mo-99, half-life about 66 hours, decays by β⁻ to Tc-99m on a column; the Tc-99m is washed out with saline when needed, so hospitals can make the short-lived tracer on site for several days.
 
 **PET.** A positron-emitting tracer is injected. Each positron annihilates with an electron, giving two γ photons in opposite directions (about 0.51 MeV each). Detectors in a ring record pairs arriving together; the source lies on the line between them.
 

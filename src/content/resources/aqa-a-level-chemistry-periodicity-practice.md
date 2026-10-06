@@ -96,7 +96,7 @@ Evaluate this statement. **[6]**
 
 **1.** **B** [1]. Zinc's last electron in energy order goes into 3d (3d¹⁰ 4s²). Gallium is p block (4p¹),
 calcium is s block and helium is s block. **[1]**
-*Examiner insight:* A multiple choice answer that rings two letters scores zero, even if one of them is correct.
+*Examiner insight:* Gallium is the tempting wrong answer: 3d¹⁰ appears in its configuration, but its last electron goes into 4p.
 
 **2.** Its **proton number** (atomic number) [1]. **[1]**
 *Examiner insight:* "Mass number" or "relative atomic mass" gets no credit; the table is ordered by proton
@@ -140,7 +140,7 @@ structure mark, even if the rest is right.
 **9.** Both are simple molecular, made of S₈ and Cl₂ molecules [1]. S₈ has more electrons (128) than Cl₂
 (34), so the van der Waals forces between S₈ molecules are stronger [1]. More energy is needed to overcome
 these forces, so sulfur has the higher melting point [1]. **[3]**
-*Examiner insight:* Any statement that covalent bonds break on melting usually cancels the force mark,
+*Examiner insight:* Saying that S–S or Cl–Cl covalent bonds break on melting does not earn the second mark here,
 because it shows the wrong idea of what is overcome.
 
 **10.** Silicon is macromolecular (giant covalent) [1]. To melt it, many strong covalent bonds must be

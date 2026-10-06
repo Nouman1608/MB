@@ -144,7 +144,7 @@ A fixed mass of gas stays in its container, and pV = nRT throughout.
 | Constant pressure | W = pΔV | Q = ΔU + pΔV |
 | Constant volume | W = 0 | Q = ΔU |
 
-γ is given in questions. Isothermal changes are slow; adiabatic ones are fast or insulated. Adiabatic compression makes W negative, so ΔU and T rise.
+γ is a constant for the gas. Isothermal changes are slow; adiabatic ones are fast or insulated. Adiabatic compression makes W negative, so ΔU and T rise.
 
 **Worked example 8.** Air (γ = 1.4) at 1.0 × 10⁵ Pa and 300 K is compressed adiabatically from 4.0 × 10⁻⁴ m³ to 0.50 × 10⁻⁴ m³.
 
@@ -161,7 +161,7 @@ Isothermals are curves; adiabatics are steeper curves; constant-pressure lines a
 
 **Four-stroke petrol engine:** induction, compression, power (a spark ignites the fuel–air mixture), exhaust. Theoretical cycle: two adiabatics joined by two constant-volume lines (heat in, heat out).
 
-**Diesel engine:** air alone is compressed until hot enough to ignite injected fuel. Theoretical cycle: heat in at **constant pressure**, adiabatic expansion, heat out at constant volume.
+**Diesel engine:** air alone is compressed until hot enough to ignite injected fuel. Theoretical cycle: adiabatic compression, heat in at **constant pressure**, adiabatic expansion, heat out at constant volume.
 
 **Indicator diagrams** are measured p–V loops. Compared with theory they have rounded corners, lower peak pressure and smaller area: burning takes time, valves do not move instantly, energy leaks through cylinder walls and the gas is not ideal. Induction and exhaust add a small loop of work done on the gas. Engine construction details are not required.
 

@@ -41,7 +41,7 @@ Before you start, you may want the [study guide](/resources/aqa-a-level-chemistr
 **(a)** Describe the standard hydrogen electrode. **[3]**
 **(b)** Explain why platinum is used as the electrode. **[1]**
 
-**4.** Data: Mg²⁺ + 2e⁻ ⇌ Mg, E⦵ = −2.37 V; Ni²⁺ + 2e⁻ ⇌ Ni, E⦵ = −0.25 V.
+**4.** A non-rechargeable cell is made from two half-cells. Data: Mg²⁺ + 2e⁻ ⇌ Mg, E⦵ = −2.37 V; Ni²⁺ + 2e⁻ ⇌ Ni, E⦵ = −0.25 V.
 
 **(a)** Write the conventional representation of the cell made from these two half-cells. **[2]**
 **(b)** Calculate the EMF of the cell. **[2]**

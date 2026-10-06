@@ -96,7 +96,7 @@ Uniform angular acceleration:
 | Constant pressure | p | W = pΔV |
 | Constant volume | V | W = 0, Q = ΔU |
 
-Adiabatic compression heats a gas; adiabatic expansion cools it. γ is given.
+Adiabatic compression heats a gas; adiabatic expansion cools it. γ is a constant for the gas.
 
 *Worked reminder:* halving the volume adiabatically with γ = 1.4 multiplies p by 2^1.4 = 2.64 and T by 2^0.4 = 1.32. Isothermally, p would only double.
 

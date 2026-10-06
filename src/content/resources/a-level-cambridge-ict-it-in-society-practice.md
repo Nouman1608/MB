@@ -70,7 +70,7 @@ Learn the content first with the [study guide](/resources/a-level-cambridge-ict-
 
 **9.** A company plans to monitor its employees' emails and internet use. Evaluate this plan. **[6]**
 
-**10.** A university plans to replace its live video-conferenced introductory course with a massive open online course (MOOC). Discuss the likely impact on students' motivation, achievement and autonomy. **[8]**
+**10.** A university plans to replace its live video-conferenced introductory course with a massive open online course (MOOC). Discuss the likely impact on student and teacher motivation, and on students' achievement and autonomy. **[8]**
 
 **11.** Discuss the impact and risks of cryptocurrencies for individuals and for businesses. **[8]**
 
@@ -114,7 +114,7 @@ Learn the content first with the [study guide](/resources/a-level-cambridge-ict-
 *Examiner insight:* "Evaluate" needs a judgement; finish with a justified conclusion rather than repeating points already made.
 
 **10.** Motivation: students can study short videos and quizzes with instant feedback, which some find motivating [1], but with no live teacher or classmates some feel isolated and lose motivation. [1] Achievement: material can be replayed as often as needed, helping weaker students [1], but questions cannot be answered live, so misunderstandings may go uncorrected. [1] Autonomy: students choose when, where and how fast to study [1], but need self-discipline without fixed lesson times. [1] Teachers' motivation may fall if live teaching is replaced, or rise if content is reused. [1] Conclusion: a MOOC suits self-motivated learners; adding some live sessions would reduce the drawbacks. [1] **[8]**
-*Examiner insight:* Cover all three named areas; an excellent answer on motivation alone cannot reach full marks.
+*Examiner insight:* Cover every named area; an excellent answer on motivation alone cannot reach full marks.
 
 **11.** Individuals: payments can be sent quickly and cheaply, including abroad [1], and a mobile wallet gives access without a bank account. [1] Risks: values can fall sharply, reducing savings [1]; losing a private key or password means losing the funds, and payments cannot be reversed. [1] Businesses: lower transaction fees and faster settlement than card payments [1], and access to new customers. [1] Risks: takings can lose value before conversion, and unclear regulation and tax rules add cost and uncertainty. [1] Conclusion: useful for fast, cheap transfers, but volatility and weak consumer protection make them risky as a main way to save or trade. [1] **[8]**
 *Examiner insight:* Keep individuals and businesses separate; repeating the same point for both groups adds little, so give each group its own impacts and risks.

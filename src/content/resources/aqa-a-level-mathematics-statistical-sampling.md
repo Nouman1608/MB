@@ -230,7 +230,7 @@ Sample B: 15 20 26 19 33 21 17 24   mean = 175/8 = 21.875 ≈ 21.9
 ```
 
 Analyst A might conclude the typical commute is about half an hour. Analyst B might conclude it
-is nearer 20 minutes. Both used a fair method. With samples of only 8, chance alone produces a
+is nearer 20 minutes. Both used a fair method. With samples of only 8, chance alone can produce a
 gap this size. To reduce the effect:
 
 - use a larger sample;

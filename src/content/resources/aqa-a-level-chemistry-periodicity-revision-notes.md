@@ -97,7 +97,7 @@ the outer electron is held more strongly and needs more energy to remove.
 
 **Explaining the drops:** see the [atomic structure study guide](/resources/a-level-aqa-chemistry-atomic-structure/).
 In one line each: Al loses a 3p electron that is higher in energy than 3s; S loses one of a pair of
-electrons sharing a 3p orbital.
+electrons sharing a 3p orbital, which repel each other.
 
 ## Melting point
 

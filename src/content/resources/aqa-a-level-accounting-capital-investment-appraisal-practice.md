@@ -154,7 +154,7 @@ the margin is small [1].
 **8.** Benefit: payback is simple and quick to calculate and understand [1], so managers who are not
 accountants can use it to compare projects [1]. Limitation: it ignores cash flows after the payback
 point [1], so a project with large later inflows may be rejected even though it adds more value [1].
-*Examiner insight:* Each pair of marks needs a point and its development; four short unexplained points score half.
+*Examiner insight:* In this answer each pair of marks is a point plus its development, so a bare list of points earns only the first mark of each pair.
 
 **9. (a)** NPV allows for the time value of money [1]: later cash flows are discounted because cash
 received sooner can be reinvested, so the result reflects what the project is worth today [1].

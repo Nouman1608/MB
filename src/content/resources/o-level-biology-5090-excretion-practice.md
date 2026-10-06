@@ -61,7 +61,7 @@ Revise first with the [study guide](/resources/o-level-biology-5090-excretion/) 
 
 **(a)** Name the knot of capillaries in which blood is filtered. **[1]**
 **(b)** Name the part of the nephron that surrounds this knot of capillaries. **[1]**
-**(c)** After leaving the part named in (b), fluid passes along a coiled tubule. Name, in order, the two further named structures it passes through before reaching the ureter. **[2]**
+**(c)** After leaving the part named in (b), fluid passes along a coiled tubule. Apart from further tubules, name, in order, the two structures it passes through before reaching the ureter. **[2]**
 **(d)** State where substances go when they are reabsorbed from the tubules. **[1]**
 
 **7.** The table shows the concentrations of some substances in three fluids from a healthy person.

@@ -169,7 +169,7 @@ In a photomicrograph, an artery has a thick wall and small, round lumen; a vein 
 
 - **Arteries** carry blood at **high pressure** in surges. The **thick wall** withstands the pressure; **elastic tissue** stretches with each surge and recoils, keeping blood moving; **muscle** helps keep the wall strong.
 - **Veins** carry blood at **low pressure**. A thick wall is not needed. The **wide lumen** reduces resistance to flow, and **valves** prevent backflow.
-- **Capillaries** carry blood at lower pressure still. The **wall one cell thick** gives a short diffusion distance for exchange with tissues. The narrow lumen slows blood, allowing more time for exchange.
+- **Capillaries** carry blood at lower pressure than arteries. The **wall one cell thick** gives a short diffusion distance for exchange with tissues. The narrow lumen slows blood, allowing more time for exchange.
 
 ## 11.4 Blood
 

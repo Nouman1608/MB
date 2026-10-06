@@ -170,7 +170,7 @@ Use: e = 1.60 × 10⁻¹⁹ C, h = 6.63 × 10⁻³⁴ J s, c = 3.00 × 10⁸ m s
 
 **12. (a)** 1/T_E = 1/9.0 + 1/18 [1]; **T_E = 6.0 h** [1]
 **(b)** 24 h = 4 effective half-lives [1]; 400/2⁴ = **25 MBq** [1]
-**(c)** Mo-99 has a longer half-life and decays to Tc-99m [1]; Tc-99m is eluted on site when needed, so the short-lived tracer is always available [1].
+**(c)** Mo-99 has a longer half-life (about 66 h, against about 6 h) and decays to Tc-99m [1]; Tc-99m is eluted on site when needed, so the short-lived tracer is always available [1].
 **(d)** Collimator passes only photons travelling along its holes [1]; scintillator crystal flashes for each photon, detected by photomultiplier tubes [1]; relative pulse sizes locate each flash and a computer builds the image [1].
 **(e)** Any three: several beams from different directions crossing at the tumour (or rotation) [1]; beam shaped to the tumour [1]; shielding of other organs, or dose split into sessions [1].
 *Examiner insight:* Using T_P instead of T_E in (b) gives a wrong answer with no accuracy credit; method marks need T_E.
