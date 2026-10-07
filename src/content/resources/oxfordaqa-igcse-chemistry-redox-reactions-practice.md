@@ -37,9 +37,9 @@ Learn the content first with the [Redox reactions study guide](/resources/oxford
 **(a)** oxidation, in terms of electrons **[1]**
 **(b)** reduction, in terms of oxygen. **[1]**
 
-**2.** Railway workers join steel rails by igniting a mixture of aluminium powder and iron(III) oxide. Molten iron forms and runs into the gap.
+**2.** Pure chromium metal can be made by igniting a mixture of aluminium powder and chromium(III) oxide. The reaction releases a large amount of heat.
 
-2Al + Fe₂O₃ → Al₂O₃ + 2Fe
+2Al + Cr₂O₃ → Al₂O₃ + 2Cr
 
 **(a)** Identify the substance that is oxidised. Explain your answer in terms of oxygen. **[2]**
 **(b)** Explain why this is described as a redox reaction. **[1]**
@@ -130,7 +130,7 @@ Relative atomic masses (Ar): Cu = 63.5, O = 16
 *Examiner insight:* Each part asks for one specific definition, so an answer giving both definitions mixed together, or the reverse of OIL RIG, usually earns nothing for that part.
 
 **2. (a)** Aluminium is oxidised [1] because it gains oxygen, becoming aluminium oxide [1].
-**(b)** Iron(III) oxide loses oxygen (is reduced) at the same time as aluminium is oxidised [1].
+**(b)** Chromium(III) oxide loses oxygen (is reduced) at the same time as aluminium is oxidised [1].
 *Examiner insight:* "Aluminium is oxidised" on its own is only half of (a); the reason must mention gain of oxygen, because the question says "in terms of oxygen".
 
 **3. (a)** **2Cl⁻ → Cl₂ + 2e⁻** [1]

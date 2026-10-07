@@ -64,10 +64,10 @@ Links: [group properties study guide](/resources/oxfordaqa-igcse-chemistry-group
 | Bromine | −7 | 59 |
 | Iodine | 114 | 184 |
 
-**(a)** Give the state of bromine and of iodine at 25 °C. **[2]**
+**(a)** Give the state of bromine at 70 °C and of iodine at 25 °C. **[2]**
 **(b)** Name the halogen that is a liquid at −50 °C. **[1]**
-**(c)** Describe the trend in boiling point down Group 7. **[1]**
-**(d)** Explain the trend in boiling point in terms of the molecules. **[2]**
+**(c)** Describe the trend in melting point down Group 7. **[1]**
+**(d)** Explain this trend in terms of the molecules. **[2]**
 
 **6.** A student has three colourless solutions, P, Q and R. One is potassium chloride, one is potassium bromide and one is potassium iodide. She adds chlorine water to a sample of each, then bromine water to fresh samples.
 
@@ -131,11 +131,11 @@ Links: [group properties study guide](/resources/oxfordaqa-igcse-chemistry-group
 **(b)** Al, Br₂ and AlBr₃ written correctly [1]; numbers 2, 3 and 2 in place: **2Al + 3Br₂ → 2AlBr₃** [1].
 *Examiner insight:* Check every halide is 1−; formulae such as BaBr or AlBr show the charge has not been balanced.
 
-**5. (a)** Bromine: liquid [1]. Iodine: solid [1].
+**5. (a)** Bromine at 70 °C: gas [1]. Iodine at 25 °C: solid [1].
 **(b)** **Chlorine** (−50 °C lies between its melting and boiling points) [1].
-**(c)** Boiling point increases down the group [1].
+**(c)** Melting point increases down the group [1].
 **(d)** The molecules get larger down the group [1], so the forces between molecules are stronger and need more energy to overcome [1].
-*Examiner insight:* For (d), "the bonds get stronger" is wrong; boiling separates molecules and does not break the covalent bond inside each molecule.
+*Examiner insight:* For (a), compare the temperature with both the melting point and the boiling point; 70 °C is above bromine's boiling point, so it is a gas, not a liquid.
 
 **6. (a)** P: **potassium chloride** [1]. Q: **potassium iodide** [1]. R: **potassium bromide** [1].
 **(b)** Chlorine sits above bromine in Group 7 and is more reactive, so bromine cannot push chloride out of the salt [1].
@@ -143,7 +143,7 @@ Links: [group properties study guide](/resources/oxfordaqa-igcse-chemistry-group
 *Examiner insight:* Start from the solution that reacts with both reagents; it must contain the least reactive halide, which is iodide.
 
 **7.** Caesium has more occupied energy levels than sodium, so its outer electron is in a higher energy level [1]. That electron sits further out, with more inner electrons screening it from the nuclear charge [1]. So the nucleus pulls on it less strongly [1]. So caesium loses its outer electron more easily and reacts more vigorously [1].
-*Examiner insight:* Each step of the chain carries its own credit; leaving out "weaker attraction" breaks the link between size and reactivity.
+*Examiner insight:* Give every step of the chain; leaving out "weaker attraction" breaks the link between size and reactivity.
 
 **8. (a)** No, because iodine is less reactive than fluorine [1].
 **(b)** Halogens react by gaining one electron [1]. In fluorine the outer energy level is closer to the nucleus (lower energy level) [1] and less shielded [1], so the incoming electron is attracted more strongly and gained more easily [1].
@@ -156,7 +156,7 @@ Links: [group properties study guide](/resources/oxfordaqa-igcse-chemistry-group
 *Examiner insight:* Convert 250 cm³ to 0.250 dm³ before dividing; dividing by 250 gives an answer one thousand times too small.
 
 **10. (a)** Chlorine is more reactive than bromine, so it displaces bromine from its salt [1].
-**(b)** Correct formulae Cl₂ + MgBr₂ → MgCl₂ + Br₂ [1]; balanced as written, with MgCl₂ and Br₂ as products [1].
+**(b)** Correct reactant formulae Cl₂ and MgBr₂ [1]; correct product formulae MgCl₂ and Br₂, giving **Cl₂ + MgBr₂ → MgCl₂ + Br₂** (already balanced) [1].
 **(c)** The colourless solution turns yellow-orange [1].
 **(d)** Mr MgBr₂ = 24 + (2 × 80) = 184 [1]; moles = 0.92 ÷ 184 = 0.0050 mol, and 1 mol MgBr₂ gives 1 mol Br₂ [1]; mass = 0.0050 × 160 = **0.80 g** [1].
 **(e)** 0.0050 × 24 000 = **120 cm³** [1].

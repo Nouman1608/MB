@@ -54,7 +54,7 @@ Shape: each C of the C=C is trigonal planar, bond angle about 120°.
 2. Tie? Step out one atom and compare again until something differs.
 3. Winners together = **Z**; winners across = **E**.
 
-**Why E–Z is needed:** cis–trans relies on a matching group on each carbon. When all four groups differ, or more than one pair matches, cis–trans is ambiguous. E–Z always gives one answer.
+**Why E–Z is needed:** cis–trans relies on a matching group on each carbon. When three or four of the groups are different, cis–trans is ambiguous. E–Z always gives one answer.
 
 Quick reminder: in CH₃CH=C(Br)CH₂CH₃, carbon 2 ranks CH₃ over H, and carbon 3 ranks Br (35) over the ethyl carbon (6). So the isomer with CH₃ and Br on the same side is Z.
 

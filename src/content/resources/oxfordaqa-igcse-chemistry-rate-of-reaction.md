@@ -93,9 +93,9 @@ A graph of mass of reactant against time starts high, falls steeply, then levels
 Calcium carbonate powder reacts with dilute nitric acid in an open flask on a balance:
 CaCO₃ + 2HNO₃ → Ca(NO₃)₂ + H₂O + CO₂
 
-The reading falls from 152.40 g to 151.74 g in the first 120 s.
+The reading falls from 148.25 g to 147.59 g in the first 120 s.
 
-Mass of CO₂ lost = 152.40 − 151.74 = 0.66 g
+Mass of CO₂ lost = 148.25 − 147.59 = 0.66 g
 Mean rate = 0.66 ÷ 120 = **0.0055 g/s**
 
 To give the rate in mol/s, convert the mass of CO₂ to moles (Mr of CO₂ = 12 + 16 + 16 = 44):

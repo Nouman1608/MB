@@ -66,7 +66,7 @@ sodium iodide solution. Both tubes are then shaken with hexane.
 **4.** Magnesium ribbon burns in iodine vapour to form magnesium iodide.
 
 **(a)** Write the equation and give the oxidation numbers of magnesium and iodine before and after. **[2]**
-**(b)** Calculate the mass of iodine that reacts with 0.486 g of magnesium, and the mass of magnesium iodide formed. **[2]**
+**(b)** Calculate the mass of iodine that reacts with 0.729 g of magnesium, and the mass of magnesium iodide formed. **[2]**
 
 **5.** Bleach is made by bubbling chlorine into 120 cm³ of cold, dilute 0.850 mol dm⁻³ sodium hydroxide
 until all the alkali has reacted.
@@ -82,7 +82,7 @@ then silver nitrate, produces a white precipitate that dissolves in dilute aqueo
 **(a)** Identify the halide ion. **[1]**
 **(b)** Explain why dilute nitric acid is added before the silver nitrate. **[1]**
 **(c)** Write the ionic equation, with state symbols, for the precipitation. **[1]**
-**(d)** The solution is 20.0 cm³ of 0.0750 mol dm⁻³ calcium halide. Calculate the volume of 0.0800 mol dm⁻³ silver nitrate that reacts exactly with all the halide ions. **[2]**
+**(d)** Exactly 18.0 cm³ of 0.100 mol dm⁻³ silver nitrate reacts with all the halide ions in 15.0 cm³ of the solution. Calculate the concentration of the calcium halide. **[2]**
 
 **7.** Concentrated sulfuric acid is added drop by drop to solid potassium iodide in a fume cupboard.
 
@@ -137,7 +137,7 @@ then silver nitrate, produces a white precipitate that dissolves in dilute aqueo
 *Examiner insight:* For the chloride tube, say the orange colour is the bromine itself; "no change" alone is too vague.
 
 **4. (a)** Mg + I₂ → MgI₂ [1]; Mg 0 → +2 and I 0 → −1 [1]
-**(b)** n(Mg) = 0.486 ÷ 24.3 = 0.0200 mol; mass of I₂ = 0.0200 × 253.8 = **5.08 g** [1]; mass of MgI₂ = 0.0200 × 278.1 = **5.56 g** [1] **[4]**
+**(b)** n(Mg) = 0.729 ÷ 24.3 = 0.0300 mol; mass of I₂ = 0.0300 × 253.8 = **7.61 g** [1]; mass of MgI₂ = 0.0300 × 278.1 = **8.34 g** [1] **[4]**
 *Examiner insight:* Use Mr(I₂) = 253.8, not Ar(I); the factor-of-two slip is the usual source of a wrong mass here.
 
 **5. (a)** Cl₂ + 2NaOH → NaCl + NaClO + H₂O [1]
@@ -149,8 +149,8 @@ then silver nitrate, produces a white precipitate that dissolves in dilute aqueo
 **6. (a)** Chloride, Cl⁻ [1]
 **(b)** To remove carbonate (or other) ions that would also form a precipitate with silver ions [1]
 **(c)** Ag⁺(aq) + Cl⁻(aq) → AgCl(s) [1]
-**(d)** n(Cl⁻) = 2 × (0.0200 × 0.0750) = 3.00 × 10⁻³ mol [1]; volume = 3.00 × 10⁻³ ÷ 0.0800 = 0.0375 dm³ = **37.5 cm³** [1] **[5]**
-*Examiner insight:* Calcium chloride provides two chloride ions per formula unit; missing the factor of 2 halves the answer.
+**(d)** n(Cl⁻) = n(Ag⁺) = 0.0180 × 0.100 = 1.80 × 10⁻³ mol, so n(CaCl₂) = 9.00 × 10⁻⁴ mol [1]; concentration = 9.00 × 10⁻⁴ ÷ 0.0150 = **0.0600 mol dm⁻³** [1] **[5]**
+*Examiner insight:* Calcium chloride provides two chloride ions per formula unit; missing the factor of 2 doubles the answer.
 
 **7. (a)** KI + H₂SO₄ → KHSO₄ + HI [1]
 **(b)** Any three from: steamy fumes [1]; purple vapour or black solid (iodine) [1]; yellow solid (sulfur) or smell of bad eggs (hydrogen sulfide) [1]

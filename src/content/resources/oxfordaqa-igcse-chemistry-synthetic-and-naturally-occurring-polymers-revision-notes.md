@@ -163,7 +163,7 @@ Cornstarch comes from plants, so it is renewable; most synthetic polymers come f
 1. Define the term polymer.
 2. Name the polymer made from propene.
 3. Draw the chain unit formed from CH₂=CHBr.
-4. Give the monomer of the chain unit –( CCl₂–CH₂ )n–.
+4. Give the monomer of the chain unit –( CHF–CF₂ )n–.
 5. A poly(propene) chain has Mr 105 000. How many propene units does it contain? (Ar: C = 12, H = 1)
 6. A factory uses 3.6 tonnes of ethene and all of it polymerises. What mass of poly(ethene) forms?
 7. Why do LD and HD poly(ethene) have different densities when both are made from ethene?
@@ -178,7 +178,7 @@ Cornstarch comes from plants, so it is renewable; most synthetic polymers come f
 1. A very large molecule made from many small molecules (monomers) joined together.
 2. Poly(propene).
 3. –( CH₂–CHBr )n–, with single C–C, bonds through the brackets and n after.
-4. CCl₂=CH₂.
+4. CHF=CF₂.
 5. Mr of C₃H₆ = 42; 105 000 ÷ 42 = **2500** units.
 6. **3.6 tonnes**: the polymer is the only product, so mass is conserved.
 7. Different conditions and catalysts give chains with different amounts of branching; less branching lets chains pack more closely, so HD is denser.
@@ -206,6 +206,7 @@ Cornstarch comes from plants, so it is renewable; most synthetic polymers come f
 - [Back to the polymers study guide](/resources/oxfordaqa-igcse-chemistry-synthetic-and-naturally-occurring-polymers/)
 - [Intermolecular forces: bonding and structure notes](/resources/oxfordaqa-igcse-chemistry-bonding-structure-and-properties-revision-notes/) for intermolecular forces
 - [Relative formula mass and moles: quantitative notes](/resources/oxfordaqa-igcse-chemistry-quantitative-revision-notes/)
+- [Carbon compounds as fuels](/resources/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels/) for cracking and alkenes
 - [All free 10-minute diagnostics](/diagnostics/)
 
 ## Official syllabus

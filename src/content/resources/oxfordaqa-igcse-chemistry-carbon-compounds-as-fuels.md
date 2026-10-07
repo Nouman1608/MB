@@ -112,16 +112,16 @@ When a hydrocarbon burns, its carbon and hydrogen are **oxidised** (they combine
 
 With plenty of oxygen, the carbon becomes carbon dioxide and the hydrogen becomes water.
 
-### Worked example 2: balancing complete combustion of decane
+### Worked example 2: balancing complete combustion of dodecane
 
-Decane, C₁₀H₂₂, burns completely.
+Dodecane, C₁₂H₂₆, burns completely.
 
-1. Balance carbon: 10 C gives 10CO₂.
-2. Balance hydrogen: 22 H gives 11H₂O.
-3. Count oxygen atoms on the right: 20 + 11 = 31, which needs 15½O₂.
-4. Double everything to remove the half: **2C₁₀H₂₂ + 31O₂ → 20CO₂ + 22H₂O**
+1. Balance carbon: 12 C gives 12CO₂.
+2. Balance hydrogen: 26 H gives 13H₂O.
+3. Count oxygen atoms on the right: 24 + 13 = 37, which needs 18½O₂.
+4. Double everything to remove the half: **2C₁₂H₂₆ + 37O₂ → 24CO₂ + 26H₂O**
 
-Check: 20 C, 44 H and 62 O on each side.
+Check: 24 C, 52 H and 74 O on each side.
 
 ### Incomplete combustion
 
@@ -252,7 +252,7 @@ A balanced judgement uses both columns.
 - Calling fermentation continuous or hydration a batch process.
 - Calling biofuels carbon neutral with no qualification.
 
-Next: condense this with the [revision notes](/resources/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels-revision-notes/), then work through the [practice questions](/resources/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels-practice/).
+Next: condense this with the [revision notes](/resources/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels-revision-notes/), then work through the [practice questions](/resources/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels-practice/). Alkenes from cracking lead on to [synthetic and naturally occurring polymers](/resources/oxfordaqa-igcse-chemistry-synthetic-and-naturally-occurring-polymers/).
 
 ## Official syllabus
 

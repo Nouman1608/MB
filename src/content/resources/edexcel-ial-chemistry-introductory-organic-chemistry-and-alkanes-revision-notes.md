@@ -188,7 +188,7 @@ termination gives side products, so you get a mixture and a low yield of any one
 
 1. Is "ethoxyethane is extremely flammable" a hazard or a risk?
 2. Give the stem for nine carbons.
-3. An alkane has Mᵣ = 142. Give its molecular formula.
+3. An alkane has Mᵣ = 170. Give its molecular formula.
 4. A cycloalkane has eight hydrogen atoms. Give its formula and Mᵣ.
 5. Name CH₃CH(CH₃)CH₂CH₂CH₂CH₃.
 6. Classify C₂H₄ + HBr → C₂H₅Br.
@@ -203,7 +203,7 @@ termination gives side products, so you get a mixture and a low yield of any one
 
 1. Hazard (a property of the substance).
 2. Non-.
-3. 14n + 2 = 142, so n = 10: C₁₀H₂₂.
+3. 14n + 2 = 170, so n = 12: C₁₂H₂₆.
 4. C₄H₈; Mᵣ = 56.
 5. 2-methylhexane.
 6. Addition.

@@ -94,9 +94,9 @@ Three of the metals are transition metals and two are Group 1 metals.
 
 | Metal | Melting point / °C | Hardness | With water |
 |---|---|---|---|
-| L | 1668 | hard | no visible reaction |
-| M | 98 | soft; cuts with a knife | fizzes, releasing hydrogen |
-| N | −39 | liquid at room temperature | no visible reaction |
+| L | 1668 | hard | none seen |
+| M | 98 | soft; easily sliced | gives off hydrogen rapidly |
+| N | −39 | liquid at room temperature | none seen |
 
 **(a)** Choose the most suitable metal. Explain why each of the other two is unsuitable. **[4]**
 **(b)** Two of the metals are transition metals. Identify them. **[1]**
@@ -171,7 +171,7 @@ Three of the metals are transition metals and two are Group 1 metals.
 **(c)** Add sodium hydroxide solution to each [1]. Iron(II) sulfate gives a green precipitate; iron(III) sulfate gives a brown precipitate [1].
 **(d)** **N₂ + 3H₂ ⇌ 2NH₃** [1].
 **(e)** Iron's melting point is far above 450 °C, so it stays solid in the reactor [1]. Sodium would be a liquid at 450 °C, so it could not stay in place as a solid catalyst [1].
-*Examiner insight:* In (b) set out the Mᵣ of 152 before dividing, so that a slip in the last step still leaves working that can be credited.
+*Examiner insight:* In (b) set out the Mᵣ of 152 before dividing, so the examiner can follow your method even if the last step slips.
 
 ## Where marks are usually lost
 

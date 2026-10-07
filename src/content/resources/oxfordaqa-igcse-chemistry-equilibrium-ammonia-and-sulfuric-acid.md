@@ -167,7 +167,7 @@ Why does the world need fertilizers?
 - The world population keeps growing, but the area of farmland is limited, so **more food must come from each field**.
 - Fertilizers replace the lost nutrients and **maximise food yields**.
 
-Link the chain: growing population → more food from limited land → crops need nitrogen → fertilizers made from ammonia.
+Chain: population → more food per field → nitrogen → ammonia fertilizers.
 
 ## 3.8.3 d: the contact process for sulfuric acid
 
@@ -213,7 +213,7 @@ Calculate the maximum mass of sulfuric acid that can be made from 8.0 tonnes of 
 
 ## Next steps
 
-Condense this unit with the [revision notes](/resources/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid-practice/). See also the [exam preparation page](/resources/oxfordaqa-igcse-chemistry-exam-preparation/). The [free diagnostics](/diagnostics/) will show which other topics need work.
+Condense this unit with the [revision notes](/resources/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid-practice/). Related: [rate of reaction](/resources/oxfordaqa-igcse-chemistry-rate-of-reaction/), [energy changes](/resources/oxfordaqa-igcse-chemistry-exothermic-endothermic-and-energy-change/) and the [exam preparation page](/resources/oxfordaqa-igcse-chemistry-exam-preparation/). The [free diagnostics](/diagnostics/) will show which other topics need work.
 
 ## Official syllabus
 

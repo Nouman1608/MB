@@ -59,7 +59,7 @@ Use C = 12.0, H = 1.0, O = 16.0 and Cl = 35.5 wherever you need relative atomic 
 **4.** This question is about naming alkanes.
 
 **(a)** Give the IUPAC name of CH₃CH₂CH(CH₃)CH(CH₃)CH₃. **[1]**
-**(b)** A student names a compound 2-ethylbutane. Explain why this name is wrong and give the correct name. **[2]**
+**(b)** A student names a compound 2-ethylhexane. Explain why this name is wrong and give the correct name. **[2]**
 **(c)** Draw the displayed formula of 2,2-dimethylpropane. **[1]**
 
 **5.** This question is about structural isomers.
@@ -74,12 +74,12 @@ Use C = 12.0, H = 1.0, O = 16.0 and Cl = 35.5 wherever you need relative atomic 
 **(b)** Give two reasons why refineries crack heavy fractions. **[2]**
 **(c)** Pentane can be reformed into cyclopentane. Write the equation and state why reformed hydrocarbons are useful in petrol. **[2]**
 
-**7.** Nonane, C₉H₂₀, is a component of some fuels.
+**7.** Ethylcyclohexane, C₈H₁₆, is a cycloalkane that can be burned as a fuel.
 
-**(a)** Write an equation for the complete combustion of nonane. **[1]**
-**(b)** In a limited supply of oxygen, nonane burns to give carbon monoxide and water only. Write the equation. **[1]**
+**(a)** Write an equation for the complete combustion of ethylcyclohexane. **[1]**
+**(b)** In a limited supply of oxygen, ethylcyclohexane burns to give carbon monoxide and water only. Write the equation. **[1]**
 **(c)** Explain why carbon monoxide is toxic. **[2]**
-**(d)** Explain how oxides of nitrogen form when nonane is burned in an engine, and why they are harmful to the environment. Include an equation. **[3]**
+**(d)** Explain how oxides of nitrogen form when ethylcyclohexane is burned in an engine, and why they are harmful to the environment. Include an equation. **[3]**
 
 **8.** A standby generator burns 3.42 kg of 2,2,4-trimethylpentane, C₈H₁₈, completely.
 
@@ -121,7 +121,7 @@ Use C = 12.0, H = 1.0, O = 16.0 and Cl = 35.5 wherever you need relative atomic 
 *Examiner insight:* Give one type per equation as asked; listing two types for the same equation can be read as a contradiction and lose the mark.
 
 **4. (a)** **2,3-dimethylpentane** [1]
-**(b)** The longest chain has five carbons, running through the ethyl group, so butane is not the parent chain [1]. The correct name is **3-methylpentane** [1].
+**(b)** The longest chain has seven carbons, running through the ethyl group, so hexane is not the parent chain [1]. The correct name is **3-methylheptane** [1].
 **(c)** All atoms and bonds shown, with four CH₃ groups on a central carbon [1]:
 
 ```
@@ -150,8 +150,8 @@ Use C = 12.0, H = 1.0, O = 16.0 and Cl = 35.5 wherever you need relative atomic 
 **(c)** **C₅H₁₂ → C₅H₁₀ + H₂** [1]. Cyclic and branched hydrocarbons burn more smoothly in petrol engines, so they promote efficient combustion [1].
 *Examiner insight:* "Cracking makes more useful products" alone is unlikely to score; name the product and its use, and tie it to demand.
 
-**7. (a)** **C₉H₂₀ + 14O₂ → 9CO₂ + 10H₂O** [1]
-**(b)** **2C₉H₂₀ + 19O₂ → 18CO + 20H₂O** [1]
+**7. (a)** **C₈H₁₆ + 12O₂ → 8CO₂ + 8H₂O** [1]
+**(b)** **C₈H₁₆ + 8O₂ → 8CO + 8H₂O** [1]
 **(c)** Carbon monoxide binds to the haemoglobin in red blood cells, more strongly than oxygen does [1]. This reduces the amount of oxygen carried to the body's cells [1].
 **(d)** The engine's very high temperature makes nitrogen from the air combine with oxygen [1]: N₂ + O₂ → 2NO [1]. Oxides of nitrogen are acidic; NO₂ dissolves in rain to form nitric acid, causing acid rain [1].
 *Examiner insight:* For part (d), answers that say the nitrogen comes from the fuel lose credit; the nitrogen is from air, and the high temperature is the condition you must state.

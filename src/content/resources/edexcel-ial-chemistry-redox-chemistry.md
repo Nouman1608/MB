@@ -211,7 +211,7 @@ A solution containing 0.00250 mol of chlorate(V) ions, ClO₃⁻, reacts in acid
 
 ## Where next
 
-Condense this guide with the [redox revision notes](/resources/edexcel-ial-chemistry-redox-chemistry-revision-notes/), then work through the [redox practice questions](/resources/edexcel-ial-chemistry-redox-chemistry-practice/), which have full worked answers. Tick off outcomes 8.1 to 8.10 on the [checklist](/checklists/edexcel/a-level/chemistry/).
+Condense this guide with the [redox revision notes](/resources/edexcel-ial-chemistry-redox-chemistry-revision-notes/), then work through the [redox practice questions](/resources/edexcel-ial-chemistry-redox-chemistry-practice/), which have full worked answers. Tick off outcomes 8.1 to 8.10 on the [checklist](/checklists/edexcel/a-level/chemistry/). Then apply these ideas to [the elements of Groups 1 and 2](/resources/edexcel-ial-chemistry-the-elements-of-groups-1-and-2/) and [Group 7](/resources/edexcel-ial-chemistry-inorganic-chemistry-of-group-7/).
 
 ## Official syllabus
 

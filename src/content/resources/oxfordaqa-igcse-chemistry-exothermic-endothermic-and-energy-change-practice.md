@@ -133,7 +133,7 @@ Use these bond dissociation energies (kJ/mol): C–H 413, O–H 464, C≡O 1077,
 *Examiner insight:* A one-mark "identify" asking for reactions in the plural usually needs every correct letter and no wrong ones.
 
 **3. (a)** The blue crystals turn **white** [1]; **droplets of liquid (water)** form near the top of the tube, or steam is seen [1]
-**(b)** The white solid turns **blue** [1]; the tube gets **hot** (or steam/fizzing) [1]
+**(b)** The white solid turns **blue** [1]; the tube gets **hot** (or steam is seen) [1]
 **(c)** **−78 kJ/mol** (78 kJ released per mole) [1]
 *Examiner insight:* For (c), 78 kJ with no sign or "released" does not show the reverse change is exothermic.
 

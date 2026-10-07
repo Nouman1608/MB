@@ -81,7 +81,7 @@ Data for this set: H = 1.0, C = 12.0, N = 14.0, O = 16.0, Cl = 35.5, Ca = 40.1. 
 
 **(a)** Draw the repeat unit of the polymer formed from propenenitrile, CH₂=CHCN, and explain why it is described as an addition polymer. **[2]**
 **(b)** A polymer has the repeat unit –[CH₂–C(CH₃)₂]ₙ–. Give the structure of its monomer. **[1]**
-**(c)** A chain of poly(propenenitrile) has Mr 2.12 × 10⁵. Calculate the number of monomer units in the chain. **[2]**
+**(c)** A chain of poly(propenenitrile) has Mr 3.18 × 10⁵. Calculate the number of monomer units in the chain. **[2]**
 **(d)** Explain why poly(alkenes) persist for a long time in landfill. **[2]**
 
 **10.** A waste-to-energy plant burns 2.50 kg of poly(chloroethene), PVC, repeat unit –[CH₂–CHCl]–. Assume all the chlorine is released as hydrogen chloride.
@@ -140,7 +140,7 @@ Data for this set: H = 1.0, C = 12.0, N = 14.0, O = 16.0, Cl = 35.5, Ca = 40.1. 
 
 **9. (a)** –[CH₂–CH(CN)]ₙ– with bonds through the brackets [1]; the C=C bonds open and monomers join with no other product formed [1].
 **(b)** **CH₂=C(CH₃)₂** (2-methylpropene) [1]
-**(c)** Mr(C₃H₃N) = 36.0 + 3.0 + 14.0 = 53.0 [1]; 2.12 × 10⁵ ÷ 53.0 = **4000** [1].
+**(c)** Mr(C₃H₃N) = 36.0 + 3.0 + 14.0 = 53.0 [1]; 3.18 × 10⁵ ÷ 53.0 = **6000** [1].
 **(d)** The chains are saturated and held together by strong C–C and C–H bonds [1]; so they are unreactive and microorganisms cannot break them down [1].
 *Examiner insight:* A repeat unit with a remaining C=C, or without extension bonds, is a common way to lose the structure mark.
 

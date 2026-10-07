@@ -20,7 +20,7 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This study guide teaches alcohols, carboxylic acids and esters for OxfordAQA International GCSE Chemistry (9202). The source document is the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. Every lettered statement of section 3.10.3 is taught here: 3.10.3.1 Alcohols (a to c), 3.10.3.2 Carboxylic acids (a and b) and 3.10.3.3 Esters (a and b). Everyone sits the same untiered papers. Either paper may test this unit, since the specification says each paper can assess any part of the course.
+This study guide teaches alcohols, carboxylic acids and esters for OxfordAQA International GCSE Chemistry (9202). The source document is the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. Every lettered statement of section 3.10.3 is taught here: 3.10.3.1 Alcohols (a to c), 3.10.3.2 Carboxylic acids (a and b) and 3.10.3.3 Esters (a and b). Every student sits the same two papers. Either paper may test this unit, since the specification says each paper can assess any part of the course.
 
 Useful pages: [9202 chemistry hub](/boards/oxfordaqa/igcse/chemistry/) · [topic checklist](/checklists/oxfordaqa/igcse/chemistry/) · [condensed notes on alcohols, acids and esters](/resources/oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions-revision-notes/) · [question set on alcohols, acids and esters](/resources/oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions-practice/) · [free diagnostics](/diagnostics/)
 
@@ -66,7 +66,7 @@ H - C - C - O - H
 
 **Worked example: spotting the alcohols.** Which of these are alcohols? P: C₄H₉OH. R: CH₃CH₂CH₃. S: CH₃OH. T: CH₃CH₂COOH.
 
-- P ends in –OH attached to a carbon chain: an **alcohol**. You do not need to name it; you only need to recognise it.
+- P ends in –OH attached to a carbon chain: an **alcohol**. You need only recognise it, not name it.
 - R has only carbon and hydrogen: a hydrocarbon.
 - S is methanol: an **alcohol**.
 - T contains –COOH. The O–H here is part of a carboxyl group, so T is a carboxylic acid.
@@ -240,7 +240,7 @@ Esters are **volatile**: they evaporate easily at room temperature. They have **
 
 ## Next steps
 
-Move on to the [condensed notes](/resources/oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions-revision-notes/) for fast recall, then try the [practice questions](/resources/oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions-practice/). For command words, see the [OxfordAQA chemistry exam preparation guide](/resources/oxfordaqa-igcse-chemistry-exam-preparation/); a [free diagnostic](/diagnostics/) will flag your weaker areas.
+Move on to the [condensed notes](/resources/oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions-revision-notes/) for fast recall, then try the [practice questions](/resources/oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions-practice/). For command words, see the [OxfordAQA chemistry exam preparation guide](/resources/oxfordaqa-igcse-chemistry-exam-preparation/); a [free diagnostic](/diagnostics/) will flag your weaker areas. Related: [acids, bases and salts](/resources/oxfordaqa-igcse-chemistry-acids-bases-and-preparing-salts/).
 
 ## Official syllabus
 

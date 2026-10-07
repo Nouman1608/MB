@@ -29,7 +29,7 @@ the IAS compulsory unit. For full explanations and worked examples, read the
 
 Test yourself afterwards with the [practice questions](/resources/edexcel-ial-chemistry-shapes-of-molecules-and-metallic-bonding-practice/).
 Earlier Topic 3 material (ionic and covalent bonding, polarity) is in the
-[bonding revision notes](/resources/edexcel-a-level-chemistry-bonding-revision-notes/). Other links: the
+[bonding revision notes](/resources/edexcel-a-level-chemistry-bonding-revision-notes/) and the [ionic and covalent bonding revision notes](/resources/edexcel-ial-chemistry-ionic-and-covalent-bonding-revision-notes/). Other links: the
 [Edexcel International A Level Chemistry course hub](/boards/edexcel/a-level/chemistry/), a
 [printable checklist](/checklists/edexcel/a-level/chemistry/) of outcomes, and
 [free 10-minute diagnostics](/diagnostics/) to show where your gaps are.

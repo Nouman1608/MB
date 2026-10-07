@@ -72,7 +72,7 @@ Pent-2-ene, CH₃CH=CHCH₂CH₃, qualifies: one carbon has H and CH₃, the oth
 
 ## 5.3 The E–Z naming system
 
-Cis–trans naming needs the same group on both carbons. It breaks down when all four groups differ, or when two different pairs could be "matched". E–Z always works, because it ranks groups by a rule.
+Cis–trans naming works when the two carbons share a common group and there are only two different groups in total. It breaks down when three or four of the groups are different, because it is no longer clear which pair "cis" describes. E–Z always works, because it ranks groups by a rule.
 
 **Method**
 

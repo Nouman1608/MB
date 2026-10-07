@@ -75,7 +75,7 @@ an N, O or F atom in another molecule. The X-H bond is very polar and the tiny, 
 δ+ charge, so it can approach the lone pair closely. The three atoms (X-H···Y) lie close to a straight line, at about 180°, because that keeps the two electron-rich
 atoms furthest apart. Hydrogen bonds are the strongest of the three, but far weaker than a covalent bond.
 
-**Worked example 1.** Name the strongest intermolecular force in each of: Br₂, ICl, CH₃OH.
+**Worked example 1.** Name the types of intermolecular force in each of: Br₂, ICl, CH₃OH.
 
 - Br₂: identical atoms, no permanent dipole. Only **London forces**.
 - ICl: Cl is more electronegative than I, so the molecule has a permanent dipole. **Permanent dipole-permanent
@@ -125,13 +125,13 @@ hydrogen bonds hold the molecules in a rigid, open framework with much empty spa
 closely, so liquid water is denser than ice.
 
 **Worked example 2.** At 0 °C, ice has density 0.917 g cm⁻³ and liquid water has density 1.00 g cm⁻³. Find the
-volume of one mole (18.0 g) of each, and the percentage increase in volume on freezing.
+volume of one mole (18.0 g) of each, and the extra volume per molecule in ice (L = 6.02 × 10²³ mol⁻¹).
 
 - Ice: 18.0 / 0.917 = **19.6 cm³**
 - Liquid: 18.0 / 1.00 = **18.0 cm³**
-- Increase: (19.63 − 18.0) / 18.0 × 100 = **9.05%**, so about 9%.
+- Extra per molecule: (19.63 − 18.00) / 6.02 × 10²³ = **2.71 × 10⁻²⁴ cm³**.
 
-The extra 1.6 cm³ per mole is the empty space in the hydrogen-bonded framework.
+This extra volume is empty space in the framework.
 
 ## 7.4 Predicting hydrogen bonding
 
@@ -145,10 +145,10 @@ Both must be yes. A C-H bond never counts, even if F or O is elsewhere in the mo
 **Worked example 3.** Which of these form hydrogen bonds between their own molecules: hydrazine (H₂N-NH₂),
 methoxymethane (CH₃OCH₃), fluoromethane (CH₃F), hydrogen peroxide (HO-OH)?
 
-- Hydrazine: N-H bonds and a lone pair on each N. **Yes.**
+- Hydrazine: N-H bonds and N lone pairs. **Yes.**
 - Methoxymethane: the O has lone pairs, but every H is bonded to C. **No.** (It can still accept a hydrogen
   bond from a water molecule, which matters for solubility.)
-- Fluoromethane: the H atoms are on C, not on F. **No.** Its strongest force is permanent dipole-permanent dipole.
+- Fluoromethane: the H atoms are on C, not on F. **No.** It has permanent dipole-permanent dipole and London forces.
 - Hydrogen peroxide: O-H bonds and lone pairs on O. **Yes.**
 
 ## 7.5 Explaining physical properties

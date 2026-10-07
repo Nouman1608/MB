@@ -130,7 +130,7 @@ Rule of thumb: a substance dissolves well in a solvent whose intermolecular forc
 ## Quick self-test
 
 1. Which type of intermolecular force acts between all molecules?
-2. Name the strongest intermolecular force in liquid ICl.
+2. Which intermolecular force acts in liquid ICl but not in liquid Br₂?
 3. State the two conditions needed for hydrogen bonding between molecules of one substance.
 4. Can propanone, CH₃COCH₃, form hydrogen bonds between its own molecules?
 5. Explain why liquid NH₃ forms fewer hydrogen bonds per molecule than water.
@@ -146,7 +146,7 @@ Rule of thumb: a substance dissolves well in a solvent whose intermolecular forc
 ### Answers
 
 1. London forces.
-2. Permanent dipole-permanent dipole interactions (London forces are also present).
+2. Permanent dipole-permanent dipole interactions (London forces act in both).
 3. An H atom bonded directly to N, O or F, and a lone pair on an N, O or F atom of another molecule.
 4. No. Its O has lone pairs, but every H is bonded to carbon.
 5. NH₃ has only one lone pair, so it can accept only one hydrogen bond; water has two H atoms and two lone pairs.

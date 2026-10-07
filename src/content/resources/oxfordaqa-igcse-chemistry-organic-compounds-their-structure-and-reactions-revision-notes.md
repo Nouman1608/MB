@@ -20,7 +20,7 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-These revision notes condense section 3.10.3 Organic compounds – their structure and reactions of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. Included: 3.10.3.1 Alcohols (a to c), 3.10.3.2 Carboxylic acids (a and b) and 3.10.3.3 Esters (a and b). No tiers apply, so every candidate needs every point, and none of the section 6.2 required practicals falls in 3.10.3. Go to the [full guide to alcohols, acids and esters](/resources/oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions/) when you need the full teaching.
+These revision notes condense section 3.10.3 Organic compounds – their structure and reactions of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. Included: 3.10.3.1 Alcohols (a to c), 3.10.3.2 Carboxylic acids (a and b) and 3.10.3.3 Esters (a and b). Every candidate needs every point, and none of the section 6.2 required practicals falls in 3.10.3. Go to the [full guide to alcohols, acids and esters](/resources/oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions/) when you need the full teaching.
 
 Links: [9202 chemistry hub](/boards/oxfordaqa/igcse/chemistry/) · [topic checklist](/checklists/oxfordaqa/igcse/chemistry/) · [question set on alcohols, acids and esters](/resources/oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions-practice/) · [free diagnostics](/diagnostics/)
 
@@ -153,7 +153,7 @@ ethanol --(oxidising agent or microbes)--> ethanoic acid
 ethanol + ethanoic acid --(acid catalyst)--> ethyl ethanoate + water
 ```
 
-One alcohol can therefore supply both halves of an ester: oxidise some of it to the acid, then react the acid with more of the alcohol. Questions often give an unknown compound and its reactions and ask you to work back to the family. Use these clues:
+One alcohol can therefore supply both halves of an ester: oxidise some of it to the acid, then react the acid with more of the alcohol. If you are given an unknown compound and its reactions, work back to the family. Use these clues:
 
 | Clue in the question | Points to |
 |---|---|

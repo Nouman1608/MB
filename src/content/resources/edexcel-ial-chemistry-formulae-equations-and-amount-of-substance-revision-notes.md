@@ -152,8 +152,8 @@ every reactant atom ends up in the desired product.
 
 ## Quick self-test
 
-1. Work out the relative formula mass of calcium nitrate, Ca(NO₃)₂.
-2. Calculate the amount in moles in 12.6 g of nitric acid, HNO₃.
+1. Work out the relative formula mass of calcium hydrogencarbonate, Ca(HCO₃)₂.
+2. Calculate the amount in moles in 9.45 g of nitric acid, HNO₃.
 3. How many molecules are in 0.0500 mol of oxygen gas?
 4. 0.0400 mol of solute is dissolved in 160 cm³ of solution. Give the concentration.
 5. Give the mass concentration of 0.150 mol dm⁻³ sodium hydroxide, NaOH.
@@ -167,8 +167,8 @@ every reactant atom ends up in the desired product.
 
 ### Answers
 
-1. 40.1 + 2 × (14.0 + 3 × 16.0) = **164.1**
-2. M = 63.0 g mol⁻¹; n = 12.6 / 63.0 = **0.200 mol**
+1. 40.1 + 2 × (1.0 + 12.0 + 3 × 16.0) = **162.1**
+2. M = 63.0 g mol⁻¹; n = 9.45 / 63.0 = **0.150 mol**
 3. 0.0500 × 6.02 × 10²³ = **3.01 × 10²² molecules**
 4. 0.0400 / 0.160 = **0.250 mol dm⁻³**
 5. 0.150 × 40.0 = **6.00 g dm⁻³**

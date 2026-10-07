@@ -21,7 +21,7 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This study guide covers Topic 3 parts 3A (Ionic bonding) and 3B (Covalent bonding) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017. It teaches learning outcomes 3.1 to 3.15. This is International AS (IAS) content, examined in Unit 1: Structure, Bonding and Introduction to Organic Chemistry. Shapes of molecules (3C) and metallic bonding (3D) are not taught here.
+This study guide covers Topic 3 parts 3A (Ionic bonding) and 3B (Covalent bonding) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017. It teaches learning outcomes 3.1 to 3.15. This is International AS (IAS) content, examined in Unit 1: Structure, Bonding and Introduction to Organic Chemistry. [Shapes of molecules (3C) and metallic bonding (3D)](/resources/edexcel-ial-chemistry-shapes-of-molecules-and-metallic-bonding/) are not taught here.
 
 Condensed recall is in the [ionic and covalent bonding revision notes](/resources/edexcel-ial-chemistry-ionic-and-covalent-bonding-revision-notes/), and the [practice set](/resources/edexcel-ial-chemistry-ionic-and-covalent-bonding-practice/) tests every outcome. Other topics are on the [Edexcel IAL Chemistry hub](/boards/edexcel/a-level/chemistry/); track outcomes with the [printable checklist](/checklists/edexcel/a-level/chemistry/). A [free 10-minute diagnostic](/diagnostics/) shows which outcomes to start with.
 
@@ -121,12 +121,12 @@ A covalent bond is the **strong electrostatic attraction between two nuclei and 
 
 Count outer electrons, place shared pairs, then lone pairs. Check each atom other than hydrogen has eight outer electrons, unless the species is a known exception.
 
-**Worked example: hydrogen cyanide, HCN, and methanal, H₂CO**
+**Worked example: hydrogen cyanide, HCN, and dinitrogen difluoride, F–N=N–F**
 
 | Species | Outer electrons | Bonding pairs | Lone pairs |
 |---|---|---|---|
 | HCN | 1 + 4 + 5 = 10 | H–C single (1), C≡N triple (3) | 1 on N |
-| H₂CO | 2 + 4 + 6 = 12 | two C–H (2), C=O double (2) | 2 on O |
+| N₂F₂ | 2 × 5 + 2 × 7 = 24 | two N–F (2), N=N double (2) | 1 on each N, 3 on each F |
 
 In HCN, carbon shares one pair with hydrogen and three with nitrogen (eight outer electrons); nitrogen has three shared pairs and one lone pair (also eight).
 
@@ -185,7 +185,7 @@ The further suggested practical tests this directly. A charged rod held next to 
 
 ## Where next
 
-Try the [practice questions](/resources/edexcel-ial-chemistry-ionic-and-covalent-bonding-practice/). Wider Unit 1 reading: the [overview guide to structure, bonding and organic chemistry](/resources/a-level-edexcel-chemistry-structure-bonding-organic-chemistry/), the [overview bonding notes](/resources/edexcel-a-level-chemistry-bonding-revision-notes/) and the [guide to atomic structure and mass spectrometry](/resources/a-level-edexcel-chemistry-atomic-structure-and-mass-spectrometry/).
+Try the [practice questions](/resources/edexcel-ial-chemistry-ionic-and-covalent-bonding-practice/). Wider Unit 1 reading: the [overview guide to structure, bonding and organic chemistry](/resources/a-level-edexcel-chemistry-structure-bonding-organic-chemistry/) and the [overview bonding notes](/resources/edexcel-a-level-chemistry-bonding-revision-notes/).
 
 ## Official syllabus
 

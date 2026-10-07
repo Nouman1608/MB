@@ -30,7 +30,7 @@ featured: false
 This set covers Topic 3 parts 3C Shapes of molecules and 3D Metallic bonding (outcomes **3.16 to 3.22**)
 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification,
 Issue 1, September 2017. All of the content is in Unit 1: Structure, Bonding and Introduction to Organic Chemistry,
-the IAS compulsory unit. Questions 10 to 12 are longer problems that combine outcomes.
+the IAS compulsory unit.
 
 Related: the [study guide](/resources/edexcel-ial-chemistry-shapes-of-molecules-and-metallic-bonding/)
 or the [revision notes](/resources/edexcel-ial-chemistry-shapes-of-molecules-and-metallic-bonding-revision-notes/).
@@ -84,9 +84,10 @@ Show how you counted the electron pairs. **[4]**
 **9.** Aluminium is used in overhead power cables.
 
 **(a)** Explain why aluminium conducts electricity. **[2]**
-**(b)** Each aluminium atom contributes three electrons to the delocalised electron sea. Calculate the number of
-delocalised electrons in 1.35 g of aluminium. Use Ar(Al) = 27.0 and the Avogadro constant
-L = 6.02 × 10²³ mol⁻¹. Give your answer to 3 significant figures. **[3]**
+**(b)** Each aluminium atom contributes three electrons to the delocalised electron sea. A 1.00 m length of
+one cable's aluminium core has a mass of 1.08 kg. Calculate the number of delocalised electrons in this
+length of core. Use Ar(Al) = 27.0 and the Avogadro constant L = 6.02 × 10²³ mol⁻¹. Give your answer to
+3 significant figures. **[3]**
 
 **10.** Use these melting temperatures.
 
@@ -99,7 +100,8 @@ L = 6.02 × 10²³ mol⁻¹. Give your answer to 3 significant figures. **[3]**
 | calcium | 842 |
 
 **(a)** Describe and explain the trend in melting temperature from lithium to rubidium. **[3]**
-**(b)** Explain why calcium has a much higher melting temperature than potassium. **[3]**
+**(b)** The Ca²⁺ ion is larger than the Li⁺ ion. Explain why calcium still has a much higher melting temperature
+than lithium. **[3]**
 **(c)** A student says: "When potassium melts, all of its metallic bonding is broken." Explain why this statement
 is wrong. **[2]**
 
@@ -160,11 +162,11 @@ N₂ = 0.110 nm. Explain why the N≡N bond is shorter than the N-N bond. **[2]*
 *Examiner insight:* use "ions", not "atoms", and include "electrostatic"; describing metallic bonding as shared electrons uses covalent language and is not creditworthy.
 
 **9. (a)** Aluminium contains **delocalised electrons** [1]; with a potential difference applied, these mobile electrons drift through the lattice carrying charge [1].
-**(b)** n(Al) = 1.35 ÷ 27.0 = 0.0500 mol [1]. Moles of delocalised electrons = 3 × 0.0500 = 0.150 mol [1]. Number = 0.150 × 6.02 × 10²³ = **9.03 × 10²² electrons** [1].
+**(b)** n(Al) = 1080 g ÷ 27.0 g mol⁻¹ = 40.0 mol [1]. Moles of delocalised electrons = 3 × 40.0 = 120 mol [1]. Number = 120 × 6.02 × 10²³ = **7.22 × 10²⁵ electrons** [1].
 *Examiner insight:* in (a) the electrons carry charge, not the ions; in (b) set out each step so correct working stays visible if one line slips.
 
 **10. (a)** Melting temperature **decreases** from lithium to rubidium [1]. All the ions are +1, but the **ionic radius increases** down the group [1]. The delocalised electrons are further from each ion's centre, so attraction is weaker and less energy is needed to overcome it [1].
-**(b)** Ca²⁺ has a **higher charge** than K⁺ [1]. Calcium gives **two delocalised electrons per atom** compared with one for potassium (and Ca²⁺ is smaller than K⁺) [1]. So the electrostatic attraction between ions and delocalised electrons is stronger, and much more energy is needed to overcome it [1].
+**(b)** Ca²⁺ has **twice the charge** of Li⁺ [1]. Calcium gives **two delocalised electrons per atom** compared with one for lithium [1]. These effects outweigh the larger ionic radius, so the electrostatic attraction between ions and delocalised electrons is stronger, and much more energy is needed to overcome it [1].
 **(c)** Liquid potassium still contains K⁺ ions attracted to delocalised electrons, and it still conducts [1]. Melting only overcomes enough attraction for the ions to move past each other; separating the atoms completely, on boiling, needs much more energy [1].
 *Examiner insight:* finish each comparison with "stronger attraction, so more energy needed"; a list of factors with no link to energy usually falls short.
 
@@ -185,9 +187,7 @@ N₂ = 0.110 nm. Explain why the N≡N bond is shorter than the N-N bond. **[2]*
 - Giving "tetrahedral" for a species with lone pairs, such as NH₂⁻ or NH₃.
 - Treating a double or triple bond as more than one region.
 - Writing "lone pairs take up more space" instead of "lone pairs repel more strongly".
-- Giving one angle for a trigonal bipyramid when two are needed.
 - Leaving the dative bond out of the bonding-pair count in Al₂Cl₆ or NH₄⁺.
-- Saying ions carry the current in a solid metal.
 - Explaining a melting-temperature difference by listing factors without linking them to stronger attraction
   and more energy.
 

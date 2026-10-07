@@ -32,7 +32,7 @@ then test yourself with the [Group 7 practice questions](/resources/edexcel-ial-
 Every Edexcel IAL Chemistry page is listed on the [course hub](/boards/edexcel/a-level/chemistry/). Mark off
 each outcome on the [printable checklist](/checklists/edexcel/a-level/chemistry/). Our free
 [10-minute diagnostic](/diagnostics/) can point out weak spots. Oxidation numbers and half-equations come from
-Topic 8A.
+Topic 8A, [Redox chemistry](/resources/edexcel-ial-chemistry-redox-chemistry/).
 
 **Data used on this page (use these values):** H 1.0, N 14.0, K 39.1, Ca 40.1, Br 79.9, Ag 107.9, I 126.9.
 Gas molar volume (room temperature and pressure) = 24.0 dm³ mol⁻¹.
@@ -202,12 +202,12 @@ The ammonia step matters because white and cream look alike.
 
 ### Worked example 5: precipitate mass to concentration
 
-A 25.0 cm³ portion of potassium iodide solution is acidified and treated with excess silver nitrate. The
-dried yellow precipitate weighs 0.470 g. Find the concentration of the potassium iodide solution.
+A 30.0 cm³ portion of potassium iodide solution is acidified and treated with excess silver nitrate. The
+dried yellow precipitate weighs 0.646 g. Find the concentration of the potassium iodide solution.
 
 1. Mr(AgI) = 107.9 + 126.9 = 234.8.
-2. n(AgI) = 0.470 ÷ 234.8 = 2.002 × 10⁻³ mol = n(I⁻), since the ratio is 1 : 1.
-3. Concentration = 2.002 × 10⁻³ ÷ 0.0250 = **0.0801 mol dm⁻³**.
+2. n(AgI) = 0.646 ÷ 234.8 = 2.751 × 10⁻³ mol = n(I⁻), since the ratio is 1 : 1.
+3. Concentration = 2.751 × 10⁻³ ÷ 0.0300 = **0.0917 mol dm⁻³**.
 
 ### Hydrogen halides with ammonia and with water
 

@@ -150,12 +150,12 @@ Combustion products go at the bottom, arrows pointing **down**:
 ΔrH = ΣΔcH(reactants) − ΣΔcH(products)
 ```
 
-**Worked example 5.** Calculate ΔfH of ethanoic acid, 2C(s) + 2H₂(g) + O₂(g) → CH₃COOH(l). Use these values (kJ mol⁻¹): ΔcH C(s) −394, H₂(g) −286, CH₃COOH(l) −874.
+**Worked example 5.** Calculate ΔfH of propanoic acid, 3C(s) + 3H₂(g) + O₂(g) → CH₃CH₂COOH(l). Use these values (kJ mol⁻¹): ΔcH C(s) −394, H₂(g) −286, CH₃CH₂COOH(l) −1527.
 
 ```
-reactants: 2(−394) + 2(−286) = −788 − 572 = −1360    (O₂ has no ΔcH)
-product:   −874
-ΔfH = −1360 − (−874) = −486 kJ mol⁻¹
+reactants: 3(−394) + 3(−286) = −1182 − 858 = −2040    (O₂ has no ΔcH)
+product:   −1527
+ΔfH = −2040 − (−1527) = −513 kJ mol⁻¹
 ```
 
 The two subtraction rules point opposite ways, so draw the cycle each time.
@@ -194,7 +194,7 @@ The acid is in excess: 0.0600 mol HCl, against 0.0300 mol (run 1) and 0.0400 mol
 
 ### Cooling curve corrections
 
-Heat leaks out while the reaction is still going. Record temperature at regular intervals before and after mixing and plot it against time. Draw a best-fit line through the points after the peak and **extrapolate it back to the time of mixing**. ΔT is the gap between that value and the starting temperature. For an endothermic reaction, use the minimum instead.
+Heat leaks out while the reaction is still going. Record temperature at regular intervals before and after mixing and plot it against time. Draw a best-fit line through the points after the peak and **extrapolate it back to the time of mixing**. ΔT is the gap between that value and the starting temperature. For an endothermic reaction, extrapolate the warming line after the lowest reading back in the same way.
 
 ### Uncertainty
 

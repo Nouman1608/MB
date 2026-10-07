@@ -139,13 +139,13 @@ The specification states that titration calculations are not required at this st
 Method: mass (or %) of each element ÷ Ar → divide by the smallest → whole-number ratio. Then measured
 Mr ÷ empirical formula mass gives the multiplier.
 
-**Worked example.** Heating 0.837 g of iron in chlorine gives 2.435 g of a chloride. The vapour of the
+**Worked example.** Heating 1.116 g of iron in chlorine gives 3.246 g of a chloride. The vapour of the
 chloride has Mr ≈ 325.
 
 ```
-mass Cl = 2.435 − 0.837 = 1.598 g
-Fe: 0.837 / 55.8 = 0.0150 mol      Cl: 1.598 / 35.5 = 0.0450 mol
-ratio Fe : Cl = 0.0150 : 0.0450 = 1 : 3   → empirical formula FeCl3 (162.3)
+mass Cl = 3.246 − 1.116 = 2.130 g
+Fe: 1.116 / 55.8 = 0.0200 mol      Cl: 2.130 / 35.5 = 0.0600 mol
+ratio Fe : Cl = 0.0200 : 0.0600 = 1 : 3   → empirical formula FeCl3 (162.3)
 325 / 162.3 = 2.00                         → molecular formula of vapour Fe2Cl6
 ```
 
@@ -171,8 +171,8 @@ here volume = n × 24.0 dm³. So gas volumes react in the same ratio as the equa
 2Li(s) + 2H₂O(l) → 2LiOH(aq) + H₂(g).
 
 ```
-n(Li) = 0.350 / 6.9 = 0.0507 mol     n(H2) = 0.0507 / 2 = 0.0254 mol
-V = 0.0254 × 24.0 = 0.609 dm³
+n(Li) = 0.350 / 6.9 = 0.0507 mol     n(H2) = 0.0507 / 2 = 0.02536 mol
+V = 0.02536 × 24.0 = 0.609 dm³
 ```
 
 **Ideal gas equation.** pV = nRT. Put pressure in Pa, volume in m³ and temperature in K, with R = 8.31 J mol⁻¹ K⁻¹. It also works for

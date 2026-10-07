@@ -66,7 +66,7 @@ Fe(s) + CuSO₄(aq) → FeSO₄(aq) + Cu(s)
 **(b)** Use the value −3330 kJ mol⁻¹ as the accepted standard enthalpy change of combustion. Give **two** reasons why your answer is less exothermic. **[2]**
 **(c)** Suggest **one** change to the apparatus that would improve the result. **[1]**
 
-**6.** Calculate ΔrH for 2H₂S(g) + SO₂(g) → 3S(s) + 2H₂O(l). Use these values of ΔfH (kJ mol⁻¹): H₂S(g) −21, SO₂(g) −297, H₂O(l) −286. **[3]**
+**6.** Calculate ΔrH for Fe₂O₃(s) + 3C(s) → 2Fe(s) + 3CO(g). Use these values of ΔfH (kJ mol⁻¹): Fe₂O₃(s) −824, CO(g) −111. **[3]**
 
 **7.** Calculate the standard enthalpy change of formation of benzene, C₆H₆(l), using these standard enthalpy changes of combustion (kJ mol⁻¹): H₂(g) −286, C₆H₆(l) −3268, C(s) −394. **[4]**
 
@@ -121,8 +121,8 @@ C₂H₂(g) + 2½O₂(g) → 2CO₂(g) + H₂O(g)
 **(c)** Any one: a draught shield, a lid on the can, or a smaller gap between flame and can [1].
 *Examiner insight:* "Heat loss" alone is often too vague for credit; say where the heat goes.
 
-**6.** Products: 2(−286) = −572 [1]. Reactants: 2(−21) + (−297) = −339 [1]. ΔrH = −572 − (−339) = **−233 kJ mol⁻¹** [1].
-*Examiner insight:* Sulfur appears as S(s), its standard state, so it adds nothing to the products' total; giving it a value loses credit.
+**6.** Products: 3(−111) = −333, with Fe(s) zero [1]. Reactants: −824, with C(s) zero [1]. ΔrH = −333 − (−824) = **+491 kJ mol⁻¹** [1].
+*Examiner insight:* Iron and carbon are elements in their standard states, so they add nothing to either total; giving them a value loses credit.
 
 **7.** Cycle with combustion products at the bottom, or ΔfH = ΣΔcH(reactants) − ΔcH(benzene) [1]. 6(−394) + 3(−286) = −2364 − 858 = −3222 [1]. ΔfH = −3222 − (−3268) [1] = **+46 kJ mol⁻¹** [1].
 *Examiner insight:* A positive answer is correct here, so write the + sign; leaving it out can cost the final mark.

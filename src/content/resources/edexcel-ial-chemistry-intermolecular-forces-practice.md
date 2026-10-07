@@ -101,13 +101,13 @@ the balance reading drops by 22.6 g.
 experimental value is higher. **[1]**
 **(c)** State which forces are overcome when water boils, and which bonds are not broken. **[2]**
 
-**12.** A student stirs 4.00 g of ammonium nitrate, NH₄NO₃, into 40.0 g of water in a polystyrene cup. The
-thermometer reading drops by 7.3 K. Use c = 4.18 J g⁻¹ K⁻¹ and treat the 40.0 g of water
+**12.** A student stirs 7.58 g of potassium nitrate, KNO₃ (Mr = 101.1), into 60.0 g of water in a polystyrene
+cup. The thermometer reading drops by 10.4 K. Use c = 4.18 J g⁻¹ K⁻¹ and treat the 60.0 g of water
 as the mass heated.
 
-**(a)** Calculate the enthalpy change of solution of ammonium nitrate. Give the sign. **[4]**
+**(a)** Calculate the enthalpy change of solution of potassium nitrate. Give the sign. **[4]**
 **(b)** Describe how water molecules interact with the ions as the solid dissolves. **[2]**
-**(c)** Explain why ammonium nitrate does not dissolve in hexane. **[2]**
+**(c)** Explain why potassium nitrate does not dissolve in hexane. **[2]**
 
 ## Answers
 
@@ -187,10 +187,10 @@ overestimated [1].
 within molecules are not broken [1]. **[7]**
 *Examiner insight:* Vaporisation is endothermic, so give the positive sign; convert J to kJ before dividing.
 
-**12. (a)** Moles NH₄NO₃ = 4.00 / 80.0 = 0.0500 mol [1]. q = 40.0 × 4.18 × 7.3 = 1221 J [1].
-ΔH = 1.221 / 0.0500 = 24.4 kJ mol⁻¹ [1]. The temperature fell, so the process is endothermic: **ΔH = +24.4 kJ
+**12. (a)** Moles KNO₃ = 7.58 / 101.1 = 0.0750 mol [1]. q = 60.0 × 4.18 × 10.4 = 2608 J [1].
+ΔH = 2.608 / 0.0750 = 34.8 kJ mol⁻¹ [1]. The temperature fell, so the process is endothermic: **ΔH = +34.8 kJ
 mol⁻¹** [1].
-**(b)** The δ− oxygen atoms of water molecules are attracted to NH₄⁺ ions, and the δ+ hydrogen atoms to NO₃⁻ ions
+**(b)** The δ− oxygen atoms of water molecules are attracted to K⁺ ions, and the δ+ hydrogen atoms to NO₃⁻ ions
 [1]. Forming these ion-dipole attractions (**hydration**) releases energy that compensates for breaking the lattice
 [1].
 **(c)** Hexane is non-polar and has only London forces [1], so it cannot hydrate the ions; too little energy would

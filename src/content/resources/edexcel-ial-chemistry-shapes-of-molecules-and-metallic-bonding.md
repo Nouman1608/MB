@@ -30,7 +30,7 @@ IAS content. The specification lists no core practical for 3C or 3D.
 For fast recall, use the [shapes and metallic bonding revision notes](/resources/edexcel-ial-chemistry-shapes-of-molecules-and-metallic-bonding-revision-notes/).
 To test yourself, try the [shapes and metallic bonding practice questions](/resources/edexcel-ial-chemistry-shapes-of-molecules-and-metallic-bonding-practice/).
 The wider Unit 1 picture is in the [structure, bonding and organic chemistry study guide](/resources/a-level-edexcel-chemistry-structure-bonding-organic-chemistry/),
-and the earlier parts of Topic 3 are in the [bonding revision notes](/resources/edexcel-a-level-chemistry-bonding-revision-notes/).
+and the earlier parts of Topic 3 (3A and 3B) are in the [ionic and covalent bonding study guide](/resources/edexcel-ial-chemistry-ionic-and-covalent-bonding/) and the [bonding revision notes](/resources/edexcel-a-level-chemistry-bonding-revision-notes/).
 See the [Edexcel International A Level Chemistry course hub](/boards/edexcel/a-level/chemistry/) for every
 unit, and tick outcomes off on the [printable checklist](/checklists/edexcel/a-level/chemistry/). To find gaps
 across the course, take one of the [free 10-minute diagnostics](/diagnostics/).
@@ -128,7 +128,7 @@ Points the explanations need:
 
 ### Drawing shapes
 
-Sketching shapes is one of the unit's mathematical skills. Use the standard 3D convention:
+Use the standard 3D convention:
 
 - an ordinary line shows a bond lying flat on the page;
 - a solid wedge shows a bond pointing out towards you;
@@ -140,8 +140,7 @@ wedge and one dashed wedge.
 ## 3.19 Predicting analogous shapes
 
 An analogous species has the same number of bonding regions and lone pairs as one of the named ten, so it has
-the same shape. The atoms can be different and the species can carry a charge. Count first; never guess from the
-formula.
+the same shape. Count first; never guess from the formula.
 
 **Worked example 2.** Predict the shape of the oxonium ion, H₃O⁺.
 
@@ -183,8 +182,7 @@ aluminium gives three and forms Al³⁺ ions.
 ### 3.21 The bond
 
 **Metallic bonding is the strong electrostatic attraction between the metal ions and the delocalised electrons.**
-It acts in all directions throughout the lattice. Do not describe it as atoms sharing electrons; the
-specification wording uses ions and delocalised electrons.
+It acts in all directions throughout the lattice. Do not describe it as atoms sharing electrons.
 
 ### 3.22 Interpreting properties
 

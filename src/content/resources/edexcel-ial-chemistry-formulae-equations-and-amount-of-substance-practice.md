@@ -37,7 +37,7 @@ The [course hub](/boards/edexcel/a-level/chemistry/) and the
 [printable checklist](/checklists/edexcel/a-level/chemistry/) list the rest of the course, and the free
 [10-minute diagnostics](/diagnostics/) help you find weak areas.
 
-**Use these values:** H 1.0, C 12.0, O 16.0, Na 23.0, Al 27.0, S 32.1, Ca 40.1, Fe 55.8, Zn 65.4,
+**Use these values:** H 1.0, C 12.0, O 16.0, Na 23.0, Al 27.0, S 32.1, Cl 35.5, Ca 40.1, Fe 55.8, Zn 65.4,
 Ba 137.3. L = 6.02 × 10²³ mol⁻¹. R = 8.31 J mol⁻¹ K⁻¹. Molar volume at room temperature and pressure
 = 24.0 dm³ mol⁻¹.
 
@@ -123,7 +123,7 @@ as seen, and keep spectator ions out of the equation.
 
 **3.** M(Na₂SO₄) = 142.1 g mol⁻¹; n = 5.684 / 142.1 = 0.0400 mol [1]. Each formula unit contains
 2 Na⁺ and 1 SO₄²⁻, so ions = 0.120 mol [1]. Number = 0.120 × 6.02 × 10²³ = **7.22 × 10²² ions** [1]
-*Examiner insight:* Stopping at 2.41 × 10²² (formula units, not ions) usually loses the final mark;
+*Examiner insight:* Stopping at 2.41 × 10²² counts formula units, not ions, so the answer is wrong;
 read whether the question asks for ions, atoms or formula units.
 
 **4. (a)** (0.60 × 10⁻³ g / 500 g) × 10⁶ = **1.2 ppm** [1]
@@ -154,7 +154,7 @@ n = pV / RT = (100 000 × 94.9 × 10⁻⁶) / (8.31 × 363) = 3.146 × 10⁻³ m
 M = 0.258 / 3.146 × 10⁻³ = **82.0 g mol⁻¹** [1]. Empirical formula mass of C₃H₅ = 41.0; 82.0 / 41.0 = 2 [1].
 Molecular formula **C₆H₁₀** [1]
 *Examiner insight:* Each unconverted quantity (°C, kPa or cm³) gives a wrong molar mass; show the
-converted values so method credit is still available if the arithmetic slips.
+converted values so an examiner can follow your method.
 
 **9. (a)** n(ZnO) = 3.00 / 81.4 = 0.0369 mol [1]. M(ZnSO₄·7H₂O) = 287.5 g mol⁻¹ [1].
 Theoretical mass = 0.0369 × 287.5 = 10.6 g [1]. Percentage yield = 7.85 / 10.6 × 100 = **74.1%** [1]
@@ -162,8 +162,8 @@ Theoretical mass = 0.0369 × 287.5 = 10.6 g [1]. Percentage yield = 7.85 / 10.6 
 = **46.4%** [1]
 **(c)** There is only one product, so every reactant atom ends up in it [1]. Yield is lower because of
 practical losses, such as crystals left in the solution or lost during filtration [1].
-*Examiner insight:* In (b), the 2 in front of NaOH must be used; including only one NaOH gives 62.8%
-and loses the method mark.
+*Examiner insight:* In (b), the 2 in front of NaOH must be used; including only one NaOH gives 62.8%,
+which is wrong.
 
 **10. (a)** CaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + CO₂(g) + H₂O(l): correct balanced species [1], all
 state symbols correct [1].

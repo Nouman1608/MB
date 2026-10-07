@@ -26,7 +26,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions are for OxfordAQA International GCSE Chemistry (9202) and are based on the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. Its scope is section 3.10.3: 3.10.3.1 Alcohols, 3.10.3.2 Carboxylic acids and 3.10.3.3 Esters. Nothing here is tier-specific. Data for calculations: Ar values H = 1, C = 12, O = 16, Na = 23, K = 39, Ca = 40; molar gas volume 24 dm³ (room temperature and pressure).
+These questions are for OxfordAQA International GCSE Chemistry (9202) and are based on the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. Its scope is section 3.10.3: 3.10.3.1 Alcohols, 3.10.3.2 Carboxylic acids and 3.10.3.3 Esters. Data for calculations: Ar values H = 1, C = 12, O = 16, Na = 23, K = 39, Ca = 40; molar gas volume 24 dm³ (room temperature and pressure).
 
 Related pages: [full guide to alcohols, acids and esters](/resources/oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions/) · [condensed notes](/resources/oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions-revision-notes/) · [9202 chemistry hub](/boards/oxfordaqa/igcse/chemistry/) · [topic checklist](/checklists/oxfordaqa/igcse/chemistry/) · [free diagnostics](/diagnostics/)
 

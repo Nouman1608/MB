@@ -197,10 +197,10 @@ swirling, then add it dropwise near the end point. Repeat until you have concord
 within 0.10 cm³) and average only those.
 
 **Worked example 2.** 25.0 cm³ of hydrochloric acid needs 0.150 mol dm⁻³ NaOH. Titres: rough 21.20;
-then 20.70, 20.55, 20.65 cm³.
+then 20.80, 20.55, 20.65 cm³.
 
 ```
-Concordant: 20.55 and 20.65 → mean = 20.60 cm³ (20.70 is 0.15 from 20.55)
+Concordant: 20.55 and 20.65 → mean = 20.60 cm³ (20.80 is 0.15 from 20.65)
 n(NaOH) = 0.150 × 20.60/1000 = 3.09 × 10⁻³ mol = n(HCl)
 c(HCl) = 3.09 × 10⁻³ / 0.0250 = 0.124 mol dm⁻³
 mass concentration = 0.1236 × 36.5 = 4.51 g dm⁻³
@@ -221,19 +221,19 @@ against a white tile.
 so double the reading uncertainty. Add the percentage uncertainties to estimate the overall
 percentage uncertainty.
 
-**Worked example 3.** 2.45 g of sulfamic acid (H₃NSO₃, Mr 97.1, monoprotic) is made up to 250 cm³.
-25.0 cm³ portions need a mean of 22.40 cm³ of NaOH. Use these uncertainties: balance ±0.005 g per
-reading, flask ±0.2 cm³, pipette ±0.04 cm³, burette ±0.05 cm³ per reading.
+**Worked example 3.** 2.95 g of butanedioic acid (HOOCCH₂CH₂COOH, Mr 118.1, diprotic) is made up to
+250 cm³. 25.0 cm³ portions need a mean of 23.65 cm³ of NaOH. Use these uncertainties: balance ±0.005 g
+per reading, flask ±0.2 cm³, pipette ±0.04 cm³, burette ±0.05 cm³ per reading.
 
 ```
-n(acid) in flask = 2.45 / 97.1 = 0.02523 mol; in 25.0 cm³ = 2.523 × 10⁻³ mol
-n(NaOH) = 2.523 × 10⁻³ (1 : 1)
-c(NaOH) = 2.523 × 10⁻³ / 0.02240 = 0.113 mol dm⁻³
-% uncertainties: mass 0.01/2.45 = 0.41%; flask 0.08%; pipette 0.16%; titre 0.10/22.40 = 0.45%
-total ≈ 1.1%, so c = 0.113 ± 0.001 mol dm⁻³
+n(acid) in flask = 2.95 / 118.1 = 0.02498 mol; in 25.0 cm³ = 2.498 × 10⁻³ mol
+n(NaOH) = 2 × 2.498 × 10⁻³ = 4.996 × 10⁻³ mol (1 : 2)
+c(NaOH) = 4.996 × 10⁻³ / 0.02365 = 0.211 mol dm⁻³
+% uncertainties: mass 0.01/2.95 = 0.34%; flask 0.08%; pipette 0.16%; titre 0.10/23.65 = 0.42%
+total ≈ 1.0%, so c = 0.211 ± 0.002 mol dm⁻³
 ```
 
-The mass and the titre dominate, so a bigger mass, or a larger titre, would improve the result most.
+The mass and the titre dominate, so increasing either would improve the result most.
 
 ## Common errors
 

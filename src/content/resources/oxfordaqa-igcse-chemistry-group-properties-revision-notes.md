@@ -204,7 +204,7 @@ Mole questions often borrow these reactions. Keep three habits:
 - Mixing up the trends: melting and boiling points rise down Group 7, while reactivity falls.
 - Giving a coloured solution for a Group 1 compound.
 
-For full explanations go back to the [study guide](/resources/oxfordaqa-igcse-chemistry-group-properties/); for exam-style practice use the [practice questions](/resources/oxfordaqa-igcse-chemistry-group-properties-practice/). The [electrolysis notes](/resources/oxfordaqa-igcse-chemistry-electrolysis-revision-notes/) reuse halide ions at the anode, and the [diagnostics](/diagnostics/) will show where else to focus.
+For full explanations go back to the [study guide](/resources/oxfordaqa-igcse-chemistry-group-properties/); for exam-style practice use the [practice questions](/resources/oxfordaqa-igcse-chemistry-group-properties-practice/). The [transition metals notes](/resources/oxfordaqa-igcse-chemistry-transition-metals-revision-notes/) compare those metals with Group 1, the [electrolysis notes](/resources/oxfordaqa-igcse-chemistry-electrolysis-revision-notes/) reuse halide ions at the anode, and the [diagnostics](/diagnostics/) will show where else to focus.
 
 ## Official syllabus
 

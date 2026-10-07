@@ -176,11 +176,11 @@ Crude oil is a mixture of hydrocarbons, mostly alkanes. Alkanes are used as fuel
 
 ### Worked example: writing the equations
 
-Tetradecane, C₁₄H₃₀, cracks to octane and propene only.
+Heptadecane, C₁₇H₃₆, cracks to nonane and butene only.
 
-- Carbon left after octane: 14 − 8 = 6, so two propene molecules.
-- Check hydrogen: 18 + 2 × 6 = 30.
-- **C₁₄H₃₀ → C₈H₁₈ + 2C₃H₆**
+- Carbon left after nonane: 17 − 9 = 8, so two butene molecules.
+- Check hydrogen: 20 + 2 × 8 = 36.
+- **C₁₇H₃₆ → C₉H₂₀ + 2C₄H₈**
 
 Reforming heptane into methylcyclohexane: C₇H₁₆ → C₇H₁₄ + H₂.
 

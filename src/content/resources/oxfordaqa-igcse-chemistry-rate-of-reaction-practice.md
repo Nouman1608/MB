@@ -67,7 +67,7 @@ MgCO₃ + 2HCl → MgCl₂ + H₂O + CO₂
 **(c)** Describe how she could obtain a value for the rate of each reaction. **[2]**
 **(d)** Give one hazard and say how she could reduce the risk from it. **[1]**
 
-**7.** A student adds 0.20 g of three different powders, P, Q and R, to three 25 cm³ samples taken from one bottle of hydrogen peroxide solution. Hydrogen peroxide decomposes to water and oxygen. He measures the oxygen formed in 60 s.
+**7.** A student adds 0.20 g of three different powders, P, Q and R, to separate 25 cm³ samples taken from one bottle of hydrogen peroxide solution. Hydrogen peroxide decomposes to water and oxygen. He measures the oxygen formed in 60 s.
 
 | Powder added | none | P | Q | R |
 |---|---|---|---|---|
@@ -96,13 +96,13 @@ MgCO₃ + 2HCl → MgCl₂ + H₂O + CO₂
 **(d)** Write a conclusion and explain it in terms of particles. **[2]**
 **(e)** Suggest one way to make the end point less dependent on the observer. **[1]**
 
-**10.** A student adds 2.50 g of calcium carbonate lumps to an excess of dilute hydrochloric acid:
+**10.** A student adds 1.75 g of calcium carbonate lumps to an excess of dilute hydrochloric acid:
 CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂
-The reaction finishes after 250 s.
+The reaction finishes after 175 s.
 
 **(a)** Calculate the maximum volume of carbon dioxide, in cm³, at room temperature and pressure. **[3]**
-**(b)** Calculate the mean rate of reaction over the 250 s, in cm³/s and in mol/s. **[2]**
-**(c)** The experiment is repeated with 2.50 g of calcium carbonate powder. State and explain the effect on the initial rate and on the final volume of gas. **[3]**
+**(b)** Calculate the mean rate of reaction over the 175 s, in cm³/s and in mol/s. **[2]**
+**(c)** The experiment is repeated with 1.75 g of calcium carbonate powder. State and explain the effect on the initial rate and on the final volume of gas. **[3]**
 
 **11.** Two experiments, A and B, use the same reactants. The volume of gas is recorded.
 
@@ -175,15 +175,15 @@ The reaction finishes after 250 s.
 **(e)** Use a light sensor and data logger to detect when the cross is hidden [1].
 *Examiner insight:* In (c), give a cause that would make the time longer; "human error" alone rarely gains credit.
 
-**10. (a)** Mr of CaCO₃ = 40 + 12 + 3 × 16 = 100; moles = 2.50 ÷ 100 = 0.025 mol [1]
-1 mol CaCO₃ gives 1 mol CO₂, so 0.025 mol CO₂ [1]
-Volume = 0.025 × 24 000 = **600 cm³** [1]
-**(b)** 600 ÷ 250 = **2.4 cm³/s** [1]; 0.025 ÷ 250 = **1.0 × 10⁻⁴ mol/s** [1]
+**10. (a)** Mr of CaCO₃ = 40 + 12 + 3 × 16 = 100; moles = 1.75 ÷ 100 = 0.0175 mol [1]
+1 mol CaCO₃ gives 1 mol CO₂, so 0.0175 mol CO₂ [1]
+Volume = 0.0175 × 24 000 = **420 cm³** [1]
+**(b)** 420 ÷ 175 = **2.4 cm³/s** [1]; 0.0175 ÷ 175 = **1.0 × 10⁻⁴ mol/s** [1]
 **(c)**
 - The initial rate is higher [1].
-- The final volume is the same, 600 cm³ [1].
+- The final volume is the same, 420 cm³ [1].
 - Powder has a larger surface area, so collisions are more frequent; the mass of calcium carbonate is unchanged, so the same amount of gas forms [1].
-*Examiner insight:* Show the mole ratio step in (a) even when it is 1 : 1, so the route to 600 cm³ is clear.
+*Examiner insight:* Show the mole ratio step in (a) even when it is 1 : 1, so the route to 420 cm³ is clear.
 
 **11. (a)** **A** [1]
 **(b)** A: 50 ÷ 20 = **2.5 cm³/s** [1]; B: 26 ÷ 20 = **1.3 cm³/s** [1]

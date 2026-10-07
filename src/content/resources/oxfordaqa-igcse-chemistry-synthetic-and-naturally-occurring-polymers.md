@@ -80,7 +80,7 @@ Never draw all three carbons in a line inside the brackets; only the two carbons
 
 ### Worked example 2: an unfamiliar monomer
 
-You are given but-2-ene, CH₃–CH=CH–CH₃. Each carbon of the double bond carries one H and one CH₃, so the polymer is –( CH(CH₃)–CH(CH₃) )n–, drawn by the same method. Only the side groups change; you do not need the polymer's name.
+You are given the monomer CH₃–CH=CHCl. One carbon of the double bond carries an H and a CH₃; the other carries an H and a Cl. The polymer is –( CH(CH₃)–CHCl )n–, drawn by the same method. Only the side groups change; you do not need the polymer's name.
 
 ### Working backwards: monomer from polymer
 

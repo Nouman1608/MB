@@ -62,10 +62,10 @@ Links: [study guide](/resources/oxfordaqa-igcse-chemistry-carbon-compounds-as-fu
 **(d)** Give the letter of the liquid that ignites most easily. **[1]**
 **(e)** Estimate the boiling point of a hydrocarbon from the same series with 8 carbon atoms. **[1]**
 
-**5.** Nonane, C₉H₂₀, and pentane, C₅H₁₂, can be used as fuels.
+**5.** Tetradecane, C₁₄H₃₀, and octane, C₈H₁₈, can be used as fuels.
 
-**(a)** Nonane burns in excess oxygen. Write a balanced equation for this reaction. **[2]**
-**(b)** Write a balanced equation for the incomplete combustion of pentane in which carbon monoxide and water are the only products. **[2]**
+**(a)** Tetradecane burns in excess oxygen. Write a balanced equation for this reaction. **[2]**
+**(b)** Write a balanced equation for the incomplete combustion of octane in which carbon monoxide and water are the only products. **[2]**
 **(c)** State what happens to the carbon and hydrogen atoms in a fuel during combustion. **[1]**
 
 **6.** A power station burns coal that contains a small amount of sulfur.
@@ -122,7 +122,7 @@ Links: [study guide](/resources/oxfordaqa-igcse-chemistry-carbon-compounds-as-fu
 *Examiner insight:* Draw every single bond in a displayed formula; count four bonds round each carbon and one round each hydrogen before you finish.
 
 **3.** Any six of: crude oil is heated so it vaporises [1]; vapour enters the bottom of the column [1]; there is a temperature gradient, with the base hottest and the top coolest [1]; vapours rise up the column [1]; each substance condenses where the temperature is below its boiling point [1]; fractions are collected at different heights, with small molecules at the top and large molecules at the bottom [1].
-*Examiner insight:* Six separate points are needed for six marks, so a short answer that only says "they separate by boiling point" earns very little.
+*Examiner insight:* Aim for six distinct, linked points in a logical order; a short answer that only says "they separate by boiling point" earns very little credit.
 
 **4. (a)** P [1].
 **(b)** Boiling point increases as the number of carbon atoms increases [1].
@@ -131,8 +131,8 @@ Links: [study guide](/resources/oxfordaqa-igcse-chemistry-carbon-compounds-as-fu
 **(e)** Any value from 100 °C to 150 °C [1].
 *Examiner insight:* In (d), P is a gas at room temperature, so the question asks about liquids; read the stem carefully before choosing the smallest molecule.
 
-**5. (a)** Correct formulae of CO₂ and H₂O [1]; **C₉H₂₀ + 14O₂ → 9CO₂ + 10H₂O** [1].
-**(b)** Correct products CO and H₂O [1]; **2C₅H₁₂ + 11O₂ → 10CO + 12H₂O** [1].
+**5. (a)** Correct formulae of CO₂ and H₂O [1]; **2C₁₄H₃₀ + 43O₂ → 28CO₂ + 30H₂O** (or C₁₄H₃₀ + 21½O₂ → 14CO₂ + 15H₂O) [1].
+**(b)** Correct products CO and H₂O [1]; **2C₈H₁₈ + 17O₂ → 16CO + 18H₂O** [1].
 **(c)** They are oxidised (combine with oxygen) [1].
 *Examiner insight:* Balance carbon, then hydrogen, then oxygen, and count every element on both sides before moving on; one wrong coefficient leaves the whole equation unbalanced.
 
