@@ -11,6 +11,7 @@ syllabusSeries: "Version 4.0 (August 2026), for first assessment in 2018"
 syllabusTopics:
   - qualification: "gcse"
     topic: "topic-c1-particles-j248"
+    subtopic: "c1-2-atomic-structure-j248"
 description: "Sub-atomic particles, the changing atomic model, atomic scale, and calculating protons, neutrons and electrons from atomic number, mass number and ion charge, for OCR GCSE (9-1) Chemistry A (Gateway Science) J248."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"

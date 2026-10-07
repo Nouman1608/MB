@@ -11,6 +11,7 @@ syllabusSeries: "Version 4.0 (August 2026), for first assessment in 2018"
 syllabusTopics:
   - qualification: "gcse"
     topic: "topic-c1-particles-j248"
+    subtopic: "c1-2-atomic-structure-j248"
 description: "Condensed recall notes covering both C1.2 Atomic structure (assessed on Papers 1 and 3) and C4.1 Predicting chemical reactions -- periodic table development and Group 1/7/0 properties (assessed on Papers 2 and 4) -- for GCSE Chemistry."
 author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"

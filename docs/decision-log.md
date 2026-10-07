@@ -15562,3 +15562,31 @@ Three more problems turned up:
 - **Examiner notes.** One summariser per series wrote notes in our own words. One composer per page wrote it from those notes. Independent checkers then compared every claim against the report text and made 36 corrections to wrong paper numbers, unsupported series tags and overstatements. No page shares an 8-word run with any report. Questions that Cambridge removed, or for which every candidate got full marks, are left out.
 - **Not done.** The 11 existing past-papers guides stop at 2025 or earlier. The folder now has newer reports for several of them, and they could be extended the same way.
 - **Tests (6 Oct 2026).** `check_pp.py` passed on all five pages. `validate-academic-content`, the duplicate-scope check, `npm run build` and `audit:all` also passed.
+
+## D-402 - Chemistry gaps: every chemistry topic and subtopic now has pages (branch `chemistry-gaps`, 7 Oct 2026, 13:15 PKT)
+
+- **Why.** The owner asked for all chemistry gaps to be completed first. Before this sprint, five chemistry specifications had topics or subtopics with no page, and AQA 7405 had two uncovered subtopics.
+- **What.** 131 new units, each with a study guide, revision notes and a practice set (393 pages, published 7 Oct 2026):
+  - OCR A Level Chemistry A (H432): 37 units
+  - Edexcel International A Level Chemistry (YCH11): 32 units
+  - IB DP Chemistry: 28 units
+  - OxfordAQA International GCSE Chemistry (9202): 18 units
+  - OCR GCSE Chemistry A (J248): 15 units
+  - AQA A Level Chemistry (7405): 1 unit (ideal gas equation and empirical formula)
+
+  `coverage:academic-v2` now reports no chemistry topic or subtopic without resources for 8462, 7405, 0620, 5070, 9701, YCH11, 4CH1, DP Chemistry, J248, H432, 9202 and 9620.
+- **Sources.** Official texts only:
+  - J248 Version 4.0 (August 2026). The Higher-Tier-only statements were read from the bold text in the PDF, and only those are labelled "Higher Tier only".
+  - H432 Version 3.1 (May 2026)
+  - 9202 Version 6.2
+  - YCH11 Issue 1 (September 2017)
+  - 7405 (current AQA specification)
+  - IB DP Chemistry guide, first assessment 2025, published February 2023. The owner supplied this guide on 7 Oct 2026 because it is not public. The pages paraphrase it, and an 8-word overlap scan found no copied run. Only the guide's additional higher level understandings are labelled "HL only". The March 2024 update to the guide was not used.
+- **Topic map.** `syllabus-topics.ts` now has subtopics for 9202 topics 2 to 9, YCH11 Units 2, 4 and 5, and DP Structure 2 and 3 and Reactivity 1 to 3. The notes on those records say the subtopics were added on 7 Oct 2026.
+- **Existing pages.** 23 existing pages were tagged with the new subtopics they already teach: 6 for 7405, 8 for 9620, 6 for 9202 and 3 for J248. Four J248 pages now spell out "Working Scientifically" in place of the short form.
+- **Method.** One writer and one independent verifier per unit, as in D-399. Verifiers recomputed every number, mapped every official learning outcome to where it is taught, checked reagents, conditions, colours and equations, and removed any claim about papers, practicals, data sheets or calculators that the official text does not make. Every practice question is original.
+- **Duplicate scope.** 39 allow-list entries were added for sibling units from this sprint that share one official subtopic but teach different parts of it.
+- **Fix found by the audit.** A practice answer that began "[X] =" rendered as a ticked checkbox; it was reworded.
+- **Tests (7 Oct 2026).**
+  - `check_new.py` passed on all 393 pages.
+  - `validate-academic-content`, the duplicate-scope check, `npm run build` and `audit:all` passed.
