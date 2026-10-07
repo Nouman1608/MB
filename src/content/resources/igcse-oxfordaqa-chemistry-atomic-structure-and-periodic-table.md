@@ -12,6 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "atomic-structure-and-the-periodic-table-9202"
+    subtopic: "solids-liquids-and-gases-9202"
+  - qualification: "igcse"
+    topic: "atomic-structure-and-the-periodic-table-9202"
+    subtopic: "a-simple-model-of-the-atom-9202"
+  - qualification: "igcse"
+    topic: "atomic-structure-and-the-periodic-table-9202"
+    subtopic: "the-periodic-table-9202"
 description: "States of matter, the structure of the atom, and the periodic table's arrangement by proton number -- the opening topic of OxfordAQA International GCSE Chemistry 9202, and the foundation for every topic that follows."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"

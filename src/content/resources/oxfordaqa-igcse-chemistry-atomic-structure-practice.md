@@ -12,6 +12,13 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "atomic-structure-and-the-periodic-table-9202"
+    subtopic: "solids-liquids-and-gases-9202"
+  - qualification: "igcse"
+    topic: "atomic-structure-and-the-periodic-table-9202"
+    subtopic: "a-simple-model-of-the-atom-9202"
+  - qualification: "igcse"
+    topic: "atomic-structure-and-the-periodic-table-9202"
+    subtopic: "the-periodic-table-9202"
 description: "Original exam-style practice questions with full worked answers on sub-atomic particles, isotopes, electron structure, the periodic table and states of matter."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
