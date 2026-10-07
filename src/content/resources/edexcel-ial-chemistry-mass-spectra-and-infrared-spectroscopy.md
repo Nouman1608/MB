@@ -182,17 +182,17 @@ Work in this order: functional group from IR, Mr from the molecular ion, a formu
 
 ### Worked example 5: an unknown carbonyl compound
 
-Compound K contains C, H and O. Its IR spectrum has a strong peak at 1710 cm⁻¹, no broad band above 2500 cm⁻¹ and no peak at 2775–2700 cm⁻¹. Its mass spectrum shows the molecular ion at m/z 100, the base peak at 57, and other peaks at 85 and 43. There is no peak at 29 or 71. Suggest a structure for K.
+Compound K contains C, H and O. Its IR spectrum has a strong peak at 1712 cm⁻¹, no broad band above 2500 cm⁻¹ and no peak at 2775–2700 cm⁻¹. Its mass spectrum shows the molecular ion at m/z 86, the base peak at 57 and a strong peak at 29. There is no peak at 43. Suggest a structure for K.
 
 Step 1. IR: C=O present, no O–H, no aldehyde C–H. K is a ketone.
 
-Step 2. Mr = 100. A ketone with one oxygen: CₙH₂ₙO. 14n + 16 = 100, so n = 6 and the formula is C₆H₁₂O.
+Step 2. Mr = 86. A ketone with one oxygen: CₙH₂ₙO. 14n + 16 = 86, so n = 5 and the formula is C₅H₁₀O.
 
-Step 3. 100 − 85 = 15: loss of CH₃•. m/z 43 is CH₃CO⁺, so a methyl group sits on the carbonyl carbon.
+Step 3. 86 − 57 = 29: loss of C₂H₅• (not CHO•, as K is a ketone), leaving C₂H₅CO⁺ at 57. The peak at 29 is C₂H₅⁺. So an ethyl group is joined to the carbonyl carbon on each side.
 
-Step 4. m/z 57 with no 29 or 71: the other side of the C=O is C₄H₉. A tert-butyl group, C(CH₃)₃, gives a stable C(CH₃)₃⁺ ion at 57 and has no ethyl group to give 29.
+Step 4. Check the other ketones. Pentan-2-one, CH₃COCH₂CH₂CH₃, and 3-methylbutan-2-one, CH₃COCH(CH₃)₂, both contain CH₃CO and a C₃H₇ group, so each would be expected to give a peak at 43 (CH₃CO⁺ or C₃H₇⁺). There is none.
 
-Step 5. A structure that fits is **CH₃COC(CH₃)₃, 3,3-dimethylbutan-2-one**. Hexan-2-one and 3-methylpentan-2-one also contain CH₃CO and a C₄H₉ group, but each has an ethyl group and would be expected to lose C₂H₅• to give a peak at 71, which is absent. 4-methylpentan-2-one cannot be ruled out this easily, so name it as a possible alternative. Say "suggest" and give your reasoning, because spectra support a structure rather than prove it.
+Step 5. A structure that fits is **CH₃CH₂COCH₂CH₃, pentan-3-one**. Say "suggest" and give your reasoning, because spectra support a structure rather than prove it.
 
 ## Core Practical 8: analysis of unknowns (10.23)
 

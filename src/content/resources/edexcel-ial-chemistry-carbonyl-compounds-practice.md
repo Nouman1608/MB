@@ -55,7 +55,7 @@ Use these relative atomic masses where needed: C 12.0, H 1.0, O 16.0, Ag 107.9, 
 **5.** 0.731 g of 3-methylbutanal, (CH₃)₂CHCH₂CHO, is warmed with excess Tollens' reagent.
 
 **(a)** Write an equation for the oxidation of 3-methylbutanal, using [O]. **[1]**
-**(b)** Write the half-equation for the formation of silver. **[1]**
+**(b)** Write the half-equation showing how silver forms. **[1]**
 **(c)** Calculate the maximum mass of silver that can form. **[3]**
 
 **6.** Lithium tetrahydridoaluminate(III) reduces carbonyl compounds.
@@ -80,11 +80,11 @@ Use these relative atomic masses where needed: C 12.0, H 1.0, O 16.0, Ag 107.9, 
 **(d)** Identify Z. **[1]**
 **(e)** Give one further test, with its expected result, that supports your answer to (d) and rules out pentan-3-one. **[2]**
 
-**9.** 1.44 g of butanone is warmed with excess iodine and sodium hydroxide solution.
+**9.** 1.80 g of butanone is warmed with excess iodine and sodium hydroxide solution.
 
 **(a)** Give a balanced equation for this reaction, using NaOH. **[1]**
 **(b)** Name the organic product other than triiodomethane. **[1]**
-**(c)** 5.12 g of triiodomethane, CHI₃, is collected. Calculate the percentage yield. **[3]**
+**(c)** 6.40 g of triiodomethane, CHI₃, is collected. Calculate the percentage yield. **[3]**
 
 **10.** Compounds A and B are unbranched isomers with the formula C₆H₁₂O. Both give a yellow-orange precipitate with 2,4-DNPH. A gives a red precipitate when warmed with Benedict's solution; B does not. B gives a pale yellow precipitate with iodine in alkali.
 
@@ -108,9 +108,9 @@ Use these relative atomic masses where needed: C 12.0, H 1.0, O 16.0, Ag 107.9, 
 **2. (a)** CH₃CH₂CH₂CH₂CHO, **pentanal** [1]; CH₃CH₂CH(CH₃)CHO, **2-methylbutanal** [1]; (CH₃)₂CHCH₂CHO, **3-methylbutanal** [1]; (CH₃)₃CCHO, **2,2-dimethylpropanal** [1]
 **(b)** **2-methylbutanal**: its C2 carries H, CH₃, C₂H₅ and CHO [1].
 **(c)** None has a CH₃CO– group: in each, the C=O carbon carries H, not CH₃ [1].
-*Examiner insight:* Before writing a fourth isomer, check it is not one you already have, drawn or numbered from the other end; a repeat earns nothing.
+*Examiner insight:* Before writing a fourth isomer, check it is not one you already have, drawn or numbered from the other end; a repeat is not a new isomer.
 
-**3. (a)** The three molecules have about the same number of electrons, so their London forces are similar [1]. Butanal also has permanent dipole–dipole forces from the polar C=O bond [1]. Butanal has no H bonded to O, so it cannot form hydrogen bonds between its molecules [1]. Butan-1-ol forms hydrogen bonds through O–H; these are the strongest forces here and need the most energy to overcome [1].
+**3. (a)** The three molecules have about the same number of electrons, so their London forces are similar [1]. Butanal has, in addition, permanent dipole–dipole forces arising from its polar C=O bond [1]. Butanal has no H bonded to O, so it cannot form hydrogen bonds between its molecules [1]. Butan-1-ol forms hydrogen bonds through O–H; these are the strongest forces here and need the most energy to overcome [1].
 **(b)** The δ− carbonyl oxygen of butanal uses a lone pair to accept a hydrogen bond from a water H [1]; pentane has no δ− atom with a lone pair, so it cannot hydrogen bond to water [1].
 *Examiner insight:* Talk about forces between molecules; any mention of covalent bonds breaking on boiling contradicts the answer.
 
@@ -143,7 +143,7 @@ Use these relative atomic masses where needed: C 12.0, H 1.0, O 16.0, Ag 107.9, 
 
 **9. (a)** CH₃COCH₂CH₃ + 3I₂ + 4NaOH → CHI₃ + CH₃CH₂COONa + 3NaI + 3H₂O [1]
 **(b)** **Sodium propanoate** [1]
-**(c)** n(butanone) = 1.44 ÷ 72.0 = 0.0200 mol [1]; maximum mass CHI₃ = 0.0200 × 393.7 = 7.874 g [1]; yield = 5.12 ÷ 7.874 × 100 = **65.0%** [1]
+**(c)** n(butanone) = 1.80 ÷ 72.0 = 0.0250 mol [1]; maximum mass CHI₃ = 0.0250 × 393.7 = 9.843 g [1]; yield = 6.40 ÷ 9.843 × 100 = **65.0%** [1]
 *Examiner insight:* Check the by-product has one fewer carbon than the ketone; butanone gives a three-carbon carboxylate.
 
 **10. (a)** Both give a precipitate with 2,4-DNPH, so both have C=O [1]. A reduces Benedict's solution, so A is an aldehyde: unbranched, so **hexanal** [1]. B does not, so B is a ketone [1]. B has a CH₃CO– group (iodoform), so C=O is at C2: **hexan-2-one** [1].

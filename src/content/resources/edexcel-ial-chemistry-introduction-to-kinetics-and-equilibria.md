@@ -21,7 +21,7 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This guide teaches Topic 9: Introduction to Kinetics and Equilibria from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers learning outcomes 9.1 to 9.11, in two parts: 9A Kinetics and 9B Equilibria. Its home in the specification is Unit 2: Energetics, Group Chemistry, Halogenoalkanes and Alcohols, an International AS (IAS) unit. Topics 11 and 13 later build on it.
+This guide teaches Topic 9: Introduction to Kinetics and Equilibria from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers learning outcomes 9.1 to 9.11, in two parts: 9A Kinetics and 9B Equilibria. Its home in the specification is Unit 2: Energetics, Group Chemistry, Halogenoalkanes and Alcohols, an International AS (IAS) unit. Topics 11, 13 and 14 later build on it.
 
 Links: the [course hub](/boards/edexcel/a-level/chemistry/), the [printable checklist](/checklists/edexcel/a-level/chemistry/), the [kinetics and equilibria revision notes](/resources/edexcel-ial-chemistry-introduction-to-kinetics-and-equilibria-revision-notes/), the [kinetics and equilibria practice questions](/resources/edexcel-ial-chemistry-introduction-to-kinetics-and-equilibria-practice/) and the free [diagnostics](/diagnostics/). For mole work, see the [amount of substance guide](/resources/edexcel-ial-chemistry-formulae-equations-and-amount-of-substance/).
 
@@ -115,7 +115,7 @@ The second hump is 18 + 31 = 49 kJ mol⁻¹ above the reactants. The first hump 
 ### Catalysts and sustainability (9.7)
 
 - **Less energy.** With a lower Ea, a useful rate is reached at a lower temperature. Less fuel is burnt to heat reactors, cutting cost and carbon dioxide emissions.
-- **Higher atom economy.** A catalyst can make a route with fewer steps or fewer by-products possible. Ethanoic acid can be made by carbonylation of methanol over a metal catalyst: CH₃OH + CO → CH₃COOH. Using the Topic 1 definition, atom economy = (molar mass of the desired product ÷ sum of the molar masses of all products) × 100%. The only product here is the one wanted, so the atom economy is 100%.
+- **Higher atom economy.** A catalyst can make a route with fewer steps or fewer by-products possible. Ethanoic acid can be made by carbonylation of methanol using a rhodium or iridium catalyst: CH₃OH + CO → CH₃COOH. Using the Topic 1 definition, atom economy = (molar mass of the desired product ÷ sum of the molar masses of all products) × 100%. The only product here is the one wanted, so the atom economy is 100%.
 
 ## 9B: Equilibria
 

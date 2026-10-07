@@ -76,8 +76,8 @@ Because the scale is logarithmic, a change of one pH unit means a tenfold change
 
 ### Worked example 2: both directions
 
-(a) A sample of rainwater has [H⁺] = 3.6 × 10⁻⁴ mol dm⁻³.
-pH = −log₁₀(3.6 × 10⁻⁴) = **3.44**
+(a) A sample of rainwater has [H⁺] = 2.9 × 10⁻⁴ mol dm⁻³.
+pH = −log₁₀(2.9 × 10⁻⁴) = **3.54**
 
 (b) A soil extract has pH 5.36.
 [H⁺] = 10⁻⁵·³⁶ = **4.37 × 10⁻⁶ mol dm⁻³**

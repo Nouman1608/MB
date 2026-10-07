@@ -42,7 +42,7 @@ The specification lists the reactions in 15.8 i, iv and v as a further suggested
 
 ## 15.6 Naming and drawing aldehydes and ketones
 
-Both families contain the carbonyl group, C=O.
+Aldehydes and ketones share one functional group: C=O, the carbonyl group.
 
 - In an **aldehyde** the carbonyl carbon is at the end of the chain and carries a hydrogen atom. The group is written –CHO. The suffix is **-al**, and the CHO carbon is always C1, so no locant is needed.
 - In a **ketone** the carbonyl carbon is bonded to two carbon atoms. The suffix is **-one**, with a locant for the carbonyl carbon (propanone and butanone need none, because there is only one possible position).
@@ -96,7 +96,7 @@ A carbonyl oxygen has two lone pairs and a δ− charge. It can accept a hydroge
 
 ## 15.8 i Oxidation: telling aldehydes from ketones
 
-An aldehyde has a hydrogen on the carbonyl carbon, so it is oxidised easily to a carboxylic acid. A ketone has no such hydrogen and is not oxidised by these mild reagents. The specification lets you write the oxidising agent as [O]:
+An aldehyde has a hydrogen on the carbonyl carbon, so it is oxidised easily to a carboxylic acid. Ketones lack this hydrogen, so these mild reagents leave them unchanged. The specification lets you write the oxidising agent as [O]:
 
 RCHO + [O] → RCOOH
 
@@ -106,7 +106,7 @@ RCHO + [O] → RCOOH
 | Tollens' reagent (ammoniacal silver nitrate), warm in a water bath | **Silver mirror** forms on the tube (or a grey-black precipitate) | No change |
 | Potassium dichromate(VI) with dilute sulfuric acid, warm | **Orange to green** | Stays orange |
 
-What is reduced? In Fehling's and Benedict's, copper(II) is reduced to copper(I). In Tollens' reagent, Ag⁺ + e⁻ → Ag. In acidified dichromate, Cr₂O₇²⁻ (orange) is reduced to Cr³⁺ (green). Fehling's, Benedict's and Tollens' are alkaline, so the acid formed there is present as its carboxylate ion.
+What is reduced? In Fehling's and Benedict's, copper(II) is reduced to copper(I). In Tollens' reagent, Ag⁺ + e⁻ → Ag. With acidified dichromate, orange Cr₂O₇²⁻ ions become green Cr³⁺ ions. Fehling's, Benedict's and Tollens' are alkaline, so the acid formed there is present as its carboxylate ion.
 
 To make Tollens' reagent, add a drop of sodium hydroxide solution to silver nitrate solution, then dilute ammonia dropwise until the brown precipitate just dissolves.
 
@@ -148,7 +148,7 @@ Hydrogen cyanide adds across C=O to give a **hydroxynitrile**. HCN is a weak aci
 
 The C=O bond is polar: C is δ+, O is δ−. The mechanism, drawn with curly arrows, using butanone:
 
-1. Draw a curly arrow that starts at the **lone pair on the C atom of :CN⁻** and ends on the δ+ carbonyl carbon. A second arrow moves the **C=O π bond** onto the oxygen.
+1. Draw a curly arrow that starts at the **lone pair on the C atom of :CN⁻** and ends on the δ+ carbonyl carbon. Another arrow takes the **C=O π bond** pair onto the oxygen.
 2. This gives an intermediate with O⁻ on the former carbonyl carbon. A curly arrow goes from a **lone pair on O⁻** to the H of an HCN molecule, and an arrow from the H–C bond to the C of that CN.
 3. The product is 2-hydroxy-2-methylbutanenitrile, and CN⁻ is regenerated.
 

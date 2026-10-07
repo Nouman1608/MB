@@ -38,12 +38,12 @@ Data for this set: H = 1.0, C = 12.0, N = 14.0, O = 16.0, S = 32.1, Br = 79.9.
 **(a)** Describe how the π-bonding in benzene forms from the p-orbitals on the carbon atoms. **[2]**
 **(b)** State the H–C–C bond angle in benzene. **[1]**
 
-**2.** A crystallographer records these carbon–carbon distances: ethane 0.154 nm, ethene 0.134 nm, and every ring bond in benzene 0.140 nm.
+**2.** A crystallographer records these carbon–carbon distances: the C–C bond in cyclohexane 0.154 nm, the C=C bond in cyclohexene 0.134 nm, and all six ring bonds in benzene 0.139 nm.
 
 **(a)** State the bond lengths the Kekulé structure would predict for the ring. **[1]**
 **(b)** Explain what the benzene measurement shows about its bonding. **[2]**
 
-**3.** Use these values for the enthalpy change of hydrogenation: cyclohexene −119 kJ mol⁻¹; benzene (to cyclohexane) −207 kJ mol⁻¹.
+**3.** Use these values for the enthalpy change of hydrogenation: cyclohexene −120 kJ mol⁻¹; benzene (to cyclohexane) −205 kJ mol⁻¹.
 
 **(a)** Write the equation for the complete hydrogenation of benzene. **[1]**
 **(b)** Calculate the enthalpy change of hydrogenation predicted for the Kekulé structure. **[1]**
@@ -84,7 +84,7 @@ Data for this set: H = 1.0, C = 12.0, N = 14.0, O = 16.0, S = 32.1, Br = 79.9.
 **(a)** Benzene reacts with 2-chlorobutane. Write an equation and name the organic product. **[2]**
 **(b)** Explain why the aluminium chloride and the apparatus must be dry. **[1]**
 **(c)** Benzene reacts with pentanoyl chloride, CH₃CH₂CH₂CH₂COCl. Write an equation for the formation of the electrophile, then describe the mechanism of its reaction with benzene. **[4]**
-**(d)** 4.68 g of benzene gives 6.80 g of 1-phenylpentan-1-one, C₆H₅COCH₂CH₂CH₂CH₃. Calculate the percentage yield. **[3]**
+**(d)** 2.73 g of benzene gives 4.10 g of 1-phenylpentan-1-one, C₆H₅COCH₂CH₂CH₂CH₃. Calculate the percentage yield. **[3]**
 
 **11.** 1.41 g of phenol is dissolved in water and bromine water is added until no further change occurs.
 
@@ -107,8 +107,8 @@ Data for this set: H = 1.0, C = 12.0, N = 14.0, O = 16.0, S = 32.1, Br = 79.9.
 *Examiner insight:* Use the figures: "between 0.134 and 0.154 nm" earns more than "all bonds are the same".
 
 **3. (a)** C₆H₆ + 3H₂ → C₆H₁₂ [1]
-**(b)** 3 × (−119) = **−357 kJ mol⁻¹** [1]
-**(c)** Benzene releases 357 − 207 = **150 kJ mol⁻¹** less energy than predicted [1]; so benzene is more stable than the Kekulé structure, because its π-electrons are delocalised [1].
+**(b)** 3 × (−120) = **−360 kJ mol⁻¹** [1]
+**(c)** Benzene releases 360 − 205 = **155 kJ mol⁻¹** less energy than predicted [1]; so benzene is more stable than the Kekulé structure, because its π-electrons are delocalised [1].
 *Examiner insight:* State which substance is more stable and by how much; a correct difference with no conclusion does not answer "comment".
 
 **4.** Cyclohexene shows an alkene C=C stretching absorption at about 1650 cm⁻¹ [1]; benzene has no alkene C=C absorption but shows aromatic ring absorptions at about 1450–1600 cm⁻¹ [1].
@@ -142,7 +142,7 @@ Data for this set: H = 1.0, C = 12.0, N = 14.0, O = 16.0, S = 32.1, Br = 79.9.
 **10. (a)** C₆H₆ + CH₃CHClCH₂CH₃ → C₆H₅CH(CH₃)CH₂CH₃ + HCl [1]; **2-phenylbutane** [1].
 **(b)** Water reacts with aluminium chloride, so the catalyst would be destroyed [1].
 **(c)** CH₃CH₂CH₂CH₂COCl + AlCl₃ → CH₃CH₂CH₂CH₂CO⁺ + AlCl₄⁻ [1]; curly arrow from the ring to the carbon of the acylium ion [1]; intermediate with H and COCH₂CH₂CH₂CH₃ on one carbon, horseshoe over five carbons, + charge [1]; curly arrow from C–H into the ring, H⁺ lost to give the ketone, and H⁺ + AlCl₄⁻ → AlCl₃ + HCl [1].
-**(d)** n(benzene) = 4.68 ÷ 78.0 = 0.0600 mol [1]; Mr(C₁₁H₁₄O) = 162.0, theoretical mass = 0.0600 × 162.0 = 9.72 g [1]; yield = 6.80 ÷ 9.72 × 100 = **70.0%** [1].
+**(d)** n(benzene) = 2.73 ÷ 78.0 = 0.0350 mol [1]; Mr(C₁₁H₁₄O) = 162.0, theoretical mass = 0.0350 × 162.0 = 5.67 g [1]; yield = 4.10 ÷ 5.67 × 100 = **72.3%** [1].
 *Examiner insight:* Put the positive charge on the carbonyl carbon of the acylium ion, and point the first arrow at that carbon.
 
 **11. (a)** The orange bromine water is decolourised [1]; a white precipitate forms [1].

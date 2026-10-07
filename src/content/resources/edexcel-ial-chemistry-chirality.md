@@ -189,7 +189,7 @@ These results fit the Topic 11 rate equations: rate = k[halogenoalkane] for SN1 
 ## Common errors
 
 - Counting a CH₂ carbon or a C=O carbon as a chiral centre.
-- Comparing only the first atom of each group, so CH₃ and C₂H₅ get treated as "the same".
+- Judging groups by their first atom alone, so CH₃ and C₂H₅ get treated as "the same".
 - Drawing two pictures that are the same molecule rotated, rather than mirror images.
 - Writing "the product is racemic, so it has no chiral centre". A racemic mixture is made of chiral molecules.
 - Leaving out "monochromatic" or "plane-polarised" in a definition of optical activity.

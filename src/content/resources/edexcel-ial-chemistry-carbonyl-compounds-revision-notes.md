@@ -23,7 +23,7 @@ featured: false
 
 These notes condense Topic 15B: Carbonyl compounds (outcomes 15.6 to 15.8) as set out in Issue 1 (September 2017) of Pearson Edexcel's International Advanced Subsidiary/Advanced Level in Chemistry specification, YCH11. Unit 4 (Rates, Equilibria and Further Organic Chemistry), an International A2 (IA2) unit, is where it is examined. The [carbonyl compounds study guide](/resources/edexcel-ial-chemistry-carbonyl-compounds/) explains each idea in full, with worked examples.
 
-Also useful: the [practice questions](/resources/edexcel-ial-chemistry-carbonyl-compounds-practice/), the [topic checklist](/checklists/edexcel/a-level/chemistry/), a free [diagnostic](/diagnostics/) and the [course hub](/boards/edexcel/a-level/chemistry/).
+Also useful: the [practice questions](/resources/edexcel-ial-chemistry-carbonyl-compounds-practice/), the [topic checklist](/checklists/edexcel/a-level/chemistry/), a free [diagnostic](/diagnostics/) and the [course hub](/boards/edexcel/a-level/chemistry/). For the neighbouring parts of Topic 15, see the [chirality study guide](/resources/edexcel-ial-chemistry-chirality/) (15A) and the [carboxylic acids study guide](/resources/edexcel-ial-chemistry-carboxylic-acids-and-their-derivatives/) (15C).
 
 ## Key definitions
 
@@ -95,8 +95,8 @@ Why KCN? HCN is a weak acid, so it gives too few CN⁻ ions on its own.
 ### Optical activity argument (15.8 iii)
 
 1. The carbonyl carbon and its three attached atoms are coplanar.
-2. Either face can be attacked by CN⁻, with equal probability.
-3. If the product carbon has four different groups, both enantiomers form in equal amounts.
+2. CN⁻ is equally likely to attack either face.
+3. When the new carbon carries four different groups, both enantiomers form in equal amounts.
 4. A racemic mixture forms: no overall rotation of plane-polarised light.
 5. If two groups on the carbonyl carbon are the same (methanal, propanone, pentan-3-one), the product is not chiral at all.
 

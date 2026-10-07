@@ -168,7 +168,7 @@ The –OH carbon carries two hydrogens, so the alcohol is primary.
 |---|---|---|
 | Heating under reflux | Heat a reaction for a long time without losing volatile substances | Condenser vertical, open at the top, water in at the bottom; anti-bumping granules; electric heater or water bath, as organic liquids are flammable |
 | Extraction with a separating funnel | Separate two immiscible liquids, or move the product into a solvent | Invert and vent often; let the layers settle; run off the lower layer |
-| Distillation | Separate a liquid from substances with different boiling temperatures | Thermometer bulb level with the side arm; collect the fraction that distils near the product's boiling temperature |
+| Distillation | Separate a liquid from substances with different boiling temperatures | Thermometer bulb opposite the side-arm opening; keep the distillate that comes over near the product's boiling temperature |
 | Drying with an anhydrous salt | Remove traces of water from the organic layer | Add anhydrous magnesium sulfate or calcium chloride until some stays loose; the liquid goes from cloudy to clear; decant or filter |
 | Boiling temperature determination | Check identity and purity | A pure liquid boils at a sharp, fixed temperature that matches data; an impure one boils over a range |
 

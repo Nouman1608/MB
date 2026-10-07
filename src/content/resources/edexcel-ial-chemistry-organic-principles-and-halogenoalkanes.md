@@ -166,7 +166,7 @@ Ethanol is a common solvent, because halogenoalkanes do not mix with water. As w
 | 2-bromopentane | 2° | 95 | 1.05 × 10⁻² |
 | 2-bromo-2-methylbutane | 3° | 8 | 1.25 × 10⁻¹ |
 
-The tertiary isomer reacts about 26 times faster than the primary (210 ÷ 8 = 26.2). In a second run 1-iodopentane took 35 s, so it reacts 6.0 times faster than 1-bromopentane.
+The tertiary isomer reacts about 26 times faster than the primary (210 ÷ 8 = 26.25). In a second run 1-iodopentane took 35 s, so it reacts 6.0 times faster than 1-bromopentane.
 
 ### Core Practical 5 (10.11)
 
@@ -211,7 +211,7 @@ To identify the halogen, warm the halogenoalkane with NaOH(aq) to release the ha
 
 ## Where next
 
-Condense this with the [revision notes](/resources/edexcel-ial-chemistry-organic-principles-and-halogenoalkanes-revision-notes/), then try the [practice questions](/resources/edexcel-ial-chemistry-organic-principles-and-halogenoalkanes-practice/). For exam technique, see [preparing for the Edexcel IAL Chemistry units](/resources/edexcel-ial-chemistry-exam-preparation/).
+Condense this with the [revision notes](/resources/edexcel-ial-chemistry-organic-principles-and-halogenoalkanes-revision-notes/), then try the [practice questions](/resources/edexcel-ial-chemistry-organic-principles-and-halogenoalkanes-practice/). The next part of Topic 10 is the [alcohols guide](/resources/edexcel-ial-chemistry-alcohols/). For exam technique, see [preparing for the Edexcel IAL Chemistry units](/resources/edexcel-ial-chemistry-exam-preparation/).
 
 ## Official syllabus
 

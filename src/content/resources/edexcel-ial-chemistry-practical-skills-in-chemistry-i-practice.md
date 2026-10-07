@@ -41,7 +41,7 @@ Data for this set: H = 1.0, C = 12.0, O = 16.0, Na = 23.0, S = 32.1, Cl = 35.5, 
 **2.** Core Practical 1. 0.350 g of calcium carbonate reacts with excess dilute hydrochloric acid, giving 79.5 cm³ of carbon dioxide, collected over water at 20 °C and 100 kPa.
 
 **(a)** Give a balanced equation, including state symbols, for this reaction. **[1]**
-**(b)** Use these results to find the molar volume of the gas in dm³ mol⁻¹. **[2]**
+**(b)** Find the molar volume of the gas in dm³ mol⁻¹. **[2]**
 **(c)** Use pV = nRT to calculate the expected molar volume at 20 °C and 100 kPa. **[2]**
 **(d)** Suggest a reason, other than a leak, for the low result. **[1]**
 
@@ -94,14 +94,14 @@ Data for this set: H = 1.0, C = 12.0, O = 16.0, Na = 23.0, S = 32.1, Cl = 35.5, 
 
 - Solid W: lilac flame; white precipitate with dilute hydrochloric acid then barium chloride.
 - Solid Y: fizzes with dilute acid, giving a gas that turns limewater milky; warmed with sodium hydroxide, gives a gas that turns damp red litmus blue.
-- Liquid Z, C₃H₈O: steamy fumes with phosphorus(V) chloride; turns warm acidified dichromate(VI) orange to green; the product does not affect Benedict's solution.
+- Liquid Z, C₃H₈O: steamy fumes with phosphorus(V) chloride; turns warm acidified dichromate(VI) orange to green; the product, distilled off as it forms, does not affect Benedict's solution.
 
 **(a)** Identify W. Give the ionic equation for the barium chloride test. **[2]**
 **(b)** Identify Y. Give the ionic equation for the reaction with sodium hydroxide. **[2]**
 **(c)** Identify Z, explaining how each observation supports your answer. **[3]**
 **(d)** Explain why the barium chloride is added after acid. **[1]**
 
-**10.** An unfamiliar practical. A 250 cm³ solution is made from 3.58 g of Na₂CO₃·xH₂O. Each 25.0 cm³ portion needs, on average, 25.00 cm³ of 0.100 mol dm⁻³ hydrochloric acid (methyl orange). Na₂CO₃ + 2HCl → 2NaCl + CO₂ + H₂O.
+**10.** A 250 cm³ solution is made from 3.58 g of Na₂CO₃·xH₂O. Each 25.0 cm³ portion needs, on average, 25.00 cm³ of 0.100 mol dm⁻³ hydrochloric acid (methyl orange). Na₂CO₃ + 2HCl → 2NaCl + CO₂ + H₂O.
 
 **(a)** Calculate the value of x. **[5]**
 **(b)** Explain why methyl orange is used, not phenolphthalein. **[1]**
@@ -131,7 +131,7 @@ Data for this set: H = 1.0, C = 12.0, O = 16.0, Na = 23.0, S = 32.1, Cl = 35.5, 
 **(d)** 0.0984 × 36.5 = **3.59 g dm⁻³** [1].
 *Examiner insight:* Show which titres you chose; quote the mean to two decimal places, like the readings.
 
-**5. (a)** Weigh by difference, then dissolve the solid in a beaker of distilled water [1]. Move the solution and all beaker and rod washings into a 250 cm³ volumetric flask [1]. Make up until the meniscus bottom sits on the mark at eye level [1]. Stopper and invert to mix [1].
+**5. (a)** Weigh by difference, then dissolve the solid in a beaker of distilled water [1]. Move the solution and all beaker and rod washings into a 250 cm³ volumetric flask [1]. Make up until the meniscus bottom sits on the mark at eye level [1]. Stopper the flask and invert it several times [1].
 **(b)** Water would dilute the alkali and change its concentration [1].
 *Examiner insight:* Give the detail that makes each step work: "rinse the beaker into the flask" is stronger than "transfer it".
 

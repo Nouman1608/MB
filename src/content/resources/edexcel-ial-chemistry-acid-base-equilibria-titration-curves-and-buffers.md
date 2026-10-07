@@ -21,7 +21,7 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This guide teaches the second half of Topic 14: Acid-base Equilibria from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers outcomes 14.15 to 14.23, including Core Practical 11. This content is in Unit 4: Rates, Equilibria and Further Organic Chemistry (IA2). It assumes you can already use pH, Ka, pKa and Kw (outcomes 14.1 to 14.14).
+This guide teaches the second half of Topic 14: Acid-base Equilibria from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers outcomes 14.15 to 14.23, including Core Practical 11. This content is in Unit 4: Rates, Equilibria and Further Organic Chemistry (IA2). It assumes outcomes 14.1 to 14.14 ([pH, Ka and Kw](/resources/edexcel-ial-chemistry-acid-base-equilibria-ph-ka-and-kw/)).
 
 Every topic is on the [course hub](/boards/edexcel/a-level/chemistry/) and the printable [Edexcel Chemistry checklist](/checklists/edexcel/a-level/chemistry/). Then use the [revision notes](/resources/edexcel-ial-chemistry-acid-base-equilibria-titration-curves-and-buffers-revision-notes/) and [practice questions](/resources/edexcel-ial-chemistry-acid-base-equilibria-titration-curves-and-buffers-practice/) for this unit, or a free [diagnostic](/diagnostics/).
 
@@ -112,7 +112,7 @@ Typical ranges (in a question, always use the values you are given):
 
 ## 14.17 and 14.18 Buffer solutions
 
-A **buffer solution** is one whose pH changes very little when a small amount of acid or alkali is added to it. It does not hold the pH perfectly constant, and a large addition overwhelms it.
+A **buffer solution** is one whose pH changes very little when a small amount of acid or alkali is added to it. It does not hold the pH constant, and a large addition overwhelms it.
 
 Acidic buffers contain a weak acid and its conjugate base (usually supplied as a salt), for example propanoic acid with sodium propanoate. Basic buffers contain a weak base and its conjugate acid, for example ammonia with ammonium chloride.
 
@@ -122,7 +122,7 @@ Acidic buffers contain a weak acid and its conjugate base (usually supplied as a
 HA ⇌ H⁺ + A⁻
 ```
 
-The salt is fully ionised and the weak acid barely dissociated, so the buffer holds large reservoirs of both A⁻ and HA.
+The salt is fully ionised and the weak acid barely dissociated, so both A⁻ and HA are present in large amounts.
 
 - **Small amount of acid added**: the extra H⁺ ions react with A⁻ to form HA. The equilibrium shifts to the left. Because [HA] and [A⁻] are both large, their ratio changes only a little, so [H⁺] and pH change only a little.
 - **Small amount of alkali added**: OH⁻ + HA → A⁻ + H₂O. The ratio [HA]/[A⁻] again changes only slightly.
@@ -137,7 +137,7 @@ Rearrange the Ka expression:
 [H⁺] = Ka × [HA] / [A⁻]        or        pH = pKa − log([HA]/[A⁻])
 ```
 
-Assume the dissociation of HA is negligible and all A⁻ comes from the salt. Both species share one volume, so moles can replace concentrations in the ratio. Another route is to add less strong base than the weak acid needs for neutralisation: the leftover acid and the anion formed make the buffer.
+Assume HA's dissociation is negligible and all A⁻ comes from the salt. Both share one volume, so moles can replace concentrations. Another route is to add less strong base than the weak acid needs for neutralisation: the leftover acid and the anion formed make the buffer.
 
 ### Worked example 3: partial neutralisation
 
@@ -220,7 +220,7 @@ One method uses half-neutralisation:
 3. To a second 25.0 cm³ portion of acid, add exactly half that volume of NaOH (or add 25.0 cm³ more acid to the neutralised flask).
 4. Measure the pH. Now [HA] = [A⁻], so pKa = pH and Ka = 10^-pH.
 
-Neither concentration needs to be known. Alternatively, measure the pH of an acid of known concentration and use Ka = [H⁺]²/[HA] (outcome 14.14). The specification also suggests plotting titration curves with a data logger and analysing vinegar. Errors come from an uncalibrated or unrinsed meter, or reading before the value settles.
+Neither concentration needs to be known. Or measure the pH of an acid of known concentration and use Ka = [H⁺]²/[HA] (outcome 14.14). The specification also suggests plotting titration curves with a data logger and analysing vinegar. Errors come from an uncalibrated or unrinsed meter, or reading before the value settles.
 
 ## Common errors
 

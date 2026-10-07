@@ -22,7 +22,7 @@ featured: false
 
 Full explanations and longer worked examples are in the [Unit 3 study guide](/resources/edexcel-ial-chemistry-practical-skills-in-chemistry-i/); start there if a point below is new to you.
 
-These notes condense Unit 3: Practical Skills in Chemistry I in the YCH11 specification (Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry, Issue 1, September 2017). It is an International AS (IAS) unit. The specification describes a written examination of 1 hour and 20 minutes, out of 50 marks, on the practical skills and techniques from Units 1 and 2, including Core Practicals 1 to 8, in familiar and unfamiliar situations. When you have revised, try the [Unit 3 practice questions](/resources/edexcel-ial-chemistry-practical-skills-in-chemistry-i-practice/), tick off each practical on the [printable checklist](/checklists/edexcel/a-level/chemistry/), browse other units via the [course hub](/boards/edexcel/a-level/chemistry/), and run a free [diagnostic](/diagnostics/).
+These notes condense Unit 3: Practical Skills in Chemistry I in the YCH11 specification (Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry, Issue 1, September 2017). It is an International AS (IAS) unit. The specification describes a written examination of 1 hour and 20 minutes, out of 50 marks, on the practical skills and techniques from Units 1 and 2, including Core Practicals 1 to 8, in familiar and unfamiliar situations. When you have revised, try the [Unit 3 practice questions](/resources/edexcel-ial-chemistry-practical-skills-in-chemistry-i-practice/), tick off each practical on the [printable checklist](/checklists/edexcel/a-level/chemistry/), browse other units via the [course hub](/boards/edexcel/a-level/chemistry/), and run a free [diagnostic](/diagnostics/). The A2 practical unit follows in [Practical Skills in Chemistry II](/resources/edexcel-ial-chemistry-practical-skills-in-chemistry-ii/).
 
 ## What the paper asks of you
 
@@ -74,11 +74,11 @@ These notes condense Unit 3: Practical Skills in Chemistry I in the YCH11 specif
 
 **4. Standard solution (8.22, 8.23).** Weigh solid acid by difference and dissolve it in a beaker. Wash every trace into a volumetric flask, fill until the meniscus meets the line at eye level; stopper and invert. Use it to standardise sodium hydroxide.
 
-**5. Hydrolysis rates (10.10, 10.11).** Halogenoalkane plus silver nitrate in ethanol in a water bath; time to first precipitate. Iodo faster than bromo, faster than chloro (weaker C–X bond). Tertiary faster than secondary, faster than primary.
+**5. Hydrolysis rates (10.10, 10.11).** Halogenoalkane plus silver nitrate in ethanol in a water bath; time to first precipitate. Iodo faster than bromo, faster than chloro (weaker C–X bond). Tertiary faster than secondary, faster than primary. Main error: judging the moment cloudiness first appears; a black cross under each tube makes it consistent.
 
-**6. Chlorination of 2-methylpropan-2-ol (10.14).** Shake with concentrated HCl in a separating funnel; product is the upper layer; wash with NaHCO₃(aq), venting; wash with water; dry with an anhydrous salt; distil.
+**6. Chlorination of 2-methylpropan-2-ol (10.14).** Shake with concentrated HCl in a separating funnel; product is the upper layer; wash with NaHCO₃(aq), venting; wash with water; dry with an anhydrous salt; distil. Measure the product mass for a percentage yield; losses come from transfers, washes and evaporation of the volatile product.
 
-**7. Oxidation of propan-1-ol (10.20).** Acidified K₂Cr₂O₇: orange to green. Distil as it forms for propanal (ice-cooled receiver); reflux with excess oxidant for propanoic acid.
+**7. Oxidation of propan-1-ol (10.20).** Acidified K₂Cr₂O₇: orange to green. Distil as it forms for propanal (ice-cooled receiver); reflux with excess oxidant for propanoic acid. Check purity from the boiling temperature.
 
 **8. Unknowns (10.23).** Systematic tests for cations, anions, gases and functional groups, below.
 

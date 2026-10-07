@@ -182,7 +182,7 @@ These are rough guides. A large K does not mean a fast reaction: kinetic stabili
 
 ## Next steps
 
-Work through the [practice questions](/resources/edexcel-ial-chemistry-chemical-equilibria-practice/), return to the [study guide](/resources/edexcel-ial-chemistry-chemical-equilibria/) for anything that is still shaky, and mark progress on the [checklist](/checklists/edexcel/a-level/chemistry/). Revisit your Topic 12 entropy notes if ΔSsystem and ΔSsurroundings feel rusty.
+Work through the [practice questions](/resources/edexcel-ial-chemistry-chemical-equilibria-practice/), return to the [study guide](/resources/edexcel-ial-chemistry-chemical-equilibria/) for anything that is still shaky, and mark progress on the [checklist](/checklists/edexcel/a-level/chemistry/). Revisit your [Topic 12 entropy notes](/resources/edexcel-ial-chemistry-entropy-revision-notes/) if ΔSsystem and ΔSsurroundings feel rusty.
 
 ## Official syllabus
 

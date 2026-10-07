@@ -21,7 +21,7 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This guide teaches learning outcomes 17.18 to 17.33, with Core Practical 14, which make up the second half of Topic 17, Transition Metals and their Chemistry. The source is the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017. The topic sits in the IA2 (International A2) paper Unit 5: Transition Metals and Organic Nitrogen Chemistry. According to the specification, the practical procedures from Units 4 and 5 can also be tested in Unit 6: Practical Skills in Chemistry II. It builds on Topic 16 (electrode potentials) and Topic 12 (entropy).
+This guide teaches learning outcomes 17.18 to 17.33, with Core Practical 14, which make up the second half of Topic 17, Transition Metals and their Chemistry. The source is the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017. The topic sits in the IA2 (International A2) paper Unit 5: Transition Metals and Organic Nitrogen Chemistry. The specification states that Unit 6: Practical Skills in Chemistry II will predominantly assess knowledge and understanding related to Units 4 and 5. It builds on Topic 16 (electrode potentials) and Topic 12 (entropy).
 
 Condensed recall is in the [revision notes](/resources/edexcel-ial-chemistry-transition-metals-redox-and-catalysis-revision-notes/), and original exam-style questions are in the [practice set](/resources/edexcel-ial-chemistry-transition-metals-redox-and-catalysis-practice/). To plan, use the [Edexcel chemistry hub](/boards/edexcel/a-level/chemistry/), tick outcomes off on the [checklist](/checklists/edexcel/a-level/chemistry/), and find weak spots with a [10-minute diagnostic](/diagnostics/).
 
@@ -134,7 +134,7 @@ A neutral precipitate has as many OH⁻ ligands as the metal's charge.
 
 [Cu(OH)₂(H₂O)₄] + 4NH₃ → [Cu(NH₃)₄(H₂O)₂]²⁺ + 2OH⁻ + 2H₂O
 
-Only four water ligands are replaced. Coordination number stays 6.
+Overall, four NH₃ replace four of the six water ligands of [Cu(H₂O)₆]²⁺. Coordination number stays 6.
 
 **Chloride ligands.** Concentrated hydrochloric acid supplies a high Cl⁻ concentration:
 
@@ -210,14 +210,13 @@ Losses come from air oxidation of Cr²⁺, product left in solution and transfer
 - Stopping zinc at Cr³⁺ or V³⁺ without checking the next E⦵ step.
 - Calling Cr₂O₇²⁻ ⇌ CrO₄²⁻ a redox change.
 - Saying excess NaOH dissolves Cu(OH)₂. Only the Cr and Zn hydroxides dissolve in excess NaOH.
-- Giving a precipitate colour but leaving out what happens in excess.
 - Saying [CuCl₄]²⁻ keeps coordination number 6.
 - Explaining the chelate effect by "stronger bonds" rather than ΔSsystem.
 - Describing a heterogeneous catalyst without both adsorption and desorption.
 
 ## Next steps
 
-Try the [practice questions](/resources/edexcel-ial-chemistry-transition-metals-redox-and-catalysis-practice/), then review with the [revision notes](/resources/edexcel-ial-chemistry-transition-metals-redox-and-catalysis-revision-notes/). For background, see [entropy](/resources/edexcel-ial-chemistry-entropy/), [kinetics](/resources/edexcel-ial-chemistry-kinetics/) and [chemical equilibria](/resources/edexcel-ial-chemistry-chemical-equilibria/). Check gaps with the [diagnostics](/diagnostics/).
+Try the [practice questions](/resources/edexcel-ial-chemistry-transition-metals-redox-and-catalysis-practice/), then review with the [revision notes](/resources/edexcel-ial-chemistry-transition-metals-redox-and-catalysis-revision-notes/). Outcomes 17.1-17.17 are in [complexes and colour](/resources/edexcel-ial-chemistry-transition-metals-complexes-and-colour/). Background: [entropy](/resources/edexcel-ial-chemistry-entropy/) and [redox equilibria](/resources/edexcel-ial-chemistry-redox-equilibria/). Check gaps with the [diagnostics](/diagnostics/).
 
 ## Official syllabus
 

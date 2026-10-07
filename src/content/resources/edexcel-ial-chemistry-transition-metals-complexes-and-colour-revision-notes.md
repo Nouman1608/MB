@@ -23,7 +23,7 @@ featured: false
 
 For full explanations and longer worked examples, read the [study guide](/resources/edexcel-ial-chemistry-transition-metals-complexes-and-colour/) first.
 
-These notes condense outcomes 17.1 to 17.17 of Topic 17: Transition Metals and their Chemistry, in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. All of it is IA2 content, assessed in Unit 5: Transition Metals and Organic Nitrogen Chemistry. The rest of Topic 17 (vanadium, chromium, hydroxide and ammonia reactions, catalysts) is not in these notes.
+These notes condense outcomes 17.1 to 17.17 of Topic 17: Transition Metals and their Chemistry, in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. All of it is IA2 content, assessed in Unit 5: Transition Metals and Organic Nitrogen Chemistry. The rest of Topic 17 (vanadium, chromium, hydroxide and ammonia reactions, catalysts) is in the [redox and catalysis revision notes](/resources/edexcel-ial-chemistry-transition-metals-redox-and-catalysis-revision-notes/).
 
 Links: Edexcel [chemistry hub](/boards/edexcel/a-level/chemistry/), [printable checklist](/checklists/edexcel/a-level/chemistry/), [practice questions for this unit](/resources/edexcel-ial-chemistry-transition-metals-complexes-and-colour-practice/), and the free [diagnostics](/diagnostics/).
 

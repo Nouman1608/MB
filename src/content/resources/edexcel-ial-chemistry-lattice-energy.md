@@ -96,8 +96,6 @@ Fluorine steps: the formula needs 2 mol of F atoms and 2 mol of F⁻ ions, so 2(
 
 ΔfH = 2337 + (−498) + (−2957) = **−1118 kJ mol⁻¹**
 
-Common slips: one fluorine term instead of two, or a missing second ionisation energy.
-
 ## 12.14 and 12.15 Experimental and theoretical values
 
 You can arrive at a lattice energy in two independent ways.
@@ -174,7 +172,7 @@ Charge usually wins. Doubling both charges roughly quadruples the attraction, wh
 
 ## 12.19 Will it dissolve?
 
-ΔsolH alone cannot settle solubility; many salts dissolve endothermically. Use the total entropy change from part 12A:
+ΔsolH alone cannot settle solubility; many salts dissolve endothermically. Use the total entropy change from part 12A ([entropy study guide](/resources/edexcel-ial-chemistry-entropy/)):
 
 ΔStotal = ΔSsystem + ΔSsurroundings, with ΔSsurroundings = −ΔsolH / T
 
@@ -202,7 +200,7 @@ Use these values at 298 K: ΔsolH = +26.3 kJ mol⁻¹; ΔSsystem = −102.5 J mo
 
 ### Explaining the Group 2 trends from Unit 2
 
-Outcome 8.15 asked you to know that Group 2 hydroxides get more soluble down the group while Group 2 sulfates get less soluble. Compare how lattice energy and cation hydration change.
+Outcome 8.15 ([Groups 1 and 2](/resources/edexcel-ial-chemistry-the-elements-of-groups-1-and-2/)) asked you to know that Group 2 hydroxides get more soluble down the group while Group 2 sulfates get less soluble. Compare how lattice energy and cation hydration change.
 
 - **Sulfates.** SO₄²⁻ is a large ion. As the cation grows down the group, the distance between ion centres changes only a little in proportion, so lattice energy becomes only slightly less exothermic. Cation hydration becomes much less exothermic. ΔsolH becomes more endothermic, and solubility falls.
 - **Hydroxides.** OH⁻ is small, so a larger cation makes a big proportional change to the distance between ions. Lattice energy becomes less exothermic faster than hydration enthalpy does, so ΔsolH becomes more favourable and solubility rises.
@@ -214,7 +212,6 @@ Outcome 8.15 asked you to know that Group 2 hydroxides get more soluble down the
 - Missing the second ionisation energy of a 2+ ion, or the doubled anion terms in MgF₂-type formulae.
 - Omitting state symbols. Lattice energy equations need (g) on the ions and (s) on the product.
 - Dividing a ΔsolH in kJ by T and then adding it to entropies in J mol⁻¹ K⁻¹.
-- Deciding that an endothermic ΔsolH means a salt cannot dissolve.
 - Saying a big experimental–theoretical gap means the compound "is covalent". It shows partial covalent character in ionic bonding.
 
 ## Next steps

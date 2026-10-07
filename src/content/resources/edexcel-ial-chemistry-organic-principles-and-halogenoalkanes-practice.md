@@ -71,9 +71,9 @@ Name each isomer and state whether it is a primary, secondary or tertiary haloge
 
 | Halogenoalkane | Time / s |
 |---|---|
-| 1-chloro-3-methylbutane | 1800 |
-| 1-bromo-3-methylbutane | 240 |
-| 1-iodo-3-methylbutane | 30 |
+| 1-chloro-4-methylpentane | 1800 |
+| 1-bromo-4-methylpentane | 240 |
+| 1-iodo-4-methylpentane | 30 |
 
 **(a)** Calculate 1/time for each compound. **[2]**
 **(b)** Calculate how many times faster the iodo compound reacts than the bromo compound. **[1]**
@@ -124,7 +124,7 @@ Name each isomer and state whether it is a primary, secondary or tertiary haloge
 **3.** A: **1-chloro-2-methylbutane** [1], primary [1]
 B: **2-chloro-3-methylbutane** [1], secondary [1]
 C: **2-chloro-2-methylbutane** [1], tertiary [1]
-*Examiner insight:* Check locants from both ends; B written as 3-chloro-2-methylbutane uses a higher first locant and is not the correct name.
+*Examiner insight:* For B both directions give locants 2 and 3, so chloro, first alphabetically, takes the lower number; 3-chloro-2-methylbutane is wrong.
 
 **4. (a)** **3-methylbutan-1-ol** [1]; (CH₃)₂CHCH₂CH₂Cl + KOH → (CH₃)₂CHCH₂CH₂OH + KCl [1]
 **(b)** **3-methylbut-1-ene** [1]; OH⁻ acts as a base (removes H⁺) [1]

@@ -116,12 +116,12 @@ Use these values throughout. Relative atomic masses: H = 1.0, C = 12.0, N = 14.0
 
 **4. (a)** 2CH₃CH₂COOH + Na₂CO₃ → 2CH₃CH₂COONa + H₂O + CO₂ [1]
 **(b)** Mr(propanoic acid) = 74.0; n = 2.22 ÷ 74.0 = 0.0300 mol [1]. n(CO₂) = 0.0300 ÷ 2 = 0.0150 mol [1]. Volume = 0.0150 × 24 000 = **360 cm³** [1].
-*Examiner insight:* the 2 : 1 ratio from the balanced equation is where most answers go wrong; check your equation before you use it, and give the unit asked for.
+*Examiner insight:* the 2 : 1 ratio from the balanced equation is easy to miss; check your equation before you use it, and give the unit asked for.
 
 **5. (a)** **2-methylbutan-1-ol** [1]. LiAlH₄ reacts violently with water, so water must be excluded [1].
 **(b)** CH₃CH₂CH(CH₃)COOH + 4[H] → CH₃CH₂CH(CH₃)CH₂OH + H₂O [1]
 **(c)** CH₃CH₂CH(CH₃)COOH + PCl₅ → CH₃CH₂CH(CH₃)COCl + POCl₃ + HCl [1]. Steamy (misty) fumes [1].
-*Examiner insight:* "white fumes" or "white smoke" alone describes a different observation; say steamy or misty fumes for HCl.
+*Examiner insight:* "white smoke" describes solid NH₄Cl forming with ammonia, a different observation; say steamy or misty fumes for HCl.
 
 **6. (a)** **3-methylbutyl ethanoate** [1]; CH₃COOCH₂CH₂CH(CH₃)₂ [1]
 **(b)** Mr(C₅H₁₂O) = 88.0, n = 3.08 ÷ 88.0 = 0.0350 mol [1]. Mr(C₇H₁₄O₂) = 130.0, maximum mass = 0.0350 × 130.0 = 4.55 g [1]. Yield = 3.64 ÷ 4.55 × 100 = **80.0%** [1].

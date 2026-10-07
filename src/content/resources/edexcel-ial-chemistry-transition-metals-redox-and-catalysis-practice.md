@@ -29,7 +29,7 @@ featured: false
 
 This practice set covers outcomes 17.18 to 17.33 of Topic 17: Transition Metals and their Chemistry, including Core Practical 14, from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017. These outcomes are examined in the IA2 paper Unit 5: Transition Metals and Organic Nitrogen Chemistry. Attempt them only after the unit's [study guide](/resources/edexcel-ial-chemistry-transition-metals-redox-and-catalysis/) and [revision notes](/resources/edexcel-ial-chemistry-transition-metals-redox-and-catalysis-revision-notes/); the [checklist](/checklists/edexcel/a-level/chemistry/) and [Edexcel chemistry hub](/boards/edexcel/a-level/chemistry/) help you see what is left.
 
-Use these values throughout. E⦵ / V: VO₂⁺/VO²⁺ +1.00; VO²⁺/V³⁺ +0.34; V³⁺/V²⁺ −0.26; I₂/I⁻ +0.54; Zn²⁺/Zn −0.76; Cr₂O₇²⁻/Cr³⁺ +1.33; Cr³⁺/Cr²⁺ −0.41; O₂/H₂O +1.23; Fe³⁺/Fe²⁺ +0.77; S₂O₈²⁻/SO₄²⁻ +2.01. Ar: O 16.0, Cu 63.5, H 1.0, S 32.1, N 14.0. R = 8.31 J K⁻¹ mol⁻¹.
+Use these values throughout. E⦵ / V: VO₂⁺/VO²⁺ +1.00; VO²⁺/V³⁺ +0.34; V³⁺/V²⁺ −0.26; I₂/I⁻ +0.54; Zn²⁺/Zn −0.76; Cr₂O₇²⁻/Cr³⁺ +1.33; Cr³⁺/Cr²⁺ −0.41; O₂/H₂O +1.23; Fe³⁺/Fe²⁺ +0.77; S₂O₈²⁻/SO₄²⁻ +2.01. Ar: O 16.0, Ni 58.7, H 1.0, Cl 35.5, N 14.0. R = 8.31 J K⁻¹ mol⁻¹.
 
 ## Questions
 
@@ -103,11 +103,11 @@ Use these values at 298 K: ΔH = −7.0 kJ mol⁻¹, ΔSsystem = +88 J K⁻¹ mo
 **(b)** Use E⦵ values to show that Fe²⁺ can catalyse this reaction. Write both steps. **[4]**
 **(c)** Acidified KMnO₄ is added to warm ethanedioate solution. Describe how [MnO₄⁻] changes with time, and explain the shape. **[3]**
 
-**12.** Core Practical 14. A student prepares tetraamminecopper(II) sulfate, [Cu(NH₃)₄]SO₄·H₂O, from 3.00 g of CuSO₄·5H₂O dissolved in a little water. Concentrated ammonia is added until the precipitate redissolves, then ethanol is added and the crystals are filtered off.
+**12.** Core Practical 14. A student prepares hexaamminenickel(II) chloride, [Ni(NH₃)₆]Cl₂, from 2.50 g of NiCl₂·6H₂O dissolved in the minimum of water. Excess concentrated ammonia is added in a fume cupboard, the mixture is cooled in ice and the crystals are filtered off.
 
-**(a)** Calculate the Mr of CuSO₄·5H₂O and of the product. **[2]**
-**(b)** The dry product weighs 2.10 g. Calculate the percentage yield. **[3]**
-**(c)** Explain why ethanol is added. **[1]**
+**(a)** Calculate the Mr of NiCl₂·6H₂O and of the product. **[2]**
+**(b)** The dry product weighs 1.85 g. Calculate the percentage yield. **[3]**
+**(c)** Explain why the mixture is cooled in ice before filtering. **[1]**
 **(d)** Suggest two causes of the yield falling short of 100%. **[2]**
 
 ## Answers
@@ -162,11 +162,11 @@ Use these values at 298 K: ΔH = −7.0 kJ mol⁻¹, ΔSsystem = +88 J K⁻¹ mo
 **(c)** Slow fall at first [1]; then a steep fall as Mn²⁺ (a product) catalyses the reaction [1]; then levels off once the reactants run out [1]
 *Examiner insight:* In part (b), each step needs its own E⦵cell; one overall value does not show that iron can both gain and lose electrons.
 
-**12. (a)** CuSO₄·5H₂O = **249.6** [1]; [Cu(NH₃)₄]SO₄·H₂O = **245.6** [1]
-**(b)** n(CuSO₄·5H₂O) = 3.00/249.6 = 0.01202 mol [1]; theoretical mass = 0.01202 × 245.6 = 2.952 g [1]; yield = 2.10/2.952 × 100 = **71.1%** [1]
-**(c)** The complex is less soluble in ethanol, so more crystallises out [1]
-**(d)** Any two: product left in the filtrate [1]; losses on transfer or filtering, or impurity removed on washing [1]
-*Examiner insight:* Mole ratio is 1 : 1 Cu to complex; round only at the end to avoid drift in the yield.
+**12. (a)** NiCl₂·6H₂O = **237.7** [1]; [Ni(NH₃)₆]Cl₂ = **231.7** [1]
+**(b)** n(NiCl₂·6H₂O) = 2.50/237.7 = 0.01052 mol [1]; theoretical mass = 0.01052 × 231.7 = 2.437 g [1]; yield = 1.85/2.437 × 100 = **75.9%** [1]
+**(c)** The complex is less soluble at low temperature, so more crystallises out [1]
+**(d)** Any two: product left in the filtrate [1]; losses on transfer or filtering, or product dissolved on washing [1]
+*Examiner insight:* Mole ratio is 1 : 1 Ni to complex; include all six waters of crystallisation in the starting Mr and round only at the end.
 
 ## Where marks are usually lost
 

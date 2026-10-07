@@ -25,7 +25,7 @@ These notes condense Topic 11: Kinetics of the Pearson Edexcel International Adv
 
 When these feel secure, try the [kinetics practice questions](/resources/edexcel-ial-chemistry-kinetics-practice/). Tick topics off on a [printable checklist](/checklists/edexcel/a-level/chemistry/), try a free [diagnostic](/diagnostics/), or browse other topics from the [course hub](/boards/edexcel/a-level/chemistry/).
 
-## Definitions to learn word for word (11.1)
+## Definitions to learn (11.1)
 
 | Term | Meaning |
 |---|---|
@@ -161,7 +161,7 @@ Reactant gases bond weakly (adsorb) at active sites on the solid. Their bonds we
 
 ## Where marks are usually lost
 
-- Writing orders from the balanced equation instead of from data.
+- Taking orders from the stoichiometric coefficients rather than the experimental results.
 - Giving k without units, or with units for the wrong overall order.
 - Using two experiments where more than one concentration changes.
 - Confusing "rate halves" with "time halves" in clock reactions: rate ∝ 1/t.

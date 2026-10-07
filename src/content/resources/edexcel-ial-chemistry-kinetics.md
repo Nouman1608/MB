@@ -21,7 +21,7 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This guide teaches Topic 11: Kinetics of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. Its scope is outcomes 11.1 to 11.13, with Core Practicals 9a, 9b and 10. The topic belongs to the International A2 (IA2) unit Unit 4: Rates, Equilibria and Further Organic Chemistry, and it builds on Unit 2, Topic 9A: Kinetics.
+This guide teaches Topic 11: Kinetics of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers outcomes 11.1 to 11.13, with Core Practicals 9a, 9b and 10, in the International A2 (IA2) unit Unit 4: Rates, Equilibria and Further Organic Chemistry, and it builds on Unit 2, Topic 9A: Kinetics (see the [Topic 9 guide](/resources/edexcel-ial-chemistry-introduction-to-kinetics-and-equilibria/)).
 
 Useful pages: a [printable topic checklist](/checklists/edexcel/a-level/chemistry/); the shorter [kinetics revision notes](/resources/edexcel-ial-chemistry-kinetics-revision-notes/); the [kinetics practice questions](/resources/edexcel-ial-chemistry-kinetics-practice/); a free [diagnostic](/diagnostics/) to spot gaps; and the [course hub](/boards/edexcel/a-level/chemistry/), which lists every unit.
 
@@ -108,6 +108,8 @@ Benzenediazonium chloride decomposes in warm water, releasing nitrogen. Use thes
 
 ### Choosing a technique (11.3)
 
+Justify a choice by naming the property that changes.
+
 | Technique | Use it when | Example |
 |---|---|---|
 | Titration | An acid, base or iodine can be titrated in quenched samples | Iodine-propanone, titrated with thiosulfate |
@@ -115,8 +117,6 @@ Benzenediazonium chloride decomposes in warm water, releasing nitrogen. Use thes
 | Mass change | A dense gas such as CO₂ escapes | Marble chips with acid |
 | Volume of gas | A gas forms (gas syringe) | Hydrogen from magnesium and acid; H₂ is too light for mass loss |
 | Other | Ion numbers or [H⁺] change | Conductivity or pH meter during halogenoalkane hydrolysis |
-
-Justify a choice by naming what changes and why it is measurable.
 
 ### Two kinds of experiment (11.4)
 
@@ -142,7 +142,7 @@ CH₃COCH₃ + I₂ → CH₃COCH₂I + H⁺ + I⁻, catalysed by H⁺ ions.
 3. Each cm³ of thiosulfate reacts with 0.0100 ÷ 1000 ÷ 2 = 5.00 × 10⁻⁶ mol I₂.
 4. Rate = (0.550 × 5.00 × 10⁻⁶) ÷ 0.0100 dm³ = **2.75 × 10⁻⁴ mol dm⁻³ min⁻¹** (4.58 × 10⁻⁶ mol dm⁻³ s⁻¹).
 
-Varying propanone and acid shows first order in each:
+Changing the starting [propanone] or [H⁺] alone changes the gradient in proportion, so the reaction is first order in each:
 
 **rate = k[CH₃COCH₃][H⁺]**
 
@@ -154,7 +154,7 @@ The rate-determining step involves one propanone and one H⁺. Iodine reacts in 
 2. CH₃C(OH⁺)CH₃ → CH₂=C(OH)CH₃ + H⁺ (fast; forms the enol)
 3. CH₂=C(OH)CH₃ + I₂ → CH₃COCH₂I + H⁺ + I⁻ (fast)
 
-The steps add up to the overall equation. H⁺ used in step 1 is returned in step 2, so it is a catalyst.
+The steps add up to the overall equation. H⁺ used in step 1 is returned in step 2: a catalyst.
 
 ## 11.12 Clock reaction (Core Practical 9b)
 
@@ -209,7 +209,7 @@ The Arrhenius equation is given if needed:
 
 k = Ae^(−Ea/RT), so ln k = −(Ea/R)(1/T) + ln A
 
-Plot ln k on the y-axis against 1/T on the x-axis. The gradient is −Ea/R, so **Ea = −gradient × R**. With R in J mol⁻¹ K⁻¹, Ea comes out in J mol⁻¹; divide by 1000 for kJ mol⁻¹.
+Plot ln k on the y-axis against 1/T on the x-axis. The gradient equals −Ea/R, which rearranges to **Ea = −R × gradient** (in J mol⁻¹).
 
 In Core Practical 10 you time the same amount of reaction at several temperatures. Then 1/t is proportional to k, so ln(1/t) against 1/T has the same gradient.
 

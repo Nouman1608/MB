@@ -65,12 +65,12 @@ Relative atomic masses to use: C = 12.0, O = 16.0, H = 1.0.
 
 **7.** Peroxodisulfate ions oxidise iodide ions slowly in aqueous solution: S₂O₈²⁻(aq) + 2I⁻(aq) → 2SO₄²⁻(aq) + I₂(aq). A few drops of iron(III) solution make the reaction much faster. Use the Maxwell-Boltzmann distribution to explain how the iron ions increase the rate at constant temperature. **[3]**
 
-**8.** Ethanol can be made by two routes.
+**8.** Methanol can be made over a copper-based catalyst by two routes.
 
-Route A, fermentation: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂
-Route B, hydration of ethene over an acid catalyst: C₂H₄ + H₂O → C₂H₅OH
+Route A, from carbon dioxide: CO₂ + 3H₂ → CH₃OH + H₂O
+Route B, from carbon monoxide: CO + 2H₂ → CH₃OH
 
-**(a)** Calculate the atom economy of route A for making ethanol. **[2]**
+**(a)** Calculate the atom economy of route A for making methanol. **[2]**
 **(b)** State the atom economy of route B, and give a reason. **[1]**
 **(c)** Explain two ways in which catalysts help make industrial processes more sustainable. **[2]**
 
@@ -79,11 +79,11 @@ Route B, hydration of ethene over an acid catalyst: C₂H₄ + H₂O → C₂H�
 **(a)** The purple colour does not change over time. Explain, in terms of rates and concentrations, why the system is in dynamic equilibrium. **[2]**
 **(b)** More hydrogen is injected at constant temperature and volume. Predict and explain the change in colour. **[2]**
 
-**10.** Hydrogen is made industrially by steam reforming. The forward reaction is endothermic.
+**10.** Phenylethene (styrene) is made by removing hydrogen from ethylbenzene over a catalyst. The forward reaction is endothermic.
 
-CH₄(g) + H₂O(g) ⇌ CO(g) + 3H₂(g)
+C₆H₅CH₂CH₃(g) ⇌ C₆H₅CH=CH₂(g) + H₂(g)
 
-Predict and justify the effect on the equilibrium yield of hydrogen of:
+Predict and justify the effect on the equilibrium yield of phenylethene of:
 
 **(a)** raising the temperature **[2]**
 **(b)** raising the pressure **[2]**
@@ -132,17 +132,17 @@ Predict and justify the effect on the equilibrium yield of hydrogen of:
 **7.** The iron ions provide an alternative route with a lower activation energy [1]. The distribution is unchanged at constant temperature, but the lower Ea lies further left, so more ions have energy at or above it [1]. A greater proportion of collisions succeed, giving more successful collisions per unit time [1].
 *Examiner insight:* Saying the catalyst "gives the ions more energy" loses credit.
 
-**8. (a)** Mr(C₂H₅OH) = 46.0; Mr(CO₂) = 44.0; sum of products = 2(46.0) + 2(44.0) = 180.0 [1]. Atom economy = 92.0 ÷ 180.0 × 100 = **51.1%** [1].
-**(b)** **100%**, because ethanol is the only product [1].
+**8. (a)** Mr(CH₃OH) = 32.0; Mr(H₂O) = 18.0; sum of products = 32.0 + 18.0 = 50.0 [1]. Atom economy = 32.0 ÷ 50.0 × 100 = **64.0%** [1].
+**(b)** **100%**, because methanol is the only product [1].
 **(c)** Lower Ea allows a useful rate at a lower temperature, so less fuel is used [1]. A catalyst can allow a route with fewer by-products, so atom economy is higher and there is less waste [1].
-*Examiner insight:* Use twice the molar mass of ethanol, as the equation gives 2C₂H₅OH; 46.0 alone halves the answer.
+*Examiner insight:* Include water in the denominator; omitting it wrongly gives 100% for route A.
 
 **9. (a)** The forward and backward reactions continue at equal rates [1], so the concentrations of H₂, I₂ and HI stay constant and the colour does not change [1].
 **(b)** The purple colour becomes paler [1]. The added hydrogen moves the position to the right to use it up, and this also uses up iodine [1].
 *Examiner insight:* Writing that the concentrations are "equal" loses the mark; they are constant.
 
-**10. (a)** The forward reaction is endothermic [1], so raising the temperature moves the position to the right to absorb the heat; the yield of hydrogen **increases** [1].
-**(b)** 2 gas molecules on the left and 4 on the right [1]. Raising the pressure moves the position to the left, the side with fewer gas molecules; the yield **decreases** [1].
+**10. (a)** The forward reaction is endothermic [1], so raising the temperature moves the position to the right to absorb the heat; the yield of phenylethene **increases** [1].
+**(b)** 1 gas molecule on the left and 2 on the right [1]. Raising the pressure moves the position to the left, the side with fewer gas molecules; the yield **decreases** [1].
 **(c)** Removing a product moves the position right to replace it [1]; the yield **increases** [1].
 *Examiner insight:* Count gas molecules from the coefficients; "more molecules on the right" without numbers can lose the justification mark.
 
@@ -160,7 +160,7 @@ Predict and justify the effect on the equilibrium yield of hydrogen of:
 - Taking tangent readings from the curve itself, or leaving out units.
 - Measuring the catalysed Ea to the first hump or the intermediate, not the highest point.
 - Drawing a new Maxwell-Boltzmann curve for a catalyst.
-- Forgetting coefficients in atom economy calculations.
+- Leaving a by-product such as water out of an atom economy calculation.
 - Saying concentrations are "equal" at equilibrium.
 - Predicting a shift with no reason.
 - Claiming a catalyst increases the yield.

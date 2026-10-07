@@ -23,7 +23,7 @@ featured: false
 
 These notes condense Topic 10C: Alcohols of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017: outcomes 10.15 to 10.20, including Core Practical 7. The content is International AS (IAS), in Unit 2: Energetics, Group Chemistry, Halogenoalkanes and Alcohols. Mechanisms for the 10.17 reactions are not required. If a point here is unfamiliar, go back to the [alcohols study guide](/resources/edexcel-ial-chemistry-alcohols/), which explains it step by step.
 
-Links: [course hub](/boards/edexcel/a-level/chemistry/), [printable checklist](/checklists/edexcel/a-level/chemistry/), [alcohols practice questions](/resources/edexcel-ial-chemistry-alcohols-practice/), and the free [diagnostics](/diagnostics/) to find your gaps.
+Links: [course hub](/boards/edexcel/a-level/chemistry/), [printable checklist](/checklists/edexcel/a-level/chemistry/), [alcohols practice questions](/resources/edexcel-ial-chemistry-alcohols-practice/), the related [halogenoalkanes](/resources/edexcel-ial-chemistry-organic-principles-and-halogenoalkanes/) and [mass spectra and IR](/resources/edexcel-ial-chemistry-mass-spectra-and-infrared-spectroscopy/) topics, and the free [diagnostics](/diagnostics/) to find your gaps.
 
 ## Naming and classes (10.15, 10.16)
 

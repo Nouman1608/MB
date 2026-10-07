@@ -55,7 +55,7 @@ Use R = 8.31 J mol⁻¹ K⁻¹ wherever needed. The Arrhenius equation is k = Ae
 | 3 | 0.80 | 0.25 | 1.1 × 10⁻⁴ |
 | 4 | 0.20 | 0.30 | to find |
 
-**(a)** Deduce the order with respect to each reactant, explaining your reasoning. **[2]**
+**(a)** Deduce the order with respect to HCOOCH₃ and to H⁺, explaining your reasoning. **[2]**
 **(b)** Give the rate equation for the hydrolysis. **[1]**
 **(c)** Use experiment 1 to find the value and units of k. **[2]**
 **(d)** Predict the initial rate for experiment 4. **[1]**
@@ -102,7 +102,7 @@ Use R = 8.31 J mol⁻¹ K⁻¹ wherever needed. The Arrhenius equation is k = Ae
 **(a)** Name the mechanism for each and explain how each rate equation supports it. **[4]**
 **(b)** State the effect on each rate of doubling [OH⁻]. **[1]**
 
-**9.** 2NO(g) + 2H₂(g) → N₂(g) + 2H₂O(g). Rate = k[NO]²[H₂].
+**9.** Hydrogen reacts with iodine monochloride: H₂(g) + 2ICl(g) → I₂(g) + 2HCl(g). Rate = k[H₂][ICl].
 
 **(a)** State which species, and how many of each, are involved up to and including the rate-determining step. **[1]**
 **(b)** Propose a two-step mechanism consistent with the rate equation and the overall equation, labelling the slow step. **[3]**
@@ -177,8 +177,8 @@ Use R = 8.31 J mol⁻¹ K⁻¹ wherever needed. The Arrhenius equation is k = Ae
 **(b)** Tertiary unchanged; primary doubles [1].
 *Examiner insight:* Tie each mechanism to the species in its rate equation.
 
-**9. (a)** Two NO and one H₂ [1].
-**(b)** Step 1 (slow): 2NO + H₂ → N₂O + H₂O [1][1]; step 2 (fast): N₂O + H₂ → N₂ + H₂O [1].
+**9. (a)** One H₂ and one ICl [1].
+**(b)** Step 1 (slow): H₂ + ICl → HI + HCl [1][1]; step 2 (fast): HI + ICl → I₂ + HCl [1].
 *Examiner insight:* Add your steps to check they give the overall equation; other mechanisms that fit both equations are equally valid.
 
 **10. (a)** The same amount of reaction happens in each run, so rate ∝ 1/t, and k ∝ rate at fixed concentrations [1].

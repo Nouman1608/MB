@@ -190,13 +190,13 @@ As a ratio of two lengths, Rf has no units; its value is from 0 to 1.
 
 ### Worked example 6: a TLC plate
 
-A TLC plate is run until the solvent front is 7.6 cm above the baseline. Three spots appear at 1.6 cm, 4.2 cm and 6.5 cm.
+A TLC plate is run until the solvent front is 7.4 cm above the baseline. Three spots appear at 1.6 cm, 4.2 cm and 6.5 cm.
 
-1. Spot 1: 1.6 ÷ 7.6 = **0.21**
-2. Spot 2: 4.2 ÷ 7.6 = **0.55**
-3. Spot 3: 6.5 ÷ 7.6 = **0.86**
+1. Spot 1: 1.6 ÷ 7.4 = **0.22**
+2. Spot 2: 4.2 ÷ 7.4 = **0.57**
+3. Spot 3: 6.5 ÷ 7.4 = **0.88**
 
-On polar silica, spot 1 is held most strongly, so it is probably the most polar component.
+Spot 1 travels least: polar silica holds it most strongly, so it is likely the most polar component.
 
 ### Why Rf values differ
 

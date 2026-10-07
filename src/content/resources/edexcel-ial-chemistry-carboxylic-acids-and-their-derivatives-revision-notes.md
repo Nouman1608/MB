@@ -21,7 +21,7 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-For full explanations and longer worked examples, use the [carboxylic acids and derivatives study guide](/resources/edexcel-ial-chemistry-carboxylic-acids-and-their-derivatives/). Once the ideas make sense, use this page to drill the facts.
+For full explanations and longer worked examples, use the [carboxylic acids and derivatives study guide](/resources/edexcel-ial-chemistry-carboxylic-acids-and-their-derivatives/). Once the ideas make sense, use this page to drill the facts. Aldehyde oxidation and LiAlH₄ reduction also appear in the [carbonyl compounds study guide](/resources/edexcel-ial-chemistry-carbonyl-compounds/) for 15B.
 
 Outcomes 15.9 to 15.16 (parts 15C and 15D of Topic 15) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017, are covered. This is International A2 (IA2) content; Pearson assesses it in Unit 4: Rates, Equilibria and Further Organic Chemistry. Mark off what you know on the [YCH11 checklist](/checklists/edexcel/a-level/chemistry/), then try the [carboxylic acids practice questions](/resources/edexcel-ial-chemistry-carboxylic-acids-and-their-derivatives-practice/). The [YCH11 course hub](/boards/edexcel/a-level/chemistry/) lists the other units. Take a free [diagnostic](/diagnostics/) to pick your next topic.
 

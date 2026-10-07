@@ -129,11 +129,11 @@ C₆H₅NO₂ + 6[H] → 2H₂O + C₆H₅NH₂
 
 ### Worked example 3: yield of a substituted phenylamine
 
-7.88 g of 1-chloro-4-nitrobenzene (C₆H₄ClNO₂, Mr 157.5) is reduced. After purification, 4.59 g of 4-chlorophenylamine (C₆H₆ClN, Mr 127.5) is collected. Find the percentage yield.
+7.05 g of 1-fluoro-4-nitrobenzene (C₆H₄FNO₂, Mr 141.0) is reduced. After purification, 3.94 g of 4-fluorophenylamine (C₆H₆FN, Mr 111.0) is collected. Find the percentage yield.
 
-1. n(nitro-compound) = 7.88 ÷ 157.5 = 0.0500 mol.
-2. One mole of nitro-compound gives one mole of amine: theoretical mass = 0.0500 × 127.5 = 6.375 g.
-3. Yield = 4.59 ÷ 6.375 × 100 = **72.0%**.
+1. n(nitro-compound) = 7.05 ÷ 141.0 = 0.0500 mol.
+2. One mole of nitro-compound gives one mole of amine: theoretical mass = 0.0500 × 111.0 = 5.55 g.
+3. Yield = 3.94 ÷ 5.55 × 100 = **71.0%**.
 
 ## 19.6 Azo dyes
 
@@ -151,7 +151,7 @@ The –N=N– azo group links two benzene rings; delocalisation across the molec
 
 ## 19.7 Amides from acyl chlorides
 
-Acyl chlorides react quickly at room temperature with ammonia, giving benzamide: C₆H₅COCl + 2NH₃ → C₆H₅CONH₂ + NH₄Cl; and with amines to give N-substituted amides (see the 19.2 table).
+Acyl chlorides react quickly at room temperature with ammonia to give primary amides (C₆H₅COCl + 2NH₃ → C₆H₅CONH₂ + NH₄Cl gives benzamide) and with amines to give N-substituted amides (19.2 table).
 
 ## 19.8 and 19.9 Polymers containing nitrogen or hydrogen-bonding groups
 
@@ -200,7 +200,7 @@ H₃N⁺–CH(R)–COO⁻
 
 Experiments: show that the amino acid neutralises both dilute hydrochloric acid and sodium hydroxide; note its high melting temperature (an ionic lattice of zwitterions).
 
-### Worked example 5: identifying an amino acid
+### Worked example 4: identifying an amino acid
 
 0.721 g of an amino acid H₂NCH(R)COOH reacts with exactly 28.00 cm³ of 0.250 mol dm⁻³ sodium hydroxide (1 : 1). Identify R.
 
@@ -219,7 +219,7 @@ Two amino acids can join in two orders, so glycine and 2-aminobutanoic acid give
 
 ## 19.12 Core Practical 15: analysis of unknowns
 
-The specification gives only the title, "Analysis of some inorganic and organic unknowns". Unit 6 may ask you to recall and interpret tests for ions, gases and organic functional groups from the whole course:
+The specification gives only the title, "Analysis of some inorganic and organic unknowns". Unit 6 may ask you to recall and interpret tests for ions, gases and organic functional groups from Units 1 and 2:
 
 | Looking for | Test | Positive result |
 |---|---|---|
@@ -237,7 +237,7 @@ The specification gives only the title, "Analysis of some inorganic and organic 
 | –COOH | Sodium carbonate or hydrogencarbonate | Fizzing; CO₂ |
 | Amine | Smell; litmus; Cu²⁺(aq) | Fishy; alkaline; deep blue in excess |
 
-Record each observation in full (start and end colours, precipitate colour), then deduce.
+Record each observation in full (start and end colours), then deduce.
 
 ## Common errors
 

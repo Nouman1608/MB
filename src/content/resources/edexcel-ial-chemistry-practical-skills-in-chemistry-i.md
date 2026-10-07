@@ -22,7 +22,7 @@ featured: false
 
 This guide teaches Unit 3: Practical Skills in Chemistry I, as set out in the YCH11 specification from Pearson (Edexcel International Advanced Subsidiary/Advanced Level in Chemistry, Issue 1, September 2017). Unit 3 is an International AS (IAS) unit with no new theory: it examines the skills and techniques you build in Units 1 and 2, including Core Practicals 1 to 8, and can set them in unfamiliar practical situations.
 
-Use it with the [Unit 3 revision notes](/resources/edexcel-ial-chemistry-practical-skills-in-chemistry-i-revision-notes/) and the [Unit 3 practice questions](/resources/edexcel-ial-chemistry-practical-skills-in-chemistry-i-practice/). The [course hub](/boards/edexcel/a-level/chemistry/) holds the theory pages, the [printable checklist](/checklists/edexcel/a-level/chemistry/) lets you tick off each practical, and the free [diagnostics](/diagnostics/) show your gaps.
+Use it with the [Unit 3 revision notes](/resources/edexcel-ial-chemistry-practical-skills-in-chemistry-i-revision-notes/) and the [Unit 3 practice questions](/resources/edexcel-ial-chemistry-practical-skills-in-chemistry-i-practice/). See also the [course hub](/boards/edexcel/a-level/chemistry/), [printable checklist](/checklists/edexcel/a-level/chemistry/) and free [diagnostics](/diagnostics/).
 
 ## What the specification says about Unit 3
 
@@ -33,9 +33,9 @@ Use it with the [Unit 3 revision notes](/resources/edexcel-ial-chemistry-practic
 | Questions | All compulsory; short-open, open-response and calculation |
 | Maths | A minimum of 6 marks target mathematics at Level 2 or above |
 | Calculators | May be used |
-| Sessions | January, June and October; first assessment June 2019 |
+| Availability | January, June and October |
 
-The paper assesses problem solving in a practical context, scientific method (controlling variables, presenting and evaluating data, uncertainty, commenting on a method), numeracy (graphs, data processing, significant figures, accuracy and precision) and apparatus (choice, use, range, resolution, safety). Expect tests for ions, gases and functional groups, titration, thermochemistry and kinetics data, and comments on preparations.
+The paper assesses problem solving in a practical context, scientific method (controlling variables, presenting and evaluating data, uncertainty, commenting on a method), numeracy (graphs, data processing, significant figures, accuracy and precision) and apparatus (choice, use, range, resolution, safety). Expect tests for ions, gases and functional groups, titration, thermochemistry and kinetics data, and comments on preparations. You should also follow instructions with little help, work safely, plan experiments, justify apparatus choices and write laboratory reports in correct scientific language.
 
 ## Where the core practicals sit
 
@@ -104,7 +104,7 @@ With a thermometer read to ±0.2 °C, a ΔT of 5.0 °C carries ±0.4 °C, or 8%,
 1. Mass by difference = 14.682 − 11.817 = 2.865 g; n = 2.865 ÷ 97.1 = 0.02951 mol in 250 cm³.
 2. n in 25.0 cm³ = 2.951 × 10⁻³ mol = n(NaOH).
 3. c(NaOH) = 2.951 × 10⁻³ ÷ 0.02685 = **0.110 mol dm⁻³**.
-4. Uncertainties given: balance ±0.005 g per reading, flask ±0.3 cm³, pipette ±0.04 cm³, burette ±0.05 cm³ per reading. Percentages: mass 0.010 ÷ 2.865 = 0.35%; flask 0.12%; pipette 0.16%; titre 0.10 ÷ 26.85 = 0.37%. Total about 1.0%, so c = 0.110 ± 0.001 mol dm⁻³.
+4. Uncertainties given: balance ±0.005 g per reading, flask ±0.3 cm³, pipette ±0.06 cm³, burette ±0.05 cm³ per reading. Percentages: mass 0.010 ÷ 2.865 = 0.35%; flask 0.12%; pipette 0.24%; titre 0.10 ÷ 26.85 = 0.37%. Total about 1.1%, so c = 0.110 ± 0.001 mol dm⁻³.
 
 ## Core Practicals 5 and 6: halogenoalkanes
 
@@ -119,7 +119,7 @@ Acidified potassium dichromate(VI) turns from orange to green as it oxidises the
 - **Propanal**: heat with the alcohol in excess and distil the product off as it forms, so it escapes before further oxidation. Collect it in an ice-cooled receiver. CH₃CH₂CH₂OH + [O] → CH₃CH₂CHO + H₂O. Benedict's or Fehling's solution gives a red precipitate on warming.
 - **Propanoic acid**: heat with excess oxidising agent under reflux, then distil. CH₃CH₂CH₂OH + 2[O] → CH₃CH₂COOH + H₂O. Sodium carbonate or hydrogencarbonate gives effervescence.
 
-Reflux uses a vertical condenser and anti-bumping granules, never a sealed system. In distillation the thermometer bulb sits level with the side arm. A narrow boiling range near the expected boiling temperature suggests a pure product. Potassium dichromate(VI) is toxic, so wear gloves.
+Reflux uses a vertical condenser and anti-bumping granules, never a sealed system. When distilling, place the thermometer bulb opposite the side arm. A narrow boiling range near the expected boiling temperature suggests a pure product. Potassium dichromate(VI) is toxic, so wear gloves.
 
 ## Core Practical 8: identifying unknowns
 

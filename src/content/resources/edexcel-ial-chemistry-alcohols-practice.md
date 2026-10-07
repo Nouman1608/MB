@@ -37,7 +37,7 @@ Before you start, revise from the [alcohols study guide](/resources/edexcel-ial-
 
 **(a)** CH₃CH(OH)CH₂CH₂CH₂CH₃ **[2]**
 **(b)** (CH₃CH₂)₃COH **[2]**
-**(c)** HOCH₂C(CH₃)₂CH₂CH₃ **[2]**
+**(c)** HOCH₂C(CH₃)₂CH₂CH₂CH₃ **[2]**
 
 **2.** Pentan-1-ol, C₅H₁₁OH, burns completely in oxygen.
 
@@ -107,8 +107,8 @@ Before you start, revise from the [alcohols study guide](/resources/edexcel-ial-
 
 **1. (a)** **hexan-2-ol** [1]; **secondary** [1]
 **(b)** **3-ethylpentan-3-ol** [1]; **tertiary**, the C–OH carbon is bonded to three carbons [1]
-**(c)** **2,2-dimethylbutan-1-ol** [1]; **primary** [1]
-*Examiner insight:* In (c) the longest chain has four carbons, not three; a name built on propan- gains no credit.
+**(c)** **2,2-dimethylpentan-1-ol** [1]; **primary** [1]
+*Examiner insight:* In (c) the longest chain has five carbons, not three; a name built on propan- gains no credit.
 
 **2. (a)** **2C₅H₁₁OH + 15O₂ → 10CO₂ + 12H₂O** [1]
 **(b)** n(pentan-1-ol) = 2.64 ÷ 88.0 = 0.0300 mol [1]; n(O₂) = 7.5 × 0.0300 = 0.225 mol [1]; mass = 0.225 × 32.0 = **7.20 g** [1]

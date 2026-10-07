@@ -29,7 +29,7 @@ Course pages: [Edexcel International A Level Chemistry hub](/boards/edexcel/a-le
 
 - **Arene:** an aromatic hydrocarbon, built on one or more benzene rings (benzene, methylbenzene).
 - **Delocalised electrons:** bonding electrons not tied to one pair of atoms; benzene's six π-electrons belong to the whole ring.
-- **Electrophile:** an electron-pair acceptor; in this topic it is always a cation (Br⁺, NO₂⁺, R⁺, RCO⁺).
+- **Electrophile:** an electron-pair acceptor; in the mechanisms you must know it is a cation (Br⁺, NO₂⁺, R⁺, RCO⁺).
 - **Electrophilic substitution:** E⁺ takes the place of one ring hydrogen, which leaves as H⁺, and the delocalised system survives.
 - **Halogen carrier:** a catalyst such as FeBr₃ or AlCl₃ that pulls a halide ion away to create the electrophile.
 - **Nitronium ion:** NO₂⁺, made when concentrated sulfuric acid protonates nitric acid.
@@ -160,7 +160,7 @@ You can draw benzene as the Kekulé hexagon or as a hexagon with a circle, as ap
 - Describing π-bonds as end-on overlap, or overlap with only one neighbour.
 - Explaining benzene's resistance to bromination only by "stability" without mentioning electron density and polarising Br₂.
 - Missing the condition "fuming" for sulfonation, or "anhydrous" for Friedel-Crafts.
-- Placing the + charge of NO₂⁺ on an oxygen, or the acylium charge on oxygen in the mechanism.
+- Placing the + charge of NO₂⁺ on an oxygen, or aiming the first arrow at the oxygen of the acylium ion instead of its carbon.
 - Starting the attacking arrow at one ring carbon; it must begin in the circle of delocalised electrons.
 - An intermediate with the horseshoe over six carbons or with no hydrogen on the sp³ carbon.
 - Writing 2,4,6-tribromophenol as a monobromo product, or leaving 3HBr out of the equation.

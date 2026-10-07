@@ -37,7 +37,7 @@ Test yourself afterwards with the [spectroscopy and chromatography practice set]
 | Relative peak area | In ¹H NMR, proportional to the number of H atoms in that environment |
 | (n+1) rule | A ¹H peak with n non-equivalent H atoms on adjacent carbons splits into n + 1 lines |
 | Mobile phase | The phase that moves and carries the mixture (solvent or gas) |
-| Stationary phase | The phase that stays put (paper, silica or alumina layer, column packing) |
+| Stationary phase | The phase that stays put (water held in paper, a silica or alumina layer, column packing) |
 | Rf value | Ratio of how far a spot travels to how far the solvent front travels, each measured from the baseline |
 | Retention time | Time a component takes to pass through a chromatography column to the detector |
 

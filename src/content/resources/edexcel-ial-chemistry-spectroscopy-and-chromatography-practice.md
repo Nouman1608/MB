@@ -75,7 +75,7 @@ Topic 15E: Spectroscopy and chromatography, outcomes 15.17 to 15.23, is tested h
 
 Deduce the structure of W. Explain how each peak supports your answer. **[5]**
 
-**7.** An orange food colouring is run on a TLC plate beside four dyes, A to D. The solvent front reaches 8.4 cm from the baseline. The colouring separates into three spots at 2.1 cm, 3.6 cm and 5.9 cm. The Rf values of the dyes, measured on the same plate, are A 0.25, B 0.43, C 0.52, D 0.70.
+**7.** An orange food colouring is run on a TLC plate beside four dyes, A to D. The solvent front reaches 7.5 cm from the baseline. The colouring separates into three spots at 1.8 cm, 3.3 cm and 5.1 cm. The Rf values of the dyes, measured on the same plate, are A 0.24, B 0.44, C 0.53, D 0.68.
 
 **(a)** Work out Rf for each of the three spots. **[2]**
 **(b)** Identify the dyes in the colouring. **[1]**
@@ -135,7 +135,7 @@ Relative areas **3 : 1 : 3** [1].
 **6.** Doublet (6H) with septet (1H): an isopropyl group, (CH₃)₂CH– [1]. The septet at δ 2.5 is in the H–C next to C=O range, so the CH is bonded to the C=O [1]. Quartet (2H) with triplet (3H): an ethyl group, CH₃CH₂– [1]. The quartet at δ 4.1 shows the CH₂ is bonded to O [1]. W is (CH₃)₂CHCOOCH₂CH₃, **ethyl 2-methylpropanoate** (12 H, matching C₆H₁₂O₂) [1].
 *Examiner insight:* Use δ to place each fragment on the correct side of the ester link; the reverse arrangement fits the splitting but not the shifts.
 
-**7. (a)** 2.1 ÷ 8.4 = **0.25**; 3.6 ÷ 8.4 = **0.43** [1]; 5.9 ÷ 8.4 = **0.70** [1].
+**7. (a)** 1.8 ÷ 7.5 = **0.24**; 3.3 ÷ 7.5 = **0.44** [1]; 5.1 ÷ 7.5 = **0.68** [1].
 **(b)** Dyes **A, B and D** (not C) [1].
 **(c)** A is the most strongly attracted to the polar silica stationary phase, for example by hydrogen bonds or dipole attractions [1], and/or the least soluble in the mobile phase, so it moves the shortest distance [1].
 *Examiner insight:* Name the phases; "A is heavier" gives no chemical reason.
@@ -156,7 +156,7 @@ Relative areas **3 : 1 : 3** [1].
 **(e)** **(CH₃)₃C⁺**, the C₄H₉⁺ ion [1].
 *Examiner insight:* In part (c), explain both singlets; a fragment ion in part (e) needs a positive charge to gain credit.
 
-**11. (a)** The alcohols differ in how strongly the stationary phase holds them relative to the carrier gas [1], so one stays longer in the column and is detected later [1].
+**11. (a)** The alcohols differ in volatility (boiling temperature) and in how strongly they interact with the stationary phase [1], so one spends longer dissolved in the stationary phase and is detected later [1].
 **(b)** C₃H₈O = 36.0000 + 8.0624 + 15.9949 = **60.0573** [1]. Both are isomers with formula C₃H₈O, so they have the same accurate mass [1].
 **(c)** Propan-1-ol gives **three** peaks; propan-2-ol gives **two** [1].
 **(d)** The two CH₃ groups: **doublet**, area 6 [1]. The CH: **septet**, area 1 [1].

@@ -21,7 +21,7 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This guide teaches Topic 12A: Entropy from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers learning outcomes 12.1 to 12.11. Pearson places Topic 12 in Unit 4: Rates, Equilibria and Further Organic Chemistry, which is examined at International A2 (IA2) level. Part 12B (lattice energy) is a separate part of the same topic and is not taught here.
+This guide teaches Topic 12A: Entropy from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers learning outcomes 12.1 to 12.11. Pearson places Topic 12 in Unit 4: Rates, Equilibria and Further Organic Chemistry, which is examined at International A2 (IA2) level. Part 12B, [lattice energy](/resources/edexcel-ial-chemistry-lattice-energy/), is a separate part of the same topic and is taught on its own page.
 
 Every Edexcel International A Level Chemistry topic is listed on the [course hub](/boards/edexcel/a-level/chemistry/), and you can print the [Edexcel Chemistry checklist](/checklists/edexcel/a-level/chemistry/). After this guide, use the [entropy revision notes](/resources/edexcel-ial-chemistry-entropy-revision-notes/) to condense it and the [entropy practice questions](/resources/edexcel-ial-chemistry-entropy-practice/) to test it. To find weak spots across the course, try a free [diagnostic](/diagnostics/).
 

@@ -68,7 +68,7 @@ Al(s) | Al³⁺(aq) || Cu²⁺(aq) | Cu(s); E⦵cell = +0.34 − (−1.66) = **+
 | E⦵cell | ΔStotal | K | Meaning |
 |---|---|---|---|
 | Large, positive | Large, positive | Very large | Goes almost to completion |
-| Small, positive | Small, positive | Just over 1 | Equilibrium mixture |
+| Small, positive | Small, positive | Greater than 1, not huge | Equilibrium mixture |
 | Negative | Negative | Less than 1 | Not feasible as written |
 
 - Doubling E⦵cell doubles ln K, so K is squared.

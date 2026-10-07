@@ -21,7 +21,7 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This guide teaches outcomes 13.1 to 13.9, which make up Topic 13: Chemical Equilibria in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. Every outcome here falls within the International A2 (IA2) part of the course, in Unit 4: Rates, Equilibria and Further Organic Chemistry. The specification says it assumes and extends the equilibrium work from Unit 2, Topic 9B, and the entropy outcomes of Topic 12 feed straight into 13.8.
+This guide teaches outcomes 13.1 to 13.9, which make up Topic 13: Chemical Equilibria in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. Every outcome here falls within the International A2 (IA2) part of the course, in Unit 4: Rates, Equilibria and Further Organic Chemistry. The specification says it assumes and extends the equilibrium work from [Unit 2, Topic 9B](/resources/edexcel-ial-chemistry-introduction-to-kinetics-and-equilibria/), and the [entropy outcomes of Topic 12](/resources/edexcel-ial-chemistry-entropy/) feed straight into 13.8.
 
 Useful pages: the Edexcel [chemistry course hub](/boards/edexcel/a-level/chemistry/), the [printable chemistry checklist](/checklists/edexcel/a-level/chemistry/), the [Topic 13 revision notes](/resources/edexcel-ial-chemistry-chemical-equilibria-revision-notes/), the matching [practice questions](/resources/edexcel-ial-chemistry-chemical-equilibria-practice/) and the free [diagnostics](/diagnostics/).
 
@@ -163,7 +163,7 @@ At 800 K:
 - ΔStotal = −146.6 + 142.75 = −3.85 J K⁻¹ mol⁻¹
 - lnK = −3.85 / 8.31 = −0.463, so K = e^−0.463 ≈ **0.63**
 
-By 800 K, ΔStotal is slightly negative and K has fallen below 1, as the exothermic row predicts.
+By 800 K, ΔStotal is slightly negative and K is below 1, as predicted.
 
 ## Predicting the extent of reaction (13.9)
 
@@ -181,7 +181,7 @@ K says nothing about **rate**. A reaction with a huge K can still be too slow to
 
 ## Further suggested practicals
 
-The specification suggests these practicals alongside Topic 13. Know what each one measures.
+Know what each of these suggested practicals measures.
 
 - **Ethanol and ethanoic acid.** Mixtures are left to reach equilibrium, then titrated with sodium hydroxide. Allow for the acid catalyst before finding moles of ethanoic acid. The specification notes this one can be used to show ICT for presenting and analysing data.
 - **Fe²⁺(aq) + Ag⁺(aq) ⇌ Fe³⁺(aq) + Ag(s).** The silver ions left are found by titration with thiocyanate; the other concentrations follow from the 1 : 1 ratio.

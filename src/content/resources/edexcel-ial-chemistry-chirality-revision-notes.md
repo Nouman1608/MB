@@ -134,7 +134,7 @@ For 2-bromopentanoic acid you might put C₃H₇ and COOH on plain bonds, Br on 
 ## Where marks are usually lost
 
 - Defining optical activity without "plane-polarised" or "monochromatic", or saying light is "bent" instead of the plane being rotated.
-- Missing a chiral centre with no hydrogen on it, as in a tertiary alcohol or halogenoalkane.
+- Overlooking a chiral carbon that carries no hydrogen, as in a tertiary alcohol or halogenoalkane.
 - Marking a carbon as chiral even though it carries two identical chains, such as two propyl groups.
 - Drawing the second "enantiomer" as the same molecule rotated, instead of a mirror image.
 - Bonding OH or COOH to the chiral carbon through the wrong atom in a 3D diagram.
