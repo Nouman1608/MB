@@ -22,7 +22,7 @@ featured: false
 
 Here you will find the additional higher level part of Reactivity 3.4, "Electron-pair sharing reactions", for IB DP Chemistry, taught from first principles with worked examples. Numbering matches the IB's February 2023 *Diploma Programme Chemistry guide*, first assessed in 2025, and the page covers understandings Reactivity 3.4.6 to 3.4.13. The guide places all eight under additional higher level, so everything below is **HL only**. It is written for examination sessions from 2025 onwards.
 
-Short [revision notes](/resources/ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and-revision-notes/) and marked [practice questions](/resources/ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and-practice/) accompany this page. The SL ideas this builds on (nucleophiles, electrophiles, heterolytic fission) appear in the [Reactivity 3 mechanisms overview](/resources/ib-dp-chemistry-reactivity-3-mechanisms/). Other units are on the [DP Chemistry hub](/boards/ib/ib-dp/chemistry/) and the printable [DP Chemistry checklist](/checklists/ib/ib-dp/chemistry/); a free [diagnostic quiz](/diagnostics/) shows where your gaps are.
+Short [revision notes](/resources/ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and-revision-notes/) and marked [practice questions](/resources/ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and-practice/) accompany this page. The SL ideas this builds on (nucleophiles, electrophiles, heterolytic fission) are taught on the [Reactivity 3.4.1 to 3.4.5 page](/resources/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and/) and summarised in the [Reactivity 3 mechanisms overview](/resources/ib-dp-chemistry-reactivity-3-mechanisms/). Other units are on the [DP Chemistry hub](/boards/ib/ib-dp/chemistry/) and the printable [DP Chemistry checklist](/checklists/ib/ib-dp/chemistry/); a free [diagnostic quiz](/diagnostics/) shows where your gaps are.
 
 ## Scope and level
 
@@ -67,11 +67,7 @@ Draw Lewis formulas to show the reaction between (CH₃)₂O and BCl₃.
 
 Oxygen in (CH₃)₂O has two lone pairs; boron in BCl₃ has only six outer electrons. A curly arrow goes from one oxygen lone pair to B.
 
-```
-(CH₃)₂O:   +   BCl₃     →     (CH₃)₂O → BCl₃
-two lone        empty           new O–B coordination
-pairs on O      orbital on B    bond; B now has 8 electrons
-```
+(CH₃)₂O (two lone pairs on O) + BCl₃ (empty orbital on B) → (CH₃)₂O→BCl₃ (new O–B coordination bond; B now has eight outer electrons)
 
 The arrow (O → B) marks the coordination bond. In the full Lewis formula, show three lone pairs on each Cl and the one lone pair left on O. Formal charges in the adduct are +1 on O and −1 on B, and the shape around boron changes from trigonal planar to tetrahedral.
 
@@ -123,9 +119,11 @@ Primary carbons are uncrowded, and a primary carbocation would be too unstable t
 
 **Secondary halogenoalkanes** can react by both mechanisms.
 
+**How useful are these models?** SN1 and SN2 are mechanistic models, supported by evidence such as rate equations and the stereochemistry of products. They predict well for primary and tertiary substrates, but a secondary substrate often shows features of both, so a mechanism is a well-supported model rather than something directly observed.
+
 ### Worked example 4: choosing and describing the mechanism
 
-(a) 1-bromo-3-methylbutane + OH⁻: primary, so **SN2**. OH⁻ attacks C1 opposite Br, through one transition state, giving 3-methylbutan-1-ol.
+(a) 1-bromo-5-methylhexane + OH⁻: primary, so **SN2**. OH⁻ attacks C1 opposite Br, through one transition state, giving 5-methylhexan-1-ol.
 
 (b) 3-chloro-3-methylpentane + water: tertiary, so **SN1**. C–Cl breaks first (carbocation on C3); water bonds to C3; the ion loses H⁺, giving 3-methylpentan-3-ol.
 
@@ -152,14 +150,14 @@ The guide states that the effects of solvent and of the mechanism on rate are no
 
 ## Reactivity 3.4.11 Electrophilic addition to symmetrical alkenes
 
-The π bond of C=C is electron-rich and attacks electrophiles. Take symmetrical oct-4-ene, CH₃CH₂CH₂CH=CHCH₂CH₂CH₃.
+The π bond of C=C is electron-rich and attacks electrophiles. Take symmetrical cyclooctene, C₈H₁₄, a ring of eight carbons with one C=C.
 
 **With a hydrogen halide (HBr).**
-Arrows go from the π bond to H, and from the H–Br bond to Br, giving a carbocation and Br⁻; a Br⁻ lone pair then bonds to the positive carbon. Product: 4-bromooctane.
+Arrows go from the π bond to H, and from the H–Br bond to Br, giving a carbocation and Br⁻; a Br⁻ lone pair then bonds to the positive carbon. Product: bromocyclooctane.
 
-**With Br₂.** The π electrons repel the electrons in an approaching Br₂, so the nearer Br becomes δ+. The π bond attacks it, Br–Br breaks heterolytically, and Br⁻ then bonds to the carbocation. Product: 4,5-dibromooctane.
+**With Br₂.** The π electrons repel the electrons in an approaching Br₂, so the nearer Br becomes δ+. The π bond attacks it, Br–Br breaks heterolytically, and Br⁻ then bonds to the carbocation. Product: 1,2-dibromocyclooctane.
 
-**With water (acid catalyst).** The π bond attacks H⁺; water donates a lone pair to the carbocation; the protonated alcohol loses H⁺, regenerating the catalyst. Product: octan-4-ol.
+**With water (acid catalyst).** The π bond attacks H⁺; water donates a lone pair to the carbocation; the protonated alcohol loses H⁺, regenerating the catalyst. Product: cyclooctanol.
 
 ## Reactivity 3.4.12 Unsymmetrical alkenes and carbocation stability
 

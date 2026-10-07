@@ -165,7 +165,7 @@ Anode (+):   2H₂O(l) → O₂(g) + 4H⁺(aq) + 4e⁻
 Overall:     2H₂O(l) → 2H₂(g) + O₂(g)
 ```
 
-The volume of hydrogen is twice that of oxygen. E⦵cell = 0.00 − 1.23 = −1.23 V, so the supply must provide more than 1.23 V.
+The volume of hydrogen is twice that of oxygen. Using the acidic couples (H⁺/H₂ and O₂, H⁺/H₂O), E⦵cell = 0.00 − 1.23 = −1.23 V, so the supply must provide more than 1.23 V.
 
 ### Worked example 6: aqueous potassium bromide
 

@@ -149,7 +149,7 @@ Dilution leaves the ratio, and so the pH, nearly unchanged. It does lower the bu
 4. HCN has pKa 9.21. Find Kb for CN⁻.
 5. Find the pH of 0.0500 mol dm⁻³ propanoic acid, Ka = 1.3 × 10⁻⁵.
 6. Write the equation showing why sodium carbonate solution is basic.
-7. At half-equivalence in a weak acid titration the pH is 3.75. Find Ka.
+7. At half-equivalence in a weak acid titration the pH is 4.38. Find Ka.
 8. An indicator has pKa 5.1. Which titration type does it suit?
 9. Find the pH of a buffer containing 0.400 mol dm⁻³ butanoic acid and 0.100 mol dm⁻³ sodium butanoate (pKa 4.82).
 10. That buffer is diluted with an equal volume of water. What happens to its pH?
@@ -163,7 +163,7 @@ Dilution leaves the ratio, and so the pH, nearly unchanged. It does lower the bu
 4. pKb = 14.00 − 9.21 = 4.79, so Kb = **1.6 × 10⁻⁵**.
 5. [H⁺] = √(1.3 × 10⁻⁵ × 0.0500) = 8.1 × 10⁻⁴, pH = **3.09**.
 6. **CO₃²⁻(aq) + H₂O(l) ⇌ HCO₃⁻(aq) + OH⁻(aq)**.
-7. pKa = 3.75, so Ka = **1.8 × 10⁻⁴**.
+7. pKa = 4.38, so Ka = **4.2 × 10⁻⁵**.
 8. A **strong acid with a weak base**, whose equivalence pH is below 7.
 9. pH = 4.82 + log₁₀(0.100 ÷ 0.400) = **4.22**.
 10. **Almost no change**; the ratio stays 1 : 4.

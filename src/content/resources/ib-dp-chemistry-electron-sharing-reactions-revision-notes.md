@@ -142,7 +142,7 @@ Small reminder: in the step Cl• + RH → R• + HCl, the only bond broken is C
 
 ### Answers
 
-1. A molecular entity that has an unpaired electron.
+1. Any molecular entity carrying an unpaired electron.
 2. CH₃O: 4 + 3 + 6 = 13, radical. H₃O⁺: 3 + 6 − 1 = 8, not a radical. CCl₃: 4 + 21 = 25, radical.
 3. Homolytic fission; UV light or heat.
 4. The movement of a single electron.

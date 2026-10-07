@@ -85,7 +85,7 @@ A full curly arrow shows a pair of electrons moving. A **single-barbed arrow**, 
 3. Draw a second fish-hook arrow from the middle of the bond to the right bromine atom.
 4. Write the products as Br• + Br•, each with its dot.
 
-Two arrows, one electron each, two radicals. If you draw a full double-headed arrow here, you are describing heterolytic fission (Reactivity 3.4), which makes ions, not radicals.
+Two arrows, one electron each, two radicals. If you draw a full double-headed arrow here, you are describing heterolytic fission ([Reactivity 3.4](/resources/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and/)), which makes ions, not radicals.
 
 ### The initiation step
 
@@ -120,7 +120,7 @@ This is why the linking question calls alkanes **kinetically stable but thermody
 
 ### Propagation and termination
 
-**Worked example 3.** Cyclopentane, C₅H₁₀, reacts with chlorine in UV light to give chlorocyclopentane, C₅H₉Cl. Write the full mechanism.
+**Worked example 3.** Cycloheptane, C₇H₁₄, reacts with chlorine in UV light to give chlorocycloheptane, C₇H₁₃Cl. Write the full mechanism.
 
 Initiation:
 
@@ -128,18 +128,18 @@ Initiation:
 
 Propagation (each step uses one radical and makes one radical):
 
-- Cl• + C₅H₁₀ → C₅H₉• + HCl
-- C₅H₉• + Cl₂ → C₅H₉Cl + Cl•
+- Cl• + C₇H₁₄ → C₇H₁₃• + HCl
+- C₇H₁₃• + Cl₂ → C₇H₁₃Cl + Cl•
 
 Termination (two radicals pair up):
 
 - Cl• + Cl• → Cl₂
-- C₅H₉• + Cl• → C₅H₉Cl
-- C₅H₉• + C₅H₉• → C₁₀H₁₈ (two rings joined by a C–C bond)
+- C₇H₁₃• + Cl• → C₇H₁₃Cl
+- C₇H₁₃• + C₇H₁₃• → C₁₄H₂₆ (two rings joined by a C–C bond)
 
-Overall: C₅H₁₀ + Cl₂ → C₅H₉Cl + HCl
+Overall: C₇H₁₄ + Cl₂ → C₇H₁₃Cl + HCl
 
-Check each step: in propagation, the dot count is one on each side. In termination, there are two dots on the left and none on the right. The chlorine radical made in the second propagation step goes back into the first, which is why one initiation can lead to many product molecules before the chain ends. All ten hydrogens in cyclopentane are equivalent, so only one monochloro product is possible here.
+Check each step: in propagation, the dot count is one on each side. In termination, there are two dots on the left and none on the right. The chlorine radical made in the second propagation step goes back into the first, which is why one initiation can lead to many product molecules before the chain ends. All fourteen hydrogens in cycloheptane are equivalent, so only one monochloro product is possible here.
 
 ### Energy changes in the steps
 
@@ -156,9 +156,9 @@ Every termination step only makes a bond, so each is exothermic, for example −
 
 The guide says substitution produces a **mixture of products**. There are three sources:
 
-1. **Further substitution.** The product still has C–H bonds. A Cl• can remove a hydrogen from C₅H₉Cl as well, giving C₅H₈Cl₂, then more highly substituted products.
+1. **Further substitution.** The product still has C–H bonds. A Cl• can remove a hydrogen from C₇H₁₃Cl as well, giving C₇H₁₂Cl₂, then more highly substituted products.
 2. **Different hydrogen positions.** If an alkane has hydrogens in different environments, the halogen can replace any of them, so structural isomers form.
-3. **Termination products.** Two alkyl radicals can join, as in C₅H₉• + C₅H₉• → C₁₀H₁₈, giving a larger hydrocarbon that was never in the flask.
+3. **Termination products.** Two alkyl radicals can join, as in C₇H₁₃• + C₇H₁₃• → C₁₄H₂₆, giving a larger hydrocarbon that was never in the flask.
 
 **Worked example 5.** How many monochloro structural isomers can form when 3-methylpentane, CH₃CH₂CH(CH₃)CH₂CH₃, reacts with chlorine in UV light? Name them.
 
@@ -172,7 +172,7 @@ The guide says substitution produces a **mixture of products**. There are three 
 - Writing Cl⁻ or Br⁻ when the radical is meant. A radical has a dot and, for a halogen atom, no charge.
 - Drawing a full curly arrow for homolytic fission. Each electron needs its own fish hook.
 - Starting the fish-hook arrows on an atom instead of the middle of the bond.
-- Writing Cl• + C₅H₁₀ → C₅H₉Cl + H•. The chlorine radical removes a hydrogen atom to make HCl; H• is not formed in this mechanism.
+- Writing Cl• + C₇H₁₄ → C₇H₁₃Cl + H•. The chlorine radical removes a hydrogen atom to make HCl; H• is not formed in this mechanism.
 - Forgetting the termination step between two alkyl radicals, which explains a longer alkane in the product mixture.
 - Saying alkanes are unreactive because they are "saturated" without mentioning strong C–C and C–H bonds and low polarity.
 - Giving "light" as the condition without saying ultraviolet, or leaving out heat as the alternative.

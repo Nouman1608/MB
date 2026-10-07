@@ -79,15 +79,15 @@ Step 2 (slow): H₂ + 2I → 2HI
 **6.** **(a)** Describe the rate–concentration line for a reactant that is (i) zero, (ii) first, (iii) second order. **[3]**
 **(b)** The concentration of a reactant falls from 0.60 to 0.30 mol dm⁻³ in the first 40 s and from 0.30 to 0.15 mol dm⁻³ in the next 40 s. Deduce the order with respect to this reactant. **[1]**
 
-**7.** Cyclopropane isomerises to propene in the gas phase. Tangents to a concentration–time graph give these rates.
+**7.** Methyl isocyanide, CH₃NC, isomerises to CH₃CN in the gas phase. Tangents to a concentration–time graph give:
 
-| [C₃H₆] / mol dm⁻³ | 0.0400 | 0.0250 | 0.0100 |
+| [CH₃NC] / mol dm⁻³ | 0.0400 | 0.0250 | 0.0100 |
 |---|---|---|---|
 | Rate / mol dm⁻³ s⁻¹ | 2.4 × 10⁻⁵ | 1.5 × 10⁻⁵ | 6.0 × 10⁻⁶ |
 
 **(a)** Deduce the order of reaction, showing your reasoning. **[2]**
 **(b)** Calculate k, with units. **[2]**
-**(c)** Find the rate at [C₃H₆] = 0.0180 mol dm⁻³. **[1]**
+**(c)** Find the rate at [CH₃NC] = 0.0180 mol dm⁻³. **[1]**
 
 **8.** This question links to Reactivity 3.4.
 
@@ -151,7 +151,7 @@ Step 2 (slow): H₂ + 2I → 2HI
 **(b)** Each 40 s halves the concentration: a constant half-life, so **first order** [1].
 *Examiner insight:* Name the axes you mean: zero order is horizontal on a rate–concentration graph but a sloping straight line on a concentration–time graph.
 
-**7. (a)** From 0.0400 to 0.0100 mol dm⁻³ the concentration is divided by 4 and the rate is divided by 4 (2.4 × 10⁻⁵ to 6.0 × 10⁻⁶) [1]; rate ∝ [C₃H₆], so **first order** [1].
+**7. (a)** From 0.0400 to 0.0100 mol dm⁻³ the concentration is divided by 4 and the rate is divided by 4 (2.4 × 10⁻⁵ to 6.0 × 10⁻⁶) [1]; rate ∝ [CH₃NC], so **first order** [1].
 **(b)** k = 2.4 × 10⁻⁵ ÷ 0.0400 [1] = **6.0 × 10⁻⁴ s⁻¹** [1].
 **(c)** 6.0 × 10⁻⁴ × 0.0180 = **1.08 × 10⁻⁵ mol dm⁻³ s⁻¹** [1].
 *Examiner insight:* Confirming the order with a third data point catches misreads.
@@ -163,9 +163,9 @@ Step 2 (slow): H₂ + 2I → 2HI
 *Examiner insight:* The two k values must carry different units because the overall orders differ.
 
 **9. (a)** For 290 K, 1/T is 3.448 × 10⁻³ K⁻¹ and ln k is −1.474 [1]. For 335 K, 1/T is 2.985 × 10⁻³ K⁻¹ and ln k is 1.761 [1].
-**(b)** gradient = (1.761 − (−1.474)) ÷ (2.985 × 10⁻³ − 3.448 × 10⁻³) [1] = 3.235 ÷ (−4.63 × 10⁻⁴) = **−6.99 × 10³ K** [1].
-**(c)** Ea = −gradient × R = 6.99 × 10³ × 8.31 [1] = 5.81 × 10⁴ J mol⁻¹ = **58.1 kJ mol⁻¹** [1].
-**(d)** ln A = ln k − gradient × (1/T) = 1.761 + 6.99 × 10³ × 2.985 × 10⁻³ = 22.63 [1]; A = e^22.63 ≈ **6.7 × 10⁹ mol⁻¹ dm³ s⁻¹** [1].
+**(b)** gradient = (1.761 − (−1.474)) ÷ (2.985 × 10⁻³ − 3.448 × 10⁻³) [1] = 3.235 ÷ (−4.632 × 10⁻⁴) = **−6.98 × 10³ K** [1].
+**(c)** Ea = −gradient × R = 6.984 × 10³ × 8.31 [1] = 5.80 × 10⁴ J mol⁻¹ = **58.0 kJ mol⁻¹** [1].
+**(d)** ln A = ln k − gradient × (1/T) = 1.761 + 6.984 × 10³ × 2.985 × 10⁻³ = 22.61 [1]; A = e^22.61 ≈ **6.6 × 10⁹ mol⁻¹ dm³ s⁻¹** [1].
 **(e)** k has units mol⁻¹ dm³ s⁻¹, so the reaction is **second order overall** [1].
 *Examiner insight:* Graph readings vary slightly, so answers of about 57 to 59 kJ mol⁻¹ are reasonable; a negative Ea shows the gradient's sign was mishandled.
 

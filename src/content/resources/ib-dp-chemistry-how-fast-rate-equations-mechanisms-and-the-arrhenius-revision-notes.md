@@ -74,7 +74,7 @@ Molecularity applies to an elementary step. Order applies to the rate equation.
 ## Rate equations and orders (2.2.9 and 2.2.10)
 
 - Orders are found by **experiment**, never from equation coefficients.
-- Only orders 0, 1 and 2 are assessed for a single reactant.
+- Only integer orders are assessed; the graphs cover orders 0, 1 and 2.
 - The order in a reactant can show how many of its particles are in the RDS (counting fast steps before it).
 
 **Method: initial rates**

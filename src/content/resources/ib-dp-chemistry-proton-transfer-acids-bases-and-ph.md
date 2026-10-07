@@ -20,7 +20,7 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This study guide teaches the standard level part of IB DP Chemistry Reactivity 3.1, "Proton transfer reactions", from first principles. Its source is the IB Diploma Programme Chemistry guide (first assessment 2025; February 2023 edition), and every understanding from Reactivity 3.1.1 to 3.1.8 gets a worked example. All of it is for both SL and HL; the additional higher level material that follows (Reactivity 3.1.9 onwards) is not taught here. The page applies to sessions from 2025 onwards.
+This study guide teaches the standard level part of IB DP Chemistry Reactivity 3.1, "Proton transfer reactions", from first principles. Its source is the IB Diploma Programme Chemistry guide (first assessment 2025; February 2023 edition), and every understanding from Reactivity 3.1.1 to 3.1.8 gets a worked example. All of it is for both SL and HL; the additional higher level material that follows (Reactivity 3.1.9 onwards) has its own [HL study guide](/resources/ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves/). The page applies to sessions from 2025 onwards.
 
 Afterwards, use the [revision notes](/resources/ib-dp-chemistry-proton-transfer-acids-bases-and-ph-revision-notes/) for a fast recap and the [practice questions](/resources/ib-dp-chemistry-proton-transfer-acids-bases-and-ph-practice/) to test yourself. The [Reactivity 3 study guide](/resources/ib-dp-chemistry-reactivity-3-mechanisms/) gives the whole theme. Track progress with the [course hub](/boards/ib/ib-dp/chemistry/) and [printable checklist](/checklists/ib/ib-dp/chemistry/), and find gaps with a free [diagnostic](/diagnostics/).
 

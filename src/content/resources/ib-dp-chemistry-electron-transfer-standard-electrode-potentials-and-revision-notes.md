@@ -24,7 +24,7 @@ These notes assume you have worked through the [study guide for this unit](/reso
 
 These notes condense Reactivity 3.2.12 to 3.2.16 of the IB *Diploma Programme Chemistry guide* (first assessment 2025, published February 2023): standard electrode potentials, cell potentials, Gibbs energy, aqueous electrolysis and electroplating. Every one of these understandings is additional higher level material, so the whole page is **HL only**. The notes apply to exam sessions from 2025 onwards.
 
-Afterwards, attempt the [marked practice set](/resources/ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and-practice/). Other units are on the [DP Chemistry hub](/boards/ib/ib-dp/chemistry/), the [DP Chemistry checklist](/checklists/ib/ib-dp/chemistry/) lets you record what you have covered, and the free [diagnostic quizzes](/diagnostics/) point out weak spots. Gibbs energy background is in the [Reactivity 1.4 notes](/resources/ib-dp-chemistry-entropy-and-spontaneity-revision-notes/).
+Afterwards, attempt the [marked practice set](/resources/ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and-practice/). Other units are on the [DP Chemistry hub](/boards/ib/ib-dp/chemistry/), the [DP Chemistry checklist](/checklists/ib/ib-dp/chemistry/) lets you record what you have covered, and the free [diagnostic quizzes](/diagnostics/) point out weak spots. Gibbs energy background is in the [Reactivity 1.4 notes](/resources/ib-dp-chemistry-entropy-and-spontaneity-revision-notes/). Cell basics (anode, cathode, salt bridge, molten electrolysis) are in the [Reactivity 3.2.1-3.2.11 notes](/resources/ib-dp-chemistry-electron-transfer-redox-cells-and-electrolysis-revision-notes/).
 
 ## Data for this page
 

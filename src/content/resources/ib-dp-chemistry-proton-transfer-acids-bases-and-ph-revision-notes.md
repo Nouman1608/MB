@@ -155,7 +155,7 @@ Reminder: if 18.75 cm³ of 0.0800 mol dm⁻³ NaOH reaches equivalence with 15.0
 1. State the conjugate base of H₂O and the conjugate acid of H₂O.
 2. Give the conjugate acid of C₂H₅NH₂.
 3. Write an equation for H₂PO₄⁻ acting as a base with H₃O⁺.
-4. Calculate the pH of 0.0063 mol dm⁻³ HNO₃.
+4. Calculate the pH of 0.0085 mol dm⁻³ HNO₃.
 5. A solution has pH 8.20. Calculate [H⁺].
 6. A solution at 298 K has [OH⁻] = 4.0 × 10⁻⁹ mol dm⁻³. Find [H⁺] and say whether it is acidic, neutral or basic.
 7. Calculate the pH of 0.0016 mol dm⁻³ LiOH at 298 K.
@@ -169,7 +169,7 @@ Reminder: if 18.75 cm³ of 0.0800 mol dm⁻³ NaOH reaches equivalence with 15.0
 1. OH⁻ (conjugate base); H₃O⁺ (conjugate acid).
 2. C₂H₅NH₃⁺.
 3. H₂PO₄⁻(aq) + H₃O⁺(aq) → H₃PO₄(aq) + H₂O(l).
-4. pH = −log₁₀(0.0063) = 2.20.
+4. pH = −log₁₀(0.0085) = 2.07.
 5. [H⁺] = 10⁻⁸·²⁰ = 6.3 × 10⁻⁹ mol dm⁻³.
 6. [H⁺] = 1.0 × 10⁻¹⁴ / 4.0 × 10⁻⁹ = 2.5 × 10⁻⁶ mol dm⁻³. [H⁺] > [OH⁻], so acidic (pH 5.60).
 7. [OH⁻] = 0.0016 mol dm⁻³, so [H⁺] = 1.0 × 10⁻¹⁴ / 0.0016 = 6.3 × 10⁻¹² mol dm⁻³; pH = 11.20.

@@ -193,9 +193,9 @@ Small reminder: ΔG⦵ = +10.0 kJ mol⁻¹ at 400 K gives lnK = −10 000 / (8.3
 - Giving a shift but no reason, or no named species, in a Le Châtelier answer.
 - Counting all molecules, including liquids or solutions, when judging a pressure change; count gas molecules only.
 - Saying a catalyst increases the yield.
-- (HL) Substituting moles directly into K for a vessel that is not 1 dm³.
-- (HL) Reading Q > K as "moves forward".
-- (HL) Using kJ or °C in ΔG⦵ = −RT lnK.
+- (HL only) Substituting moles directly into K for a vessel that is not 1 dm³.
+- (HL only) Reading Q > K as "moves forward".
+- (HL only) Using kJ or °C in ΔG⦵ = −RT lnK.
 
 ## Official syllabus
 

@@ -76,13 +76,13 @@ Where a question asks you to describe a mechanism in words, say where each curly
 **(b)** Explain your order, referring to the data and the leaving group. **[2]**
 **(c)** A student argues that chlorocyclohexane should react fastest because C–Cl is the most polar bond. Explain why this is wrong. **[1]**
 
-**10.** 2,3-dimethylbut-2-ene, (CH₃)₂C=C(CH₃)₂, is a symmetrical alkene.
+**10.** Cycloheptene, C₇H₁₂, a ring of seven carbons with one C=C, is a symmetrical alkene.
 
 **(a)** Name the product with bromine. **[1]**
-**(b)** Describe and explain the mechanism of the reaction with bromine. **[4]**
+**(b)** Describe and explain the mechanism for its reaction with bromine. **[4]**
 **(c)** Name the product with hydrogen chloride. **[1]**
 
-**11.** 1-methylcyclohexene reacts with water in the presence of an acid catalyst.
+**11.** 1-ethylcyclohexene reacts with water in the presence of an acid catalyst.
 
 **(a)** Draw or describe the two carbocations that could form when H⁺ adds. **[2]**
 **(b)** Predict the major product and explain your choice. **[2]**
@@ -91,7 +91,7 @@ Where a question asks you to describe a mechanism in words, say where each curly
 **12.** Benzene reacts with the nitronium ion, NO₂⁺.
 
 **(a)** Explain why benzene undergoes substitution rather than addition, despite being unsaturated. **[2]**
-**(b)** Describe and explain the mechanism of the reaction of benzene with NO₂⁺. **[4]**
+**(b)** Describe and explain the mechanism by which benzene reacts with NO₂⁺. **[4]**
 **(c)** In the mixture of concentrated nitric and sulfuric acids that produces NO₂⁺, state the role of HNO₃ in Brønsted–Lowry terms. **[1]**
 
 ## Answers
@@ -135,13 +135,13 @@ Where a question asks you to describe a mechanism in words, say where each curly
 **(c)** The slow part of the reaction is **C–X bond cleavage**, so the weakest bond, not the most polar one, controls the rate [1]. **[1]**
 *Examiner insight:* Use the numbers given; "C–I is weakest" with the values quoted is stronger than a general statement.
 
-**10. (a)** **2,3-dibromo-2,3-dimethylbutane** [1]. **[1]**
+**10. (a)** **1,2-dibromocycloheptane** [1]. **[1]**
 **(b)** The high electron density of the π bond repels electrons in Br₂, making the nearer Br δ+ [1]. Curly arrow from the **π bond to Brδ+** and from the **Br–Br bond to the far Br** [1]. A **carbocation** and Br⁻ form [1]. Curly arrow from a **Br⁻ lone pair to C⁺** [1]. **[4]**
-**(c)** **2-chloro-2,3-dimethylbutane** [1]. **[1]**
+**(c)** **chlorocycloheptane** [1]. **[1]**
 *Examiner insight:* The induced dipole on Br₂ must be shown or stated; a non-polar Br₂ with no δ+ cannot act as an electrophile.
 
-**11. (a)** H⁺ on the CH of the ring gives a **tertiary carbocation** on the carbon bearing CH₃ [1]; H⁺ on that methyl-bearing carbon gives a **secondary carbocation** on the neighbouring ring carbon [1]. **[2]**
-**(b)** **1-methylcyclohexan-1-ol** [1], because the tertiary carbocation is more stable, stabilised by three alkyl groups releasing electron density [1]. **[2]**
+**11. (a)** H⁺ on the CH of the ring gives a **tertiary carbocation** on the carbon bearing the ethyl group [1]; H⁺ on that ethyl-bearing carbon gives a **secondary carbocation** on the neighbouring ring carbon [1]. **[2]**
+**(b)** **1-ethylcyclohexan-1-ol** [1], because the tertiary carbocation is more stable, stabilised by three alkyl groups releasing electron density [1]. **[2]**
 **(c)** A water molecule donates an **oxygen lone pair to C⁺** [1]. The protonated alcohol **loses H⁺** [1]. H⁺ is used in step 1 and **regenerated**, so it is a catalyst [1]. **[3]**
 *Examiner insight:* Justify the major product with carbocation stability; quoting the "more hydrogens" rule alone does not explain.
 

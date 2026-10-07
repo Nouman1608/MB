@@ -28,7 +28,7 @@ featured: false
 
 This set covers Reactivity 3.1, "Proton transfer reactions", in IB DP Chemistry. Its content list comes from the February 2023 Diploma Programme Chemistry guide, first examined in 2025. The questions span understandings Reactivity 3.1.1 to 3.1.8, all shared by SL and HL, so each one suits either level; the set applies to sessions from 2025 onwards.
 
-Work through the [study guide] first(/resources/ib-dp-chemistry-proton-transfer-acids-bases-and-ph/) and recap with the [revision notes](/resources/ib-dp-chemistry-proton-transfer-acids-bases-and-ph-revision-notes/). The [course hub](/boards/ib/ib-dp/chemistry/), [checklist](/checklists/ib/ib-dp/chemistry/) and free [diagnostics](/diagnostics/) show where to go next.
+Work through the [study guide](/resources/ib-dp-chemistry-proton-transfer-acids-bases-and-ph/) first and recap with the [revision notes](/resources/ib-dp-chemistry-proton-transfer-acids-bases-and-ph-revision-notes/). The [course hub](/boards/ib/ib-dp/chemistry/), [checklist](/checklists/ib/ib-dp/chemistry/) and free [diagnostics](/diagnostics/) show where to go next.
 
 Data for every question: Kw = 1.0 × 10⁻¹⁴ at 298 K. Ar values: C 12.01, Ca 40.08, O 16.00. Assume 298 K unless a question says otherwise.
 
@@ -59,7 +59,7 @@ For the forward reaction, identify which species acts as the Brønsted–Lowry a
 
 **5.**
 
-**(a)** Calculate the pH of 0.0350 mol dm⁻³ lithium hydroxide. **[2]**
+**(a)** Calculate the pH of 0.0450 mol dm⁻³ lithium hydroxide. **[2]**
 **(b)** Three solutions at 298 K have: A, [H⁺] = 2.0 × 10⁻⁶ mol dm⁻³; B, [OH⁻] = 1.0 × 10⁻⁷ mol dm⁻³; C, [OH⁻] = 6.3 × 10⁻⁴ mol dm⁻³. Classify each as acidic, neutral or basic, using the relative values of [H⁺] and [OH⁻]. **[3]**
 
 **6.** At 313 K, Kw = 2.9 × 10⁻¹⁴ (use this value).
@@ -119,7 +119,7 @@ CH₃COOH(aq) + NO₂⁻(aq) ⇌ CH₃COO⁻(aq) + HNO₂(aq) **[3]**
 **(c)** After dilution [H⁺] = 0.0060 / 100 = 6.0 × 10⁻⁵ mol dm⁻³ [1]; pH = **4.22** (up 2 units from 2.22) [1]
 *Examiner insight:* Show the log expression you used; a bare pH that is slightly off leaves no method for an examiner to reward.
 
-**5. (a)** [OH⁻] = 0.0350 mol dm⁻³, so [H⁺] = 1.0 × 10⁻¹⁴ / 0.0350 = 2.9 × 10⁻¹³ mol dm⁻³ [1]; pH = **12.54** [1]
+**5. (a)** [OH⁻] = 0.0450 mol dm⁻³, so [H⁺] = 1.0 × 10⁻¹⁴ / 0.0450 = 2.2 × 10⁻¹³ mol dm⁻³ [1]; pH = **12.65** [1]
 **(b)** A: [OH⁻] = 5.0 × 10⁻⁹, so [H⁺] > [OH⁻], **acidic** [1]. B: [H⁺] = 1.0 × 10⁻⁷ = [OH⁻], **neutral** [1]. C: [H⁺] = 1.6 × 10⁻¹¹ < [OH⁻], **basic** [1]
 *Examiner insight:* Compare [H⁺] with [OH⁻] as asked: work out the missing concentration each time rather than quoting pH alone.
 

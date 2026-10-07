@@ -33,7 +33,7 @@ See the [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/), print the [checklist
 | Reactivity 2.2.8 | Interpret unimolecular, bimolecular and termolecular | HL only |
 | Reactivity 2.2.9 | Deduce a rate equation from experimental data | HL only |
 | Reactivity 2.2.10 | Use orders (integer values only); link order to particles in the rate-determining step; sketch and analyse concentration–time and rate–concentration graphs for zero, first and second order | HL only |
-| Reactivity 2.2.11 | Solve problems with the rate equation, including the units of k | HL only |
+| Reactivity 2.2.11 | Solve rate-equation problems and work out the units of k | HL only |
 | Reactivity 2.2.12 | Describe how k changes with temperature; analyse the Arrhenius equation and its linear form graphically | HL only |
 | Reactivity 2.2.13 | Determine Ea and the Arrhenius factor, A, from experimental data | HL only |
 
@@ -122,7 +122,7 @@ rate = k[A]ᵐ[B]ⁿ
 - m is the **order in A**; n is the order in B.
 - The **overall order** is m + n.
 - m and n are **not** taken from the coefficients a and b. They depend on the mechanism and can only be found by experiment.
-- Only integer orders (0, 1, 2) are assessed.
+- Only integer orders are assessed.
 
 The order in a reactant can show how many of its particles take part in the RDS (including fast steps before it). A reactant that enters only after the RDS is **zero order**.
 

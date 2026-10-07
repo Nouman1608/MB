@@ -20,7 +20,7 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-These notes condense **Reactivity 3.2, Electron transfer reactions**, with the February 2023 IB Diploma Programme *Chemistry guide* (first assessment 2025) as the checklist. They cover understandings **Reactivity 3.2.1 to 3.2.11**, which are common to **SL and HL**; the additional higher level material from 3.2.12 onwards is not included. The [study guide](/resources/ib-dp-chemistry-electron-transfer-redox-cells-and-electrolysis/) has the longer explanations and worked examples.
+These notes condense **Reactivity 3.2, Electron transfer reactions**, with the February 2023 IB Diploma Programme *Chemistry guide* (first assessment 2025) as the checklist. They cover understandings **Reactivity 3.2.1 to 3.2.11**, which are common to **SL and HL**; the additional higher level material from 3.2.12 onwards is in the [HL unit on standard electrode potentials](/resources/ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and/). The [study guide](/resources/ib-dp-chemistry-electron-transfer-redox-cells-and-electrolysis/) has the longer explanations and worked examples.
 
 When you have read these notes, try the [practice questions](/resources/ib-dp-chemistry-electron-transfer-redox-cells-and-electrolysis-practice/). Follow your progress with the [printable checklist](/checklists/ib/ib-dp/chemistry/) and the [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/), and try our free [diagnostics](/diagnostics/) to find weak spots.
 
@@ -118,7 +118,7 @@ Two metal/metal ion half-cells, an anode and a cathode, an external circuit and 
 
 ### Secondary cells
 
-- To get a charging half-equation, **reverse** the discharge half-equation. The terminal signs stay the same; the names anode and cathode swap.
+- To get a charging half-equation, **reverse** the discharge half-equation; to get discharge from given charging reactions, reverse those. The terminal signs stay the same; the names anode and cathode swap.
 - Examples: lead–acid (Pb and PbO₂ in sulfuric acid), nickel–cadmium, lithium-ion.
 
 | | Primary | Secondary | Fuel cell |

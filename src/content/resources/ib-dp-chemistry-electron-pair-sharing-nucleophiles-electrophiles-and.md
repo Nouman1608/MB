@@ -20,9 +20,9 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This page teaches the opening understandings of Reactivity 3.4 in IB DP Chemistry, the part on nucleophiles, electrophiles and substitution. Its reference is the IB's DP *Chemistry guide*, first assessed in 2025 (the February 2023 edition), and it is written for exam sessions from 2025. We cover Reactivity 3.4.1 to 3.4.5. All five are **SL and HL** content, so every DP chemist needs them. The later, HL-only understandings (3.4.6 onwards) are not taught here.
+This page teaches the opening understandings of Reactivity 3.4 in IB DP Chemistry, the part on nucleophiles, electrophiles and substitution. Its reference is the IB's DP *Chemistry guide*, first assessed in 2025 (the February 2023 edition), and it is written for exam sessions from 2025. We cover Reactivity 3.4.1 to 3.4.5. All five are **SL and HL** content, so every DP chemist needs them. The HL-only understandings (3.4.6 onwards) have their [own page](/resources/ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and/).
 
-Use the [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/) for the rest of the course, tick topics off on our [checklist](/checklists/ib/ib-dp/chemistry/), and find gaps quickly with a free [diagnostic](/diagnostics/). Once this page makes sense, shrink it down with the [revision notes](/resources/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and-revision-notes/) and try the [practice questions](/resources/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and-practice/). For a view of how all four parts of Reactivity 3 fit together, see the [Reactivity 3 overview](/resources/ib-dp-chemistry-reactivity-3-mechanisms/).
+Use the [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/) for the rest of the course, tick topics off on our [checklist](/checklists/ib/ib-dp/chemistry/), and find gaps quickly with a free [diagnostic](/diagnostics/). Afterwards, use the [revision notes](/resources/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and-revision-notes/) and try the [practice questions](/resources/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and-practice/). For a view of how all four parts of Reactivity 3 fit together, see the [Reactivity 3 overview](/resources/ib-dp-chemistry-reactivity-3-mechanisms/).
 
 ## What this unit covers
 
@@ -78,14 +78,14 @@ Halogenoalkanes are the standard substrates. A halogen pulls bonding electrons t
 
 ### Describing the movement of electron pairs
 
-For the reaction of 1-bromo-3-methylbutane with hydroxide ions:
+For the reaction of 1-bromo-4-methylpentane with hydroxide ions:
 
-(CH₃)₂CHCH₂CH₂Br + OH⁻ → (CH₃)₂CHCH₂CH₂OH + Br⁻
+(CH₃)₂CHCH₂CH₂CH₂Br + OH⁻ → (CH₃)₂CHCH₂CH₂CH₂OH + Br⁻
 
 1. A lone pair on the oxygen of OH⁻ is attracted to the δ+ carbon bonded to bromine.
 2. That lone pair is donated to the carbon, forming a new C–O bond (curly arrow from the O lone pair to the carbon).
 3. At the same time the C–Br bonding pair shifts wholly onto bromine (a second curly arrow, drawn from the C–Br bond onto the bromine atom).
-4. Bromine leaves as a bromide ion, Br⁻, the leaving group. The product is 3-methylbutan-1-ol.
+4. Bromine leaves as a bromide ion, Br⁻, the leaving group. The product is 4-methylpentan-1-ol.
 
 ### Worked example 2: deducing products
 
@@ -105,10 +105,7 @@ In (c) the neutral nucleophile must also lose an H⁺, which leaves with the chl
 
 Show it with one full curly arrow from the middle of the bond to the atom that keeps the electrons:
 
-```
-(CH₃)₃C–I   →   (CH₃)₃C⁺  +  I⁻
-     curly arrow: from the C–I bond to I
-```
+(CH₃)₃C–I → (CH₃)₃C⁺ + I⁻ (curly arrow: from the C–I bond to I)
 
 The carbon fragment has lost its share of the bonding pair, so it now has only six outer electrons and a positive charge. An ion with a positively charged carbon like this is a carbocation. Iodine leaves with eight outer electrons and a negative charge.
 
@@ -152,7 +149,7 @@ Learn the three reactions with symmetrical alkenes (where both ends of the C=C a
 | Reagent | Product type | Example |
 |---|---|---|
 | Halogen, X₂ (Cl₂, Br₂) | dihalogenoalkane | cyclopentene + Br₂ → 1,2-dibromocyclopentane |
-| Hydrogen halide, HX (HCl, HBr, HI) | halogenoalkane | oct-4-ene + HCl → 4-chlorooctane |
+| Hydrogen halide, HX (HCl, HBr, HI) | halogenoalkane | dec-5-ene + HCl → 5-chlorodecane |
 | Water (as steam, with an acid catalyst such as phosphoric acid) | alcohol | hex-3-ene + H₂O → hexan-3-ol |
 
 ### Worked example 5: deducing addition equations

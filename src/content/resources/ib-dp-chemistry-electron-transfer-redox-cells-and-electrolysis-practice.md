@@ -97,9 +97,9 @@ Where needed, use Ar(H) = 1.01, Ar(C) = 12.01, Ar(O) = 16.00, Ar(Mg) = 24.31, an
 **(c)** Deduce the overall equation for discharge. **[1]**
 **(d)** Give one advantage of this cell over a primary cell, and one disadvantage of a hydrogen fuel cell compared with this cell. **[2]**
 
-**10.** Molten calcium bromide is electrolysed using graphite electrodes.
+**10.** Molten strontium bromide is electrolysed using graphite electrodes.
 
-**(a)** Explain why solid calcium bromide does not conduct but molten calcium bromide does. **[2]**
+**(a)** Explain why solid strontium bromide does not conduct but molten strontium bromide does. **[2]**
 **(b)** For each electrode, give its name and its half-equation. **[2]**
 **(c)** State how current is carried in the external circuit and in the electrolyte. **[1]**
 **(d)** State the energy change in this cell, and how it differs from a voltaic cell. **[1]**
@@ -125,7 +125,7 @@ Where needed, use Ar(H) = 1.01, Ar(C) = 12.01, Ar(O) = 16.00, Ar(Mg) = 24.31, an
 **(b)** 2(+1) + 2x = 0, so **−1** (a peroxide) [1]
 **(c)** +1 + x + 4(−2) = 0, so **+7** [1]
 **(d)** **iron(III) sulfate** [1]; **lead(IV) oxide** [1]
-*Examiner insight:* Show the sum you set up; working can still earn credit when a slip spoils the final value.
+*Examiner insight:* Write out the sum you set up, so that a slip in the arithmetic is easy to spot when you check.
 
 **2. (a)** Copper: **+2 → 0** [1]; nitrogen: **−3 → 0** [1]
 **(b)** Oxidizing agent: **CuO** (or Cu²⁺) [1]; reducing agent: **NH₃** [1]
@@ -166,7 +166,7 @@ Where needed, use Ar(H) = 1.01, Ar(C) = 12.01, Ar(O) = 16.00, Ar(Mg) = 24.31, an
 *Examiner insight:* A charging reaction should be the exact reverse of the discharge reaction, with every species and the electron moved across the arrow.
 
 **10. (a)** Solid: the ions sit in a rigid lattice and cannot move [1]; molten: ions are free to move and carry charge [1]
-**(b)** Cathode: **Ca²⁺ + 2e⁻ → Ca** [1]; anode: **2Br⁻ → Br₂ + 2e⁻** [1]
+**(b)** Cathode: **Sr²⁺ + 2e⁻ → Sr** [1]; anode: **2Br⁻ → Br₂ + 2e⁻** [1]
 **(c)** **Electrons** in the external circuit and **ions** in the electrolyte [1]
 **(d)** **Electrical to chemical** energy (non-spontaneous reaction); a voltaic cell does the reverse [1]
 *Examiner insight:* "Free electrons in the melt" is wrong for an ionic compound; the explanation needs mobile ions.

@@ -20,9 +20,9 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This page teaches the higher level half of Reactivity 3.1, "Proton transfer reactions", for IB DP Chemistry. Its numbering follows the *Diploma Programme Chemistry guide* that the IB released in February 2023 for first assessment in 2025, and it works through understandings Reactivity 3.1.9 to 3.1.17 with examples. The guide lists every one of these under additional higher level (AHL), so the entire page is **HL only**. It applies to examinations from 2025 onwards.
+This page teaches the higher level half of Reactivity 3.1, "Proton transfer reactions", for IB DP Chemistry. Its numbering follows the *Diploma Programme Chemistry guide* (February 2023, first assessment 2025), and it works through understandings Reactivity 3.1.9 to 3.1.17 with examples. The guide lists every one of these under additional higher level (AHL), so the entire page is **HL only**. It applies to examinations from 2025 onwards.
 
-Use it alongside the [proton transfer revision notes](/resources/ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves-revision-notes/) for fast recall and the [proton transfer practice questions](/resources/ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves-practice/) for marked answers. Other units sit on the [DP Chemistry hub](/boards/ib/ib-dp/chemistry/); mark off understandings on the printable [DP Chemistry checklist](/checklists/ib/ib-dp/chemistry/); and take one of our free [diagnostic quizzes](/diagnostics/) if you are unsure where to begin. Paper formats are explained on the [DP Chemistry exam preparation](/resources/ib-dp-chemistry-exam-preparation/) page.
+Use it alongside the [proton transfer revision notes](/resources/ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves-revision-notes/) for fast recall and the [proton transfer practice questions](/resources/ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves-practice/) for marked answers. The SL half is in [Proton transfer: acids, bases and pH](/resources/ib-dp-chemistry-proton-transfer-acids-bases-and-ph/). Other units sit on the [DP Chemistry hub](/boards/ib/ib-dp/chemistry/); mark off understandings on the printable [DP Chemistry checklist](/checklists/ib/ib-dp/chemistry/); and take one of our free [diagnostic quizzes](/diagnostics/) if you are unsure where to begin.
 
 ## Scope of this page
 
@@ -160,10 +160,10 @@ When collecting data, add smaller portions near the equivalence point, where pH 
 
 ### Worked example 7: reading a weak acid curve
 
-25.0 cm³ of a weak acid HX is titrated with 0.100 mol dm⁻³ NaOH. The equivalence point is at 18.0 cm³, and the pH at 9.0 cm³ is 4.20.
+20.0 cm³ of a weak acid HX is titrated with 0.0800 mol dm⁻³ NaOH. The equivalence point is at 23.5 cm³, and the pH at 11.75 cm³ is 4.62.
 
-- n(NaOH) = 0.100 × 0.0180 = 1.80 × 10⁻³ mol, so [HX] = 1.80 × 10⁻³ ÷ 0.0250 = **0.0720 mol dm⁻³**
-- 9.0 cm³ is half-equivalence, so pKa = **4.20** and Ka = 10^(−4.20) = **6.3 × 10⁻⁵**
+- n(NaOH) = 0.0800 × 0.0235 = 1.88 × 10⁻³ mol, so [HX] = 1.88 × 10⁻³ ÷ 0.0200 = **0.0940 mol dm⁻³**
+- 11.75 cm³ is half-equivalence, so pKa = **4.62** and Ka = 10^(−4.62) = **2.4 × 10⁻⁵**
 
 ## Reactivity 3.1.14 Indicators
 

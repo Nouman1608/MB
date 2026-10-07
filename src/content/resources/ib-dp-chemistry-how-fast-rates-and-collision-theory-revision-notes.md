@@ -53,7 +53,7 @@ Each idea is set out in full, with longer worked examples, in the [study guide](
 
 **Converting units.** Mass of gas: divide by molar mass to get moles. Gas volume: divide by the molar volume you are given for the conditions.
 
-**Worked reminder.** Sodium carbonate solution is poured into excess hydrochloric acid in an open flask, and the balance reading drops by 0.66 g in 25 s. Average rate = 0.66/25 = **0.026 g s⁻¹**. In moles of CO₂: 0.66/44.01 = 0.0150 mol, so the rate = 0.0150/25 = **6.0 × 10⁻⁴ mol s⁻¹**.
+**Worked reminder.** Sodium carbonate solution is poured into excess hydrochloric acid in an open flask, and the balance reading drops by 0.88 g in 25 s. Average rate = 0.88/25 = **0.035 g s⁻¹**. In moles of CO₂: 0.88/44.01 = 0.0200 mol, so the rate = 0.0200/25 = **8.0 × 10⁻⁴ mol s⁻¹**.
 
 **Why the curve flattens.** As reactants are used up their concentration falls, collisions become less frequent and the gradient decreases. The curve becomes horizontal when a reactant is used up.
 

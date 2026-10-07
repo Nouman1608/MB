@@ -22,7 +22,7 @@ featured: false
 
 These notes boil down Reactivity 3.4.1 to 3.4.5 from the IB DP *Chemistry guide* (issued in February 2023; first assessment 2025), so they suit any session from 2025 on. All five understandings are **SL and HL**. The longer explanations live in the [study guide](/resources/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and/), and original exam-style questions with marked answers are in the [practice set](/resources/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and-practice/).
 
-Course links: [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/), printable [checklist](/checklists/ib/ib-dp/chemistry/), free [diagnostics](/diagnostics/), and the [Reactivity 3 overview notes](/resources/ib-dp-chemistry-reactivity-3-mechanisms-revision-notes/).
+Course links: [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/), printable [checklist](/checklists/ib/ib-dp/chemistry/), free [diagnostics](/diagnostics/), and the [Reactivity 3 overview notes](/resources/ib-dp-chemistry-reactivity-3-mechanisms-revision-notes/). Radicals and homolytic fission are in [Reactivity 3.3](/resources/ib-dp-chemistry-electron-sharing-reactions/); the HL-only part of Reactivity 3.4 is on [its own page](/resources/ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and/).
 
 ## Scope at a glance
 
@@ -36,7 +36,7 @@ Course links: [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/), printable [che
 
 Depth limits from the guide: detailed substitution mechanisms are not needed at SL, and alkene addition mechanisms are not assessed at SL. HL students learn both later in Reactivity 3.4.9 and 3.4.11 (HL only).
 
-## Definitions to learn word-perfect
+## Key definitions
 
 - **Nucleophile:** a species that supplies both electrons of a new covalent bond to its partner, the electrophile.
 - **Electrophile:** a species that takes in both electrons of a new covalent bond from its partner, the nucleophile.
@@ -135,7 +135,7 @@ Small reminder: but-2-ene + Br₂ → CH₃CHBrCHBrCH₃, 2,3-dibromobutane.
 
 ### Answers
 
-1. A reactant that forms a bond to its partner by accepting both bonding electrons from it.
+1. A species that accepts both electrons of a new covalent bond from its partner, the nucleophile.
 2. OH⁻ and CH₃NH₂ (both have lone pairs to donate). NO₂⁺ and H⁺ are electrophiles.
 3. CH₃CH₂CH₂I + OH⁻ → CH₃CH₂CH₂OH + I⁻; propan-1-ol.
 4. The bromide ion, Br⁻.

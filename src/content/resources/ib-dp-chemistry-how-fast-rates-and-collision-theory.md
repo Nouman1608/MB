@@ -20,7 +20,7 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This guide teaches the first part of **Reactivity 2.2, How fast? The rate of chemical change**, based on the IB Diploma Programme *Chemistry guide* (February 2023, first assessment 2025). Its scope is understandings Reactivity 2.2.1 to 2.2.5, which are studied at **both SL and HL**. The additional higher level understandings (Reactivity 2.2.6 to 2.2.13: mechanisms, rate equations and the Arrhenius equation) are not covered on this page.
+This guide teaches the first part of **Reactivity 2.2, How fast? The rate of chemical change**, based on the IB Diploma Programme *Chemistry guide* (February 2023, first assessment 2025). Its scope is understandings Reactivity 2.2.1 to 2.2.5, which are studied at **both SL and HL**. The additional higher level understandings (Reactivity 2.2.6 to 2.2.13: mechanisms, rate equations and the Arrhenius equation) are covered in the [HL rates guide](/resources/ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius/).
 
 For the whole course, see the [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/) or print the [checklist](/checklists/ib/ib-dp/chemistry/).
 
@@ -32,7 +32,7 @@ For the whole course, see the [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/)
 | Reactivity 2.2.2 | Explain that reaction needs collisions with enough energy and the right geometry; link average kinetic energy to temperature in kelvin | SL and HL |
 | Reactivity 2.2.3 | Predict and explain how pressure, concentration, surface area, temperature and a catalyst change the rate | SL and HL |
 | Reactivity 2.2.4 | Define activation energy, Ea; use Maxwell–Boltzmann curves to explain the effect of temperature | SL and HL |
-| Reactivity 2.2.5 | Sketch and explain energy profiles with and without a catalyst (exothermic and endothermic); use Maxwell–Boltzmann curves to show the effect of a lower Ea; know that enzymes are biological catalysts | SL and HL |
+| Reactivity 2.2.5 | Sketch energy profiles for exothermic and endothermic reactions, with and without a catalyst, and explain them; use Maxwell–Boltzmann curves to show the effect of a lower Ea; know that enzymes are biological catalysts | SL and HL |
 
 ## Rate of reaction (2.2.1)
 
@@ -63,16 +63,16 @@ Draw the tangent long, touching the curve at one point only. Pick two points on 
 
 CV⁺(aq) + OH⁻(aq) → CVOH(aq)
 
-Colorimeter absorbance readings are converted into [CV⁺]. At t = 0, [CV⁺] = 2.40 × 10⁻⁵ mol dm⁻³. The tangent at t = 0 runs from (0 s, 2.40 × 10⁻⁵ mol dm⁻³) to (300 s, 0). At t = 300 s, [CV⁺] = 0.90 × 10⁻⁵ mol dm⁻³, and the tangent there passes through (0 s, 1.50 × 10⁻⁵ mol dm⁻³) and (750 s, 0).
+Colorimeter absorbance readings are converted into [CV⁺]. At t = 0, [CV⁺] = 2.40 × 10⁻⁵ mol dm⁻³. The tangent at t = 0 runs from (0 s, 2.40 × 10⁻⁵ mol dm⁻³) to (300 s, 0). At t = 300 s, [CV⁺] = 0.90 × 10⁻⁵ mol dm⁻³, and the tangent there passes through (0 s, 1.80 × 10⁻⁵ mol dm⁻³) and (600 s, 0).
 
 1. Initial rate = (2.40 × 10⁻⁵ − 0)/(300 − 0) = **8.0 × 10⁻⁸ mol dm⁻³ s⁻¹** (rate of loss of CV⁺).
-2. Rate at 300 s = 1.50 × 10⁻⁵/750 = **2.0 × 10⁻⁸ mol dm⁻³ s⁻¹**, a quarter of the starting rate, because fewer CV⁺ ions remain to collide with OH⁻.
+2. Rate at 300 s = 1.80 × 10⁻⁵/600 = **3.0 × 10⁻⁸ mol dm⁻³ s⁻¹**, less than half the starting rate, because fewer CV⁺ ions remain to collide with OH⁻.
 3. Average rate over the first 300 s = (2.40 − 0.90) × 10⁻⁵/300 = **5.0 × 10⁻⁸ mol dm⁻³ s⁻¹**, between the two instantaneous values.
 4. The equation is 1 : 1, so OH⁻ is used up at the same rate as CV⁺. With a 1 : 2 ratio the product would form twice as fast, so always say which species a rate refers to.
 
-**Worked example 2 (mass loss).** Citric acid solution is added to sodium hydrogencarbonate in an open flask on a balance. The reading falls from 148.62 g to 148.18 g during the first 40 s, because CO₂ escapes.
+**Worked example 2 (mass loss).** Citric acid solution is added to sodium hydrogencarbonate in an open flask on a balance. The reading falls from 212.47 g to 212.03 g during the first 40 s, because CO₂ escapes.
 
-1. Mass of CO₂ lost = 148.62 − 148.18 = 0.44 g.
+1. Mass of CO₂ lost = 212.47 − 212.03 = 0.44 g.
 2. Average rate = 0.44/40 = **0.011 g s⁻¹**.
 3. In moles: 0.44/44.01 = 0.0100 mol CO₂, so the rate = 0.0100/40 = **2.5 × 10⁻⁴ mol s⁻¹**.
 
@@ -114,7 +114,7 @@ Write "more frequent collisions", not just "more collisions".
 
 ## Activation energy and the Maxwell–Boltzmann distribution (2.2.4)
 
-**Activation energy, Ea**, is the smallest amount of energy a collision must bring for the colliding particles to react.
+**Activation energy, Ea**, means the smallest amount of energy a collision must bring for the colliding particles to react.
 
 A **Maxwell–Boltzmann energy distribution curve** shows how kinetic energy is spread among the particles of a gas at a fixed temperature.
 

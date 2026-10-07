@@ -78,7 +78,7 @@ Before starting, read the [Reactivity 3.2.12-3.2.16 study guide](/resources/ib-d
 
 **(a)** Write the half-equation at each electrode. **[2]**
 **(b)** Calculate E⦵cell for the overall reaction and state what it means for the supply voltage. **[1]**
-**(c)** 36 cm³ of hydrogen is collected. State the volume of oxygen collected under the same conditions. **[1]**
+**(c)** 42 cm³ of hydrogen is collected. State the volume of oxygen collected under the same conditions. **[1]**
 
 **10.** A brass brooch is to be silver-plated.
 
@@ -142,7 +142,7 @@ Before starting, read the [Reactivity 3.2.12-3.2.16 study guide](/resources/ib-d
 
 **9. (a)** Cathode: 2H⁺(aq) + 2e⁻ → H₂(g) [1]. Anode: 2H₂O(l) → O₂(g) + 4H⁺(aq) + 4e⁻ [1]. **[2]**
 **(b)** E⦵cell = 0.00 − 1.23 = **−1.23 V**, so the supply must provide more than 1.23 V [1]. **[1]**
-**(c)** **18 cm³** (2 : 1 ratio) [1]. **[1]**
+**(c)** **21 cm³** (2 : 1 ratio) [1]. **[1]**
 *Examiner insight:* A negative E⦵cell is expected for electrolysis; say what it means for the supply.
 
 **10. (a)** Cathode: the **brooch**; anode: **pure silver** [1]. Electrolyte: a solution containing **Ag⁺ ions**, such as silver nitrate [1]. **[2]**

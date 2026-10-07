@@ -80,7 +80,7 @@ To see where this unit sits in the course, use the [IB DP chemistry hub](/boards
 ## Answers
 
 **1.** Choose from: forward and backward rates are equal; concentrations of reactants and products stay constant; both reactions continue; the system is closed. First correct characteristic [1]; second correct characteristic [1]
-*Examiner insight:* "Concentrations are equal" is wrong and can cancel a correct point; write "constant", not "equal".
+*Examiner insight:* "Concentrations are equal" is wrong and contradicts an otherwise correct answer; write "constant", not "equal".
 
 **2.** At first only evaporation happens, at a constant rate set by the temperature [1]; as ethanol molecules build up in the vapour, the rate of condensation increases [1]; equilibrium is reached when the rate of condensation equals the rate of evaporation, so the vapour pressure no longer changes [1]
 *Examiner insight:* Name both processes and compare their rates; "the liquid stops evaporating" contradicts the dynamic nature of equilibrium.
@@ -134,10 +134,10 @@ To see where this unit sits in the course, use the [IB DP chemistry hub](/boards
 - Giving Le Châtelier shifts with no reason, or no comment on K.
 - Counting moles of all species, not gas molecules only, when judging a pressure change.
 - Claiming a catalyst raises the equilibrium yield.
-- (HL) Substituting moles into K for a vessel larger than 1 dm³.
-- (HL) Ignoring the mole ratio in the change row of an ICE table.
-- (HL) Using the small-K approximation without stating or checking it.
-- (HL) Putting kJ or °C into ΔG⦵ = −RT lnK.
+- (HL only) Substituting moles into K for a vessel larger than 1 dm³.
+- (HL only) Ignoring the mole ratio in the change row of an ICE table.
+- (HL only) Using the small-K approximation without stating or checking it.
+- (HL only) Putting kJ or °C into ΔG⦵ = −RT lnK.
 
 ## Next steps
 

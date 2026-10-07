@@ -92,7 +92,7 @@ Before you start, you may want the [study guide](/resources/ib-dp-chemistry-elec
 
 ## Answers
 
-**1.** A reactant that forms a bond to its partner (the nucleophile) by accepting both electrons of the new bond [1]. Neutral example: Br₂, HBr, HCl or the δ+ carbon of a halogenoalkane [1]. **[2]**
+**1.** A species that accepts an electron pair from its partner (the nucleophile) to form a new covalent bond [1]. Neutral example: Br₂, HBr, HCl or the δ+ carbon of a halogenoalkane [1]. **[2]**
 *Examiner insight:* "A positive ion" is not a definition; an answer has to mention accepting an electron pair to describe what an electrophile does.
 
 **2. (a)** CH₃O⁻ (methoxide ion), negatively charged [1]
@@ -138,7 +138,7 @@ Before you start, you may want the [study guide](/resources/ib-dp-chemistry-elec
 **(b)** (CH₃)₂C=C(CH₃)₂ + HBr → (CH₃)₂CBrCH(CH₃)₂ [1]
 **(c)** M(C₆H₁₂) = 84.18 g mol⁻¹, so n = 2.52 / 84.18 = 0.0299 mol [1]. M(C₆H₁₃Br) = 165.09 g mol⁻¹ [1]. Theoretical mass = 0.0299 × 165.09 = 4.94 g [1]. Percentage yield = (3.29 / 4.94) × 100 = **66.6%** [1]
 **(d)** Electrophile [1] **[7]**
-*Examiner insight:* Show the moles and the theoretical mass on separate lines; if the final percentage is wrong and there is no working, no method can be rewarded.
+*Examiner insight:* Show the moles and the theoretical mass on separate lines, so your method is visible to the examiner even if the final percentage goes wrong.
 
 **12. (a)** CH₃CH₂CHClCH₃ + CN⁻ → CH₃CH₂CH(CN)CH₃ + Cl⁻ [1]
 **(b)** 2-methylbutanenitrile [1]
