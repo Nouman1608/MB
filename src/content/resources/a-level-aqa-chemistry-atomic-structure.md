@@ -13,6 +13,10 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "atomic-structure-7405"
+    subtopic: "mass-number-and-isotopes-7405"
+  - qualification: "a-level"
+    topic: "atomic-structure-7405"
+    subtopic: "electron-configuration-7405"
 description: "Fundamental particles, mass number, isotopes and electron configuration -- the opening topic of AQA A-level Chemistry (7405), sitting within the Physical chemistry strand of the specification."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"

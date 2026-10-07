@@ -13,6 +13,13 @@ order: 4
 syllabusTopics:
   - qualification: "a-level"
     topic: "oxfordaqa-a-level-chemistry-bonding"
+    subtopic: "oxfordaqa-a-level-chemistry-3-1-3-5"
+  - qualification: "a-level"
+    topic: "oxfordaqa-a-level-chemistry-bonding"
+    subtopic: "oxfordaqa-a-level-chemistry-3-1-3-6"
+  - qualification: "a-level"
+    topic: "oxfordaqa-a-level-chemistry-bonding"
+    subtopic: "oxfordaqa-a-level-chemistry-3-1-3-7"
 description: "Electron-pair repulsion theory and molecular shapes, electronegativity and bond polarity, and the three types of intermolecular force including hydrogen bonding, for OxfordAQA International AS and A-level Chemistry 9620, sections 3.1.3.5 to 3.1.3.7."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"

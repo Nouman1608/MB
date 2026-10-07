@@ -34,7 +34,7 @@ After this guide, use the [particle model revision notes](/resources/ocr-gcse-ch
 | CM1.1i | Represent three-dimensional shapes in two dimensions and vice versa when looking at chemical structures, for example allotropes of carbon (maths skill M5b) | Both tiers |
 | Practical suggestion | Observations of change of state, compared with chemical changes | Both tiers |
 
-The specification also links this content to working scientifically skills WS1.1a, WS1.1b and WS1.1c (theories developing, using models, and the power and limitations of science).
+The specification also links this content to working scientifically skills Working Scientifically 1.1a, Working Scientifically 1.1b and Working Scientifically 1.1c (theories developing, using models, and the power and limitations of science).
 
 ## C1.1a: The particle model and states of matter
 
@@ -156,7 +156,7 @@ The same skill applies to the allotropes of carbon named in CM1.1i. A flat drawi
 
 ## How the model was developed
 
-Evidence for particles built up over time (WS1.1a). In 1827 the botanist Robert Brown saw tiny particles from pollen grains jiggling randomly in water under a microscope. In 1905 Albert Einstein explained this as the particles being struck by moving water molecules, and Jean Perrin's experiments in 1908–1909 confirmed his predictions. New instruments gave new evidence, and the model gained support. The model is also used to make predictions (WS1.1b), such as which state a substance will be in at a given temperature.
+Evidence for particles built up over time (Working Scientifically 1.1a). In 1827 the botanist Robert Brown saw tiny particles from pollen grains jiggling randomly in water under a microscope. In 1905 Albert Einstein explained this as the particles being struck by moving water molecules, and Jean Perrin's experiments in 1908–1909 confirmed his predictions. New instruments gave new evidence, and the model gained support. The model is also used to make predictions (Working Scientifically 1.1b), such as which state a substance will be in at a given temperature.
 
 ## Common errors
 

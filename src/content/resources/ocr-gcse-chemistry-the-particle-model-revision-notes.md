@@ -126,7 +126,7 @@ The model also cannot explain why different substances have different properties
 
 **Worked reminder.** A cube 5 particles along each edge: 5³ = 125 in total, 5² = 25 on one face, 3³ = 27 hidden inside.
 
-## How evidence built up (WS1.1a)
+## How evidence built up (Working Scientifically 1.1a)
 
 Robert Brown described the random jiggling of tiny particles from pollen grains in water in 1827. Einstein explained it in 1905 as the particles being hit by moving water molecules, and Perrin's experiments in 1908–1909 confirmed this. A model gains support when it explains new observations.
 

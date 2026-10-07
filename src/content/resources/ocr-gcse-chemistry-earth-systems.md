@@ -70,7 +70,7 @@ Early oceans contained simple organisms. When **cyanobacteria** and later algae 
 
 At first the oxygen reacted with **dissolved iron** in seawater, so little reached the air. Iron oxides settled out as **banded iron formations**, layered rocks that are part of the evidence. Once the iron was used up, oxygen collected in the atmosphere. The first large rise, called the Great Oxidation Event, is dated to about 2.4 billion years ago.
 
-Oxygen then rose slowly to levels that could support animals. On time-scales (M2h): the oxygen build-up took **billions** of years, while the recent rise in carbon dioxide took about **two hundred** years, roughly seven orders of magnitude shorter. Ideas about this history have changed as new evidence, such as rock dating, appeared (WS1.1a).
+Oxygen then rose slowly to levels that could support animals. On time-scales (M2h): the oxygen build-up took **billions** of years, while the recent rise in carbon dioxide took about **two hundred** years, roughly seven orders of magnitude shorter. Ideas about this history have changed as new evidence, such as rock dating, appeared (Working Scientifically 1.1a).
 
 ## The greenhouse effect (C6.3c)
 
@@ -141,7 +141,7 @@ Carbon dioxide and methane are both greenhouse gases. Methane comes from cattle,
 | Cutting methane (capturing landfill gas, fixing gas leaks) | Methane has a strong warming effect per molecule | Hard to control emissions from farming |
 | Carbon taxes and emission limits | Make low-carbon choices cheaper | Political disagreement; need international agreement |
 
-Weigh **scale, risk and environmental implications** (WS1.1f, WS1.1h): one country acting alone changes little; some effects are unlikely but very serious; some fixes, such as large dams, bring problems of their own.
+Weigh **scale, risk and environmental implications** (Working Scientifically 1.1f, Working Scientifically 1.1h): one country acting alone changes little; some effects are unlikely but very serious; some fixes, such as large dams, bring problems of their own.
 
 ## Air pollutants (C6.3f)
 

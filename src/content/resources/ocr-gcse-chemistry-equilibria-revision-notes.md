@@ -125,11 +125,11 @@ A steep curve means a fast reaction. A flat curve means no overall change: equil
 
 C5.3c is about the **amount** of product. Balancing that against rate is C6.1d.
 
-### Using data (WS1.2a)
+### Using data (Working Scientifically 1.2a)
 
 If the percentage of product at equilibrium **falls** as the temperature rises, the forward reaction is **exothermic**. If it **rises**, the forward reaction is **endothermic**. Use the trend in the numbers as your evidence.
 
-### Planning a test of a prediction (WS1.2b, WS1.2c, WS2a, WS2b)
+### Planning a test of a prediction (Working Scientifically 1.2b, Working Scientifically 1.2c, Working Scientifically 2a, Working Scientifically 2b)
 
 - Choose a coloured equilibrium in solution so the shift is easy to see, for example iron(III) ions with thiocyanate ions (blood red product).
 - Use equal volumes in each test tube, measured with a measuring cylinder, and keep one tube as a control.

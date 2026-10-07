@@ -149,7 +149,7 @@ The same rules carry over to Ka (5.1.3) and any other K:
 2. Kp = 60.0 / 40.0² = **0.0375 kPa⁻¹**.
 3. n = (1 + 2) − (2 + 2) = −1, so **dm³ mol⁻¹**.
 4. **Kp = p(H₂O)¹⁰**, units **kPa¹⁰** (both solids left out).
-5. [X] = 0.0600² / 0.0450 = **0.0800 mol dm⁻³**.
+5. The equilibrium concentration is [X] = 0.0600² / 0.0450 = **0.0800 mol dm⁻³**.
 6. Concentrations 0.80, 0.20, 0.48 mol dm⁻³; Kc = 0.48² / (0.80 × 0.20) = **1.44**, no units.
 7. **Kp decreases.**
 8. **Nothing**; it only shortens the time to reach equilibrium.
