@@ -94,8 +94,8 @@ Definitions you must be able to write:
 **Dissolving a solid.** 2.12 g of LiCl (M = 42.4 g mol⁻¹) dissolves in 60.0 g of water. The temperature rises by 7.4 K.
 q = 60.0 × 4.18 × 7.4 = 1856 J = 1.856 kJ; n = 2.12 ÷ 42.4 = 0.0500 mol; ∆H = −1.856 ÷ 0.0500 = **−37.1 kJ mol⁻¹**.
 
-**Bond enthalpies.** CH₂=CH₂(g) + H₂O(g) → CH₃CH₂OH(g). Use these values (kJ mol⁻¹): C=C 612, O–H 464, C–C 347, C–H 413, C–O 358.
-Only the changing bonds are needed. Broken: C=C + one O–H = 612 + 464 = 1076. Made: C–C + one new C–H + C–O = 347 + 413 + 358 = 1118. ∆H = 1076 − 1118 = **−42 kJ mol⁻¹**.
+**Bond enthalpies.** CH₃CH=CH₂(g) + HCl(g) → CH₃CHClCH₃(g). Use these values (kJ mol⁻¹): C=C 612, H–Cl 432, C–C 347, C–H 413, C–Cl 346.
+Only the changing bonds are needed. Broken: C=C + H–Cl = 612 + 432 = 1044. Made: C–C + one new C–H + C–Cl = 347 + 413 + 346 = 1106. ∆H = 1044 − 1106 = **−62 kJ mol⁻¹**.
 
 ## 3.2.1(h): Techniques
 
@@ -107,7 +107,7 @@ Only the changing bonds are needed. Broken: C=C + one O–H = 612 + 464 = 1076. 
 
 **Temperature-time graph**: extend the best-fit cooling line backwards to the mixing time; this corrects for heat lost while the reaction finishes.
 
-**Indirect**: measure two reactions that share a common product, then combine them in a Hess cycle. Used when the target reaction is too slow, cannot be controlled, or gives no clean temperature change (hydration of an anhydrous salt; thermal decomposition of a carbonate via reaction with acid).
+**Indirect**: measure two reactions that share a common product, then combine them in a Hess cycle. Used when the target reaction is too slow, cannot be controlled, or gives no clean temperature change (hydration of an anhydrous salt; thermal decomposition of a carbonate via reaction with acid). The enthalpy change of hydration of ions (5.2.1(c)) cannot be measured directly; it comes from a cycle combining a measured enthalpy change of solution with the lattice enthalpy.
 
 **Why experimental ∆cH values are too small**: heat loss to the air, heat absorbed by the can, incomplete combustion, evaporation of fuel, and non-standard conditions.
 

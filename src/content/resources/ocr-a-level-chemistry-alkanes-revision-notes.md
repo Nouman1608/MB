@@ -178,7 +178,7 @@ Worked reminder, 2,2-dimethylbutane, CH₃C(CH₃)₂CH₂CH₃:
 2. It contains **only single carbon–carbon bonds**.
 3. **109.5°**. Each carbon has four bonding pairs, tetrahedral.
 4. Straight-chain octane has **more surface contact**, so **stronger London forces** to overcome than the compact branched isomer.
-5. **2C₁₃H₂₈ + 40O₂ → 26CO₂ + 28H₂O**. Oxygen atoms: 26 × 2 + 28 = 80.
+5. **C₁₃H₂₈ + 20O₂ → 13CO₂ + 14H₂O**. Oxygen atoms: 13 × 2 + 14 = 40, so no half to clear.
 6. Each C₁₀H₂₂ gives 11 H₂O, so 0.110 mol; 0.110 × 18.0 = **1.98 g**.
 7. **Br₂ → 2Br•**, **homolytic fission**, using UV radiation.
 8. **Propagation**: one radical in, one radical out.

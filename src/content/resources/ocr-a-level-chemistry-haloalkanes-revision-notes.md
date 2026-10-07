@@ -22,7 +22,7 @@ featured: false
 
 Use these notes in the last weeks before your exams for section 4.2.2, Haloalkanes, in OCR's H432 Chemistry A specification (Version 3.1, May 2026; first assessed in 2017). Each lettered statement, (a) through (e), appears below in short form. Two written components examine this Module 4 content: component 02 (Synthesis and analytical techniques) and component 03 (Unified chemistry), and PAG7 is linked to statement (a). H432 is a full A level, so there is no AS label.
 
-For full explanations and worked examples, read the [haloalkanes study guide](/resources/ocr-a-level-chemistry-haloalkanes/). Then try the [haloalkanes practice questions](/resources/ocr-a-level-chemistry-haloalkanes-practice/). Other units sit on the [OCR A Level chemistry hub](/boards/ocr/a-level/chemistry/); keep your place with the [H432 chemistry checklist](/checklists/ocr/a-level/chemistry/). A [10-minute diagnostic](/diagnostics/) gives a mixed check. Haloalkanes are made from alcohols in 4.2.1(e), and the bond-fission ideas come from 4.1.1; for electronegativity and polar bonds, see [these bonding notes](/resources/ocr-a-level-chemistry-bonding-and-structure-revision-notes/).
+For full explanations and worked examples, read the [haloalkanes study guide](/resources/ocr-a-level-chemistry-haloalkanes/). Then try the [haloalkanes practice questions](/resources/ocr-a-level-chemistry-haloalkanes-practice/). Other units sit on the [OCR A Level chemistry hub](/boards/ocr/a-level/chemistry/); keep your place with the [H432 chemistry checklist](/checklists/ocr/a-level/chemistry/). A [10-minute diagnostic](/diagnostics/) gives a mixed check. Haloalkanes are made from alcohols in 4.2.1(e) (see the [alcohols study guide](/resources/ocr-a-level-chemistry-alcohols/)), and the bond-fission ideas come from 4.1.1; for electronegativity and polar bonds, see [these bonding notes](/resources/ocr-a-level-chemistry-bonding-and-structure-revision-notes/).
 
 ## Key definitions
 
@@ -69,7 +69,7 @@ Method for any primary haloalkane with OH⁻:
 
 1. Draw the haloalkane and label Cδ+ and Xδ−.
 2. Draw :OH⁻ with a lone pair on O and the negative charge.
-3. Arrow 1: from that lone pair to the δ+ carbon.
+3. Arrow 1: lone pair on O to the δ+ carbon.
 4. Arrow 2: from the C–X bond to X.
 5. Products: the alcohol and :X⁻ (lone pair plus charge).
 6. Name it: nucleophilic substitution.

@@ -108,7 +108,7 @@ Identify M, giving the evidence for each ion, and write the full equation for th
 **3.** Carbonate ions would react with Ba²⁺ to form BaCO₃, which is insoluble and white, giving a false positive for sulfate [1]. Carbonate ions would also form a precipitate with Ag⁺ in the halide test [1]. So acid is added first to remove carbonate as CO₂ (and to show whether it is present) [1]. Ag₂SO₄ is insoluble, so sulfate would precipitate with Ag⁺; sulfate must be tested for and removed before the halide test [1]
 *Examiner insight:* Name the insoluble compound (BaCO₃, Ag₂SO₄) at each step; "the ions interfere" is too vague to earn much.
 
-**4.** Sulfate conclusion valid: the solution was acidified, so carbonate is ruled out and the precipitate is BaSO₄ [1]. Chloride conclusion not valid: barium chloride added Cl⁻, so AgCl would form anyway [1]. Improvement: use barium nitrate, or test a fresh acidified sample directly with silver nitrate [1]
+**4.** Sulfate conclusion valid: the solution was acidified, so carbonate is ruled out and the precipitate is BaSO₄ [1]. Chloride conclusion not valid: barium chloride added Cl⁻, so AgCl would form anyway [1]. Improvement: use barium nitrate instead of barium chloride, then filter and add silver nitrate to the filtrate [1]
 *Examiner insight:* "Evaluate" needs a separate judgement on each conclusion, with the reason tied to the Cl⁻ in the reagent.
 
 **5.** Effervescence with a gas that turns limewater milky shows CO₃²⁻ [1]. An alkaline gas (ammonia) on warming with NaOH shows NH₄⁺ [1]. M is **ammonium carbonate, (NH₄)₂CO₃** [1]

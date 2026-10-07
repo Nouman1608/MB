@@ -110,7 +110,7 @@ CuSO₄·5H₂O(s) → CuSO₄(s) + 5H₂O(g)
 ## Answers
 
 **1.** Entropy is a measure of the dispersal of energy in a system [1]; it is greater the more disordered the system is [1]
-*Examiner insight:* A bare "measure of disorder" usually earns one point at most; link the idea to how energy is spread out.
+*Examiner insight:* A bare "measure of disorder" is an incomplete answer; link the idea to how energy is spread out.
 
 **2.** NaCl(s) 72.1, C₂H₅OH(l) 160.7, CO₂(g) 213.8 [1]; ions in a solid lattice only vibrate about fixed positions, so energy is least dispersed [1]; liquid molecules move past one another, while gas molecules move randomly through the whole volume, giving the most disorder [1]
 *Examiner insight:* Describe the motion and arrangement of particles in each state; listing "solid < liquid < gas" alone does not explain the order.

@@ -26,7 +26,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions test section 4.2.2, Haloalkanes. The source is OCR's H432 document for A Level Chemistry A, specification Version 3.1 (dated May 2026), with first assessment in 2017. Between them the questions reach all five lettered statements of this Module 4 section, and question 5 and question 6 use the PAG7 rate comparison. As H432 is a full A level, no question is labelled AS. Questions 10 to 12 are longer: they bring in mole calculations and ask you to evaluate.
+These questions test section 4.2.2, Haloalkanes. The source is OCR's H432 document for A Level Chemistry A, specification Version 3.1 (dated May 2026), with first assessment in 2017. Between them the questions reach all five lettered statements of this Module 4 section, and question 5 and question 6 use the PAG7 rate comparison. As H432 is a full A level, no question is labelled AS. Questions 10 to 12 are longer: they bring in mole calculations and extended explanations.
 
 Revise first with the [haloalkanes study guide](/resources/ocr-a-level-chemistry-haloalkanes/) and the [haloalkanes revision notes](/resources/ocr-a-level-chemistry-haloalkanes-revision-notes/). The [OCR A Level chemistry hub](/boards/ocr/a-level/chemistry/) has the other units, and the [H432 chemistry checklist](/checklists/ocr/a-level/chemistry/) lets you log what you have secured. For a broader test, take a [10-minute diagnostic](/diagnostics/).
 

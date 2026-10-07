@@ -180,7 +180,7 @@ Route: anhydrous solid → solution (−25.0), then solution → hydrated solid 
 
 **Temperature-time graphs (M3.1, M3.2).** Cooling starts before the reaction finishes, so the highest reading is too low. Plot temperature (y) against time (x), fit a straight line to the falling readings and extend it backwards to the moment of mixing. For example, a solution at 21.4 °C is mixed at 3 minutes. Readings at 4, 5, 6 and 7 minutes are 30.8, 30.5, 30.2 and 29.9 °C, a steady fall of 0.3 K per minute. Extrapolating back gives 31.1 °C at 3 minutes, so ∆T = 9.7 K, not 9.4 K.
 
-**Indirect methods** combine two measurable reactions in a Hess cycle, for example worked example 9, or a thermal decomposition found from two reactions with excess acid.
+**Indirect methods** combine two measurable reactions in a Hess cycle, for example worked example 9, or a thermal decomposition found from two reactions with excess acid. An enthalpy change of hydration (5.2.1(c)) is also found indirectly, from a measured enthalpy change of solution and the [lattice enthalpy](/resources/ocr-a-level-chemistry-lattice-enthalpy/).
 
 **Main errors**: heat loss, ignoring the container's heat capacity, incomplete combustion (soot) and fuel evaporating from the wick.
 

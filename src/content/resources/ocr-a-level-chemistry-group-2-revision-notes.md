@@ -90,6 +90,8 @@ Standard values, kJ mol⁻¹:
 
 All five links are needed for a full explanation. "Easier to lose electrons" on its own is only the last step.
 
+First ionisation energy and its trends are revised in the [Periodicity revision notes](/resources/ocr-a-level-chemistry-periodicity-revision-notes/).
+
 The M3.1 label on this outcome means you should move freely between a table, a graph and a sentence about the trend.
 
 **Reading the data.** From Mg to Ca the sum of the first two ionisation energies drops by 454 kJ mol⁻¹. From Sr to Ba it drops by 146 kJ mol⁻¹. The fall continues all the way down, so each metal reacts more readily than the one above it. On a graph of ionisation energy against element, both lines slope downwards from left to right, with the second ionisation energy line above the first for every element: removing an electron from a positive ion always needs more energy than removing one from a neutral atom of the same element.

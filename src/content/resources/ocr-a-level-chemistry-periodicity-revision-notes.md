@@ -77,9 +77,9 @@ Test yourself afterwards with the [Periodicity practice questions](/resources/oc
 
 ### Worked reminder
 
-Aluminium (kJ mol⁻¹): 578, 1817, 2745, 11577, 14842. Ratios: 3.14, 1.51, 4.22, 1.28. The largest jump comes after the 3rd value, so three outer electrons: Group 13. The ratio 3.14 between the 1st and 2nd values is smaller and reflects the change from the 3p electron to the 3s pair in the same shell, not a new shell.
+Argon (kJ mol⁻¹): 1521, 2666, 3931, 5771, 7238, 8781, 11995, 13842, 40760. Ratios: 1.75, 1.47, 1.47, 1.25, 1.21, 1.37, 1.15, 2.94. The largest jump comes after the 8th value, so eight outer electrons: Group 18. The ratio 1.37 between the 6th and 7th values is small and reflects the change from the 3p electrons to the 3s pair in the same shell, not a new shell.
 
-**HSW link.** Jumps between groups of ionisation energies were evidence for shells, supporting the Bohr model.
+**HSW link.** Jumps between groups of ionisation energies were evidence for shells, supporting the Bohr model. The same first and second ionisation energies explain reactivity in [Group 2](/resources/ocr-a-level-chemistry-group-2/).
 
 ## 3.1.1(d) to (f): Giant lattices
 

@@ -68,7 +68,7 @@ Wherever a calculation needs them, take Aᵣ as H 1.0, C 12.0 and O 16.0.
 **(c)** Explain why this test cannot tell butanone apart from 2-methylpropan-2-ol. **[1]**
 **(d)** Write an equation, using [O], for the reaction of butan-2-ol. **[1]**
 
-**7.** 4-methylpentan-2-ol, CH₃CH(OH)CH₂CH(CH₃)₂, is converted into alkenes.
+**7.** 5-methylhexan-2-ol, CH₃CH(OH)CH₂CH₂CH(CH₃)₂, is converted into alkenes.
 
 **(a)** State the reagent and the condition needed. **[2]**
 **(b)** State the type of reaction. **[1]**
@@ -81,7 +81,7 @@ Wherever a calculation needs them, take Aᵣ as H 1.0, C 12.0 and O 16.0.
 **(b)** Write two equations: one for forming the hydrogen halide and one for the reaction with propan-2-ol. **[2]**
 **(c)** Explain why this is a substitution reaction. **[1]**
 
-**9.** A student oxidises 4.64 g of heptan-1-ol, C₇H₁₅OH, with excess acidified potassium dichromate and collects 3.38 g of heptanoic acid, C₆H₁₃COOH.
+**9.** A student oxidises 5.22 g of heptan-1-ol, C₇H₁₅OH, with excess acidified potassium dichromate and collects 4.10 g of heptanoic acid, C₆H₁₃COOH.
 
 **(a)** State the colour change and give the reason for using reflux. **[2]**
 **(b)** Write an equation, using [O], for the reaction. **[1]**
@@ -114,7 +114,7 @@ Wherever a calculation needs them, take Aᵣ as H 1.0, C 12.0 and O 16.0.
 *Examiner insight:* In (c), drawing out the condensed formula shows the C–OH carbon has no hydrogen and three carbon neighbours.
 
 **2. (a)** Both have similar numbers of electrons, so similar London forces [1]. Propan-1-ol also has hydrogen bonds between –OH groups of neighbouring molecules [1]. Hydrogen bonds are the stronger force, so separating the molecules takes more energy, giving the **higher boiling point** [1]
-**(b)** Propan-1-ol's –OH forms hydrogen bonds with water molecules [1]. Heptan-1-ol has a much longer non-polar chain that cannot hydrogen-bond, so it disrupts the hydrogen bonding in water and **solubility is low** [1]
+**(b)** Propan-1-ol's –OH forms hydrogen bonds with water molecules [1]. Heptan-1-ol has a longer non-polar chain that cannot hydrogen-bond, so it disrupts the hydrogen bonding in water and **solubility is low** [1]
 *Examiner insight:* "Alcohols have hydrogen bonds" earns little alone; place the hydrogen bonds between molecules and compare their strength with London forces.
 
 **3. (a)** **C₄H₉OH + 6O₂ → 4CO₂ + 5H₂O** [1]
@@ -138,8 +138,8 @@ Wherever a calculation needs them, take Aᵣ as H 1.0, C 12.0 and O 16.0.
 
 **7. (a)** Concentrated phosphoric acid (or concentrated sulfuric acid) as catalyst [1]; heat [1]
 **(b)** **Elimination** (dehydration) [1]
-**(c)** **4-methylpent-1-ene** [1] and **4-methylpent-2-ene** [1]
-**(d)** **4-methylpent-2-ene** [1]. Both C=C carbons carry two different groups (C2: H and CH₃; C3: H and CH(CH₃)₂), and rotation about the C=C is restricted [1]
+**(c)** **5-methylhex-1-ene** [1] and **5-methylhex-2-ene** [1]
+**(d)** **5-methylhex-2-ene** [1]. Both C=C carbons carry two different groups (C2: H and CH₃; C3: H and CH₂CH(CH₃)₂), and rotation about the C=C is restricted [1]
 *Examiner insight:* In (c), listing the E and Z forms as two structural isomers confuses structural isomerism with stereoisomerism.
 
 **8. (a)** Sodium bromide [1] and sulfuric acid, heated [1]
@@ -149,8 +149,8 @@ Wherever a calculation needs them, take Aᵣ as H 1.0, C 12.0 and O 16.0.
 
 **9. (a)** Orange to green [1]. The condenser sends the volatile aldehyde intermediate back into the flask, and there it is oxidised to the acid [1]
 **(b)** **CH₃(CH₂)₅CH₂OH + 2[O] → CH₃(CH₂)₅COOH + H₂O** [1]
-**(c)** n(heptan-1-ol) = 4.64 ÷ 116.0 = 0.0400 mol [1]; theoretical mass of acid = 0.0400 × 130.0 = 5.20 g [1]; yield = 3.38 ÷ 5.20 × 100 = **65.0%** [1]
-*Examiner insight:* Dividing 3.38 g by 4.64 g compares two different substances and gives a meaningless 72.8%; find the theoretical mass first.
+**(c)** n(heptan-1-ol) = 5.22 ÷ 116.0 = 0.0450 mol [1]; theoretical mass of acid = 0.0450 × 130.0 = 5.85 g [1]; yield = 4.10 ÷ 5.85 × 100 = **70.1%** [1]
+*Examiner insight:* Dividing 4.10 g by 5.22 g compares two different substances and gives a meaningless 78.5%; find the theoretical mass first.
 
 **10. (a)** Mᵣ of CₙH₂ₙ₊₁OH = 12n + 2n + 1 + 16 + 1 = 14n + 18 [1]; 14n + 18 = 88.0, so n = 5 and P is **C₅H₁₁OH** [1]
 **(b)** Not oxidised, so P is tertiary [1]. The C–OH carbon carries three groups made from four carbons: CH₃, CH₃ and C₂H₅ [1]. P is **2-methylbutan-2-ol, CH₃CH₂C(CH₃)₂OH** [1]

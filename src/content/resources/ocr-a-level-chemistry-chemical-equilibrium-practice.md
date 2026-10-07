@@ -94,7 +94,7 @@ C₂H₄(g) + H₂O(g) ⇌ C₂H₅OH(g)
 CH₃CH₂CH₂CH₃(g) ⇌ (CH₃)₃CH(g)
 
 **(a)** Butane is sealed in a flask with a catalyst. Explain why the concentrations of both gases eventually stop changing although both reactions continue. **[2]**
-**(b)** At equilibrium, [butane] = 0.0400 mol dm⁻³ and [methylpropane] = 0.100 mol dm⁻³. Write the Kc expression and calculate Kc. **[2]**
+**(b)** At equilibrium, [butane] = 0.0500 mol dm⁻³ and [methylpropane] = 0.0900 mol dm⁻³. Write the Kc expression and calculate Kc. **[2]**
 **(c)** Use your value of Kc to state which isomer is present in the larger amount at equilibrium. **[1]**
 **(d)** A second flask with no catalyst is set up at the same temperature with the same starting amount of butane. Compare the second flask with the first in terms of the time taken to reach equilibrium, the equilibrium composition and the value of Kc. **[3]**
 **(e)** The flask is compressed to a smaller volume at constant temperature. State and explain what happens to the position of equilibrium. **[1]**
@@ -123,7 +123,7 @@ CH₃CH₂CH₂CH₃(g) ⇌ (CH₃)₃CH(g)
 *Examiner insight:* Every power must match the balancing number; [HCl] written without the power 4 makes the expression wrong and loses the mark.
 
 **7.** Kc = [NO]²[Br₂] / [NOBr]² = (0.0180² × 0.00900) / 0.0640² [1] = 2.916 × 10⁻⁶ / 4.096 × 10⁻³ = **7.12 × 10⁻⁴** [1]. **[2]**
-*Examiner insight:* Show the substituted expression first; a correct substitution can still earn credit if the arithmetic slips.
+*Examiner insight:* Show the substituted expression first, so your method is visible to the examiner even if the arithmetic slips.
 
 **8.** [Cl₂]² = Kc × [HCl]⁴[O₂] / [H₂O]² [1]
 = 0.400 × 0.200⁴ × 0.100 / 0.0500² = 0.400 × 1.60 × 10⁻⁴ / 2.50 × 10⁻³ = 0.0256 [1]
@@ -141,7 +141,7 @@ CH₃CH₂CH₂CH₃(g) ⇌ (CH₃)₃CH(g)
 *Examiner insight:* In compromise answers, the yield argument and the rate (or cost and safety) argument are separate marking points, so state both explicitly rather than writing "it is a compromise" alone.
 
 **11. (a)** The forward rate falls as butane is used up and the reverse rate rises as methylpropane forms, until the two rates are equal [1]. Each isomer then forms as fast as it is used up, so concentrations stay constant [1].
-**(b)** Kc = [methylpropane] / [butane] = 0.100 / 0.0400 [1] = **2.50** [1]
+**(b)** Kc = [methylpropane] / [butane] = 0.0900 / 0.0500 [1] = **1.80** [1]
 **(c)** Kc is greater than 1, so **methylpropane** is present in the larger amount [1].
 **(d)** The flask without a catalyst takes longer to reach equilibrium [1]. The equilibrium composition is the same in both flasks [1]. Kc is the same, because the temperature is the same [1].
 **(e)** It does not move: with 1 gas mole on each side, neither direction lowers the pressure [1].

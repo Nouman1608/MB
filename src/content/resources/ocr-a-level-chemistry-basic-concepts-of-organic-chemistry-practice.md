@@ -109,7 +109,7 @@ Relative atomic masses for the calculations: C = 12.0, H = 1.0, O = 16.0, Cl = 3
 **1. (a)** Six-carbon chain, two methyls on C3: **3,3-dimethylhexane** [1]
 **(b)** Four-carbon chain containing C–OH, numbered from the OH end: **3-chloro-2-methylbutan-1-ol** [1]
 **(c)** Number from the end nearest the C=C: **2-methylpent-2-ene** [1]
-*Examiner insight:* In (b), numbering from the CH₃ end gives the substituents lower numbers but puts the OH on C4; the suffix group takes priority, so "2-chloro-3-methylbutan-4-ol" is unlikely to gain credit.
+*Examiner insight:* In (b), numbering from the CH₃ end gives the substituents the same locants, {2, 3}, but puts the OH on C4; the suffix group takes priority, so "2-chloro-3-methylbutan-4-ol" is unlikely to gain credit.
 
 **2. (a)** **CH₃CH(CH₃)CH₂CH(C₂H₅)CH₂CH₂CH₃** [1]
 **(b)** **CH₂=CHCH(OH)CH₃** [1]

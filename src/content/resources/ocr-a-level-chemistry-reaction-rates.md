@@ -106,7 +106,7 @@ A catalyst increases the rate without being used up by the overall reaction. It 
 
 Details of processes are not required.
 
-### Worked example 5: reading an enthalpy profile
+### Worked example 4: reading an enthalpy profile
 
 An exothermic reaction has ΔH = −60 kJ mol⁻¹. The uncatalysed Ea is 180 kJ mol⁻¹ and the catalysed Ea is 105 kJ mol⁻¹.
 
@@ -126,7 +126,7 @@ To sketch it, label the axes enthalpy and progress of reaction, put products bel
 
 **Weighing it up (HSW9,10).** Some catalysts are toxic, so they must be contained, recovered and disposed of with care. Weigh the energy and CO₂ savings against these hazards.
 
-### Worked example 6: CO₂ saved by a catalyst
+### Worked example 5: CO₂ saved by a catalyst
 
 Switching to a new catalyst lets a plant run cooler, saving 4.45 × 10⁹ kJ of heat per day. That heat came from burning methane. Take ΔcH of methane as −890 kJ mol⁻¹. CH₄ + 2O₂ → CO₂ + 2H₂O.
 
@@ -136,14 +136,14 @@ Switching to a new catalyst lets a plant run cooler, saving 4.45 × 10⁹ kJ of 
 
 ## 3.2.2(e): Techniques for following a rate (PAG9)
 
-PAG9 is a continuous monitoring method, including measurement of time and use of software to process data. Its example activity, finding a half-life, links to 5.1.1.
+PAG9 is a continuous monitoring method, including measurement of time and use of software to process data. Its example activity, finding a half-life, links to 5.1.1 (see [How fast?](/resources/ocr-a-level-chemistry-how-fast/)).
 
 | Method | How it works | Points to watch |
 |---|---|---|
 | Mass loss | Flask on a balance; escaping gas lowers the mass | Cotton wool plug stops spray loss; suits CO₂, but hydrogen is too light |
 | Gas syringe | Read the volume at set times | Plunger must move freely; replace the bung quickly |
 | Over water | Gas displaces water from an inverted burette or cylinder | Unsuitable for gases that dissolve readily |
-| Timing | Time a fixed change, such as a cross being hidden | 1/time measures the mean rate |
+| Timing | Time a fixed change, such as a cross being hidden | 1/time is proportional to the mean rate |
 
 Change one variable and control the rest: temperature (water bath), volumes, concentrations, and the mass and surface area of any solid. Start the clock as the reactants meet. Data loggers and spreadsheets can record and plot readings.
 
@@ -174,7 +174,7 @@ So a greater proportion of molecules have energy of at least Ea, more collisions
 
 A catalyst leaves the curve unchanged, because the temperature is the same. It moves Ea to a lower value. More of the area now lies beyond the catalysed Ea, so a greater proportion of molecules can react on collision and the rate increases.
 
-### Worked example 7: building a full explanation
+### Worked example 6: building a full explanation
 
 Explain, using a Boltzmann distribution, why warming a gas mixture from 300 K to 320 K increases the rate.
 

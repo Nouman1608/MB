@@ -112,13 +112,13 @@ The specification gives k = ln 2/t½ (ln 2 = 0.693). You do not need to derive i
 
 | t / s | 0 | 420 | 840 | 1260 | 1680 | 2520 |
 |---|---|---|---|---|---|---|
-| [C₃H₆] / mol dm⁻³ | 0.0400 | 0.0283 | 0.0200 | 0.0141 | 0.0100 | 0.0050 |
+| [C₃H₆] / mol dm⁻³ | 0.0480 | 0.0339 | 0.0240 | 0.0170 | 0.0120 | 0.0060 |
 
-1. 0.0400 → 0.0200 takes 840 s. 0.0200 → 0.0100 takes 1680 − 840 = 840 s. 0.0100 → 0.0050 takes 840 s.
+1. 0.0480 → 0.0240 takes 840 s. 0.0240 → 0.0120 takes 1680 − 840 = 840 s. 0.0120 → 0.0060 takes 840 s.
 2. The half-life is constant at 840 s, so the reaction is **first order**.
 3. k = ln 2 ÷ 840 = **8.25 × 10⁻⁴ s⁻¹**.
 
-Check with a tangent at 840 s through (240 s, 0.0299) and (1440 s, 0.0101): rate = 0.0198 ÷ 1200 = 1.65 × 10⁻⁵ mol dm⁻³ s⁻¹, and k = 1.65 × 10⁻⁵ ÷ 0.0200 = 8.25 × 10⁻⁴ s⁻¹. The methods agree.
+Check with a tangent at 840 s through (240 s, 0.0359) and (1440 s, 0.0121): rate = 0.0238 ÷ 1200 = 1.98 × 10⁻⁵ mol dm⁻³ s⁻¹, and k = 1.98 × 10⁻⁵ ÷ 0.0240 = 8.25 × 10⁻⁴ s⁻¹. The methods agree.
 
 ## Rate–concentration graphs (g)
 

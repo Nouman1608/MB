@@ -94,11 +94,11 @@ Calculate ∆S for MgCO₃(s) → MgO(s) + CO₂(g). Use these values (J mol⁻�
 
 ### Worked example 3: using balancing numbers
 
-Aluminium powder burns in oxygen: 4Al(s) + 3O₂(g) → 2Al₂O₃(s). Calculate ∆S. Use these values (J mol⁻¹ K⁻¹): Al(s) 28.3, O₂(g) 205.2, Al₂O₃(s) 50.9.
+Iron is oxidised to iron(III) oxide: 4Fe(s) + 3O₂(g) → 2Fe₂O₃(s). Calculate ∆S. Use these values (J mol⁻¹ K⁻¹): Fe(s) 27.3, O₂(g) 205.2, Fe₂O₃(s) 87.4.
 
-1. ΣS(products) = 2(50.9) = 101.8
-2. ΣS(reactants) = 4(28.3) + 3(205.2) = 113.2 + 615.6 = 728.8
-3. ∆S = 101.8 − 728.8 = **−627.0 J mol⁻¹ K⁻¹**
+1. ΣS(products) = 2(87.4) = 174.8
+2. ΣS(reactants) = 4(27.3) + 3(205.2) = 109.2 + 615.6 = 724.8
+3. ∆S = 174.8 − 724.8 = **−550.0 J mol⁻¹ K⁻¹**
 
 All 3 mol of gas are used up and only solids form, so a large negative value makes sense.
 

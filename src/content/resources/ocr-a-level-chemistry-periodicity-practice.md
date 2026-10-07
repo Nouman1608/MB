@@ -50,9 +50,9 @@ All data needed is given; use it rather than values you remember.
 **(a)** Define the term first ionisation energy. **[2]**
 **(b)** Write an equation, with state symbols, for the third ionisation energy of phosphorus. **[1]**
 
-**4.** The first ionisation energies of three Group 1 elements are: lithium 520, sodium 496 and potassium 419 kJ mol⁻¹. Describe and explain the trend shown. **[3]**
+**4.** The first ionisation energies of three Group 16 elements are: oxygen 1314, sulfur 1000 and selenium 941 kJ mol⁻¹. Describe and explain the trend shown. **[3]**
 
-**5.** Use these first ionisation energies (kJ mol⁻¹): Mg 738, Al 578, P 1012, S 1000.
+**5.** Magnesium has a higher first ionisation energy than aluminium, and phosphorus has a higher first ionisation energy than sulfur.
 
 **(a)** A student says: "Aluminium has one more proton than magnesium, so its first ionisation energy must be higher." Evaluate this statement. **[3]**
 **(b)** Account for the fall in first ionisation energy from phosphorus to sulfur. **[2]**
@@ -69,11 +69,11 @@ All data needed is given; use it rather than values you remember.
 **(b)** Explain the large rise between the 2nd and 3rd electrons removed. **[2]**
 **(c)** Suggest how graphs like this supported the Bohr model of the atom. **[1]**
 
-**8.** Potassium melts at 64 °C and calcium at 842 °C.
+**8.** Rubidium melts at 39 °C and strontium at 777 °C.
 
-**(a)** Describe the bonding and structure in calcium. **[2]**
-**(b)** Explain why calcium has the higher melting point. **[3]**
-**(c)** Explain why solid calcium conducts electricity. **[1]**
+**(a)** Describe the bonding and structure in strontium. **[2]**
+**(b)** Explain why strontium has the higher melting point. **[3]**
+**(c)** Explain why solid strontium conducts electricity. **[1]**
 
 **9.** Diamond, graphite and graphene are all forms of carbon.
 
@@ -116,7 +116,7 @@ Describe and explain the variation in melting point across Period 3 in terms of 
 **4.** First ionisation energy **decreases** down the group [1]. Each element has an extra shell, so its outer electron sits further out [1] and more inner electrons shield it; these effects outweigh the extra protons, so less energy is required [1]
 *Examiner insight:* Mention nuclear charge and explain why it is outweighed; an answer that only lists radius and shielding leaves the extra protons unaccounted for.
 
-**5. (a)** The statement is wrong: magnesium's value (738) is higher than aluminium's (578) [1]. Aluminium's electron is removed from the 3p sub-shell, which is higher in energy than magnesium's 3s [1], so less energy is needed even though aluminium has an extra proton [1]
+**5. (a)** The statement is wrong: magnesium's first ionisation energy is higher than aluminium's [1]. Aluminium's electron is removed from the 3p sub-shell, which is higher in energy than magnesium's 3s [1], so less energy is needed even though aluminium has an extra proton [1]
 **(b)** Sulfur's electron is removed from a 3p orbital that holds a pair of electrons [1]; repulsion between the paired electrons makes it easier to remove [1]
 *Examiner insight:* With "evaluate", say plainly whether the claim is right before giving reasons; also keep the two reasons separate, as sub-shell energy explains (a) and pair repulsion explains (b).
 
@@ -130,8 +130,8 @@ Describe and explain the variation in melting point across Period 3 in terms of 
 **(c)** The jumps show electrons are arranged in separate shells (energy levels), as the Bohr model proposed [1]
 *Examiner insight:* In (b), say which shell the electron comes from; "it is harder to remove" only restates the data.
 
-**8. (a)** Giant metallic lattice of Ca²⁺ cations [1] held by strong electrostatic attraction to delocalised electrons [1]
-**(b)** Calcium forms 2+ ions and potassium 1+ ions; Ca²⁺ is also smaller [1]. Calcium gives two delocalised electrons per atom, potassium one [1]. So the attraction between cations and delocalised electrons is stronger in calcium and needs more energy to overcome [1]
+**8. (a)** Giant metallic lattice of Sr²⁺ cations [1] held by strong electrostatic attraction to delocalised electrons [1]
+**(b)** Strontium forms 2+ ions and rubidium 1+ ions; Sr²⁺ is also smaller [1]. Strontium gives two delocalised electrons per atom, rubidium one [1]. So the attraction between cations and delocalised electrons is stronger in strontium and needs more energy to overcome [1]
 **(c)** Delocalised electrons can move through the lattice and carry charge [1]
 *Examiner insight:* Use "cations" and "delocalised electrons" in every metallic bonding answer; "atoms" or "nuclei" in place of cations does not describe the bonding.
 

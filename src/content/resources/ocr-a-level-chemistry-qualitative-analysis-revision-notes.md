@@ -24,7 +24,7 @@ These revision notes condense section 3.1.4, Qualitative analysis, of the OCR A 
 
 Test yourself afterwards with the [Qualitative analysis practice questions](/resources/ocr-a-level-chemistry-qualitative-analysis-practice/). Other H432 sections are reached from the [OCR chemistry hub](/boards/ocr/a-level/chemistry/). Use the [printable checklist](/checklists/ocr/a-level/chemistry/) to record what you have revised, and the [free diagnostics](/diagnostics/) for a quick course-wide check.
 
-## The five ions in one table
+## The six ions in one table
 
 | Ion | Reagent and conditions | Positive observation | Ionic equation |
 |---|---|---|---|
@@ -108,7 +108,7 @@ Conclusion: Z contains sulfate and chloride ions, with no carbonate or ammonium 
 
 ## Where this section fits
 
-The assessment overview places Module 3 in component 01, Periodic table, elements and physical chemistry, and in component 03, Unified chemistry. The halide test is also listed in 3.1.3(g), and the carbonate reaction links to 2.1.4(c). Section 5.3.2 returns to these tests and adds transition metal cations.
+The assessment overview places Module 3 in component 01, Periodic table, elements and physical chemistry, and in component 03, Unified chemistry. The halide test is also listed in 3.1.3(g), and the carbonate reaction links to 2.1.4(c). Section 5.3.2 returns to these tests and adds transition metal cations: see the [5.3.2 Qualitative analysis study guide](/resources/ocr-a-level-chemistry-5-3-2-qualitative-analysis/).
 
 ## Must-know distinctions
 

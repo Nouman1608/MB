@@ -22,7 +22,7 @@ featured: false
 
 Section 5.2.1, Lattice enthalpy, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, is taught from scratch on this page. The section is part of Module 5, Physical chemistry and transition elements, and each of its outcomes, 5.2.1(a) to (e), has its own heading below. Because H432 is the whole A level, no content here carries an AS or A2 label. According to the specification's assessment overview, Module 5 is examined in the Periodic table, elements and physical chemistry component (01), and Unified chemistry (03) draws on every module.
 
-Find the other H432 units through the [OCR chemistry hub](/boards/ocr/a-level/chemistry/), record what you have covered on the [printable checklist](/checklists/ocr/a-level/chemistry/), and spot gaps elsewhere in the course with the [free diagnostics](/diagnostics/).
+Find other H432 units on the [OCR chemistry hub](/boards/ocr/a-level/chemistry/), record what you have covered on the [printable checklist](/checklists/ocr/a-level/chemistry/), and spot gaps elsewhere in the course with the [free diagnostics](/diagnostics/).
 
 ## Outcomes in 5.2.1
 
@@ -40,9 +40,9 @@ No PAG is listed against 5.2.1 itself. The guidance for 3.2.1(h), on techniques 
 
 **Lattice enthalpy, ΔLEH**, is the enthalpy change for the formation of 1 mol of an ionic lattice from its gaseous ions, under standard conditions.
 
-For sodium bromide:
+For lithium bromide:
 
-Na⁺(g) + Br⁻(g) → NaBr(s)      ΔLEH = −751 kJ mol⁻¹
+Li⁺(g) + Br⁻(g) → LiBr(s)      ΔLEH = −817 kJ mol⁻¹
 
 Three details matter:
 
@@ -91,35 +91,36 @@ Draw energy levels with endothermic steps going **up** and exothermic steps goin
 5. You now have gaseous ions at the top level. The lattice enthalpy arrow goes down to the solid.
 6. The formation arrow goes from the elements to the solid.
 
-Every species on every level needs a state symbol, and electrons appear on the levels between ionisation and electron affinity.
+Every species needs a state symbol, and free electrons appear on the levels between ionisation and electron affinity.
 
-### Worked example 1: lattice enthalpy of sodium bromide
+### Worked example 1: lattice enthalpy of lithium bromide
 
-Use these values (kJ mol⁻¹): ΔfH(NaBr) = −361; ΔatH(Na) = +107; first ionisation energy of Na = +496; ΔatH(Br) = +112; first electron affinity of Br = −325.
+Use these values (kJ mol⁻¹): ΔfH(LiBr) = −351; ΔatH(Li) = +159; first ionisation energy of Li = +520; ΔatH(Br) = +112; first electron affinity of Br = −325.
 
-The cycle, from the top level down:
-
-```
-Na⁺(g) + e⁻ + Br(g)
-   ↑ first IE of Na, +496        ↓ first EA of Br, −325
-Na(g) + Br(g)                   Na⁺(g) + Br⁻(g)
-   ↑ ΔatH(Br), +112                ↓ ΔLEH(NaBr) = ?
-Na(g) + ½Br₂(l)                     ↓
-   ↑ ΔatH(Na), +107                 ↓
-Na(s) + ½Br₂(l)   (zero)            ↓
-   ↓ ΔfH(NaBr), −361                ↓
-NaBr(s) ←───────────────────────────┘
-```
-
-Hess' law: ΔfH = ΔatH(Na) + ΔatH(Br) + IE + EA + ΔLEH
+The cycle, with level enthalpies relative to the elements:
 
 ```
-−361 = 107 + 112 + 496 + (−325) + ΔLEH
-−361 = 390 + ΔLEH
-ΔLEH = −361 − 390 = −751 kJ mol⁻¹
+Li⁺(g) + e⁻ + Br(g)    (+791)
+   ↑ first IE of Li, +520     ↓ first EA of Br, −325
+   │                        Li⁺(g) + Br⁻(g)    (+466)
+Li(g) + Br(g)          (+271)    │
+   ↑ ΔatH(Br), +112              │
+Li(g) + ½Br₂(l)        (+159)    │ ΔLEH(LiBr) = ?
+   ↑ ΔatH(Li), +159              │
+Li(s) + ½Br₂(l)        (zero)    │
+   ↓ ΔfH(LiBr), −351             ↓
+LiBr(s)                (−351) ←──┘
 ```
 
-The answer is negative, as it must be.
+Hess' law: ΔfH = ΔatH(Li) + ΔatH(Br) + IE + EA + ΔLEH
+
+```
+−351 = 159 + 112 + 520 + (−325) + ΔLEH
+−351 = 466 + ΔLEH
+ΔLEH = −351 − 466 = −817 kJ mol⁻¹
+```
+
+The answer is negative, as expected.
 
 ### Worked example 2: a compound with a 2+ ion
 
@@ -144,7 +145,7 @@ Step 2: apply Hess' law.
 ΔLEH = −2435 kJ mol⁻¹
 ```
 
-The same cycle can be rearranged to find any one missing term, such as an electron affinity.
+Rearrange the same cycle to find any one missing term, such as an electron affinity.
 
 ## 5.2.1(c): Enthalpy changes of solution and hydration
 
@@ -211,8 +212,8 @@ Both lattice enthalpy and hydration enthalpy depend on the attraction between ch
 
 Applying this to the compounds above:
 
-- MgBr₂ (−2435) is far more exothermic than NaBr (−751). Mg²⁺ has a larger charge than Na⁺, and it is also smaller.
-- Take ΔfH(KBr) = −394, ΔatH(K) = +89 and first ionisation energy of K = +419, with the bromine values from worked example 1. The same cycle gives ΔLEH(KBr) = −689 kJ mol⁻¹, less exothermic than NaBr. Both cations are 1+, but K⁺ is bigger, so its centre sits further from each Br⁻ ion.
+- MgBr₂ (−2435) is far more exothermic than LiBr (−817). Mg²⁺ and Li⁺ are similar in size, so the larger charge on Mg²⁺ is the main factor.
+- Take ΔfH(KBr) = −394, ΔatH(K) = +89 and first ionisation energy of K = +419, with the bromine values from worked example 1. The same cycle gives ΔLEH(KBr) = −689 kJ mol⁻¹, less exothermic than LiBr. Both cations are 1+, but K⁺ is bigger, so its centre sits further from each Br⁻ ion.
 - Mg²⁺ (−1948) has a far more exothermic hydration enthalpy than Rb⁺ (−301). Mg²⁺ carries twice the charge and is much smaller, so it pulls the δ− oxygen of water in more strongly.
 
 In an explanation, name the ions, say which factor differs (charge, radius or both), and link it to attraction and energy released.

@@ -65,7 +65,7 @@ Count the hydrogens on the C–OH carbon as a check:
 |---|---|---|
 | Primary | 2 (3 in methanol) | heptan-1-ol, CH₃(CH₂)₆OH |
 | Secondary | 1 | 2-methylpentan-3-ol |
-| Tertiary | 0 | 2-methylhexan-2-ol |
+| Tertiary | 0 | 2-methylheptan-2-ol |
 
 ## 4.2.1(b): Combustion
 
@@ -123,7 +123,7 @@ Check: count H atoms. Alcohol 10 H; aldehyde 8 H + water 2 H. Balanced.
 3. Make a C=C to each different neighbour in turn; each gives a product.
 4. Check each product for E/Z isomerism (4.1.3).
 
-Example: 2-methylhexan-2-ol, (CH₃)₂C(OH)CH₂CH₂CH₂CH₃, gives 2-methylhex-1-ene and 2-methylhex-2-ene. The second has two CH₃ groups on one C=C carbon, so it has no E/Z isomers.
+Example: 2-methylheptan-2-ol, (CH₃)₂C(OH)CH₂CH₂CH₂CH₂CH₃, gives 2-methylhept-1-ene and 2-methylhept-2-ene. The second has two CH₃ groups on one C=C carbon, so it has no E/Z isomers.
 
 ## 4.2.1(e): Substitution to haloalkanes
 

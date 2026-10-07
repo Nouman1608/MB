@@ -34,7 +34,7 @@ Exam-style questions with marked answers are in the [Analytical techniques pract
 
 ## 4.2.4(b): Greenhouse gases
 
-| Gas | Bond that absorbs IR | Main human sources |
+| Gas | Bond that absorbs IR | Main sources |
 |---|---|---|
 | CO₂ | C=O | burning fossil fuels |
 | H₂O (vapour) | O–H | evaporation; levels rise as the air warms |

@@ -183,7 +183,7 @@ Compound Z contains carbon, hydrogen and oxygen only: 69.8% C, 11.6% H and 18.6%
 
 | Element | Moles in 100 g | ÷ 1.16 |
 |---|---|---|
-| C | 69.8 ÷ 12.0 = 5.82 | 5.01 |
+| C | 69.8 ÷ 12.0 = 5.82 | 5.02 |
 | H | 11.6 ÷ 1.0 = 11.6 | 10.0 |
 | O | 18.6 ÷ 16.0 = 1.16 | 1.00 |
 
@@ -195,7 +195,7 @@ Empirical formula C₅H₁₀O, mass 86.0.
 
 **Fragments.** m/z 43 fits CH₃CO⁺ and m/z 71 fits loss of CH₃, so Z is best explained as a methyl ketone, CH₃CO–C₃H₇. An aldehyde would usually show CHO⁺ at 29, which is absent. Pentan-3-one has no CH₃ on the carbonyl carbon, so it cannot give CH₃CO⁺.
 
-**Conclusion.** Z is **pentan-2-one or 3-methylbutan-2-one**; both fit all the data given. Telling them apart needs NMR spectroscopy, which you meet in 6.3.2 Spectroscopy. Saying that two isomers fit is the honest answer.
+**Conclusion.** Z is **pentan-2-one or 3-methylbutan-2-one**; both fit all the data given. Telling them apart needs NMR spectroscopy, which you meet in [6.3.2 Spectroscopy](/resources/ocr-a-level-chemistry-spectroscopy/). Saying that two isomers fit is the honest answer.
 
 ## Common errors
 

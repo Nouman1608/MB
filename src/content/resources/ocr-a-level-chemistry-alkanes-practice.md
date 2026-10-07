@@ -26,7 +26,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-Alkanes, section 4.1.2 of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, is the focus of this set. Every outcome of this Module 4 (Core organic chemistry) section, 4.1.2(a) to (g), is tested. Module 4 appears in two of the examined components, Unified chemistry (03) and Synthesis and analytical techniques (02). H432 is the full A level. The last two questions are longer, mixed-outcome problems.
+Alkanes, section 4.1.2 of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, is the focus of this set. Every outcome of this Module 4 (Core organic chemistry) section, 4.1.2(a) to (g), is tested. Module 4 appears in two of the examined components, Unified chemistry (03) and Synthesis and analytical techniques (02). The last two questions are longer, mixed-outcome problems.
 
 Work through the [Alkanes study guide](/resources/ocr-a-level-chemistry-alkanes/) and the [Alkanes revision notes](/resources/ocr-a-level-chemistry-alkanes-revision-notes/) first. The [OCR chemistry hub](/boards/ocr/a-level/chemistry/) lists other topics, the [printable checklist](/checklists/ocr/a-level/chemistry/) tracks outcomes, and the [free diagnostics](/diagnostics/) give a wider check.
 
@@ -93,8 +93,8 @@ Any data you need is supplied in each question.
 **11.** 2-Methylbutane, CH₃CH(CH₃)CH₂CH₃, reacts with bromine in UV radiation.
 
 **(a)** Deduce the number of different monobromo isomers that can form. Explain your answer. **[2]**
-**(b)** Write the two propagation steps that form 2-bromo-2-methylbutane, (CH₃)₂CBrCH₂CH₃. **[2]**
-**(c)** A by-product with molar mass 142.0 g mol⁻¹ is detected. Identify it, and write an equation to show how it forms. **[2]**
+**(b)** Give the two propagation steps leading to 2-bromo-2-methylbutane, (CH₃)₂CBrCH₂CH₃. **[2]**
+**(c)** A by-product with molar mass 142.0 g mol⁻¹ (Ar: C 12.0, H 1.0) is detected. Identify it, and write an equation to show how it forms. **[2]**
 **(d)** Evaluate radical bromination as a way to make pure 1-bromo-2-methylbutane. **[2]**
 
 ## Answers

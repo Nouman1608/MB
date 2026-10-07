@@ -148,7 +148,7 @@ Data: C = 12.0, H = 1.0, Br = 79.9; molar gas volume at RTP = 24.0 dm³ mol⁻¹
 1. Define the term electrophile.
 2. State the bond angle around each carbon of a C=C bond and name the shape.
 3. Which of hex-1-ene, hex-2-ene and 2-methylpent-2-ene has E/Z isomers?
-4. BrCH=CHCl has Br and Cl on opposite sides of the double bond. Is it E or Z?
+4. FCH=CHI has F and I on opposite sides of the double bond. Is it E or Z?
 5. State the reagent and catalyst that convert hept-2-ene into heptane.
 6. What volume of H₂, at RTP, is used up when 3.36 g of but-1-ene is fully hydrogenated?
 7. Calculate the mass of bromine that reacts with 4.20 g of hex-2-ene.
@@ -162,7 +162,7 @@ Data: C = 12.0, H = 1.0, Br = 79.9; molar gas volume at RTP = 24.0 dm³ mol⁻¹
 1. An electron pair acceptor.
 2. About 120°; trigonal planar.
 3. Hex-2-ene only. Hex-1-ene has =CH₂; in 2-methylpent-2-ene, C2 carries two CH₃ groups.
-4. **E** (Br beats H, Cl beats H; they are on opposite sides). It is also trans.
+4. **E** (F beats H, I beats H; they are on opposite sides). It is also trans.
 5. Hydrogen, with a nickel catalyst.
 6. Mr C₄H₈ = 56.0, so 3.36 g is 0.0600 mol, which takes up 0.0600 mol H₂: 0.0600 × 24.0 = **1.44 dm³**.
 7. Mr C₆H₁₂ = 84.0. Amount = 4.20 ÷ 84.0 = 0.0500 mol. Mr Br₂ = 159.8. Mass = 0.0500 × 159.8 = **7.99 g**.

@@ -96,7 +96,7 @@ The equation is: (CH₃)₂CHCH₂CH₂OH + NaBr + H₂SO₄ → (CH₃)₂CHCH�
 4. M(C₅H₁₁Br) = 150.9 g mol⁻¹, so the theoretical mass = 0.10125 × 150.9 = 15.28 g.
 5. Percentage yield = 9.80 ÷ 15.28 × 100 = **64.1%**.
 
-Product is lost at every transfer, in the aqueous layers, on the drying agent and in rejected fractions, so yields well below 100% are normal.
+Losses at each transfer, in aqueous layers and on the drying agent make yields well below 100% normal.
 
 ## 4.2.3(b): Molecules with several functional groups
 
@@ -146,7 +146,7 @@ The specification says you should devise two-stage routes using transformations 
 | Alcohol | Alkene | H₃PO₄ or H₂SO₄ catalyst, heat |
 | Alcohol | Haloalkane | NaBr and H₂SO₄ (halide ions with acid) |
 | Haloalkane | Alcohol | NaOH(aq), heat under reflux |
-| Primary alcohol | Aldehyde | K₂Cr₂O₇ / H₂SO₄, distil as it forms |
+| Primary alcohol | Aldehyde | K₂Cr₂O₇ / H₂SO₄, distil the aldehyde off as it forms |
 | Primary alcohol | Carboxylic acid | Excess K₂Cr₂O₇ / H₂SO₄, reflux |
 | Secondary alcohol | Ketone | K₂Cr₂O₇ / H₂SO₄, reflux |
 
@@ -177,10 +177,8 @@ The specification says you should devise two-stage routes using transformations 
 ## Common errors
 
 - Stoppering a reflux condenser, or putting the distillation thermometer bulb in the liquid.
-- Assuming the organic layer is on top without checking densities.
 - Giving "heat" with no mention of reflux or distillation for an alcohol oxidation.
 - Trying to oxidise a tertiary alcohol in a route.
-- Forgetting Markownikoff's rule when HBr adds to an unsymmetrical alkene.
 - Using a reagent that also attacks a group you wanted to keep.
 
 ## Next steps
@@ -189,6 +187,7 @@ The specification says you should devise two-stage routes using transformations 
 - Original questions with marked answers: [Organic synthesis practice questions](/resources/ocr-a-level-chemistry-organic-synthesis-practice/)
 - The wider practical techniques: [Practical endorsement study guide](/resources/ocr-a-level-chemistry-practical-skills-practical-endorsement/)
 - Yield calculations: [Amount of substance](/resources/ocr-a-level-chemistry-amount-of-substance/)
+- Related: [Alcohols](/resources/ocr-a-level-chemistry-alcohols/), [Haloalkanes](/resources/ocr-a-level-chemistry-haloalkanes/), [Module 6 organic synthesis](/resources/ocr-a-level-chemistry-6-2-5-organic-synthesis/)
 - Find your gaps first: [free diagnostics](/diagnostics/)
 
 ## Official syllabus

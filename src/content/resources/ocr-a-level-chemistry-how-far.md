@@ -22,7 +22,7 @@ featured: false
 
 This study guide teaches section 5.1.2, How far?, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. As the second section of Module 5 (Physical chemistry and transition elements), it lists eight lettered learning outcomes, 5.1.2(a) to (h); each is taught below with worked examples. The content belongs to the full A level, H432. In the written exams, Module 5 content can appear on paper 01, Periodic table, elements and physical chemistry, and on paper 03, Unified chemistry, the paper that spans every module. The specification links no PAG to 5.1.2.
 
-It builds on 3.2.3, Chemical equilibrium, where you met dynamic equilibrium, le Chatelier's principle and Kc without units. Other H432 sections are listed on our [course page for H432 Chemistry A](/boards/ocr/a-level/chemistry/), and each outcome can be ticked off on an [H432 checklist you can print](/checklists/ocr/a-level/chemistry/). Condensed [How far? revision notes](/resources/ocr-a-level-chemistry-how-far-revision-notes/) help with recall, and the [5.1.2 practice set](/resources/ocr-a-level-chemistry-how-far-practice/) tests it. Find your gaps with a [free diagnostic](/diagnostics/).
+It builds on [3.2.3, Chemical equilibrium](/resources/ocr-a-level-chemistry-chemical-equilibrium/), where you met dynamic equilibrium, le Chatelier's principle and Kc without units. Other H432 sections are listed on our [course page for H432 Chemistry A](/boards/ocr/a-level/chemistry/), and each outcome can be ticked off on an [H432 checklist you can print](/checklists/ocr/a-level/chemistry/). Condensed [How far? revision notes](/resources/ocr-a-level-chemistry-how-far-revision-notes/) help with recall, and the [5.1.2 practice set](/resources/ocr-a-level-chemistry-how-far-practice/) tests it. Find your gaps with a [free diagnostic](/diagnostics/).
 
 ## Outcomes in 5.1.2
 
@@ -44,7 +44,7 @@ For a mixture of gases:
 - **Mole fraction** of A, written x(A) = (amount of A) / (total amount of gas). Mole fractions have no units and add up to 1.
 - **Partial pressure** of A, written p(A) = x(A) × total pressure, P. It is the pressure A would exert if it alone filled the container.
 
-The partial pressures of all the gases add up to the total pressure. That gives a quick check on your arithmetic.
+The partial pressures of all the gases add up to the total pressure. This checks your arithmetic.
 
 ### Worked example 1: partial pressures
 

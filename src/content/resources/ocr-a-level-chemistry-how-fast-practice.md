@@ -171,7 +171,7 @@ Stuck? Use the [How fast? study guide](/resources/ocr-a-level-chemistry-how-fast
 **10. (a)** 313 K: 1/T = 3.195 × 10⁻³ K⁻¹, ln k = –1.29 [1]. 333 K: 1/T = 3.003 × 10⁻³ K⁻¹, ln k = 0.07 [1].
 **(b)** ln k = –Ea/RT + ln A has the form y = mx + c, with –Ea/R as the constant gradient and ln A as the intercept [1].
 **(c)** Gradient = (0.07 − (–2.82)) ÷ (3.003 × 10⁻³ − 3.413 × 10⁻³) = –7.05 × 10³ K [1]. Ea = –gradient × R = 7.05 × 10³ × 8.314 [1] = **58.6 kJ mol⁻¹** [1].
-**(d)** ln A = ln k + (Ea/R)(1/T) = –2.82 + 7.05 × 10³ × 3.413 × 10⁻³ [1] = 21.24 [1]. A = e^21.24 = **1.67 × 10⁹ dm³ mol⁻¹ s⁻¹** [1]. **[9]**
+**(d)** ln A = ln k + (Ea/R)(1/T) = –2.82 + 7049 × 3.413 × 10⁻³ [1] = 21.238 [1]. A = e^21.238 = **1.67 × 10⁹ dm³ mol⁻¹ s⁻¹** [1]. **[9]**
 *Examiner insight:* Carry the unrounded gradient into (d); small rounding in ln A changes A noticeably.
 
 

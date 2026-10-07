@@ -136,7 +136,7 @@ A curly arrow stands for an **electron pair** on the move. It shows either heter
 
 | Arrow tail can start at | Arrow head goes to |
 |---|---|
-| a covalent bond | the atom that takes the pair (heterolytic fission) |
+| a covalent bond | the atom that takes the pair (heterolytic fission), or an atom it now bonds to (as when a C=C bond attacks) |
 | a lone pair | an atom, forming a new bond |
 | a negative charge | an atom, forming a new bond |
 

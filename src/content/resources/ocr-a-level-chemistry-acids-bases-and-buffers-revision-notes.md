@@ -51,7 +51,7 @@ These notes condense section 5.1.3, Acids, bases and buffers, of the H432 specif
 | Weak acid | [H⁺] = √(Ka × [HA]) | |
 | Buffer | [H⁺] = Ka × [HA] / [A⁻] | |
 
-A bigger Ka, or a smaller pKa, signals a stronger acid. Each step of 1 in pH is a factor of 10 in [H⁺].
+Ka is applied in the same way as Kc in [How far?](/resources/ocr-a-level-chemistry-how-far/). A bigger Ka, or a smaller pKa, signals a stronger acid. Each step of 1 in pH is a factor of 10 in [H⁺].
 
 ## Ionic equations: the role of H⁺ (5.1.3(b))
 

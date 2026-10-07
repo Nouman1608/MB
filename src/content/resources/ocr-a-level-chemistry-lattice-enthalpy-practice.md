@@ -60,7 +60,7 @@ Before you start, work through the [Lattice enthalpy study guide](/resources/ocr
 
 **7.** Calculate the enthalpy change of solution of potassium iodide, KI, and state whether a solution gets warmer or cooler as KI dissolves. Use these values, in kJ mol⁻¹: ΔLEH(KI) = −649; ΔhydH(K⁺) = −322; ΔhydH(I⁻) = −307. **[2]**
 
-**8.** Calculate the lattice enthalpy of lithium iodide, LiI. Use these values, in kJ mol⁻¹: ΔsolH(LiI) = −63; ΔhydH(Li⁺) = −519; ΔhydH(I⁻) = −307. **[3]**
+**8.** Calculate the enthalpy change of hydration of the lithium ion, Li⁺. Use these values, in kJ mol⁻¹: ΔsolH(LiI) = −63; ΔLEH(LiI) = −763; ΔhydH(I⁻) = −307. **[3]**
 
 **9.** This question is about the factors that affect lattice and hydration enthalpies.
 
@@ -109,8 +109,8 @@ Before you start, work through the [Lattice enthalpy study guide](/resources/ocr
 **7.** ΔsolH = −ΔLEH + ΔhydH(K⁺) + ΔhydH(I⁻) = 649 + (−322) + (−307) = **+20 kJ mol⁻¹** [1]; the value is positive (endothermic), so the solution gets **cooler** [1]
 *Examiner insight:* The lattice enthalpy must be reversed for the lattice-breaking step; using −649 gives −1278, which is far too large for a solution enthalpy and has the wrong sign.
 
-**8.** ΔsolH = −ΔLEH + ΔhydH(Li⁺) + ΔhydH(I⁻) [1]; −63 = −ΔLEH + (−519) + (−307) [1]; ΔLEH = −826 + 63 = **−763 kJ mol⁻¹** [1]
-*Examiner insight:* Check the sign of the final lattice enthalpy; a value of +763 shows the rearrangement has been done the wrong way round.
+**8.** ΔsolH = −ΔLEH + ΔhydH(Li⁺) + ΔhydH(I⁻) [1]; −63 = +763 + ΔhydH(Li⁺) + (−307) [1]; ΔhydH(Li⁺) = −63 − 763 + 307 = **−519 kJ mol⁻¹** [1]
+*Examiner insight:* A hydration enthalpy must come out negative; an answer of +1007 shows that the lattice enthalpy was not reversed for the lattice-breaking step.
 
 **9. (a)** CsI < NaI < NaF (least to most exothermic) [1]. Na⁺ is smaller than Cs⁺, so NaI is more exothermic than CsI [1]. F⁻ is smaller than I⁻, so the ions in NaF are closest and attract most strongly, releasing the most energy [1]
 **(b)** Al³⁺ [1]. It is more highly charged and smaller than Mg²⁺, so the δ− oxygen atoms of surrounding water molecules are drawn in more strongly and more energy is released [1]
@@ -143,6 +143,8 @@ Before you start, work through the [Lattice enthalpy study guide](/resources/ocr
 - Teaching from scratch, with worked cycles: [Lattice enthalpy study guide](/resources/ocr-a-level-chemistry-lattice-enthalpy/)
 - Find weak spots in other topics: [all free 10-minute diagnostics](/diagnostics/)
 - Ionic lattices first met in Module 2: [Bonding and structure](/resources/ocr-a-level-chemistry-bonding-and-structure/)
+- Hess' law and measuring enthalpy changes: [Enthalpy changes](/resources/ocr-a-level-chemistry-enthalpy-changes/)
+- Entropy and feasibility, the next section: [Enthalpy and entropy](/resources/ocr-a-level-chemistry-enthalpy-and-entropy/)
 - Every H432 unit in one place: [OCR A Level Chemistry hub](/boards/ocr/a-level/chemistry/)
 - Track outcomes on paper: [OCR A Level Chemistry checklist](/checklists/ocr/a-level/chemistry/)
 - Book a free trial class: [/trial/](/trial/)

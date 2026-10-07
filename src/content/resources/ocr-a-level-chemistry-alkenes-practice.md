@@ -45,9 +45,9 @@ Data for this set: C = 12.0, H = 1.0, O = 16.0, F = 19.0, Cl = 35.5, Ca = 40.1. 
 
 **3.** **(a)** State whether each compound has E/Z isomers.
 (i) 2-methylbut-2-ene, (CH₃)₂C=CHCH₃
-(ii) 1-chloro-2-methylbut-1-ene, ClCH=C(CH₃)CH₂CH₃
+(ii) 3-(chloromethyl)pent-2-ene, CH₃CH=C(CH₂Cl)CH₂CH₃
 (iii) hept-3-ene, CH₃CH₂CH=CHCH₂CH₂CH₃ **[3]**
-**(b)** In one isomer of 1-chloro-2-methylbut-1-ene, the Cl atom and the CH₃ group are on the same side of the double bond. Use CIP priority rules to decide whether this is the E or the Z isomer. Explain your answer. **[3]**
+**(b)** In one isomer of (ii), the CH₃ on C2 and the CH₂CH₃ are on the same side. Use CIP priority rules to decide whether this is the E or the Z isomer. Explain your answer. **[3]**
 **(c)** Explain why this compound cannot be described using cis–trans names. **[1]**
 
 **4.** Octa-2,5-diene has the structural formula CH₃CH=CHCH₂CH=CHCH₂CH₃. Deduce the number of stereoisomers it has. Explain your answer. **[3]**
@@ -55,7 +55,7 @@ Data for this set: C = 12.0, H = 1.0, O = 16.0, F = 19.0, Cl = 35.5, Ca = 40.1. 
 **5.** **(a)** Explain, in terms of bonding, why alkenes are much more reactive than alkanes. **[2]**
 **(b)** Use these average bond enthalpies, in kJ mol⁻¹, to estimate the enthalpy change when HBr adds to an alkene: C=C 612, H–Br 366, C–C 347, C–H 413, C–Br 290. **[3]**
 
-**6.** 2,5-dimethylhex-3-ene, (CH₃)₂CHCH=CHCH(CH₃)₂, reacts with each reagent below. For each, give any catalyst needed and name the organic product.
+**6.** 2,7-dimethyloct-4-ene, (CH₃)₂CHCH₂CH=CHCH₂CH(CH₃)₂, reacts with each reagent below. For each, give any catalyst needed and name the organic product.
 
 **(a)** hydrogen **[2]**
 **(b)** chlorine **[2]**
@@ -63,7 +63,7 @@ Data for this set: C = 12.0, H = 1.0, O = 16.0, F = 19.0, Cl = 35.5, Ca = 40.1. 
 **(d)** hydrogen bromide **[2]**
 
 **7.** **(a)** Describe how bromine water could show whether a liquid hydrocarbon, Z, is unsaturated. Give the result you would see in each case. **[2]**
-**(b)** A different hydrocarbon, C₈H₁₂, contains no ring. A 1.62 g sample reacts completely with 720 cm³ of hydrogen, measured at RTP. Deduce the number of C=C bonds in each molecule. **[3]**
+**(b)** A different hydrocarbon, C₈H₁₂, contains one ring. A 1.62 g sample reacts completely with 720 cm³ of hydrogen, measured at RTP. Deduce the number of C=C bonds in each molecule. **[3]**
 **(c)** Suggest why the test in (a) cannot distinguish hex-1-ene from hex-2-ene. **[1]**
 
 **8.** 3-methylhex-2-ene, CH₃CH=C(CH₃)CH₂CH₂CH₃, is treated with hydrogen chloride.
@@ -100,8 +100,8 @@ Data for this set: C = 12.0, H = 1.0, O = 16.0, F = 19.0, Cl = 35.5, Ca = 40.1. 
 *Examiner insight:* Hybridisation is not required, so an answer based on sp² orbitals alone, without describing p-orbital overlap, risks missing the π-bond mark.
 
 **3. (a)** (i) no, C2 carries two CH₃ groups [1]; (ii) yes [1]; (iii) yes [1].
-**(b)** C1: Cl has a higher atomic number than H, so Cl has priority [1]. C2: both groups start with C; ethyl's carbon carries (C, H, H) and methyl's (H, H, H), so ethyl has priority [1]. Cl is on the same side as CH₃, so it is opposite the ethyl group: **E** [1].
-**(c)** Cis–trans naming needs two of the groups on each C=C carbon to be the same; here the groups are Cl, H and CH₃, CH₂CH₃, with none in common [1].
+**(b)** C2: C has a higher atomic number than H, so CH₃ has priority [1]. C3: both groups start with C; the CH₂Cl carbon carries (Cl, H, H) and ethyl's (C, H, H), so CH₂Cl has priority [1]. CH₃ is on the ethyl side, opposite CH₂Cl: **E** [1].
+**(c)** Cis–trans naming needs two of the groups on each C=C carbon to be the same; here the groups are CH₃, H and CH₂Cl, CH₂CH₃, with none in common [1].
 *Examiner insight:* A bare "E" without both priority comparisons is unlikely to gain full credit; state the atomic numbers or the atoms compared at each carbon.
 
 **4.** Each C=C has two different groups on each carbon, so each can be E or Z [1]. The molecule is not symmetrical (CH₃ at one end, CH₂CH₃ at the other), so (2E,5Z) and (2Z,5E) are different compounds [1]. Stereoisomers: (2E,5E), (2E,5Z), (2Z,5E), (2Z,5Z), so **4** [1].
@@ -111,10 +111,10 @@ Data for this set: C = 12.0, H = 1.0, O = 16.0, F = 19.0, Cl = 35.5, Ca = 40.1. 
 **(b)** Bonds broken: C=C + H–Br = 612 + 366 = 978 kJ mol⁻¹ [1]. Bonds formed: C–C + C–H + C–Br = 347 + 413 + 290 = 1050 kJ mol⁻¹ [1]. ΔH = 978 − 1050 = **−72 kJ mol⁻¹** [1].
 *Examiner insight:* Only the bonds that change need counting; include the sign, because a positive value here would describe an endothermic addition.
 
-**6. (a)** Nickel catalyst (with heat) [1]; **2,5-dimethylhexane** [1].
-**(b)** No catalyst needed [1]; **3,4-dichloro-2,5-dimethylhexane** [1].
-**(c)** Acid catalyst such as phosphoric acid, H₃PO₄ [1]; **2,5-dimethylhexan-3-ol** [1].
-**(d)** No catalyst needed [1]; **3-bromo-2,5-dimethylhexane** [1].
+**6. (a)** Nickel catalyst (with heat) [1]; **2,7-dimethyloctane** [1].
+**(b)** No catalyst needed [1]; **4,5-dichloro-2,7-dimethyloctane** [1].
+**(c)** Acid catalyst such as phosphoric acid, H₃PO₄ [1]; **2,7-dimethyloctan-4-ol** [1].
+**(d)** No catalyst needed [1]; **4-bromo-2,7-dimethyloctane** [1].
 *Examiner insight:* Each addition here gives one product because the alkene is symmetrical; check that locants in each name are as low as possible.
 
 **7. (a)** Shake a few drops of Z with bromine water [1]. If Z is unsaturated the orange colour disappears (colourless); if saturated it stays orange [1].

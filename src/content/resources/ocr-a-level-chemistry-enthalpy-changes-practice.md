@@ -63,7 +63,7 @@ Use c = 4.18 J g⁻¹ K⁻¹ and take 1.00 cm³ of solution as 1.00 g.
 Use these values (kJ mol⁻¹): C–H 413; C=O in methanal 736; O=O 498; C=O in CO₂ 805; O–H 464.
 
 **(a)** Calculate ∆H for this reaction using the bond enthalpies. **[3]**
-**(b)** The standard enthalpy change of combustion of methanal is −571 kJ mol⁻¹. Give two reasons for the difference. **[2]**
+**(b)** Methanal's standard enthalpy change of combustion is −571 kJ mol⁻¹. Suggest two reasons why your answer to (a) differs from it. **[2]**
 
 **8.** For Cl₂(g) + F₂(g) → 2ClF(g), ∆H = −101 kJ mol⁻¹. The Cl–Cl bond enthalpy is 243 kJ mol⁻¹ and the F–F bond enthalpy is 158 kJ mol⁻¹. Calculate the Cl–F bond enthalpy. **[3]**
 

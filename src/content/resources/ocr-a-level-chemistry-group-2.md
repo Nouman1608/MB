@@ -34,7 +34,7 @@ Find the other H432 topics through the [OCR chemistry hub](/boards/ocr/a-level/c
 | 3.1.2(d) | Describe the action of water on Group 2 oxides, the approximate pH of the solutions and the trend of increasing alkalinity | None |
 | 3.1.2(e) | Describe uses of Group 2 compounds as bases, with equations | Examples (not limited to): Ca(OH)₂ to neutralise acid soils; Mg(OH)₂ and CaCO₃ as antacids |
 
-This section builds on oxidation numbers from 2.1.5 and ionisation energy from 3.1.1. If oxidation numbers are shaky, revisit the [Redox study guide](/resources/ocr-a-level-chemistry-redox/) first.
+This section builds on oxidation numbers from 2.1.5 and ionisation energy from 3.1.1 ([Periodicity](/resources/ocr-a-level-chemistry-periodicity/)). If oxidation numbers are shaky, revisit the [Redox study guide](/resources/ocr-a-level-chemistry-redox/) first.
 
 ## 3.1.2(a): Two outer electrons, lost as a pair
 

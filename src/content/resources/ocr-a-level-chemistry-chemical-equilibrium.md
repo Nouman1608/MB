@@ -36,7 +36,7 @@ Every H432 topic is on the [OCR chemistry hub](/boards/ocr/a-level/chemistry/); 
 | 3.2.3(f) | Write Kc expressions for homogeneous reactions and calculate Kc from equilibrium concentrations you are given | M0.2, M1.1, M2.3, M2.4; you will not need to determine the units for Kc |
 | 3.2.3(g) | Estimate the position of equilibrium from the size of Kc | M0.3; qualitative estimation only |
 
-Heterogeneous Kc, Kp, Kc units and equilibrium amounts from starting amounts come later, in 5.1.2.
+Heterogeneous Kc, Kp, Kc units and equilibrium amounts from starting amounts come later, in 5.1.2 (see the [How far? study guide](/resources/ocr-a-level-chemistry-how-far/)).
 
 ## 3.2.3(a): Dynamic equilibrium
 
@@ -107,7 +107,7 @@ There are 2 gas moles on each side, so changing the pressure does not shift the 
 
 ## 3.2.3(c): Catalysts and equilibrium
 
-A catalyst opens a different pathway whose activation energy is lower (see 3.2.2). The reverse reaction uses the same route backwards, so it speeds up too. A catalyst increases the forward and reverse rates **by the same amount**. The rates stay equal, so:
+A catalyst opens a different pathway whose activation energy is lower (see 3.2.2 and the [Reaction rates study guide](/resources/ocr-a-level-chemistry-reaction-rates/)). The reverse reaction uses the same route backwards, so it speeds up too. A catalyst increases the forward and reverse rates **by the same amount**. The rates stay equal, so:
 
 - the position of equilibrium is unchanged and so is the equilibrium yield
 - equilibrium is reached in less time.
@@ -190,7 +190,7 @@ Kc = ─────────────
 
 Square brackets mean equilibrium concentration in mol dm⁻³. Products go on top, each concentration raised to the power of its balancing number. Kc is fixed at a given temperature. In 3.2.3 you will not be asked for its units.
 
-### Worked example 6: Kc from equilibrium concentrations
+### Worked example 5: Kc from equilibrium concentrations
 
 At a high temperature, an equilibrium mixture for N₂(g) + O₂(g) ⇌ 2NO(g) contains:
 
@@ -205,7 +205,7 @@ Kc = [NO]² / ([N₂][O₂])
 
 Match the significant figures of the data, here 3 (M1.1).
 
-### Worked example 7: Kc with a cubed term
+### Worked example 6: Kc with a cubed term
 
 For CH₄(g) + H₂O(g) ⇌ CO(g) + 3H₂(g), equilibrium concentrations at one temperature are [CH₄] = 0.120, [H₂O] = 0.150, [CO] = 0.0500 and [H₂] = 0.160 mol dm⁻³.
 
@@ -216,7 +216,7 @@ Kc = [CO][H₂]³ / ([CH₄][H₂O])
    = 1.14 × 10⁻²
 ```
 
-### Worked example 8: finding an unknown concentration (M2.4)
+### Worked example 7: finding an unknown concentration (M2.4)
 
 At a different temperature, Kc for the same reaction is 0.0216. An equilibrium mixture has [CH₄] = 0.200, [H₂O] = 0.250 and [CO] = 0.0400 mol dm⁻³. Find [H₂].
 
@@ -239,7 +239,7 @@ Kc compares products (top) with reactants (bottom), so its size gives a quick es
 | About 1 | Similar amounts of reactants and products |
 | Much less than 1 | Far to the left: mostly reactants |
 
-In Worked example 6, Kc = 4.94 × 10⁻⁴, much less than 1, so the mixture is mostly nitrogen and oxygen with very little nitrogen monoxide. Only a qualitative estimate is needed; do not try to work out percentages from Kc.
+In Worked example 5, Kc = 4.94 × 10⁻⁴, much less than 1, so the mixture is mostly nitrogen and oxygen with very little nitrogen monoxide. Only a qualitative estimate is needed; do not try to work out percentages from Kc.
 
 ## Common errors
 

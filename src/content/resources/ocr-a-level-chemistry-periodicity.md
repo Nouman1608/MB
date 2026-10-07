@@ -63,9 +63,9 @@ The **block** an element belongs to is the type of sub-shell (s, p or d) occupie
 
 ### Worked example 1: block, group and period from proton number
 
-Classify elements with Z = 38, 40 and 51.
+Classify elements with Z = 56, 40 and 51.
 
-- Z = 38: [Kr] 5s². The last electron enters 5s, so **s-block**, Group 2, Period 5 (strontium).
+- Z = 56: [Xe] 6s². The last electron enters 6s, so **s-block**, Group 2, Period 6 (barium).
 - Z = 40: [Kr] 4d² 5s². The last electron enters 4d, so **d-block**, Period 5 (zirconium).
 - Z = 51: [Kr] 4d¹⁰ 5s² 5p³. The last electron enters 5p, so **p-block**, Group 15, Period 5 (antimony).
 
@@ -120,7 +120,7 @@ Steady rises followed by sudden jumps were evidence for electrons in separate sh
 
 **Metallic bonding** is the strong electrostatic attraction between cations (positive ions) and delocalised electrons. Each atom releases its outer electrons into a "sea" shared by the whole structure, and the cations sit in a regular, repeating **giant metallic lattice**. All metals have this structure; packing patterns are not needed.
 
-### Worked example 5: lithium against beryllium
+### Worked example 4: lithium against beryllium
 
 Lithium melts at 181 °C and beryllium at 1287 °C. Explain the difference of 1106 °C.
 
@@ -162,7 +162,7 @@ Melting points rise across the metals, peak at Group 14, then drop sharply to th
 | B | 2076 | giant covalent | Al | 660 | giant metallic |
 | C | sublimes above 3500 | giant covalent | Si | 1414 | giant covalent |
 | N₂ | −210 | simple molecular | P₄ | 44 | simple molecular |
-| O₂ | −218 | simple molecular | S₈ | 115 | simple molecular |
+| O₂ | −219 | simple molecular | S₈ | 115 | simple molecular |
 | F₂ | −220 | simple molecular | Cl₂ | −102 | simple molecular |
 | Ne | −249 | single atoms | Ar | −189 | single atoms |
 
@@ -170,7 +170,7 @@ Melting points rise across the metals, peak at Group 14, then drop sharply to th
 - **Giant covalent**: carbon (as diamond or graphite), boron and silicon have the highest values because melting breaks strong covalent bonds throughout the lattice.
 - **Simple molecular**: melting only overcomes weak London forces between molecules; the covalent bonds inside them are not broken. In Period 3 the order S₈ > P₄ > Cl₂ > Ar follows the number of electrons per particle (128, 60, 34, 18): more electrons, stronger London forces.
 
-### Worked example 6: boron against nitrogen
+### Worked example 5: boron against nitrogen
 
 Boron melts at 2076 °C and nitrogen at −210 °C, a gap of 2286 °C. Boron is giant covalent, so melting breaks many strong covalent bonds. Nitrogen is simple molecular, N₂; melting overcomes only weak London forces between molecules, and the strong N≡N triple bond stays intact.
 

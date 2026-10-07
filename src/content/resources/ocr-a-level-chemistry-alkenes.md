@@ -76,13 +76,13 @@ To name an isomer E or Z, rank the two groups on each carbon separately.
 
 ### Worked example 1: when cis is not Z
 
-3-methylpent-2-ene is CH₃CH=C(CH₃)CH₂CH₃. Name the isomer in which the two methyl groups are on the same side.
+2-bromobut-2-ene is CH₃CBr=CHCH₃. Name the isomer in which the two methyl groups are on the same side.
 
-1. C2 carries CH₃ and H; C3 carries CH₃ and CH₂CH₃. Each carbon has two different groups, so E/Z isomers exist.
+1. C2 carries Br and CH₃; C3 carries CH₃ and H. Each carbon has two different groups, so E/Z isomers exist.
 2. Both carbons carry CH₃, so cis–trans naming also applies: methyls on the same side means **cis**.
-3. CIP at C2: C beats H, so CH₃ has priority.
-4. CIP at C3: both groups start with C. Move out: ethyl has (C, H, H), methyl has (H, H, H). Ethyl wins.
-5. The priority groups are the CH₃ on C2 and the ethyl on C3. In this isomer the CH₃ on C3 is on the same side as the C2 methyl, so the ethyl is on the opposite side. The isomer is **E**.
+3. CIP at C2: Br (atomic number 35) beats C (6), so Br has priority.
+4. CIP at C3: C beats H, so CH₃ has priority.
+5. The priority groups are the Br on C2 and the CH₃ on C3. In this isomer the CH₃ on C2 is on the same side as the C3 methyl, so the Br is on the opposite side. The isomer is **E**.
 
 So this molecule is cis and E at the same time. This is why the specification warns that E = trans and Z = cis only holds reliably when each C=C carbon carries a hydrogen.
 
@@ -101,11 +101,11 @@ The π-bond has a relatively low bond enthalpy, so little energy is needed to br
 
 ### Worked example 3: estimating the π-bond enthalpy
 
-Use these values: average bond enthalpy of C=C is 612 kJ mol⁻¹; of C–C is 347 kJ mol⁻¹. Estimate the bond enthalpy of the π-bond.
+Mean bond enthalpies (use these values): C=C 614 kJ mol⁻¹, C–C 348 kJ mol⁻¹. Estimate the bond enthalpy of the π-bond.
 
 1. C=C is one σ-bond plus one π-bond. Take the σ-bond as similar to a C–C single bond.
-2. π-bond ≈ 612 − 347 = **265 kJ mol⁻¹**.
-3. This is less than the 347 kJ mol⁻¹ needed for the σ-bond, so the π-bond breaks first when an alkene reacts.
+2. π-bond ≈ 614 − 348 = **266 kJ mol⁻¹**.
+3. This is less than the 348 kJ mol⁻¹ needed for the σ-bond, so the π-bond breaks first when an alkene reacts.
 
 ## 4.1.3(f): Addition reactions
 
@@ -161,10 +161,10 @@ Many alkene monomers join through their C=C bonds to form a long saturated chain
 
 ### Worked example 6: repeat unit from a monomer
 
-Propenenitrile is CH₂=CHCN.
+3,3-dimethylbut-1-ene is CH₂=CHC(CH₃)₃.
 
 1. Draw the C=C with its four groups, then change C=C to C–C with a bond out of each end.
-2. Repeat unit: **–[CH₂–CH(CN)]–**, with extension bonds through the brackets and CN as a side branch.
+2. Repeat unit: **–[CH₂–CH(C(CH₃)₃)]–**, with extension bonds through the brackets and C(CH₃)₃ as a side branch.
 
 ### Worked example 7: monomer from a polymer section
 

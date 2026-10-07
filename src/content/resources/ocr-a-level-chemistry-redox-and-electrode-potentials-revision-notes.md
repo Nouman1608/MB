@@ -61,7 +61,7 @@ Worked reminder: in acid, Cr₂O₇²⁻ → Cr³⁺ gives Cr₂O₇²⁻ + 14H�
 ## Predicting electron transfer (5.2.3(c))
 
 - Electrons lost = electrons gained. Use mole ratios to find a change in oxidation number, then the product.
-- If one species is both oxidised and reduced, it is disproportionation (for example Cu⁺ forming Cu²⁺ and Cu, met again in 5.3.1).
+- If one species is both oxidised and reduced, it is disproportionation (for example Cu⁺ forming Cu²⁺ and Cu, met again in [5.3.1](/resources/ocr-a-level-chemistry-transition-elements/)).
 
 ## Redox titrations (5.2.3(d))
 

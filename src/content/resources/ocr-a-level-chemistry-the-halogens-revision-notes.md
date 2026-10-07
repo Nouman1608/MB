@@ -129,7 +129,7 @@ Judgement most often reached: the public health benefit outweighs the small risk
 
 Ionic equation pattern: Ag⁺(aq) + X⁻(aq) → AgX(s)
 
-Ammonia complexes: observations only. In a full anion sequence (3.1.4) test for carbonate, then sulfate, then halide.
+Ammonia complexes: observations only. In a full anion sequence (3.1.4) test for carbonate, then sulfate, then halide; see [qualitative analysis](/resources/ocr-a-level-chemistry-qualitative-analysis/).
 
 **Molar masses for halide calculations** (Ar: Ag 107.9, Cl 35.5, Br 79.9, I 126.9): AgCl 143.4, AgBr 187.8, AgI 234.8.
 

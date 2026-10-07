@@ -39,7 +39,7 @@ Before you start, you may want the [How far? study guide](/resources/ocr-a-level
 
 **2.** Write expressions, and give units, for:
 
-**(a)** Kc for Cu(s) + 2Fe³⁺(aq) ⇌ Cu²⁺(aq) + 2Fe²⁺(aq) **[2]**
+**(a)** Kc for Ag₂SO₄(s) ⇌ 2Ag⁺(aq) + SO₄²⁻(aq) **[2]**
 **(b)** Kp for C(s) + H₂O(g) ⇌ CO(g) + H₂(g) **[2]**
 
 **3.** Nitrogen and fluorine are heated in a sealed 2.00 dm³ vessel at a fixed temperature:
@@ -114,9 +114,9 @@ At equilibrium the total pressure is 60.0 kPa.
 **(b)** Total amount = 0.500 mol; x(N₂) = 0.720 and x(O₂) = 0.180 [1]. p(N₂) = **180 kPa**; p(O₂) = **45.0 kPa** [1]. **[3]**
 *Examiner insight:* Argon still counts in the total amount of gas even though it takes no part in any reaction; leaving it out gives wrong mole fractions throughout.
 
-**2. (a)** Kc = [Cu²⁺][Fe²⁺]² / [Fe³⁺]² [1]; units **mol dm⁻³** [1].
+**2. (a)** Kc = [Ag⁺]²[SO₄²⁻] [1]; units **mol³ dm⁻⁹** [1].
 **(b)** Kp = p(CO) × p(H₂) / p(H₂O) [1]; units **kPa** [1]. **[4]**
-*Examiner insight:* An expression that includes Cu(s) or C(s) is wrong even if the rest is right, so check the state symbols before writing anything.
+*Examiner insight:* An expression that includes Ag₂SO₄(s) or C(s) is wrong even if the rest is right, so check the state symbols before writing anything.
 
 **3.** N₂ reacted = 0.300 ÷ 2 = 0.150 mol, so at equilibrium N₂ = 0.350 mol, F₂ = 1.20 − 3(0.150) = 0.750 mol, NF₃ = 0.300 mol [1]. Concentrations: 0.175, 0.375 and 0.150 mol dm⁻³ [1]. Kc = [NF₃]² / ([N₂][F₂]³) [1] = 0.150² / (0.175 × 0.375³) = **2.44** [1] **dm⁶ mol⁻²** [1]. **[5]**
 *Examiner insight:* The 1:3:2 ratio is where slips happen, especially taking 0.300 mol as the N₂ used; an initial / change / equilibrium table keeps your method visible.

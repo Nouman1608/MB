@@ -202,7 +202,7 @@ Scientists linked chlorine radicals to ozone loss in the 1970s, and measurements
 - Leaving out the δ+ and δ− on the C–X bond, or the lone pair on the hydroxide ion.
 - Saying the iodo compound reacts fastest "because C–I is the most polar". It is the least polar; it reacts fastest because it is the weakest.
 - Calling the precipitate "silver chloride" for every tube without naming the colours: white, cream, yellow.
-- Missing the dots on radicals, or putting a dot on O.
+- Missing the dots on radicals (an O atom needs none).
 - Writing an overall ozone equation that still contains Cl• or ClO•.
 - Breaking a C–F bond in a CFC. UV breaks the weaker C–Cl bond.
 
