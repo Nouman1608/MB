@@ -128,7 +128,7 @@ In KOH + HNO₃, the K⁺ and NO₃⁻ ions are unchanged, so they are left out.
 Two general patterns:
 
 - acid + metal carbonate → salt + water + carbon dioxide
-- acid + metal → salt + hydrogen (only **some** metals; copper, silver and gold do not react with dilute acids)
+- acid + metal → salt + hydrogen (only **some** metals; copper, silver and gold do not react with dilute hydrochloric or sulfuric acid)
 
 ### Worked example 3: writing balanced equations
 

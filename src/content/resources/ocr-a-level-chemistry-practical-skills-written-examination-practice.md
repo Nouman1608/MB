@@ -77,7 +77,7 @@ Test 3: Ba(NO₃)₂(aq) gives a white precipitate.
 **(a)** Identify Z, explaining your reasoning from each test. **[3]**
 **(b)** Explain why the test for sulfate is carried out before any test for halide ions. **[1]**
 
-**7.** Titres (cm³): rough 22.90, then 22.65, 22.30, 22.70, 22.60. Choose the titres to use and calculate the mean titre. **[2]**
+**7.** Titres (cm³): rough 23.10, then 22.55, 22.30, 22.60, 22.50. Choose the titres to use and calculate the mean titre. **[2]**
 
 **8.** The initial rate of a reaction is measured at different concentrations of reactant A.
 
@@ -115,7 +115,7 @@ A graph of initial rate against [A] gives a straight line through the origin.
 **(c)** The accepted formula is BaCl₂·2H₂O. Calculate the percentage error in your value of x. **[1]**
 **(d)** Evaluate the result, suggesting the main cause of the difference and an improvement. **[3]**
 
-**12.** Each iron tablet is thought to contain about 65 mg of iron as Fe²⁺. You have 0.00500 mol dm⁻³ KMnO₄(aq), dilute sulfuric acid and standard laboratory glassware. Use Ar(Fe) = 55.8 and:
+**12.** Each iron tablet is thought to contain about 65 mg of iron as Fe²⁺. You have 0.00400 mol dm⁻³ KMnO₄(aq), dilute sulfuric acid and standard laboratory glassware. Use Ar(Fe) = 55.8 and:
 
 MnO₄⁻ + 8H⁺ + 5Fe²⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O
 
@@ -146,7 +146,7 @@ Plan a titration to find the mass of iron in one tablet. Include quantities, sho
 **(b)** Sulfate ions could precipitate with Ag⁺ and be mistaken for a silver halide [1]
 *Examiner insight:* Link each observation to an ion; a correct formula with no reasoning does not answer an "explain" question.
 
-**7.** Concordant titres 22.65, 22.70 and 22.60; 22.30 and the rough titre are left out [1]; mean = 67.95 ÷ 3 = **22.65 cm³** [1]
+**7.** Concordant titres 22.55, 22.60 and 22.50; 22.30 and the rough titre are left out [1]; mean = 67.65 ÷ 3 = **22.55 cm³** [1]
 *Examiner insight:* Averaging every value, including the rough titre, gives a mean that does not reflect the concordant results.
 
 **8. (a)** **[A] = 0.060 mol dm⁻³** [1]; the others give rate ÷ [A] ≈ 3.1 × 10⁻³ s⁻¹, this one 2.67 × 10⁻³ s⁻¹, so it lies below the line [1]
@@ -169,7 +169,7 @@ Plan a titration to find the mass of iron in one tablet. Include quantities, sho
 **(d)** 5.0% is much larger than the measurement uncertainty (about 0.7% in total), so the error is systematic [1]. The value is low because not all the water was driven off [1]. Heat, cool and reweigh repeatedly until the mass is constant [1]
 *Examiner insight:* An evaluation needs the comparison stated; giving 5.0% and 0.58% without saying what they show does not complete it.
 
-**12.** Weigh five tablets (about 0.33 g of iron) and crush them [1]. Dissolve in dilute sulfuric acid, which supplies the H⁺ the equation needs [1]. Transfer with washings to a 250.0 cm³ volumetric flask, make up to the mark and invert to mix [1]. Pipette 25.0 cm³ into a conical flask [1]. Titrate with KMnO₄ from a burette until the first permanent pale pink colour [1]. Repeat to concordant titres within 0.10 cm³ and average them [1]. Estimate: 5 × 0.065 = 0.325 g, or 5.82 × 10⁻³ mol Fe²⁺; 5.82 × 10⁻⁴ mol in 25.0 cm³; MnO₄⁻ = 1.16 × 10⁻⁴ mol, a titre of about **23 cm³**, suitable for a 50 cm³ burette [1]. Mass of Fe per tablet = mean titre (dm³) × 0.00500 × 5 × 10 × 55.8 ÷ 5 [1]
+**12.** Weigh five tablets (about 0.33 g of iron) and crush them [1]. Dissolve in dilute sulfuric acid, which supplies the H⁺ the equation needs [1]. Transfer with washings to a 250.0 cm³ volumetric flask, make up to the mark and invert to mix [1]. Pipette 25.0 cm³ into a conical flask [1]. Titrate with KMnO₄ from a burette until the first permanent pale pink colour [1]. Repeat to concordant titres within 0.10 cm³ and average them [1]. Estimate: 5 × 0.065 = 0.325 g, or 5.82 × 10⁻³ mol Fe²⁺; 5.82 × 10⁻⁴ mol in 25.0 cm³; MnO₄⁻ = 1.16 × 10⁻⁴ mol, a titre of about **29 cm³**, suitable for a 50 cm³ burette [1]. Mass of Fe per tablet = mean titre (dm³) × 0.00400 × 5 × 10 × 55.8 ÷ 5 [1]
 *Examiner insight:* Planning answers gain credit for stated quantities and a reason for each; "add some acid" or "use a titration" alone is too vague.
 
 ## Where marks are usually lost

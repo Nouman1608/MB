@@ -40,7 +40,7 @@ Work through the [study guide](/resources/ocr-gcse-chemistry-properties-of-mater
 
 | Substance | Melting point / °C | Boiling point / °C |
 |---|---|---|
-| K | −182 | −162 |
+| K | −101 | −34 |
 | L | 44 | 280 |
 | M | 17 | 118 |
 | N | 801 | 1413 |
@@ -66,9 +66,9 @@ Work through the [study guide](/resources/ocr-gcse-chemistry-properties-of-mater
 
 | Material | Melting point / °C | Electrical conduction | Other observation |
 |---|---|---|---|
-| V | 1610 | Not as solid or liquid | Very hard |
+| V | 1700 | Not as solid or liquid | Very hard |
 | W | 2852 | Only when molten | Brittle |
-| X | −23 | Not as solid or liquid | Liquid at room temperature |
+| X | −95 | Not as solid or liquid | Liquid at room temperature |
 | Y | 660 | As solid and liquid | Can be hammered into sheets |
 | Z | Softens from 105 to 120 | Not as solid | Long-chain solid, flexible |
 
@@ -109,10 +109,10 @@ Identify the type of structure in each material: ionic, simple molecular, giant 
 **2.** Carbon forms four covalent bonds, including strong bonds to other carbon atoms [1]. So it forms chains and rings of many lengths, giving families of similar compounds [1]. **[2]**
 *Examiner insight:* Two separate points are needed for two marks: the bonding of carbon, and the chains, rings or families that result.
 
-**3. (a)** K: **gas**, as 20 °C is above its boiling point [1]. L: **solid**, as 20 °C is below its melting point [1].
+**3. (a)** K: **gas**, as 20 °C is above its boiling point of −34 °C [1]. L: **solid**, as 20 °C is below its melting point [1].
 **(b)** **L** (200 °C lies between 44 °C and 280 °C) [1].
 **(c)** **N** [1]. It has the highest melting and boiling points, so the most energy is needed to overcome the forces between its particles [1]. **[5]**
-*Examiner insight:* With negative values, write the comparison out (for example "20 is above −162") so the reasoning is visible and the direction cannot be misread.
+*Examiner insight:* With negative values, write the comparison out (for example "20 is above −34") so the reasoning is visible and the direction cannot be misread.
 
 **4. (a)** In graphite each carbon bonds to three others, leaving one delocalised electron per atom that can move through the layers [1]. Diamond's carbons each bond to four others, so no outer electron is left free to move [1].
 **(b)** Both contain identical carbon atoms, yet one conducts and the other does not [1], so conduction depends on how the atoms are bonded and arranged, not on the atoms themselves [1]. **[4]**

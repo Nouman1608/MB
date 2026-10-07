@@ -193,7 +193,7 @@ Hydrogen-bond diagram checklist: δ+ on H and δ− on N/O/F, the lone pair draw
 
 ## Next steps
 
-Work through the [practice questions](/resources/ocr-a-level-chemistry-bonding-and-structure-practice/), go back to the [study guide](/resources/ocr-a-level-chemistry-bonding-and-structure/) for anything you missed, then check off 2.2.2 on the [checklist](/checklists/ocr/a-level/chemistry/). The [diagnostics page](/diagnostics/) has short tests for other topics.
+Try the [practice questions](/resources/ocr-a-level-chemistry-bonding-and-structure-practice/), revisit the [study guide](/resources/ocr-a-level-chemistry-bonding-and-structure/) wherever an answer slipped, then check off 2.2.2 on the [checklist](/checklists/ocr/a-level/chemistry/). The [diagnostics page](/diagnostics/) has short tests for other topics.
 
 ## Official syllabus
 

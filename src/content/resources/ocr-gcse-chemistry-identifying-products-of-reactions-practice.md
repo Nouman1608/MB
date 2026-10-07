@@ -101,7 +101,7 @@ Learn the tests first in the [C4.2 study guide](/resources/ocr-gcse-chemistry-id
 **(b)** Name compound Y and write its formula. **[3]**
 **(c)** Write the ionic equation for the cream precipitate forming. **[1]**
 
-**10.** *(Higher Tier only)* A technician finds four unlabelled bottles of solution. They are iron(II) chloride, iron(III) sulfate, zinc sulfate and calcium chloride. Describe a plan of tests, with the expected result for each solution, that would identify all four. **[8]**
+**10.** *(Higher Tier only)* Four bottles of solution have lost their labels. They hold iron(II) chloride, iron(III) sulfate, zinc sulfate and calcium chloride. Describe a plan of tests, with the expected result for each solution, that would identify all four. **[8]**
 
 **11.** A student adds a catalyst to hydrogen peroxide solution in an open flask on a balance. A gas bubbles off and relights a glowing splint. The balance reads 85.20 g at the start and 84.54 g at the end.
 

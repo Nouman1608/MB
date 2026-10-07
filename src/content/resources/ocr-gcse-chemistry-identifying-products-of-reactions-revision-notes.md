@@ -24,7 +24,7 @@ For full explanations and six worked examples, read the [C4.2 study guide](/reso
 
 They cover sub-topic **C4.2 Identifying the products of chemical reactions** (C4.2a to C4.2g, with CM4.2i and the PAG C5 practical suggestions) as set out by OCR in J248, Chemistry A (Gateway Science) at GCSE (9-1), specification Version 4.0 of August 2026, first assessed in 2018. Only C4.2b, the cation and anion tests, is **Higher Tier only**; the rest is for both tiers. Topic C4 sits in Paper 2 (Foundation) and Paper 4 (Higher).
 
-Then try the [C4.2 practice questions](/resources/ocr-gcse-chemistry-identifying-products-of-reactions-practice/), mark your progress against the [J248 checklist](/checklists/ocr/gcse/chemistry/), open the [J248 course page](/boards/ocr/gcse/chemistry/) or take a free [diagnostic](/diagnostics/).
+Then try the [C4.2 practice questions](/resources/ocr-gcse-chemistry-identifying-products-of-reactions-practice/), mark your progress against the [J248 checklist](/checklists/ocr/gcse/chemistry/), open the [J248 course page](/boards/ocr/gcse/chemistry/) or take a free [diagnostic](/diagnostics/). Reactivity and Group trends come just before this in [C4.1 Predicting chemical reactions](/resources/ocr-gcse-chemistry-predicting-chemical-reactions/).
 
 ## Key words
 
@@ -102,7 +102,7 @@ Acid goes in first because carbonate ions also precipitate with silver and bariu
 4. Fresh portions: acidified barium chloride (sulfate) and acidified silver nitrate (halides).
 5. Name the salt and balance the charges for the formula.
 
-Small worked reminder: green flame + blue precipitate with NaOH + cream precipitate with acidified AgNO₃ = Cu²⁺ and Br⁻, so copper(II) bromide, CuBr₂.
+Small worked reminder (Higher Tier only, as it uses the C4.2b tests): green flame + blue precipitate with NaOH + cream precipitate with acidified AgNO₃ = Cu²⁺ and Br⁻, so copper(II) bromide, CuBr₂.
 
 ## Instrumental methods (C4.2f, both tiers)
 
@@ -165,7 +165,7 @@ The specification lists this misconception for C4.2. In a closed container, the 
 8. (Higher Tier only) Name the white precipitate in the sulfate test.
 9. Give the three advantages of instrumental methods named in the specification.
 10. A mass spectrum has peaks at m/z 43 (tallest), 57 and 72, and nothing higher. What is the Mr of the compound?
-11. (Higher Tier only) A solution gives an orange-red flame and a yellow precipitate with acidified silver nitrate. Name the compound.
+11. (Higher Tier only) A solid gives a lilac flame, and adding dilute nitric acid then silver nitrate to its solution forms a yellow solid. Name the compound.
 
 ### Answers
 
@@ -179,7 +179,7 @@ The specification lists this misconception for C4.2. In a closed container, the 
 8. Barium sulfate, BaSO₄.
 9. Sensitivity, accuracy and speed.
 10. 72 (the highest m/z peak, not the tallest).
-11. Calcium iodide, CaI₂.
+11. Potassium iodide, KI.
 
 ## Where marks are usually lost
 

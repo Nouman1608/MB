@@ -38,7 +38,7 @@ Before you start, read the [study guide](/resources/ocr-a-level-chemistry-bondin
 **(b)** Define the term dative covalent bond. **[1]**
 **(c)** The average bond enthalpy of C=O is larger than that of C–O. State what this tells you about the two bonds. **[1]**
 
-**2.** Calcium reacts with phosphorus to form calcium phosphide, Ca₃P₂. Draw a dot-and-cross diagram for calcium phosphide, showing outer electrons only. **[3]**
+**2.** Strontium burns in nitrogen to form strontium nitride, Sr₃N₂. Draw a dot-and-cross diagram for strontium nitride, showing outer electrons only. **[3]**
 
 **3.** Strontium bromide, SrBr₂, is an ionic compound.
 
@@ -46,11 +46,11 @@ Before you start, read the [study guide](/resources/ocr-a-level-chemistry-bondin
 **(b)** Explain why strontium bromide has a high melting point. **[2]**
 **(c)** Explain why strontium bromide conducts electricity when dissolved in water but not as a solid. **[2]**
 
-**4.** Phosphine, PH₃, reacts with hydrogen ions to form the phosphonium ion, PH₄⁺.
+**4.** Aluminium hydride, AlH₃, accepts a hydride ion, H⁻, to form the tetrahydridoaluminate ion, AlH₄⁻.
 
-**(a)** Draw a dot-and-cross diagram for PH₄⁺ and identify the dative covalent bond. **[2]**
-**(b)** Predict the shape of PH₄⁺ and its bond angle. Show how you decided. **[2]**
-**(c)** Explain why all four P–H bonds in PH₄⁺ are identical. **[1]**
+**(a)** Draw a dot-and-cross diagram for AlH₄⁻ and identify the dative covalent bond. **[2]**
+**(b)** Predict the shape of AlH₄⁻ and its bond angle. Show how you decided. **[2]**
+**(c)** Explain why all four Al–H bonds in AlH₄⁻ are identical. **[1]**
 
 **5.** Use electron pair repulsion to answer this question.
 
@@ -96,16 +96,16 @@ Explain the trend in boiling point from HCl to HI, and why HF has the highest bo
 **(c)** The C=O bond is **stronger** than the C–O bond [1].
 *Examiner insight:* a definition that says only "sharing electrons" is incomplete; state the attraction to both nuclei as well.
 
-**2.** Three [Ca]²⁺ ions, each with an empty outer shell (or eight crosses in the third shell if inner shells are shown) [1]. Two [P]³⁻ ions, each with eight outer electrons: five dots and three crosses [1]. Square brackets with the charges 2+ and 3− outside, in the ratio 3 : 2 [1].
-*Examiner insight:* shared pairs between Ca and P would show covalent bonding; keep every ion separate, in its own brackets.
+**2.** Three [Sr]²⁺ ions, each with an empty outer shell (or a full shell of eight crosses if the shell below is shown) [1]. Two [N]³⁻ ions, each with eight outer electrons: five dots and three crosses [1]. Square brackets with the charges 2+ and 3− outside, in the ratio 3 : 2 [1].
+*Examiner insight:* shared pairs between Sr and N would show covalent bonding; keep every ion separate, in its own brackets.
 
 **3. (a)** A giant ionic lattice [1] of Sr²⁺ and Br⁻ ions held by strong electrostatic attraction acting in all directions [1].
 **(b)** Strong electrostatic attractions hold every Sr²⁺ to neighbouring Br⁻ ions [1], and breaking down the whole lattice takes a large amount of energy [1].
 **(c)** In the solid the Sr²⁺ and Br⁻ ions are held in place [1]. In solution the ions are mobile and carry charge [1].
 *Examiner insight:* mentioning moving electrons or intermolecular forces in an ionic compound is chemically wrong and can undermine an otherwise correct answer.
 
-**4. (a)** Four shared pairs round P and no lone pair; three pairs have one electron from P and one from H, and the fourth has both from P [1]. The bond formed from the P lone pair to H⁺ is the dative bond, P→H [1]. Whole ion in brackets with a + charge.
-**(b)** 5 + 4 − 1 = 8 electrons: four bonding pairs, zero lone pairs [1]. **Tetrahedral, 109.5°** [1].
+**4. (a)** Four shared pairs round Al and no lone pair; three pairs have one electron from Al and one from H, and the fourth has both from the hydride ion [1]. The bond formed from the H⁻ pair into the space on Al is the dative bond, H→Al [1]. Whole ion in brackets with a − charge.
+**(b)** 3 + 4 + 1 = 8 electrons: four bonding pairs, zero lone pairs [1]. **Tetrahedral, 109.5°** [1].
 **(c)** Once formed, a dative bond is the same as any other covalent bond between those atoms [1].
 *Examiner insight:* a bare shape does not show how you decided; state how many bonding and lone pairs there are.
 

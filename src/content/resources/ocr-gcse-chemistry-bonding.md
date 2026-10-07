@@ -98,7 +98,7 @@ When an atom becomes an ion, only the number of electrons changes. The nucleus, 
 |---|---|---|
 | Ionic compound | Positive and negative ions | Ionic bonds act in every direction through a giant lattice of alternating ions |
 | Simple molecule | Small molecules | Strong covalent bonds inside each molecule; only weak intermolecular forces between molecules |
-| Giant covalent | Atoms | Every atom joined by covalent bonds in a continuous 3D network (diamond, graphite, silicon dioxide) |
+| Giant covalent | Atoms | Atoms joined by covalent bonds in a continuous network: 3D in diamond and silicon dioxide, flat layers in graphite |
 | Polymer | Very long molecules | Covalent bonds join repeating units into long chains; weaker forces between the chains |
 | Metal | Positive ions and delocalised electrons | Regular layers of ions held by attraction to the shared electron sea |
 

@@ -90,7 +90,7 @@ Two corrections:
 
 ## Evidence for human-caused climate change (C6.3d)
 
-The key evidence in the specification is the **correlation** between carbon dioxide in the atmosphere and the burning of **fossil fuels**. Carbon dioxide was about 280 ppm before the Industrial Revolution and passed 430 ppm in 2025. Over the same period, fossil fuel use rose steeply.
+The key evidence in the specification is the **correlation** between carbon dioxide in the atmosphere and the burning of **fossil fuels**. Carbon dioxide was about 280 ppm before the Industrial Revolution; its monthly average passed 430 ppm in 2025. Over the same period, fossil fuel use rose steeply.
 
 Other evidence supports the link: average temperatures have risen alongside carbon dioxide, and air bubbles in ice cores show past carbon dioxide levels and temperatures moving together.
 
@@ -136,7 +136,7 @@ Carbon dioxide and methane are both greenhouse gases. Methane comes from cattle,
 |---|---|---|
 | Renewable or nuclear electricity | Less fossil fuel burned | Cost, intermittency, public concern |
 | Energy efficiency (insulation, efficient vehicles) | Less energy needed | Needs investment by households and firms |
-| Carbon capture and storage | Carbon dioxide stored underground instead of released | Expensive; not proven at large scale |
+| Carbon capture and storage | Carbon dioxide stored underground instead of released | Expensive; not yet used widely |
 | Planting trees | Photosynthesis removes carbon dioxide | Needs large areas of land; slow |
 | Cutting methane (capturing landfill gas, fixing gas leaks) | Methane has a strong warming effect per molecule | Hard to control emissions from farming |
 | Carbon taxes and emission limits | Make low-carbon choices cheaper | Political disagreement; need international agreement |

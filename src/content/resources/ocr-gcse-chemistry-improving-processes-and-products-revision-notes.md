@@ -20,7 +20,7 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-These notes condense sub-topic **C6.1 Improving processes and products** from OCR's Chemistry A (Gateway Science) specification for GCSE (9–1), code J248, in its Version 4.0 issue of August 2026. They cover learning outcomes C6.1a to C6.1s, the mathematical learning outcomes CM6.1i to CM6.1iv and the linked practicals (PAG C1, PAG C2, PAG C6). Statements C6.1c to C6.1g are **Higher Tier only**; the rest are tested at both tiers. The content is examined in Paper 2 (Foundation) or Paper 4 (Higher).
+These notes condense sub-topic **C6.1 Improving processes and products** from OCR's Chemistry A (Gateway Science) specification for GCSE (9–1), code J248, in its Version 4.0 issue of August 2026. They cover learning outcomes C6.1a to C6.1s, the mathematical learning outcomes CM6.1i to CM6.1iv and the linked practicals (PAG C1, PAG C2, PAG C6). Statements C6.1c to C6.1f are **Higher Tier only**; the rest are tested at both tiers. The content is examined in Paper 2 (Foundation) or Paper 4 (Higher).
 
 For full explanations and worked examples, use the [Improving processes and products study guide](/resources/ocr-gcse-chemistry-improving-processes-and-products/). To practise exam-style questions, go to the [practice set](/resources/ocr-gcse-chemistry-improving-processes-and-products-practice/). Every J248 topic is linked from the [course hub](/boards/ocr/gcse/chemistry/); print the [J248 statement checklist](/checklists/ocr/gcse/chemistry/) to track progress, and take a free [10-minute diagnostic](/diagnostics/) to spot gaps.
 
@@ -95,7 +95,7 @@ Raw materials and energy (C6.1f): nitrogen from air, hydrogen from natural gas a
 - If doubling a condition doubles the rate, rate is directly proportional to it: a straight line through the origin (CM6.1iv).
 - Higher temperature, pressure or concentration and a catalyst all give steeper initial gradients.
 
-## C6.1g: Haber process and farming (Higher Tier only)
+## C6.1g: Haber process and farming
 
 Ammonia → nitrogen fertilisers → more protein in crops → higher yields. Without synthetic ammonia, far fewer people could be fed.
 

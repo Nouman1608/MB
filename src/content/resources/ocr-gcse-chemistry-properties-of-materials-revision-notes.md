@@ -99,7 +99,7 @@ Watch negative numbers. −50 °C is **higher** than −120 °C. A substance wit
 2. Divide the larger by the smaller.
 3. State "about ... times larger", with the number to a sensible precision.
 
-**Small reminder.** A particle 12 nm across, atoms 0.3 nm across: 12 ÷ 0.3 = **40 atoms** across.
+**Small reminder.** A particle 16.8 nm across, atoms 0.28 nm across: 16.8 ÷ 0.28 = **60 atoms** across.
 
 ## C2.3h: surface area to volume
 
@@ -113,7 +113,7 @@ Watch negative numbers. −50 °C is **higher** than −120 °C. A substance wit
 - Side 10 times smaller: ratio 10 times larger.
 - More surface exposed means faster reactions and dissolving, so nanoparticles can make better catalysts.
 
-**Small reminder.** Cube of side 5 nm: area = 6 × 25 = 150 nm², volume = 125 nm³, ratio = 150 ÷ 125 = **1.2 nm⁻¹**.
+**Small reminder.** Cube of side 4 nm: area = 6 × 16 = 96 nm², volume = 64 nm³, ratio = 96 ÷ 64 = **1.5 nm⁻¹**.
 
 **Dissolving tablets (PAG C8):** independent variable is particle size (whole, broken, powdered); dependent variable is time to dissolve; control mass of tablet, volume of water and temperature. Repeat and take a mean, leaving out anomalies. Powdered tablets dissolve fastest.
 
@@ -144,8 +144,8 @@ Risks to quote, each linked to a property:
 6. When water boils, what is overcome?
 7. Write 8 nm in metres, in standard form.
 8. Is a particle 3.0 × 10⁻⁷ m across a nanoparticle? Show why.
-9. A cube has edges of 5 nm. Find its surface area to volume ratio.
-10. How many times larger is the surface area to volume ratio of a 2 nm cube than that of a 50 nm cube?
+9. A cube has edges of 8 nm. Find its surface area to volume ratio.
+10. How many times larger is the surface area to volume ratio of a 3 nm cube than that of a 75 nm cube?
 11. Why does a single metal atom not conduct electricity?
 12. Give one property-linked risk of nanoparticles in sunscreen.
 
@@ -159,8 +159,8 @@ Risks to quote, each linked to a property:
 6. The intermolecular forces between water molecules, not the covalent bonds inside them.
 7. 8 × 10⁻⁹ m.
 8. 3.0 × 10⁻⁷ m = 300 nm, which is more than 100 nm, so **no**.
-9. 150 nm² ÷ 125 nm³ = **1.2 nm⁻¹**.
-10. Ratios are 6 ÷ 2 = 3 and 6 ÷ 50 = 0.12; 3 ÷ 0.12 = **25 times**.
+9. 384 nm² ÷ 512 nm³ = **0.75 nm⁻¹**.
+10. Ratios are 6 ÷ 3 = 2 and 6 ÷ 75 = 0.08; 2 ÷ 0.08 = **25 times**.
 11. Conduction is a bulk property: it needs a lattice of many metal ions with delocalised electrons moving through it. One atom has no such structure.
 12. The particles are small enough to pass through skin or be inhaled, and their effects in the body are not fully known.
 

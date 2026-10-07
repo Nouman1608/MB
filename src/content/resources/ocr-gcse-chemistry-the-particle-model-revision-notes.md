@@ -67,7 +67,7 @@ Mass stays the same in a change of state because no particles are gained or lost
 4. Temperature above bp → **gas**.
 5. Take care with negative values: −40 is higher than −80.
 
-**Worked reminder.** A substance has mp 17 °C and bp 118 °C. At 10 °C it is solid; at 25 °C it is liquid; at 130 °C it is gas. On a cold day of 12 °C it would be solid.
+**Worked reminder.** A substance has mp 6 °C and bp 81 °C. At 2 °C it is solid; at 25 °C it is liquid; at 95 °C it is gas. On a cold day of 4 °C it would be solid.
 
 ### Method in steps: describing a change of state with particles
 
@@ -81,7 +81,7 @@ Mass stays the same in a change of state because no particles are gained or lost
 | | Physical change | Chemical change |
 |---|---|---|
 | Particles | Same particles, rearranged or spread out | New particles made from rearranged atoms |
-| Bonds between atoms | Not broken | Broken and new ones made |
+| Atoms | Not rearranged into new combinations | Bonds broken and new ones made |
 | New substance? | No | Yes |
 | Mass in a closed system | Unchanged | Unchanged |
 | Examples | Melting, boiling, condensing, dissolving | Burning, rusting, thermal decomposition |
@@ -134,7 +134,7 @@ Robert Brown described the random jiggling of tiny particles from pollen grains 
 
 1. What is a gas turning into a liquid called?
 2. Give two differences between the particles in a solid and in a liquid.
-3. A substance has mp −23 °C and bp 77 °C. State its state at 90 °C.
+3. A substance has mp −64 °C and bp 61 °C. State its state at 90 °C.
 4. True or false: the particles in a gas have air between them.
 5. Classify each as physical or chemical: (a) chocolate melting; (b) bread turning black in a toaster.
 6. Ice is melted in a sealed bag. Explain why the mass does not change.
@@ -148,7 +148,7 @@ Robert Brown described the random jiggling of tiny particles from pollen grains 
 
 1. Condensing (condensation).
 2. Any two: solid particles are in a regular pattern, liquid particles are random; solid particles only vibrate, liquid particles move past each other; solid particles have less energy.
-3. Gas (90 °C is above 77 °C).
+3. Gas (90 °C is above 61 °C).
 4. False. The space between gas particles is empty.
 5. (a) Physical: the same particles, just able to move past each other. (b) Chemical: new substances, including carbon, form.
 6. The same particles are present before and after; none are added or lost.

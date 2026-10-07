@@ -75,7 +75,7 @@ The specification's practical suggestion for C3.2a is measuring the temperature 
 4. Record the highest temperature (or lowest, for an endothermic reaction).
 5. Repeat the whole experiment and work out a mean temperature change.
 
-**Why polystyrene and a lid?** Polystyrene is a poor conductor and the lid cuts heat transfer to the air. Without them, energy leaks to or from the room, and the measured change is smaller than it should be every time. That is a **systematic error**: it pushes all results the same way. Misreading the thermometer scale, or catching the peak a few seconds late, gives **random errors** that scatter results above and below the true value.
+**What the cup and cover are for.** Expanded polystyrene traps air, so heat passes through it slowly, and covering the cup stops warm or cool air escaping from the surface. Without them, energy leaks to or from the room, and the measured change is smaller than it should be every time. That is a **systematic error**: it pushes all results the same way. Misreading the thermometer scale, or catching the peak a few seconds late, gives **random errors** that scatter results above and below the true value.
 
 **Handling repeat data.** Suppose four repeats give temperature rises of 6.4, 6.9, 6.8 and 8.7 °C. The 8.7 °C result is far from the others, so treat it as **anomalous** and leave it out. Mean = (6.4 + 6.9 + 6.8) ÷ 3 = 20.1 ÷ 3 = **6.7 °C**. The range of the three is 6.9 − 6.4 = 0.5 °C, so one simple estimate of the uncertainty is half the range, **±0.25 °C**. Results that sit close together are **precise** and show good **repeatability**. If another group using the same method gets similar values, the results are **reproducible**.
 
@@ -91,15 +91,15 @@ A **reaction profile** is a graph of energy, plotted up the page, against how fa
 Here is a sketch of an **exothermic** profile:
 
     energy
-      |            .---.
-      |           /     \
-      |     ^    /       \
-      |     | Ea/         \
+      |     ^      .---.
+      |     |     /     \
+      |  Ea |    /       \
+      |     |   /         \
       | ----+--'           \
-      | reactants  |        \
-      |            | energy  \
-      |            v change   '------
-      |                      products
+      | reactants |         \
+      |           | energy   \
+      |           v change    '-------
+      |                       products
       +----------------------------------
                  progress of reaction
 
@@ -127,8 +127,6 @@ On a profile, a large activation energy shows as a tall peak above the reactants
 
 ## Bond energies (C3.2d, Higher Tier only)
 
-This section is **Higher Tier only**.
-
 The bond model explains where the energy goes:
 
 - To **break** any bond, energy must be **supplied**, so bond breaking is an endothermic process.
@@ -136,7 +134,7 @@ The bond model explains where the energy goes:
 
 A frequent mistake is to say energy is released when bonds break. It is the other way round. Energy is released only when new bonds form.
 
-Each bond has a **bond energy**: the energy needed to break one mole of that bond, in kJ/mol. The same amount is released when one mole of that bond forms. In a question, the values you need will be given to you.
+Each bond has a **bond energy**: the energy needed to break one mole of that bond, in kJ/mol. The same amount is released when one mole of that bond forms. Every calculation here supplies the bond energies to use.
 
 **Energy change = total energy to break bonds in the reactants − total energy released making bonds in the products**
 
@@ -207,7 +205,7 @@ Reading a profile (M4a) means taking levels off the energy axis and subtracting 
 
 ## Next steps
 
-Use the [Energetics revision notes](/resources/ocr-gcse-chemistry-energetics-revision-notes/) for a summary and self-test, then the [Energetics practice questions](/resources/ocr-gcse-chemistry-energetics-practice/). Relative formula mass, needed when energy changes are compared per gram, is in the [purity and separating mixtures guide](/resources/ocr-gcse-chemistry-purity-and-separating-mixtures/).
+Use the [Energetics revision notes](/resources/ocr-gcse-chemistry-energetics-revision-notes/) for a summary and self-test, then the [Energetics practice questions](/resources/ocr-gcse-chemistry-energetics-practice/). Relative formula mass, needed when energy changes are compared per gram, is in the [purity and separating mixtures guide](/resources/ocr-gcse-chemistry-purity-and-separating-mixtures/). Activation energy returns in the [controlling reactions guide](/resources/ocr-gcse-chemistry-controlling-reactions/), which covers collision theory and catalysts.
 
 ## Official syllabus
 

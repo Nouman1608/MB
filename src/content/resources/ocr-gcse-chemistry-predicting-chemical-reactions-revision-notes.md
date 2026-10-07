@@ -160,7 +160,7 @@ Balancing with ratio: 4Li + O₂ → 2Li₂O. 0.35 g of lithium is 0.050 mol, wh
 6. Will iodine solution react with potassium bromide solution? Explain.
 7. Give two properties that make iron different from potassium.
 8. Name the transition metal catalyst used in the Haber process.
-9. 1.95 g of potassium reacts with bromine to give 5.95 g of product. Find the empirical formula. (Ar: K = 39, Br = 80)
+9. 1.17 g of potassium reacts with bromine to give 3.57 g of product. Find the empirical formula. (Ar: K = 39, Br = 80)
 10. Metal Q displaces copper from copper(II) sulfate but not iron from iron(II) sulfate. Place Q in the series iron, copper.
 11. Why does potassium react faster with water than lithium?
 12. Copper(II) chloride solution is blue. What property of transition metals does this show?
@@ -175,7 +175,7 @@ Balancing with ratio: 4Li + O₂ → 2Li₂O. 0.35 g of lithium is 0.050 mol, wh
 6. No reaction: bromine is the more reactive halogen, so iodine cannot take its place.
 7. Any two: higher melting point; higher density; much less reactive; forms ions with different charges (Fe²⁺ and Fe³⁺); coloured compounds.
 8. Iron.
-9. Br = 5.95 − 1.95 = 4.00 g. K: 1.95 ÷ 39 = 0.050 mol; Br: 4.00 ÷ 80 = 0.050 mol. Ratio 1 : 1, so **KBr**.
+9. Br = 3.57 − 1.17 = 2.40 g. K: 1.17 ÷ 39 = 0.030 mol; Br: 2.40 ÷ 80 = 0.030 mol. Ratio 1 : 1, so **KBr**.
 10. Between them: iron > Q > copper.
 11. Potassium has two more occupied shells than lithium, so its outer electron sits further out, is shielded more and is lost more readily.
 12. Transition metal compounds are often coloured.

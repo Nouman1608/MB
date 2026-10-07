@@ -32,12 +32,12 @@ Before you start, work through the [Types of chemical reactions study guide](/re
 
 ## Questions
 
-**1.** Tungsten is made by heating tungsten(VI) oxide in a stream of hydrogen: WO₃ + 3H₂ → W + 3H₂O
+**1.** A mixture of zinc powder and copper(II) oxide is heated. A glow spreads through the mixture and pink-brown copper forms: Zn + CuO → ZnO + Cu
 
 **(a)** State which substance is oxidised. Give a reason. **[2]**
 **(b)** Identify the reducing agent. **[1]**
 
-**2.** A burning magnesium ribbon lowered into a jar of carbon dioxide keeps burning, leaving white magnesium oxide and black specks of carbon: 2Mg + CO₂ → 2MgO + C
+**2.** Silicon can be made in the laboratory by heating dry sand (silicon dioxide) with magnesium powder: SiO₂ + 2Mg → Si + 2MgO
 
 Explain, in terms of oxygen, which substance is oxidised and which is reduced, and identify the oxidising agent. **[3]**
 
@@ -113,12 +113,12 @@ Explain, in terms of oxygen, which substance is oxidised and which is reduced, a
 
 ## Answers
 
-**1. (a)** **Hydrogen** is oxidised [1] because it gains oxygen, forming water [1].
-**(b)** **Hydrogen** (H₂) [1]
-*Examiner insight:* In (a), the reason needs the word "gains" and the link to oxygen; just saying "it forms water" leaves out why that counts as oxidation.
+**1. (a)** **Zinc** is oxidised [1] because it gains oxygen, forming zinc oxide [1].
+**(b)** **Zinc** (Zn) [1]
+*Examiner insight:* In (a), the reason needs the word "gains" and the link to oxygen; just saying "it forms zinc oxide" leaves out why that counts as oxidation.
 
-**2.** Magnesium gains oxygen (forms MgO), so **magnesium is oxidised** [1]. Carbon dioxide loses oxygen (forms C), so **carbon dioxide is reduced** [1]. The oxidising agent is **carbon dioxide** [1].
-*Examiner insight:* Naming "carbon" as the substance reduced is a common slip: carbon is the product, while carbon dioxide is the substance that lost oxygen.
+**2.** Magnesium gains oxygen (forms MgO), so **magnesium is oxidised** [1]. Silicon dioxide loses oxygen (forms Si), so **silicon dioxide is reduced** [1]. The oxidising agent is **silicon dioxide** [1].
+*Examiner insight:* Naming "silicon" as the substance reduced is a common slip: silicon is the product, while silicon dioxide is the substance that lost oxygen.
 
 **3. (a)** **Al → Al³⁺ + 3e⁻** [1]; **Cu²⁺ + 2e⁻ → Cu** [1]
 **(b)** **Aluminium (atoms)** is oxidised because each atom loses electrons (three) [1].
@@ -177,7 +177,7 @@ Explain, in terms of oxygen, which substance is oxidised and which is reduced, a
 
 ## Where marks are usually lost
 
-- Naming the product (tungsten, carbon) instead of the oxide as the substance reduced.
+- Naming the product (copper, silicon) instead of the oxide as the substance reduced.
 - Calling the oxidising agent "oxidised" when it is reduced.
 - (Higher Tier only) Showing electrons as gained in a half equation for an oxidation.
 - Missing water or carbon dioxide from an acid + carbonate equation.

@@ -26,7 +26,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover sub-topic **C6.1 Improving processes and products** from OCR's Chemistry A (Gateway Science) specification for GCSE (9–1), code J248, in its Version 4.0 issue of August 2026: learning outcomes C6.1a to C6.1s, mathematical learning outcomes CM6.1i to CM6.1iv, and the practicals PAG C1, PAG C2 and PAG C6. Questions on C6.1c to C6.1g are labelled **Higher Tier only**; all others suit both tiers. The content is examined in Paper 2 (Foundation) or Paper 4 (Higher).
+These questions cover sub-topic **C6.1 Improving processes and products** from OCR's Chemistry A (Gateway Science) specification for GCSE (9–1), code J248, in its Version 4.0 issue of August 2026: learning outcomes C6.1a to C6.1s, mathematical learning outcomes CM6.1i to CM6.1iv, and the practicals PAG C1, PAG C2 and PAG C6. Questions on C6.1c to C6.1f are labelled **Higher Tier only**; all others suit both tiers. The content is examined in Paper 2 (Foundation) or Paper 4 (Higher).
 
 For the rest of J248, use the [course hub](/boards/ocr/gcse/chemistry/) and the [printable statement checklist](/checklists/ocr/gcse/chemistry/).
 

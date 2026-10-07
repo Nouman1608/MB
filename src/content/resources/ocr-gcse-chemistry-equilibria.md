@@ -38,7 +38,7 @@ After this guide, shorten your notes using the [Equilibria revision notes](/reso
 
 The specification lists no practical suggestion for C5.3. Its working scientifically links (hypotheses, planning, choosing apparatus, recording observations) are built into the examples below.
 
-Two ideas from earlier topics help here: writing balanced equations with state symbols (see [Introducing chemical reactions](/resources/ocr-gcse-chemistry-introducing-chemical-reactions/)) and the meaning of exothermic and endothermic (see [Energetics](/resources/ocr-gcse-chemistry-energetics/)).
+Two ideas from earlier topics help here: writing balanced equations with state symbols (see [Introducing chemical reactions](/resources/ocr-gcse-chemistry-introducing-chemical-reactions/)) and the meaning of exothermic and endothermic (see [Energetics](/resources/ocr-gcse-chemistry-energetics/)). Rate graphs are taught in [Controlling reactions](/resources/ocr-gcse-chemistry-controlling-reactions/).
 
 ## C5.3a Reversible reactions
 
@@ -196,7 +196,7 @@ CO(g) + 2H₂(g)  ⇌  CH₃OH(g)      forward reaction exothermic
 
 Conditions for the most methanol: **high pressure, low temperature, plenty of CO and H₂, and remove methanol as it forms.**
 
-C5.3c asks only about getting as much product as possible. The trade-off between yield and rate in industry is a separate statement, C6.1d (also Higher Tier only).
+C5.3c asks only about getting as much product as possible. The trade-off between yield and rate in industry is a separate statement, C6.1d (also Higher Tier only), covered in [Improving processes and products](/resources/ocr-gcse-chemistry-improving-processes-and-products/).
 
 ### Worked example 4: using data to form a hypothesis
 

@@ -46,8 +46,8 @@ Learn the content first from the [particle model study guide](/resources/ocr-gcs
 | Substance | Melting point / °C | Boiling point / °C |
 |---|---|---|
 | J | −98 | 65 |
-| K | 44 | 280 |
-| L | −182 | −162 |
+| K | 80 | 218 |
+| L | −188 | −42 |
 | M | 660 | 2519 |
 
 **(a)** Which substance is a liquid at 25 °C? **[1]**
@@ -113,8 +113,8 @@ Explain what is wrong with each statement. **[4]**
 *Examiner insight:* Describe the liquid particles too, not only the gas.
 
 **3. (a)** **J** (25 °C is between −98 °C and 65 °C). [1]
-**(b)** **L** (25 °C is above −162 °C). [1]
-**(c)** **K melts** (passes 44 °C) [1]; **J boils** (passes 65 °C) [1].
+**(b)** **L** (25 °C is above −42 °C). [1]
+**(c)** **K melts** (passes 80 °C) [1]; **J boils** (passes 65 °C) [1].
 *Examiner insight:* Name the change as well as the substance; "J changes" is incomplete.
 
 **4. (a)** Physical [1]. The gallium particles gain energy and start to move past each other, but they are still gallium particles; no new substance forms [1].

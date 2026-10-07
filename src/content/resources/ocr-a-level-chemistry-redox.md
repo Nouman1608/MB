@@ -35,7 +35,7 @@ Every H432 topic is linked from the [OCR chemistry hub](/boards/ocr/a-level/chem
 | 2.1.5(e) | Write full equations for redox reactions of metals with acids to form salts | Metals from s-, p- and d-blocks, e.g. Mg, Al, Fe, Zn; ionic equations not required; only reactions giving a salt and hydrogen |
 | 2.1.5(f) | Interpret the equations in (e), and unfamiliar redox reactions, to make predictions using oxidation numbers and electron loss or gain | M0.2 (ratios, fractions and percentages); nitric acid and concentrated sulfuric acid reactions could appear here |
 
-The terms oxidising agent and reducing agent, and building equations from half-equations, belong to 5.2.3 later in the course. This guide does not rely on them.
+The terms oxidising agent and reducing agent, and building equations from half-equations, belong to [5.2.3](/resources/ocr-a-level-chemistry-redox-and-electrode-potentials/) later in the course. This guide does not rely on them.
 
 ## 2.1.5(a): Rules for oxidation numbers
 
@@ -130,8 +130,6 @@ Find the varying element's oxidation number, then add the numeral.
 Do not add a numeral where an element has only one oxidation number in its compounds: not "sodium(I) chloride".
 
 ## 2.1.5(d): Oxidation and reduction
-
-The specification asks for two linked definitions.
 
 | | (i) Electron transfer | (ii) Oxidation number |
 |---|---|---|

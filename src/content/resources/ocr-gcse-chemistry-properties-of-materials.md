@@ -24,7 +24,7 @@ This study guide teaches sub-topic **C2.3 Properties of materials** from Topic C
 
 C2.3g to C2.3j and CM2.3ii to CM2.3vi carry the specification's separate-chemistry symbol: they are in this course but not in combined science.
 
-Links: [OCR GCSE Chemistry hub](/boards/ocr/gcse/chemistry/), [printable checklist](/checklists/ocr/gcse/chemistry/), [free 10-minute diagnostics](/diagnostics/), [atomic structure guide](/resources/ocr-gcse-chemistry-atomic-structure/) and [Purity and separating mixtures](/resources/ocr-gcse-chemistry-purity-and-separating-mixtures/).
+Links: [OCR GCSE Chemistry hub](/boards/ocr/gcse/chemistry/), [printable checklist](/checklists/ocr/gcse/chemistry/), [free 10-minute diagnostics](/diagnostics/), [atomic structure guide](/resources/ocr-gcse-chemistry-atomic-structure/) and [bonding guide](/resources/ocr-gcse-chemistry-bonding/).
 
 ## Coverage map
 
@@ -94,12 +94,12 @@ Larger simple molecules usually have stronger intermolecular forces and higher b
 |---|---|---|
 | A | −117 | 79 |
 | B | 63 | 360 |
-| C | −210 | −196 |
-| D | 1083 | 2567 |
+| C | −218 | −183 |
+| D | 1538 | 2862 |
 
-At 25 °C: A is between −117 and 79, so **liquid**. B is below 63, so **solid**. C is above −196, so **gas**. D is below 1083, so **solid**.
+At 25 °C: A is between −117 and 79, so **liquid**. B is below 63, so **solid**. C is above −183, so **gas**. D is below 1538, so **solid**.
 
-At −200 °C: A, B and D are below their melting points, so all **solid**. C is between −210 and −196, so **liquid**. C is liquid over a range of only 14 °C. D has by far the highest melting point, which points to a giant structure; C, with very low values, is a simple molecular substance with weak intermolecular forces.
+At −200 °C: A, B and D are below their melting points, so all **solid**. C is between −218 and −183, so **liquid**. C is liquid over a range of only 35 °C. D has by far the highest melting point, which points to a giant structure; C, with very low values, is a simple molecular substance with weak intermolecular forces.
 
 ## Bulk properties and bonding (C2.3f)
 
@@ -117,13 +117,13 @@ Bulk properties (hardness, melting point, conductivity) belong to a large sample
 
 ## Nanoparticles: size and scale (C2.3g, CM2.3ii to CM2.3iv)
 
-One nanometre (1 nm) is 1 × 10⁻⁹ m. Nanoparticles are usually taken as particles between 1 nm and 100 nm across, so each contains a few hundred to many thousands of atoms. An atom has a radius of about 0.1 nm, so an atom is roughly 0.2 nm across; small molecules are a little larger, and a C₆₀ molecule is about 1 nm across. A nanoparticle is therefore bigger than an atom or a small molecule, but far smaller than anything you can see.
+One nanometre (1 nm) is 1 × 10⁻⁹ m. Nanoparticles are usually taken as particles between 1 nm and 100 nm across, so each contains anything from a few tens to millions of atoms. An atom has a radius of about 0.1 nm, so an atom is roughly 0.2 nm across; small molecules are a little larger, and a C₆₀ molecule is about 1 nm across. A nanoparticle is therefore bigger than an atom or a small molecule, but far smaller than anything you can see.
 
-**Worked example 3.** A nanoparticle is 40 nm across. Take the diameter of one atom as 0.2 nm.
+**Worked example 3.** A nanoparticle is 32 nm across. Take the diameter of one atom as 0.2 nm.
 
-- In standard form: 40 nm = 40 × 10⁻⁹ m = **4 × 10⁻⁸ m**.
-- Atoms across the particle: 40 ÷ 0.2 = **200 atoms**.
-- Compare with a 1 mm grain of salt: 1 × 10⁻³ ÷ 4 × 10⁻⁸ = **25 000**. The grain is 25 000 times wider.
+- In standard form: 32 nm = 32 × 10⁻⁹ m = **3.2 × 10⁻⁸ m**.
+- Atoms across the particle: 32 ÷ 0.2 = **160 atoms**.
+- Compare with a 1 mm grain of salt: 1 × 10⁻³ ÷ 3.2 × 10⁻⁸ = **31 250**. The grain is about 31 000 times wider.
 
 Put both numbers in the same unit before you divide.
 

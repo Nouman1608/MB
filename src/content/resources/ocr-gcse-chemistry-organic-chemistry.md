@@ -147,7 +147,7 @@ Block diagrams hide the carbon chain. For a polyester from HO–●–OH and HOO
 n HO–●–OH + n HOOC–■–COOH → –[O–●–O–OC–■–CO]ₙ– + 2n H₂O
 ```
 
-Each repeat unit holds one of each monomer and two ester links, so n repeat units release 2n small molecules. Addition polymerisation gives one product; condensation gives the polymer **and** a small molecule at the same time.
+Each repeat unit holds one of each monomer and two ester links, so every repeat unit added to a growing chain releases two small molecules. Addition polymerisation gives one product; condensation gives the polymer **and** a small molecule at the same time.
 
 ## Making nylon (C6.2f, Higher Tier only)
 

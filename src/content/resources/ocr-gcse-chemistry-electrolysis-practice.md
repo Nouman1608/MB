@@ -133,7 +133,7 @@ Describe how the experiment should be set up and carried out safely, and explain
 
 **9. (a)** Cathode: 32.47 − 31.85 = **+0.62 g** [1]. Anode: 29.56 − 30.20 = **−0.64 g** [1].
 **(b)** Cu²⁺ ions from the solution gain electrons at the cathode and copper is deposited [1]: **Cu²⁺ + 2e⁻ → Cu** [1].
-**(c)** Any one: some copper fell off the cathode; the cathode was not fully dried or was dried unevenly; the anode copper contained impurities that dropped off [1].
+**(c)** Any one: some copper fell off the cathode before weighing; the anode was still wet when first weighed; the anode copper contained impurities that dropped off [1].
 **(d)** 0.62 ÷ 31.85 × 100 = **1.95%** [1]
 *Examiner insight:* A sign on each mass change shows gain or loss clearly; a percentage is easier to credit when the calculation is written out before the rounded answer.
 

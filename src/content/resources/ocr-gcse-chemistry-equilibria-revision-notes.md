@@ -157,7 +157,7 @@ If the percentage of product at equilibrium **falls** as the temperature rises, 
 8. A tangent passes through (0 s, 0.05 mol/dm³) and (40 s, 0.65 mol/dm³). Find the rate.
 9. (Higher Tier only) PCl₅(g) ⇌ PCl₃(g) + Cl₂(g). Which way does the position shift when the pressure is raised?
 10. (Higher Tier only) A forward reaction is endothermic. What happens to the amount of product when the temperature is lowered?
-11. (Higher Tier only) In ICl(l) + Cl₂(g) ⇌ ICl₃(s), what do you see when chlorine is removed?
+11. In ICl(l) + Cl₂(g) ⇌ ICl₃(s), what do you see when chlorine is removed?
 12. (Higher Tier only) CO(g) + H₂O(g) ⇌ CO₂(g) + H₂(g). Does a higher pressure change the amount of hydrogen?
 
 ### Answers

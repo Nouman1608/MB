@@ -105,7 +105,7 @@ Metal + acid is also redox: Fe + 2H⁺ → Fe²⁺ + H₂. Iron atoms lose elect
 - CaCO₃ + 2HNO₃ → Ca(NO₃)₂ + H₂O + CO₂
 - 2Al + 3H₂SO₄ → Al₂(SO₄)₃ + 3H₂
 
-Copper, silver and gold do not react with dilute acids, which is why the specification says "some metals".
+Copper, silver and gold do not react with dilute hydrochloric or sulfuric acid, which is why the specification says "some metals".
 
 ## PAG C7: making a pure, dry salt from an insoluble base
 

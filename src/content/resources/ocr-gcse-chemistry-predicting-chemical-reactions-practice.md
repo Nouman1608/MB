@@ -37,9 +37,9 @@ Revise first with the [study guide](/resources/ocr-gcse-chemistry-predicting-che
 **(a)** Explain, in terms of electrons, why the noble gases are very unreactive. **[2]**
 **(b)** Radon is the next element down Group 0. Predict its density under the same conditions. **[1]**
 
-**2.** Rubidium is directly below potassium in Group 1. Melting points: lithium 181 °C, sodium 98 °C, potassium 63 °C.
+**2.** Rubidium is directly below potassium in Group 1. Atomic radii: lithium 0.152 nm, sodium 0.186 nm, potassium 0.227 nm.
 
-**(a)** Predict the melting point of rubidium. **[1]**
+**(a)** Predict the atomic radius of rubidium. **[1]**
 **(b)** A tiny piece of rubidium is dropped into water behind a safety screen. Describe **two** expected observations. **[2]**
 **(c)** Give the balanced symbol equation when rubidium reacts with water. **[2]**
 **(d)** Explain why rubidium is more reactive than potassium. **[3]**
@@ -51,7 +51,7 @@ Revise first with the [study guide](/resources/ocr-gcse-chemistry-predicting-che
 **(c)** Explain, in terms of electrons, why chlorine is more reactive than iodine. **[3]**
 **(d)** Predict whether iodine would react with a solution of potassium astatide. Give a reason. **[1]**
 
-**4.** A student heats 1.04 g of chromium in chlorine. The product, a chromium chloride, has a mass of 2.46 g. (Ar: Cr = 52, Cl = 35.5)
+**4.** A student heats 2.60 g of chromium in chlorine. The product, a chromium chloride, has a mass of 6.15 g. (Ar: Cr = 52, Cl = 35.5)
 
 **(a)** Calculate the empirical formula of the chromium chloride. **[3]**
 **(b)** State the charge on the chromium ion in this compound. **[1]**
@@ -89,7 +89,7 @@ Revise first with the [study guide](/resources/ocr-gcse-chemistry-predicting-che
 **(c)** G forms G²⁺ ions and J forms J²⁻ ions. Predict the formula of the compound formed between G and J. **[1]**
 **(d)** Predict whether G or the Group 2 element directly above it reacts more vigorously with water. **[1]**
 
-**8.** A student heats 2.54 g of copper powder in air until there is no further change. The black product has a mass of 3.18 g. A second 2.54 g sample is heated with a limited supply of air and forms 2.86 g of a red oxide. (Ar: Cu = 63.5, O = 16)
+**8.** A student heats 5.08 g of copper powder in air until there is no further change. The black product has a mass of 6.36 g. A second 5.08 g sample is heated with a limited supply of air and forms 5.72 g of a red oxide. (Ar: Cu = 63.5, O = 16)
 
 **(a)** Explain why the product is heavier than the copper. **[1]**
 **(b)** Calculate the empirical formula of the black oxide. **[3]**
@@ -119,7 +119,7 @@ Revise first with the [study guide](/resources/ocr-gcse-chemistry-predicting-che
 **(b)** Any value from **8 to 11 g/dm³** [1] (the gaps between neighbours keep increasing).
 *Examiner insight:* "Full outer shell" is only half an explanation; link it to the atoms not losing, gaining or sharing electrons.
 
-**2. (a)** Any value between **30 °C and 50 °C** [1].
+**2. (a)** Any value from **0.235 nm to 0.290 nm** [1].
 **(b)** Any two: melts; fizzes very rapidly; ignites or explodes; disappears quickly [1] [1].
 **(c)** Formulae correct, RbOH and H₂ [1]; balanced: **2Rb + 2H₂O → 2RbOH + H₂** [1].
 **(d)** Rubidium has one more occupied shell, so its single outer electron sits further out [1]; extra inner shells shield it, weakening the pull of the nucleus [1]; so rubidium loses that electron more readily [1].
@@ -131,7 +131,7 @@ Revise first with the [study guide](/resources/ocr-gcse-chemistry-predicting-che
 **(d)** **Yes**: iodine is above astatine, so it is more reactive and displaces it [1].
 *Examiner insight:* An argument about electrons being lost more easily is unlikely to gain credit for a halogen, because halogens gain electrons.
 
-**4. (a)** Cl = 2.46 − 1.04 = 1.42 g [1]. Cr: 1.04 ÷ 52 = 0.020 mol; Cl: 1.42 ÷ 35.5 = 0.040 mol [1]. Ratio 1 : 2, so **CrCl₂** [1].
+**4. (a)** Cl = 6.15 − 2.60 = 3.55 g [1]. Cr: 2.60 ÷ 52 = 0.050 mol; Cl: 3.55 ÷ 35.5 = 0.100 mol [1]. Ratio 1 : 2, so **CrCl₂** [1].
 **(b)** **2+** [1]
 **(c)** Transition metals form **ions with different charges** [1].
 *Examiner insight:* Show the chlorine mass and both mole values, not just the formula.
@@ -155,8 +155,8 @@ Revise first with the [study guide](/resources/ocr-gcse-chemistry-predicting-che
 *Examiner insight:* For (c), write the simplest ratio that balances the charges; G₂J₂ balances but is not the simplest formula.
 
 **8. (a)** Oxygen from the air has combined with the copper [1].
-**(b)** O = 3.18 − 2.54 = 0.64 g [1]. Cu: 2.54 ÷ 63.5 = 0.040 mol; O: 0.64 ÷ 16 = 0.040 mol [1]. Ratio 1 : 1, so **CuO** [1].
-**(c)** O = 0.32 g = 0.020 mol; Cu = 0.040 mol [1]. Ratio 2 : 1, so **Cu₂O** [1].
+**(b)** O = 6.36 − 5.08 = 1.28 g [1]. Cu: 5.08 ÷ 63.5 = 0.080 mol; O: 1.28 ÷ 16 = 0.080 mol [1]. Ratio 1 : 1, so **CuO** [1].
+**(c)** O = 0.64 g = 0.040 mol; Cu = 0.080 mol [1]. Ratio 2 : 1, so **Cu₂O** [1].
 **(d)** **Cu²⁺** in CuO and **Cu⁺** in Cu₂O [1].
 *Examiner insight:* Dividing each mass by its Ar before finding the ratio is the step that matters; a ratio of masses gives the wrong formula.
 

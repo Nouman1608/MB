@@ -68,14 +68,14 @@ With water, lithium fizzes steadily, sodium melts into a ball and darts about, a
 
 ### Worked example 1: predicting for caesium
 
-*The melting points of four Group 1 metals are Li 181 °C, Na 98 °C, K 63 °C and Rb 39 °C. Predict the melting point of caesium and describe its reaction with water.*
+*In a filmed demonstration, equal-sized pieces of Group 1 metals are dropped into water. Times to disappear: Li 75 s, Na 21 s, K 6 s, Rb 2 s. Predict the time for caesium and describe its reaction with water.*
 
-1. The drops between neighbours are 83, 35 and 24 °C, getting smaller each time.
-2. A further drop of about 10–15 °C gives a prediction of roughly **25–30 °C** for caesium.
+1. Each time is roughly a third of the one before (75 → 21 → 6 → 2 s).
+2. Continuing the pattern predicts **less than 1 s** for caesium.
 3. Caesium is lower in the group, so its outer electron is lost even more easily than rubidium's. It reacts **explosively** with water.
 4. Equation: 2Cs + 2H₂O → 2CsOH + H₂. The solution formed is alkaline.
 
-A prediction above 39 °C would break the trend.
+A prediction longer than 2 s would break the trend.
 
 ## Group 7: the halogens
 

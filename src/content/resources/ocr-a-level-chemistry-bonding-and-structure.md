@@ -22,7 +22,7 @@ featured: false
 
 This guide teaches section **2.2.2, Bonding and structure**, from OCR's A Level Chemistry A specification (H432, Version 3.1 dated May 2026; first assessment 2017). It covers every lettered statement, (a) to (o), with the additional guidance. H432 is the full A level with no tiers, and Module 2 content is assessed in all three written components (01, 02 and 03).
 
-Alongside this guide, use the [condensed notes](/resources/ocr-a-level-chemistry-bonding-and-structure-revision-notes/) plus the [practice set with worked answers](/resources/ocr-a-level-chemistry-bonding-and-structure-practice/). Every page for this course is gathered on the [course hub](/boards/ocr/a-level/chemistry/), and each statement can be ticked off on the [OCR chemistry checklist](/checklists/ocr/a-level/chemistry/). Electron configurations are covered in the [OCR atomic structure guide](/resources/ocr-a-level-chemistry-atomic-structure-and-isotopes/). A short [diagnostic test](/diagnostics/) will show your gaps before you begin.
+Alongside this guide, use the [condensed notes](/resources/ocr-a-level-chemistry-bonding-and-structure-revision-notes/) plus the [practice set with worked answers](/resources/ocr-a-level-chemistry-bonding-and-structure-practice/). Every page for this course is gathered on the [course hub](/boards/ocr/a-level/chemistry/), and each statement can be ticked off on the [OCR chemistry checklist](/checklists/ocr/a-level/chemistry/). Electron configurations are covered in the [OCR electron structure guide](/resources/ocr-a-level-chemistry-electron-structure/). A short [diagnostic test](/diagnostics/) will show your gaps before you begin.
 
 ## What this unit covers
 

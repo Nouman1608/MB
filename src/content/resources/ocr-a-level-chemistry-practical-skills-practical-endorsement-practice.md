@@ -57,7 +57,7 @@ Work through the [study guide](/resources/ocr-a-level-chemistry-practical-skills
 **6.** **(a)** Explain why an organic reaction mixture is heated under reflux rather than in an open flask. **[2]**
 **(b)** State where the thermometer bulb and the water inlet go when distilling the product. **[2]**
 
-**7.** 3.40 g of a crude organic solid is recrystallised from hot water. 2.65 g of dry crystals is obtained.
+**7.** 4.60 g of a crude organic solid is recrystallised from hot water. 3.52 g of dry crystals is obtained.
 **(a)** Describe the recrystallisation. **[4]**
 **(b)** Calculate the percentage recovery. **[1]**
 **(c)** Use these data: the pure compound melts at 122 °C. The crude solid melted at 117–120 °C; the crystals at 121–122 °C. Explain what the results show. **[2]**
@@ -111,7 +111,7 @@ Work through the [study guide](/resources/ocr-a-level-chemistry-practical-skills
 **(d)** **Phenolphthalein or methyl orange** (strong acid, strong base) [1]
 *Examiner insight:* Using the rough or a non-concordant titre in the mean usually costs the mark for the mean, so list the titres you used to show your choice.
 
-**5. (a)** n(Li) = 0.0350 / 6.9 = 5.07 × 10⁻³ mol [1]; n(H₂) = 2.54 × 10⁻³ mol [1]; V = 2.54 × 10⁻³ × 24 000 = **60.9 cm³** [1]
+**5. (a)** n(Li) = 0.0350 / 6.9 = 5.07 × 10⁻³ mol [1]; n(H₂) = 2.536 × 10⁻³ mol [1]; V = 2.536 × 10⁻³ × 24 000 = **60.9 cm³** [1]
 **(b)** A 100 cm³ gas syringe (or an inverted burette over water) [1]
 *Examiner insight:* Missing the 2 : 1 ratio doubles the answer, and the final answer must be in the unit asked for.
 
@@ -120,7 +120,7 @@ Work through the [study guide](/resources/ocr-a-level-chemistry-practical-skills
 *Examiner insight:* "Stops it boiling dry" is too vague; say that vapour condenses and returns.
 
 **7. (a)** Dissolve in the minimum hot water [1]; filter hot to remove insoluble impurities [1]; cool, then in ice, to crystallise [1]; filter under reduced pressure, wash with ice-cold water and dry [1]
-**(b)** 2.65 / 3.40 × 100 = **77.9%** [1]
+**(b)** 3.52 / 4.60 × 100 = **76.5%** [1]
 **(c)** The crude solid melted lower and over a range, so it was impure [1]; the crystals melt sharply close to 122 °C, so they are much purer [1]
 *Examiner insight:* "Minimum" and "hot" are both needed for the first mark; excess solvent explains a low recovery.
 

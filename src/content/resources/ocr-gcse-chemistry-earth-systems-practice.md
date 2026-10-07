@@ -129,7 +129,7 @@ Judgement: the claim is well supported because correlation and mechanism agree, 
 *Examiner insight:* An evaluation needs evidence on both sides; a one-sided list of reasons humans are to blame limits the credit.
 
 **8. (a)** Sea-level rise and coastal flooding [1]; more extreme weather such as heatwaves or storms [1] (or changed rainfall affecting crops).
-**(b)** Wind turbines remove the station's emissions [1] but output varies with the wind, so back-up is needed [1]. Carbon capture keeps the existing plant [1] but is expensive and risks leaks from storage; it is not proven at large scale [1]. A forest absorbs carbon dioxide by photosynthesis [1] but needs a large area and takes decades to grow, so its scale is small compared with a power station's output; best overall is wind with a stated reason [1].
+**(b)** Wind turbines remove the station's emissions [1] but output varies with the wind, so back-up is needed [1]. Carbon capture keeps the existing plant [1] but is expensive and risks leaks from storage; it is not yet used widely [1]. A forest absorbs carbon dioxide by photosynthesis [1] but needs a large area and takes decades to grow, so its scale is small compared with a power station's output; best overall is wind with a stated reason [1].
 *Examiner insight:* Each option needs a benefit and a drawback; a final choice with a reason is expected for "evaluate".
 
 **9. (a)** Mass of sulfur = 2500 × 0.50 ÷ 100 = 12.5 tonnes [1]; Mr of SO₂ = 64, so mass doubles [1]; **25 tonnes** of SO₂ [1]
@@ -142,7 +142,7 @@ Judgement: the claim is well supported because correlation and mechanism agree, 
 **(c)** Any one: lung damage / breathing problems / heart disease [1]
 *Examiner insight:* Check the oxygen count last: 13 × 2 = 26 on the left and 12 + 14 = 26 on the right.
 
-**11. (a)** Sedimentation lets solids settle [1]; filtration through sand and gravel removes small particles [1]; sterilisation with chlorine, ozone or UV kills microbes [1].
+**11. (a)** Filtration through beds of sand and gravel [1] removes insoluble particles (accept sedimentation first) [1]; sterilisation with chlorine, ozone or UV kills microbes [1].
 **(b)** Sea water is boiled so water evaporates and leaves the salts behind [1]; the steam is condensed and collected as water [1].
 **(c)** Reverse osmosis: 1500 × 3.5 = **5250 kWh** [1]; distillation: 1500 × 25 = **37 500 kWh** [1]
 **(d)** Reverse osmosis uses about seven times less energy than distillation [1], so lower fuel cost and fewer emissions [1]; but membranes need replacing and high pressure pumps, so choose reverse osmosis if equipment can be maintained [1].

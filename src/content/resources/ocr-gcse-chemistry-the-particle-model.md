@@ -34,7 +34,7 @@ After this guide, use the [particle model revision notes](/resources/ocr-gcse-ch
 | CM1.1i | Represent three-dimensional shapes in two dimensions and vice versa when looking at chemical structures, for example allotropes of carbon (maths skill M5b) | Both tiers |
 | Practical suggestion | Observations of change of state, compared with chemical changes | Both tiers |
 
-The specification also links this content to working scientifically skills WS1.1a, WS1.1b and WS1.1c (theories developing, using models, and the limits of science).
+The specification also links this content to working scientifically skills WS1.1a, WS1.1b and WS1.1c (theories developing, using models, and the power and limitations of science).
 
 ## C1.1a: The particle model and states of matter
 
@@ -73,18 +73,18 @@ Changes of state are **reversible**. Cool water vapour and you get liquid water;
 |---|---|---|
 | P | −62 | 48 |
 | Q | 115 | 445 |
-| R | −210 | −196 |
-| S | 801 | 1413 |
+| R | −218 | −183 |
+| S | 770 | 1420 |
 
 **Step 1.** Below the melting point a substance is solid; between the melting and boiling points it is liquid; above the boiling point it is gas.
 
-**Step 2.** At 20 °C: P is a **liquid** (20 is between −62 and 48). Q is a **solid** (20 is below 115). R is a **gas** (20 is above −196). S is a **solid**.
+**Step 2.** At 20 °C: P is a **liquid** (20 is between −62 and 48). Q is a **solid** (20 is below 115). R is a **gas** (20 is above −183). S is a **solid**.
 
 **Step 3.** At 60 °C, P is above its boiling point, so **P boils and becomes a gas**. Q, R and S stay in the same state.
 
 **Step 4.** For P, the particles take in energy, move faster and spread far apart, moving quickly and randomly. The particles themselves stay the same.
 
-Watch the negative numbers: −196 is higher than −210.
+Watch the negative numbers: −183 is higher than −218.
 
 ## C1.1b: Physical changes and chemical changes
 

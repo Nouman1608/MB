@@ -20,7 +20,7 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-Sub-topic **C6.1 Improving processes and products** opens Topic C6 Global challenges in OCR's Chemistry A (Gateway Science) specification for GCSE (9–1), code J248, in its Version 4.0 issue of August 2026. This guide teaches every learning outcome from C6.1a to C6.1s, the mathematical learning outcomes CM6.1i to CM6.1iv, and the practical suggestions linked to PAG C1, PAG C2 and PAG C6. Outcomes C6.1c, C6.1d, C6.1e, C6.1f and C6.1g are **Higher Tier only**; the other statements can appear on either tier. The assessment overview places Topic C6 on Paper 2 (Foundation) and Paper 4 (Higher), and both papers include synoptic assessment.
+Sub-topic **C6.1 Improving processes and products** opens Topic C6 Global challenges in OCR's Chemistry A (Gateway Science) specification for GCSE (9–1), code J248, in its Version 4.0 issue of August 2026. This guide teaches every learning outcome from C6.1a to C6.1s, the mathematical learning outcomes CM6.1i to CM6.1iv, and the practical suggestions linked to PAG C1, PAG C2 and PAG C6. Outcomes C6.1c, C6.1d, C6.1e and C6.1f are **Higher Tier only**; the other statements can appear on either tier. The assessment overview places Topic C6 on Paper 2 (Foundation) and Paper 4 (Higher), and both papers include synoptic assessment.
 
 Other J248 topics sit on the [course hub for OCR GCSE Chemistry](/boards/ocr/gcse/chemistry/); a [statement-by-statement J248 checklist](/checklists/ocr/gcse/chemistry/) is free to print. To find your weakest areas quickly, try a free [10-minute chemistry diagnostic](/diagnostics/).
 
@@ -34,7 +34,7 @@ Other J248 topics sit on the [course hub for OCR GCSE Chemistry](/boards/ocr/gcs
 | C6.1d | Explain the trade-off between rate and equilibrium position (Haber, Contact) | **Higher Tier only** |
 | C6.1e | Interpret graphs of reaction conditions against rate | **Higher Tier only** |
 | C6.1f | Link commercial conditions to raw materials, energy, equilibrium and rate | **Higher Tier only** |
-| C6.1g | Explain why the Haber process matters to agriculture | **Higher Tier only** |
+| C6.1g | Explain why the Haber process matters to agriculture | Both tiers |
 | C6.1h–j | Fertilisers: N, P and K; industrial versus laboratory production; integrated processes | Both tiers |
 | C6.1k–l | Carry out and interpret a life-cycle assessment | Both tiers |
 | C6.1m–n | Recycling for a different use; factors in recycling decisions | Both tiers |
@@ -115,7 +115,7 @@ An "evaluate" answer weighs both sides and ends with a judgement.
 
 **Worked example.** A tangent to a volume-of-gas curve passes through (0 s, 8 cm³) and (40 s, 56 cm³). Rate = (56 − 8) ÷ (40 − 0) = **1.2 cm³/s**. In another run, doubling the concentration from 0.40 to 0.80 mol/dm³ doubles the initial rate from 0.021 to 0.042 cm³/s, so rate is **directly proportional** to concentration: a straight line through the origin on a rate–concentration graph.
 
-## The Haber process and agriculture (C6.1g, Higher Tier only)
+## The Haber process and agriculture (C6.1g)
 
 Ammonia from the Haber process is the starting point for most nitrogen fertilisers. Plants need nitrogen to make proteins, so fertilisers raise crop yields and let farms feed far more people than natural nitrogen sources could.
 

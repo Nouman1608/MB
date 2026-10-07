@@ -113,10 +113,10 @@ Different volumes of sodium thiosulfate solution are made up to 50 cm³ with wat
 
 | Thiosulfate (cm³) | 50 | 40 | 30 | 20 |
 |---|---|---|---|---|
-| Time for cross to vanish (s) | 24 | 30 | 40 | 60 |
-| 1/t (s⁻¹) | 0.0417 | 0.0333 | 0.0250 | 0.0167 |
+| Time for cross to vanish (s) | 36 | 45 | 60 | 90 |
+| 1/t (s⁻¹) | 0.0278 | 0.0222 | 0.0167 | 0.0111 |
 
-Going from 20 cm³ to 40 cm³ doubles the concentration. The time halves from 60 s to 30 s, so 1/t doubles from 0.0167 to 0.0333 s⁻¹. 1/t ÷ volume is about 0.00083 every time, so the rate is **directly proportional** to concentration: a graph of 1/t against volume is a straight line through the origin.
+Going from 20 cm³ to 40 cm³ doubles the concentration. The time halves from 90 s to 45 s, so 1/t doubles from 0.0111 to 0.0222 s⁻¹. 1/t ÷ volume is about 0.00056 every time, so the rate is **directly proportional** to concentration: a graph of 1/t against volume is a straight line through the origin.
 
 ## Factors that change the rate (C5.2c, C5.2d)
 
@@ -163,18 +163,18 @@ A **catalyst** speeds up a reaction and is still there, unchanged, when the reac
 
 ### Worked example 5: which black powder is a catalyst? (C5.2g)
 
-Hydrogen peroxide slowly decomposes to water and oxygen; the specification suggests testing black powders, including manganese(IV) oxide, with it. A student adds 0.40 g of each of three powders to separate 25 cm³ portions of the same peroxide solution, collects the oxygen given off in 40 s, and finally recovers each powder by filtering, drying and weighing it.
+Hydrogen peroxide slowly decomposes to water and oxygen; the specification suggests testing black powders, including manganese(IV) oxide, with it. A student stirs 0.40 g of a powder into peroxide solution, times how long the mixture takes to give 20 cm³ of oxygen, then filters, dries and reweighs the powder. Each powder is tested on fresh solution from one bottle.
 
-| Powder | Oxygen in 40 s (cm³) | Mass recovered (g) |
+| Powder | Time for 20 cm³ of oxygen (s) | Mass recovered (g) |
 |---|---|---|
-| None | 2 | – |
-| A | 47 | 0.40 |
-| B | 2 | 0.40 |
-| C | 15 | 0.33 |
+| None | over 600 | – |
+| A | 18 | 0.40 |
+| B | over 600 | 0.40 |
+| C | 75 | 0.33 |
 
-- **A is a catalyst**: much faster than no powder, and all 0.40 g recovered.
-- **B is not a catalyst for this reaction**: the rate is the same as with no powder.
-- **C is not acting as a catalyst**: it gives more oxygen, but 0.07 g of it has been used up, so it is reacting.
+- **A is a catalyst**: 20 cm³ in 18 s instead of over 600 s, and all 0.40 g recovered.
+- **B is not a catalyst for this reaction**: it is no faster than no powder at all.
+- **C is not acting as a catalyst**: it speeds things up, but 0.07 g of it has been used up, so it is reacting.
 
 Likewise, copper powder makes zinc react faster with dilute sulfuric acid and is recovered unchanged.
 
@@ -208,7 +208,7 @@ On a **reaction profile** (energy on the y-axis, progress of reaction on the x-a
 
 ## Next steps
 
-Summarise with the [Controlling reactions revision notes](/resources/ocr-gcse-chemistry-controlling-reactions-revision-notes/), then try the [Controlling reactions practice questions](/resources/ocr-gcse-chemistry-controlling-reactions-practice/). Reaction profiles were first met in the [Energetics study guide](/resources/ocr-gcse-chemistry-energetics/).
+Summarise with the [Controlling reactions revision notes](/resources/ocr-gcse-chemistry-controlling-reactions-revision-notes/), then try the [Controlling reactions practice questions](/resources/ocr-gcse-chemistry-controlling-reactions-practice/). Reaction profiles were first met in the [Energetics study guide](/resources/ocr-gcse-chemistry-energetics/). Related units: [Monitoring chemical reactions](/resources/ocr-gcse-chemistry-monitoring-chemical-reactions/) and [Equilibria](/resources/ocr-gcse-chemistry-equilibria/).
 
 ## Official syllabus
 

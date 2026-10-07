@@ -20,7 +20,7 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-For full explanations and five worked examples, read the [C6.3 study guide](/resources/ocr-gcse-chemistry-earth-systems/) first. Here, **C6.3 Interpreting and interacting with earth systems** from OCR's J248 specification for GCSE (9–1) Chemistry A (Gateway Science), Version 4.0 of August 2026, is boiled down for last-weeks revision: statements C6.3a to C6.3g with maths outcomes CM6.3i and CM6.3ii. Both tiers are assessed on all of it, as nothing in C6.3 is Higher Tier only. Topic C6 sits in Paper 2 for Foundation entrants and Paper 4 for Higher entrants.
+For full explanations and five worked examples, read the [C6.3 study guide](/resources/ocr-gcse-chemistry-earth-systems/) first. Here, **C6.3 Interpreting and interacting with earth systems** from OCR's J248 specification for GCSE (9–1) Chemistry A (Gateway Science), Version 4.0 of August 2026, is boiled down for final-weeks revision: statements C6.3a to C6.3g with maths outcomes CM6.3i and CM6.3ii. Both tiers are assessed on all of it, as nothing in C6.3 is Higher Tier only. Topic C6 sits in Paper 2 for Foundation entrants and Paper 4 for Higher entrants.
 
 Useful links: the [J248 course hub](/boards/ocr/gcse/chemistry/), a [statement checklist to print](/checklists/ocr/gcse/chemistry/), the [C6.3 practice questions](/resources/ocr-gcse-chemistry-earth-systems-practice/) and the free [10-minute diagnostics](/diagnostics/).
 
@@ -76,7 +76,7 @@ The natural effect keeps the Earth habitable. Human activity **enhances** it. Ni
 
 **Evidence for a human cause:**
 
-- Carbon dioxide rose from about **280 ppm** before industry to over **430 ppm** in 2025.
+- Carbon dioxide rose from about **280 ppm** before industry to a monthly average over **430 ppm** in 2025.
 - The rise **correlates** with fossil fuel burning.
 - Average temperatures have risen at the same time.
 - Ice cores show carbon dioxide and temperature moving together in the past.
@@ -130,7 +130,7 @@ The natural effect keeps the Earth habitable. Human activity **enhances** it. Ni
 | Waste water | Screening, settling, biological breakdown of organic matter, then filtration and sterilisation | Harder, more stages |
 | Salt water | Desalination: distillation or reverse osmosis | Hardest; needs most energy |
 
-**Distillation** separates water by boiling and condensing. **Reverse osmosis** pushes water through a membrane under high pressure. Both are separation techniques from C2.1 (see [the C2.1 separation methods page](/resources/ocr-gcse-chemistry-purity-and-separating-mixtures/)).
+**Distillation** separates water by boiling and condensing. **Reverse osmosis** pushes water through a membrane under high pressure. Distillation and filtration are separation techniques from C2.1 (see [the C2.1 separation methods page](/resources/ocr-gcse-chemistry-purity-and-separating-mixtures/)).
 
 ## Must-know distinctions
 

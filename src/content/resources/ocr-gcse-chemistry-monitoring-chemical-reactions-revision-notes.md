@@ -131,7 +131,7 @@ Weigh these factors for each route, using the data given:
 - equilibrium position (for reversible reactions);
 - usefulness of by-products (a saleable by-product reduces waste).
 
-Compare the routes factor by factor, then state and justify one choice.
+Compare the routes factor by factor, then state and justify one choice. Rate is taught in [C5.2 Controlling reactions](/resources/ocr-gcse-chemistry-controlling-reactions/) and equilibrium in [C5.3 Equilibria](/resources/ocr-gcse-chemistry-equilibria/).
 
 ## Must-know distinctions
 
@@ -151,7 +151,7 @@ Compare the routes factor by factor, then state and justify one choice.
 6. How many moles of gas are in 96 cm³ at RTP?
 7. Oxygen is made by 2H₂O₂ → 2H₂O + O₂. Find the atom economy for oxygen (Mr: H₂O₂ = 34.0, O₂ = 32.0).
 8. The theoretical yield is 5.6 g and the actual yield is 4.2 g. Find the percentage yield.
-9. 2Na + Cl₂ → 2NaCl. Find the theoretical mass of sodium chloride from 2.30 g of sodium (Ar Na = 23.0).
+9. 2Na + Cl₂ → 2NaCl. Find the theoretical mass of sodium chloride from 1.38 g of sodium (Ar Na = 23.0).
 10. Accurate titres are 24.15, 24.40 and 24.25 cm³. Which are concordant, and what is the mean?
 
 ### Answers
@@ -164,7 +164,7 @@ Compare the routes factor by factor, then state and justify one choice.
 6. 96 ÷ 24 000 = **0.00400 mol**
 7. 32.0 ÷ (2 × 34.0) × 100 = **47.1%**
 8. 4.2 ÷ 5.6 × 100 = **75%**
-9. 0.100 mol Na gives 0.100 mol NaCl; 0.100 × 58.5 = **5.85 g**
+9. 0.0600 mol Na gives 0.0600 mol NaCl; 0.0600 × 58.5 = **3.51 g**
 10. **24.15 and 24.25 cm³** (within 0.10 cm³); mean = **24.20 cm³**
 
 ## Where marks are usually lost

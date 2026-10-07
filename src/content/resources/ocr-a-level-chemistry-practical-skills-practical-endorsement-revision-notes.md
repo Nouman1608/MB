@@ -39,7 +39,7 @@ Keep a record of all practical work (log book or portfolio)
 A previous result can be carried forward if you retake
 ```
 
-Practical techniques can also be tested in the written papers through 1.1.2(a).
+Practical techniques can also be tested in the written papers through 1.1.2(a); see the [written examination skills notes](/resources/ocr-a-level-chemistry-practical-skills-written-examination-revision-notes/).
 
 ## The PAGs
 
@@ -147,7 +147,7 @@ Separating funnel (vent often) → keep the organic layer → dry with an anhydr
 | Reflux vs distillation | Reflux: vertical condenser, vapour returns. Distillation: condenser leads to collector, thermometer at side arm |
 | Fluted paper vs reduced pressure | Fluted: fast gravity, hot, removes insoluble impurities. Reduced pressure: collects and dries crystals |
 | Hazard vs risk | The property vs the chance of harm in your method |
-| Water bath vs sand bath | Water bath to about 100 °C; sand bath for higher temperatures; both avoid naked flames |
+| Water bath vs sand bath | Water bath to about 100 °C; sand bath for higher temperatures; both heat evenly |
 | pH chart vs pH meter | Chart: rough. Meter or probe: precise after calibration with buffers |
 | Pure vs impure solid | Pure: sharp melting point. Impure: lower and over a range |
 

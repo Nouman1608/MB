@@ -72,7 +72,7 @@ Find other J248 topics through the [chemistry hub for OCR GCSE](/boards/ocr/gcse
 **(a)** Name the small molecule formed with the polymer. **[1]**
 **(b)** Draw a block diagram of the repeat unit. **[2]**
 **(c)** Explain why monomer A must have two –OH groups, not one. **[1]**
-**(d)** State how many small molecules form when 400 molecules of A react with 400 molecules of B to give 400 repeat units. **[1]**
+**(d)** A long polyester chain grows by a further 400 repeat units. State how many small molecules form as it does so. **[1]**
 
 **8.** **Higher Tier only.** Describe how nylon can be made in the laboratory from 1,6-diaminohexane solution and hexanedioyl dichloride solution. Include the small molecule formed and one safety precaution. **[4]**
 
@@ -146,7 +146,7 @@ Find other J248 topics through the [chemistry hub for OCR GCSE](/boards/ocr/gcse
 **7. (a)** **Water** [1]
 **(b)** Repeat unit –[O–●–O–OC–■–CO]– [1], with brackets and n [1].
 **(c)** One –OH joins the chain on one side and the second joins it on the other; with one, the chain stops [1].
-**(d)** Two ester links per repeat unit, so **800** water molecules [1].
+**(d)** Each new repeat unit adds two ester links, so **800** water molecules [1].
 *Examiner insight:* In (b), check that each block keeps its own atoms: ● keeps both O atoms and ■ keeps both C=O groups.
 
 **8.** Diamine solution in water in a beaker, with the dichloride solution (in cyclohexane) poured gently on top as a separate layer [1]. Nylon forms at the boundary between the layers [1]; it is lifted with tweezers and wound slowly onto a rod [1]. Small molecule **hydrogen chloride**, plus one precaution: gloves/eye protection (corrosive reagents) or no naked flames (flammable cyclohexane) [1].

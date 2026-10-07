@@ -96,7 +96,7 @@ In a half equation, one species gains or loses electrons (e⁻). Atoms and charg
 - Bromide ions losing electrons: 2Br⁻ → Br₂ + 2e⁻
 - Hydrogen ions gaining electrons: 2H⁺ + 2e⁻ → H₂
 
-Check by adding charges: for bromide, −2 on the left and 0 + (−2) on the right. You meet these again in electrolysis (C3.4).
+Check by adding charges: for bromide, −2 on the left and 0 + (−2) on the right. You meet these again in [electrolysis (C3.4)](/resources/ocr-gcse-chemistry-electrolysis/).
 
 ## State symbols (C3.1f)
 
@@ -140,7 +140,7 @@ So the mass of one particle = Mr ÷ (6.02 × 10²³) grams.
 - Mass of one gold atom = 197 ÷ (6.02 × 10²³) = **3.27 × 10⁻²² g** (3 significant figures).
 - Mass of one water molecule (Mr = 18) = 18 ÷ (6.02 × 10²³) = **2.99 × 10⁻²³ g**.
 
-To count particles, multiply moles by the Avogadro constant: 3.40 g of ammonia (Mr = 17) is 0.200 mol, so 0.200 × 6.02 × 10²³ = **1.20 × 10²³ molecules**.
+To count particles, multiply moles by the Avogadro constant: 5.10 g of ammonia (Mr = 17) is 0.300 mol, so 0.300 × 6.02 × 10²³ = **1.81 × 10²³ molecules**.
 
 ## Mass and moles (C3.1h, CM3.1iv) -- Higher Tier only
 
@@ -152,7 +152,7 @@ Rearranged: mass (g) = amount (mol) × Mr.
 
 **Worked example 5.**
 
-- How many moles are in 11.7 g of sodium chloride? Mr = 23 + 35.5 = 58.5. Amount = 11.7 ÷ 58.5 = **0.200 mol**.
+- How many moles are in 8.19 g of sodium chloride? Mr = 23 + 35.5 = 58.5. Amount = 8.19 ÷ 58.5 = **0.140 mol**.
 - What is the mass of 0.150 mol of carbon dioxide? Mr = 12 + (2 × 16) = 44. Mass = 0.150 × 44 = **6.60 g**.
 
 Match significant figures to the least precise data (CM3.1iii).
@@ -168,7 +168,7 @@ In a **non-enclosed system** (an open container), the reading can change:
 - **Mass goes down** when a product is a gas that escapes. Zinc reacting with hydrochloric acid in an open flask gives hydrogen gas. The hydrogen molecules move into the air, so they are no longer weighed.
 - **Mass goes up** when a reactant is a gas from the air. Iron wool heated in air joins with oxygen molecules to form iron oxide. The oxygen atoms are now part of the solid on the balance.
 
-**Worked example 6.** An open flask of zinc and acid reads 152.40 g at the start and 152.28 g at the end. The 0.12 g decrease is hydrogen that left the flask. The atoms are in the air, not destroyed; a balance only shows a change when particles cross the container boundary.
+**Worked example 6.** An open flask of zinc and acid reads 148.36 g at the start and 148.24 g at the end. The 0.12 g decrease is hydrogen that left the flask. The atoms are in the air, not destroyed; a balance only shows a change when particles cross the container boundary.
 
 ### Practical work
 

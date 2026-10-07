@@ -158,7 +158,7 @@ percentage yield = (actual yield ÷ theoretical yield) × 100
 
 **Worked example 7.** The student in worked example 6 collects 3.62 g of zinc oxide. Percentage yield = (3.62 ÷ 4.07) × 100 = **88.9%**.
 
-A yield over 100% means a mistake, usually a damp or impure product. Foundation questions give the theoretical yield; Higher questions may ask you to work it out first.
+A yield over 100% means a mistake, usually a damp or impure product. Working out the theoretical yield first (C5.1g) is Higher Tier only.
 
 ## C5.1i and C5.1j: atom economy (both tiers)
 

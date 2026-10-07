@@ -169,7 +169,7 @@ Worked reminders:
 5. Write 0.000470 mol in standard form without losing significant figures.
 6. Calculate the amount in 22.5 cm³ of 0.0815 mol dm⁻³ solution, to an appropriate number of significant figures.
 7. Why can an intercept not be read from a graph whose x-axis starts at 2.9 × 10⁻³ K⁻¹?
-8. Titres (cm³): rough 24.35, then 23.90, 24.10, 23.95, 23.85. Which do you use, and what is the mean?
+8. Titres (cm³): rough 26.85, then 26.30, 26.55, 26.40, 26.35. Which do you use, and what is the mean?
 9. Name one systematic error in a calorimetry experiment, and its effect on an exothermic ΔH.
 10. An experimental value is 52.3 kJ mol⁻¹ and the accepted value is 57.1 kJ mol⁻¹. Calculate the percentage error.
 
@@ -182,7 +182,7 @@ Worked reminders:
 5. **4.70 × 10⁻⁴ mol**.
 6. 0.0815 × 0.0225 = 0.00183375, so **1.83 × 10⁻³ mol** (3 s.f.).
 7. The y-axis is not at x = 0, so the line's crossing point there is not the intercept; calculate it with c = y − mx.
-8. Use 23.90, 23.95 and 23.85 (within 0.10 cm³); mean = **23.90 cm³**.
+8. Use 26.30, 26.40 and 26.35 (within 0.10 cm³); mean = **26.35 cm³**.
 9. Heat loss to the surroundings; the measured temperature rise is too small, so ΔH is less negative than it should be.
 10. (57.1 − 52.3) ÷ 57.1 × 100 = **8.4%**.
 

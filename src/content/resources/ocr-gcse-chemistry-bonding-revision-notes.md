@@ -73,7 +73,7 @@ Example: magnesium, Z = 12 → 2,8,2 → period 3, group 2.
 | Elements involved | Metal + non-metal | Non-metals | Non-metals (e.g. C, Si with O) | Mostly C and H | Metal(s) |
 | Particles | Ions | Molecules | Atoms | Long-chain molecules | Ions + delocalised electrons |
 | Bond | Ionic, all directions | Covalent within molecules | Covalent throughout | Covalent along chains | Metallic |
-| Between units | Same ionic bonds, whole lattice | Weak intermolecular forces | None; one network | Weaker forces between chains | Same metallic bonds |
+| Between units | Same ionic bonds, whole lattice | Weak intermolecular forces | None in diamond (one network); weak forces between graphite layers | Weaker forces between chains | Same metallic bonds |
 
 All chemical bonds are electrostatic. Ionic bonds come from transfer of electrons, and covalent bonds from sharing.
 
