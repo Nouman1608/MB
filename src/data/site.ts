@@ -35,6 +35,7 @@ export const site = {
    * Threads (@marlbridge) exists but is currently suspended, so it is
    * deliberately NOT listed -- a sameAs link to a suspended profile would
    * point at a dead page rather than a live verification signal.
+   * YouTube (@marlbridge) owner-confirmed 2026-10-07.
    */
   social: [
     { label: 'Instagram', href: 'https://www.instagram.com/marlbridgeofficial/' },
@@ -42,6 +43,7 @@ export const site = {
     { label: 'Facebook', href: 'https://www.facebook.com/marlbridge' },
     { label: 'TikTok', href: 'https://www.tiktok.com/@marlbridge' },
     { label: 'X', href: 'https://x.com/Marlbridgehq' },
+    { label: 'YouTube', href: 'https://www.youtube.com/@marlbridge' },
   ] as Array<{ label: string; href: string }>,
   ogImage: '/images/brand/marlbridge-og.png',
 
