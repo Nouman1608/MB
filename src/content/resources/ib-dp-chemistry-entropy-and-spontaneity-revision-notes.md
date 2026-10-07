@@ -27,7 +27,7 @@ Anything here that feels too compressed is unpacked, with fuller examples, in th
 ## Key definitions
 
 - **Entropy, S:** how dispersed the matter and energy of a system are. The more ways the energy can be shared out, the higher S. Unit: J K⁻¹ mol⁻¹.
-- **Standard entropy, S⦵:** the entropy value per mole for a substance under standard conditions. It is positive for every substance above 0 K, elements included.
+- **Standard entropy, S⦵:** the entropy value per mole for a substance under standard conditions. It is positive for every pure substance above 0 K, elements included.
 - **Perfect crystal at 0 K:** only one possible arrangement, so its entropy is predicted to be zero.
 - **Gibbs energy change, ΔG:** links ΔH, ΔS and the absolute temperature T; it relates to the energy a reaction can supply for work.
 - **Spontaneous change:** at constant pressure, any change with a negative ΔG. It may still be slow.
@@ -117,7 +117,7 @@ lnK = −12 000 ÷ (8.31 × 298) = −4.85, so K = **7.86 × 10⁻³**. At equil
 ## Links to other parts of the course
 
 - **Structure 1.1:** particle arrangements in solids, liquids and gases explain the order of S⦵ values and the zero-entropy perfect crystal.
-- **Reactivity 2.3:** a positive ΔG⦵ means K < 1, so an equilibrium mixture contains mostly reactants.
+- **Reactivity 2.3:** a positive ΔG⦵ means K < 1, so an equilibrium mixture contains mostly reactants; see the [Reactivity 2.3 study guide](/resources/ib-dp-chemistry-how-far-the-extent-of-chemical-change/).
 - **Reactivity 3.2:** electrochemical data give a second route to deciding whether a redox reaction is spontaneous.
 
 ## Must-know distinctions
@@ -131,7 +131,7 @@ lnK = −12 000 ÷ (8.31 × 298) = −4.85, so K = **7.86 × 10⁻³**. At equil
 ## Quick self-test
 
 1. State the sign of ΔS for CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l), with a reason.
-2. Why is the entropy of a perfect crystal at 0 K predicted to be zero?
+2. Explain why a perfect crystal is expected to have zero entropy at absolute zero.
 3. A change has ΔH = +25.0 kJ mol⁻¹ and ΔS = +95.0 J K⁻¹ mol⁻¹. Calculate ΔG at 298 K and say whether it is spontaneous.
 4. ΔH = −120 kJ mol⁻¹ and ΔS = −150 J K⁻¹ mol⁻¹. Find the temperature range in which the reaction is spontaneous.
 5. Which combination of signs of ΔH and ΔS gives a reaction that is never spontaneous?

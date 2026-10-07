@@ -181,7 +181,7 @@ That is close to the Ar of tungsten, 183.84. Whole-number m/z values cause the s
 - Changing the proton or neutron number when an atom becomes an ion.
 - Swapping A and Z positions in a nuclear symbol, or leaving the charge off an ion.
 - Using the mass of the most abundant isotope as Ar.
-- Dividing by 100 when the abundances given are peak heights that do not total 100.
+- *(HL only)* Dividing by 100 when the abundances given are peak heights that do not total 100.
 - Rounding part-way through an Ar calculation, so the final decimals are wrong.
 - Reverse calculations where the two percentages do not add to 100%.
 - Saying isotopes differ chemically, or giving "different number of protons" as the difference.

@@ -32,16 +32,16 @@ Pair it with the [revision notes](/resources/ib-dp-chemistry-counting-particles-
 | Structure 1.4.2 | Work out relative formula mass Mr from relative atomic masses Ar | SL and HL |
 | Structure 1.4.3 | Move between mass in grams, amount in moles and number of particles using molar mass in g mol⁻¹ | SL and HL |
 | Structure 1.4.4 | Convert percentage composition by mass into an empirical formula and the reverse; find a molecular formula from the empirical formula and the molar mass | SL and HL |
-| Structure 1.4.5 | Solve problems linking molar concentration, amount of solute and volume of solution; use square brackets; convert between g dm⁻³ and mol dm⁻³ | SL and HL |
+| Structure 1.4.5 | Solve problems connecting molar concentration with the amount dissolved and the solution volume; use square brackets; convert between g dm⁻³ and mol dm⁻³ | SL and HL |
 | Structure 1.4.6 | Use Avogadro's law with mole ratios to solve problems on gas volumes | SL and HL |
 
 The guide suggests about 7 teaching hours for this sub-topic at both levels.
 
 ## Structure 1.4.1 The mole and the Avogadro constant
 
-Atoms are too small to count singly, so chemists count them in batches called the **mole** (symbol mol), the SI unit of **amount of substance**. One mole contains exactly as many elementary entities as the value of the **Avogadro constant**, NA. To three significant figures, NA = 6.02 × 10²³ mol⁻¹. The guide notes that NA is given in the data booklet, and that its unit is mol⁻¹.
+Atoms are too small to count singly, so chemists count them in batches called the **mole** (symbol mol), which is the SI unit for **amount of substance**. A mole is defined as holding exactly as many elementary entities as the value of the **Avogadro constant**, NA. To three significant figures, NA = 6.02 × 10²³ mol⁻¹. The guide notes that NA is given in the data booklet, and that its unit is mol⁻¹.
 
-An **elementary entity** is whatever you choose to count: an atom, a molecule, an ion, an electron, or a stated group of particles such as a formula unit of an ionic compound. You must always say which entity you mean. "One mole of oxygen" is ambiguous. One mole of O₂ molecules contains two moles of O atoms, so the two readings differ by a factor of two.
+An **elementary entity** is whatever you choose to count: an atom, molecule, ion or electron, or a stated group of particles such as a formula unit of an ionic compound. You must always say which entity you mean. "One mole of oxygen" is ambiguous. One mole of O₂ molecules contains two moles of O atoms, so the two readings differ by a factor of two.
 
 The conversion is a single multiplication or division:
 
@@ -74,7 +74,7 @@ The trick is to scale the amount by the count per formula unit **before** multip
 
 Atomic masses are compared on a relative scale based on carbon-12. The **relative atomic mass**, Ar, of an element is the weighted average mass of its atoms on a scale where one ¹²C atom has a mass of exactly 12. The **relative formula mass**, Mr, of a compound is the sum of the Ar values of all the atoms in its formula. Because both are ratios of masses, **Ar and Mr have no units**.
 
-The guide says the Ar values given to two decimal places in the data booklet should be used in calculations. In the examples on this page, use: H 1.01, C 12.01, N 14.01, O 16.00, Mg 24.31, S 32.07, Cl 35.45, Fe 55.85, Ag 107.87.
+The guide says calculations should use the data booklet's Ar values, which are quoted to two decimal places. In the examples on this page, use: H 1.01, C 12.01, N 14.01, O 16.00, Mg 24.31, S 32.07, Cl 35.45, Fe 55.85, Ag 107.87.
 
 ### Worked example 2: Mr of an ionic salt and a hydrate
 
@@ -129,7 +129,7 @@ Carry unrounded values between steps and round at the end. To go from particles 
 
 ## Structure 1.4.4 Empirical and molecular formulae
 
-An **empirical formula** gives the lowest whole-number ratio between the atoms present. A **molecular formula** tells you the true count of each kind of atom in one molecule, so it is always the empirical formula scaled up by a whole number (sometimes 1). Ionic compounds have only empirical formulae.
+An **empirical formula** gives the lowest whole-number ratio between the atoms present. A **molecular formula** gives the exact atom count for every element in a single molecule, so it is always the empirical formula scaled up by a whole number (sometimes 1). Ionic compounds have only empirical formulae.
 
 ### Percentage composition to empirical formula
 
@@ -170,7 +170,7 @@ If you are given experimental masses of each element instead of percentages, ski
 
 ## Structure 1.4.5 Molar concentration
 
-A solution's **molar concentration** depends on the amount of solute and the volume of the whole solution (not the volume of solvent added). Concentration in mol dm⁻³ is found from:
+A solution's **molar concentration** depends on how much solute (in mol) is present and on the volume of the whole solution (not the volume of solvent added). Concentration in mol dm⁻³ is found from:
 
 ```
 n = C × V      (n in mol, C in mol dm⁻³, V in dm³)
@@ -206,7 +206,7 @@ Dilution never changes the amount of solute, only the volume it is spread throug
 
 ## Structure 1.4.6 Avogadro's law
 
-**Avogadro's law**: if two gases are at the same temperature and pressure, equal volumes of them hold the same number of molecules. So at fixed temperature and pressure, the **volume ratio of gases equals their mole ratio** in the balanced equation. No molar volume is needed; that belongs to Structure 1.5, which links Avogadro's law to ideal gases.
+**Avogadro's law**: if two gases are at the same temperature and pressure, equal volumes of them hold the same number of molecules. So at fixed temperature and pressure, the **volume ratio of gases equals their mole ratio** in the balanced equation. No molar volume is needed; that belongs to [Structure 1.5](/resources/ib-dp-chemistry-ideal-gases/), which links Avogadro's law to ideal gases.
 
 Only gases count (solid and liquid volumes are negligible), and all volumes must be measured under the same conditions.
 

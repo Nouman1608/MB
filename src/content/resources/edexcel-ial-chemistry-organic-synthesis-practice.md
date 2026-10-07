@@ -54,7 +54,7 @@ Use these values: C 12.0, H 1.0, N 14.0, O 16.0. Proton NMR shifts: alkyl CH abo
 
 **5.** Compound T, C₅H₁₀O, gives an orange precipitate with 2,4-DNPH. It does not change Fehling's solution and gives no precipitate with iodine and sodium hydroxide. Its IR spectrum has a strong band at 1715 cm⁻¹ and no broad O–H band. Its ¹³C NMR spectrum has three peaks. Its proton NMR spectrum has a quartet and a triplet, areas 2 : 3. Deduce the structure of T, explaining each step. **[6]**
 
-**6.** 4-Hydroxypentan-2-one is CH₃COCH₂CH(OH)CH₃.
+**6.** 5-Hydroxyhexan-2-one is CH₃COCH₂CH₂CH(OH)CH₃.
 
 **(a)** Predict what you would see when it is treated with each reagent: (i) 2,4-DNPH; (ii) Tollens' reagent, warmed; (iii) acidified potassium dichromate(VI), warmed; (iv) iodine and sodium hydroxide, warmed; (v) sodium carbonate solution. **[5]**
 **(b)** Predict, with a reason, whether it is soluble in water. **[1]**

@@ -43,7 +43,7 @@ Read the [study guide](/resources/ib-dp-chemistry-the-covalent-model-formal-char
 **(b)** Give one piece of physical evidence, other than enthalpy data, and one piece of chemical evidence for a delocalized structure in benzene. **[2]**
 **(c)** Suggest why benzene tends to undergo substitution rather than addition reactions. **[2]**
 
-**3.** For each species, deduce the number of electron domains round the central atom, the electron domain geometry and the molecular geometry.
+**3.** For each species, deduce the number of electron domains round the central atom, the electron domain geometry and molecular geometry.
 
 **(a)** BrF₃ **[3]**
 **(b)** I₃⁻ (the central iodine is bonded to the other two) **[3]**
@@ -89,7 +89,7 @@ Read the [study guide](/resources/ib-dp-chemistry-the-covalent-model-formal-char
 **(a)** Calculate the total number of valence electrons in XeO₂F₂. **[1]**
 **(b)** Lewis formula A has two Xe–O single bonds; B has two Xe=O double bonds. Both have two Xe–F bonds and one lone pair on Xe. Calculate the formal charges on Xe and each O in A and in B. **[3]**
 **(c)** Deduce which Lewis formula is preferred. **[1]**
-**(d)** Deduce the number of electron domains round xenon, the electron domain geometry and the molecular geometry. **[3]**
+**(d)** Deduce the number of electron domains round xenon, the electron domain geometry and molecular geometry. **[3]**
 **(e)** State the number of σ bonds and π bonds in Lewis formula B. **[2]**
 
 ## Answers

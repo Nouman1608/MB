@@ -67,6 +67,7 @@ Stronger metallic bond → more energy to disrupt the lattice → **higher melti
 |---|---|---|---|
 | Down a group (for example group 1, K → Rb → Cs) | same | increases | decreases |
 | Across a period, group 1 → group 2 (for example Rb → Sr) | increases | decreases | increases |
+| Across period 3 into the p-block (Na → Mg → Al) | 1+ → 2+ → 3+ | decreases | increases (371 K → 923 K → 933 K) |
 
 ### Method in steps: "compare the melting points of two metals"
 
@@ -88,7 +89,7 @@ Higher charge + higher electron density + smaller ion -> stronger metallic bond
 Sr has the higher melting point (about 1050 K, against about 312 K for Rb)
 ```
 
-The simple model works well for s-block metals. Some p-block metals break the pattern (gallium melts at 303 K), so trust data over prediction when the two disagree.
+For p-block metals such as aluminium, apply the same two factors: Al³⁺ has the highest charge and smallest radius in period 3, so aluminium melts highest, though only just above magnesium. The simple model works well for s-block metals. Some p-block metals break the pattern (gallium melts at 303 K), so trust data over prediction when the two disagree.
 
 ## Structure 2.3.3: transition elements (HL only)
 
@@ -154,7 +155,7 @@ The simple model works well for s-block metals. Some p-block metals break the pa
 - Comparing melting points with one factor only. Give the charge (or number of delocalized electrons) and the ion radius.
 - Saying "more energy to break bonds" without naming the bond as the attraction between cations and delocalized electrons.
 - Linking a use to a property without explaining the property from the bonding.
-- (HL) Forgetting to say the d-electrons are delocalized when explaining transition metal melting points.
+- (HL only) Forgetting to say the d-electrons are delocalized when explaining transition metal melting points.
 
 ## Official syllabus
 

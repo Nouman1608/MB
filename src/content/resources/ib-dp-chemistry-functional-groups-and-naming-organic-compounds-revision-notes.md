@@ -149,7 +149,7 @@ Same molecular formula, different connectivity.
 
 So (CH₃)₃CNH₂, 2-methylpropan-2-amine, is a **primary** amine, even though the same carbon skeleton with –OH would be a tertiary alcohol. CH₃CH₂NHCH₂CH₃ is a **secondary** amine.
 
-**Linking questions (HL only).** Only three dibromobenzene isomers exist (1,2-, 1,3- and 1,4-). With alternating single and double bonds there would be two different 1,2-isomers, so the result supports six equal ring bonds. A second HL link: two amino acids join through an amido link (–CONH–) when they form a dipeptide.
+**Linking questions to HL content.** Only three dibromobenzene isomers exist (1,2-, 1,3- and 1,4-). With alternating single and double bonds there would be two different 1,2-isomers, so the result supports six equal ring bonds. A second HL link: two amino acids join through an amido link (–CONH–) when they form a dipeptide.
 
 ## Must-know distinctions
 

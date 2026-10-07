@@ -68,12 +68,12 @@ Electronegativities are Pauling values given in each question. For masses, take 
 
 **8.** A section of an addition polymer is shown.
 
-–CH₂–C(CH₃)(CN)–CH₂–C(CH₃)(CN)–CH₂–C(CH₃)(CN)–
+–CHCl–CCl₂–CHCl–CCl₂–CHCl–CCl₂–
 
 **(a)** Draw the repeating unit. **[1]**
 **(b)** Deduce the structural formula of the monomer and name it. **[2]**
 
-**9.** (HL only) 5-Aminopentanoic acid, H₂N(CH₂)₄COOH, polymerizes by condensation with itself.
+**9.** (HL only) 8-Aminooctanoic acid, H₂N(CH₂)₇COOH, polymerizes by condensation with itself.
 
 **(a)** Draw the repeating unit formed. **[2]**
 **(b)** Name the type of link formed and the small molecule released. **[2]**
@@ -131,13 +131,13 @@ Electronegativities are Pauling values given in each question. For masses, take 
 **(c)** M(C₃H₅Cl) = 3(12.01) + 5(1.01) + 35.45 = 76.53 g mol⁻¹ [1]. n = 2.68 × 10⁵ / 76.53 = **3.50 × 10³** [1]. **[6]**
 *Examiner insight:* Both methyl and chlorine are side groups here; drawing CH₃ as part of the backbone gives a chain that does not match the monomer.
 
-**8. (a)** **–[–CH₂–C(CH₃)(CN)–]–ₙ** [1].
-**(b)** **CH₂=C(CH₃)CN** [1]; **2-methylpropenenitrile** [1]. **[3]**
+**8. (a)** **–[–CHCl–CCl₂–]–ₙ** [1].
+**(b)** **CHCl=CCl₂** [1]; **trichloroethene** [1]. **[3]**
 *Examiner insight:* A monomer is a molecule, so continuation bonds must not appear in its formula.
 
-**9. (a)** Remove H from –NH₂ and OH from –COOH and join the N to the C=O [1]: **–[–NH(CH₂)₄CO–]–ₙ** [1].
+**9. (a)** Remove H from –NH₂ and OH from –COOH and join the N to the C=O [1]: **–[–NH(CH₂)₇CO–]–ₙ** [1].
 **(b)** **Amide** link [1]; **water** [1].
-**(c)** M(monomer, C₅H₁₁NO₂) = 117.17 g mol⁻¹; M(repeating unit) = 117.17 − 18.02 = 99.15 g mol⁻¹ [1]. Atom economy = 99.15 / 117.17 × 100 = **84.6%** [1]. **[6]**
+**(c)** M(monomer, C₈H₁₇NO₂) = 159.26 g mol⁻¹; M(repeating unit) = 159.26 − 18.02 = 141.24 g mol⁻¹ [1]. Atom economy = 141.24 / 159.26 × 100 = **88.7%** [1]. **[6]**
 *Examiner insight:* One monomer with both groups gives one residue per repeating unit; two residues is not the simplest unit.
 
 **10. (a)** H from –OH and OH from –COOH lost as water; ester link formed [1]: **–[–OCH₂CO–]–ₙ** [1].

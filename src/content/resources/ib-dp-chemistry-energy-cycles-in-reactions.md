@@ -183,7 +183,7 @@ Two iodine atoms are needed, so double both iodine terms.
 - Steps: 148 + 738 + 1451 + 2(107) + 2(−295) = +1961
 - Lattice enthalpy = 1961 − (−364) = **+2325 kJ mol⁻¹**
 
-Interpreting the result: the MgI₂ lattice enthalpy is over three times that of KI. Mg²⁺ carries twice the charge of K⁺ and is smaller, so the attraction to the iodide ions is much stronger (Structure 2.1). Notice also that IE₂ is the biggest single step. It is paid back by the large lattice enthalpy, which is why MgI₂ still forms exothermically.
+Interpreting the result: the MgI₂ lattice enthalpy is over three times that of KI. Mg²⁺ carries twice the charge of K⁺ and is smaller, so the attraction to the iodide ions is much stronger (Structure 2.1). Notice also that IE₂ is the biggest endothermic step. It is paid back by the large lattice enthalpy, which is why MgI₂ still forms exothermically.
 
 ## Common errors
 

@@ -50,7 +50,7 @@ Atoms of main-group elements usually lose or gain enough electrons to reach the 
 | 16 | s² p⁴ | gain 2 | 2− |
 | 17 | s² p⁵ | gain 1 | 1− |
 
-Elements in group 14 and group 18 do not usually form simple ions.
+Group 18 atoms already have full outer levels and do not form ions, and carbon and silicon in group 14 do not form simple ions in their compounds.
 
 ### Worked example 1: charge from a configuration
 
@@ -181,25 +181,25 @@ Two factors control it:
 
 ### Worked example 3: ranking lattice enthalpies
 
-Use these ionic radii (in pm): K⁺ 138, Ca²⁺ 100, F⁻ 133, Br⁻ 196, O²⁻ 140, S²⁻ 184. Rank KF, KBr, CaO and CaS in order of decreasing lattice enthalpy, and explain.
+Use these ionic radii (in pm): Na⁺ 102, K⁺ 138, Mg²⁺ 72, Ba²⁺ 135, Cl⁻ 181, I⁻ 220, S²⁻ 184. Rank NaCl, KI, MgS and BaS in order of decreasing lattice enthalpy, and explain.
 
 ```
 Step 1: compare charges
-  CaO and CaS: 2+ and 2−   (charge product 4)
-  KF and KBr:  1+ and 1−   (charge product 1)
-  -> CaO and CaS come before KF and KBr
+  MgS and BaS: 2+ and 2−   (charge product 4)
+  NaCl and KI: 1+ and 1−   (charge product 1)
+  -> MgS and BaS come before NaCl and KI
 
 Step 2: within each pair, compare distances between ion centres
-  CaO: 100 + 140 = 240 pm      CaS: 100 + 184 = 284 pm
-  KF:  138 + 133 = 271 pm      KBr: 138 + 196 = 334 pm
+  MgS:  72 + 184 = 256 pm      BaS:  135 + 184 = 319 pm
+  NaCl: 102 + 181 = 283 pm     KI:   138 + 220 = 358 pm
   Shorter distance -> stronger attraction
 
-Order: CaO > CaS > KF > KBr
+Order: MgS > BaS > NaCl > KI
 ```
 
-The charge effect dominates. KF has a shorter distance between ion centres than CaS, yet CaS still has the larger lattice enthalpy because its ions carry double charges.
+The charge effect dominates. NaCl has a shorter distance between ion centres than BaS, yet BaS still has the larger lattice enthalpy because its ions carry double charges.
 
-A higher lattice enthalpy usually goes with a higher melting point, because the ions are harder to pull apart. This is why calcium oxide melts far above potassium bromide.
+A higher lattice enthalpy usually goes with a higher melting point, because the ions are harder to pull apart. This is why magnesium sulfide melts far above potassium iodide.
 
 ## Common errors
 

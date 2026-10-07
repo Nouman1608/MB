@@ -170,7 +170,7 @@ x = 0.040, so ¹¹³In = **4.0%** [1]
 - Writing electrons = Z + charge for positive ions, which adds electrons instead of removing them.
 - Changing A or Z when an ion forms; only the electron count changes.
 - Using the mass of the most abundant isotope, or a plain average of m/z values, as Ar.
-- Dividing by 100 when the abundances are relative heights that do not total 100.
+- *(HL only)* Dividing by 100 when the abundances are relative heights that do not total 100.
 - Rounding intermediate products, so a two-decimal-place answer comes out wrong.
 - Reverse calculations where the two percentages do not add to 100%.
 - Linking isotopes' identical chemistry to "the same mass" instead of to the same electrons.

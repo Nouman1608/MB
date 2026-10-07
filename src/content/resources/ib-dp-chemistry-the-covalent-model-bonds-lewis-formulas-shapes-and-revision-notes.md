@@ -29,7 +29,7 @@ Test yourself afterwards with the [Structure 2.2 practice set](/resources/ib-dp-
 | Term | Meaning |
 |---|---|
 | Covalent bond | Two positive nuclei both attracting the same electron pair that they share |
-| Octet rule | Tendency of atoms to gain a valence shell holding eight electrons in total |
+| Octet rule | Atoms tend to bond until their outer (valence) shell holds eight electrons |
 | Lewis formula | Diagram showing every valence electron, bonding and non-bonding; pairs as dots, crosses or dashes |
 | Coordination bond | Covalent bond where both shared electrons come from the same atom |
 | Electron domain | A lone pair, a single bond or a whole multiple bond around a central atom |
@@ -137,6 +137,19 @@ Properties:
 - RF = component distance ÷ solvent front distance, both from the base line. Range 0 to 1, no unit.
 - Same RF as a reference, same plate, same solvent: probably the same substance.
 - Locating agents and GC/HPLC operating details are not required.
+
+## Linking questions in brief
+
+- **Limits of the octet rule:** boron and beryllium compounds have fewer than eight electrons; odd-electron species such as NO cannot pair every electron; some period 3 atoms exceed eight (an HL idea, covered in [Structure 2.2.11 to 2.2.17](/resources/ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds/)).
+- **Noble gases:** their valence shells are already full and their ionization energies are high, so they rarely share electrons; xenon does form a few compounds, such as XeF₂.
+- **Same-element bonds:** identical atoms have equal electronegativity, so neither can take an electron from the other; they can only share.
+- **Multiple bonds and reactivity:** the extra electron density of C=C attracts electrophiles, so alkenes undergo addition; N≡N, by contrast, is so strong that N₂ is very unreactive.
+- **HL only, Lewis acids and bases:** a Lewis base donates a lone pair to a Lewis acid, so the bond formed is a coordination bond.
+- **How useful is VSEPR?** It predicts shapes of main-group molecules reliably but gives only approximate angles.
+- **Polar bonds and ionic character:** a large electronegativity difference gives partial ionic character, so HCl ionizes in water.
+- **HL only, IR activity:** only vibrations that alter a molecule's dipole moment absorb infrared, so CO₂ absorbs through its asymmetric stretch but not its symmetric one.
+- **Real gases:** attractions between molecules explain why real gases depart from ideal behaviour, especially when compressed or cooled, and why NH₃ departs more than N₂.
+- **Evidence and functional groups:** melting and boiling points, conductivity and solubility tests supply the data; –OH and –NH₂ groups bring hydrogen bonding, C=O brings dipole–dipole forces.
 
 ## Must-know distinctions
 

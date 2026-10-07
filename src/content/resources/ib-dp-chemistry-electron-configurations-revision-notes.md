@@ -22,7 +22,7 @@ featured: false
 
 These are recall notes for **Structure 1.3, Electron configurations**, from the IB *Chemistry guide* for the Diploma Programme (published February 2023; first assessment 2025). Understandings 1.3.1 to 1.3.7 are all here. Sections 1.3.1 to 1.3.5 are SL and HL; 1.3.6 and 1.3.7 are additional higher level, so **HL only**. Stuck on a point? Go back to the [study guide](/resources/ib-dp-chemistry-electron-configurations/), which gives the full reasoning and longer examples.
 
-Also useful: [practice questions](/resources/ib-dp-chemistry-electron-configurations-practice/), [Structure 1 overview notes](/resources/ib-dp-chemistry-structure-1-revision-notes/), the course [hub page](/boards/ib/ib-dp/chemistry/), a [printable tick-list](/checklists/ib/ib-dp/chemistry/) and free [diagnostics](/diagnostics/) to find gaps.
+Also useful: [practice questions](/resources/ib-dp-chemistry-electron-configurations-practice/), [Structure 1 overview notes](/resources/ib-dp-chemistry-structure-1-revision-notes/), the [nuclear atom notes](/resources/ib-dp-chemistry-the-nuclear-atom-revision-notes/) for Structure 1.2, the course [hub page](/boards/ib/ib-dp/chemistry/), a [printable tick-list](/checklists/ib/ib-dp/chemistry/) and free [diagnostics](/diagnostics/) to find gaps.
 
 ## Key definitions
 
@@ -154,7 +154,7 @@ First IE = 8.62 × 10⁻¹⁹ × 6.02 × 10²³ = 5.19 × 10⁵ J mol⁻¹ = 519
 - **Main level vs sublevel vs orbital**: n = 3 is a main level; 3p is a sublevel; 3px is one orbital.
 - **Filling order vs loss order**: 4s fills before 3d but empties before 3d.
 - **Full vs condensed**: full lists every sublevel from 1s; condensed starts from a noble gas core.
-- **Convergence (HL)**: the convergence limit is at high frequency, not low.
+- **Convergence**: the lines converge at high frequency, not low.
 
 ## Where marks are usually lost
 

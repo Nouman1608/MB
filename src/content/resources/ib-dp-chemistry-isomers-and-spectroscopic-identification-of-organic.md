@@ -30,7 +30,7 @@ Shaky on formulas, functional groups or naming? Start with the [functional group
 |---|---|---|
 | Structure 3.2.7 | Cis-trans isomers (alkenes, C₃ and C₄ rings); chiral carbons drawn with wedges; enantiomers, optical activity, racemic mixtures | HL only |
 | Structure 3.2.8 | Use the molecular ion and fragment peaks in a mass spectrum to deduce structural features | HL only |
-| Structure 3.2.9 | Read the functional group region of an IR spectrum; link IR absorption to greenhouse gases | HL only |
+| Structure 3.2.9 | Read the functional group region of IR spectra; link IR absorption to greenhouse gases | HL only |
 | Structure 3.2.10 | Use the number of ¹H NMR signals, their chemical shifts and integration traces to deduce a structure | HL only |
 | Structure 3.2.11 | Use singlets, doublets, triplets and quartets for finer structural detail | HL only |
 | Structure 3.2.12 | Combine data from several techniques to identify a molecule | HL only |
@@ -135,7 +135,7 @@ The guide says IR data are given in the data booklet; use the table the question
 - 1705 cm⁻¹: C=O, confirming a carboxyl group.
 - 1650 cm⁻¹: C=C.
 
-It is an **unsaturated carboxylic acid**, such as but-2-enoic acid, CH₃CH=CHCOOH, which also has cis and trans forms that IR cannot tell apart.
+It is an **unsaturated carboxylic acid**, such as but-2-enoic acid, CH₃CH=CHCOOH, which also has cis and trans forms that the functional group region cannot tell apart.
 
 ### IR activity and greenhouse gases
 

@@ -20,7 +20,7 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This study guide teaches IB DP Chemistry Reactivity 1.1, "Measuring enthalpy changes", starting from nothing. It is written against the IB Diploma Programme Chemistry guide (first assessment 2025, published February 2023), whose understandings Reactivity 1.1.1 to 1.1.4 each get a worked example here. The sub-topic has no additional higher level (AHL) content, so SL and HL learn identical material. The guide was first examined in 2025; this page serves that session and every later one.
+This study guide teaches IB DP Chemistry Reactivity 1.1, "Measuring enthalpy changes", starting from nothing. It is written against the IB Diploma Programme Chemistry guide (first assessment 2025, published February 2023), whose understandings Reactivity 1.1.1 to 1.1.4 each get a worked example here. The sub-topic has no additional higher level (AHL) content, so SL and HL learn identical material.
 
 Afterwards, the [revision notes](/resources/ib-dp-chemistry-measuring-enthalpy-changes-revision-notes/) give a one-sitting summary and the [practice questions](/resources/ib-dp-chemistry-measuring-enthalpy-changes-practice/) check your understanding. Temperature and particle kinetic energy belong to Structure 1, covered in the [Structure 1 study guide](/resources/ib-dp-chemistry-structure-1/). Plan your revision from the [course hub](/boards/ib/ib-dp/chemistry/) and [topic checklist](/checklists/ib/ib-dp/chemistry/), and spot weak areas with a free [diagnostic](/diagnostics/).
 
@@ -220,7 +220,7 @@ Suppose the start is 20.4 °C, the highest reading 26.8 °C and the extended lin
 
 ## Where next
 
-Lock in the definitions and methods with the [revision notes](/resources/ib-dp-chemistry-measuring-enthalpy-changes-revision-notes/), then work the [practice set](/resources/ib-dp-chemistry-measuring-enthalpy-changes-practice/). Reactivity 1.2 then uses bond enthalpies and Hess's law for reactions that cannot be measured directly. For exam technique across the course, read the [exam preparation guide](/resources/ib-dp-chemistry-exam-preparation/).
+Lock in the definitions and methods with the [revision notes](/resources/ib-dp-chemistry-measuring-enthalpy-changes-revision-notes/), then work the [practice set](/resources/ib-dp-chemistry-measuring-enthalpy-changes-practice/). [Reactivity 1.2](/resources/ib-dp-chemistry-energy-cycles-in-reactions/) then uses bond enthalpies and Hess's law for reactions that cannot be measured directly. For exam technique across the course, read the [exam preparation guide](/resources/ib-dp-chemistry-exam-preparation/).
 
 ## Official syllabus
 

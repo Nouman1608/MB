@@ -171,7 +171,7 @@ The large lattice term more than pays for the endothermic steps.
 4. X + Y → Z, ΔH = −60 kJ mol⁻¹. State ΔH for 2Z → 2X + 2Y.
 5. (HL only) Write the equation for ΔHf⦵ of ethanoic acid, CH₃COOH(l).
 6. (HL only) Calculate ΔH⦵ for TiCl₄(l) + 2Mg(s) → Ti(s) + 2MgCl₂(s). ΔHf⦵ values: TiCl₄(l) −804.2; MgCl₂(s) −641.3 kJ mol⁻¹.
-7. (HL only) Calculate ΔH⦵ for C₂H₄(g) + H₂(g) → C₂H₆(g). ΔHc⦵ values: C₂H₄ −1411.0; H₂ −285.8; C₂H₆ −1560.0 kJ mol⁻¹.
+7. (HL only) Calculate ΔH⦵ for C₂H₄(g) + H₂O(l) → C₂H₅OH(l). ΔHc⦵ values: C₂H₄(g) −1411.0; C₂H₅OH(l) −1366.8 kJ mol⁻¹.
 8. (HL only) Why is ΔHf⦵ of Br₂(l) zero but ΔHf⦵ of Br₂(g) not?
 9. (HL only) Find the first electron affinity of bromine. Data for NaBr (kJ mol⁻¹): atomization of Na +107; IE₁(Na) +496; atomization of bromine +112; lattice enthalpy +751; ΔHf⦵ −361.
 10. (HL only) Which ionization energy terms appear in a Born–Haber cycle for MgBr₂?
@@ -184,7 +184,7 @@ The large lattice term more than pays for the endothermic steps.
 4. Reversed and doubled: **+120 kJ mol⁻¹**.
 5. 2C(s, graphite) + 2H₂(g) + O₂(g) → CH₃COOH(l).
 6. 2(−641.3) − (−804.2) = **−478.4 kJ mol⁻¹** (Mg and Ti are zero).
-7. (−1411.0 − 285.8) − (−1560.0) = **−136.8 kJ mol⁻¹**.
+7. −1411.0 − (−1366.8) = **−44.2 kJ mol⁻¹** (water has no ΔHc⦵).
 8. The standard state of bromine is the liquid. Forming the gas involves vaporization, so its ΔHf⦵ is positive.
 9. −361 = 107 + 496 + 112 + EA − 751, so EA = **−325 kJ mol⁻¹**.
 10. Both IE₁ and IE₂ of magnesium, because Mg²⁺ has lost two electrons.

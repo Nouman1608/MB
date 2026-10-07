@@ -128,7 +128,7 @@ Aim for short, complete answers. Each frame below names the particles, the force
 
 ### Worked reminder: an unusual pair
 
-Compare potassium sulfide, K₂S, with calcium sulfide, CaS. Both contain S²⁻. Ca²⁺ is doubly charged and smaller than K⁺ (100 pm against 138 pm, using the radii in the study guide). Both factors raise the attraction, so CaS has the larger lattice enthalpy and the higher melting point. Note that K₂S needs two K⁺ for each S²⁻, while CaS is 1 : 1.
+Compare potassium sulfide, K₂S, with calcium sulfide, CaS. Both contain S²⁻. Ca²⁺ is doubly charged and smaller than K⁺ (radii of 100 pm against 138 pm). Both factors raise the attraction, so CaS has the larger lattice enthalpy and the higher melting point. Note that K₂S needs two K⁺ for each S²⁻, while CaS is 1 : 1.
 
 ## Must-know distinctions
 

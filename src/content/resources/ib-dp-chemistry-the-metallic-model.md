@@ -191,7 +191,7 @@ The rise is not smooth across the whole d-block. Zinc, with a full 3d sublevel, 
 - Mixing up metals and ionic compounds: a solid ionic compound does not conduct, but a solid metal does.
 - Using only ion size when comparing metals from different groups. The charge and the number of delocalized electrons change too.
 - Writing melting points in degrees Celsius with a "K" label. If data are in kelvin, subtract 273 to get degrees Celsius.
-- (HL) Saying only the 4s electrons are delocalized in a transition metal.
+- (HL only) Saying only the 4s electrons are delocalized in a transition metal.
 
 ## Where to go next
 

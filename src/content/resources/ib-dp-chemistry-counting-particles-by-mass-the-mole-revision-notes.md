@@ -28,14 +28,14 @@ Test yourself afterwards with the [Structure 1.4 practice set](/resources/ib-dp-
 
 | Term | Meaning | Units |
 |---|---|---|
-| Mole (mol) | SI unit of amount of substance; one mole holds NA elementary entities | mol |
+| Mole (mol) | SI unit for amount of substance; one mole holds NA elementary entities | mol |
 | Avogadro constant, NA | Number of entities per mole: 6.02 × 10²³ to 3 s.f. | mol⁻¹ |
 | Elementary entity | The particle you are counting: atom, molecule, ion, electron or a stated group of particles | none |
 | Relative atomic mass, Ar | Average mass of an element's atoms relative to one-twelfth of a ¹²C atom | none |
 | Relative formula mass, Mr | Sum of the Ar values in a formula | none |
 | Molar mass, M | Mass of one mole of a substance | g mol⁻¹ |
 | Empirical formula | Lowest whole-number ratio between the atoms present | none |
-| Molecular formula | True count of each kind of atom in one molecule | none |
+| Molecular formula | Exact atom count for every element in a single molecule | none |
 | Molar concentration, [X] | Amount of solute per unit volume of solution | mol dm⁻³ |
 | Avogadro's law | At equal temperature and pressure, equal gas volumes contain equal numbers of molecules | none |
 
@@ -107,7 +107,7 @@ mass concentration = 5.55 / 0.5000 = 11.1 g dm⁻³
 - **"Mole of oxygen".** Always state O or O₂. 1 mol of O₂ contains 2 mol of O atoms.
 - **mol dm⁻³ versus g dm⁻³.** Convert using M. Square brackets mean mol dm⁻³.
 - **Volume of solution versus volume of solvent.** C uses the final volume of solution.
-- **Avogadro's law versus molar volume.** Avogadro's law gives volume ratios without any numerical molar volume. The molar volume of an ideal gas is Structure 1.5.
+- **Avogadro's law versus molar volume.** Avogadro's law gives volume ratios without any numerical molar volume. Molar volume for an ideal gas belongs to Structure 1.5.
 - **Gas versus liquid products.** Water formed below its boiling point is a liquid and is left out of the gas volume.
 
 ## Quick self-test

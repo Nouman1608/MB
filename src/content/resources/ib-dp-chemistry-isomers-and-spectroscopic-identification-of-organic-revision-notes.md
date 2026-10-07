@@ -170,7 +170,7 @@ The guide says ¹H NMR data are given in the data booklet; these ranges are appr
 6. A peak lies 45 below M⁺. Which group was probably lost?
 7. An IR spectrum has a strong band at 1715 cm⁻¹ but nothing at 3200–3600 or 2500–3000 cm⁻¹. Which classes of compound fit?
 8. Why is N₂ not a greenhouse gas?
-9. Predict the ¹H NMR spectrum of ethoxyethane, CH₃CH₂OCH₂CH₃.
+9. Predict the ¹H NMR spectrum of 1,2-diethoxyethane, CH₃CH₂OCH₂CH₂OCH₂CH₃.
 10. Predict the splitting and area ratio in 1,1-dimethoxyethane, CH₃CH(OCH₃)₂.
 11. Integration steps are 22.5 mm, 15 mm and 7.5 mm. Give the ratio.
 12. Predict the ¹H NMR spectrum of 1-chloro-3,3-dimethylbutane, ClCH₂CH₂C(CH₃)₃.
@@ -185,7 +185,7 @@ The guide says ¹H NMR data are given in the data booklet; these ranges are appr
 6. COOH, suggesting a carboxylic acid.
 7. C=O is present with no O–H, so an aldehyde, ketone or ester, not an alcohol or acid.
 8. Its only vibration does not change the dipole moment (it has none), so it does not absorb IR.
-9. Two signals: a quartet (4H, about 3.3–4.3 ppm, next to O) and a triplet (6H, about 0.9–1.7 ppm). Ratio 2 : 3.
+9. Three signals: a singlet (4H, the two equivalent central CH₂ groups, which do not split each other), a quartet (4H) and a triplet (6H, about 0.9–1.7 ppm). Both CH₂ signals lie at about 3.3–4.3 ppm, next to O. Ratio 2 : 2 : 3.
 10. Three signals: CH₃ doublet (one neighbour), CH quartet (three neighbours) and a singlet for the two equivalent OCH₃ groups. Ratio 3 : 1 : 6.
 11. 3 : 2 : 1.
 12. Three signals: a 9H singlet (carbon 3 has no H), a 2H triplet for CH₂Cl (furthest downfield) and a 2H triplet for the middle CH₂. Ratio 2 : 2 : 9.

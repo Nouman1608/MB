@@ -193,11 +193,11 @@ Ar = (84 × 0.6 + 86 × 9.9 + 87 × 7.0 + 88 × 82.5) / 100
 - Changing the number of protons when an ion forms. Only electrons change.
 - Getting the sign wrong for anions: a 2− ion has **two more** electrons than protons.
 - Taking Ar as the mass of the most common isotope instead of the weighted mean.
-- Forgetting to divide by the total when peak heights do not add up to 100.
+- *(HL only)* Forgetting to divide by the total when peak heights do not add up to 100.
 - Giving abundances in a reverse calculation that do not add up to 100%.
 - Saying isotopes have "different chemical properties because they have different masses". The electrons, not the nucleus, decide chemistry.
 - Adding units to Ar. Relative atomic mass has none.
-- Describing how the mass spectrometer works when the question asks you to interpret its output.
+- *(HL only)* Describing how the mass spectrometer works when the question asks you to interpret its output.
 
 ## Where to go next
 

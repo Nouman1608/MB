@@ -20,7 +20,7 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This guide teaches the first part of **Structure 3.2, Functional groups: Classification of organic compounds**, matched to the February 2023 IB *Chemistry guide* for the Diploma Programme, whose first exams ran in 2025. It covers understandings Structure 3.2.1 to 3.2.6, all studied at **both SL and HL**; the later understandings (stereoisomers and spectroscopy) are not covered here.
+This guide teaches the first part of **Structure 3.2, Functional groups: Classification of organic compounds**, matched to the February 2023 IB *Chemistry guide* for the Diploma Programme, whose first exams ran in 2025. It covers understandings Structure 3.2.1 to 3.2.6, all studied at **both SL and HL**; the later understandings (stereoisomers and spectroscopy) are in a [separate unit](/resources/ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic/).
 
 Next, try the [practice questions](/resources/ib-dp-chemistry-functional-groups-and-naming-organic-compounds-practice/); shorter [revision notes](/resources/ib-dp-chemistry-functional-groups-and-naming-organic-compounds-revision-notes/) cover the same content. To see where this unit sits, use the [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/) or print the [checklist](/checklists/ib/ib-dp/chemistry/). Our free [diagnostics](/diagnostics/) can point you to topics that need work.
 
@@ -40,7 +40,7 @@ Next, try the [practice questions](/resources/ib-dp-chemistry-functional-groups-
 | Formula type | What it shows | 1,4-dibromobutane |
 |---|---|---|
 | Empirical | Simplest whole-number ratio of atoms | C₂H₄Br |
-| Molecular | Actual number of each atom in one molecule | C₄H₈Br₂ |
+| Molecular | Atoms of each element actually present in one molecule | C₄H₈Br₂ |
 | Full structural | Every atom and every bond | see below |
 | Condensed structural | Atoms grouped carbon by carbon, no bond lines | BrCH₂CH₂CH₂CH₂Br |
 | Skeletal | Carbon chain as a zigzag; H atoms on carbon left out | Br at each end of a four-vertex zigzag |
@@ -127,13 +127,13 @@ Alcohols and ethers, aldehydes and ketones, and acids and esters share general f
 
 ### Worked example 3: finding a member from its molar mass
 
-A ketone has a molar mass of 100.18 g mol⁻¹. Find its molecular formula. Use Ar values C = 12.01, H = 1.01, O = 16.00.
+An ester has a molar mass of 116.18 g mol⁻¹. Find its molecular formula. Use Ar values C = 12.01, H = 1.01, O = 16.00.
 
-Ketones fit CₙH₂ₙO. One CH₂ unit has mass 12.01 + 2(1.01) = 14.03.
+Esters fit CₙH₂ₙO₂. One CH₂ unit has mass 12.01 + 2(1.01) = 14.03.
 
-14.03n + 16.00 = 100.18, so 14.03n = 84.18 and n = 6.
+14.03n + 2(16.00) = 116.18, so 14.03n = 84.18 and n = 6.
 
-The ketone is **C₆H₁₂O**.
+The ester is **C₆H₁₂O₂**.
 
 ## Trends in melting and boiling points (3.2.4)
 
@@ -158,7 +158,7 @@ Melting points also rise, but less smoothly, because they also depend on how wel
 
 Estimate the boiling point of hexan-1-ol from the table.
 
-The last three gaps are 18 K, 21 K and 20 K, about 20 K per CH₂. 411 + 20 = 431 K, so a sensible estimate is **about 430 K**.
+The last three gaps are 18 K, 21 K and 20 K, about 20 K per CH₂. 411 + 20 = 431 K, so estimate **about 430 K**.
 
 ## IUPAC naming (3.2.5)
 
@@ -228,7 +228,7 @@ For **amines**, count the carbon atoms bonded to the **nitrogen** instead.
 
 Butan-2-amine is the trap: its NH₂ carbon has two carbon neighbours, but only the nitrogen counts.
 
-**HL only.** A linking question asks why only three dibromobenzene isomers supports the modern benzene model. Alternating single and double bonds would allow two different 1,2-isomers; only one exists, so all six ring bonds are equal.
+**HL link (AHL Structure 2.2).** A linking question asks why only three dibromobenzene isomers supports the modern benzene model. Alternating single and double bonds would allow two different 1,2-isomers; only one exists, so all six ring bonds are equal.
 
 ## Common errors
 

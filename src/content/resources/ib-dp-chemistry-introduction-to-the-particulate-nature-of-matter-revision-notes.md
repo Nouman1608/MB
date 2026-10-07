@@ -153,7 +153,7 @@ Worked reminder: a pure solid heated steadily shows plateaus at 44 °C and 280 �
 3. Convert −40 °C to kelvin.
 4. Convert 400 K to °C.
 5. Which method separates water from a copper(II) sulfate solution, keeping the water?
-6. A spot moves 3.3 cm when the solvent front moves 5.5 cm. Calculate Rf.
+6. A spot moves 4.8 cm when the solvent front moves 6.4 cm. Calculate Rf.
 7. Give the state symbol for sodium chloride dissolved in water.
 8. The kelvin temperature of a gas rises from 200 K to 600 K. By what factor does the average kinetic energy change?
 9. Explain why the temperature is constant while a pure solid melts.
@@ -168,7 +168,7 @@ Worked reminder: a pure solid heated steadily shows plateaus at 44 °C and 280 �
 3. −40 + 273.15 = **233.15 K** (233 K).
 4. 400 − 273.15 = **126.85 °C** (127 °C).
 5. Simple distillation.
-6. 3.3 ÷ 5.5 = **0.60**.
+6. 4.8 ÷ 6.4 = **0.75**.
 7. NaCl(aq).
 8. 600 ÷ 200 = **3**: it triples.
 9. The energy supplied overcomes the attractions between particles instead of raising their average kinetic energy, so the temperature does not rise until all the solid has melted.

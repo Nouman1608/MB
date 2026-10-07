@@ -33,7 +33,7 @@ See also the [Unit 6 revision notes](/resources/edexcel-ial-chemistry-practical-
 | Question styles | Short-open, open-response and calculation questions |
 | Mathematics | Level 2 (or higher) mathematics makes up at least 6 marks |
 | Calculators | Allowed |
-| Sessions | January, June and October; first assessed June 2020 |
+| Sessions | January, June and October |
 
 Settings may be new to you, so recall alone will not do. The specification names four areas: independent problem solving; scientific method (variables, data, evaluation, uncertainty, criticising a method); numeracy (graphs, processing, sensible significant figures, accuracy versus precision); and apparatus (choice, use, range, resolution, hazards).
 
@@ -41,7 +41,7 @@ Expect test observations from any unit, data from titrations, thermochemistry, e
 
 ## The eight core practicals
 
-| Core Practical | Outcome | Title in the specification |
+| Core Practical | Outcome | Specification title, summarised |
 |---|---|---|
 | 9a, 9b | 11.12 | Iodine-propanone rate by titration; an iodine clock reaction |
 | 10 | 11.13 | Finding the activation energy of a reaction |
@@ -138,7 +138,7 @@ Doubling the volume halves the time (74 ÷ 37 = 2.0); ×1.5 gives 74 ÷ 49 = 1.5
 3. Iron in the wire = 1.384 ÷ 1.40 × 100 = **98.8%**.
 4. Uncertainty (16.16): titre 0.40%, pipette 0.16%, flask 0.12%, mass (±0.01 g) 0.71%; total 1.4%, so 98.8 ± 1.4%. The shortfall from 100% lies inside this, so the data cannot prove the wire holds anything but iron. A larger sample would cut the biggest term, the mass.
 
-**13b.** 2S₂O₃²⁻ + I₂ → S₄O₆²⁻ + 2I⁻. An oxidising agent releases iodine from excess potassium iodide. Run in thiosulfate until the brown fades to pale yellow, add starch (blue-black), and stop when the blue-black goes. A worked standardisation is in the [revision notes](/resources/edexcel-ial-chemistry-practical-skills-in-chemistry-ii-revision-notes/).
+**13b.** 2S₂O₃²⁻ + I₂ → S₄O₆²⁻ + 2I⁻. An oxidising agent releases iodine from excess potassium iodide. Run in thiosulfate until the brown fades to pale yellow, add starch (blue-black), and stop when the blue-black goes. Iodine is volatile, so titrate promptly. A worked standardisation is in the [revision notes](/resources/edexcel-ial-chemistry-practical-skills-in-chemistry-ii-revision-notes/).
 
 ## Core Practical 14: a transition metal complex
 
@@ -156,7 +156,7 @@ Some complex stays in the filtrate. Concentrated ammonia is corrosive with an ir
 The Unit 3 guide lists the AS tests. The IA2 additions:
 
 - **Outcome 17.22, metal aqua ions with hydroxide and ammonia:** Cu²⁺ pale blue precipitate, deep blue solution in excess ammonia; Fe²⁺ green precipitate, browning in air; Fe³⁺ red-brown precipitate; Cr³⁺ grey-green precipitate, dissolving in excess of either; Zn²⁺ white precipitate, dissolving in excess of either. The [transition metals guide](/resources/edexcel-ial-chemistry-transition-metals-redox-and-catalysis/) has all eight ions.
-- **Carbonyls (15.8):** 2,4-DNPH gives an orange precipitate with any aldehyde or ketone; Tollens' reagent gives a silver mirror with an aldehyde only; iodine with alkali gives a pale yellow precipitate of iodoform with CH₃CO– compounds.
+- **Carbonyls (15.8):** 2,4-DNPH gives an orange precipitate with any aldehyde or ketone; Tollens' reagent gives a silver mirror with an aldehyde only; iodine with alkali gives a pale yellow precipitate of iodoform with ethanal and methyl ketones.
 
 **Worked example 8.** Liquid Q has molecular formula C₄H₈O. With 2,4-DNPH it forms an orange solid; Tollens' reagent stays unchanged; iodine in alkali gives a pale yellow solid. It is a ketone containing CH₃CO–: **butanone**, CH₃COCH₂CH₃.
 

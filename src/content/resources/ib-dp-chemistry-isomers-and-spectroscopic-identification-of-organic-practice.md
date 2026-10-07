@@ -62,7 +62,7 @@ New to the content? Begin with the [study guide](/resources/ib-dp-chemistry-isom
 **7.** Predict the number of ¹H NMR signals, their area ratio and each signal's splitting.
 
 **(a)** 2,2-dichlorobutane, CH₃CCl₂CH₂CH₃ **[3]**
-**(b)** ethyl 2,2-dimethylpropanoate, (CH₃)₃CCOOCH₂CH₃ **[3]**
+**(b)** diethyl propanedioate, CH₂(COOCH₂CH₃)₂ **[3]**
 
 **8.** Ester X, C₅H₁₀O₂, gives four ¹H NMR signals: 1.1 ppm (triplet), 1.3 ppm (triplet), 2.3 ppm (quartet) and 4.1 ppm (quartet), with integration steps of 9.6, 9.6, 6.4 and 6.4 mm. Shifts: H on carbon next to C=O 2.0–2.7 ppm; H on carbon bonded to O 3.3–4.3 ppm.
 
@@ -81,12 +81,12 @@ New to the content? Begin with the [study guide](/resources/ib-dp-chemistry-isom
 **(d)** Deduce the number of hydrogen atoms in each environment and explain the splitting. **[3]**
 **(e)** Deduce the structure of W and identify the ions at m/z 73 and 45. **[2]**
 
-**10.** An optically active liquid, V, has the molecular formula C₅H₁₀O.
+**10.** An optically active liquid, V, has the molecular formula C₆H₁₂O.
 
 **(a)** IR: strong absorption at 1730 cm⁻¹; no broad O–H band. State what this shows. **[2]**
-**(b)** MS: M⁺ at m/z 86; large peaks at 57 and 29. Suggest an ion for each peak. **[2]**
+**(b)** MS: M⁺ at m/z 100; other peaks include 71 and 29. Suggest an ion for each peak. **[2]**
 **(c)** ¹H NMR includes a doublet of area 1 at 9.6 ppm. State what the shift and the splitting show. **[2]**
-**(d)** V is one of: pentanal, 2-methylbutanal, 3-methylbutanal and 2,2-dimethylpropanal. Identify V, using (c) and its optical activity. **[2]**
+**(d)** V is one of: 2-ethylbutanal, 2,3-dimethylbutanal, 3-methylpentanal and 2,2-dimethylbutanal. Identify V, using (c) and its optical activity. **[2]**
 **(e)** A sample of V made in the laboratory from non-chiral starting materials has no optical activity. Suggest why. **[1]**
 
 ## Answers
@@ -117,7 +117,7 @@ New to the content? Begin with the [study guide](/resources/ib-dp-chemistry-isom
 *Examiner insight:* Link absorption to a change in dipole moment; CO₂ itself is non-polar.
 
 **7. (a)** Three signals [1]; ratio 3 : 2 : 3 (CH₃ on carbon 2, CH₂, end CH₃) [1]; singlet (carbon 2 has no H), quartet, triplet respectively [1].
-**(b)** Three signals [1]; ratio 9 : 2 : 3 ((CH₃)₃C, OCH₂, end CH₃) [1]; singlet, quartet, triplet respectively [1].
+**(b)** Three signals [1]; ratio 1 : 2 : 3 (central CH₂, the two equivalent OCH₂, the two equivalent CH₃) [1]; singlet (both neighbouring carbons are C=O with no H), quartet, triplet respectively [1].
 *Examiner insight:* A carbon with no hydrogen blocks splitting; counting hydrogens across it is a common slip.
 
 **8. (a)** Dividing by 3.2: 9.6 : 9.6 : 6.4 : 6.4 = **3 : 3 : 2 : 2** [1].
@@ -132,9 +132,9 @@ New to the content? Begin with the [study guide](/resources/ib-dp-chemistry-isom
 *Examiner insight:* In (a), scale 1.33 : 2.68 : 1 to whole numbers; rounding 1.33 down to 1 gives a wrong formula.
 
 **10. (a)** A C=O group is present [1]; there is no O–H, so V is not an alcohol or a carboxylic acid [1].
-**(b)** 57: C₄H₉⁺, from loss of CHO (86 − 29) [1]. 29: CHO⁺ (or C₂H₅⁺) [1].
+**(b)** 71: C₅H₁₁⁺, from loss of CHO (100 − 29) [1]. 29: CHO⁺ (or C₂H₅⁺) [1].
 **(c)** 9.6 ppm: an aldehyde –CHO hydrogen [1]; doublet: the next carbon carries exactly one H [1].
-**(d)** **2-methylbutanal**, CH₃CH₂CH(CH₃)CHO [1]: only it has a CH next to the CHO (the others would give a triplet or a singlet), and its carbon 2 carries H, CH₃, C₂H₅ and CHO, so it is chiral [1].
+**(d)** The doublet rules out 3-methylpentanal (triplet) and 2,2-dimethylbutanal (singlet) [1]. Of the two left, 2-ethylbutanal is not chiral (its carbon 2 carries two ethyl groups), so V is **2,3-dimethylbutanal**, (CH₃)₂CHCH(CH₃)CHO, whose carbon 2 carries H, CH₃, CH(CH₃)₂ and CHO [1].
 **(e)** The synthesis produces equal amounts of both enantiomers, a racemic mixture, so the rotations cancel [1].
 *Examiner insight:* In (d), name the four groups on the chiral carbon rather than just saying "it is chiral".
 

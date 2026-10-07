@@ -26,7 +26,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-Every question here targets Structure 2.2.1 to 2.2.10, the first part of the covalent model, as laid out in the IB's February 2023 *Chemistry guide* for Diploma Programme courses first assessed in 2025. All of it is SL and HL content except one part on transition element complexes, marked "HL only". Questions 7, 11 and 12 combine several understandings.
+Every question here targets Structure 2.2.1 to 2.2.10, the first part of the covalent model, as laid out in the IB's February 2023 *Chemistry guide* for Diploma Programme courses first assessed in 2025. All of it is SL and HL content except one part on transition element complexes, marked "HL only".
 
 Use the [Structure 2.2 study guide](/resources/ib-dp-chemistry-the-covalent-model-bonds-lewis-formulas-shapes-and/) and the [Structure 2.2 revision notes](/resources/ib-dp-chemistry-the-covalent-model-bonds-lewis-formulas-shapes-and-revision-notes/) first. The [Diploma Chemistry overview](/boards/ib/ib-dp/chemistry/) links every unit, the [checklist of Diploma Chemistry understandings](/checklists/ib/ib-dp/chemistry/) records progress, and a [free diagnostic test](/diagnostics/) helps you spot gaps in other units.
 
@@ -67,14 +67,14 @@ Use the [Structure 2.2 study guide](/resources/ib-dp-chemistry-the-covalent-mode
 
 **(a)** molecules of fluoromethane, CH₃F **[1]**
 **(b)** molecules of methanol, CH₃OH **[1]**
-**(c)** a chloromethane molecule and an iodine molecule **[1]**
+**(c)** a chloromethane molecule and an iodine molecule (other than London forces) **[1]**
 **(d)** molecules of hexane, C₆H₁₄ **[1]**
 
 **9.** Use these data.
 
 | Substance | Molar mass / g mol⁻¹ | Boiling point / °C |
 |---|---|---|
-| ethane, C₂H₆ | 30.08 | −89 |
+| oxygen, O₂ | 32.00 | −183 |
 | methanol, CH₃OH | 32.05 | 65 |
 | fluoromethane, CH₃F | 34.04 | −78 |
 
@@ -139,7 +139,7 @@ Explain the order of boiling points in terms of intermolecular forces. **[5]**
 **(d)** London (dispersion) forces [1].
 *Examiner insight:* fluoromethane is a common trap: its H atoms are bonded to C, not F, so it cannot hydrogen bond.
 
-**9.** Molar masses are similar, so London forces are comparable [1]. Ethane is non-polar and has London forces only, so it has the lowest boiling point [1]. Fluoromethane is polar, so it also has dipole–dipole forces and boils higher than ethane [1]. Methanol has an H atom bonded to O, so it forms hydrogen bonds between molecules [1]; these are the strongest forces, so methanol boils highest [1].
+**9.** Molar masses are similar, so London forces are comparable [1]. Oxygen is non-polar and has London forces only, so it has the lowest boiling point [1]. Fluoromethane is polar, so it also has dipole–dipole forces and boils higher than oxygen [1]. Methanol has an H atom bonded to O, so it forms hydrogen bonds between molecules [1]; these are the strongest forces, so methanol boils highest [1].
 *Examiner insight:* begin by noting that the molar masses are similar; without that step, the comparison of force types is not justified.
 
 **10. (a)** Methanol's O–H group forms hydrogen bonds with water molecules [1]; hexan-1-ol's long non-polar chain cannot hydrogen bond with water, so it dissolves only slightly [1].

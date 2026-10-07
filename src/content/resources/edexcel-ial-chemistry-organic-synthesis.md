@@ -174,7 +174,7 @@ Losses come from product left dissolved in the recrystallisation solvent, transf
 - **v Drying:** add an anhydrous salt such as magnesium sulfate or calcium chloride to the organic liquid until the liquid is clear and the solid no longer clumps, then decant or filter.
 - **vi Distillation:** heat the liquid with the thermometer bulb level with the side arm. Collect the fraction that distils close to the product's boiling temperature.
 - **vii Steam distillation:** pass steam through the mixture, or boil it with water. A volatile, water-immiscible compound distils with the water below 100 °C, so a compound that would decompose at its own boiling temperature is collected safely.
-- **viii Melting temperature:** pack a little dry solid into a sealed capillary and raise the temperature gently as you approach the expected value. A pure solid melts sharply at the data value; impurities lower it and spread it over a range.
+- **viii Melting temperature:** pack a little dry solid into a capillary tube sealed at one end and raise the temperature gently as you approach the expected value. A pure solid melts sharply at the data value; impurities lower it and spread it over a range.
 - **ix Boiling temperature:** distil the liquid and read the steady thermometer temperature. Compare it with the data value.
 
 ## Common errors

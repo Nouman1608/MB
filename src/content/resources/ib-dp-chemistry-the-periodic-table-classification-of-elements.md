@@ -159,7 +159,7 @@ Rules, highest priority first:
 ### Worked example 5
 
 ```
-Mn in MnO₄²⁻:  x + 4(−2) = −2  -> x = +6   (manganate(VI))
+Fe in FeO₄²⁻:  x + 4(−2) = −2  -> x = +6   (ferrate(VI))
 Al in LiAlH₄:  (+1) + x + 4(−1) = 0 -> x = +3   (H is −1, a metal hydride)
 ```
 
@@ -210,7 +210,7 @@ Cu⁺:  Cu is [Ar] 3d¹⁰ 4s¹ -> remove 4s¹ -> [Ar] 3d¹⁰
 
 ## HL only: why complexes are coloured (3.1.10)
 
-Ligands **split** the d-sublevel into two sets of orbitals. A d electron absorbs a photon matching the gap and is **promoted** to the higher set, removing that frequency from white light. The colour seen is **complementary** to the colour absorbed, opposite it on the colour wheel. Splitting patterns are not required. The guide states that the colour wheel and c = λf are given in the data booklet.
+Ligands **split** the d-sublevel into two sets of orbitals. A d electron absorbs a photon matching the gap and is **promoted** to the higher set, removing that frequency from white light. The colour seen is **complementary** to the colour absorbed, opposite it on the colour wheel. Splitting patterns are not required. The guide says the data booklet supplies both the colour wheel and c = λf.
 
 A simple colour wheel (approximate ranges; use the one you are given):
 

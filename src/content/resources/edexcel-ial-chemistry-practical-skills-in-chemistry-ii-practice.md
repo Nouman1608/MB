@@ -103,7 +103,7 @@ Data for this set: Fe = 55.8. R = 8.31 J mol⁻¹ K⁻¹. Use any other values g
 **2.** n(S₂O₃²⁻) = 0.0100 × 9.20/1000 = 9.20 × 10⁻⁵ mol [1]; n(I₂) = 4.60 × 10⁻⁵ mol [1]; [I₂] = 4.60 × 10⁻⁵ ÷ 0.00500 = **9.20 × 10⁻³ mol dm⁻³** [1]. **[3]**
 *Examiner insight:* Put the 1 : 2 ratio on a separate line; a reader can then follow your method even if a later number is wrong.
 
-**3. (a)** Doubling the acid volume doubles [H⁺], yet 1000/t stays between 16.4 and 16.7 s⁻¹ [1]. The rate does not depend on [H⁺] [1]: **zero order** [1].
+**3. (a)** Doubling the acid volume doubles [H⁺], yet 1/t stays between 0.0164 and 0.0167 s⁻¹ [1]. The rate does not depend on [H⁺] [1]: **zero order** [1].
 **(b)** It makes the total volume the same in every run, so [H⁺] varies in direct proportion to the acid volume [1].
 *Examiner insight:* Times that differ by a second are within timing error; say so rather than claiming a small trend.
 

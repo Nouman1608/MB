@@ -81,7 +81,7 @@ The high pressure makes all three less ideal than they would be at 100 kPa. The 
 
 The **molar volume**, Vm, is the volume occupied by one mole of gas. For an ideal gas, Vm depends only on temperature and pressure, not on which gas it is. This is Avogadro's law (Structure 1.4.6) in another form: equal volumes at the same temperature and pressure hold equal numbers of particles.
 
-At **standard temperature and pressure (STP)**, 273.15 K (0 °C) and 100 kPa, the molar volume of an ideal gas is **22.7 dm³ mol⁻¹**. At any other conditions, work Vm out from the ideal gas equation: Vm = RT/P.
+At **standard temperature and pressure (STP)**, 273.15 K (0 °C) and 100 kPa, any ideal gas has a molar volume of **22.7 dm³ mol⁻¹**. At any other conditions, work Vm out from the ideal gas equation: Vm = RT/P.
 
 ```
 amount of gas, n = V ÷ Vm      (V and Vm in the same units)

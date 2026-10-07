@@ -59,7 +59,7 @@ Learning the metallic model for the first time? Start with the [Structure 2.3 st
 
 Describe and explain the trend in melting point down this part of group 2. **[3]**
 
-**7.** (calculator allowed) Rubidium is in group 1 and strontium is in group 2. Both are in period 5. Use these values, and take the Avogadro constant as 6.02 × 10²³ mol⁻¹.
+**7.** Rubidium is in group 1 and strontium is in group 2. Both are in period 5. Use these values, and take the Avogadro constant as 6.02 × 10²³ mol⁻¹.
 
 | Metal | Density / g cm⁻³ | Molar mass / g mol⁻¹ |
 |---|---|---|
@@ -77,7 +77,7 @@ Describe and explain the trend in melting point down this part of group 2. **[3]
 **(a)** State the trend the simple metallic model predicts for melting point down a group. **[1]**
 **(b)** Suggest what these data show about the simple model when it is applied to p-block metals. **[1]**
 
-**10.** (calculator allowed) An engineer is choosing a metal for a heat sink, a finned block that draws heat away from a laptop processor. The heat sink has a volume of 50.0 cm³. Use these values.
+**10.** An engineer is choosing a metal for a heat sink, a finned block that draws heat away from a laptop processor. The heat sink has a volume of 50.0 cm³. Use these values.
 
 | Metal | Density / g cm⁻³ | Thermal conductivity / W m⁻¹ K⁻¹ |
 |---|---|---|
@@ -168,7 +168,7 @@ Aluminium: 2.70 × 50.0 = **135 g** [1]
 - Comparing melting points using only one factor, especially across a period where charge and radius both change.
 - In calculations, forgetting to multiply by the number of electrons released per atom, or rounding too early.
 - Not using the data supplied when a question says to.
-- (HL) Ignoring the 3d electrons when explaining transition element properties.
+- (HL only) Ignoring the 3d electrons when explaining transition element properties.
 
 ## Next steps
 

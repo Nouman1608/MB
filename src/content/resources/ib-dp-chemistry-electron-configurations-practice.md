@@ -99,7 +99,7 @@ Zn 906    Ga 579     As 947     Se 941
 
 **1. (a)** Energy decreases as wavelength increases [1]. **[1]**
 **(b)** **Microwave oven < green laser < X-ray tube** [1]. **[1]**
-*Examiner insight:* An order needs every item in the right place; one swap leaves nothing creditworthy, so check against the spectrum sequence rather than guessing.
+*Examiner insight:* An order is only correct if every item is in the right place, so check it against the spectrum sequence rather than guessing.
 
 **2.** The bulb gives a continuous spectrum containing all visible wavelengths with no gaps; the neon tube gives a line spectrum of separate coloured lines on a dark background [1]. Electrons in neon atoms are excited to higher energy levels and emit photons as they fall back to lower levels [1]. Only certain energy gaps exist between levels, so only certain frequencies are emitted [1]. **[3]**
 *Examiner insight:* "Distinguish" needs both spectra described in the same sentence or pair of sentences; describing only the line spectrum leaves the comparison incomplete.
@@ -161,7 +161,7 @@ First ionization energy = **419 kJ mol⁻¹** [1]. **[4]**
 One paired and four singly occupied orbitals, following Hund's rule [1]; **four** unpaired electrons [1]. **[2]**
 **(d)** 3s² 3p⁶ 3d⁷ gives **15** electrons [1]; the maximum is 2 × 3² = **18** [1]. **[2]**
 **(e)** **Co** only, because both ions have lost their 4s electrons [1]. **[1]**
-*Examiner insight:* In (b), writing [Ar] 3d⁵ 4s² for Co²⁺ is the commonest slip; check the electron total (25) and that 4s is emptied first.
+*Examiner insight:* In (b), writing [Ar] 3d⁵ 4s² for Co²⁺ is a common slip; check the electron total (25) and that 4s is emptied first.
 
 ## Where marks are usually lost
 

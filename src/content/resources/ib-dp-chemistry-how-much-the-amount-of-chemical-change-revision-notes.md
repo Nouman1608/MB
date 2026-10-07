@@ -130,7 +130,7 @@ Use these Ar values: Cu 63.55, H 1.01, O 16.00, Zn 65.38. Vm = 22.7 dm³ mol⁻�
 8. Theoretical yield is calculated from the limiting reactant, assuming complete reaction and no losses; experimental yield is the amount actually obtained.
 9. 9.30 ÷ 12.4 × 100 = **75.0 %**
 10. Wanted: 2 × 2.02 = 4.04; reactants: 2 × 18.02 = 36.04; atom economy = 4.04 ÷ 36.04 × 100 = **11.2 %**
-11. Propene and HBr form a single product, so every reactant atom ends up in the wanted substance and nothing is lost as a by-product.
+11. Propene and HBr add together: C₃H₆ + HBr → C₃H₇Br. The equation has only one product, so every reactant atom ends up in it and none leaves in a by-product.
 
 ## Where marks are usually lost
 

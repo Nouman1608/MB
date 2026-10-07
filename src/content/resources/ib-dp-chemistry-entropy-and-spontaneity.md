@@ -30,7 +30,7 @@ Use it with the [entropy and spontaneity revision notes](/resources/ib-dp-chemis
 |---|---|---|
 | Reactivity 1.4.1 | Describe entropy as the spread of matter and energy; predict whether a change increases or decreases the entropy of a system; calculate ΔS⦵ from S⦵ values | HL only |
 | Reactivity 1.4.2 | Use ΔG⦵ = ΔH⦵ − TΔS⦵ to find any unknown term, with the right units | HL only |
-| Reactivity 1.4.3 | Interpret the sign of ΔG; find the temperature at which a reaction becomes spontaneous; link ΔG to the entropy change of the system and the surroundings | HL only |
+| Reactivity 1.4.3 | Interpret the sign of ΔG; find the threshold temperature for spontaneity; link ΔG to the entropy change of the system and the surroundings | HL only |
 | Reactivity 1.4.4 | Explain why ΔG becomes less negative and reaches zero at equilibrium; use ΔG = ΔG⦵ + RT lnQ and ΔG⦵ = −RT lnK | HL only |
 
 The guide gives this sub-topic about 5 hours of AHL teaching time. According to the guide, standard entropy values, the other thermodynamic data and the two ΔG equations in 1.4.4 appear in the data booklet. Here, each example supplies the values it uses.
@@ -118,7 +118,7 @@ A positive answer makes sense for a liquid becoming a gas.
 
 ## Reactivity 1.4.3 Spontaneity and the sign of ΔG
 
-At constant pressure, a change is **spontaneous** if **ΔG is negative**. A positive ΔG means the change as written is not spontaneous, though its reverse is. ΔG = 0 means the system is at equilibrium.
+When pressure is constant, a **negative ΔG** means the change is **spontaneous**. A positive ΔG means the change as written is not spontaneous, though its reverse is. ΔG = 0 means the system is at equilibrium.
 
 Spontaneity is not the same as speed. A change with a strongly negative ΔG may barely move at room temperature when its activation energy is large.
 
@@ -147,7 +147,7 @@ So "ΔG is negative" and "total entropy increases" are the same condition.
 | negative | negative | negative only while TΔS is smaller in size than ΔH | at low temperature |
 | positive | positive | negative only once TΔS outweighs ΔH | at high temperature |
 
-### Finding the temperature at which a reaction becomes spontaneous
+### Finding the threshold temperature for spontaneity
 
 For the last two rows, put ΔG = 0 and rearrange for T. This treats ΔH and ΔS as roughly constant over the temperature range.
 

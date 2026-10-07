@@ -22,7 +22,7 @@ featured: false
 
 This study guide teaches the higher level end of **Structure 2.2, The covalent model**, as listed in the IB *Chemistry guide* for Diploma Programme candidates examined from 2025 (issued February 2023). It works through understandings Structure 2.2.11 to 2.2.16. All six belong to the guide's additional higher level (AHL) material, so everything on this page is **HL only**. It applies to the course as first assessed in 2025.
 
-It builds on the SL skills of drawing Lewis formulas and using VSEPR for up to four electron domains. Afterwards, test yourself with the [revision notes](/resources/ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds-revision-notes/) and the [practice questions](/resources/ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds-practice/).
+It builds on the [SL skills](/resources/ib-dp-chemistry-the-covalent-model-bonds-lewis-formulas-shapes-and/) of drawing Lewis formulas and using VSEPR for up to four electron domains. Afterwards, test yourself with the [revision notes](/resources/ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds-revision-notes/) and the [practice questions](/resources/ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds-practice/).
 
 ## What this unit covers
 
@@ -82,12 +82,12 @@ In the delocalized model each carbon uses three of its four valence electrons in
 
 ### Worked example 3: resonance energy from hydrogenation data
 
-Use these values. Cyclohexene + H₂ → cyclohexane, ΔH = −119 kJ mol⁻¹. Benzene + 3H₂ → cyclohexane, ΔH = −207 kJ mol⁻¹.
+Use these values. Cyclohexene + H₂ → cyclohexane, ΔH = −116 kJ mol⁻¹. Benzene + 3H₂ → cyclohexane, ΔH = −204 kJ mol⁻¹.
 
-1. A ring with three isolated C=C bonds should give 3 × (−119) = **−357 kJ mol⁻¹**.
-2. Benzene actually gives −207 kJ mol⁻¹.
-3. Difference = −207 − (−357) = **+150 kJ mol⁻¹**.
-4. Both routes end at cyclohexane, so benzene is 150 kJ mol⁻¹ lower in energy than the Kekulé structure. This **resonance energy** explains its relative unreactivity and preference for substitution.
+1. A ring with three isolated C=C bonds should give 3 × (−116) = **−348 kJ mol⁻¹**.
+2. Benzene actually gives −204 kJ mol⁻¹.
+3. Difference = −204 − (−348) = **+144 kJ mol⁻¹**.
+4. Both routes end at cyclohexane, so benzene is 144 kJ mol⁻¹ lower in energy than the Kekulé structure. This **resonance energy** explains its relative unreactivity and preference for substitution.
 
 ## Expanded octets: five and six electron domains (2.2.13)
 
@@ -111,7 +111,7 @@ In a trigonal bipyramid, lone pairs go in the **equatorial** positions, where th
 
 1. Se is in group 16, so it has 6 valence electrons. Four go into Se–F bonds, leaving 2: one lone pair.
 2. Domains: 4 bonding + 1 lone pair = **5**. Electron domain geometry: **trigonal bipyramidal**.
-3. The lone pair takes an equatorial position, so the four F atoms make a **seesaw** shape. Its stronger repulsion closes the angles slightly below 120° and 90°.
+3. The lone pair takes an equatorial position, so the four F atoms make a **seesaw** shape. Its stronger repulsion closes the bond angles to below 120° and 90°.
 
 ### Worked example 5: ICl₄⁻
 
@@ -154,7 +154,7 @@ Formal charge assumes bonding electrons are shared **equally**. Oxidation state 
 
 ## Sigma and pi bonds (2.2.15)
 
-- A **sigma (σ) bond** forms by **head-on** overlap of two orbitals (s, p or hybrid). Electron density is concentrated along the bond axis.
+- A **sigma (σ) bond** forms by **head-on** overlap of two orbitals (s, p or hybrid). Its electron density lies mainly on the bond axis.
 - A **pi (π) bond** forms by **sideways** (lateral) overlap of two parallel p orbitals. Electron density lies on opposite sides of the bond axis.
 
 Counting rule:

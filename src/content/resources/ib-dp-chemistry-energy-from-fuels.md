@@ -89,19 +89,19 @@ Why it matters:
 - **Soot** particles irritate the lungs and blacken buildings and engines.
 - Less energy is released per mole of fuel.
 
-### Worked example 3: octane in limited oxygen
+### Worked example 3: nonane in limited oxygen
 
-Octane, C₈H₁₈, gives 9H₂O in every case.
+Nonane, C₉H₂₀, gives 10H₂O in every case.
 
-**Forming carbon monoxide:** 8CO and 9H₂O contain 8 + 9 = 17 O atoms, so you need 8½ O₂.
+**Forming carbon monoxide:** 9CO and 10H₂O contain 9 + 10 = 19 O atoms, so you need 9½ O₂.
 
-2C₈H₁₈(l) + 17O₂(g) → 16CO(g) + 18H₂O(l)
+2C₉H₂₀(l) + 19O₂(g) → 18CO(g) + 20H₂O(l)
 
-**Forming carbon:** only the water contains oxygen, 9 O atoms, so you need 4½ O₂.
+**Forming carbon:** only the water contains oxygen, 10 O atoms, so you need 5O₂.
 
-2C₈H₁₈(l) + 9O₂(g) → 16C(s) + 18H₂O(l)
+C₉H₂₀(l) + 5O₂(g) → 9C(s) + 10H₂O(l)
 
-Complete combustion would need 12½ O₂ per C₈H₁₈.
+Complete combustion would need 14 O₂ per C₉H₂₀.
 
 For an alcohol, remember that the fuel supplies one oxygen atom. Propan-1-ol, C₃H₇OH, forming CO: 3CO + 4H₂O has 7 O atoms, minus 1 in the fuel, so 6 O atoms or 3O₂:
 
@@ -139,7 +139,7 @@ For the same energy, coal adds more than twice as much CO₂ as natural gas. Fue
 
 ### Carbon dioxide and the greenhouse effect
 
-Most solar radiation reaching the ground is visible light, which the ground absorbs; the warmed ground then gives off **infrared radiation**. Molecules such as CO₂, H₂O and CH₄ absorb some of this infrared, which makes their bonds vibrate. They then re-emit the energy in all directions, including back towards the surface. Without this, the planet's surface would be much colder; the process is the **greenhouse effect**.
+Sunlight reaching the ground, mainly visible and near-infrared radiation, is absorbed; the warmed ground then gives off longer-wavelength **infrared radiation**. Molecules such as CO₂, H₂O and CH₄ absorb some of this infrared, which makes their bonds vibrate. They then re-emit the energy in all directions, including back towards the surface. Without this, the planet's surface would be much colder; the process is the **greenhouse effect**.
 
 Burning fossil fuels releases carbon locked away for millions of years. NOAA reports that atmospheric CO₂ was about 280 ppm before the Industrial Revolution and averaged about 423 ppm in 2024. More CO₂ absorbs and re-emits more infrared, which enhances the greenhouse effect and raises global average temperatures.
 

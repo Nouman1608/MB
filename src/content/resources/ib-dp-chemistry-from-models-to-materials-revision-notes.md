@@ -56,7 +56,7 @@ The [full study guide for this unit](/resources/ib-dp-chemistry-from-models-to-m
 3. Say whether those particles or electrons can move, and how strong the attraction is.
 4. Link that directly to the property asked about.
 
-Remember that most substances show mixed character. Discrete categories are a simplification.
+Remember that most substances show mixed character. Discrete categories are a simplification. For each model in detail, see [the ionic model](/resources/ib-dp-chemistry-the-ionic-model/) and [the metallic model](/resources/ib-dp-chemistry-the-metallic-model/).
 
 ## Structure 2.4.2: the bonding triangle
 

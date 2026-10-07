@@ -70,8 +70,8 @@ First read the [study guide](/resources/ib-dp-chemistry-the-periodic-table-class
 
 **7.** Deduce the oxidation state of the named atom in each species.
 
-**(a)** Hydrogen in SrH₂ **[1]**
-**(b)** Oxygen in BaO₂ (barium peroxide) **[1]**
+**(a)** Hydrogen in MgH₂ **[1]**
+**(b)** Oxygen in MgO₂ (magnesium peroxide) **[1]**
 **(c)** Vanadium in VO₃⁻ **[1]**
 **(d)** Chromium in Cr₂O₇²⁻ **[1]**
 **(e)** Explain why the oxidation state of oxygen in ozone, O₃, is zero. **[1]**
@@ -134,8 +134,8 @@ First read the [study guide](/resources/ib-dp-chemistry-the-periodic-table-class
 **(d)** Oxides change from basic to amphoteric to acidic as metallic character decreases across the period [1] **[8]**
 *Examiner insight:* In (c), equilibrium arrows are expected for the CO₂ and carbonic acid steps; a one-way arrow may cost the mark.
 
-**7. (a)** −1 (strontium is +2; a metal hydride) [1]
-**(b)** −1 (barium is +2; a peroxide) [1]
+**7. (a)** −1 (magnesium is +2; a metal hydride) [1]
+**(b)** −1 (magnesium is +2; a peroxide) [1]
 **(c)** x + 3(−2) = −1, so **+5** [1]
 **(d)** 2x + 7(−2) = −2, so **+6** [1]
 **(e)** O₃ is an element: each oxygen bonds only to other oxygen atoms, so no electrons are transferred [1]

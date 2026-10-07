@@ -123,7 +123,7 @@ Continuum across a period: basic → amphoteric (Al₂O₃) → acidic.
 Small reminders:
 
 ```
-P in H₂PO₄⁻:  2(+1) + x + 4(−2) = −1  -> x = +5
+I in HIO₃:    (+1) + x + 3(−2) = 0    -> x = +5
 N in HNO₂:    (+1) + x + 2(−2) = 0    -> x = +3
 ```
 
@@ -165,7 +165,7 @@ Variable oxidation states · high melting points · magnetic properties · catal
 3. The colour seen is the **complementary** colour, opposite on the colour wheel.
 4. Use c = λf to convert. Put λ in metres.
 
-The guide states the colour wheel and c = λf are given in the data booklet. Approximate pairs: red ↔ green, orange ↔ blue, yellow ↔ violet.
+The guide says the data booklet supplies both the colour wheel and c = λf. Approximate pairs: red ↔ green, orange ↔ blue, yellow ↔ violet.
 
 ## Must-know distinctions
 
@@ -183,7 +183,7 @@ The guide states the colour wheel and c = λf are given in the data booklet. App
 4. Write an equation for lithium reacting with water.
 5. Aqueous chlorine is added to potassium bromide solution. State the colour change and write the ionic equation.
 6. Write an equation for sulfur trioxide reacting with water.
-7. Deduce the oxidation state of sulfur in S₂O₃²⁻ and of nitrogen in N₂O.
+7. Deduce the oxidation state of phosphorus in P₂O₇⁴⁻ and of nitrogen in N₂F₄.
 8. Give the systematic name of NaClO.
 9. (HL) Why is the first ionization energy of aluminium lower than that of magnesium?
 10. (HL) Write the configurations of Ni²⁺ and Cr³⁺.
@@ -198,11 +198,11 @@ The guide states the colour wheel and c = λf are given in the data booklet. App
 4. 2Li(s) + 2H₂O(l) → 2LiOH(aq) + H₂(g)
 5. Pale green/colourless to orange; Cl₂(aq) + 2Br⁻(aq) → 2Cl⁻(aq) + Br₂(aq).
 6. SO₃(g) + H₂O(l) → H₂SO₄(aq)
-7. S: 2x + 3(−2) = −2, so +2. N: 2x + (−2) = 0, so +1.
+7. P: 2x + 7(−2) = −4, so +5. N: 2x + 4(−1) = 0, so +2.
 8. Sodium chlorate(I).
 9. Aluminium's electron is removed from 3p, higher in energy than magnesium's 3s electron.
 10. Ni²⁺ [Ar] 3d⁸; Cr³⁺ [Ar] 3d³.
-11. 440 nm is violet, so yellow is seen. f = 3.00 × 10⁸ / 440 × 10⁻⁹ = 6.82 × 10¹⁴ s⁻¹.
+11. 440 nm is violet, so yellow is seen. f = 3.00 × 10⁸ / (440 × 10⁻⁹) = 6.82 × 10¹⁴ s⁻¹.
 12. λ = 3.00 × 10⁸ / 6.00 × 10¹⁴ = 5.00 × 10⁻⁷ m = 500 nm, green absorbed, so red is seen.
 
 ## Where marks are usually lost

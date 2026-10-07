@@ -152,11 +152,11 @@ To draw the repeating unit:
 
 ### Worked example 5: from monomer to repeating unit
 
-Propenamide, CH₂=CHCONH₂, polymerizes to make a water-absorbing polymer. Draw its repeating unit and work out the molar mass of a chain of 2000 units.
+Propenoic acid, CH₂=CHCOOH, polymerizes to make water-absorbing polymers. Draw its repeating unit and work out the molar mass of a chain of 2000 units.
 
-Repeating unit: **–[–CH₂–CH(CONH₂)–]–ₙ**, a two-carbon backbone with continuation bonds through the brackets.
+Repeating unit: **–[–CH₂–CH(COOH)–]–ₙ**, a two-carbon backbone with continuation bonds through the brackets.
 
-CONH₂ is a side group, not part of the backbone. Each repeating unit has the same atoms as one monomer, C₃H₅NO. Taking C = 12.01, H = 1.01, O = 16.00 and N = 14.01: M = 3(12.01) + 5(1.01) + 14.01 + 16.00 = 71.09 g mol⁻¹. A chain of 2000 units has M ≈ 2000 × 71.09 = **1.42 × 10⁵ g mol⁻¹** (ignoring the end groups).
+COOH is a side group, not part of the backbone. Each repeating unit has the same atoms as one monomer, C₃H₄O₂. Taking C = 12.01, H = 1.01 and O = 16.00: M = 3(12.01) + 4(1.01) + 2(16.00) = 72.07 g mol⁻¹. A chain of 2000 units has M ≈ 2000 × 72.07 = **1.44 × 10⁵ g mol⁻¹** (ignoring the end groups).
 
 ### Worked example 6: from polymer to monomer
 
