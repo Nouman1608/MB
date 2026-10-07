@@ -36,6 +36,7 @@ export const site = {
    * deliberately NOT listed -- a sameAs link to a suspended profile would
    * point at a dead page rather than a live verification signal.
    * YouTube (@marlbridge) owner-confirmed 2026-10-07.
+   * Wikidata item Q141667044 created by the owner 2026-10-07.
    */
   social: [
     { label: 'Instagram', href: 'https://www.instagram.com/marlbridgeofficial/' },
@@ -44,6 +45,7 @@ export const site = {
     { label: 'TikTok', href: 'https://www.tiktok.com/@marlbridge' },
     { label: 'X', href: 'https://x.com/Marlbridgehq' },
     { label: 'YouTube', href: 'https://www.youtube.com/@marlbridge' },
+    { label: 'Wikidata', href: 'https://www.wikidata.org/wiki/Q141667044' },
   ] as Array<{ label: string; href: string }>,
   ogImage: '/images/brand/marlbridge-og.png',
 
