@@ -22,17 +22,17 @@ featured: false
 
 These notes condense Reactivity 2.2.1 to 2.2.5, the rate and collision theory part of **Reactivity 2.2, How fast? The rate of chemical change**, from the February 2023 IB Diploma Programme *Chemistry guide*, whose first exams ran in 2025. All of it is examined at **both SL and HL**. The HL-only material that follows in the guide (Reactivity 2.2.6 to 2.2.13) is not included here.
 
-For full explanations and longer worked examples, read the [study guide](/resources/ib-dp-chemistry-how-fast-rates-and-collision-theory/); then test yourself on the [practice questions](/resources/ib-dp-chemistry-how-fast-rates-and-collision-theory-practice/). The [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/) lists every unit, and the [checklist](/checklists/ib/ib-dp/chemistry/) prints the whole course on one page. If you are not sure where your gaps are, try our free [diagnostics](/diagnostics/).
+Each idea is set out in full, with longer worked examples, in the [study guide](/resources/ib-dp-chemistry-how-fast-rates-and-collision-theory/); afterwards, test yourself on the [practice questions](/resources/ib-dp-chemistry-how-fast-rates-and-collision-theory-practice/). The [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/) lists every unit, and the [checklist](/checklists/ib/ib-dp/chemistry/) prints the whole course on one page. If you are not sure where your gaps are, try our free [diagnostics](/diagnostics/).
 
 ## Key definitions
 
 | Term | Meaning |
 |---|---|
-| Rate of reaction | Change in concentration of a particular reactant or product per unit time (mol dm⁻³ s⁻¹) |
+| Rate of reaction | How fast the concentration of a named reactant or product changes, per unit time (mol dm⁻³ s⁻¹) |
 | Instantaneous rate | Gradient of the tangent to a concentration–time (or volume or mass–time) curve at one moment |
 | Initial rate | Gradient of the tangent at t = 0 |
 | Successful collision | A collision with energy ≥ Ea and proper orientation, which leads to reaction |
-| Activation energy, Ea | Minimum energy colliding particles need for a successful collision leading to a reaction |
+| Activation energy, Ea | Smallest energy a collision must bring for the particles to react |
 | Catalyst | Increases the rate by providing an alternative pathway with lower Ea; not used up overall |
 | Enzyme | A biological catalyst |
 | Kinetically stable | Reacts very slowly because Ea is high, even if the reaction is exothermic |
@@ -53,7 +53,7 @@ For full explanations and longer worked examples, read the [study guide](/resour
 
 **Converting units.** Mass of gas: divide by molar mass to get moles. Gas volume: divide by the molar volume you are given for the conditions.
 
-**Worked reminder.** Zinc carbonate powder reacts with nitric acid in an open flask, and the balance reading drops by 0.57 g in 30 s. Average rate = 0.57/30 = **0.019 g s⁻¹**. In moles of CO₂: 0.57/44.01 = 0.0130 mol, so the rate = 0.0130/30 = **4.3 × 10⁻⁴ mol s⁻¹**.
+**Worked reminder.** Sodium carbonate solution is poured into excess hydrochloric acid in an open flask, and the balance reading drops by 0.66 g in 25 s. Average rate = 0.66/25 = **0.026 g s⁻¹**. In moles of CO₂: 0.66/44.01 = 0.0150 mol, so the rate = 0.0150/25 = **6.0 × 10⁻⁴ mol s⁻¹**.
 
 **Why the curve flattens.** As reactants are used up their concentration falls, collisions become less frequent and the gradient decreases. The curve becomes horizontal when a reactant is used up.
 
@@ -62,7 +62,7 @@ For full explanations and longer worked examples, read the [study guide](/resour
 | Measure against time | Suits |
 |---|---|
 | Gas volume | Any reaction that gives off a gas |
-| Mass loss | A dense gas such as CO₂ escaping |
+| Mass loss | CO₂ or another heavy gas leaving an open flask |
 | Absorbance (colorimeter) | A coloured reactant or product |
 | Conductivity or pH | Ions used up or made |
 | Time for a fixed change | Colour change or precipitate; rate ∝ 1/t |
@@ -152,12 +152,12 @@ A catalyst lowers the forward and reverse barriers by the same amount. That is w
 
 ### Answers
 
-1. The change in concentration of a particular reactant or product per unit time.
+1. How fast the concentration of a named reactant or product changes, per unit time.
 2. Gradient = (64 − 16)/(50 − 10) = **1.2 cm³ s⁻¹**.
 3. 2 × 1.5 × 10⁻³ = **3.0 × 10⁻³ mol dm⁻³ s⁻¹**.
 4. **400.15 K** (400 K).
 5. Energy at least equal to Ea, and proper orientation.
-6. Larger surface area, so more particles exposed and more frequent collisions.
+6. More of the solid's particles are exposed, so collisions happen more often.
 7. A larger fraction of collisions now have E ≥ Ea; the extra collision frequency is a small effect.
 8. The total area under the curve (the number of particles).
 9. One curve only; add a second Ea line to the left of the first.
@@ -178,4 +178,4 @@ A catalyst lowers the forward and reverse barriers by the same amount. That is w
 
 ## Official syllabus
 
-Source: the International Baccalaureate's Diploma Programme *Chemistry guide*, issued in February 2023 for courses examined from 2025. These notes follow Reactivity 2.2, How fast? The rate of chemical change, understandings 2.2.1 to 2.2.5, which are common to SL and HL.
+Condensed from the International Baccalaureate's Diploma Programme *Chemistry guide* (February 2023; first assessment 2025). These notes follow Reactivity 2.2, How fast? The rate of chemical change, understandings 2.2.1 to 2.2.5, which are common to SL and HL.

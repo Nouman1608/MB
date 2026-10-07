@@ -21,13 +21,13 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This guide teaches Topic 15B: Carbonyl compounds of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers outcomes 15.6 to 15.8. The content sits in Unit 4: Rates, Equilibria and Further Organic Chemistry, an International A2 (IA2) unit, inside Topic 15: Organic Chemistry: Carbonyls, Carboxylic Acids and Chirality.
+This guide teaches Topic 15B: Carbonyl compounds, outcomes 15.6 to 15.8, as set out in Issue 1 (September 2017) of Pearson Edexcel's International Advanced Subsidiary/Advanced Level in Chemistry specification, YCH11. It is International A2 (IA2) content: Unit 4 (Rates, Equilibria and Further Organic Chemistry) is where you meet it. Within that unit it forms part of Topic 15: Organic Chemistry: Carbonyls, Carboxylic Acids and Chirality.
 
-Useful pages: the [printable topic checklist](/checklists/edexcel/a-level/chemistry/); the shorter [carbonyl compounds revision notes](/resources/edexcel-ial-chemistry-carbonyl-compounds-revision-notes/); the [carbonyl compounds practice questions](/resources/edexcel-ial-chemistry-carbonyl-compounds-practice/); a free [diagnostic](/diagnostics/) to find gaps; and the [course hub](/boards/edexcel/a-level/chemistry/). Making aldehydes and ketones from alcohols is taught in the [alcohols study guide](/resources/edexcel-ial-chemistry-alcohols/).
+Linked pages: shorter [revision notes](/resources/edexcel-ial-chemistry-carbonyl-compounds-revision-notes/) and a [practice set](/resources/edexcel-ial-chemistry-carbonyl-compounds-practice/) for this topic; the [hub page for this course](/boards/edexcel/a-level/chemistry/) with its matching [checklist](/checklists/edexcel/a-level/chemistry/); and, to find weak spots first, the free [diagnostic quizzes](/diagnostics/).
 
-## Topic 15B at a glance
+## Coverage of Topic 15B
 
-| Outcome | What you must be able to do |
+| Spec ref | You should be able to |
 |---|---|
 | 15.6 | Name aldehydes and ketones; draw structural, displayed and skeletal formulae |
 | 15.7 i | Explain why aldehydes and ketones have no intermolecular hydrogen bonds, and what that does to boiling temperature |
@@ -55,18 +55,18 @@ Name the longest chain containing the carbonyl carbon, give the carbonyl the low
 
 (b) CH₃COCH(CH₃)CH₂CH₃. The longest chain through C=O has five carbons. From the left, C=O is C2; from the right, C4. Take C2. The methyl group is on C3. Answer: **3-methylpentan-2-one**.
 
-(c) A skeletal formula shows a zigzag of four lines with a double-bonded O on the second corner from one end. That is a five-carbon chain with C=O at C2: **pentan-2-one**.
+(c) A skeletal formula shows a zigzag of four lines. The =O is drawn on the carbon at the first bend, next to one end. That is a five-carbon chain with C=O at C2: **pentan-2-one**.
 
 ### Three ways to draw them
 
-Structural formula: CH₃CH₂COCH₃ (butanone). Displayed formula shows every bond:
+Structural formula: CH₃CH₂COCH₃ (butanone). A displayed formula draws every bond:
 
 ```
-      H   H       H
-      |   |       |
-  H - C - C - C - C - H
-      |   |   ‖   |
-      H   H   O   H
+    H   H       H
+    |   |       |
+H — C — C — C — C — H
+    |   |   ‖   |
+    H   H   O   H
 ```
 
 Skeletal formula: draw the carbon zigzag, leave out C and H atoms, and draw the =O on the correct corner. For an aldehyde, the =O sits on the end of a line, and you may write the end group as CHO.
@@ -112,13 +112,13 @@ To make Tollens' reagent, add a drop of sodium hydroxide solution to silver nitr
 
 ### Worked example 3: how much silver?
 
-0.770 g of ethanal, CH₃CHO, reacts completely with Tollens' reagent. Each aldehyde molecule loses two electrons when it is oxidised, so 2 mol Ag form per mole of aldehyde. Use Ar: C 12.0, H 1.0, O 16.0, Ag 107.9.
+1.71 g of heptanal, CH₃(CH₂)₅CHO, reacts completely with Tollens' reagent. Each aldehyde molecule loses two electrons when it is oxidised, so 2 mol Ag form per mole of aldehyde. Use Ar: C 12.0, H 1.0, O 16.0, Ag 107.9.
 
 ```
-Mr(CH₃CHO) = 44.0
-n(ethanal) = 0.770 ÷ 44.0 = 0.0175 mol
-n(Ag)      = 2 × 0.0175 = 0.0350 mol
-m(Ag)      = 0.0350 × 107.9 = 3.78 g
+Mr(C₇H₁₄O)  = 114.0
+n(heptanal) = 1.71 ÷ 114.0 = 0.0150 mol
+n(Ag)       = 2 × 0.0150 = 0.0300 mol
+m(Ag)       = 0.0300 × 107.9 = 3.24 g
 ```
 
 ## 15.8 ii Reduction with LiAlH₄
@@ -148,7 +148,7 @@ Hydrogen cyanide adds across C=O to give a **hydroxynitrile**. HCN is a weak aci
 
 The C=O bond is polar: C is δ+, O is δ−. The mechanism, drawn with curly arrows, using butanone:
 
-1. A curly arrow goes from the **lone pair on the carbon of :CN⁻** to the δ+ carbonyl carbon. A second arrow goes from the **C=O π bond** to the oxygen.
+1. Draw a curly arrow that starts at the **lone pair on the C atom of :CN⁻** and ends on the δ+ carbonyl carbon. A second arrow moves the **C=O π bond** onto the oxygen.
 2. This gives an intermediate with O⁻ on the former carbonyl carbon. A curly arrow goes from a **lone pair on O⁻** to the H of an HCN molecule, and an arrow from the H–C bond to the C of that CN.
 3. The product is 2-hydroxy-2-methylbutanenitrile, and CN⁻ is regenerated.
 
@@ -163,7 +163,7 @@ Show the dipoles, the lone pair on carbon and the negative charge in your drawin
 
 ### Optical activity as evidence
 
-The carbonyl carbon and the three atoms bonded to it lie in one plane (trigonal planar). Cyanide can attack from above or below that plane with **equal probability**. If the new carbon has four different groups, the two attacks give the two enantiomers in equal amounts: a **racemic mixture**, which does not rotate plane-polarised light. So an optically inactive product supports this mechanism.
+The carbonyl carbon is trigonal planar: it and its three neighbours sit flat. Cyanide can attack from above or below that plane with **equal probability**. When the new chiral carbon carries four different groups, top and bottom attack each make one enantiomer, so they form 50 : 50: a **racemic mixture**, which does not rotate plane-polarised light. So an optically inactive product supports this mechanism.
 
 ### Worked example 5: is the product chiral?
 
@@ -222,8 +222,8 @@ The organic by-product is sodium 2-methylpropanoate. From 2.58 g of the ketone (
 
 ## Next steps
 
-Condense this with the [revision notes](/resources/edexcel-ial-chemistry-carbonyl-compounds-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-ial-chemistry-carbonyl-compounds-practice/). Tick off each outcome on the [checklist](/checklists/edexcel/a-level/chemistry/) and try a [diagnostic](/diagnostics/).
+Next, read the condensed [revision notes](/resources/edexcel-ial-chemistry-carbonyl-compounds-revision-notes/) and then try the [practice questions](/resources/edexcel-ial-chemistry-carbonyl-compounds-practice/). Use the [checklist](/checklists/edexcel/a-level/chemistry/) to tick off each outcome, and take a free [diagnostic](/diagnostics/).
 
 ## Official syllabus
 
-Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited -- Unit 4, Topic 15B: Carbonyl compounds, outcomes 15.6 to 15.8.
+Source: Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry, specification XCH11/YCH11, Issue 1, September 2017 (Pearson Education Limited). This page covers Topic 15B: Carbonyl compounds, outcomes 15.6 to 15.8, in Unit 4.

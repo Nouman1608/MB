@@ -21,17 +21,17 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-For full explanations and longer worked examples, use the [carboxylic acids and derivatives study guide](/resources/edexcel-ial-chemistry-carboxylic-acids-and-their-derivatives/). These notes are for the final weeks before the exam.
+For full explanations and longer worked examples, use the [carboxylic acids and derivatives study guide](/resources/edexcel-ial-chemistry-carboxylic-acids-and-their-derivatives/). Once the ideas make sense, use this page to drill the facts.
 
-They cover outcomes 15.9 to 15.16 (parts 15C and 15D of Topic 15) in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. The content is International A2 (IA2), in Unit 4: Rates, Equilibria and Further Organic Chemistry. Tick each outcome off on the [printable checklist](/checklists/edexcel/a-level/chemistry/), test yourself with the [carboxylic acids practice questions](/resources/edexcel-ial-chemistry-carboxylic-acids-and-their-derivatives-practice/), and find other units on the [course hub](/boards/edexcel/a-level/chemistry/). A free [diagnostic](/diagnostics/) will show where to focus.
+Outcomes 15.9 to 15.16 (parts 15C and 15D of Topic 15) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017, are covered. This is International A2 (IA2) content; Pearson assesses it in Unit 4: Rates, Equilibria and Further Organic Chemistry. Mark off what you know on the [YCH11 checklist](/checklists/edexcel/a-level/chemistry/), then try the [carboxylic acids practice questions](/resources/edexcel-ial-chemistry-carboxylic-acids-and-their-derivatives-practice/). The [YCH11 course hub](/boards/edexcel/a-level/chemistry/) lists the other units. Take a free [diagnostic](/diagnostics/) to pick your next topic.
 
 ## The four families
 
-| Family | Group | Name ending | Example |
+| Compound type | Functional group | Suffix | Named example |
 |---|---|---|---|
 | Carboxylic acid | –COOH | -oic acid | CH₃CH₂CH(CH₃)COOH, 2-methylbutanoic acid |
 | Acyl chloride | –COCl | -oyl chloride | (CH₃)₂CHCOCl, 2-methylpropanoyl chloride |
-| Ester | –COO– | alkyl -oate | C₆H₅COOCH₂CH₃, ethyl benzoate |
+| Ester | –COO– | alkyl -oate | CH₃CH₂COO(CH₂)₄CH₃, pentyl propanoate |
 | Dicarboxylic acid | two –COOH | -dioic acid | HOOCCH₂CH₂COOH, butanedioic acid |
 
 ## 15.9 and 15.13 Naming in steps
@@ -104,9 +104,9 @@ Equation pattern with a carbonate: **2**RCOOH + Na₂CO₃ → 2RCOONa + H₂O +
 | concentrated ammonia (2 mol) | amide, RCONH₂ | NH₄Cl |
 | primary amine R′NH₂ (2 mol) | N-substituted amide, RCONHR′ | R′NH₃⁺Cl⁻ |
 
-Worked reminder: (CH₃)₂CHCOCl + 2CH₃CH₂NH₂ → (CH₃)₂CHCONHCH₂CH₃ + CH₃CH₂NH₃⁺Cl⁻. The organic product is **N-ethyl-2-methylpropanamide**.
+Worked reminder: CH₃CH₂COCl + 2CH₃CH₂CH₂NH₂ → CH₃CH₂CONHCH₂CH₂CH₃ + CH₃CH₂CH₂NH₃⁺Cl⁻. The organic product is **N-propylpropanamide**.
 
-Why acyl chlorides are more reactive: the C=O carbon is attached to both O and Cl, so it is strongly δ+ and attracts nucleophiles. Reactions are fast at room temperature and are not reversible.
+Why acyl chlorides are more reactive: oxygen and chlorine both withdraw electrons from the C=O carbon, so it is strongly δ+ and attracts nucleophiles. Reactions are fast at room temperature and are not reversible.
 
 ## 15.15 Ester hydrolysis
 
@@ -118,7 +118,7 @@ Why acyl chlorides are more reactive: the C=O carbon is attached to both O and C
 | Extent | reversible, equilibrium | goes to completion |
 | To get the free acid | already present | add strong acid afterwards |
 
-Worked reminder: C₆H₅COOCH₂CH₃ + NaOH → C₆H₅COONa + CH₃CH₂OH (sodium benzoate and ethanol).
+Worked reminder: CH₃CH₂COO(CH₂)₄CH₃ + NaOH → CH₃CH₂COONa + CH₃(CH₂)₄OH (sodium propanoate and pentan-1-ol).
 
 ## 15.16 Polyesters
 
@@ -151,12 +151,12 @@ To go backwards, cut each ester link between C=O carbon and O, then add OH to th
 4. Name the product when hexanoic acid reacts with LiAlH₄ in dry ether.
 5. Write an equation for methanoic acid reacting with sodium hydrogencarbonate.
 6. 0.0400 mol of methanoic acid reacts with excess sodium carbonate. Calculate the volume of CO₂ at room temperature and pressure. (Molar volume 24.0 dm³ mol⁻¹)
-7. Name C₆H₅COOCH₂CH₃ and name the acid and alcohol it comes from.
-8. Name the organic product of 2-methylpropanoyl chloride with ethylamine.
+7. Name HCOOCH₂CH(CH₃)₂ and name the acid and alcohol it comes from.
+8. Name the organic product of pentanoyl chloride with methylamine.
 9. State why alkaline hydrolysis of an ester goes to completion.
 10. Name the monomers of a polyester with repeat unit –OCH₂CH₂OOC(CH₂)₂CO–.
 11. Outline a three-step route from propan-1-ol to propyl propanoate that avoids an equilibrium in the last step.
-12. Calculate the volume of 0.500 mol dm⁻³ NaOH that neutralises 1.85 g of propanoic acid. (Mr 74.0)
+12. Calculate the volume of 0.500 mol dm⁻³ NaOH that neutralises 2.59 g of propanoic acid. (Mr 74.0)
 
 ### Answers
 
@@ -166,12 +166,12 @@ To go backwards, cut each ester link between C=O carbon and O, then add OH to th
 4. **Hexan-1-ol**.
 5. HCOOH + NaHCO₃ → HCOONa + H₂O + CO₂.
 6. 2HCOOH + Na₂CO₃ → 2HCOONa + H₂O + CO₂. n(CO₂) = 0.0400 ÷ 2 = 0.0200 mol; volume = 0.0200 × 24.0 = **0.480 dm³**.
-7. **Ethyl benzoate**, from benzoic acid and ethanol.
-8. **N-ethyl-2-methylpropanamide**.
-9. The acid forms as the carboxylate ion, which does not react with the alcohol, so the reverse reaction cannot happen.
+7. **2-methylpropyl methanoate**, from methanoic acid and 2-methylpropan-1-ol.
+8. **N-methylpentanamide**, CH₃(CH₂)₃CONHCH₃.
+9. The hydroxide turns the acid into a carboxylate ion. That ion cannot re-form the ester, so no back reaction takes place.
 10. **Ethane-1,2-diol** and **butanedioic acid**.
 11. Oxidise some propan-1-ol to propanoic acid (excess acidified dichromate, reflux). Convert the acid to propanoyl chloride with PCl₅. React the acyl chloride with more propan-1-ol at room temperature.
-12. n = 1.85 ÷ 74.0 = 0.0250 mol, ratio 1 : 1; volume = 0.0250 ÷ 0.500 = 0.0500 dm³ = **50.0 cm³**.
+12. n = 2.59 ÷ 74.0 = 0.0350 mol, ratio 1 : 1; volume = 0.0350 ÷ 0.500 = 0.0700 dm³ = **70.0 cm³**.
 
 ## Where marks are usually lost
 

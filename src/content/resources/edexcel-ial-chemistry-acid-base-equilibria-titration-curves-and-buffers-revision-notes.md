@@ -21,15 +21,15 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-These notes condense outcomes 14.15 to 14.23 of Topic 14: Acid-base Equilibria in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017, including Core Practical 11. The topic is in Unit 4: Rates, Equilibria and Further Organic Chemistry, an International A2 (IA2) unit. For full explanations and worked examples, read the [titration curves and buffers study guide](/resources/edexcel-ial-chemistry-acid-base-equilibria-titration-curves-and-buffers/) first.
+These notes condense outcomes 14.15 to 14.23 of Topic 14: Acid-base Equilibria in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017, including Core Practical 11. This content sits in Unit 4: Rates, Equilibria and Further Organic Chemistry, which is IA2. If a point here is unclear, go back to the [titration curves and buffers study guide](/resources/edexcel-ial-chemistry-acid-base-equilibria-titration-curves-and-buffers/), which explains each idea with worked examples.
 
-Test yourself afterwards with the [practice questions](/resources/edexcel-ial-chemistry-acid-base-equilibria-titration-curves-and-buffers-practice/). The [course hub](/boards/edexcel/a-level/chemistry/) lists every other topic, the [Edexcel Chemistry checklist](/checklists/edexcel/a-level/chemistry/) tracks each outcome, and a free [diagnostic](/diagnostics/) shows where to focus.
+Once you can recall all of this, try the [practice questions](/resources/edexcel-ial-chemistry-acid-base-equilibria-titration-curves-and-buffers-practice/). Other topics are on the [course hub](/boards/edexcel/a-level/chemistry/), you can tick off outcomes on the [Edexcel Chemistry checklist](/checklists/edexcel/a-level/chemistry/), and a free [diagnostic](/diagnostics/) shows where to focus.
 
 ## Key definitions
 
 - **Equivalence point**: the volume at which acid and base have reacted exactly in the ratio of the equation.
 - **End point**: the volume at which the indicator changes colour. A good indicator makes the end point match the equivalence point.
-- **Buffer solution (14.17)**: a solution that minimises the change in pH when small amounts of acid or alkali are added.
+- **Buffer solution (14.17)**: a solution whose pH changes very little when a small amount of acid or alkali is added to it.
 - **Acidic buffer**: weak acid + its conjugate base (salt), e.g. propanoic acid + sodium propanoate.
 - **Basic buffer**: weak base + its conjugate acid (salt), e.g. NH₃ + NH₄Cl.
 - **Half-neutralisation point**: half the equivalence volume; here [HA] = [A⁻] and pH = pKa.
@@ -77,7 +77,7 @@ Colours: methyl orange red in acid, yellow in alkali; phenolphthalein colourless
 
 ## How a buffer works (14.18)
 
-For an acidic buffer, HA ⇌ H⁺ + A⁻, with large amounts of both HA and A⁻ present.
+Acidic buffer equilibrium: HA ⇌ H⁺ + A⁻. The solution holds big reservoirs of HA and of A⁻.
 
 | Added | What removes it | Equation |
 |---|---|---|
@@ -154,7 +154,7 @@ Assumptions for buffer pH: the weak acid's own dissociation is negligible, and a
 3. A buffer is 0.30 mol dm⁻³ HA and 0.20 mol dm⁻³ NaA. Ka = 6.0 × 10⁻⁵ mol dm⁻³. Find the pH.
 4. A weak acid's curve has its equivalence point at 26.0 cm³; at 13.0 cm³ the pH is 4.40. Find Ka.
 5. What ratio [A⁻]/[HA] gives a pH 0.30 above the pKa?
-6. Why can no indicator be used for ethanoic acid with ammonia?
+6. Why do titres for a weak acid against a weak base vary so much when an indicator is used?
 7. In a sodium carbonate titration with HCl, the first end point is at 9.0 cm³. Where is the second?
 8. Write the equation for how blood removes extra H⁺.
 9. A buffer is diluted to twice its volume with water. What happens to its pH?
@@ -163,12 +163,12 @@ Assumptions for buffer pH: the weak acid's own dissociation is negligible, and a
 
 ### Answers
 
-1. A solution that minimises the change in pH when small amounts of acid or alkali are added.
+1. A solution whose pH changes very little when a small amount of acid or alkali is added.
 2. Methyl orange: strong acid with weak base has its steep section below pH 7.
 3. [H⁺] = 6.0 × 10⁻⁵ × 0.30/0.20 = 9.0 × 10⁻⁵; pH = **4.05**.
 4. pKa = 4.40; Ka = 10^-4.40 = **4.0 × 10⁻⁵ mol dm⁻³**.
 5. log([A⁻]/[HA]) = 0.30, so the ratio is **2.0**.
-6. The curve has no sharp steep section, so no indicator changes colour over a tiny volume.
+6. The pH rises gradually near equivalence with no steep section, so the colour change is spread over several cm³; use a pH meter instead.
 7. **18.0 cm³** (twice the first).
 8. H⁺ + HCO₃⁻ → H₂CO₃.
 9. Almost **no change**: both concentrations fall by the same factor, so the ratio is unchanged.

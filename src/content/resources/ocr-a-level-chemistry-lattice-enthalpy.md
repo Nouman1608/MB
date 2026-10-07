@@ -20,13 +20,13 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This study guide teaches section 5.2.1, Lattice enthalpy, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. The section sits in Module 5, Physical chemistry and transition elements, and has five lettered learning outcomes, 5.2.1(a) to (e), all covered below. H432 is the full A level. The specification states that Module 5 content is assessed in Periodic table, elements and physical chemistry (01) and Unified chemistry (03).
+Section 5.2.1, Lattice enthalpy, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, is taught from scratch on this page. The section is part of Module 5, Physical chemistry and transition elements, and each of its outcomes, 5.2.1(a) to (e), has its own heading below. Because H432 is the whole A level, no content here carries an AS or A2 label. According to the specification's assessment overview, Module 5 is examined in the Periodic table, elements and physical chemistry component (01), and Unified chemistry (03) draws on every module.
 
-Every H432 topic is linked from the [OCR chemistry hub](/boards/ocr/a-level/chemistry/), and you can tick outcomes off on the [printable checklist](/checklists/ocr/a-level/chemistry/). For a fast check of the whole course, try the [free diagnostics](/diagnostics/).
+Find the other H432 units through the [OCR chemistry hub](/boards/ocr/a-level/chemistry/), record what you have covered on the [printable checklist](/checklists/ocr/a-level/chemistry/), and spot gaps elsewhere in the course with the [free diagnostics](/diagnostics/).
 
 ## Outcomes in 5.2.1
 
-| Outcome | What you must be able to do | Additional guidance in the specification |
+| Outcome | Skill tested | Specification guidance |
 |---|---|---|
 | 5.2.1(a) | Explain the term lattice enthalpy, ΔLEH, and use it as a measure of the strength of ionic bonding in a giant ionic lattice | Definition required; see also 2.2.2(b) and (c) |
 | 5.2.1(b) | Use the lattice enthalpy of a simple ionic solid and other energy terms to (i) construct Born–Haber cycles and (ii) carry out related calculations | Terms: enthalpy change of formation, ionisation energy, enthalpy change of atomisation, electron affinity. Definitions required for first ionisation energy and enthalpy change of formation only. M2.2, M2.3, M2.4, M3.1; HSW2 |
@@ -38,7 +38,7 @@ No PAG is listed against 5.2.1 itself. The guidance for 3.2.1(h), on techniques 
 
 ## 5.2.1(a): What lattice enthalpy means
 
-**Lattice enthalpy, ΔLEH**, is the enthalpy change when one mole of an ionic lattice forms from its gaseous ions, under standard conditions.
+**Lattice enthalpy, ΔLEH**, is the enthalpy change for the formation of 1 mol of an ionic lattice from its gaseous ions, under standard conditions.
 
 For sodium bromide:
 
@@ -46,19 +46,17 @@ Na⁺(g) + Br⁻(g) → NaBr(s)      ΔLEH = −751 kJ mol⁻¹
 
 Three details matter:
 
-- The ions start as **separate gaseous ions**, far apart, with no attraction between them.
-- The product is **one mole** of the solid lattice, so the equation is written for one formula unit.
-- The process is **lattice formation**, so the value is always negative. Opposite charges attract, and bringing them together releases energy.
+- The ions start as **separate gaseous ions**, far apart.
+- The product is **one mole** of the solid, so write the equation for one formula unit.
+- It is **lattice formation**, so the value is always negative: opposite charges attract, and bringing them together releases energy.
 
-Standard conditions are 100 kPa and a stated temperature, usually 298 K.
+The specification says standard conditions can be taken as 100 kPa and a stated temperature, 298 K.
 
 ### Lattice enthalpy as a measure of ionic bond strength
 
-In 2.2.2 you met a giant ionic lattice: oppositely charged ions held by strong electrostatic attraction acting in all directions. Lattice enthalpy puts a number on that attraction. A **more exothermic** (more negative) value means more energy is released as the lattice forms. The same amount would be needed to pull it apart again, so the ionic bonding is stronger.
+In 2.2.2 you met the giant ionic lattice: positive and negative ions packed so that each is pulled strongly by its oppositely charged neighbours on every side. Lattice enthalpy puts a number on that attraction. A **more exothermic** (more negative) value means more energy is released as the lattice forms. The same amount would be needed to pull it apart again, so the ionic bonding is stronger.
 
-This links to physical properties: a very exothermic lattice enthalpy usually goes with a high melting point.
-
-You cannot measure lattice enthalpy directly, because gaseous ions cannot be combined in a calorimeter. You find it indirectly with an enthalpy cycle.
+A very exothermic lattice enthalpy usually goes with a high melting point. Gaseous ions cannot be combined in a calorimeter, so lattice enthalpy is found indirectly, from an enthalpy cycle.
 
 ## 5.2.1(b): Born–Haber cycles
 
@@ -68,14 +66,14 @@ A Born–Haber cycle applies Hess' law to an ionic compound. One route goes stra
 
 | Term | What it describes | Example equation | Sign |
 |---|---|---|---|
-| Enthalpy change of formation, ΔfH | 1 mol of a compound forms from its elements in their standard states | Na(s) + ½Br₂(l) → NaBr(s) | Usually negative |
-| Enthalpy change of atomisation, ΔatH | 1 mol of gaseous atoms forms from the element in its standard state | Na(s) → Na(g); ½Br₂(l) → Br(g) | Always positive |
+| Enthalpy change of formation, ΔfH | 1 mol of a compound is made from its elements, each in its standard state | Na(s) + ½Br₂(l) → NaBr(s) | Usually negative |
+| Enthalpy change of atomisation, ΔatH | The element, in its standard state, is turned into 1 mol of gaseous atoms | Na(s) → Na(g); ½Br₂(l) → Br(g) | Always positive |
 | First ionisation energy | 1 mol of electrons is removed from 1 mol of gaseous atoms | Na(g) → Na⁺(g) + e⁻ | Always positive |
 | Second ionisation energy | 1 mol of electrons is removed from 1 mol of gaseous 1+ ions | Mg⁺(g) → Mg²⁺(g) + e⁻ | Always positive |
 | Electron affinity (first) | 1 mol of electrons is added to 1 mol of gaseous atoms | Br(g) + e⁻ → Br⁻(g) | Negative for halogens |
 | Lattice enthalpy, ΔLEH | 1 mol of ionic lattice forms from gaseous ions | Na⁺(g) + Br⁻(g) → NaBr(s) | Always negative |
 
-The specification requires you to give definitions for first ionisation energy and enthalpy change of formation only. You still need to use every term in the table and write its equation correctly. Two points are easy to miss:
+Only first ionisation energy and enthalpy change of formation need formal definitions, but you must use every term and write its equation correctly. Two points are easy to miss:
 
 - Atomisation is **per mole of atoms formed**. For bromine, the standard state is a liquid, so the equation is ½Br₂(l) → Br(g).
 - For a compound such as MgBr₂, you need **two** moles of bromine atoms and **two** electron affinities.
@@ -121,13 +119,13 @@ Hess' law: ΔfH = ΔatH(Na) + ΔatH(Br) + IE + EA + ΔLEH
 ΔLEH = −361 − 390 = −751 kJ mol⁻¹
 ```
 
-The answer is negative, as every lattice enthalpy must be.
+The answer is negative, as it must be.
 
 ### Worked example 2: a compound with a 2+ ion
 
 Find ΔLEH for magnesium bromide, MgBr₂. Use these values (kJ mol⁻¹): ΔfH(MgBr₂) = −524; ΔatH(Mg) = +148; first ionisation energy of Mg = +738; second ionisation energy of Mg = +1451; ΔatH(Br) = +112; first electron affinity of Br = −325.
 
-Step 1: list every step on the long route, scaling for two bromine atoms.
+Step 1: list the long-route steps, doubling for bromine.
 
 | Step | Value / kJ mol⁻¹ |
 |---|---|
@@ -150,13 +148,13 @@ The same cycle can be rearranged to find any one missing term, such as an electr
 
 ## 5.2.1(c): Enthalpy changes of solution and hydration
 
-**Enthalpy change of solution, ΔsolH**: the enthalpy change when one mole of a solute dissolves in water.
+**Enthalpy change of solution, ΔsolH**: the enthalpy change for dissolving 1 mol of a solute in water.
 
-LiBr(s) + aq → Li⁺(aq) + Br⁻(aq)
+RbBr(s) + aq → Rb⁺(aq) + Br⁻(aq)
 
-**Enthalpy change of hydration, ΔhydH**: the enthalpy change when one mole of gaseous ions dissolves in water.
+**Enthalpy change of hydration, ΔhydH**: the enthalpy change for dissolving 1 mol of gaseous ions in water.
 
-Li⁺(g) + aq → Li⁺(aq)      Br⁻(g) + aq → Br⁻(aq)
+Rb⁺(g) + aq → Rb⁺(aq)      Br⁻(g) + aq → Br⁻(aq)
 
 Hydration is always exothermic. Water molecules are polar, so the δ− oxygen atoms are attracted to a positive ion, and the δ+ hydrogen atoms are attracted to a negative ion. Forming these attractions releases energy. Enthalpy changes of solution can be either sign, because they are a balance between two large terms. The specification does not require details of infinite dilution.
 
@@ -174,17 +172,17 @@ The sum covers every ion in the formula, so a 1:2 compound counts its anion twic
   MX(s)  ──── ΔsolH ────→  M⁺(aq) + X⁻(aq)
 ```
 
-### Worked example 3: enthalpy change of solution of lithium bromide
+### Worked example 3: enthalpy change of solution of rubidium bromide
 
-Use these values (kJ mol⁻¹): ΔLEH(LiBr) = −807; ΔhydH(Li⁺) = −519; ΔhydH(Br⁻) = −336.
+Use these values (kJ mol⁻¹): ΔLEH(RbBr) = −659; ΔhydH(Rb⁺) = −301; ΔhydH(Br⁻) = −336.
 
 ```
-ΔsolH = −(−807) + (−519) + (−336)
-      = 807 − 855
-      = −48 kJ mol⁻¹
+ΔsolH = −(−659) + (−301) + (−336)
+      = 659 − 637
+      = +22 kJ mol⁻¹
 ```
 
-Dissolving is exothermic here because hydration releases more energy than breaking the lattice needs.
+Dissolving is endothermic: breaking the lattice needs slightly more energy than hydration releases, so the solution cools.
 
 ### Worked example 4: finding a hydration enthalpy
 
@@ -201,7 +199,7 @@ The factor of 2 for bromide is the step most often dropped.
 
 ### Linking to practical work
 
-The guidance for 3.2.1(h) includes measuring the enthalpy changes in 5.2.1(c). For a solution enthalpy, dissolve a weighed mass of solid in a measured volume of water in an insulated cup, record the temperature change, use q = mcΔT and divide by the moles of solid. A temperature rise means ΔsolH is negative. Hydration enthalpies come from cycles like worked example 4 instead.
+The guidance for 3.2.1(h) includes measuring the enthalpy changes in 5.2.1(c). For a solution enthalpy, dissolve a weighed mass of solid in a measured volume of water in an insulated cup, record the temperature change, use q = mcΔT and divide by the moles of solid. A temperature rise means ΔsolH is negative; a fall means it is positive. Hydration enthalpies come from cycles instead.
 
 ## 5.2.1(e): Effect of ionic charge and ionic radius
 
@@ -214,8 +212,8 @@ Both lattice enthalpy and hydration enthalpy depend on the attraction between ch
 Applying this to the compounds above:
 
 - MgBr₂ (−2435) is far more exothermic than NaBr (−751). Mg²⁺ has a larger charge than Na⁺, and it is also smaller.
-- Take ΔfH(CsBr) = −406, ΔatH(Cs) = +76 and first ionisation energy of Cs = +376, with the bromine values from worked example 1. The same cycle gives ΔLEH(CsBr) = −645 kJ mol⁻¹, less exothermic than NaBr. Cs⁺ has the same charge as Na⁺ but a larger radius, so the ions are further apart.
-- Mg²⁺ (−1948) has a far more exothermic hydration enthalpy than Li⁺ (−519). Mg²⁺ has double the charge and attracts the δ− oxygen of water more strongly.
+- Take ΔfH(KBr) = −394, ΔatH(K) = +89 and first ionisation energy of K = +419, with the bromine values from worked example 1. The same cycle gives ΔLEH(KBr) = −689 kJ mol⁻¹, less exothermic than NaBr. Both cations are 1+, but K⁺ is bigger, so its centre sits further from each Br⁻ ion.
+- Mg²⁺ (−1948) has a far more exothermic hydration enthalpy than Rb⁺ (−301). Mg²⁺ carries twice the charge and is much smaller, so it pulls the δ− oxygen of water in more strongly.
 
 In an explanation, name the ions, say which factor differs (charge, radius or both), and link it to attraction and energy released.
 

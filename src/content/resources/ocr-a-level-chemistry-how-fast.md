@@ -22,11 +22,11 @@ featured: false
 
 This study guide teaches section 5.1.1, How fast?, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, covering outcomes (a) to (k). H432 is the full A level. OCR's assessment overview places Module 5 in Periodic table, elements and physical chemistry (01) and in Unified chemistry (03).
 
-Collision theory and Boltzmann curves are in the [Reaction rates study guide](/resources/ocr-a-level-chemistry-reaction-rates/) (3.2.2). Pair this page with the [How fast? revision notes](/resources/ocr-a-level-chemistry-how-fast-revision-notes/) and [practice questions](/resources/ocr-a-level-chemistry-how-fast-practice/). See also the [OCR chemistry hub](/boards/ocr/a-level/chemistry/), the [H432 checklist](/checklists/ocr/a-level/chemistry/) and the [free diagnostics](/diagnostics/).
+For collision theory and Boltzmann curves (3.2.2), read our [guide to Reaction rates](/resources/ocr-a-level-chemistry-reaction-rates/) first. This page pairs with the [How fast? revision notes](/resources/ocr-a-level-chemistry-how-fast-revision-notes/) and the [How fast? practice set](/resources/ocr-a-level-chemistry-how-fast-practice/). Use our [H432 course page](/boards/ocr/a-level/chemistry/), the [printable outcome list](/checklists/ocr/a-level/chemistry/) and a [free diagnostic](/diagnostics/) to plan.
 
 ## What this unit covers
 
-| Spec ref | What you must be able to do |
+| Statement | Learning outcome in brief |
 |---|---|
 | 5.1.1(a) | Use the key terms below |
 | 5.1.1(b) | Orders from initial rates; rate = k[A]^m[B]^n (PAG10) |
@@ -42,12 +42,12 @@ Collision theory and Boltzmann curves are in the [Reaction rates study guide](/r
 
 ## Key terms (a)
 
-- **Rate of reaction**: the change in concentration of a reactant or product per unit time, usually in mol dm⁻³ s⁻¹.
-- **Order with respect to a reactant**: the power to which its concentration is raised in the rate equation.
-- **Overall order**: the sum of the individual orders.
-- **Rate constant, k**: the constant of proportionality in the rate equation. It is fixed at a given temperature and changes when the temperature changes.
-- **Half-life, t½**: the time taken for the concentration of a reactant to fall to half its value.
-- **Rate-determining step**: the slowest step in a multi-step mechanism; it limits the overall rate.
+- **Rate of reaction**: how quickly a reactant's concentration falls or a product's concentration rises, per unit time, usually in mol dm⁻³ s⁻¹.
+- **Order with respect to a reactant**: the exponent on [A] in the rate equation, for reactant A.
+- **Overall order**: add the individual orders together.
+- **Rate constant, k**: the number linking the rate to the concentration terms. It is fixed at one temperature only.
+- **Half-life, t½**: how long it takes for [A] to halve, starting from any chosen value.
+- **Rate-determining step**: in a mechanism with more than one step, the step with the lowest rate; the overall reaction cannot go faster than it.
 
 ## Orders and rate equations from initial rates (b)
 
@@ -63,7 +63,7 @@ In rate = k[A]^m[B]^n each order is 0, 1 or 2, found by experiment, not from the
 
 Initial rates at constant temperature:
 
-| Experiment | [ClO₂] / mol dm⁻³ | [OH⁻] / mol dm⁻³ | Initial rate / mol dm⁻³ s⁻¹ |
+| Experiment | [ClO₂] / mol dm⁻³ | [OH⁻] / mol dm⁻³ | Rate at t = 0 / mol dm⁻³ s⁻¹ |
 |---|---|---|---|
 | 1 | 0.0150 | 0.0200 | 9.00 × 10⁻⁴ |
 | 2 | 0.0300 | 0.0200 | 3.60 × 10⁻³ |
@@ -81,19 +81,13 @@ Rearrange the rate equation and substitute one experiment's values.
 
 k = rate ÷ ([ClO₂]²[OH⁻]) = 9.00 × 10⁻⁴ ÷ (0.0150² × 0.0200) = **200 dm⁶ mol⁻² s⁻¹**
 
-Units: (mol dm⁻³ s⁻¹) ÷ (mol dm⁻³)³ = mol⁻² dm⁶ s⁻¹.
+Units: mol dm⁻³ s⁻¹ divided by (mol dm⁻³)³ leaves dm⁶ mol⁻² s⁻¹.
 
 Related quantities follow from the same equation. For [ClO₂] = 0.0450 and [OH⁻] = 0.0100 mol dm⁻³:
 
 rate = 200 × 0.0450² × 0.0100 = **4.05 × 10⁻³ mol dm⁻³ s⁻¹**
 
-| Overall order | Units of k |
-|---|---|
-| 0 | mol dm⁻³ s⁻¹ |
-| 1 | s⁻¹ |
-| 2 | dm³ mol⁻¹ s⁻¹ |
-| 3 | dm⁶ mol⁻² s⁻¹ |
-| 4 | dm⁹ mol⁻³ s⁻¹ |
+Each extra order adds dm³ mol⁻¹ to the units: overall orders 0, 1, 2 and 3 give mol dm⁻³ s⁻¹, s⁻¹, dm³ mol⁻¹ s⁻¹ and dm⁶ mol⁻² s⁻¹.
 
 ## Concentration–time graphs (d)
 
@@ -110,7 +104,7 @@ Rate = (2.40 − 0.60) × 10⁻³ ÷ 300 = **6.0 × 10⁻⁶ mol dm⁻³ s⁻¹*
 
 ## Half-life and k for first-order reactions (e) and (f)
 
-A first-order reaction has a **constant half-life**: it takes the same time to fall from any concentration to half that value. Read at least two successive half-lives from the graph to show this.
+A first-order reaction has a **constant half-life**: it takes the same time to fall from any concentration to half that value. Read two successive half-lives to show this.
 
 The specification gives k = ln 2/t½ (ln 2 = 0.693). You do not need to derive it from [A] = [A]₀e^(–kt), and integrated rate equations are not required.
 
@@ -132,9 +126,9 @@ These data usually come from separate initial-rate experiments.
 
 | Order | Shape of rate against concentration |
 |---|---|
-| 0 | Horizontal straight line |
-| 1 | Straight line through the origin |
-| 2 | Upward curve through the origin (rate ∝ [A]²) |
+| 0 | Flat line: the rate is the same at every concentration |
+| 1 | Line through (0, 0): doubling [A] doubles the rate |
+| 2 | Curve through (0, 0) that gets steeper (rate ∝ [A]²) |
 
 For a first-order reactant, rate = k[A], so **the gradient equals k**.
 
@@ -148,9 +142,9 @@ The points lie on a straight line through the origin: first order. Gradient = 4.
 
 ## Practical techniques (h)
 
-**Continuous monitoring (PAG9).** Follow one mixture over time by measuring gas volume, mass loss or colour. In **colorimetry**, choose a filter of the colour the coloured species absorbs. Absorbance is proportional to concentration, so a calibration curve made with standard solutions converts absorbance to concentration. Plot concentration against time, then use tangents or half-lives.
+**Continuous monitoring (PAG9).** Follow one mixture over time by measuring gas volume, mass loss or colour. In **colorimetry**, choose a filter of the colour the coloured species absorbs. Absorbance is proportional to concentration, so a calibration curve made with standard solutions converts absorbance to concentration.
 
-**Initial rates (PAG10).** Run separate experiments, changing one concentration at a time and keeping temperature and the other concentrations fixed. Find each initial rate from a tangent at t = 0, or use a **clock reaction**. In a clock reaction you time how long a fixed small amount of product takes to form. Because so little reaction has happened, the rate is almost constant over that time, so the initial rate is proportional to 1/t. This is an approximation; it holds only if the reaction has not gone too far.
+**Initial rates (PAG10).** Run separate experiments, changing one concentration at a time and keeping temperature and the other concentrations fixed. Find each initial rate from a tangent at t = 0, or use a **clock reaction**. In a clock reaction you measure the time until a set, small quantity of product has appeared. Because so little reaction has happened, the rate is almost constant over that time, so the initial rate is proportional to 1/t. This approximation fails if the reaction has gone too far.
 
 **Worked example 5.** A clock reaction is timed at three concentrations of reactant X:
 
@@ -163,7 +157,7 @@ Relative rates are 1 : 4 : 9 when [X] is in the ratio 1 : 2 : 3. The rate depend
 
 ## Rate-determining step and mechanisms (i)
 
-The rate equation contains the species involved up to and including the rate-determining step, in the numbers given by the orders. A zero-order reactant joins after the slow step.
+Species in the rate equation react in, or before, the rate-determining step; the orders give how many of each. A zero-order reactant joins later.
 
 To propose a mechanism:
 
@@ -178,11 +172,11 @@ The rate-determining step involves one H₂ and one ICl:
 - Step 1 (slow): H₂ + ICl → HI + HCl
 - Step 2 (fast): HI + ICl → I₂ + HCl
 
-The steps add to the overall equation; HI is the intermediate. The second ICl reacts in the fast step, so it does not appear in the rate equation.
+The steps add to the overall equation; HI is the intermediate. The second ICl reacts after the slow step, so it is not in the rate equation.
 
 ## Temperature and the rate constant (j)
 
-Heating shifts the Boltzmann distribution to higher energies (3.2.2(f) and (g)), so a greater proportion of molecules have energy of at least Ea, and more collisions per second succeed. The concentrations are unchanged by heating, so the faster rate means k has increased. k is constant only at one temperature.
+Heating shifts the Boltzmann distribution to higher energies (3.2.2(f) and (g)), so more of the molecules now have at least the activation energy, and more collisions per second succeed. The concentrations are unchanged by heating, so the faster rate means k has increased. k is constant only at one temperature.
 
 ## The Arrhenius equation (k)
 
@@ -192,7 +186,7 @@ Ea is in J mol⁻¹, T in kelvin, R = 8.314 J mol⁻¹ K⁻¹ and A is the pre-e
 
 ln k = –Ea/RT + ln A
 
-This has the form y = mx + c. A plot of ln k (y) against 1/T (x) is a straight line with gradient –Ea/R and intercept ln A. OCR's additional guidance says R and these equations are provided on the Data Sheet.
+Matching it to y = mx + c, the y-values are ln k and the x-values are 1/T. The graph is a straight line whose gradient is –Ea/R and whose intercept is ln A. OCR's additional guidance says R and these equations are provided on the Data Sheet.
 
 **Worked example 7.** k for a second-order reaction at five temperatures:
 
@@ -219,7 +213,7 @@ Using k = Ae^(–Ea/RT) directly: with Ea = 63.0 kJ mol⁻¹ and A = 5.0 × 10�
 
 ## Next steps
 
-Recall with the [revision notes](/resources/ocr-a-level-chemistry-how-fast-revision-notes/), then try the [practice questions](/resources/ocr-a-level-chemistry-how-fast-practice/). Graph skills also appear in [practical skills for the written papers](/resources/ocr-a-level-chemistry-practical-skills-written-examination/).
+Once the ideas make sense, drill them with the [condensed How fast? notes](/resources/ocr-a-level-chemistry-how-fast-revision-notes/) and test them on the [How fast? questions](/resources/ocr-a-level-chemistry-how-fast-practice/). Tangent and gradient skills are revisited in our page on [written-paper practical skills](/resources/ocr-a-level-chemistry-practical-skills-written-examination/).
 
 ## Official syllabus
 

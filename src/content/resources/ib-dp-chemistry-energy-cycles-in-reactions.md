@@ -20,13 +20,13 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This guide teaches Reactivity 1.2, "Energy cycles in reactions", from scratch. It follows the IB Diploma Programme Chemistry guide (first assessment 2025, published February 2023) and covers understandings Reactivity 1.2.1 to 1.2.5. The first two are for SL and HL; the last three sit in the additional higher level (AHL) part and are HL only. The page is for the course examined from 2025 onwards.
+This guide teaches Reactivity 1.2, "Energy cycles in reactions", from scratch. It follows the IB Diploma Programme Chemistry guide (first assessment 2025, published February 2023) and covers understandings Reactivity 1.2.1 to 1.2.5. The first two are for SL and HL; the last three sit in the additional higher level (AHL) part and are HL only. It applies to exams from 2025 onwards.
 
-When you have worked through it, condense the ideas with the [energy cycles revision notes](/resources/ib-dp-chemistry-energy-cycles-in-reactions-revision-notes/) and test yourself with the [energy cycles practice questions](/resources/ib-dp-chemistry-energy-cycles-in-reactions-practice/). The [DP Chemistry hub](/boards/ib/ib-dp/chemistry/) lists every unit, the [topic checklist](/checklists/ib/ib-dp/chemistry/) tracks your progress, the [syllabus guide](/resources/ib-dp-chemistry-syllabus-guide/) shows how the course fits together, and a free [diagnostic quiz](/diagnostics/) shows where to start.
+After this guide, condense the ideas with the [energy cycles revision notes](/resources/ib-dp-chemistry-energy-cycles-in-reactions-revision-notes/) and test yourself with the [energy cycles practice questions](/resources/ib-dp-chemistry-energy-cycles-in-reactions-practice/). Every other unit sits on the [DP Chemistry hub](/boards/ib/ib-dp/chemistry/), the [progress checklist](/checklists/ib/ib-dp/chemistry/) tracks your progress, the [syllabus guide](/resources/ib-dp-chemistry-syllabus-guide/) shows how the course fits together, and a free [diagnostic quiz](/diagnostics/) shows where to start.
 
 ## What this unit covers
 
-| Guide statement | What you need to do | Level |
+| Understanding | Skills you must show | Level |
 |---|---|---|
 | Reactivity 1.2.1 | Calculate ΔH from average bond enthalpies; explain why they are averages and why answers differ from measured values | SL and HL |
 | Reactivity 1.2.2 | Use Hess's law to find ΔH for a reaction from several other steps | SL and HL |
@@ -40,7 +40,7 @@ Every method below applies one idea: conservation of energy. The guide states th
 
 To break a covalent bond you must put energy in, so **bond breaking is endothermic**. When a bond forms, the same amount of energy is given out, so **bond forming is exothermic**.
 
-The **bond enthalpy** is the energy needed to break one mole of a given bond with all species in the gaseous state. Bond enthalpies are always positive.
+The **bond enthalpy** is the energy required to split one mole of a particular bond, with every species in the gas phase. Bond enthalpies are always positive.
 
 A C–H bond in methane is not quite the same as a C–H bond in ethanol or in chloroform, because the neighbouring atoms change its electron distribution. Tables therefore give an **average bond enthalpy**, taken over many different compounds. That is why a calculated ΔH is an estimate.
 
@@ -70,7 +70,7 @@ A value calculated from measured enthalpies of formation is about −312 kJ mol�
 
 ## Reactivity 1.2.2 Hess's law
 
-**Hess's law**: the enthalpy change for a reaction does not depend on the route taken from the initial state to the final state. This follows from conservation of energy. If two routes gave different energy changes, you could go out by one and back by the other and create energy from nothing.
+**Hess's law** says that ΔH for a reaction does not depend on the route taken from the initial state to the final state. This follows from conservation of energy. If two routes gave different energy changes, you could go out by one and back by the other and create energy from nothing.
 
 Rules for combining equations:
 
@@ -78,29 +78,29 @@ Rules for combining equations:
 - Multiply an equation by a number: multiply ΔH by the same number.
 - Add equations: add their ΔH values. Species on both sides cancel.
 
-### Worked example 2: steam reforming of methane
+### Worked example 2: nitrogen dioxide oxidizing sulfur dioxide
 
-Find ΔH for CH₄(g) + H₂O(g) → CO(g) + 3H₂(g) from:
+Find ΔH for SO₂(g) + NO₂(g) → SO₃(g) + NO(g) from:
 
-- (1) CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(g)  ΔH = −802.3 kJ mol⁻¹
-- (2) CO(g) + ½O₂(g) → CO₂(g)  ΔH = −283.0 kJ mol⁻¹
-- (3) H₂(g) + ½O₂(g) → H₂O(g)  ΔH = −241.8 kJ mol⁻¹
+- (1) 2SO₂(g) + O₂(g) → 2SO₃(g)  ΔH = −197.8 kJ mol⁻¹
+- (2) N₂(g) + 2O₂(g) → 2NO₂(g)  ΔH = +66.4 kJ mol⁻¹
+- (3) N₂(g) + O₂(g) → 2NO(g)  ΔH = +180.6 kJ mol⁻¹
 
-Work from the target:
+Work from the target, one species at a time:
 
-- CH₄ is a reactant in the target and in (1): keep (1) as written, −802.3.
-- CO is a product in the target but a reactant in (2): reverse (2), +283.0.
-- 3H₂ are products in the target but H₂ is a reactant in (3): reverse (3) and multiply by 3, +725.4.
+- One SO₂ on the left and one SO₃ on the right: use (1) halved, ½ × (−197.8) = −98.9.
+- One NO₂ on the left, but NO₂ is a product in (2): reverse (2) and halve it, −½ × (+66.4) = −33.2.
+- One NO on the right: use (3) halved, ½ × (+180.6) = +90.3.
 
-Check the cancelling: 2O₂ on the left of (1) cancels the ½O₂ + 1½O₂ on the right of the reversed equations. CO₂ cancels. Two H₂O formed in (1), three H₂O used by reversed (3), leaving one H₂O on the left.
+Check the cancelling: ½N₂ appears on the right of reversed (2) and the left of halved (3). The O₂ balances too: ½O₂ + ½O₂ used on the left, one O₂ released on the right.
 
-ΔH = −802.3 + 283.0 + 725.4 = **+206.1 kJ mol⁻¹**
+ΔH = −98.9 − 33.2 + 90.3 = **−41.8 kJ mol⁻¹**
 
 ## Reactivity 1.2.3 Formation and combustion equations (HL only)
 
 **Standard conditions** mean a pressure of 100 kPa, with data usually quoted at 298 K. Each substance is in its **standard state**, its pure form at that pressure.
 
-- **Standard enthalpy change of formation, ΔHf⦵**: the enthalpy change when one mole of a compound forms from its elements in their standard states.
+- **Standard enthalpy change of formation, ΔHf⦵**: the enthalpy change for making one mole of a compound out of its constituent elements, each in its standard state.
 - **Standard enthalpy change of combustion, ΔHc⦵**: the enthalpy change when one mole of a substance burns completely in oxygen.
 
 Both definitions fix "one mole" of a particular substance, so fractions in the equation are normal. An element in its standard state has ΔHf⦵ = 0, because forming it from itself involves no change.
@@ -122,8 +122,8 @@ Some values do two jobs. Burning graphite, C(s) + O₂(g) → CO₂(g), is both 
 Two equations come from Hess cycles:
 
 ```
-ΔH⦵ = Σ ΔHf⦵(products) − Σ ΔHf⦵(reactants)
-ΔH⦵ = Σ ΔHc⦵(reactants) − Σ ΔHc⦵(products)
+using formation data:   ΔH⦵ = Σ ΔHf⦵(products) − Σ ΔHf⦵(reactants)
+using combustion data:  ΔH⦵ = Σ ΔHc⦵(reactants) − Σ ΔHc⦵(products)
 ```
 
 The order is reversed for combustion. With formation data, the cycle goes down from the elements to both sides. With combustion data, it goes down from both sides to the combustion products. Multiply each value by its coefficient in the balanced equation.
@@ -192,14 +192,14 @@ Interpreting the result: the MgI₂ lattice enthalpy is over three times that of
 - Using bond enthalpies for a reaction with liquid water without allowing for vaporization.
 - Forgetting to reverse the sign of ΔH when reversing an equation, or to multiply it when scaling.
 - Swapping the two summation equations: formation is products minus reactants, combustion is reactants minus products.
-- Giving an element in its standard state a non-zero ΔHf⦵, or giving O₂ a ΔHc⦵.
+- Assigning a ΔHf⦵ value other than zero to graphite, O₂(g) or another element in its standard state, or giving O₂ a ΔHc⦵.
 - Writing a formation equation that makes two moles of product.
 - In Born–Haber cycles, forgetting IE₂ for a 2+ ion or failing to double the anion terms for MgX₂.
 
 ## Next steps
 
-Go to the [revision notes](/resources/ib-dp-chemistry-energy-cycles-in-reactions-revision-notes/) for a one-sitting summary, then try the [practice set](/resources/ib-dp-chemistry-energy-cycles-in-reactions-practice/) with full worked answers. Use the [checklist](/checklists/ib/ib-dp/chemistry/) to tick off each understanding.
+Read the [one-sitting summary notes](/resources/ib-dp-chemistry-energy-cycles-in-reactions-revision-notes/) next, then try the [practice set](/resources/ib-dp-chemistry-energy-cycles-in-reactions-practice/) with full worked answers. Use the [checklist](/checklists/ib/ib-dp/chemistry/) to tick off each understanding.
 
 ## Official syllabus
 
-This guide is based on the *Diploma Programme Chemistry guide* (International Baccalaureate Organization), first assessment 2025, published February 2023, sub-topic Reactivity 1.2.
+Source document: International Baccalaureate Organization, *Diploma Programme Chemistry guide*, first assessment 2025 (published February 2023), sub-topic Reactivity 1.2.

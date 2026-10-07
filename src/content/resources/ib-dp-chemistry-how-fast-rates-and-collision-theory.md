@@ -20,15 +20,15 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This guide teaches the first part of **Reactivity 2.2, How fast? The rate of chemical change**, matched to the February 2023 IB *Chemistry guide* for the Diploma Programme, whose first exams ran in 2025. It covers understandings Reactivity 2.2.1 to 2.2.5, which are studied at **both SL and HL**. The additional higher level understandings (Reactivity 2.2.6 to 2.2.13: mechanisms, rate equations and the Arrhenius equation) are not covered on this page.
+This guide teaches the first part of **Reactivity 2.2, How fast? The rate of chemical change**, based on the IB Diploma Programme *Chemistry guide* (February 2023, first assessment 2025). Its scope is understandings Reactivity 2.2.1 to 2.2.5, which are studied at **both SL and HL**. The additional higher level understandings (Reactivity 2.2.6 to 2.2.13: mechanisms, rate equations and the Arrhenius equation) are not covered on this page.
 
 For the whole course, see the [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/) or print the [checklist](/checklists/ib/ib-dp/chemistry/).
 
 ## What this unit covers
 
-| Understanding | What you should be able to do | SL/HL |
+| Understanding | Skills you need | SL/HL |
 |---|---|---|
-| Reactivity 2.2.1 | Express rate as change in concentration of a reactant or product per unit time; work out rates, including from tangents to graphs of concentration, volume or mass against time | SL and HL |
+| Reactivity 2.2.1 | Express rate as how fast the concentration of one named reactant or product changes with time; work out rates, including from tangents to graphs of concentration, volume or mass against time | SL and HL |
 | Reactivity 2.2.2 | Explain that reaction needs collisions with enough energy and the right geometry; link average kinetic energy to temperature in kelvin | SL and HL |
 | Reactivity 2.2.3 | Predict and explain how pressure, concentration, surface area, temperature and a catalyst change the rate | SL and HL |
 | Reactivity 2.2.4 | Define activation energy, Ea; use Maxwell–Boltzmann curves to explain the effect of temperature | SL and HL |
@@ -36,7 +36,7 @@ For the whole course, see the [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/)
 
 ## Rate of reaction (2.2.1)
 
-The **rate of reaction** is the change in concentration of a particular reactant or product per unit time. For a reactant the concentration falls, so you take the size of the change; rate is always quoted as a positive number.
+The **rate of reaction** tells you how quickly the concentration of one named reactant or product changes, per unit time. For a reactant the concentration falls, so you take the size of the change; rate is always quoted as a positive number.
 
 rate = Δ[concentration] / Δt   unit: mol dm⁻³ s⁻¹
 
@@ -55,20 +55,20 @@ In the first four methods **time is the independent variable**: you choose the t
 ### Average rate and instantaneous rate
 
 - **Average rate** over an interval = total change ÷ time taken.
-- **Instantaneous rate** at a moment = gradient of the tangent to the curve at that time. The **initial rate** is the gradient of the tangent at t = 0.
+- **Instantaneous rate** at a moment = gradient of a tangent drawn to the curve at that moment. The **initial rate** is the gradient of the tangent at t = 0.
 
 Draw the tangent long, touching the curve at one point only. Pick two points on it far apart: gradient = (y₂ − y₁)/(x₂ − x₁).
 
-**Worked example 1 (colorimetry).** Bromine water reacts with methanoic acid:
+**Worked example 1 (colorimetry).** Crystal violet is a purple dye that hydroxide ions turn colourless:
 
-Br₂(aq) + HCOOH(aq) → 2HBr(aq) + CO₂(g)
+CV⁺(aq) + OH⁻(aq) → CVOH(aq)
 
-The orange colour of bromine fades, and absorbance readings are turned into [Br₂]. At t = 0, [Br₂] = 0.0120 mol dm⁻³. A tangent drawn at t = 0 passes through (0 s, 0.0120 mol dm⁻³) and (150 s, 0). At t = 200 s, [Br₂] = 0.0047 mol dm⁻³, and the tangent there passes through (0 s, 0.0074 mol dm⁻³) and (370 s, 0).
+Colorimeter absorbance readings are converted into [CV⁺]. At t = 0, [CV⁺] = 2.40 × 10⁻⁵ mol dm⁻³. The tangent at t = 0 runs from (0 s, 2.40 × 10⁻⁵ mol dm⁻³) to (300 s, 0). At t = 300 s, [CV⁺] = 0.90 × 10⁻⁵ mol dm⁻³, and the tangent there passes through (0 s, 1.50 × 10⁻⁵ mol dm⁻³) and (750 s, 0).
 
-1. Initial rate = (0.0120 − 0)/(150 − 0) = **8.0 × 10⁻⁵ mol dm⁻³ s⁻¹** (rate of loss of Br₂).
-2. Rate at 200 s = 0.0074/370 = **2.0 × 10⁻⁵ mol dm⁻³ s⁻¹**. The rate is a quarter of its starting value because fewer Br₂ molecules are left to collide.
-3. Average rate over the first 200 s = (0.0120 − 0.0047)/200 = **3.65 × 10⁻⁵ mol dm⁻³ s⁻¹**, between the two instantaneous values.
-4. The equation shows 2 mol HBr form for each 1 mol Br₂ used, so the initial rate of formation of HBr = 2 × 8.0 × 10⁻⁵ = **1.6 × 10⁻⁴ mol dm⁻³ s⁻¹**. Always say which species a rate refers to.
+1. Initial rate = (2.40 × 10⁻⁵ − 0)/(300 − 0) = **8.0 × 10⁻⁸ mol dm⁻³ s⁻¹** (rate of loss of CV⁺).
+2. Rate at 300 s = 1.50 × 10⁻⁵/750 = **2.0 × 10⁻⁸ mol dm⁻³ s⁻¹**, a quarter of the starting rate, because fewer CV⁺ ions remain to collide with OH⁻.
+3. Average rate over the first 300 s = (2.40 − 0.90) × 10⁻⁵/300 = **5.0 × 10⁻⁸ mol dm⁻³ s⁻¹**, between the two instantaneous values.
+4. The equation is 1 : 1, so OH⁻ is used up at the same rate as CV⁺. With a 1 : 2 ratio the product would form twice as fast, so always say which species a rate refers to.
 
 **Worked example 2 (mass loss).** Citric acid solution is added to sodium hydrogencarbonate in an open flask on a balance. The reading falls from 148.62 g to 148.18 g during the first 40 s, because CO₂ escapes.
 
@@ -80,7 +80,7 @@ The orange colour of bromine fades, and absorbance readings are turned into [Br�
 
 Particles react only when they **collide**, and a collision leads to reaction only if both of these are true:
 
-1. The particles collide with **energy at least equal to the activation energy**, Ea.
+1. The particles collide with **at least the activation energy**, Ea.
 2. They collide with the **proper orientation** (collision geometry), so the atoms that must bond actually meet.
 
 Collision theory builds on the kinetic molecular theory from Structure 1.1. The **average kinetic energy** of the particles is **directly proportional to the absolute temperature**, in kelvin (K = °C + 273.15). Doubling the kelvin temperature doubles the average kinetic energy; doubling the Celsius temperature does not.
@@ -100,9 +100,9 @@ Each factor works by changing the **frequency of collisions**, the **fraction of
 
 | Change | Effect on rate | Explanation |
 |---|---|---|
-| Higher concentration of a solution | Faster | More particles per unit volume, so more frequent collisions |
-| Higher pressure of a gas (same temperature) | Faster | Particles closer together, so more frequent collisions |
-| Larger surface area of a solid (smaller pieces, powder) | Faster | More particles exposed, so more frequent collisions at the surface |
+| Higher concentration of a solution | Faster | More particles in each dm³, so collisions happen more often |
+| Higher pressure of a gas (same temperature) | Faster | Particles are closer together, so they collide more often |
+| Larger surface area of a solid (smaller pieces, powder) | Faster | More particles exposed, so surface collisions happen more often |
 | Higher temperature | Faster | Particles move faster, so more frequent collisions, **and** a much larger fraction of collisions have E ≥ Ea (the main effect) |
 | Adding a catalyst | Faster | Alternative pathway with lower Ea, so a larger fraction of collisions are successful |
 
@@ -114,7 +114,7 @@ Write "more frequent collisions", not just "more collisions".
 
 ## Activation energy and the Maxwell–Boltzmann distribution (2.2.4)
 
-**Activation energy, Ea**, is the minimum energy that colliding particles need for a successful collision that leads to a reaction.
+**Activation energy, Ea**, is the smallest amount of energy a collision must bring for the colliding particles to react.
 
 A **Maxwell–Boltzmann energy distribution curve** shows how kinetic energy is spread among the particles of a gas at a fixed temperature.
 
@@ -122,11 +122,11 @@ A **Maxwell–Boltzmann energy distribution curve** shows how kinetic energy is 
 
 - Axes: x-axis "kinetic energy" (or "energy"); y-axis "number of particles" (or "fraction of particles").
 - The curve starts at the origin: no particle has zero energy.
-- It rises to a peak (the most probable energy), then falls with a long tail.
-- The tail gets closer to the x-axis but never touches it.
-- Draw a vertical line at Ea to the right of the peak. The **area under the curve beyond Ea** is the number of particles with enough energy to react.
+- It climbs to a single maximum (the most probable energy) and then drops away.
+- The high-energy tail approaches the x-axis but never meets it.
+- Draw a vertical Ea line on the high-energy side of the maximum. The **area beyond that line** represents the particles with enough energy to react.
 
-**At a higher temperature** the curve is lower and wider, and its peak moves to the right. The **total area stays the same**, because the number of particles has not changed. Far more area now lies beyond Ea.
+**At a higher temperature** the curve is lower and wider, and its peak moves to the right. The **area enclosed is unchanged**: there are still as many particles. Far more area now lies beyond Ea.
 
 That is the answer to worked example 3. A modest rise in average kinetic energy moves a much larger share of particles past Ea, so the fraction of successful collisions rises steeply. This effect matters far more than the small increase in collision frequency.
 
@@ -134,7 +134,7 @@ That is the answer to worked example 3. A modest rise in average kinetic energy 
 
 ## Catalysts and energy profiles (2.2.5)
 
-A **catalyst** increases the rate by providing an **alternative reaction pathway with a lower activation energy**. It is not used up overall. **Enzymes** are biological catalysts. (The different mechanisms of homogeneous and heterogeneous catalysts are not assessed.)
+A **catalyst** increases the rate by providing an **alternative reaction pathway with a lower activation energy**, and is chemically unchanged at the end. **Enzymes** are biological catalysts. (The different mechanisms of homogeneous and heterogeneous catalysts are not assessed.)
 
 ### Energy profiles
 
@@ -142,7 +142,7 @@ An energy profile plots potential energy (y-axis) against the reaction pathway o
 
 - **Exothermic**: products below reactants; ΔH negative.
 - **Endothermic**: products above reactants; ΔH positive.
-- Ea is measured from the reactant level up to the top of the hump.
+- Ea is the height from the reactants to the highest point of the profile.
 - With a catalyst, draw a **lower hump** between the same start and finish levels. ΔH does not change.
 
 **Worked example 4.** For an exothermic reaction, Ea = 96 kJ mol⁻¹ and ΔH = −58 kJ mol⁻¹. With a catalyst, Ea = 61 kJ mol⁻¹.
@@ -151,7 +151,7 @@ An energy profile plots potential energy (y-axis) against the reaction pathway o
 2. Reverse reaction with the catalyst = 61 + 58 = **119 kJ mol⁻¹**.
 3. The catalyst lowers both barriers by the same amount, **35 kJ mol⁻¹**. That is why a catalyst speeds up the forward and backward reactions together and does not change the position of equilibrium (Reactivity 2.3).
 
-For an endothermic reaction, the reverse barrier is Ea(forward) − ΔH. For example, with Ea = 130 kJ mol⁻¹ and ΔH = +40 kJ mol⁻¹, the reverse barrier is 90 kJ mol⁻¹.
+For an endothermic reaction, the reverse barrier is Ea(forward) − ΔH. For example, with Ea = 118 kJ mol⁻¹ and ΔH = +46 kJ mol⁻¹, the reverse barrier is 72 kJ mol⁻¹.
 
 ### Catalysts on the Maxwell–Boltzmann curve
 
@@ -170,8 +170,8 @@ Draw **one** curve: the temperature has not changed. Mark Ea (uncatalysed) and, 
 
 ## Where to go next
 
-Test yourself with the [practice questions](/resources/ib-dp-chemistry-how-fast-rates-and-collision-theory-practice/), and use the [revision notes](/resources/ib-dp-chemistry-how-fast-rates-and-collision-theory-revision-notes/) for quick review. The particle model behind collision theory is in the [Structure 1 study guide](/resources/ib-dp-chemistry-structure-1/). Our free [diagnostics](/diagnostics/) show which topics need more work.
+Next, try the [practice questions](/resources/ib-dp-chemistry-how-fast-rates-and-collision-theory-practice/), and use the [revision notes](/resources/ib-dp-chemistry-how-fast-rates-and-collision-theory-revision-notes/) for quick review. The particle model behind collision theory is in the [Structure 1 study guide](/resources/ib-dp-chemistry-structure-1/). Our free [diagnostics](/diagnostics/) show which topics need more work.
 
 ## Official syllabus
 
-Source: the International Baccalaureate's Diploma Programme *Chemistry guide*, issued in February 2023 for courses examined from 2025. This page follows Reactivity 2.2, How fast? The rate of chemical change, understandings 2.2.1 to 2.2.5, which are common to SL and HL.
+Aligned with the IB's DP *Chemistry guide* (International Baccalaureate; issued February 2023; first assessment 2025). This page follows Reactivity 2.2, How fast? The rate of chemical change, understandings 2.2.1 to 2.2.5, which are common to SL and HL.

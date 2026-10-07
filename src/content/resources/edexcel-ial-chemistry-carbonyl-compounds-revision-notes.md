@@ -21,7 +21,7 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-These notes condense Topic 15B: Carbonyl compounds (outcomes 15.6 to 15.8) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. The topic is in Unit 4: Rates, Equilibria and Further Organic Chemistry, an International A2 (IA2) unit. For full explanations and worked examples, use the [carbonyl compounds study guide](/resources/edexcel-ial-chemistry-carbonyl-compounds/).
+These notes condense Topic 15B: Carbonyl compounds (outcomes 15.6 to 15.8) as set out in Issue 1 (September 2017) of Pearson Edexcel's International Advanced Subsidiary/Advanced Level in Chemistry specification, YCH11. Unit 4 (Rates, Equilibria and Further Organic Chemistry), an International A2 (IA2) unit, is where it is examined. The [carbonyl compounds study guide](/resources/edexcel-ial-chemistry-carbonyl-compounds/) explains each idea in full, with worked examples.
 
 Also useful: the [practice questions](/resources/edexcel-ial-chemistry-carbonyl-compounds-practice/), the [topic checklist](/checklists/edexcel/a-level/chemistry/), a free [diagnostic](/diagnostics/) and the [course hub](/boards/edexcel/a-level/chemistry/).
 
@@ -94,8 +94,8 @@ Why KCN? HCN is a weak acid, so it gives too few CN⁻ ions on its own.
 
 ### Optical activity argument (15.8 iii)
 
-1. The C=O carbon is trigonal planar.
-2. CN⁻ attacks either face with equal probability.
+1. The carbonyl carbon and its three attached atoms are coplanar.
+2. Either face can be attacked by CN⁻, with equal probability.
 3. If the product carbon has four different groups, both enantiomers form in equal amounts.
 4. A racemic mixture forms: no overall rotation of plane-polarised light.
 5. If two groups on the carbonyl carbon are the same (methanal, propanone, pentan-3-one), the product is not chiral at all.
@@ -145,12 +145,12 @@ A test answer needs three parts: the **reagent**, the **condition** and the **ob
 3. Explain why butanone (Mr 72) boils higher than pentane (Mr 72).
 4. Why is butanone more soluble in water than pentane?
 5. State the colour change when propanal is warmed with acidified potassium dichromate(VI).
-6. Name the product when hexan-3-one is reduced with LiAlH₄, and classify it.
+6. Name the product when heptan-4-one is reduced with LiAlH₄, and classify it.
 7. Which of these give a positive iodoform test: ethanal, propanal, pentan-3-one, hexan-2-one?
 8. Name the product of HCN with propanal. Will the sample rotate plane-polarised light?
 9. Why is KCN added in the reaction with HCN?
-10. An aldehyde (0.0100 mol) reacts completely with Fehling's solution. What mass of Cu₂O forms? (Cu = 63.5, O = 16.0)
-11. What mass of silver forms when 1.98 g of butanal reacts completely with Tollens' reagent? (C = 12.0, H = 1.0, O = 16.0, Ag = 107.9)
+10. 2.00 g of 3-methylpentanal reacts completely with Fehling's solution. What mass of Cu₂O forms? (C = 12.0, H = 1.0, O = 16.0, Cu = 63.5)
+11. 2.50 g of hexan-2-one is fully reduced by LiAlH₄. What is the maximum mass of alcohol formed? (C = 12.0, H = 1.0, O = 16.0)
 12. Why is a 2,4-DNPH derivative recrystallised before its melting temperature is measured?
 
 ### Answers
@@ -160,12 +160,12 @@ A test answer needs three parts: the **reagent**, the **condition** and the **ob
 3. Similar London forces (similar number of electrons), but butanone also has permanent dipole–dipole forces from C=O, so more energy is needed to separate its molecules.
 4. The δ− carbonyl O accepts hydrogen bonds from water; pentane cannot form hydrogen bonds with water.
 5. **Orange to green**.
-6. **Hexan-3-ol**, a **secondary** alcohol.
+6. **Heptan-4-ol**, a **secondary** alcohol.
 7. **Ethanal and hexan-2-one** (both have CH₃CO–).
 8. **2-Hydroxybutanenitrile**. No: the chiral product forms as a racemic mixture.
 9. HCN is a weak acid; KCN supplies the CN⁻ nucleophile.
-10. Mr(Cu₂O) = 143.0; 0.0100 × 143.0 = **1.43 g**.
-11. Mr(butanal) = 72.0; n = 1.98 ÷ 72.0 = 0.0275 mol; n(Ag) = 0.0550 mol; mass = 0.0550 × 107.9 = **5.93 g**.
+10. Mr(C₆H₁₂O) = 100.0; n = 2.00 ÷ 100.0 = 0.0200 mol; 1 : 1 ratio, Mr(Cu₂O) = 143.0; mass = 0.0200 × 143.0 = **2.86 g**.
+11. Hexan-2-ol, C₆H₁₄O, Mr 102.0; n = 2.50 ÷ 100.0 = 0.0250 mol; mass = 0.0250 × 102.0 = **2.55 g**.
 12. To remove impurities, which lower the melting temperature and widen its range, so it would not match the table.
 
 ## Where marks are usually lost
@@ -182,4 +182,4 @@ A test answer needs three parts: the **reagent**, the **condition** and the **ob
 
 ## Official syllabus
 
-Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited -- Unit 4, Topic 15B: Carbonyl compounds, outcomes 15.6 to 15.8.
+Source: Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry, specification XCH11/YCH11, Issue 1, September 2017 (Pearson Education Limited). These notes cover Topic 15B: Carbonyl compounds, outcomes 15.6 to 15.8, in Unit 4.

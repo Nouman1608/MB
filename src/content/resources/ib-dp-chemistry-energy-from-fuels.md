@@ -22,11 +22,11 @@ featured: false
 
 This guide teaches **Reactivity 1.3, Energy from fuels**, from the IB Diploma Programme *Chemistry guide* published in February 2023, with first exams in 2025. It covers every understanding in the sub-topic, Reactivity 1.3.1 to 1.3.5. The guide lists no additional higher level content for Reactivity 1.3, so all of it is for **both SL and HL**.
 
-When you have read it, test yourself with the [practice questions](/resources/ib-dp-chemistry-energy-from-fuels-practice/), or use the shorter [revision notes](/resources/ib-dp-chemistry-energy-from-fuels-revision-notes/) for a final read. The [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/) shows the rest of the course, and the [printable checklist](/checklists/ib/ib-dp/chemistry/) helps you track it. Our free [diagnostics](/diagnostics/) can show which topics need work first.
+When you have read it, try the [practice questions](/resources/ib-dp-chemistry-energy-from-fuels-practice/), or use the shorter [revision notes](/resources/ib-dp-chemistry-energy-from-fuels-revision-notes/) for a final read. See where this unit sits on the [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/), and tick it off on the [printable checklist](/checklists/ib/ib-dp/chemistry/). Our free [diagnostics](/diagnostics/) can show which topics need work first.
 
 ## What this unit covers
 
-| Understanding | What you should be able to do | SL/HL |
+| Guide reference | Skills expected | Level |
 |---|---|---|
 | Reactivity 1.3.1 | Write balanced equations for complete combustion of metals, non-metals, hydrocarbons and alcohols | SL and HL |
 | Reactivity 1.3.2 | Write balanced equations for incomplete combustion of hydrocarbons and alcohols, giving carbon monoxide or carbon | SL and HL |
@@ -207,4 +207,4 @@ You do not need the details of the membrane that separates the electrodes.
 
 ## Official syllabus
 
-Source: the International Baccalaureate's Diploma Programme *Chemistry guide*, published in February 2023 for first assessment in 2025. This page follows Reactivity 1.3, Energy from fuels, covering understandings 1.3.1 to 1.3.5, all of them for both SL and HL.
+Source: *Chemistry guide*, International Baccalaureate Diploma Programme, February 2023 (first assessment 2025). Taught here: Reactivity 1.3, Energy from fuels, understandings 1.3.1 to 1.3.5, common to SL and HL.

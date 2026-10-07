@@ -21,13 +21,13 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This guide teaches Topic 15A: Chirality of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers outcomes 15.1 to 15.5. The content sits in Unit 4: Rates, Equilibria and Further Organic Chemistry, an International A2 (IA2) unit, inside Topic 15: Organic Chemistry: Carbonyls, Carboxylic Acids and Chirality. It draws on the halogenoalkane mechanisms from Unit 2 and the rate equations of Topic 11.
+This guide teaches Topic 15A: Chirality of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers outcomes 15.1 to 15.5. It opens Topic 15: Organic Chemistry: Carbonyls, Carboxylic Acids and Chirality, and is listed under Unit 4: Rates, Equilibria and Further Organic Chemistry, one of the International A2 (IA2) units. It draws on the halogenoalkane mechanisms from Unit 2 and the rate equations of Topic 11.
 
 Useful pages: the shorter [chirality revision notes](/resources/edexcel-ial-chemistry-chirality-revision-notes/); the [chirality practice questions](/resources/edexcel-ial-chemistry-chirality-practice/); a [printable checklist](/checklists/edexcel/a-level/chemistry/); the [course hub](/boards/edexcel/a-level/chemistry/); and a free [diagnostic](/diagnostics/) to find your gaps. For the other kind of stereoisomerism in this course, geometric (E/Z) isomerism, see the [alkenes study guide](/resources/edexcel-ial-chemistry-alkenes/).
 
 ## Topic 15A at a glance
 
-| Outcome | What you must be able to do |
+| Outcome | What the outcome asks of you |
 |---|---|
 | 15.1 | Know that optical isomerism comes from chirality in molecules with a single chiral centre |
 | 15.2 | Link optical isomerism to chiral centres (asymmetric carbon atoms); describe enantiomers as object and non-superimposable mirror images; draw 3D diagrams of them |
@@ -41,7 +41,7 @@ An object is **chiral** if it cannot be superimposed on its own mirror image, li
 
 In organic molecules, chirality usually comes from a **chiral centre** (an **asymmetric carbon atom**): a carbon bonded to **four different atoms or groups**. The four tetrahedral bonds allow two arrangements that are mirror images. These two arrangements are **optical isomers**, also called **enantiomers**.
 
-Optical isomerism is a type of **stereoisomerism**: the isomers have the same structural formula but a different arrangement of atoms in space.
+Optical isomerism is a type of **stereoisomerism**: the isomers share one structural formula, but their atoms are arranged differently in space.
 
 ### How to find a chiral centre
 
@@ -76,7 +76,7 @@ The molecule has **two** chiral centres: CH₃C*HClC*HClCH₂CH₃. The "rest of
 
 You must be able to draw both enantiomers so that the 3D shape is clear. Use the standard conventions:
 
-- a plain line is a bond in the plane of the paper;
+- a plain line shows a bond lying in the plane of the paper;
 - a solid wedge is a bond coming towards you;
 - a hashed (dashed) wedge is a bond going away from you.
 
@@ -116,7 +116,7 @@ How the measurement works (a polarimeter):
 2. The light passes through a tube holding a solution of the sample.
 3. A second filter (the analyser) is turned to find the new plane. The angle turned, compared with pure solvent, is the angle of rotation.
 
-Under the same conditions (same concentration, path length, solvent, temperature and wavelength), the two enantiomers rotate the plane by the **same angle in opposite directions**. One is labelled (+), turning the plane clockwise as you look towards the light source; the other is (−), turning it anticlockwise. You cannot tell which enantiomer is (+) from a 3D drawing alone. The sign has to be measured.
+Under the same conditions (same concentration, path length, solvent, temperature and wavelength), each enantiomer turns the plane through an **equal angle, but in the opposite direction** to the other. One is labelled (+), turning the plane clockwise as you look towards the light source; the other is (−), turning it anticlockwise. You cannot tell which enantiomer is (+) from a 3D drawing alone. The sign has to be measured.
 
 ## 15.4: Racemic mixtures
 
@@ -163,7 +163,7 @@ Secondary halogenoalkanes such as 2-iodohexane can react by either route, which 
 
 ### Nucleophilic addition to carbonyl compounds
 
-The C=O carbon in an aldehyde or ketone is trigonal planar. In the addition of HCN (with KCN present), the cyanide ion attacks the carbonyl carbon. It can approach from **either side of the plane** with equal probability.
+In aldehydes and ketones the carbonyl carbon is trigonal planar. In the addition of HCN (with KCN present), the cyanide ion attacks the carbonyl carbon. It can approach from **either side of the plane** with equal probability.
 
 ### Worked example 6: HCN with 5-methylhexan-2-one
 
@@ -171,7 +171,7 @@ The C=O carbon in an aldehyde or ketone is trigonal planar. In the addition of H
 
 1. The new C2 carries CH₃, OH, CN and CH₂CH₂CH(CH₃)₂: four different groups, so the product is chiral.
 2. The ketone is planar at the C=O carbon, and CN⁻ attacks from above or below the plane with equal probability.
-3. The two enantiomers form in equal amounts: a racemic mixture.
+3. Each enantiomer is made in the same amount, giving a racemic mixture.
 4. The product is **not optically active**. This fits a mechanism with attack on a planar carbonyl group.
 
 Compare 2,6-dimethylheptan-4-one, (CH₃)₂CHCH₂COCH₂CH(CH₃)₂. Its HCN product has two identical 2-methylpropyl groups on the new carbon, so it has no chiral centre at all. Optical data could not give evidence about the mechanism for that ketone.

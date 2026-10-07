@@ -21,7 +21,7 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-These notes condense outcomes 14.1 to 14.14 of Topic 14: Acid-base Equilibria in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. The topic is part of Unit 4: Rates, Equilibria and Further Organic Chemistry, an International A2 (IA2) unit, and it builds on Unit 2, Topic 9B. For full explanations and worked examples, use the [pH, Ka and Kw study guide](/resources/edexcel-ial-chemistry-acid-base-equilibria-ph-ka-and-kw/).
+Use these notes for fast recall of outcomes 14.1 to 14.14, from Topic 14 (Acid-base Equilibria). The source document is the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. Everything here is Unit 4 (Rates, Equilibria and Further Organic Chemistry) content, so it is International A2 (IA2), and it extends Unit 2, Topic 9B. For full explanations and worked examples, use the [pH, Ka and Kw study guide](/resources/edexcel-ial-chemistry-acid-base-equilibria-ph-ka-and-kw/).
 
 When the self-test below feels easy, move on to the [practice questions](/resources/edexcel-ial-chemistry-acid-base-equilibria-ph-ka-and-kw-practice/). Track your progress with the [printable checklist](/checklists/edexcel/a-level/chemistry/), try a free [diagnostic](/diagnostics/), or return to the [course hub](/boards/edexcel/a-level/chemistry/).
 
@@ -52,7 +52,7 @@ Keep "strong" and "concentrated" apart. Strength is the degree of dissociation. 
 | Strong monoprotic acid | [H⁺] = c |
 | Weak acid | [H⁺] = √(Ka × c) |
 | Ka from pKa | Ka = 10⁻ᵖᴷᵃ |
-| Ionic product | Kw = [H⁺][OH⁻] = 1.00 × 10⁻¹⁴ mol² dm⁻⁶ at 298 K |
+| Ionic product | Kw = [H⁺][OH⁻]; its value at 298 K is 1.00 × 10⁻¹⁴ mol² dm⁻⁶ |
 | Strong base | [H⁺] = Kw/[OH⁻] |
 | Log form | pH + pOH = pKw (14.00 at 298 K) |
 | Ka from data | Ka = [H⁺]²/c |
@@ -102,11 +102,11 @@ Worked reminder: an acid with pKa 4.13 at 0.110 mol dm⁻³. Ka = 7.41 × 10⁻�
 1. Find [OH⁻]. For NaOH or KOH it equals the concentration. For Ba(OH)₂ or Sr(OH)₂ double it.
 2. Either [H⁺] = Kw/[OH⁻] and pH = −log₁₀[H⁺], or pOH = −log₁₀[OH⁻] and pH = pKw − pOH.
 
-Worked reminder: 0.0160 mol dm⁻³ KOH. [H⁺] = 1.00 × 10⁻¹⁴/0.0160 = 6.25 × 10⁻¹³; pH = **12.20**.
+Worked reminder: 0.0215 mol dm⁻³ KOH. [H⁺] = 1.00 × 10⁻¹⁴/0.0215 = 4.65 × 10⁻¹³; pH = **12.33**.
 
 ## Kw and temperature
 
-The ionisation of water is an equilibrium, so Kw depends on temperature. Use 1.00 × 10⁻¹⁴ mol² dm⁻⁶ only at 298 K, and use the value given for any other temperature. Pure water always has [H⁺] = [OH⁻], so it is neutral whatever its pH.
+The ionisation of water is an equilibrium, so Kw depends on temperature. Use 1.00 × 10⁻¹⁴ mol² dm⁻⁶ only at 298 K, and use the value given for any other temperature. Whatever the temperature, the H⁺ and OH⁻ in pure water come from the same molecules in equal numbers, so pure water counts as neutral at any pH it reaches.
 
 ## Method: Ka from mass and pH (14.14)
 
@@ -149,18 +149,18 @@ At very high dilution the weak acid's rise creeps above 0.5, because a larger fr
 - **Strong vs concentrated**: degree of dissociation versus amount per dm³.
 - **Ka vs pKa**: larger Ka means stronger acid; smaller pKa means stronger acid.
 - **Kw vs pKw**: Kw = 1.00 × 10⁻¹⁴ mol² dm⁻⁶ and pKw = 14.00, both at 298 K only.
-- **Neutral vs pH 7**: neutral means [H⁺] = [OH⁻]; pH 7 is neutral only at 298 K.
+- **Neutral vs pH 7**: a solution is neutral when its H⁺ and OH⁻ concentrations match; that happens at pH 7.00 only when the temperature is 298 K.
 - **H⁺ vs H₃O⁺**: the same species in aqueous equations; H₃O⁺ shows water acting as a base.
 
 ## Quick self-test
 
 1. Give the conjugate base of HSO₄⁻ and the conjugate acid of HSO₄⁻.
-2. Calculate the pH of a solution with [H⁺] = 7.9 × 10⁻⁴ mol dm⁻³.
+2. Calculate the pH of a solution with [H⁺] = 5.2 × 10⁻⁴ mol dm⁻³.
 3. Calculate [H⁺] in a solution of pH 3.65.
 4. Calculate the pH of 0.0018 mol dm⁻³ nitric acid.
 5. Calculate the pH of 0.0230 mol dm⁻³ sodium hydroxide at 298 K.
 6. A weak acid has Ka = 7.4 × 10⁻⁵ mol dm⁻³. Calculate pKa.
-7. A 0.0950 mol dm⁻³ solution of a weak monoprotic acid has pH 2.92. Calculate Ka.
+7. A weak monoprotic acid at 0.0850 mol dm⁻³ gives a pH reading of 2.96. Calculate Ka.
 8. By how much does the pH of a strong acid change when it is diluted 100 times?
 9. By roughly how much does the pH of a weak acid change when it is diluted 100 times?
 10. Predict whether aqueous sodium ethanoate is acidic, neutral or alkaline, and give the reason.
@@ -169,12 +169,12 @@ At very high dilution the weak acid's rise creeps above 0.5, because a larger fr
 ### Answers
 
 1. Conjugate base: **SO₄²⁻**. Conjugate acid: **H₂SO₄**.
-2. pH = −log₁₀(7.9 × 10⁻⁴) = **3.10**.
+2. pH = −log₁₀(5.2 × 10⁻⁴) = **3.28**.
 3. [H⁺] = 10⁻³·⁶⁵ = **2.24 × 10⁻⁴ mol dm⁻³**.
 4. Strong acid, so [H⁺] = 0.0018; pH = **2.74**.
 5. [H⁺] = 1.00 × 10⁻¹⁴/0.0230 = 4.35 × 10⁻¹³ mol dm⁻³; pH = **12.36**.
 6. pKa = −log₁₀(7.4 × 10⁻⁵) = **4.13**.
-7. [H⁺] = 10⁻²·⁹² = 1.20 × 10⁻³; Ka = (1.20 × 10⁻³)²/0.0950 = **1.52 × 10⁻⁵ mol dm⁻³**.
+7. [H⁺] = 10⁻²·⁹⁶ = 1.10 × 10⁻³; Ka = (1.10 × 10⁻³)²/0.0850 = **1.41 × 10⁻⁵ mol dm⁻³** (using the unrounded [H⁺]).
 8. It rises by **2 units**.
 9. It rises by about **1 unit** (0.5 per tenfold dilution).
 10. **Alkaline**: the ethanoate ion is a weak base and accepts H⁺ from water, leaving OH⁻.
@@ -183,7 +183,7 @@ At very high dilution the weak acid's rise creeps above 0.5, because a larger fr
 ## Where marks are usually lost
 
 - Naming a pair such as H₂SO₄/SO₄²⁻ as conjugate; the members must differ by one H⁺.
-- Leaving out state symbols or the equilibrium arrow when showing a weak acid dissociating.
+- Using a one-way arrow when showing a weak acid dissociating; the ⇌ sign is what shows partial dissociation.
 - Writing Ka as [H⁺]²/[HA] in a definition; the general expression uses [H⁺][A⁻]/[HA].
 - Rounding [H⁺] early, then quoting a pH that is out by 0.01 or more.
 - Forgetting to double [OH⁻] for Ba(OH)₂, Sr(OH)₂ or Ca(OH)₂.
@@ -195,4 +195,4 @@ At very high dilution the weak acid's rise creeps above 0.5, because a larger fr
 
 ## Official syllabus
 
-Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited -- Unit 4, Topic 14: Acid-base Equilibria, outcomes 14.1 to 14.14.
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited. Pages in this set teach Topic 14: Acid-base Equilibria (Unit 4), outcomes 14.1 to 14.14.

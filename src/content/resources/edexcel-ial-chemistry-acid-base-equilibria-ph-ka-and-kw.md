@@ -21,13 +21,13 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This guide teaches the first part of Topic 14: Acid-base Equilibria in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers outcomes 14.1 to 14.14: proton transfer, pH, strong and weak acids, Ka, Kw, pKa and pKw, and the analysis of pH data. The content is examined in Unit 4: Rates, Equilibria and Further Organic Chemistry, an International A2 (IA2) unit. It assumes the equilibrium ideas from Unit 2, Topic 9B. Titration curves, indicators, buffers and Core Practical 11 (outcomes 14.15 onwards) are not covered here.
+Here you will learn outcomes 14.1 to 14.14, the opening half of Topic 14 (Acid-base Equilibria), as set out by the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. That means proton transfer, pH, strong and weak acids, Ka, Kw, pKa and pKw, and the analysis of pH data. Topic 14 is assessed in Unit 4, the International A2 (IA2) unit titled Rates, Equilibria and Further Organic Chemistry. Expect the Unit 2, Topic 9B equilibrium ideas to be extended here. Titration curves, indicators, buffers and Core Practical 11 (outcomes 14.15 onwards) have their own [titration curves and buffers guide](/resources/edexcel-ial-chemistry-acid-base-equilibria-titration-curves-and-buffers/).
 
 Other pages for this topic: the condensed [pH, Ka and Kw revision notes](/resources/edexcel-ial-chemistry-acid-base-equilibria-ph-ka-and-kw-revision-notes/) and the [pH, Ka and Kw practice questions](/resources/edexcel-ial-chemistry-acid-base-equilibria-ph-ka-and-kw-practice/). For the Unit 2 groundwork on equilibrium, see [introduction to kinetics and equilibria](/resources/edexcel-ial-chemistry-introduction-to-kinetics-and-equilibria/). You can also take a free [diagnostic](/diagnostics/), print the [course checklist](/checklists/edexcel/a-level/chemistry/) or browse every unit from the [course hub](/boards/edexcel/a-level/chemistry/).
 
-## Topic 14.1 to 14.14 at a glance
+## Outcomes 14.1 to 14.14 in one table
 
-| Outcome | What you must be able to do |
+| Outcome | Skill you need |
 |---|---|
 | 14.1 | Define Brønsted–Lowry acids and bases; see acid-base reactions as proton transfer |
 | 14.2 | Identify conjugate acid-base pairs |
@@ -41,7 +41,7 @@ Other pages for this topic: the condensed [pH, Ka and Kw revision notes](/resour
 
 ## 14.1 and 14.2 Brønsted–Lowry acids, bases and conjugate pairs
 
-A **Brønsted–Lowry acid** is a proton (H⁺) donor. A **Brønsted–Lowry base** is a proton acceptor. Every acid-base reaction is a proton transfer: one species loses H⁺ and another gains it.
+In Brønsted–Lowry theory, an **acid** donates protons (H⁺ ions) and a **base** accepts them. So every acid-base reaction is a proton transfer: one species loses H⁺ and another gains it.
 
 When an acid gives away its proton, what is left can take a proton back, so it is a base. The two species form a **conjugate acid-base pair**. They differ by exactly one H⁺.
 
@@ -62,15 +62,15 @@ HNO₃ + H₂SO₄ ⇌ H₂NO₃⁺ + HSO₄⁻
 
 The point: "acid" and "base" describe what a species does in a particular reaction. Nitric acid acts as a base when it meets a stronger acid.
 
-A second case, with methylamine in water:
+A second case, with ethylamine in water:
 
-CH₃NH₂ + H₂O ⇌ CH₃NH₃⁺ + OH⁻
+C₂H₅NH₂ + H₂O ⇌ C₂H₅NH₃⁺ + OH⁻
 
-The pairs are CH₃NH₃⁺/CH₃NH₂ and H₂O/OH⁻. Write each pair with the acid first, and check the two members differ by one H⁺ only.
+The pairs are C₂H₅NH₃⁺/C₂H₅NH₂ and H₂O/OH⁻. Write each pair with the acid first, and check the two members differ by one H⁺ only.
 
 ## 14.3 to 14.5 Defining and using pH
 
-**pH = −log₁₀[H⁺]**, where [H⁺] is the hydrogen ion concentration in mol dm⁻³. Rearranged, **[H⁺] = 10⁻ᵖᴴ**.
+**pH = −log₁₀[H⁺]**, with [H⁺] measured in mol dm⁻³. Rearranged, **[H⁺] = 10⁻ᵖᴴ**.
 
 Because the scale is logarithmic, a change of one pH unit means a tenfold change in [H⁺]. A lower pH means a higher [H⁺].
 
@@ -79,8 +79,8 @@ Because the scale is logarithmic, a change of one pH unit means a tenfold change
 (a) A sample of rainwater has [H⁺] = 3.6 × 10⁻⁴ mol dm⁻³.
 pH = −log₁₀(3.6 × 10⁻⁴) = **3.44**
 
-(b) A soil extract has pH 4.82.
-[H⁺] = 10⁻⁴·⁸² = **1.51 × 10⁻⁵ mol dm⁻³**
+(b) A soil extract has pH 5.36.
+[H⁺] = 10⁻⁵·³⁶ = **4.37 × 10⁻⁶ mol dm⁻³**
 
 Give pH to two decimal places unless told otherwise, and give [H⁺] to three significant figures.
 
@@ -88,7 +88,7 @@ Give pH to two decimal places unless told otherwise, and give [H⁺] to three si
 
 A **strong acid** is (almost) fully dissociated in water: HCl(aq) → H⁺(aq) + Cl⁻(aq). A **weak acid** is only partly dissociated, so most of it stays as HA molecules at equilibrium: CH₃COOH(aq) ⇌ H⁺(aq) + CH₃COO⁻(aq).
 
-Strength is about the degree of dissociation. Concentration is about how much acid is in each dm³. A dilute strong acid and a concentrated weak acid are both possible.
+Strength is about the degree of dissociation. Concentration is about how much acid is in each dm³. So you can have a strong acid that is dilute, or a weak acid that is concentrated.
 
 For a strong monoprotic acid, [H⁺] = concentration of the acid.
 
@@ -113,22 +113,22 @@ To find the pH of a weak acid, make two assumptions:
 1. **[H⁺] = [A⁻]**: all the H⁺ comes from the acid, and the tiny contribution from water's own ionisation is ignored.
 2. **[HA] at equilibrium ≈ the starting concentration**: so little of the acid dissociates that its concentration hardly falls.
 
-Then Ka = [H⁺]² / [HA], which gives **[H⁺] = √(Ka × [HA])**. The specification states that you will not be expected to solve quadratic equations, so this approximation is the method to use.
+Then Ka = [H⁺]² / [HA], which gives **[H⁺] = √(Ka × [HA])**. Under 14.9 the specification notes that quadratic equations will not be expected, so this approximation is the method to use.
 
-### Worked example 4: pH of butanoic acid
+### Worked example 4: pH of pentanoic acid
 
-Butanoic acid has pKa = 4.82 (use this value). Find the pH of a 0.0620 mol dm⁻³ solution.
+Pentanoic acid has pKa = 4.84 (use this value). Find the pH of a 0.0620 mol dm⁻³ solution.
 
-1. Ka = 10⁻⁴·⁸² = 1.51 × 10⁻⁵ mol dm⁻³
-2. [H⁺]² = Ka × [HA] = 1.51 × 10⁻⁵ × 0.0620
-3. [H⁺] = 9.69 × 10⁻⁴ mol dm⁻³
-4. pH = −log₁₀(9.69 × 10⁻⁴) = **3.01**
+1. Ka = 10⁻⁴·⁸⁴ = 1.45 × 10⁻⁵ mol dm⁻³
+2. [H⁺]² = Ka × [HA] = 1.45 × 10⁻⁵ × 0.0620
+3. [H⁺] = 9.47 × 10⁻⁴ mol dm⁻³
+4. pH = −log₁₀(9.47 × 10⁻⁴) = **3.02**
 
-Check assumption 2: 9.69 × 10⁻⁴ / 0.0620 × 100 ≈ 1.6%, so only about 1.6% of the acid has dissociated. The approximation is sound. This percentage is also a direct measure of the **degree of dissociation** from 14.6.
+Check assumption 2: 9.47 × 10⁻⁴ / 0.0620 × 100 ≈ 1.5%, so only about 1.5% of the acid has dissociated. The approximation is sound. This percentage is also a direct measure of the **degree of dissociation** from 14.6.
 
 ## 14.10 to 14.12 Kw, pKw and strong bases
 
-Water ionises very slightly: H₂O(l) ⇌ H⁺(aq) + OH⁻(aq). The **ionic product of water** is
+Water self-ionises to a very small extent. The equilibrium is H₂O(l) ⇌ H⁺(aq) + OH⁻(aq), and for it the **ionic product of water** is
 
 **Kw = [H⁺][OH⁻]**
 
@@ -189,16 +189,16 @@ Take 0.400 mol dm⁻³ hydrochloric acid and 0.400 mol dm⁻³ ethanoic acid (pK
 
 ## 14.14 Ka from a known mass of acid and a pH reading
 
-### Worked example 6: benzoic acid
+### Worked example 6: phenylethanoic acid
 
-A student dissolves 0.976 g of benzoic acid, C₆H₅COOH, in water and makes the solution up to 250 cm³. The pH is 2.85. Calculate Ka.
+A 1.088 g sample of phenylethanoic acid, C₆H₅CH₂COOH, is dissolved and the volume brought to 250 cm³ in a volumetric flask. A calibrated pH meter reads 2.90. Calculate Ka.
 
-1. Mr(C₆H₅COOH) = 122.0, so n = 0.976 / 122.0 = 8.00 × 10⁻³ mol
+1. Mr(C₆H₅CH₂COOH) = 136.0, so n = 1.088 / 136.0 = 8.00 × 10⁻³ mol
 2. [HA] = 8.00 × 10⁻³ / 0.250 = 0.0320 mol dm⁻³
-3. [H⁺] = 10⁻²·⁸⁵ = 1.41 × 10⁻³ mol dm⁻³, and [A⁻] = [H⁺]
-4. Ka = (1.41 × 10⁻³)² / 0.0320 = **6.24 × 10⁻⁵ mol dm⁻³** (using the unrounded [H⁺])
+3. [H⁺] = 10⁻²·⁹⁰ = 1.26 × 10⁻³ mol dm⁻³, and [A⁻] = [H⁺]
+4. Ka = (1.26 × 10⁻³)² / 0.0320 = **4.95 × 10⁻⁵ mol dm⁻³** (using the unrounded [H⁺])
 
-The same two assumptions apply. Here [H⁺] is about 4% of [HA], so treating [HA] as 0.0320 is reasonable. You could then quote pKa = −log₁₀(6.24 × 10⁻⁵) = 4.21.
+The same two assumptions apply. Here [H⁺] is about 4% of [HA], so treating [HA] as 0.0320 is reasonable. You could then quote pKa = −log₁₀(4.95 × 10⁻⁵) = 4.31.
 
 ## Common errors
 
@@ -213,8 +213,8 @@ The same two assumptions apply. Here [H⁺] is about 4% of [HA], so treating [HA
 
 ## Next steps
 
-Test yourself with the [practice questions](/resources/edexcel-ial-chemistry-acid-base-equilibria-ph-ka-and-kw-practice/), then use the [revision notes](/resources/edexcel-ial-chemistry-acid-base-equilibria-ph-ka-and-kw-revision-notes/) in the final weeks. The free [diagnostics](/diagnostics/) will show which topics need more work.
+Try the [pH, Ka and Kw practice set](/resources/edexcel-ial-chemistry-acid-base-equilibria-ph-ka-and-kw-practice/) next, and keep the [condensed notes](/resources/edexcel-ial-chemistry-acid-base-equilibria-ph-ka-and-kw-revision-notes/) for the last weeks before the Unit 4 exam. The free [diagnostics](/diagnostics/) will show which topics need more work.
 
 ## Official syllabus
 
-Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited -- Unit 4, Topic 14: Acid-base Equilibria, outcomes 14.1 to 14.14.
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited. Pages in this set teach Topic 14: Acid-base Equilibria (Unit 4), outcomes 14.1 to 14.14.

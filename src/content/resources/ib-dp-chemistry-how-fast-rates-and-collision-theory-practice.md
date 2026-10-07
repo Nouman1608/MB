@@ -28,30 +28,30 @@ featured: false
 
 These questions cover Reactivity 2.2.1 to 2.2.5 (rates, collision theory, factors affecting rate, activation energy and catalysts) from the February 2023 IB Diploma Programme *Chemistry guide*, whose first exams ran in 2025. All of this content is studied at **both SL and HL**; the HL-only understandings that follow in the guide are not tested here.
 
-The [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/) and the printable [checklist](/checklists/ib/ib-dp/chemistry/) show where this unit fits.
+To see where this unit sits in the course, use the [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/) or the printable [checklist](/checklists/ib/ib-dp/chemistry/).
 
 ## Questions
 
-**1.** **(a)** State what is meant by the rate of a reaction. **[1]**
+**1.** **(a)** Define rate of reaction. **[1]**
 **(b)** State a suitable unit for rate when concentration is in mol dm⁻³ and time is in seconds. **[1]**
 
-**2.** A sealed sample of gas is warmed from −73 °C to 127 °C. Determine the factor by which the average kinetic energy of its particles increases, and state the relationship you used. **[3]**
+**2.** A cylinder of neon is heated from 7 °C to 147 °C. Calculate how many times greater the average kinetic energy of the neon atoms becomes, and state the relationship you used. **[3]**
 
 **3.** Explain, using collision theory, why only a small fraction of the collisions between reactant particles in a gas lead to reaction. **[3]**
 
-**4.** Magnesium ribbon reacts with excess ethanoic acid, and the hydrogen is collected in a gas syringe.
+**4.** Calcium turnings react with excess water. A gas syringe measures the hydrogen given off.
 
 | Time / s | 0 | 20 | 40 | 60 | 80 | 100 | 120 |
 |---|---|---|---|---|---|---|---|
-| Volume of H₂ / cm³ | 0 | 18.0 | 31.0 | 40.0 | 46.0 | 49.5 | 51.0 |
+| H₂ collected / cm³ | 0 | 18.0 | 31.0 | 40.0 | 46.0 | 49.5 | 51.0 |
 
 **(a)** Calculate the average rate of reaction over the first 40 s. **[1]**
-**(b)** A tangent to the curve at 40 s passes through (0 s, 13.0 cm³) and (60 s, 49.0 cm³). Calculate the rate at 40 s in mol of H₂ per second. Take the molar volume of a gas under these conditions as 24.5 dm³ mol⁻¹. **[3]**
-**(c)** Explain why the rate decreases as the reaction proceeds. **[2]**
+**(b)** A tangent to the curve at 40 s passes through (0 s, 9.0 cm³) and (80 s, 53.0 cm³). Calculate the rate at 40 s in mol of H₂ per second. Take the molar volume of a gas under these conditions as 24.5 dm³ mol⁻¹. **[3]**
+**(c)** Suggest why the gradient of the curve falls with time. **[2]**
 
-**5.** Magnesium carbonate powder is added to dilute sulfuric acid in a conical flask on a balance. The mass is recorded every 15 s.
+**5.** Potassium carbonate solution is poured into excess dilute hydrochloric acid in an open beaker standing on a balance. The reading is recorded every 15 s.
 
-**(a)** Explain why the mass decreases and why a loose plug of cotton wool is placed in the neck of the flask. **[2]**
+**(a)** Explain why the reading falls, and why this method would be poor for following the reaction of magnesium with an acid. **[2]**
 **(b)** State whether time is the independent or dependent variable in this experiment. Describe a rate experiment in which it is the other kind. **[2]**
 
 **6.** For the reaction 4NH₃(g) + 5O₂(g) → 4NO(g) + 6H₂O(g), ammonia is used up at 2.4 × 10⁻³ mol dm⁻³ s⁻¹. Calculate the rate at which O₂ is used up and the rate at which H₂O forms. **[2]**
@@ -59,12 +59,12 @@ The [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/) and the printable [checkl
 **7.** Predict and explain the effect on the rate of each change.
 
 **(a)** Iron wool is used instead of an iron nail of the same mass, burning in pure oxygen. **[2]**
-**(b)** A syringe holding NO and O₂ at constant temperature has its plunger pushed in to halve the gas volume. **[2]**
+**(b)** A sealed steel vessel of NO and O₂ is topped up with more of the same mixture, at constant temperature, until the pressure doubles. **[2]**
 **(c)** Hydrochloric acid reacting with zinc is diluted with an equal volume of water. **[2]**
 
 **8.** **(a)** Sketch Maxwell–Boltzmann energy distribution curves for a gas at temperature T₁ and at a higher temperature T₂. Label the axes and mark the activation energy, Ea. **[3]**
-**(b)** Use your sketch to explain why the rate increases with temperature. **[2]**
-**(c)** For one reaction, raising the temperature from 300 K to 310 K doubles the rate. Show that the average kinetic energy rises by only about 3%, and explain why the rate rises so much more. **[2]**
+**(b)** With reference to your sketch, explain why heating speeds up the reaction. **[2]**
+**(c)** For one reaction, a rise from 293 K to 303 K doubles the rate. Show that the average kinetic energy goes up by less than 4%, and explain why the rate rises so much more. **[2]**
 
 **9.** An endothermic reaction has Ea = 185 kJ mol⁻¹ and ΔH = +52 kJ mol⁻¹. With a catalyst, Ea = 110 kJ mol⁻¹.
 
@@ -80,11 +80,11 @@ The [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/) and the printable [checkl
 | Time / s | 400 | 200 | 160 | 56 | 30 |
 
 **(a)** State two variables that must be controlled. **[2]**
-**(b)** Explain why 1/time can be used as a measure of the rate. **[1]**
+**(b)** Explain why 1/time is proportional to the rate in this experiment. **[1]**
 **(c)** Identify the anomalous result and suggest one cause. **[2]**
 **(d)** The thermometer used reads 2 °C too high throughout. State the type of error and how it would appear on a graph of 1/time against temperature. **[2]**
 
-**11.** Natural gas (mainly methane) and air can be mixed at room temperature without reacting, even though the combustion of methane releases a large amount of energy.
+**11.** An uncapped spirit burner of ethanol can stand in air at room temperature without burning, even though ethanol combustion is strongly exothermic.
 
 **(a)** Explain this observation. **[2]**
 **(b)** Suggest why a high activation energy is a useful property of a fuel. **[1]**
@@ -93,36 +93,36 @@ The [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/) and the printable [checkl
 
 ## Answers
 
-**1. (a)** The change in concentration of a particular reactant or product per unit time [1]
+**1. (a)** How fast the concentration of a named reactant or product changes, per unit time [1]
 **(b)** **mol dm⁻³ s⁻¹** [1]
 *Examiner insight:* Name it as a change in concentration per unit time; "how fast a reaction goes" restates the question and earns nothing.
 
-**2.** Convert to kelvin: 200.15 K and 400.15 K [1]; ratio = 400.15/200.15 = **2.0** [1]; average kinetic energy is directly proportional to the absolute (kelvin) temperature [1]
-*Examiner insight:* Dividing the Celsius values gives a meaningless (negative) ratio; convert to kelvin before any comparison of kinetic energies.
+**2.** Convert to kelvin: 280.15 K and 420.15 K [1]; ratio = 420.15/280.15 = **1.50** [1]; average kinetic energy is directly proportional to the absolute (kelvin) temperature [1]
+*Examiner insight:* Dividing the Celsius values gives 21, which is meaningless; convert to kelvin before any comparison of kinetic energies.
 
 **3.** A collision must have energy at least equal to the activation energy [1]; most particles have energies below Ea, so most collisions lack enough energy [1]; the particles must also collide with the proper orientation (geometry) [1]
 *Examiner insight:* Two separate conditions are expected here; an answer about energy alone is incomplete.
 
-**4. (a)** 31.0/40 = **0.78 cm³ s⁻¹** [1]
-**(b)** Gradient = (49.0 − 13.0)/(60 − 0) = 0.60 cm³ s⁻¹ [1]; 0.60 cm³ = 6.0 × 10⁻⁴ dm³ [1]; 6.0 × 10⁻⁴/24.5 = **2.4 × 10⁻⁵ mol s⁻¹** [1]
-**(c)** Ethanoic acid and magnesium are used up, so the concentration of acid particles falls [1]; collisions with the magnesium surface become less frequent, so the gradient falls [1]
-*Examiner insight:* Take gradient points from the tangent line, not from the table, and convert cm³ to dm³ before dividing by a molar volume in dm³ mol⁻¹.
+**4. (a)** 31.0/40 = **0.775 cm³ s⁻¹** [1]
+**(b)** Gradient = (53.0 − 9.0)/(80 − 0) = 0.55 cm³ s⁻¹ [1]; 0.55 cm³ = 5.5 × 10⁻⁴ dm³ [1]; 5.5 × 10⁻⁴/24.5 = **2.2 × 10⁻⁵ mol s⁻¹** [1]
+**(c)** Calcium is used up, so less of its surface is exposed to water molecules [1]; collisions at the surface become less frequent, so the gradient falls [1]
+*Examiner insight:* Read gradient points off the tangent, not the table, and convert cm³ to dm³ before using the molar volume.
 
-**5. (a)** Carbon dioxide gas is produced and escapes from the flask [1]; the cotton wool stops acid spray escaping while letting the gas out [1]
+**5. (a)** Carbon dioxide is produced and escapes into the air [1]; hydrogen has a very small molar mass, so the mass lost would be too small to measure precisely [1]
 **(b)** Time is the independent variable here (readings at chosen times) [1]; it is the dependent variable when you measure the time for a fixed change, for example the time for a colour to disappear [1]
-*Examiner insight:* Name the gas in part (a); "gas is lost" without identifying CO₂ is weaker than a full answer.
+*Examiner insight:* Name the gas in part (a); the second point is the tiny mass of hydrogen lost, not that hydrogen is flammable.
 
 **6.** O₂: 2.4 × 10⁻³ × 5/4 = **3.0 × 10⁻³ mol dm⁻³ s⁻¹** [1]; H₂O: 2.4 × 10⁻³ × 6/4 = **3.6 × 10⁻³ mol dm⁻³ s⁻¹** [1]
 *Examiner insight:* Scale by the ratio of coefficients (O₂ to NH₃ is 5 : 4); inverting the ratio is the usual slip.
 
 **7. (a)** Rate increases [1]; iron wool has a much larger surface area, so more iron atoms are exposed and collisions with O₂ are more frequent [1]
-**(b)** Rate increases [1]; the same number of particles in half the volume means higher pressure (concentration), so more frequent collisions [1]
+**(b)** Rate increases [1]; twice as many gas particles occupy the same volume, so collisions are more frequent [1]
 **(c)** Rate decreases [1]; the acid concentration halves, so there are fewer H⁺ ions per unit volume and less frequent collisions with zinc [1]
 *Examiner insight:* Each explanation should say "more (or less) frequent collisions"; "more collisions" with no reference to time does not describe a rate.
 
 **8. (a)** Axes labelled kinetic energy and number of particles, both curves starting at the origin [1]; T₂ curve with a lower peak shifted to higher energy, tails approaching but not meeting the x-axis [1]; Ea marked to the right of both peaks [1]
 **(b)** The area under the T₂ curve beyond Ea is larger, so a greater fraction of particles have E ≥ Ea [1]; there are more frequent successful collisions [1]
-**(c)** 310/300 = 1.033, a rise of about **3%** [1]; the fraction of collisions with E ≥ Ea increases much more than the average energy, which is the main reason the rate doubles [1]
+**(c)** 303/293 = 1.034, a rise of about **3.4%** [1]; the fraction of collisions with E ≥ Ea increases much more than the average energy, which is the main reason the rate doubles [1]
 *Examiner insight:* The two curves must enclose the same area; a hotter curve drawn taller or bigger everywhere suggests more particles and loses credit.
 
 **9. (a)** Products drawn above reactants, with ΔH labelled as the upward gap [1]; uncatalysed hump with Ea measured from the reactant level [1]; lower catalysed hump between the same start and finish levels [1]
@@ -137,7 +137,7 @@ The [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/) and the printable [checkl
 **(d)** Systematic error [1]; every point is displaced by the same amount along the temperature axis, so the whole line shifts but its scatter does not change [1]
 *Examiner insight:* Controlled variables must be specific; "same amounts" or "same conditions" is too vague.
 
-**11. (a)** Methane combustion has a high activation energy [1]; at room temperature almost no collisions have E ≥ Ea, so the rate is negligible until a spark supplies energy [1]
+**11. (a)** Ethanol combustion has a high activation energy [1]; at room temperature almost no collisions between ethanol and oxygen molecules have E ≥ Ea, so the rate is negligible until a flame supplies energy [1]
 **(b)** The fuel can be stored and transported safely without igniting until it is lit [1]
 **(c)** Kinetically stable: reaction is very slow because Ea is high (strong C–C and C–H bonds) [1]; thermodynamically unstable: the products of combustion are lower in energy, so ΔH is negative [1]
 **(d)** **Enzyme** [1]
@@ -158,9 +158,9 @@ The [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/) and the printable [checkl
 - Go back over the [revision notes](/resources/ib-dp-chemistry-how-fast-rates-and-collision-theory-revision-notes/)
 - Re-read the [study guide](/resources/ib-dp-chemistry-how-fast-rates-and-collision-theory/)
 - See the [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/) and print the [checklist](/checklists/ib/ib-dp/chemistry/)
-- Try [all free 10-minute diagnostics](/diagnostics/)
+- Browse [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
 ## Official syllabus
 
-Source: the International Baccalaureate's Diploma Programme *Chemistry guide*, issued in February 2023 for courses examined from 2025. This page follows Reactivity 2.2, How fast? The rate of chemical change, understandings 2.2.1 to 2.2.5, which are common to SL and HL.
+Every item here is based on the International Baccalaureate's *Chemistry guide* for the Diploma Programme (February 2023; first assessment 2025). This page follows Reactivity 2.2, How fast? The rate of chemical change, understandings 2.2.1 to 2.2.5, which are common to SL and HL.

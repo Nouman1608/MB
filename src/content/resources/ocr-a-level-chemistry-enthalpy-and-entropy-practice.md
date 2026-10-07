@@ -26,11 +26,11 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-This set covers section 5.2.2, Enthalpy and entropy, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. The questions test every learning outcome, 5.2.2(a) to (f), from Module 5, Physical chemistry and transition elements. H432 is the full A level. Questions 6, 10 and 11 are longer problems that combine outcomes.
+This set covers section 5.2.2, Enthalpy and entropy, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. The questions test every learning outcome, 5.2.2(a) to (f), in Module 5 (Physical chemistry and transition elements) of this full A level. Questions 6, 10 and 11 are longer problems that combine outcomes.
 
-Revise first with the [Enthalpy and entropy study guide](/resources/ocr-a-level-chemistry-enthalpy-and-entropy/) and the [Enthalpy and entropy revision notes](/resources/ocr-a-level-chemistry-enthalpy-and-entropy-revision-notes/). Other topics are on the [OCR chemistry hub](/boards/ocr/a-level/chemistry/) and the [printable checklist](/checklists/ocr/a-level/chemistry/).
+Revise first with the [Enthalpy and entropy study guide](/resources/ocr-a-level-chemistry-enthalpy-and-entropy/) and the [Enthalpy and entropy revision notes](/resources/ocr-a-level-chemistry-enthalpy-and-entropy-revision-notes/). See also the [OCR chemistry hub](/boards/ocr/a-level/chemistry/) and [printable checklist](/checklists/ocr/a-level/chemistry/).
 
-All data are supplied in the questions: use these values. Entropies are in J mol⁻¹ K⁻¹ and enthalpy changes in kJ mol⁻¹.
+All data are supplied in the questions: use these values. Units: S in J mol⁻¹ K⁻¹; ∆H and ∆G in kJ mol⁻¹.
 
 ## Questions
 
@@ -38,38 +38,38 @@ All data are supplied in the questions: use these values. Entropies are in J mol
 
 **2.** The standard entropies of three substances are 72.1, 160.7 and 213.8 J mol⁻¹ K⁻¹. The substances are CO₂(g), NaCl(s) and C₂H₅OH(l). Match each substance to its value and explain your answer in terms of the particles. **[3]**
 
-**3.** Predict the sign of ∆S for each reaction, giving a reason.
+**3.** Predict the sign of ∆S for each reaction, or state that it cannot be predicted from the equation alone. Give a reason each time.
 
 **(a)** 2Pb(NO₃)₂(s) → 2PbO(s) + 4NO₂(g) + O₂(g) **[1]**
-**(b)** 4Fe(s) + 3O₂(g) → 2Fe₂O₃(s) **[1]**
-**(c)** H₂(g) + Cl₂(g) → 2HCl(g) **[1]**
+**(b)** 2Ca(s) + O₂(g) → 2CaO(s) **[1]**
+**(c)** CO(g) + NO₂(g) → CO₂(g) + NO(g) **[1]**
 
-**4.** A mixture of aluminium powder and iron(III) oxide reacts violently once ignited:
-2Al(s) + Fe₂O₃(s) → Al₂O₃(s) + 2Fe(s)   ∆H = −851.5 kJ mol⁻¹
-Entropies: Al(s) 28.3, Fe₂O₃(s) 87.4, Al₂O₃(s) 50.9, Fe(s) 27.3.
+**4.** Burning magnesium continues to burn in carbon dioxide:
+2Mg(s) + CO₂(g) → 2MgO(s) + C(s)   ∆H = −809.7 kJ mol⁻¹
+Entropies: Mg(s) 32.7, CO₂(g) 213.8, MgO(s) 26.9, C(s) 5.7.
 
 **(a)** Calculate ∆S for the reaction. **[2]**
-**(b)** Calculate ∆G at 298 K and state whether the reaction is feasible. **[2]**
-**(c)** The mixture can be stored for years at room temperature without reacting. Explain why this does not contradict your answer to (b). **[2]**
+**(b)** Use your answer to (a) to find ∆G at 298 K. Is the reaction feasible at this temperature? **[2]**
+**(c)** A clean strip of magnesium left in a jar of carbon dioxide at room temperature shows no visible change. Explain why this does not contradict your answer to (b). **[2]**
 
 **5.** For H₂(g) + I₂(s) → 2HI(g), ∆S = +166.4 J mol⁻¹ K⁻¹. S(H₂(g)) = 130.7 and S(I₂(s)) = 116.1.
 
 **(a)** Explain why ∆S is positive. **[1]**
 **(b)** Calculate the standard entropy of HI(g). **[3]**
 
-**6.** The water-gas shift reaction is used to make hydrogen:
-CO(g) + H₂O(g) → CO₂(g) + H₂(g)
+**6.** Carbon dioxide can be turned into methane by reacting it with hydrogen:
+CO₂(g) + 4H₂(g) → CH₄(g) + 2H₂O(g)
 
-| Substance | CO(g) | H₂O(g) | CO₂(g) | H₂(g) |
+| Substance | CO₂(g) | H₂(g) | CH₄(g) | H₂O(g) |
 |---|---|---|---|---|
-| ∆fH / kJ mol⁻¹ | −110.5 | −241.8 | −393.5 | 0 |
-| S / J mol⁻¹ K⁻¹ | 197.7 | 188.8 | 213.8 | 130.7 |
+| ∆fH / kJ mol⁻¹ | −393.5 | 0 | −74.8 | −241.8 |
+| S / J mol⁻¹ K⁻¹ | 213.8 | 130.7 | 186.3 | 188.8 |
 
 **(a)** Calculate ∆H for the reaction. **[2]**
 **(b)** Calculate ∆S for the reaction. **[2]**
-**(c)** Explain why the magnitude of ∆S is small. **[1]**
-**(d)** Calculate ∆G at 1200 K and state what it shows. **[2]**
-**(e)** Calculate the temperature range over which the reaction is feasible. **[2]**
+**(c)** Explain the sign of ∆S in terms of the gas molecules. **[1]**
+**(d)** Calculate ∆G at 1100 K and state what it shows. **[2]**
+**(e)** Work out the range of temperatures at which this reaction is feasible. **[2]**
 
 **7.** For 2CuO(s) + C(s) → 2Cu(s) + CO₂(g), ∆H = −78.9 kJ mol⁻¹.
 Entropies: CuO(s) 42.6, C(s) 5.7, Cu(s) 33.2, CO₂(g) 213.8.
@@ -97,14 +97,14 @@ CuSO₄·5H₂O(s) → CuSO₄(s) + 5H₂O(g)
 **(a)** Predict the sign of ∆S without calculation, giving a reason. **[1]**
 **(b)** Calculate ∆H for the reaction. **[2]**
 **(c)** Calculate ∆S for the reaction. **[2]**
-**(d)** Calculate ∆G at 298 K and state whether the reaction is feasible at this temperature. **[2]**
-**(e)** Calculate the minimum temperature at which the reaction becomes feasible. **[2]**
+**(d)** Find ∆G at 298 K. Is the dehydration feasible at room temperature? **[2]**
+**(e)** Find the lowest temperature at which dehydration becomes feasible. **[2]**
 
 **11.** For a gas-phase reaction, ∆G = +21.0 kJ mol⁻¹ at 300 K and ∆G = −7.0 kJ mol⁻¹ at 500 K. Assume ∆H and ∆S do not change with temperature.
 
 **(a)** A graph of ∆G against T is a straight line. Use the two points to calculate ∆S in J mol⁻¹ K⁻¹. **[2]**
 **(b)** Calculate ∆H. **[2]**
-**(c)** State the temperature range over which the reaction is feasible. **[1]**
+**(c)** Give the temperatures at which the reaction is feasible. **[1]**
 **(d)** A student says: "At 600 K the reaction is feasible, so it will happen quickly." Evaluate this statement. **[2]**
 
 ## Answers
@@ -116,24 +116,24 @@ CuSO₄·5H₂O(s) → CuSO₄(s) + 5H₂O(g)
 *Examiner insight:* Describe the motion and arrangement of particles in each state; listing "solid < liquid < gas" alone does not explain the order.
 
 **3. (a)** Positive: no gas becomes 5 mol of gas [1]
-**(b)** Negative: 3 mol of gas become a solid [1]
+**(b)** Negative: 1 mol of gas is used up and only a solid forms [1]
 **(c)** Cannot be predicted from gas moles: 2 mol of gas on each side, so ∆S is small and data are needed [1]
 *Examiner insight:* Each sign needs its reason; a correct sign with no gas count or state argument may not be credited.
 
-**4. (a)** ΣS(products) = 50.9 + 2(27.3) = 105.5 and ΣS(reactants) = 2(28.3) + 87.4 = 144.0 [1]; ∆S = **−38.5 J mol⁻¹ K⁻¹** [1]
-**(b)** ∆G = −851.5 − 298 × (−0.0385) = −851.5 + 11.5 = **−840.0 kJ mol⁻¹** [1]; negative, so the reaction is feasible [1]
-**(c)** The activation energy is very high [1]; so at room temperature the rate is negligible, and strong heating is needed to start the reaction [1]
+**4. (a)** ΣS(products) = 2(26.9) + 5.7 = 59.5 and ΣS(reactants) = 2(32.7) + 213.8 = 279.2 [1]; ∆S = **−219.7 J mol⁻¹ K⁻¹** [1]
+**(b)** ∆G = −809.7 − 298 × (−0.2197) = −809.7 + 65.5 = **−744.2 kJ mol⁻¹** [1]; negative, so the reaction is feasible [1]
+**(c)** The activation energy is very high [1]; so at room temperature the rate is negligible, and the magnesium must first be ignited before the reaction is seen [1]
 *Examiner insight:* In (c), name activation energy or rate explicitly; "it needs heat" alone does not explain why a feasible reaction is not seen.
 
 **5. (a)** A solid becomes a gas, and gas moles rise from 1 to 2 [1]
 **(b)** 166.4 = 2S(HI) − (130.7 + 116.1) [1]; 2S(HI) = 166.4 + 246.8 = 413.2 [1]; S(HI) = **206.6 J mol⁻¹ K⁻¹** [1]
 *Examiner insight:* Write the full products-minus-reactants expression before rearranging, and remember to halve at the end because 2 mol of HI form.
 
-**6. (a)** ∆H = −393.5 − (−110.5 + −241.8) [1]; = −393.5 + 352.3 = **−41.2 kJ mol⁻¹** [1]
-**(b)** ∆S = (213.8 + 130.7) − (197.7 + 188.8) = 344.5 − 386.5 [1]; = **−42.0 J mol⁻¹ K⁻¹** [1]
-**(c)** There are 2 mol of gas on each side, so there is little change in disorder [1]
-**(d)** ∆G = −41.2 − 1200 × (−0.0420) = −41.2 + 50.4 = **+9.2 kJ mol⁻¹** [1]; positive, so the reaction is not feasible at 1200 K [1]
-**(e)** T = −41.2 ÷ −0.0420 = 981 K [1]; ∆H and ∆S are both negative, so feasible **below about 981 K** [1]
+**6. (a)** ∆H = [−74.8 + 2(−241.8)] − (−393.5) [1]; = −558.4 + 393.5 = **−164.9 kJ mol⁻¹** [1]
+**(b)** ∆S = [186.3 + 2(188.8)] − [213.8 + 4(130.7)] = 563.9 − 736.6 [1]; = **−172.7 J mol⁻¹ K⁻¹** [1]
+**(c)** 5 mol of gas become 3 mol, so the energy is less dispersed and ∆S is negative [1]
+**(d)** ∆G = −164.9 − 1100 × (−0.1727) = −164.9 + 190.0 = **+25.1 kJ mol⁻¹** [1]; positive, so the reaction is not feasible at 1100 K [1]
+**(e)** T = −164.9 ÷ −0.1727 = 955 K [1]; ∆H and ∆S are both negative, so feasible **below about 955 K** [1]
 *Examiner insight:* In (e), a threshold temperature without "below" or "above" is an incomplete answer; justify the direction from the signs.
 
 **7. (a)** ∆S = [2(33.2) + 213.8] − [2(42.6) + 5.7] = 280.2 − 90.9 [1]; = **+189.3 J mol⁻¹ K⁻¹** [1]
@@ -167,10 +167,8 @@ CuSO₄·5H₂O(s) → CuSO₄(s) + 5H₂O(g)
 - Leaving an element, such as H₂(g) in question 5, out of an entropy sum.
 - Missing balancing numbers, such as the 5 in question 10.
 - Giving a threshold temperature without saying "above" or "below" (questions 6 and 11).
-- Losing the minus sign when ∆S is negative, so −T∆S is subtracted instead of added.
 - Explaining entropy as "chaos" with no reference to energy dispersal.
 - Treating a negative ∆G as proof that a reaction is fast (questions 4 and 11).
-- Predicting a sign of ∆S from gas moles when the gas count is equal (question 3(c)).
 
 ## Next steps
 

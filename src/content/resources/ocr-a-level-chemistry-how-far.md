@@ -20,9 +20,9 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This study guide teaches section 5.1.2, How far?, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. The section sits in Module 5, Physical chemistry and transition elements, and has eight lettered learning outcomes, 5.1.2(a) to (h), all covered below with worked examples. H432 is the full A level. The specification states that Module 5 content is assessed in Periodic table, elements and physical chemistry (01) and Unified chemistry (03). No PAG is listed against this section.
+This study guide teaches section 5.1.2, How far?, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. As the second section of Module 5 (Physical chemistry and transition elements), it lists eight lettered learning outcomes, 5.1.2(a) to (h); each is taught below with worked examples. The content belongs to the full A level, H432. In the written exams, Module 5 content can appear on paper 01, Periodic table, elements and physical chemistry, and on paper 03, Unified chemistry, the paper that spans every module. The specification links no PAG to 5.1.2.
 
-It builds on 3.2.3, Chemical equilibrium, where you met dynamic equilibrium, le Chatelier's principle and Kc without units. Every H432 topic is linked from the [OCR chemistry hub](/boards/ocr/a-level/chemistry/); track outcomes on the [printable checklist](/checklists/ocr/a-level/chemistry/). For fast recall use the [revision notes](/resources/ocr-a-level-chemistry-how-far-revision-notes/), then test yourself with the [practice questions](/resources/ocr-a-level-chemistry-how-far-practice/). Not sure where your gaps are? Try one of our [free diagnostics](/diagnostics/).
+It builds on 3.2.3, Chemical equilibrium, where you met dynamic equilibrium, le Chatelier's principle and Kc without units. Other H432 sections are listed on our [course page for H432 Chemistry A](/boards/ocr/a-level/chemistry/), and each outcome can be ticked off on an [H432 checklist you can print](/checklists/ocr/a-level/chemistry/). Condensed [How far? revision notes](/resources/ocr-a-level-chemistry-how-far-revision-notes/) help with recall, and the [5.1.2 practice set](/resources/ocr-a-level-chemistry-how-far-practice/) tests it. Find your gaps with a [free diagnostic](/diagnostics/).
 
 ## Outcomes in 5.1.2
 
@@ -62,7 +62,7 @@ A sample starting as 0.400 mol C₆H₁₂ reaches equilibrium after 0.250 mol h
 
 ## 5.1.2(b): Quantities present at equilibrium
 
-Most problems give you starting amounts and one equilibrium amount. A three-row table keeps the working clear: **initial**, **change**, **equilibrium**. The change row must follow the mole ratio in the equation. Then convert to whatever K needs: concentrations (divide by volume) for Kc, or partial pressures for Kp.
+Most problems give you starting amounts and one equilibrium amount. A three-row table keeps the working clear: **initial**, **change**, **equilibrium**. Fill in the change row using the coefficients of the balanced equation. Then convert to whatever K needs: concentrations (divide by volume) for Kc, or partial pressures for Kp.
 
 ### Worked example 2: an esterification
 
@@ -76,24 +76,24 @@ CH₃CH₂COOH(l) + CH₃OH(l) ⇌ CH₃CH₂COOCH₃(l) + H₂O(l)
 | Change / mol | −0.320 | −0.320 | +0.320 | +0.320 |
 | Equilibrium / mol | 0.180 | 0.280 | 0.320 | 0.320 |
 
-Kc = [ester][water] / ([acid][methanol]). Each concentration is (amount)/V, and the V terms cancel because there are two terms on top and two below:
+Kc = [ester][water] / ([acid][methanol]). Every concentration equals amount ÷ V. With two terms in the numerator and two in the denominator, V cancels out:
 
 Kc = (0.320 × 0.320) / (0.180 × 0.280) = **2.03** (no units)
 
-Water is included here. It is a product mixed in the same liquid phase, not a separate pure liquid, so this is a homogeneous equilibrium.
+Water is included: it is mixed into one liquid phase, not present as a separate pure liquid, so this equilibrium is homogeneous.
 
 ## 5.1.2(c): Finding equilibrium quantities by experiment
 
 The specification asks for the techniques for Kc, not Kp. A typical method for an esterification or ester hydrolysis:
 
 1. Mix known amounts of the reagents with a small, known amount of acid catalyst in a sealed flask.
-2. Leave the flask at a constant temperature (for example in a water bath) for long enough to reach equilibrium, often several days.
+2. Leave the flask at a constant temperature for long enough to reach equilibrium, often several days.
 3. **Quench**: pour the mixture into a large volume of ice-cold water. Cooling and dilution slow the reaction so much that the composition is effectively frozen while you analyse it.
 4. Titrate the acid present with standard sodium hydroxide, using phenolphthalein.
 5. Run a separate titration of the catalyst alone and subtract it. What remains is the organic acid at equilibrium.
-6. Use the equation to work out every other equilibrium amount, then Kc.
+6. Deduce the other equilibrium amounts from the equation, then Kc.
 
-Why quench? The titration removes acid. Without quenching, le Chatelier's principle says the equilibrium would shift to replace it, and you would measure too much. You can check equilibrium was reached by analysing a second flask a day later: the titre should not change. For general practical method, see the [written-examination practical skills guide](/resources/ocr-a-level-chemistry-practical-skills-written-examination/).
+Why quench? The titration removes acid. Without quenching, le Chatelier's principle says the equilibrium would shift to replace it, and you would measure too much. A second flask analysed a day later should give the same titre if equilibrium was reached. Titration technique is revised in [this H432 practical page](/resources/ocr-a-level-chemistry-practical-skills-written-examination/).
 
 ## 5.1.2(d): Writing Kc and Kp expressions
 
@@ -108,17 +108,18 @@ Products go on top; each term is raised to its coefficient.
 
 | Equilibrium | Kc | Kp |
 |---|---|---|
-| 3Fe(s) + 4H₂O(g) ⇌ Fe₃O₄(s) + 4H₂(g) | [H₂]⁴ / [H₂O]⁴ | p(H₂)⁴ / p(H₂O)⁴ |
-| C(s) + CO₂(g) ⇌ 2CO(g) | [CO]² / [CO₂] | p(CO)² / p(CO₂) |
+| H₂O(l) ⇌ H₂O(g) | [H₂O(g)] | p(H₂O) |
+| Ni(s) + 4CO(g) ⇌ Ni(CO)₄(g) | [Ni(CO)₄] / [CO]⁴ | p(Ni(CO)₄) / p(CO)⁴ |
 
 ### Worked example 3: a heterogeneous Kp
 
-For C(s) + CO₂(g) ⇌ 2CO(g) at a high temperature, the gas phase at equilibrium is 75.0% CO by moles and the total pressure is 400 kPa.
+For Ni(s) + 4CO(g) ⇌ Ni(CO)₄(g) at one temperature, the gas phase at equilibrium holds 0.200 mol Ni(CO)₄ and 0.800 mol CO. The total pressure is 50.0 kPa.
 
-- p(CO) = 0.750 × 400 = 300 kPa; p(CO₂) = 400 − 300 = 100 kPa.
-- Kp = 300² / 100 = **900 kPa**.
+- Only gases count in the total: 1.000 mol. So x(Ni(CO)₄) = 0.200 and x(CO) = 0.800.
+- p(Ni(CO)₄) = 0.200 × 50.0 = 10.0 kPa; p(CO) = 40.0 kPa.
+- Kp = 10.0 / 40.0⁴ = **3.91 × 10⁻⁶ kPa⁻³** (kPa ÷ kPa⁴).
 
-Carbon does not appear. Adding more carbon does not move this equilibrium.
+Nickel does not appear. Adding more nickel does not move this equilibrium.
 
 ## 5.1.2(e): Calculating K and its units
 
@@ -130,15 +131,15 @@ Carbon does not appear. Adding more carbon does not move this equilibrium.
 
 ### Worked example 4: Kc with units
 
-Ethanol vapour is heated in a sealed 2.00 dm³ vessel:
+Ethanol vapour is heated in a sealed 2.50 dm³ vessel:
 
 C₂H₅OH(g) ⇌ CH₃CHO(g) + H₂(g)
 
-The vessel starts with 0.800 mol ethanol. At equilibrium there is 0.300 mol H₂.
+The vessel starts with 1.20 mol ethanol. At equilibrium there is 0.450 mol H₂.
 
-1. Equilibrium amounts: CH₃CHO = 0.300 mol; C₂H₅OH = 0.800 − 0.300 = 0.500 mol.
-2. Concentrations: [C₂H₅OH] = 0.250; [CH₃CHO] = 0.150; [H₂] = 0.150 mol dm⁻³.
-3. Kc = (0.150 × 0.150) / 0.250 = **0.0900 mol dm⁻³**.
+1. Equilibrium amounts: CH₃CHO = 0.450 mol; C₂H₅OH = 1.20 − 0.450 = 0.750 mol.
+2. Concentrations: [C₂H₅OH] = 0.300; [CH₃CHO] = 0.180; [H₂] = 0.180 mol dm⁻³.
+3. Kc = (0.180 × 0.180) / 0.300 = **0.108 mol dm⁻³**.
 4. Units: (mol dm⁻³ × mol dm⁻³) / mol dm⁻³ = mol dm⁻³.
 
 ### Worked example 5: Kp with units
@@ -147,7 +148,7 @@ Using worked example 1, Kp = p(C₆H₆) × p(H₂)³ / p(C₆H₁₂) = 25.0 ×
 
 ### Related quantities
 
-"Related quantities" means rearranging K to find something else. If Kc for the ethanol reaction is still 0.0900 mol dm⁻³ at the same temperature, and a new equilibrium mixture has [C₂H₅OH] = 0.400 and [CH₃CHO] = 0.120 mol dm⁻³, then [H₂] = 0.0900 × 0.400 / 0.120 = **0.300 mol dm⁻³**. The specification says you will not be asked to solve quadratics, so expect data that lead to a direct rearrangement like this.
+"Related quantities" means rearranging K to find something else. If Kc for the ethanol reaction is still 0.108 mol dm⁻³ at the same temperature, and a new equilibrium mixture has [C₂H₅OH] = 0.500 and [CH₃CHO] = 0.150 mol dm⁻³, then [H₂] = 0.108 × 0.500 / 0.150 = **0.360 mol dm⁻³**. No quadratics are required, so expect data that allow a direct rearrangement like this.
 
 ## 5.1.2(f): What changes K, and what does not
 
@@ -158,7 +159,7 @@ Using worked example 1, Kp = p(C₆H₆) × p(H₂)³ / p(C₆H₁₂) = 25.0 ×
 
 You can run this backwards. If a table shows Kp rising as temperature rises, the forward reaction is endothermic.
 
-**(ii) K is constant** when you change concentration, pressure, or add a catalyst (at constant temperature). A catalyst speeds up the forward and reverse reactions equally, so equilibrium is reached sooner, but the composition at equilibrium, and K, are the same.
+**(ii) K is constant** when you change concentration, pressure, or add a catalyst (at constant temperature). A catalyst raises the rates of both directions by the same factor. Equilibrium arrives sooner; the final composition and the value of K do not change.
 
 ## 5.1.2(g): How K controls the position of equilibrium
 
@@ -174,7 +175,7 @@ Take the equilibrium in worked example 1 and suddenly double the total pressure 
 
 quotient = (2 × 25.0)(2 × 75.0)³ / (2 × 15.0) = 2³ × Kp = 8 × Kp
 
-The quotient is now larger than Kp. To bring it back down, the numerator must fall and the denominator must rise, so the equilibrium shifts to the **left**, towards fewer gas moles. This agrees with le Chatelier's principle, but 5.1.2(g) asks you to explain it through the fixed value of Kp.
+The quotient is now larger than Kp. To bring it back down, the numerator must fall and the denominator must rise, so the equilibrium shifts to the **left**, towards fewer gas moles. Le Chatelier's principle predicts the same, but 5.1.2(g) wants the argument through the fixed value of Kp.
 
 ## 5.1.2(h): Other equilibrium constants
 
@@ -193,12 +194,11 @@ For acid basics, revisit [OCR acids](/resources/ocr-a-level-chemistry-acids/).
 - Using rounded mole fractions to get partial pressures, then losing accuracy in Kp.
 - Writing initial amounts into Kc instead of equilibrium amounts.
 - Forgetting to divide by volume when Kc has units. Volume only cancels when n = 0.
-- Including a solid such as carbon or iron in a heterogeneous expression.
+- Including a solid such as nickel in a heterogeneous expression.
 - Saying "Kc increases" when you add a reactant. Only temperature changes K.
-- Explaining a pressure change with le Chatelier alone when the question asks for an explanation using Kp.
-- Writing Kp with concentrations in square brackets.
+- Quoting le Chatelier's principle for a pressure change when the question wants the argument made through Kp.
 - Leaving units off, or giving kPa when the expression gives kPa³.
 
 ## Official syllabus
 
-OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, published by OCR. Section 5.1.2, How far?, in Module 5, Physical chemistry and transition elements.
+Source document: OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017 (OCR). This guide follows its section 5.1.2, How far?, from Module 5.

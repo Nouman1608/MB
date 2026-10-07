@@ -20,18 +20,18 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-These notes condense Reactivity 1.4, "Entropy and spontaneity", for the last weeks before your exams. They follow the IB Diploma Programme Chemistry guide (first assessment 2025, published February 2023) and cover understandings Reactivity 1.4.1 to 1.4.4. The whole sub-topic is additional higher level, so it is **HL only**. They apply to the course examined from 2025 onwards.
+Use these notes in the final weeks to recall Reactivity 1.4, "Entropy and spontaneity", quickly. Statement numbers follow the DP Chemistry guide the IB issued in February 2023 (first assessment 2025): understandings Reactivity 1.4.1 to 1.4.4. All four understandings are additional higher level material, so this page is **HL only**, for sessions from 2025 onwards.
 
-For full explanations and longer worked examples, read the [entropy and spontaneity study guide](/resources/ib-dp-chemistry-entropy-and-spontaneity/) first. Test yourself afterwards with the [practice set](/resources/ib-dp-chemistry-entropy-and-spontaneity-practice/). Other units are on the [DP Chemistry hub](/boards/ib/ib-dp/chemistry/), the [topic checklist](/checklists/ib/ib-dp/chemistry/) keeps track of what you have revised, and the [free diagnostics](/diagnostics/) point you to weak areas.
+Anything here that feels too compressed is unpacked, with fuller examples, in the [entropy and spontaneity study guide](/resources/ib-dp-chemistry-entropy-and-spontaneity/). When you are ready, work through the [practice set](/resources/ib-dp-chemistry-entropy-and-spontaneity-practice/). The [DP Chemistry hub](/boards/ib/ib-dp/chemistry/) links every other unit, the [printable checklist](/checklists/ib/ib-dp/chemistry/) records what you have covered, and the [free diagnostics](/diagnostics/) flag topics that need more time.
 
 ## Key definitions
 
-- **Entropy, S:** a measure of how dispersed the matter and energy of a system are. More ways to distribute the energy means higher entropy. Unit: J K⁻¹ mol⁻¹.
-- **Standard entropy, S⦵:** the entropy of one mole of a substance in its standard state. It is positive for every substance above 0 K, including elements.
+- **Entropy, S:** how dispersed the matter and energy of a system are. The more ways the energy can be shared out, the higher S. Unit: J K⁻¹ mol⁻¹.
+- **Standard entropy, S⦵:** the entropy value per mole for a substance under standard conditions. It is positive for every substance above 0 K, elements included.
 - **Perfect crystal at 0 K:** only one possible arrangement, so its entropy is predicted to be zero.
-- **Gibbs energy change, ΔG:** combines ΔH, ΔS and the absolute temperature T; it relates to the energy a reaction can supply.
-- **Spontaneous change:** at constant pressure, one with ΔG negative. Spontaneous does not mean fast.
-- **Reaction quotient, Q:** the equilibrium-constant expression worked out for a mixture that may not be at equilibrium.
+- **Gibbs energy change, ΔG:** links ΔH, ΔS and the absolute temperature T; it relates to the energy a reaction can supply for work.
+- **Spontaneous change:** at constant pressure, any change with a negative ΔG. It may still be slow.
+- **Reaction quotient, Q:** the equilibrium-constant expression evaluated for any mixture, at equilibrium or not.
 
 ## Formulas
 
@@ -44,7 +44,7 @@ For full explanations and longer worked examples, read the [entropy and spontane
 | ΔG for any mixture | ΔG = ΔG⦵ + RT lnQ | J mol⁻¹; R = 8.31 J K⁻¹ mol⁻¹ |
 | At equilibrium | ΔG⦵ = −RT lnK | J mol⁻¹ |
 
-The guide states that standard entropy values, thermodynamic data and the two ΔG equations for 1.4.4 are given in the data booklet.
+The guide says the data booklet gives standard entropy values, thermodynamic data and the two ΔG equations used in 1.4.4.
 
 ## Reactivity 1.4.1 Predicting and calculating ΔS
 
@@ -66,9 +66,9 @@ Order under the same conditions: **gas > liquid > solid**.
 3. Sum products; sum reactants; subtract (products − reactants).
 4. Compare the sign with your gas-moles prediction.
 
-**Worked reminder.** Rusting, 4Fe(s) + 3O₂(g) → 2Fe₂O₃(s). S⦵ values: Fe(s) 27.3, O₂(g) 205.2, Fe₂O₃(s) 87.4 J K⁻¹ mol⁻¹.
-Products: 2 × 87.4 = 174.8. Reactants: (4 × 27.3) + (3 × 205.2) = 724.8.
-ΔS⦵ = 174.8 − 724.8 = **−550.0 J K⁻¹ mol⁻¹**. Negative, as expected: 3 mol of gas are used up.
+**Worked reminder.** Titanium extraction, TiCl₄(l) + 2Mg(s) → Ti(s) + 2MgCl₂(s). S⦵ values: TiCl₄(l) 252.3, Mg(s) 32.7, Ti(s) 30.7, MgCl₂(s) 89.6 J K⁻¹ mol⁻¹.
+Products: 30.7 + (2 × 89.6) = 209.9. Reactants: 252.3 + (2 × 32.7) = 317.7.
+ΔS⦵ = 209.9 − 317.7 = **−107.8 J K⁻¹ mol⁻¹**. No gas is involved, but a liquid is turned into solids, so a negative value is expected.
 
 ## Reactivity 1.4.2 Using ΔG⦵ = ΔH⦵ − TΔS⦵
 
@@ -80,7 +80,7 @@ Products: 2 × 87.4 = 174.8. Reactants: (4 × 27.3) + (3 × 205.2) = 724.8.
 4. Rearrange for an unknown: ΔS = (ΔH − ΔG) ÷ T, or ΔH = ΔG + TΔS.
 
 **Worked reminder.** A reaction has ΔH⦵ = −92.0 kJ mol⁻¹ and ΔG⦵ = −33.0 kJ mol⁻¹ at 298 K.
-ΔS⦵ = (−92.0 − (−33.0)) ÷ 298 = −0.198 kJ K⁻¹ mol⁻¹ = **−198 J K⁻¹ mol⁻¹**. Keep the brackets: subtracting a negative ΔG is where most sign slips happen.
+ΔS⦵ = (−92.0 − (−33.0)) ÷ 298 = −0.198 kJ K⁻¹ mol⁻¹ = **−198 J K⁻¹ mol⁻¹**. Bracket the negative ΔG before subtracting it; that step is where sign slips creep in.
 
 ## Reactivity 1.4.3 Spontaneity
 
@@ -91,9 +91,9 @@ Products: 2 × 87.4 = 174.8. Reactants: (4 × 27.3) + (3 × 205.2) = 724.8.
 | − | − | below T = ΔH/ΔS |
 | + | + | above T = ΔH/ΔS |
 
-**Worked reminder.** ΔH = +65.0 kJ mol⁻¹, ΔS = +160 J K⁻¹ mol⁻¹. T = 65.0 ÷ 0.160 = 406 K. Both positive, so spontaneous **above 406 K**.
+**Worked reminder.** ΔH = +65.0 kJ mol⁻¹, ΔS = +160 J K⁻¹ mol⁻¹. T = 65.0 ÷ 0.160 = 406 K. With both signs positive, the change is spontaneous **above 406 K**.
 
-**Direct and indirect entropy.** ΔG includes the entropy change of the system (direct) and that of the surroundings (indirect, from heat transfer, −ΔH/T). ΔG = −TΔS(total), so ΔG negative means the total entropy rises.
+**Direct and indirect entropy.** ΔG accounts for the system's own entropy change (direct) and the surroundings' change caused by heat transfer (indirect, −ΔH/T). Since ΔG = −TΔS(total), a negative ΔG means total entropy rises.
 
 ## Reactivity 1.4.4 Gibbs energy and equilibrium
 
@@ -109,10 +109,10 @@ Products: 2 × 87.4 = 174.8. Reactants: (4 × 27.3) + (3 × 205.2) = 724.8.
 4. Add it to ΔG⦵. The sign of ΔG gives the spontaneous direction for that mixture.
 
 **Worked reminder.** At 310 K, ΔG⦵ = +3.00 kJ mol⁻¹ and Q = 0.0500.
-RT lnQ = 8.31 × 310 × ln 0.0500 = −7717 J mol⁻¹. ΔG = 3000 − 7717 = **−4.72 kJ mol⁻¹**, so the forward reaction is spontaneous for this mixture even though ΔG⦵ is positive.
+RT lnQ = 8.31 × 310 × ln 0.0500 = −7717 J mol⁻¹. ΔG = 3000 − 7717 = **−4.72 kJ mol⁻¹**. The forward reaction is spontaneous for this mixture, even though ΔG⦵ is positive.
 
 **Worked reminder.** ΔG⦵ = +12.0 kJ mol⁻¹ at 298 K.
-lnK = −12 000 ÷ (8.31 × 298) = −4.85, so K = **7.86 × 10⁻³**. The equilibrium mixture is mostly reactants.
+lnK = −12 000 ÷ (8.31 × 298) = −4.85, so K = **7.86 × 10⁻³**. At equilibrium, reactants make up most of the mixture.
 
 ## Links to other parts of the course
 
@@ -123,9 +123,9 @@ lnK = −12 000 ÷ (8.31 × 298) = −4.85, so K = **7.86 × 10⁻³**. The equi
 ## Must-know distinctions
 
 - **ΔG vs ΔG⦵:** ΔG⦵ refers to standard conditions and is fixed at a given temperature; ΔG depends on the actual mixture through Q.
-- **Spontaneous vs fast:** thermodynamics (ΔG) says whether a change can happen; kinetics (activation energy) says how fast.
+- **Spontaneous vs fast:** ΔG tells you whether a change is thermodynamically favoured; the activation energy controls its rate.
 - **System vs surroundings:** ΔS⦵ from data is the system only. The surroundings' change comes from −ΔH/T.
-- **S⦵ vs ΔfH⦵ of elements:** ΔfH⦵ of an element in its standard state is zero; S⦵ is not.
+- **Entropy vs enthalpy of formation for elements:** an element in its standard state is given ΔfH⦵ = 0, but its S⦵ is always above zero.
 - **Threshold temperature:** T = ΔH/ΔS is only meaningful when ΔH and ΔS have the same sign.
 
 ## Quick self-test

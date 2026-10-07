@@ -20,201 +20,208 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This page teaches Reactivity 1.1, "Measuring enthalpy changes", from the beginning. It follows the IB Diploma Programme Chemistry guide (first assessment 2025, published February 2023) and covers understandings Reactivity 1.1.1 to 1.1.4, each with worked examples. The guide lists no additional higher level material for this sub-topic, so SL and HL candidates learn exactly the same content. It applies to the course examined from 2025 onwards.
+This study guide teaches IB DP Chemistry Reactivity 1.1, "Measuring enthalpy changes", starting from nothing. It is written against the IB Diploma Programme Chemistry guide (first assessment 2025, published February 2023), whose understandings Reactivity 1.1.1 to 1.1.4 each get a worked example here. The sub-topic has no additional higher level (AHL) content, so SL and HL learn identical material. The guide was first examined in 2025; this page serves that session and every later one.
 
-Afterwards, use the [revision notes](/resources/ib-dp-chemistry-measuring-enthalpy-changes-revision-notes/) and [practice questions](/resources/ib-dp-chemistry-measuring-enthalpy-changes-practice/). Temperature and kinetic energy are taught in the [Structure 1.1 guide](/resources/ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter/). The [DP Chemistry hub](/boards/ib/ib-dp/chemistry/), [topic checklist](/checklists/ib/ib-dp/chemistry/) and free [diagnostic quizzes](/diagnostics/) help you plan.
+Afterwards, the [revision notes](/resources/ib-dp-chemistry-measuring-enthalpy-changes-revision-notes/) give a one-sitting summary and the [practice questions](/resources/ib-dp-chemistry-measuring-enthalpy-changes-practice/) check your understanding. Temperature and particle kinetic energy belong to Structure 1, covered in the [Structure 1 study guide](/resources/ib-dp-chemistry-structure-1/). Plan your revision from the [course hub](/boards/ib/ib-dp/chemistry/) and [topic checklist](/checklists/ib/ib-dp/chemistry/), and spot weak areas with a free [diagnostic](/diagnostics/).
 
-## What this unit covers
+## Coverage at a glance
 
-| Guide statement | What you need to do | Level |
+| Understanding | You should be able to | SL / HL |
 |---|---|---|
-| Reactivity 1.1.1 | Treat a reaction as an energy transfer between system and surroundings, with total energy conserved; tell heat apart from temperature | SL and HL |
-| Reactivity 1.1.2 | Classify reactions as endothermic or exothermic and link each to a fall or rise in temperature | SL and HL |
-| Reactivity 1.1.3 | Relate the relative stability of reactants and products to the sign of ΔH; sketch and interpret energy profiles | SL and HL |
-| Reactivity 1.1.4 | Define the standard enthalpy change, ΔH⦵; use Q = mcΔT and ΔH = −Q/n to find ΔH from a temperature change | SL and HL |
+| Reactivity 1.1.1 | Describe a reaction as energy moving between system and surroundings, with no energy created or destroyed; explain how heat differs from temperature | Both |
+| Reactivity 1.1.2 | Call a reaction exothermic or endothermic and predict whether the temperature goes up or down | Both |
+| Reactivity 1.1.3 | Use the relative stability of reactants and products to explain the sign of ΔH; sketch and read energy profiles | Both |
+| Reactivity 1.1.4 | Say what ΔH⦵ means; calculate ΔH from a temperature change using Q = mcΔT and ΔH = −Q/n | Both |
 
-## Reactivity 1.1.1 System, surroundings, heat and temperature
+## Reactivity 1.1.1 Energy transfer, heat and temperature
 
-### System and surroundings
+### Drawing the boundary
 
-Split the world in two:
+Chemists divide any change into two parts.
 
-- the **system** is the reacting chemicals themselves (the reactants turning into products);
-- the **surroundings** are everything else: the water the chemicals are dissolved in, the beaker, the thermometer, the air.
+- The **system** is the set of chemicals taking part: the reactants as they turn into products.
+- The **surroundings** are everything outside that: the solvent water, the cup, the thermometer, the bench and the air.
 
-During a reaction, energy crosses the boundary between the two. Energy is conserved, so whatever the system loses the surroundings gain, and the other way round; the total stays the same.
+Energy can cross the boundary either way but is never created or lost: if the system gives out 3 kJ, the surroundings take in exactly 3 kJ.
 
-### Heat is not temperature
+### Two different quantities
 
-- **Temperature** measures the **average kinetic energy** of the particles in a sample. It does not depend on how much material there is. Its SI unit is the kelvin (K); T/K = t/°C + 273.15.
-- **Heat** is **energy transferred** from a hotter region to a cooler one because of a temperature difference. It is a quantity of energy, measured in joules (J) or kilojoules (kJ), and it does depend on the amount of material.
+| | Temperature | Heat |
+|---|---|---|
+| What it is | An indicator of how fast the particles move on average (their mean kinetic energy) | Energy that flows from hotter to cooler because of a temperature difference |
+| Depends on amount of substance? | No | Yes |
+| Unit | kelvin, K (or °C) | joule, J, or kilojoule, kJ |
 
-A warm bath at 40 °C holds far more thermal energy than a cup of boiling water, simply because it contains far more particles.
+A bucket and a single drop of water, both at 30 °C, share one temperature, yet the bucket can give out far more heat as it cools because it has far more particles.
 
-Because a temperature **change** is the same size in kelvin and in degrees Celsius, ΔT can be written in either unit. A rise from 18.0 °C to 25.0 °C is a ΔT of 7.0 K.
+A **change** in temperature has the same number in kelvin and in degrees Celsius, since the two scales have the same step size. Warming from 16.0 °C to 21.5 °C is ΔT = 5.5 K. Only absolute temperatures need converting: T/K = t/°C + 273.15.
 
-### Worked example 1: same heat, different temperature change
+### Worked example 1: one heat input, two temperature rises
 
-The same 2.09 kJ of heat is supplied to 50.0 g of water and, separately, to 250 g of water. Use c = 4.18 J g⁻¹ K⁻¹. Find the temperature rise in each case.
+Exactly 2.09 kJ of heat goes into 50.0 g of water. The same amount goes into a separate 250 g of water. Using c = 4.18 J g⁻¹ K⁻¹, find each ΔT.
 
 ```
-ΔT = Q ÷ (m × c)
+Rearrange Q = mcΔT:   ΔT = Q / (m × c)
 
-50.0 g:  ΔT = 2090 ÷ (50.0 × 4.18) = 10.0 K
-250 g:   ΔT = 2090 ÷ (250 × 4.18)  = 2.00 K
+50.0 g:   ΔT = 2090 / (50.0 × 4.18) = 10.0 K
+250 g:    ΔT = 2090 / (250 × 4.18)  = 2.00 K
 ```
 
-The larger mass shares the same energy among five times as many particles, so the temperature rises by a fifth as much.
+Five times the mass gives one fifth of the rise, so equal heat need not mean equal temperature change.
 
 ## Reactivity 1.1.2 Exothermic and endothermic reactions
 
-The direction of energy transfer decides the label.
+The label depends only on which way energy crosses the boundary.
 
 | | Exothermic | Endothermic |
 |---|---|---|
-| Energy transfer | System → surroundings | Surroundings → system |
-| Sign of ΔH | Negative | Positive |
-| Temperature of the surroundings | Rises | Falls |
-| Examples | Combustion, neutralisation, metal + acid | Thermal decomposition of carbonates, dissolving ammonium nitrate, photosynthesis |
+| Direction of energy transfer | From system to surroundings | From surroundings to system |
+| Sign of ΔH | − | + |
+| What the thermometer shows | Temperature goes up | Temperature goes down |
+| Familiar cases | Burning fuels, acid + alkali, metals in acid | Heating calcium carbonate, dissolving ammonium nitrate, photosynthesis |
 
-The thermometer measures the **surroundings**, usually the water the reaction happens in. Energy released by an exothermic system warms the water; an endothermic system draws energy from it, so it cools.
+The thermometer sits in the surroundings (usually the water). Energy released by the system warms the water; energy absorbed by the system comes from the water, which cools.
 
-In the laboratory, an exothermic mixture feels warm and the reading climbs; an endothermic one feels cold, the reading drops, and condensation can form on the outside of the beaker.
+In practice, an exothermic mixture feels warm; an endothermic one feels cold and may gather condensation on the outside of the container.
+
+### Worked example 2: classifying from readings
+
+Two mixtures each start at 19.5 °C. Dissolving solid X in water ends at 12.8 °C. Adding solid Y to dilute acid ends at 27.1 °C. Classify each and give the sign of ΔH.
+
+```
+X: ΔT = 12.8 − 19.5 = −6.7 K   water cooled → energy into system → endothermic, ΔH > 0
+Y: ΔT = 27.1 − 19.5 = +7.6 K   water warmed → energy out of system → exothermic, ΔH < 0
+```
+
+ΔT and ΔH always have opposite signs.
 
 ## Reactivity 1.1.3 Stability and energy profiles
 
-### Stability decides the sign
+### Why some reactions give out energy
 
-The **relative stability** of reactants and products sets whether a reaction releases or absorbs energy. A substance with lower potential energy (chemical energy stored in its bonds and arrangement) is more stable.
+Whether a reaction is exothermic or endothermic comes down to the **relative stability** of reactants and products. The lower a substance's potential energy (the chemical energy held in its bonds and structure), the more stable it is.
 
-- If the **products are more stable** (lower in potential energy) than the reactants, the difference is released: the reaction is **exothermic** and ΔH is negative.
-- If the **products are less stable** (higher in potential energy), energy must be taken in: the reaction is **endothermic** and ΔH is positive.
+- **Products more stable** (lower potential energy) than reactants: the difference is given out, so the reaction is **exothermic** (ΔH < 0).
+- **Products less stable** (higher potential energy): the difference must be taken in, so the reaction is **endothermic** (ΔH > 0).
 
-The guide links this to Structure 2.2 with a question about nitrogen: most combustions are exothermic, so why is the reaction of nitrogen with oxygen endothermic? The answer lies in bonding. The N≡N triple bond in N₂ is very strong, so N₂ is very stable, and the nitrogen oxides formed sit higher in potential energy than the starting gases.
+The guide connects this to bonding with a puzzle: if most combustions release energy, why does nitrogen take in energy when it reacts with oxygen? The triple bond in N₂ is exceptionally strong, which makes N₂ very stable. The nitrogen oxide product therefore lies above the starting gases in potential energy.
 
-### Energy profiles
+### Sketching an energy profile
 
-An **energy profile** shows how potential energy changes as reactants become products. The guide is specific about the axes: the x-axis is labelled **reaction coordinate** and the y-axis **potential energy**.
+An **energy profile** follows potential energy as reactants turn into products. The guide asks for the horizontal axis to be labelled **reaction coordinate** and the vertical axis **potential energy**.
 
-| Feature | Exothermic profile | Endothermic profile |
+| Feature | Exothermic | Endothermic |
 |---|---|---|
-| Product line | Below the reactant line | Above the reactant line |
-| ΔH arrow | Points down, reactants to products; ΔH < 0 | Points up, reactants to products; ΔH > 0 |
-| Ea arrow | From reactants up to the top of the hump | From reactants up to the top of the hump |
-| More stable side | Products | Reactants |
+| Where the products sit | Lower than the reactants | Higher than the reactants |
+| ΔH arrow | Downwards, reactants → products | Upwards, reactants → products |
+| Ea arrow | Reactant level → peak | Reactant level → peak |
+| Which side is more stable | Products | Reactants |
 
-A full sketch has:
+A complete sketch shows:
 
-1. labelled axes (reaction coordinate; potential energy);
-2. a horizontal line for the reactants and another for the products, each labelled, at the correct relative heights;
-3. a single hump between them, the transition state;
-4. an arrow for **ΔH** from the reactant level to the product level (pointing down for exothermic, up for endothermic);
-5. an arrow for the **activation energy, Ea**, from the reactant level up to the top of the hump.
+1. both axes labelled as above;
+2. a labelled reactant level and a labelled product level at the right relative heights;
+3. one smooth curve rising to a peak (the transition state) between them;
+4. a vertical ΔH arrow between the two levels, pointing from reactants to products;
+5. a vertical **activation energy, Ea**, arrow starting at the reactant level and ending at the peak.
 
-### Worked example 2: reading an energy profile
+### Worked example 3: taking values off a profile
 
-On a profile, the reactants sit at 40 kJ mol⁻¹, the top of the hump at 125 kJ mol⁻¹ and the products at 95 kJ mol⁻¹ (all relative potential energies). Deduce ΔH, Ea and which side is more stable.
-
-```
-ΔH = products − reactants = 95 − 40 = +55 kJ mol⁻¹   (endothermic)
-Ea = top − reactants      = 125 − 40 = 85 kJ mol⁻¹
-```
-
-The reactants are lower in potential energy, so they are the more stable side.
-
-## Reactivity 1.1.4 The standard enthalpy change and calorimetry
-
-### What ΔH⦵ means
-
-**Enthalpy change, ΔH**, is the heat transferred between system and surroundings during a reaction carried out at **constant pressure**. The **standard enthalpy change, ΔH⦵**, is that value when the reaction takes place under standard conditions with every substance in its standard state. Standard pressure is 100 kPa, and data are normally quoted at 298 K. Its units are **kJ mol⁻¹**: the "per mole" refers to the amounts in the balanced equation, or to one mole of the substance named in the definition.
-
-### Measuring it from a temperature change
-
-You cannot measure enthalpy directly. Instead, you let the reaction transfer energy to (or from) a known mass of a pure substance, usually water, and record its temperature change. Two equations then give ΔH:
+On a profile, the reactant level is 40 kJ mol⁻¹, the peak is 125 kJ mol⁻¹ and the product level is 95 kJ mol⁻¹ (relative potential energies). Find ΔH and Ea and say which side is more stable.
 
 ```
-Q  = m c ΔT        Q in J, m in g, c in J g⁻¹ K⁻¹, ΔT in K
-ΔH = −Q ÷ n        n = amount (mol) of the limiting reactant,
-                   or of the fuel burned; convert Q to kJ first
+ΔH = E(products) − E(reactants) = 95 − 40  = +55 kJ mol⁻¹  → endothermic
+Ea = E(peak) − E(reactants)     = 125 − 40 = 85 kJ mol⁻¹
 ```
 
-The guide notes that the equation Q = mcΔT and the specific heat capacity of water are given in the data booklet. The standard value of c for water is 4.18 J g⁻¹ K⁻¹. For dilute aqueous solutions, treat the solution as water: 1.00 cm³ has a mass of 1.00 g and the same c.
+The reactants have the lower potential energy, so they are more stable.
 
-The minus sign matters. Q is the heat gained by the water. If the water warms up, Q is positive, the system lost that energy and ΔH is negative.
+## Reactivity 1.1.4 Standard enthalpy change and calorimetry
 
-### Worked example 3: a reaction in solution
+### Defining ΔH⦵
 
-A polystyrene cup holds 45.0 cm³ of 1.00 mol dm⁻³ hydrochloric acid. A 0.150 g piece of magnesium ribbon is added. The highest temperature reached is 14.8 K above the starting temperature. Calculate ΔH for Mg(s) + 2HCl(aq) → MgCl₂(aq) + H₂(g). Use Ar(Mg) = 24.31.
+The **enthalpy change, ΔH**, of a reaction is the heat transferred between system and surroundings when the reaction happens at **constant pressure**. The **standard enthalpy change, ΔH⦵**, is the value for **standard conditions**, with each substance in its **standard state**. Standard pressure is 100 kPa, and tabulated values usually refer to 298 K. ΔH⦵ is given in **kJ mol⁻¹**, meaning per mole of the reaction as written in the balanced equation.
 
-```
-Limiting reactant:
-  n(Mg)  = 0.150 ÷ 24.31 = 6.170 × 10⁻³ mol
-  n(HCl) = 0.0450 × 1.00 = 0.0450 mol
-  Mg needs 2 × 6.170 × 10⁻³ = 0.01234 mol HCl, so the acid
-  is in excess and Mg is limiting.
+### From temperature change to ΔH
 
-Q  = m c ΔT = 45.0 × 4.18 × 14.8 = 2784 J = 2.784 kJ
-ΔH = −Q ÷ n(Mg) = −2.784 ÷ 6.170 × 10⁻³
-   = −451 kJ mol⁻¹
-```
-
-Note that m is the mass of the **solution** (45.0 g), not the mass of magnesium.
-
-### Combustion of fuels and food
-
-The guide points to investigations of combustion enthalpies, for example of alcohols or food. The usual set-up is a spirit burner, or a food sample burning on a mounted needle, under a metal can of water.
-
-1. Weigh the burner with its cap on.
-2. Measure a known mass of water into the can; record its starting temperature.
-3. Light the burner, stir the water and heat until the temperature has risen by a reasonable amount.
-4. Put out the flame, record the highest temperature and reweigh the burner.
-
-### Worked example 4: combustion of methanol
-
-Burning 0.412 g of methanol, CH₃OH, raises the temperature of 150.0 g of water in a copper can by 11.6 K. Calculate the enthalpy change of combustion and compare it with the data value of −726 kJ mol⁻¹.
+Enthalpy cannot be read off an instrument. Instead, the reaction exchanges energy with a weighed amount of a pure substance (normally water), whose temperature change you measure. Then:
 
 ```
-M(CH₃OH) = 12.01 + (4 × 1.01) + 16.00 = 32.05 g mol⁻¹
-n        = 0.412 ÷ 32.05 = 0.01285 mol
+Q  = m × c × ΔT     Q in J; m = mass of water or solution (g);
+                    c in J g⁻¹ K⁻¹; ΔT in K
+ΔH = −Q / n         Q converted to kJ; n = moles of limiting
+                    reactant (or of fuel burned)
+```
+
+According to the guide, both Q = mcΔT and the specific heat capacity of water appear in the data booklet. The standard value of c for water is 4.18 J g⁻¹ K⁻¹. A dilute aqueous solution is treated as if it were water: 1.00 cm³ weighs 1.00 g and has the same c.
+
+Watch the minus sign. Q is the energy the water gains. A rise in temperature gives a positive Q, which is energy the system lost, so ΔH comes out negative.
+
+### Worked example 4: a metal reacting with acid
+
+Into an insulated cup go 45.0 cm³ of 1.00 mol dm⁻³ hydrochloric acid and then 0.150 g of magnesium. The temperature climbs by 14.8 K at most. The reaction is Mg(s) + 2HCl(aq) → MgCl₂(aq) + H₂(g); the relative atomic mass of magnesium is 24.31. Find ΔH.
+
+```
+Which reactant runs out?
+  n(Mg)  = 0.150 / 24.31     = 6.170 × 10⁻³ mol
+  n(HCl) = 0.0450 dm³ × 1.00 = 0.0450 mol
+  HCl required = 2 × 6.170 × 10⁻³ = 0.01234 mol  (< 0.0450)
+  → magnesium is limiting
+
+Q  = 45.0 g × 4.18 × 14.8 = 2784 J = 2.784 kJ
+ΔH = −2.784 / (6.170 × 10⁻³) = −451 kJ mol⁻¹
+```
+
+Here m is the 45.0 g of solution, not the 0.150 g of metal.
+
+### Investigating combustion of fuels and foods
+
+The guide suggests measuring combustion enthalpies of substances such as alcohols or foods. A liquid fuel burns in a spirit burner and a food sample on a mounted needle, each beneath a metal can of water. Weigh the burner (lid on) before and after, record the water's mass and starting temperature, stir while heating, and note the highest temperature reached.
+
+### Worked example 5: methanol in a spirit burner
+
+A burner loses 0.412 g of methanol, CH₃OH, while warming 150.0 g of water by 11.6 K. Find the enthalpy change of combustion and compare it with a data value of −726 kJ mol⁻¹.
+
+```
+M(CH₃OH) = 12.01 + 4(1.01) + 16.00 = 32.05 g mol⁻¹
+n        = 0.412 / 32.05 = 0.01285 mol
 
 Q  = 150.0 × 4.18 × 11.6 = 7273 J = 7.273 kJ
-ΔH = −7.273 ÷ 0.01285 = −566 kJ mol⁻¹
+ΔH = −7.273 / 0.01285   = −566 kJ mol⁻¹
 
-Percentage difference = (726 − 566) ÷ 726 × 100 = 22 %
+difference = (726 − 566) / 726 × 100 = 22 %
 ```
 
-The experimental value is less exothermic than the data value, as is usual.
+As usual, the measured value is less exothermic than the data value.
 
-### Why calorimetry gives smaller temperature changes
+### Why the temperature change is smaller than expected
 
-The guide asks why measured temperature changes are typically smaller than theory predicts. The main reasons:
+The guide asks why calorimetry usually records a smaller ΔT than theory predicts. The main causes:
 
-- **heat loss** to the air, especially from a flame, where much of the energy never reaches the water;
-- the **calorimeter itself** (can, cup, thermometer) absorbs some energy that the calculation ignores;
-- **incomplete combustion** of the fuel, which releases less energy than complete combustion and leaves soot on the can;
-- **evaporation** of fuel from the wick, so some of the mass lost was never burned;
-- non-standard conditions, such as water formed as vapour rather than liquid.
+- energy escapes to the air instead of reaching the water, worst of all with an open flame;
+- the can or cup and the thermometer warm up too, and that energy is left out of Q;
+- the fuel burns **incompletely**, giving out less energy and leaving soot on the can;
+- some fuel **evaporates** from the wick, so the mass loss overstates the fuel actually burned;
+- products are not in their standard states (for example, water leaves as steam).
 
-Improvements include a draught shield, a lid on the cup and a shorter gap between flame and can.
+### Allowing for heat loss with a graph
 
-### Correcting for heat loss with a graph
+For a reaction in solution, read the thermometer every 30 seconds, starting a few minutes before mixing and carrying on for several minutes after. On the graph, the slow decline after the peak is fitted with a straight line, which is then extended back to the mixing time. Where it meets that time is the best estimate of the peak with no losses.
 
-For reactions in solution, record the temperature every 30 s before and after mixing, plot it against time and extrapolate the cooling line back to the moment of mixing. This estimates the maximum temperature with no heat loss.
-
-For example, if the water starts at 20.4 °C, the highest reading is 26.8 °C but the extrapolated line meets the mixing time at 27.5 °C, use ΔT = 7.1 K, not 6.4 K. Using the recorded value would underestimate Q by about a tenth.
+Suppose the start is 20.4 °C, the highest reading 26.8 °C and the extended line reaches 27.5 °C at the time of mixing. Use ΔT = 7.1 K rather than 6.4 K. The recorded value would make Q roughly 10 % too small.
 
 ## Common errors
 
-- Using the mass of the solid or fuel as m in Q = mcΔT. It is the mass of water or solution heated.
-- Dividing Q by the amount of the reactant in excess instead of the limiting reactant.
-- Forgetting to convert Q from J to kJ before dividing, giving ΔH a thousand times too large.
-- Dropping the sign: an exothermic ΔH must be written with a minus sign.
-- Drawing an energy profile with "energy" or "enthalpy" on the y-axis, or "time" on the x-axis, instead of the guide's labels.
+- Putting the mass of the metal, salt or fuel into Q = mcΔT. Use the mass of liquid that changed temperature.
+- Dividing by the moles of a reactant in excess; the limiting reactant fixes the energy released.
+- Dividing joules by moles, which makes ΔH a thousand times too big when the unit is kJ mol⁻¹.
+- Leaving off the minus sign on an exothermic answer, or adding one when the water cooled.
+- Labelling a profile's axes "time" and "energy" instead of reaction coordinate and potential energy.
 
 ## Where next
 
-Fix the key facts with the [revision notes](/resources/ib-dp-chemistry-measuring-enthalpy-changes-revision-notes/), then try the [practice set](/resources/ib-dp-chemistry-measuring-enthalpy-changes-practice/). Reactivity 1.2 then uses bond enthalpies and Hess's law for enthalpy changes that cannot be measured directly. See also the [exam preparation page](/resources/ib-dp-chemistry-exam-preparation/).
+Lock in the definitions and methods with the [revision notes](/resources/ib-dp-chemistry-measuring-enthalpy-changes-revision-notes/), then work the [practice set](/resources/ib-dp-chemistry-measuring-enthalpy-changes-practice/). Reactivity 1.2 then uses bond enthalpies and Hess's law for reactions that cannot be measured directly. For exam technique across the course, read the [exam preparation guide](/resources/ib-dp-chemistry-exam-preparation/).
 
 ## Official syllabus
 
-International Baccalaureate Organization, *Diploma Programme Chemistry guide*, first assessment 2025 (published February 2023): Reactivity 1.1, "Measuring enthalpy changes".
+International Baccalaureate Organization, *Diploma Programme Chemistry guide*, first assessment 2025 (published February 2023). Material on this page: Reactivity 1.1 (Measuring enthalpy changes).

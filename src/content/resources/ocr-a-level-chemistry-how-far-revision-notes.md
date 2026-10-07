@@ -20,18 +20,18 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-These revision notes cover section 5.1.2, How far?, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. They cover every lettered outcome, 5.1.2(a) to (h), in Module 5, Physical chemistry and transition elements. H432 is the full A level, and the specification lists Module 5 as assessed in components 01 and 03. For full explanations and longer worked examples, read the [How far? study guide](/resources/ocr-a-level-chemistry-how-far/) first.
+These revision notes cover section 5.1.2, How far?, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. You will find every lettered outcome, 5.1.2(a) to (h), from this second section of Module 5 (Physical chemistry and transition elements). The content belongs to the full A level, and the specification lists Module 5 as assessed in components 01 and 03. If any point here feels thin, go back to the [How far? study guide](/resources/ocr-a-level-chemistry-how-far/), which explains each idea in full with longer examples.
 
-Course links: [OCR chemistry hub](/boards/ocr/a-level/chemistry/), [printable checklist](/checklists/ocr/a-level/chemistry/), [practice questions on this section](/resources/ocr-a-level-chemistry-how-far-practice/) and our [free diagnostics](/diagnostics/).
+Course links: [all H432 sections](/boards/ocr/a-level/chemistry/), [outcome checklist to print](/checklists/ocr/a-level/chemistry/), [practice questions on this section](/resources/ocr-a-level-chemistry-how-far-practice/) and our [free diagnostics](/diagnostics/).
 
 ## Key terms, 5.1.2(a)
 
-- **Mole fraction**, x(A) = amount of A ÷ total amount of gas. No units. All the mole fractions in a mixture add up to 1.
-- **Partial pressure**, p(A) = x(A) × total pressure. The partial pressures add up to the total pressure.
-- **Homogeneous equilibrium**: all species in the same phase.
-- **Heterogeneous equilibrium**: species in more than one phase.
-- **Kc**: equilibrium constant in terms of equilibrium concentrations, mol dm⁻³.
-- **Kp**: equilibrium constant in terms of equilibrium partial pressures, for gases.
+- **Mole fraction**: x(A) = moles of A ÷ total moles of gas present. It has no units, and the values for one mixture sum to 1.
+- **Partial pressure**: x(A) multiplied by the total pressure. Summing every gas's partial pressure gives back the total pressure.
+- **Homogeneous**: every species in the equation shares one phase.
+- **Heterogeneous**: two or more phases are present.
+- **Kc**: built from equilibrium concentrations in mol dm⁻³.
+- **Kp**: built from equilibrium partial pressures; gases only.
 
 ## Expressions and units, 5.1.2(d) and (e)
 
@@ -47,7 +47,7 @@ Course links: [OCR chemistry hub](/boards/ocr/a-level/chemistry/), [printable ch
 Examples of heterogeneous expressions:
 
 - CaO(s) + SO₂(g) ⇌ CaSO₃(s): Kp = 1 / p(SO₂), units kPa⁻¹.
-- Zn(s) + Cu²⁺(aq) ⇌ Zn²⁺(aq) + Cu(s): Kc = [Zn²⁺] / [Cu²⁺], no units.
+- Fe(s) + 2Fe³⁺(aq) ⇌ 3Fe²⁺(aq): Kc = [Fe²⁺]³ / [Fe³⁺]², units mol dm⁻³.
 
 ## Method in steps: Kc from starting amounts, 5.1.2(b) and (e)
 
@@ -69,9 +69,9 @@ Kc = 0.200² / (0.100 × 0.300³) = **14.8 dm⁶ mol⁻²** (n = 2 − 4 = −2)
 4. Multiply by total pressure to get each partial pressure.
 5. Substitute into Kp; work out units.
 
-**Worked reminder.** 2X(g) ⇌ Y(g). At equilibrium 0.60 mol X and 0.20 mol Y; total pressure 200 kPa.
-x(X) = 0.60/0.80 = 0.750, so p(X) = 150 kPa; p(Y) = 50.0 kPa.
-Kp = 50.0 / 150² = **2.22 × 10⁻³ kPa⁻¹**.
+**Worked reminder.** 3M(g) ⇌ N(g). At equilibrium 0.60 mol M and 0.20 mol N; total pressure 200 kPa.
+x(M) = 0.60/0.80 = 0.750, so p(M) = 150 kPa; p(N) = 50.0 kPa.
+Kp = 50.0 / 150³ = **1.48 × 10⁻⁵ kPa⁻²** (n = 1 − 3 = −2).
 
 ## Finding equilibrium quantities by experiment, 5.1.2(c)
 
@@ -127,14 +127,14 @@ The same rules carry over to Ka (5.1.3) and any other K:
 - **Position of equilibrium vs value of K.** Concentration and pressure changes can move the position. A catalyst moves neither. Only temperature changes K.
 - **Kc vs Kp.** Kc uses concentrations in square brackets; Kp uses p( ) and applies to gases.
 - **Homogeneous vs heterogeneous.** In a homogeneous liquid mixture, such as an esterification, water is included. Water is left out only as a pure liquid phase or as the solvent.
-- **Mole fraction vs partial pressure.** Mole fraction has no units; partial pressure does.
+- **Mole fraction vs partial pressure.** A mole fraction is a pure number; a partial pressure carries pressure units.
 
 ## Quick self-test
 
 1. A gas mixture contains 0.20 mol A, 0.30 mol B and 0.50 mol C at 300 kPa. Find p(C).
-2. For A(g) ⇌ 2B(g), p(A) = 40.0 kPa and p(B) = 60.0 kPa at equilibrium. Calculate Kp with units.
+2. Ethanoic acid vapour dimerises: 2CH₃COOH(g) ⇌ (CH₃COOH)₂(g). At equilibrium p(CH₃COOH) = 40.0 kPa and p((CH₃COOH)₂) = 60.0 kPa. Calculate Kp with units.
 3. Give the units of Kc for 2NO(g) + 2CO(g) ⇌ N₂(g) + 2CO₂(g).
-4. Write Kp for MgCO₃(s) ⇌ MgO(s) + CO₂(g) and give its units.
+4. Sodium sulfate decahydrate loses water to dry air: Na₂SO₄·10H₂O(s) ⇌ Na₂SO₄(s) + 10H₂O(g). Write Kp and state its units.
 5. For X(g) ⇌ Y(g) + Z(g), Kc = 0.0450 mol dm⁻³. At equilibrium [Y] = [Z] = 0.0600 mol dm⁻³. Find [X].
 6. P(g) + Q(g) ⇌ 2R(g) in 0.500 dm³: 0.40 mol P, 0.10 mol Q, 0.24 mol R at equilibrium. Find Kc.
 7. The forward reaction is exothermic. What happens to Kp when the temperature rises?
@@ -146,9 +146,9 @@ The same rules carry over to Ka (5.1.3) and any other K:
 ### Answers
 
 1. Total 1.00 mol, x(C) = 0.50, p(C) = **150 kPa**.
-2. Kp = 60.0² / 40.0 = **90.0 kPa**.
+2. Kp = 60.0 / 40.0² = **0.0375 kPa⁻¹**.
 3. n = (1 + 2) − (2 + 2) = −1, so **dm³ mol⁻¹**.
-4. **Kp = p(CO₂)**, units **kPa** (solids left out).
+4. **Kp = p(H₂O)¹⁰**, units **kPa¹⁰** (both solids left out).
 5. [X] = 0.0600² / 0.0450 = **0.0800 mol dm⁻³**.
 6. Concentrations 0.80, 0.20, 0.48 mol dm⁻³; Kc = 0.48² / (0.80 × 0.20) = **1.44**, no units.
 7. **Kp decreases.**
@@ -171,4 +171,4 @@ The same rules carry over to Ka (5.1.3) and any other K:
 
 ## Official syllabus
 
-OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, published by OCR. Section 5.1.2, How far?, in Module 5, Physical chemistry and transition elements.
+Source document: OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017 (OCR). These notes follow its section 5.1.2, How far?, from Module 5.

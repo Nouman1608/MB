@@ -20,7 +20,7 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This study guide teaches section 5.2.2, Enthalpy and entropy, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. The section sits in Module 5, Physical chemistry and transition elements, and has six lettered learning outcomes, 5.2.2(a) to (f), all covered below with worked examples. H432 is the full A level. According to the specification's assessment overview, Module 5 is examined in Periodic table, elements and physical chemistry (01) and Unified chemistry (03). No PAG is linked to this section.
+This study guide teaches section 5.2.2, Enthalpy and entropy, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. The section sits in Module 5, Physical chemistry and transition elements, and has six lettered learning outcomes, 5.2.2(a) to (f), and each one is taught below with worked examples. H432 is a single full A level. Its assessment overview shows that Module 5 is assessed in the Periodic table, elements and physical chemistry component and in the Unified chemistry component. No PAG is linked to this section.
 
 Every H432 topic is linked from the [OCR chemistry hub](/boards/ocr/a-level/chemistry/); tick off outcomes on the [printable checklist](/checklists/ocr/a-level/chemistry/). To find your weak spots first, try the [free diagnostics](/diagnostics/). You will use ∆H values throughout, so revisit [Enthalpy changes](/resources/ocr-a-level-chemistry-enthalpy-changes/) if Hess cycles feel rusty.
 
@@ -57,8 +57,6 @@ For the same substance, S(solid) < S(liquid) < S(gas).
 
 Typical values, in J mol⁻¹ K⁻¹: graphite 5.7 and magnesium oxide 26.9 (both solids), liquid bromine 152.2, and bromine gas 245.5. The jump on boiling (152.2 to 245.5) is much larger than the differences between most solids.
 
-Also, particles with more atoms tend to have higher entropy, and entropy rises as a substance is warmed.
-
 ### (ii) Changing the number of gaseous molecules
 
 Because gases dominate the entropy of a system, the quickest prediction of the sign of ∆S comes from counting gas moles on each side of the equation.
@@ -72,7 +70,7 @@ Because gases dominate the entropy of a system, the quickest prediction of the s
 Predict the sign of ∆S for each change.
 
 1. 2O₃(g) → 3O₂(g): 2 mol of gas become 3 mol, so ∆S is **positive**.
-2. C₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(l): 6 mol of gas become 3 mol (water is liquid), so ∆S is **negative**.
+2. 2C₂H₆(g) + 7O₂(g) → 4CO₂(g) + 6H₂O(l): 9 mol of gas become 4 mol (water is liquid), so ∆S is **negative**.
 3. Br₂(l) → Br₂(g): liquid to gas, so ∆S is **positive**.
 4. MgCO₃(s) → MgO(s) + CO₂(g): no gas becomes 1 mol of gas, so ∆S is **positive**.
 
@@ -96,13 +94,13 @@ Calculate ∆S for MgCO₃(s) → MgO(s) + CO₂(g). Use these values (J mol⁻�
 
 ### Worked example 3: using balancing numbers
 
-Calculate ∆S for 4NH₃(g) + 5O₂(g) → 4NO(g) + 6H₂O(g). Use these values (J mol⁻¹ K⁻¹): NH₃(g) 192.8, O₂(g) 205.2, NO(g) 210.8, H₂O(g) 188.8.
+Aluminium powder burns in oxygen: 4Al(s) + 3O₂(g) → 2Al₂O₃(s). Calculate ∆S. Use these values (J mol⁻¹ K⁻¹): Al(s) 28.3, O₂(g) 205.2, Al₂O₃(s) 50.9.
 
-1. ΣS(products) = 4(210.8) + 6(188.8) = 843.2 + 1132.8 = 1976.0
-2. ΣS(reactants) = 4(192.8) + 5(205.2) = 771.2 + 1026.0 = 1797.2
-3. ∆S = 1976.0 − 1797.2 = **+178.8 J mol⁻¹ K⁻¹**
+1. ΣS(products) = 2(50.9) = 101.8
+2. ΣS(reactants) = 4(28.3) + 3(205.2) = 113.2 + 615.6 = 728.8
+3. ∆S = 101.8 − 728.8 = **−627.0 J mol⁻¹ K⁻¹**
 
-Gas moles rise from 9 to 10, so a positive value makes sense.
+All 3 mol of gas are used up and only solids form, so a large negative value makes sense.
 
 ### Worked example 4: a related quantity
 
@@ -175,25 +173,25 @@ Because ∆G = ∆H − T∆S, a plot of ∆G (y) against T (x) is a straight li
 
 ## 5.2.2(f): Limits of ∆G predictions: kinetics
 
-A negative ∆G tells you a reaction **can** happen. It says nothing about **how fast**. If the activation energy is high, a feasible reaction may be so slow at room temperature that nothing is seen.
+A negative ∆G shows only that a reaction is thermodynamically possible. The rate is a separate question that ∆G cannot answer. If the activation energy is high, a feasible reaction may be so slow at room temperature that nothing is seen.
 
-### Worked example 8: diamond and graphite
+### Worked example 8: a pencil lead in air
 
-For C(diamond) → C(graphite), ∆H = −1.9 kJ mol⁻¹. Entropies are diamond 2.4 and graphite 5.7 J mol⁻¹ K⁻¹.
+For C(graphite) + O₂(g) → CO₂(g), ∆H = −393.5 kJ mol⁻¹. Use these entropies (J mol⁻¹ K⁻¹): C(graphite) 5.7, O₂(g) 205.2, CO₂(g) 213.8.
 
-1. ∆S = 5.7 − 2.4 = +3.3 J mol⁻¹ K⁻¹
-2. ∆G at 298 K = −1.9 − 298 × 0.0033 = **−2.88 kJ mol⁻¹**
+1. ∆S = 213.8 − (5.7 + 205.2) = +2.9 J mol⁻¹ K⁻¹ (1 mol of gas on each side, so the change is small)
+2. ∆G at 298 K = −393.5 − 298 × 0.0029 = −393.5 − 0.86 = **−394.4 kJ mol⁻¹**
 
-The change is feasible, yet diamonds do not turn into graphite at any rate you could detect. Carbon atoms in diamond are held by strong covalent bonds, so the activation energy for rearranging the lattice is very large and the rate is negligible.
+The reaction is strongly feasible, yet a graphite pencil lead or a lump of charcoal sits in air for years unchanged. Strong covalent bonds in graphite and the O=O bond must start to break before products form, so the activation energy is large and the rate at room temperature is negligible.
 
-Other examples: methane and oxygen do not react until a spark supplies energy, and a mixture of aluminium and iron(III) oxide is stable until strongly heated. In each case ∆G is negative but the rate at room temperature is tiny. This is HSW6: you must weigh entropy-based feasibility against rate. A catalyst can speed up a feasible reaction, but it does not change ∆H, ∆S or ∆G, so it cannot make an infeasible reaction feasible.
+Other examples: methane and oxygen do not react until a spark supplies energy, and paper in air stays unburnt until it is lit. In each case ∆G is negative but the rate at room temperature is tiny. This is HSW6: you must weigh entropy-based feasibility against rate. A catalyst can speed up a feasible reaction, but it does not change ∆H, ∆S or ∆G, so it cannot make an infeasible reaction feasible.
 
 When you are asked to estimate an outcome (M0.3), state both parts: the ∆G conclusion, then whether a high activation energy might stop the reaction being observed.
 
 ## Common errors
 
-- Combining ∆S in J mol⁻¹ K⁻¹ directly with ∆H in kJ mol⁻¹, which gives answers a thousand times too large.
-- Using °C instead of kelvin for T.
+- Combining ∆S in J mol⁻¹ K⁻¹ directly with ∆H in kJ mol⁻¹: the T∆S term comes out 1000 times too big.
+- Substituting a Celsius temperature, such as 25, where T must be in kelvin (298).
 - Leaving out elements, such as O₂(g) or H₂(g), from the entropy sum.
 - Forgetting balancing numbers when summing S values.
 - Writing "above" for a threshold temperature when ∆H and ∆S are both negative.

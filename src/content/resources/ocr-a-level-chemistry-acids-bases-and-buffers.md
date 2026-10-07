@@ -20,13 +20,13 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This study guide teaches section 5.1.3, Acids, bases and buffers, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. It sits in Module 5, Physical chemistry and transition elements, and covers every learning outcome from 5.1.3(a) to 5.1.3(o). H432 is the full A level, and the specification states that Module 5 content is assessed in Periodic table, elements and physical chemistry (Component 01) and in Unified chemistry (Component 03).
+This guide teaches section 5.1.3, Acids, bases and buffers, from the H432 specification for OCR A Level Chemistry A (Version 3.1, May 2026; first assessment 2017). Its home is Module 5 (Physical chemistry and transition elements); this page works through each lettered outcome, 5.1.3(a) to 5.1.3(o), of the full H432 A level. The assessment overview places Module 5 in Component 01, and Component 03 draws on every module.
 
-It builds on [2.1.4 Acids](/resources/ocr-a-level-chemistry-acids/) and [Amount of substance](/resources/ocr-a-level-chemistry-amount-of-substance/). When you have worked through it, condense it with the [revision notes](/resources/ocr-a-level-chemistry-acids-bases-and-buffers-revision-notes/) and test yourself with the [practice questions](/resources/ocr-a-level-chemistry-acids-bases-and-buffers-practice/). The [OCR chemistry hub](/boards/ocr/a-level/chemistry/) lists the other topics, the [printable checklist](/checklists/ocr/a-level/chemistry/) lets you tick off each statement, and the [free diagnostics](/diagnostics/) show where your gaps are.
+It builds on [2.1.4 Acids](/resources/ocr-a-level-chemistry-acids/) and [Amount of substance](/resources/ocr-a-level-chemistry-amount-of-substance/). Afterwards, use the [revision notes](/resources/ocr-a-level-chemistry-acids-bases-and-buffers-revision-notes/) and the [practice questions](/resources/ocr-a-level-chemistry-acids-bases-and-buffers-practice/). The [course hub](/boards/ocr/a-level/chemistry/) lists every topic, the [OCR chemistry checklist](/checklists/ocr/a-level/chemistry/) is printable, and a [free diagnostic](/diagnostics/) finds your weakest areas.
 
-## What this unit covers
+## Coverage table
 
-| Spec ref | What you must be able to do |
+| Specification statement | Skill |
 |---|---|
 | 5.1.3(a) | Brønsted–Lowry acids and bases; conjugate pairs; basicity |
 | 5.1.3(b) | Ionic equations for H⁺ with metals and bases |
@@ -44,9 +44,9 @@ It builds on [2.1.4 Acids](/resources/ocr-a-level-chemistry-acids/) and [Amount 
 
 ## Brønsted–Lowry acids and bases: 5.1.3(a)
 
-A **Brønsted–Lowry acid** is a species that donates a proton (H⁺). A **Brønsted–Lowry base** is a species that accepts a proton. This model widens the older idea that acids release H⁺ ions and alkalis release OH⁻ ions in water (2.1.4): bases with no OH⁻, such as NH₃, now fit.
+A **Brønsted–Lowry acid** is a species that donates a proton (H⁺). A **Brønsted–Lowry base** is a species that accepts a proton. The earlier model from 2.1.4 linked acids to H⁺ ions and alkalis to OH⁻ ions. The proton-transfer model is wider, covering bases such as NH₃ that contain no OH⁻: a model developed over time.
 
-An acid and the base it forms on losing H⁺ differ by one H⁺ and form a **conjugate acid–base pair**.
+When an acid loses H⁺, what remains is its **conjugate base**; the two form a **conjugate acid–base pair** and differ by exactly one H⁺.
 
 **Worked example.** Identify the conjugate pairs in this equilibrium.
 
@@ -55,42 +55,34 @@ NH₄⁺ + CO₃²⁻ ⇌ NH₃ + HCO₃⁻
 - NH₄⁺ donates H⁺ and becomes NH₃. Pair 1: acid NH₄⁺, base NH₃.
 - CO₃²⁻ accepts H⁺ and becomes HCO₃⁻. Pair 2: acid HCO₃⁻, base CO₃²⁻.
 
-Each pair has one species on each side of the equation.
-
 **Basicity** is the number of protons one molecule of the acid can donate:
 
 - **monobasic**: HCl, HNO₃, CH₃COOH (only the H in COOH is donated, not the three C–H hydrogens)
 - **dibasic**: H₂SO₄
 - **tribasic**: H₃PO₄
 
-1 mol of H₃PO₄ can neutralise 3 mol of NaOH.
-
 ## The role of H⁺ in acid reactions: 5.1.3(b)
 
-In every reaction of an acid, the reacting particle is H⁺(aq). Spectator ions are left out.
+The reacting particle is always H⁺(aq); ionic equations leave out spectator ions.
 
-- Metal: Zn(s) + 2H⁺(aq) → Zn²⁺(aq) + H₂(g). This is also a redox reaction (see [Redox](/resources/ocr-a-level-chemistry-redox/)).
-- Carbonate: CO₃²⁻(aq) + 2H⁺(aq) → CO₂(g) + H₂O(l). For an insoluble carbonate keep the solid formula: CaCO₃(s) + 2H⁺(aq) → Ca²⁺(aq) + CO₂(g) + H₂O(l).
+- Metal: Zn(s) + 2H⁺(aq) → Zn²⁺(aq) + H₂(g). This is also [redox](/resources/ocr-a-level-chemistry-redox/).
+- Carbonate: CO₃²⁻(aq) + 2H⁺(aq) → CO₂(g) + H₂O(l). An insoluble carbonate stays as a solid formula: MgCO₃(s) + 2H⁺(aq) → Mg²⁺(aq) + H₂O(l) + CO₂(g).
 - Metal oxide: CuO(s) + 2H⁺(aq) → Cu²⁺(aq) + H₂O(l)
 - Alkali: H⁺(aq) + OH⁻(aq) → H₂O(l)
 
 ## Ka and pKa: 5.1.3(c)
 
-A weak acid HA only partly dissociates:
-
-HA(aq) ⇌ H⁺(aq) + A⁻(aq)
-
-The **acid dissociation constant** measures the extent of dissociation:
+A weak acid HA only partly dissociates: HA(aq) ⇌ H⁺(aq) + A⁻(aq). The equilibrium constant, the **acid dissociation constant**, measures the extent of dissociation:
 
 Ka = [H⁺(aq)][A⁻(aq)] / [HA(aq)]   (units mol dm⁻³)
 
-A larger Ka means more dissociation, so a stronger acid. Small Ka values are often turned into pKa:
+Bigger Ka means a stronger acid. Small Ka values are often converted to pKa:
 
 pKa = –log Ka   and   Ka = 10⁻ᵖᴷᵃ
 
 A **smaller** pKa means a **stronger** acid.
 
-**Worked example.** Propanoic acid has Ka = 1.35 × 10⁻⁵ mol dm⁻³. pKa = –log(1.35 × 10⁻⁵) = **4.87**. An acid with pKa = 4.41 has Ka = 10⁻⁴·⁴¹ = **3.89 × 10⁻⁵ mol dm⁻³**, so it is the stronger of the two.
+**Worked example.** Propanoic acid has Ka = 1.35 × 10⁻⁵ mol dm⁻³. pKa = –log(1.35 × 10⁻⁵) = **4.87**. A second acid has pKa = 4.56, so Ka = 10⁻⁴·⁵⁶ = **2.75 × 10⁻⁵ mol dm⁻³**. It is the stronger acid.
 
 ## pH, Kw and strong acids and bases: 5.1.3(d)–(f)
 
@@ -98,46 +90,46 @@ pH is a convenient way to report [H⁺]:
 
 pH = –log[H⁺]   and   [H⁺] = 10⁻ᵖᴴ
 
-Water ionises very slightly: H₂O(l) ⇌ H⁺(aq) + OH⁻(aq). The **ionic product of water** is
+A tiny fraction of water molecules split into ions, H₂O(l) ⇌ H⁺(aq) + OH⁻(aq), and the product of the two ion concentrations is a constant called **Kw**:
 
 Kw = [H⁺(aq)][OH⁻(aq)] = 1.00 × 10⁻¹⁴ mol² dm⁻⁶ at 298 K
 
-Kw changes with temperature, but pure water always has [H⁺] = [OH⁻], so it is neutral even when its pH is not 7.
+Kw varies with temperature, but pure water always has [H⁺] = [OH⁻], so it is neutral even when its pH is not 7.
 
-**Strong monobasic acid:** [H⁺] = [acid]. For 0.0250 mol dm⁻³ HNO₃: pH = –log(0.0250) = **1.60**.
+**Strong monobasic acid:** [H⁺] = [acid]. For 0.0320 mol dm⁻³ HNO₃: pH = –log(0.0320) = **1.49**.
 
-**Strong base:** find [OH⁻], then use Kw. For 0.0400 mol dm⁻³ KOH: [OH⁻] = 0.0400 mol dm⁻³
-[H⁺] = Kw / [OH⁻] = 1.00 × 10⁻¹⁴ / 0.0400 = 2.50 × 10⁻¹³ mol dm⁻³
-pH = –log(2.50 × 10⁻¹³) = **12.60**
+**Strong base:** work out [OH⁻] first, then use Kw. For 0.0560 mol dm⁻³ KOH: [OH⁻] = 0.0560 mol dm⁻³
+[H⁺] = Kw / [OH⁻] = 1.00 × 10⁻¹⁴ / 0.0560 = 1.79 × 10⁻¹³ mol dm⁻³
+pH = –log(1.79 × 10⁻¹³) = **12.75**
 
-For a base that releases two OH⁻ per formula unit, such as Ba(OH)₂, double the concentration first.
+For Ba(OH)₂, double the concentration to get [OH⁻].
 
 ## Weak acid calculations: 5.1.3(g)
 
-Two approximations make the Ka expression easy to use:
+The specification gives two approximations:
 
-1. **[H⁺] = [A⁻]**: the H⁺ from the dissociation of water is negligible.
+1. **[H⁺]equilibrium ≈ [A⁻]equilibrium**: the dissociation of water adds a negligible amount of H⁺.
 2. **[HA]equilibrium ≈ [HA]undissociated**: so little HA dissociates that its concentration hardly changes.
 
-Ka then becomes Ka = [H⁺]² / [HA], so **[H⁺] = √(Ka × [HA])**. You will not be asked to solve a quadratic equation.
+With both in place the expression simplifies to Ka = [H⁺]² / [HA], which rearranges to **[H⁺] = √(Ka × [HA])**. Quadratic equations are not required.
 
-**Worked example: pH from Ka.** Calculate the pH of 0.150 mol dm⁻³ butanoic acid, Ka = 1.48 × 10⁻⁵ mol dm⁻³.
+**Worked example: pH from Ka.** Find the pH of 0.150 mol dm⁻³ butanoic acid, Ka = 1.48 × 10⁻⁵ mol dm⁻³.
 [H⁺] = √(1.48 × 10⁻⁵ × 0.150) = √(2.22 × 10⁻⁶) = 1.49 × 10⁻³ mol dm⁻³
 pH = –log(1.49 × 10⁻³) = **2.83**
 
-**Worked example: Ka from pH.** A 0.0600 mol dm⁻³ solution of a weak monobasic acid HY has pH 2.95.
-[H⁺] = 10⁻²·⁹⁵ = 1.12 × 10⁻³ mol dm⁻³
-Ka = [H⁺]² / [HY] = (1.12 × 10⁻³)² / 0.0600 = **2.10 × 10⁻⁵ mol dm⁻³**
+**Worked example: Ka from pH.** A weak monobasic acid HT at 0.0650 mol dm⁻³ has pH 3.02.
+[H⁺] = 10⁻³·⁰² = 9.55 × 10⁻⁴ mol dm⁻³
+Ka = [H⁺]² / [HT] = (9.55 × 10⁻⁴)² / 0.0650 = **1.40 × 10⁻⁵ mol dm⁻³**
 
 ## When the approximations fail: 5.1.3(h)
 
-The assumption [HA]equilibrium ≈ [HA]undissociated only holds if the fraction dissociated is small. For a "stronger" weak acid (larger Ka), especially at low concentration, a significant fraction dissociates, so [HA]equilibrium is clearly less than the starting concentration.
+[HA]equilibrium ≈ [HA]undissociated only works while the fraction dissociated is small. A "stronger" weak acid (larger Ka), especially when dilute, dissociates enough for [HA]equilibrium to fall clearly below the starting value.
 
 **Worked example.** Chloroethanoic acid, Ka = 1.36 × 10⁻³ mol dm⁻³, at 0.0100 mol dm⁻³.
 Approximate [H⁺] = √(1.36 × 10⁻³ × 0.0100) = 3.69 × 10⁻³ mol dm⁻³, pH 2.43.
-This says about 37% of the acid has dissociated, which contradicts the assumption that hardly any has. The true [HA] is lower, so the true [H⁺] is also lower (about 3.07 × 10⁻³ mol dm⁻³, pH 2.51). The approximation **overestimates [H⁺] and underestimates pH**.
+That answer implies about 37% of the acid has dissociated, which contradicts the assumption that hardly any has. The real [HA] is smaller, so the real [H⁺] is smaller too (about 3.07 × 10⁻³ mol dm⁻³, pH 2.51, found by a method you will not be asked to use). The approximation **overestimates [H⁺] and underestimates pH**.
 
-[H⁺] = [A⁻] also fails if the acid is so weak or dilute that H⁺ from water matters.
+The other approximation, [H⁺] = [A⁻], breaks down when the acid is so weak or so dilute that H⁺ from water is no longer negligible.
 
 ## Buffers: 5.1.3(i)–(m)
 
@@ -146,36 +138,36 @@ A **buffer solution** is a system that minimises pH changes on addition of small
 ### Making an acid buffer (j)
 
 - **(j)(i)** Mix a weak acid with a salt of that acid, e.g. CH₃COOH with CH₃COONa. The salt fully dissociates and supplies a large [A⁻].
-- **(j)(ii)** Add a strong alkali to an **excess** of weak acid, e.g. excess CH₃COOH with NaOH. Some acid becomes salt; the rest stays as HA.
+- **(j)(ii)** Add a strong alkali to an **excess** of weak acid, e.g. excess CH₃COOH with NaOH. Part of the acid becomes salt; the rest stays as HA.
 
 ### How the conjugate pair controls pH (k)
 
-For CH₃COOH/CH₃COO⁻: CH₃COOH ⇌ H⁺ + CH₃COO⁻. Both are present in large amounts.
+For CH₃COOH/CH₃COO⁻ the equilibrium is CH₃COOH ⇌ H⁺ + CH₃COO⁻, and the buffer holds a large reservoir of each partner.
 
-- **Small amount of acid added:** [H⁺] rises. H⁺ reacts with the conjugate base, CH₃COO⁻. The equilibrium shifts to the **left**, removing most of the added H⁺.
-- **Small amount of alkali added:** OH⁻ reacts with H⁺ to form water. CH₃COOH dissociates, shifting the equilibrium to the **right** and restoring H⁺.
+- **Small amount of acid added:** [H⁺] rises. The extra H⁺ combines with the conjugate base, CH₃COO⁻, so the equilibrium moves to the **left** and most of the added H⁺ is used up.
+- **Small amount of alkali added:** OH⁻ reacts with H⁺ to form water. More CH₃COOH dissociates, moving the equilibrium to the **right** and replacing the lost H⁺.
 
-[HA] and [A⁻] are large, so their ratio, and the pH, barely change.
+Because both reservoirs are large, a small addition barely alters the [HA] : [A⁻] ratio, so [H⁺] and pH hardly move.
 
 ### Buffer calculations (l)
 
 Rearrange Ka: **[H⁺] = Ka × [HA] / [A⁻]**, then pH = –log[H⁺]. When [HA] = [A⁻], pH = pKa.
 
-**Worked example (j)(i).** A buffer contains 0.200 mol dm⁻³ propanoic acid and 0.120 mol dm⁻³ sodium propanoate. Ka = 1.35 × 10⁻⁵ mol dm⁻³.
-[H⁺] = 1.35 × 10⁻⁵ × 0.200 / 0.120 = 2.25 × 10⁻⁵ mol dm⁻³
-pH = **4.65**
+**Worked example (j)(i).** A buffer is 0.180 mol dm⁻³ in propanoic acid and 0.240 mol dm⁻³ in sodium propanoate. Ka = 1.35 × 10⁻⁵ mol dm⁻³.
+[H⁺] = 1.35 × 10⁻⁵ × 0.180 / 0.240 = 1.01 × 10⁻⁵ mol dm⁻³
+pH = **4.99**
 
-**Worked example (j)(ii).** 50.0 cm³ of 0.300 mol dm⁻³ butanoic acid (Ka = 1.48 × 10⁻⁵ mol dm⁻³) is mixed with 20.0 cm³ of 0.250 mol dm⁻³ NaOH.
-- n(acid) = 0.0500 × 0.300 = 0.0150 mol; n(OH⁻) = 0.0200 × 0.250 = 0.00500 mol
-- After reaction: n(HA) = 0.0100 mol, n(A⁻) = 0.00500 mol
-- Same total volume, so use the mole ratio: [H⁺] = 1.48 × 10⁻⁵ × 0.0100 / 0.00500 = 2.96 × 10⁻⁵ mol dm⁻³
-- pH = **4.53**
+**Worked example (j)(ii).** 40.0 cm³ of 0.250 mol dm⁻³ butanoic acid (Ka = 1.48 × 10⁻⁵ mol dm⁻³) is mixed with 25.0 cm³ of 0.160 mol dm⁻³ NaOH.
+- n(acid) = 0.0400 × 0.250 = 0.0100 mol; n(OH⁻) = 0.0250 × 0.160 = 0.00400 mol
+- After reaction: n(HA) = 0.00600 mol, n(A⁻) = 0.00400 mol
+- Both are in the same 65.0 cm³, so the mole ratio can replace the concentration ratio: [H⁺] = 1.48 × 10⁻⁵ × 0.00600 / 0.00400 = 2.22 × 10⁻⁵ mol dm⁻³
+- pH = **4.65**
 
 "Related quantities" include the ratio, amount or mass of salt needed for a target pH. Work backwards: find [H⁺] = 10⁻ᵖᴴ, then [A⁻] = Ka × [HA] / [H⁺].
 
 ### Blood pH (m)
 
-Blood plasma is buffered by carbonic acid and hydrogencarbonate, keeping the pH between 7.35 and 7.45:
+In blood plasma, a carbonic acid–hydrogencarbonate buffer keeps the pH between 7.35 and 7.45:
 
 H₂CO₃(aq) ⇌ H⁺(aq) + HCO₃⁻(aq)
 
@@ -184,25 +176,25 @@ H₂CO₃(aq) ⇌ H⁺(aq) + HCO₃⁻(aq)
 
 ## pH titration curves and indicators: 5.1.3(n)
 
-A pH titration curve plots pH against volume of the added solution. Learn the four shapes for adding base to acid, for solutions of about 0.1 mol dm⁻³:
+A pH titration curve plots pH against volume added. To sketch one, mark the starting pH, the equivalence volume and the steep part, then level off towards the pH of the excess reagent. For base added to acid, both at roughly 0.1 mol dm⁻³:
 
-| Acid / base | Start pH | Vertical section | pH at equivalence |
+| Acid in flask, base from burette | Starting pH | Steep section spans | pH where the moles match |
 |---|---|---|---|
-| strong / strong | about 1 | long, roughly pH 3 to 11 | 7 |
-| weak / strong | higher, about 3 | roughly pH 7 to 11 | above 7 |
-| strong / weak | about 1 | roughly pH 3 to 7 | below 7 |
-| weak / weak | about 3 | no sharp vertical section | depends on Ka and Kb |
+| strong acid with strong base | near 1 | about pH 3 up to 11 | 7 |
+| weak acid with strong base | near 3 | about pH 7 up to 11 | above 7 |
+| strong acid with weak base | near 1 | about pH 3 up to 7 | below 7 |
+| weak acid with weak base | near 3 | no sharp steep section | depends on the relative strengths |
 
-On a weak acid–strong base curve, a buffer region forms before equivalence. At half the equivalence volume [HA] = [A⁻], so **pH = pKa**.
+A weak acid–strong base curve rises gently through a buffer region before equivalence. Halfway to equivalence [HA] = [A⁻], so **pH = pKa**.
 
 ### Choosing an indicator
 
-An indicator is suitable if its whole colour-change range lies **within the vertical section** of the curve. Typical ranges are about 3.1–4.4 for methyl orange and about 8.3–10.0 for phenolphthalein, but use the values a question gives.
+Pick an indicator whose entire colour-change range falls **inside the steep section** of the curve. Commonly quoted ranges are about 3.1–4.4 for methyl orange and about 8.3–10.0 for phenolphthalein, but always use the ranges a question supplies.
 
 - strong acid–strong base: either works
 - weak acid–strong base: phenolphthalein
 - strong acid–weak base: methyl orange
-- weak acid–weak base: **no indicator is suitable**, because there is no sharp vertical section
+- weak acid–weak base: **no indicator is suitable**, because there is no sharp steep section
 
 ### Why an indicator changes colour
 
@@ -216,21 +208,20 @@ HIn(aq) ⇌ H⁺(aq) + In⁻(aq)
 
 ## Measuring pH with a pH meter: 5.1.3(o)
 
-PAG11 uses a pH meter, for example to identify unknown solutions. Good technique:
+PAG11 covers pH measurement, for example identifying unknown solutions. Good technique:
 
 1. **Calibrate** the meter with buffer solutions of known pH (for example pH 4, 7 and 10).
-2. Rinse the electrode with deionised water between solutions and blot dry, so one solution does not contaminate the next.
+2. Rinse the electrode with deionised water between solutions and blot dry, to avoid carry-over.
 3. Immerse the bulb fully, stir gently and wait until the reading is steady before recording it.
 4. Keep the temperature constant, since pH depends on temperature.
 5. Store the electrode wet, in its storage solution.
 
 ## Common errors
 
-- Forgetting Kw for a strong base and writing pH = –log[OH⁻].
-- In a (j)(ii) buffer, using the starting amount of acid instead of the amount left after reaction with OH⁻.
-- Naming an indicator whose range lies only partly inside the vertical section.
+- Writing pH = –log[OH⁻] for a strong base instead of using Kw.
+- In a (j)(ii) buffer, using the starting moles of acid, not the moles left.
 - Saying a buffer keeps the pH constant: it only minimises the change.
 
 ## Official syllabus
 
-OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, published by OCR. Section 5.1.3 Acids, bases and buffers, Module 5: Physical chemistry and transition elements.
+Source document: OCR A Level Chemistry A (code H432), specification Version 3.1 dated May 2026; first assessment 2017. This page follows section 5.1.3 Acids, bases and buffers, in Module 5: Physical chemistry and transition elements.

@@ -22,19 +22,19 @@ featured: false
 
 For full explanations and longer worked examples, use the [How fast? study guide](/resources/ocr-a-level-chemistry-how-fast/).
 
-These notes condense section 5.1.1, How fast?, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. They cover outcomes (a) to (k). H432 is the full A level; OCR's assessment overview places Module 5 in Periodic table, elements and physical chemistry (01) and Unified chemistry (03).
+These notes condense section 5.1.1, How fast?, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. They cover outcomes (a) to (k). H432 is the full A level. OCR's assessment overview shows Module 5 being assessed in components 01 and 03 (Periodic table, elements and physical chemistry; Unified chemistry).
 
-Test yourself with the [How fast? practice questions](/resources/ocr-a-level-chemistry-how-fast-practice/). Collision theory and Boltzmann curves sit in [Reaction rates](/resources/ocr-a-level-chemistry-reaction-rates-revision-notes/). The [OCR chemistry hub](/boards/ocr/a-level/chemistry/), the [printable H432 checklist](/checklists/ocr/a-level/chemistry/) and the [free diagnostics](/diagnostics/) help you plan.
+When you are ready, work through the [How fast? practice set](/resources/ocr-a-level-chemistry-how-fast-practice/). Boltzmann curves and collision theory are summarised in the [3.2.2 notes on rates](/resources/ocr-a-level-chemistry-reaction-rates-revision-notes/). For planning, use our [H432 course page](/boards/ocr/a-level/chemistry/), the [printable outcome list](/checklists/ocr/a-level/chemistry/) and a [free diagnostic](/diagnostics/).
 
 ## Definitions (5.1.1(a))
 
 | Term | Meaning |
 |---|---|
-| Rate of reaction | Change in concentration of a reactant or product per unit time (mol dm⁻³ s⁻¹) |
-| Order (with respect to a reactant) | Power of that reactant's concentration in the rate equation |
+| Rate of reaction | How fast a reactant's concentration falls or a product's rises, per second (mol dm⁻³ s⁻¹) |
+| Order (with respect to a reactant) | Exponent on [A] in the rate equation, for reactant A |
 | Overall order | Sum of the individual orders |
 | Rate constant, k | Proportionality constant in the rate equation; fixed at one temperature |
-| Half-life, t½ | Time for a reactant's concentration to halve |
+| Half-life, t½ | Time for [reactant] to fall to half of any starting value |
 | Rate-determining step | Slowest step of a mechanism |
 
 ## Equations you need
@@ -64,8 +64,8 @@ R = 8.314 J mol⁻¹ K⁻¹. OCR's additional guidance says R and the Arrhenius 
 
 **Method in steps**
 
-1. Write k = rate ÷ (concentration terms).
-2. Put in units: mol dm⁻³ s⁻¹ on top, (mol dm⁻³) to the power of the overall order underneath.
+1. Rearrange the rate equation so that k is the subject.
+2. Substitute units: mol dm⁻³ s⁻¹ on top, (mol dm⁻³) to the power of the overall order underneath.
 3. Cancel and write the result with positive powers first.
 
 | Overall order | 0 | 1 | 2 | 3 | 4 |
@@ -105,8 +105,8 @@ R = 8.314 J mol⁻¹ K⁻¹. OCR's additional guidance says R and the Arrhenius 
 ## Mechanisms and the rate-determining step (i)
 
 - Species in the rate equation take part in the rate-determining step, or in a step before it.
-- The orders give the number of each particle involved up to and including that step.
-- A zero-order reactant joins after the slow step.
+- The orders tell you how many of each particle react in the slow step and any steps before it.
+- A reactant that is zero order enters after the slow step.
 - All steps must add up to the overall equation; intermediates cancel.
 
 **Worked reminder.** 2NO₂(g) + F₂(g) → 2NO₂F(g), rate = k[NO₂][F₂].
@@ -125,9 +125,9 @@ Higher temperature: Boltzmann curve shifts to higher energy, a greater proportio
 **Method in steps (graph)**
 
 1. Convert T to kelvin; calculate 1/T and ln k for each point.
-2. Plot ln k (y) against 1/T (x); draw the best-fit line.
-3. Gradient from two points far apart on the line.
-4. Ea = –gradient × R (J mol⁻¹); divide by 1000 for kJ mol⁻¹.
+2. Put ln k on the y-axis and 1/T on the x-axis; draw a line of best fit.
+3. Take the gradient using two well-separated points on that line.
+4. Ea = –gradient × R gives J mol⁻¹; convert to kJ mol⁻¹ by dividing by 10³.
 5. ln A = ln k + (Ea/R)(1/T) using a point on the line; A = e^(ln A). A has the units of k.
 
 **Worked reminder.** Gradient = –8.42 × 10³ K. Ea = 8.42 × 10³ × 8.314 = 7.00 × 10⁴ J mol⁻¹ = **70.0 kJ mol⁻¹**.
@@ -136,7 +136,7 @@ Higher temperature: Boltzmann curve shifts to higher energy, a greater proportio
 
 ## Must-know distinctions
 
-- **Rate vs rate constant:** rate changes as concentrations fall; k does not, unless the temperature changes.
+- **Rate vs k:** the rate drops as reactants are used up; k stays fixed unless T changes.
 - **Order vs stoichiometry:** orders come from experiment, not from the balanced equation.
 - **Concentration–time vs rate–concentration:** the first shows one run over time; the second compares initial rates from several runs.
 - **Continuous monitoring vs initial rates:** one mixture followed over time vs many mixtures each measured at the start.
@@ -152,8 +152,8 @@ Higher temperature: Boltzmann curve shifts to higher energy, a greater proportio
 6. A first-order reaction has t½ = 210 s. Calculate k.
 7. A first-order reaction has k = 0.0150 s⁻¹. Calculate t½.
 8. A rate–concentration graph is a straight line through the origin with gradient 3.6 × 10⁻³ s⁻¹. State the order and k.
-9. For X + 2Y → XY₂, rate = k[X]². Which particles are in the rate-determining step?
-10. A plot of ln k against 1/T has gradient –1.05 × 10⁴ K. Calculate Ea in kJ mol⁻¹.
+9. For 2X + Y → X₂Y, rate = k[X][Y]. Which particles are in the rate-determining step?
+10. The Arrhenius graph for a reaction (ln k on y, 1/T on x) has a gradient of –1.05 × 10⁴ K. Calculate Ea in kJ mol⁻¹.
 11. Explain why 1/t from a clock reaction can be used as a measure of initial rate.
 
 ### Answers
@@ -166,7 +166,7 @@ Higher temperature: Boltzmann curve shifts to higher energy, a greater proportio
 6. k = 0.693 ÷ 210 = **3.30 × 10⁻³ s⁻¹**
 7. t½ = 0.693 ÷ 0.0150 = **46.2 s**
 8. **First order; k = 3.6 × 10⁻³ s⁻¹**
-9. **Two X particles**; Y reacts in a later, fast step.
+9. **One X and one Y**; the second X reacts in a later, fast step.
 10. Ea = 1.05 × 10⁴ × 8.314 = 8.73 × 10⁴ J mol⁻¹ = **87.3 kJ mol⁻¹**
 11. Only a small fixed amount of product forms in time t, so the rate is nearly constant and close to the initial rate; rate = amount ÷ t, so **rate ∝ 1/t**.
 
@@ -179,12 +179,12 @@ Higher temperature: Boltzmann curve shifts to higher energy, a greater proportio
 - Measuring each half-life from t = 0 instead of between successive halvings.
 - Using k = ln 2/t½ for a zero-order or second-order reaction.
 - Putting a zero-order reactant into the proposed slow step.
-- Plotting ln k against T instead of 1/T, or using T in °C.
+- Using T, or a temperature in °C, on the x-axis of an Arrhenius plot instead of 1/T in K⁻¹.
 - Giving Ea in J mol⁻¹ when kJ mol⁻¹ was asked for, or dropping the minus sign in Ea = –gradient × R.
 
 ## Next steps
 
-Go back to the [study guide](/resources/ocr-a-level-chemistry-how-fast/) for any section you found slow, then do the [practice questions](/resources/ocr-a-level-chemistry-how-fast-practice/).
+If a section felt shaky, reread it in the [How fast? study guide](/resources/ocr-a-level-chemistry-how-fast/). Then attempt the [How fast? practice set](/resources/ocr-a-level-chemistry-how-fast-practice/) under timed conditions.
 
 ## Official syllabus
 

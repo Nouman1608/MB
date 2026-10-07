@@ -27,7 +27,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-This set covers Topic 15B: Carbonyl compounds of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017, outcomes 15.6 to 15.8. Topic 15B belongs to Unit 4: Rates, Equilibria and Further Organic Chemistry, an International A2 (IA2) unit. Work through the [study guide](/resources/edexcel-ial-chemistry-carbonyl-compounds/) and [revision notes](/resources/edexcel-ial-chemistry-carbonyl-compounds-revision-notes/) first; the [checklist](/checklists/edexcel/a-level/chemistry/) and [course hub](/boards/edexcel/a-level/chemistry/) list the other topics, and a free [diagnostic](/diagnostics/) helps you find gaps.
+This set covers Topic 15B: Carbonyl compounds, outcomes 15.6 to 15.8, as set out in Issue 1 (September 2017) of Pearson Edexcel's International Advanced Subsidiary/Advanced Level in Chemistry specification, YCH11. Unit 4 (Rates, Equilibria and Further Organic Chemistry) is where this IA2 topic is examined. If you have not yet covered it, start with the [study guide](/resources/edexcel-ial-chemistry-carbonyl-compounds/) and [revision notes](/resources/edexcel-ial-chemistry-carbonyl-compounds-revision-notes/). For every other topic, visit the [hub page for this course](/boards/edexcel/a-level/chemistry/) or print the [checklist](/checklists/edexcel/a-level/chemistry/); the free [diagnostic quizzes](/diagnostics/) point out weak areas.
 
 Use these relative atomic masses where needed: C 12.0, H 1.0, O 16.0, Ag 107.9, I 126.9.
 
@@ -35,18 +35,19 @@ Use these relative atomic masses where needed: C 12.0, H 1.0, O 16.0, Ag 107.9, 
 
 **1.** Name or give formulae as instructed.
 
-**(a)** Name CH₃CH₂CH(CH₃)CHO. **[1]**
+**(a)** Name (CH₃)₂CHCH(CH₃)CHO. **[1]**
 **(b)** Name CH₃CH₂COCH₂CH₂CH₂CH₃. **[1]**
 **(c)** Give the structural formula of 3,3-dimethylbutan-2-one. **[1]**
 
-**2.** Three carbonyl compounds have the molecular formula C₄H₈O.
+**2.** Four aldehydes share the molecular formula C₅H₁₀O.
 
-**(a)** Give the structural formula and name of each. **[3]**
-**(b)** State which of them give a pale yellow precipitate when warmed with iodine and sodium hydroxide solution, and which give a silver mirror with Tollens' reagent. **[2]**
+**(a)** Give the structural formula and name of each. **[4]**
+**(b)** Identify the one aldehyde whose molecules contain a chiral carbon. **[1]**
+**(c)** Explain why none of the four gives a pale yellow precipitate when warmed with iodine and sodium hydroxide solution. **[1]**
 
 **3.** Use these boiling temperatures: pentane (Mr 72) 36 °C; butanal (Mr 72) 75 °C; butan-1-ol (Mr 74) 118 °C.
 
-**(a)** Explain the order of boiling temperatures in terms of intermolecular forces. **[4]**
+**(a)** Account for the order of these boiling temperatures by comparing the forces between molecules in each liquid. **[4]**
 **(b)** Butanal is partly soluble in water but pentane is almost insoluble. Explain this difference. **[2]**
 
 **4.** Describe two chemical tests that, together, identify each of propanal, butanone and pentan-3-one. Give the reagents, conditions and the result for each compound. **[4]**
@@ -59,8 +60,8 @@ Use these relative atomic masses where needed: C 12.0, H 1.0, O 16.0, Ag 107.9, 
 
 **6.** Lithium tetrahydridoaluminate(III) reduces carbonyl compounds.
 
-**(a)** Name the organic product when 2-methylbutanal is reduced, and classify it as a primary, secondary or tertiary alcohol. **[2]**
-**(b)** Explain why the reaction is carried out in dry ether. **[1]**
+**(a)** Name the organic product when 3-methylpentan-2-one is reduced, and classify it as a primary, secondary or tertiary alcohol. **[2]**
+**(b)** Give the reason the solvent must be ether with no water present. **[1]**
 **(c)** Write an equation for the reduction of cyclohexanone, C₆H₁₀O, to cyclohexanol, using [H]. **[1]**
 **(d)** 4.90 g of cyclohexanone gave 3.85 g of cyclohexanol. Calculate the percentage yield. **[2]**
 
@@ -69,7 +70,7 @@ Use these relative atomic masses where needed: C 12.0, H 1.0, O 16.0, Ag 107.9, 
 **(a)** State the role of the potassium cyanide. **[1]**
 **(b)** Describe the mechanism of this reaction. Your answer should refer to dipoles, lone pairs, curly arrows and the intermediate. **[4]**
 **(c)** Name the organic product. **[1]**
-**(d)** The product has a chiral carbon, but the product mixture does not rotate plane-polarised light. Explain why. **[2]**
+**(d)** A polarimeter shows zero overall rotation for the product mixture, even though each product molecule is chiral. Explain this observation. **[2]**
 
 **8.** A carbonyl compound Z has the molecular formula C₅H₁₀O. A student adds Z to 2,4-DNPH, filters off the solid derivative and measures its melting temperature: 136–141 °C. After recrystallisation the derivative melts at 143–144 °C. Use these derivative melting temperatures: pentanal 107 °C; 3-methylbutan-2-one 120 °C; 3-methylbutanal 123 °C; pentan-2-one 144 °C; pentan-3-one 156 °C.
 
@@ -81,7 +82,7 @@ Use these relative atomic masses where needed: C 12.0, H 1.0, O 16.0, Ag 107.9, 
 
 **9.** 1.44 g of butanone is warmed with excess iodine and sodium hydroxide solution.
 
-**(a)** Write the equation for the reaction. **[1]**
+**(a)** Give a balanced equation for this reaction, using NaOH. **[1]**
 **(b)** Name the organic product other than triiodomethane. **[1]**
 **(c)** 5.12 g of triiodomethane, CHI₃, is collected. Calculate the percentage yield. **[3]**
 
@@ -99,16 +100,17 @@ Use these relative atomic masses where needed: C 12.0, H 1.0, O 16.0, Ag 107.9, 
 
 ## Answers
 
-**1. (a)** **2-methylbutanal** [1]
+**1. (a)** **2,3-dimethylbutanal** [1]
 **(b)** **Heptan-3-one** [1]
 **(c)** **CH₃COC(CH₃)₃** [1]
 *Examiner insight:* For a ketone, check the locant from both ends of the chain and keep the lower number.
 
-**2. (a)** CH₃CH₂CH₂CHO, **butanal** [1]; (CH₃)₂CHCHO, **2-methylpropanal** [1]; CH₃CH₂COCH₃, **butanone** [1]
-**(b)** Iodoform (pale yellow precipitate): **butanone** only, as it has CH₃CO– [1]. Silver mirror: **butanal and 2-methylpropanal** [1].
-*Examiner insight:* A name with a formula that does not match it is a contradiction, so make sure each pair agrees.
+**2. (a)** CH₃CH₂CH₂CH₂CHO, **pentanal** [1]; CH₃CH₂CH(CH₃)CHO, **2-methylbutanal** [1]; (CH₃)₂CHCH₂CHO, **3-methylbutanal** [1]; (CH₃)₃CCHO, **2,2-dimethylpropanal** [1]
+**(b)** **2-methylbutanal**: its C2 carries H, CH₃, C₂H₅ and CHO [1].
+**(c)** None has a CH₃CO– group: in each, the C=O carbon carries H, not CH₃ [1].
+*Examiner insight:* Before writing a fourth isomer, check it is not one you already have, drawn or numbered from the other end; a repeat earns nothing.
 
-**3. (a)** All three have similar numbers of electrons, so similar London forces [1]. Butanal also has permanent dipole–dipole forces from the polar C=O bond [1]. Butanal has no H bonded to O, so it cannot form hydrogen bonds between its molecules [1]. Butan-1-ol forms hydrogen bonds through O–H; these are the strongest forces here and need the most energy to overcome [1].
+**3. (a)** The three molecules have about the same number of electrons, so their London forces are similar [1]. Butanal also has permanent dipole–dipole forces from the polar C=O bond [1]. Butanal has no H bonded to O, so it cannot form hydrogen bonds between its molecules [1]. Butan-1-ol forms hydrogen bonds through O–H; these are the strongest forces here and need the most energy to overcome [1].
 **(b)** The δ− carbonyl oxygen of butanal uses a lone pair to accept a hydrogen bond from a water H [1]; pentane has no δ− atom with a lone pair, so it cannot hydrogen bond to water [1].
 *Examiner insight:* Talk about forces between molecules; any mention of covalent bonds breaking on boiling contradicts the answer.
 
@@ -120,21 +122,21 @@ Use these relative atomic masses where needed: C 12.0, H 1.0, O 16.0, Ag 107.9, 
 **(c)** n(aldehyde) = 0.731 ÷ 86.0 = 0.00850 mol [1]; n(Ag) = 2 × 0.00850 = 0.0170 mol [1]; mass = 0.0170 × 107.9 = **1.83 g** [1]
 *Examiner insight:* The 1 : 2 ratio comes from the two electrons each aldehyde loses; a 1 : 1 ratio halves the answer.
 
-**6. (a)** **2-methylbutan-1-ol** [1]; **primary** [1]
+**6. (a)** **3-methylpentan-2-ol** [1]; **secondary** [1]
 **(b)** LiAlH₄ reacts violently with water, so water must be absent [1].
 **(c)** C₆H₁₀O + 2[H] → C₆H₁₂O [1]
 **(d)** n = 4.90 ÷ 98.0 = 0.0500 mol, so maximum mass = 0.0500 × 100.0 = 5.00 g [1]; yield = 3.85 ÷ 5.00 × 100 = **77.0%** [1]
 *Examiner insight:* Reduction of a carbonyl needs 2[H]; a single [H] leaves the equation unbalanced.
 
 **7. (a)** It supplies cyanide ions, the nucleophile, because HCN is a weak acid and barely ionises [1].
-**(b)** C=O is polar, δ+ on C and δ− on O; CN⁻ has a lone pair on carbon [1]. A curly arrow goes from the lone pair on the C of CN⁻ to the carbonyl carbon [1]. A curly arrow from the C=O π bond to O gives an intermediate with O⁻ and a new C–CN bond [1]. A lone pair on O⁻ forms a bond to the H of HCN (arrow from the H–C bond to C), giving the product and regenerating CN⁻ [1].
+**(b)** C=O is polar, δ+ on C and δ− on O; CN⁻ has a lone pair on carbon [1]. A curly arrow starts at the carbon lone pair of CN⁻ and ends on the carbonyl carbon [1]. A curly arrow from the C=O π bond to O gives an intermediate with O⁻ and a new C–CN bond [1]. A lone pair on O⁻ forms a bond to the H of HCN (arrow from the H–C bond to C), giving the product and regenerating CN⁻ [1].
 **(c)** **2-hydroxypentanenitrile** [1]
-**(d)** The carbonyl group is planar, so CN⁻ attacks from either side with equal probability [1]; equal amounts of the two enantiomers form, a racemic mixture, whose rotations cancel [1].
+**(d)** Attack on the planar C=O happens from above and below equally often [1]; so the two enantiomers form 50 : 50, a racemic mixture, and their opposite rotations cancel [1].
 *Examiner insight:* Start the first arrow at the lone pair on carbon, not at the negative charge on N.
 
 **8. (a)** A yellow-orange precipitate [1].
 **(b)** Impurities lower the melting temperature and make it melt over a range [1].
-**(c)** Dissolve the solid in the minimum volume of hot solvent, then cool so crystals form [1]; filter, wash with a little cold solvent and dry [1].
+**(c)** Add just enough hot solvent to dissolve the solid, then let it cool so crystals form [1]; filter, wash with a little cold solvent and dry [1].
 **(d)** **Pentan-2-one** [1]
 **(e)** Warm with iodine and sodium hydroxide solution: a pale yellow precipitate forms [1]; pentan-2-one has a CH₃CO– group but pentan-3-one does not [1].
 *Examiner insight:* Match the purified value, not the crude one; the crude range points nowhere useful.
@@ -168,13 +170,13 @@ Use these relative atomic masses where needed: C 12.0, H 1.0, O 16.0, Ag 107.9, 
 
 ## Next steps
 
-- [All free 10-minute diagnostics](/diagnostics/)
-- [Book a free trial class](/trial/)
-- [Course hub with every unit](/boards/edexcel/a-level/chemistry/)
-- [Checklist for this course](/checklists/edexcel/a-level/chemistry/)
-- [Carbonyl compounds study guide](/resources/edexcel-ial-chemistry-carbonyl-compounds/)
-- [Carbonyl compounds revision notes](/resources/edexcel-ial-chemistry-carbonyl-compounds-revision-notes/)
+- [All free 10-minute diagnostics](/diagnostics/), to see which topics need work
+- [Carbonyl compounds revision notes](/resources/edexcel-ial-chemistry-carbonyl-compounds-revision-notes/) for a final recap
+- [Printable chemistry checklist](/checklists/edexcel/a-level/chemistry/) to tick off 15.6 to 15.8
+- [Carbonyl compounds study guide](/resources/edexcel-ial-chemistry-carbonyl-compounds/) to relearn anything you missed
+- Want live teaching? [Book a free trial class](/trial/)
+- [Hub page for this course](/boards/edexcel/a-level/chemistry/), listing the other units
 
 ## Official syllabus
 
-Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited -- Unit 4, Topic 15B: Carbonyl compounds, outcomes 15.6 to 15.8.
+Source: Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry, specification XCH11/YCH11, Issue 1, September 2017 (Pearson Education Limited). This set covers Topic 15B: Carbonyl compounds, outcomes 15.6 to 15.8, in Unit 4.

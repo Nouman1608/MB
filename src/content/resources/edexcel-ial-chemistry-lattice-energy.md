@@ -21,127 +21,129 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This guide teaches Topic 12B: Lattice energy from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers learning outcomes 12.12 to 12.19. Topic 12 sits in Unit 4: Rates, Equilibria and Further Organic Chemistry, which is International A2 (IA2) content. It builds on ionic bonding and polarisation from Unit 1 and on Hess's law from Unit 2.
+This guide teaches part 12B, Lattice energy, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017, taking outcomes 12.12 to 12.19 in order. All of it is International A2 (IA2) content, assessed in the specification's Unit 4: Rates, Equilibria and Further Organic Chemistry. It builds on Hess's law and Group 2 chemistry (Unit 2) and on ionic bonding (Unit 1).
 
-When you have worked through it, condense it with the [lattice energy revision notes](/resources/edexcel-ial-chemistry-lattice-energy-revision-notes/) and test yourself with the [lattice energy practice questions](/resources/edexcel-ial-chemistry-lattice-energy-practice/). Tick off each outcome on the [Edexcel A Level Chemistry checklist](/checklists/edexcel/a-level/chemistry/), and find every other topic on the [course hub](/boards/edexcel/a-level/chemistry/). If polarising power is hazy, reread [ionic and covalent bonding](/resources/edexcel-ial-chemistry-ionic-and-covalent-bonding/) first.
+Once you have read it, shorten it into memory aids with the [lattice energy revision notes](/resources/edexcel-ial-chemistry-lattice-energy-revision-notes/), then try the [lattice energy practice questions](/resources/edexcel-ial-chemistry-lattice-energy-practice/). Tick each outcome off on the [Edexcel A Level Chemistry checklist](/checklists/edexcel/a-level/chemistry/), and browse the other topics on the [course hub](/boards/edexcel/a-level/chemistry/). If charge density and polarising power feel rusty, revisit [ionic and covalent bonding](/resources/edexcel-ial-chemistry-ionic-and-covalent-bonding/) before section 12.15.
 
-## What this topic covers
+## Coverage at a glance
 
-| Outcome | What you must be able to do |
+| Spec ref | You need to... |
 |---|---|
 | 12.12 | Define standard enthalpy change of atomisation, electron affinity and lattice energy |
-| 12.13 | Construct Born-Haber cycles and calculate from them |
-| 12.14 | Compare experimental and theoretical lattice energies to judge covalent character |
-| 12.15 | Explain covalency in ionic bonds as polarisation of anions by cations |
+| 12.13 | Build Born-Haber cycles and calculate any missing step |
+| 12.14 | Compare experimental and theoretical lattice energies to judge the degree of covalent bonding |
+| 12.15 | Explain that covalency in an ionic bond comes from polarisation of anions by cations |
 | 12.16 | Define enthalpy change of solution and enthalpy change of hydration of an ion |
-| 12.17 | Use energy cycles and energy level diagrams to calculate ΔsolH |
-| 12.18 | Explain how ionic charge and radius affect ΔhydH and lattice energy |
-| 12.19 | Use entropy and enthalpy changes of solution to predict solubility; explain Group 2 solubility trends |
+| 12.17 | Calculate ΔsolH with energy cycles and energy level diagrams |
+| 12.18 | Explain how ionic charge and ionic radius affect ΔhydH and lattice energy |
+| 12.19 | Predict solubility from entropy and enthalpy changes of solution; explain the Unit 2 solubility trends |
 
-## 12.12 The three new definitions
+## 12.12 Three definitions to learn word for word
 
-**Standard enthalpy change of atomisation, ΔatH.** The enthalpy change when one mole of gaseous atoms is formed from the element in its standard state, under standard conditions (100 kPa and a stated temperature, usually 298 K). It is always endothermic.
+All three refer to standard conditions: a pressure of 100 kPa, normally quoted at 298 K.
 
-- Rb(s) → Rb(g)
+**Standard enthalpy change of atomisation, ΔatH.** The enthalpy change for producing 1 mol of separate gaseous atoms from an element in its standard state. Breaking bonds and separating particles always needs energy, so ΔatH is always positive.
+
+- Cs(s) → Cs(g)
 - ½Cl₂(g) → Cl(g)
-- ½Br₂(l) → Br(g)  (this includes vaporising the liquid as well as breaking the bond)
+- ½I₂(s) → I(g)  (iodine must be sublimed as well as split)
 
-The key words are "one mole of gaseous atoms". For chlorine, ΔatH is half the Cl–Cl bond enthalpy, not the whole of it.
+ΔatH(Cl) is half the Cl–Cl bond enthalpy, because it refers to 1 mol of atoms.
 
-**Electron affinity.** The first electron affinity is the enthalpy change when each atom in one mole of gaseous atoms gains one electron to form one mole of gaseous 1− ions.
+**Electron affinity.** The first electron affinity is the enthalpy change when 1 mol of gaseous atoms each pick up one electron, giving 1 mol of gaseous 1− ions.
 
-- Cl(g) + e⁻ → Cl⁻(g)  (exothermic: the nucleus attracts the incoming electron)
-- O⁻(g) + e⁻ → O²⁻(g)  (second electron affinity, endothermic)
+- Cl(g) + e⁻ → Cl⁻(g)  (exothermic: the incoming electron is pulled in by the nucleus)
+- O⁻(g) + e⁻ → O²⁻(g)  (second electron affinity: endothermic)
 
-The second electron affinity is endothermic because the electron is being added to an ion that is already negative, so energy must be supplied to overcome the repulsion.
+The second value is positive because the new electron approaches a particle that is already negatively charged. Work has to be done against that repulsion.
 
-**Lattice energy.** In this specification, lattice energy is the enthalpy change when one mole of an ionic solid is formed from its gaseous ions, under standard conditions. It is therefore exothermic (negative):
+**Lattice energy.** This specification defines lattice energy as an exothermic quantity: the enthalpy change when gaseous ions come together to make 1 mol of an ionic solid.
 
-- Rb⁺(g) + Cl⁻(g) → RbCl(s)
+- Cs⁺(g) + Cl⁻(g) → CsCl(s)
 - Mg²⁺(g) + 2F⁻(g) → MgF₂(s)
 
-Lattice energy cannot be measured directly. You find it indirectly with a Born-Haber cycle.
+It cannot be measured directly, so it is found indirectly with a Born-Haber cycle.
 
-## 12.13 Born-Haber cycles
+## 12.13 Building and using Born-Haber cycles
 
-A Born-Haber cycle is a Hess's law cycle. One route forms the ionic solid directly from its elements (ΔfH). The other route goes the long way round: atomise each element, ionise the metal, add electrons to the non-metal atoms, then bring the gaseous ions together (lattice energy). Both routes have the same overall enthalpy change.
+A Born-Haber cycle applies Hess's law to the formation of an ionic solid. The direct route is ΔfH: elements in their standard states turn straight into the solid. The indirect route turns the elements into gaseous atoms, then gaseous ions, and finally packs the ions into the lattice. Both routes start and finish at the same place, so their enthalpy changes are equal:
 
 ΔfH = ΔatH(metal) + ionisation energies + ΔatH(non-metal) + electron affinities + lattice energy
 
-On an energy level diagram, endothermic steps are drawn upward and exothermic steps downward. Elements in their standard states sit at zero. Every level should be labelled with its species and state symbols.
+To draw the cycle as an energy level diagram, put the elements on a baseline at zero. Endothermic steps (atomisation, ionisation, second electron affinity) go up; exothermic steps (first electron affinity, lattice energy, usually ΔfH) go down. Label every level with its species and state symbols, and keep free electrons on the levels where they exist, for example Cs⁺(g) + e⁻ + Cl(g).
 
-### Worked example 1: lattice energy of rubidium chloride
+### Worked example 1: lattice energy of caesium chloride
 
-Use these values (kJ mol⁻¹): ΔfH(RbCl) = −435; ΔatH(Rb) = +81; first ionisation energy of Rb = +403; ΔatH(Cl) = +122; first electron affinity of Cl = −349.
+Use these values (kJ mol⁻¹): ΔfH(CsCl) = −443; first ionisation energy of Cs = +376; ΔatH(Cs) = +76; ΔatH(Cl) = +122; first electron affinity of Cl = −349.
 
-Step 1. Add the steps that turn the elements into gaseous ions:
+Step 1. Total the steps that convert the elements into gaseous ions:
 
-81 + 403 + 122 + (−349) = +257 kJ mol⁻¹
+76 + 376 + 122 + (−349) = +225 kJ mol⁻¹
 
-Step 2. Apply Hess's law: ΔfH = (sum of steps) + lattice energy, so
+Step 2. Hess's law gives −443 = +225 + lattice energy, so
 
-lattice energy = −435 − (+257) = **−692 kJ mol⁻¹**
+lattice energy = −443 − 225 = **−668 kJ mol⁻¹**
 
-Check the sign: forming a lattice from gaseous ions releases energy, so the answer must be negative.
+Ions attracting each other release energy, so a negative answer makes sense.
 
-### Worked example 2: a 1:2 compound
+### Worked example 2: a compound with two anions
 
-Use these values (kJ mol⁻¹) to calculate ΔfH(MgF₂): ΔatH(Mg) = +148; first and second ionisation energies of Mg = +738 and +1451; ΔatH(F) = +79; first electron affinity of F = −328; lattice energy of MgF₂ = −2957.
+Use these values (kJ mol⁻¹) to find ΔfH(MgF₂): ΔatH(Mg) = +148; first and second ionisation energies of Mg = +738 and +1451; ΔatH(F) = +79; first electron affinity of F = −328; lattice energy of MgF₂ = −2957.
 
 Magnesium steps: 148 + 738 + 1451 = +2337
 
-Fluorine steps: you need two moles of F atoms and two F⁻ ions, so 2(79) + 2(−328) = −498
+Fluorine steps: the formula needs 2 mol of F atoms and 2 mol of F⁻ ions, so 2(79) + 2(−328) = −498
 
 ΔfH = 2337 + (−498) + (−2957) = **−1118 kJ mol⁻¹**
 
-The most common error is forgetting to double the atomisation and electron affinity terms when the formula has two anions.
+Common slips: one fluorine term instead of two, or a missing second ionisation energy.
 
-## 12.14 and 12.15 Experimental against theoretical lattice energy
+## 12.14 and 12.15 Experimental and theoretical values
 
-There are two ways to get a lattice energy.
+You can arrive at a lattice energy in two independent ways.
 
-- **Experimental** (from a Born-Haber cycle): uses measured enthalpy changes, so it reflects the bonding that really exists.
-- **Theoretical** (from electrostatic theory): calculated by assuming the solid is made of perfect spheres with evenly spread charge, held together only by electrostatic attraction. This is the pure ionic model.
+- **Experimental**: worked out from a Born-Haber cycle built on measured enthalpy changes. It therefore includes whatever bonding is really present.
+- **Theoretical**: calculated from electrostatic theory, treating the ions as perfect spheres with evenly spread charge that interact only through electrostatic attraction and repulsion. This is the purely ionic model.
 
-If the two values agree closely, the pure ionic model describes the compound well. If the experimental value is noticeably more exothermic than the theoretical value, the bonding is stronger than the ionic model predicts. That extra strength comes from some covalent character.
+When the two numbers are close, the ionic model is a good description. When the experimental value is clearly more exothermic, the ions are bonded more strongly than pure electrostatics allows. The extra bonding is partial covalent character.
 
-### Worked example 3: interpreting the comparison
+### Worked example 3: reading the comparison
 
 Use these values (kJ mol⁻¹):
 
-| Compound | Experimental | Theoretical | Difference |
-|---|---|---|---|
-| RbCl | −692 | −680 | 12 (1.8%) |
-| AgCl | −905 | −833 | 72 (8.6%) |
+| Compound | Experimental | Theoretical | Gap | Gap as % of theoretical |
+|---|---|---|---|---|
+| CsCl | −668 | −652 | 16 | 2.5% |
+| AgCl | −905 | −833 | 72 | 8.6% |
 
-RbCl fits the ionic model well. AgCl does not: its experimental lattice energy is 72 kJ mol⁻¹ more exothermic than theory predicts, so its bonding has significant covalent character.
+CsCl fits the ionic model well. AgCl does not: its experimental value is 72 kJ mol⁻¹ more exothermic than theory predicts, so its bonding has significant covalent character. Percentages help when lattice energies differ greatly in size.
 
-### Why covalency appears: polarisation
+### The cause: polarisation
 
-A cation attracts the electron cloud of a neighbouring anion and distorts it. This is polarisation. The distorted cloud is pulled into the region between the two nuclei, so some electron density is shared. That is partial covalent bonding, and it adds to the attraction.
+A cation pulls on the electron cloud of a neighbouring anion and distorts it. The distortion is called polarisation. Some anion electron density is drawn into the space between the two nuclei, where it is shared. Shared electron density is a partial covalent bond, and it strengthens the lattice beyond the ionic prediction.
 
 Polarisation is greatest when:
 
-- the cation is small and highly charged (high charge density, so high polarising power);
-- the anion is large and highly charged (its outer electrons are far from its nucleus, so it is easily polarised).
+- the cation is small and highly charged, so its charge density and polarising power are high;
+- the anion is large and highly charged, so its outer electrons are far from its nucleus and easily pulled out of shape.
 
-So you expect most covalent character in a compound such as MgI₂ (small 2+ cation, large anion) and least in one such as CsF (large 1+ cation, small anion). The Born-Haber evidence (the gap between experimental and theoretical values) is what shows this covalency is real.
+You would therefore predict much covalent character in MgI₂ and very little in CsF. The Born-Haber comparison in 12.14 is the evidence that the effect is real.
 
-## 12.16 Enthalpy change of solution and of hydration
+## 12.16 Solution and hydration: two more definitions
 
-**Enthalpy change of solution, ΔsolH.** The enthalpy change when one mole of an ionic solid dissolves in enough water that the ions are far apart and do not interact (an infinitely dilute solution), under standard conditions.
+**Enthalpy change of solution, ΔsolH.** The enthalpy change when 1 mol of an ionic compound dissolves in so much water that its ions no longer influence one another (infinite dilution), under standard conditions.
 
 CsI(s) + aq → Cs⁺(aq) + I⁻(aq)
 
-**Enthalpy change of hydration, ΔhydH, of an ion.** The enthalpy change when one mole of gaseous ions dissolves in water to form one mole of aqueous ions, under standard conditions.
+**Enthalpy change of hydration, ΔhydH, of an ion.** The enthalpy change when 1 mol of a gaseous ion becomes surrounded by water to give 1 mol of that ion in aqueous solution, under standard conditions.
 
 Cs⁺(g) + aq → Cs⁺(aq)
 
-Hydration is always exothermic. Water molecules are polar: the δ− oxygen atoms are attracted to cations, and the δ+ hydrogen atoms are attracted to anions.
+Hydration always releases energy. Water is polar: cations attract the partially negative oxygen end of water molecules, while anions attract the partially positive hydrogen ends.
 
-## 12.17 Calculating enthalpy change of solution
+## 12.17 Finding ΔsolH from a cycle
 
-Think of dissolving in two imaginary stages: break the lattice into gaseous ions (the reverse of lattice energy, so endothermic), then hydrate the gaseous ions (exothermic).
+Split dissolving into two imagined stages. First, separate the solid into gaseous ions; this is the reverse of lattice energy, so it is endothermic. Second, hydrate those gaseous ions, which is exothermic.
 
 ΔsolH = −(lattice energy) + Σ ΔhydH(ions)
 
@@ -149,34 +151,36 @@ Think of dissolving in two imaginary stages: break the lattice into gaseous ions
 
 Use these values (kJ mol⁻¹): lattice energy of CsI = −604; ΔhydH(Cs⁺) = −276; ΔhydH(I⁻) = −297.
 
-Step 1. Breaking the lattice: +604
+Step 1. Separate the lattice: +604
 
-Step 2. Hydrating the ions: −276 + (−297) = −573
+Step 2. Hydrate both ions: −276 + (−297) = −573
 
 Step 3. ΔsolH = 604 + (−573) = **+31 kJ mol⁻¹**
 
-On an energy level diagram, draw CsI(s) at a low level. Draw Cs⁺(g) + I⁻(g) high above it, joined by an upward arrow labelled −(lattice energy) = +604. From the gaseous ions draw a downward arrow of 573 to Cs⁺(aq) + I⁻(aq). That final level ends 31 kJ mol⁻¹ above CsI(s), so the dissolving is endothermic.
+For the energy level diagram, put CsI(s) low down and Cs⁺(g) + I⁻(g) well above it, joined by an upward arrow of +604 labelled as the reverse of the lattice energy. A downward arrow of 573 from the gaseous ions reaches Cs⁺(aq) + I⁻(aq). That level finishes 31 kJ mol⁻¹ above the solid, which shows the dissolving is endothermic.
 
-When the formula has two of one ion, multiply that ion's hydration enthalpy by two.
+If the formula holds two of an ion, count its hydration enthalpy twice.
 
-## 12.18 Effect of ionic charge and ionic radius
+The specification also suggests a practical: calculate the enthalpy change when a variety of ionic solids dissolve in water.
 
-Both lattice energy and hydration enthalpy come from electrostatic attraction, so both follow the same rules.
+## 12.18 How charge and radius matter
 
-- **Higher ionic charge** gives stronger attraction, so lattice energy and ΔhydH become more exothermic. Mg²⁺ is hydrated far more exothermically than Na⁺, and an oxide lattice is far stronger than a similar chloride lattice.
-- **Smaller ionic radius** lets ions (or water molecules) get closer, so attraction is stronger and both values become more exothermic. Down Group 1, ΔhydH of the cations becomes less exothermic. A fluoride has a more exothermic lattice energy than the iodide of the same metal.
+Lattice energy and hydration enthalpy both come from electrostatic attraction, so the same two factors control them.
 
-Charge usually has the larger effect. Doubling the charge on both ions roughly quadruples the attraction, while radius changes between neighbouring ions are much smaller.
+- **Greater ionic charge** means stronger attraction, so both values become more exothermic. Ca²⁺ is hydrated much more exothermically than K⁺, and an oxide lattice is far stronger than the matching chloride lattice.
+- **Smaller ionic radius** lets the attracting particles get closer, again making both values more exothermic. Hydration enthalpies of Group 1 cations become less exothermic down the group, and a metal fluoride has a more exothermic lattice energy than the iodide of the same metal.
 
-## 12.19 Predicting solubility
+Charge usually wins. Doubling both charges roughly quadruples the attraction, while the radius differences between neighbouring ions are small by comparison.
 
-Enthalpy change of solution alone does not decide solubility. Many salts with endothermic ΔsolH dissolve readily. You need the total entropy change, as in Topic 12A:
+## 12.19 Will it dissolve?
 
-ΔStotal = ΔSsystem + ΔSsurroundings, where ΔSsurroundings = −ΔsolH / T
+ΔsolH alone cannot settle solubility; many salts dissolve endothermically. Use the total entropy change from part 12A:
 
-A salt dissolves (to form a solution of standard concentration) when ΔStotal is positive. Convert ΔsolH from kJ to J before dividing.
+ΔStotal = ΔSsystem + ΔSsurroundings, with ΔSsurroundings = −ΔsolH / T
 
-Two entropy effects compete inside ΔSsystem. Ions leaving an ordered lattice increases disorder. Water molecules held tightly around small or highly charged ions decreases disorder. For small, highly charged ions the second effect can win, so ΔSsystem can be negative.
+When ΔStotal is positive, dissolving is feasible. Put ΔsolH into J mol⁻¹ before dividing by T.
+
+Two effects compete inside ΔSsystem. Ions escaping from an ordered lattice increase disorder. Water molecules locked into shells around small or highly charged ions reduce disorder. With small, highly charged ions the second effect can dominate, so ΔSsystem may be negative.
 
 ### Worked example 5: rubidium chloride
 
@@ -186,7 +190,7 @@ Use these values at 298 K: ΔsolH = +17.3 kJ mol⁻¹; S⦵ (J mol⁻¹ K⁻¹):
 
 ΔSsurroundings = −17 300 / 298 = −58.1 J mol⁻¹ K⁻¹
 
-ΔStotal = 82.1 + (−58.1) = **+24.0 J mol⁻¹ K⁻¹**, so RbCl is soluble even though dissolving it is endothermic.
+ΔStotal = 82.1 + (−58.1) = **+24.0 J mol⁻¹ K⁻¹**. RbCl dissolves even though the process takes in heat.
 
 ### Worked example 6: barium sulfate
 
@@ -194,31 +198,31 @@ Use these values at 298 K: ΔsolH = +26.3 kJ mol⁻¹; ΔSsystem = −102.5 J mo
 
 ΔSsurroundings = −26 300 / 298 = −88.3 J mol⁻¹ K⁻¹
 
-ΔStotal = −102.5 + (−88.3) = **−190.8 J mol⁻¹ K⁻¹**, so BaSO₄ is insoluble. The negative ΔSsystem comes from water molecules being held in order around the 2+ and 2− ions.
+ΔStotal = −102.5 + (−88.3) = **−190.8 J mol⁻¹ K⁻¹**, so BaSO₄ is predicted to be insoluble. Both terms are negative; ΔSsystem is negative because water is held in order around the doubly charged ions.
 
-### Group 2 trends from Unit 2
+### Explaining the Group 2 trends from Unit 2
 
-In Unit 2 you learned that Group 2 hydroxides become more soluble down the group and Group 2 sulfates become less soluble. Lattice and hydration enthalpies explain both.
+Outcome 8.15 asked you to know that Group 2 hydroxides get more soluble down the group while Group 2 sulfates get less soluble. Compare how lattice energy and cation hydration change.
 
-- **Sulfates.** The sulfate ion is large. As the cation gets bigger down the group, the distance between ion centres hardly changes in proportion, so lattice energy becomes only slightly less exothermic. Cation hydration enthalpy becomes much less exothermic. ΔsolH therefore becomes more endothermic down the group, and solubility falls.
-- **Hydroxides.** The hydroxide ion is small. A bigger cation makes a large proportional difference to the distance between ions, so lattice energy becomes much less exothermic. This falls faster than the hydration enthalpy, so ΔsolH becomes more exothermic (more favourable) and solubility rises.
+- **Sulfates.** SO₄²⁻ is a large ion. As the cation grows down the group, the distance between ion centres changes only a little in proportion, so lattice energy becomes only slightly less exothermic. Cation hydration becomes much less exothermic. ΔsolH becomes more endothermic, and solubility falls.
+- **Hydroxides.** OH⁻ is small, so a larger cation makes a big proportional change to the distance between ions. Lattice energy becomes less exothermic faster than hydration enthalpy does, so ΔsolH becomes more favourable and solubility rises.
 
 ## Common errors
 
-- Writing lattice energy as the endothermic breaking of a lattice. In this specification it is the exothermic formation of the solid from gaseous ions.
-- Using the whole bond enthalpy of Cl₂ for ΔatH(Cl), instead of half.
-- Forgetting the second ionisation energy for a 2+ cation, or not doubling anion terms in MgF₂-type compounds.
-- Leaving out state symbols in definitions and equations. Lattice energy needs (g) ions and an (s) product.
-- Dividing kJ by K and comparing with J mol⁻¹ K⁻¹ entropy values.
-- Saying a salt with endothermic ΔsolH must be insoluble.
-- Saying a large gap between experimental and theoretical values means the compound "is covalent". It means the ionic bonding has some covalent character.
+- Describing lattice energy as the energy to break a lattice apart. Here it is the exothermic formation of the solid from gaseous ions.
+- Using the full Cl–Cl bond enthalpy for ΔatH(Cl).
+- Missing the second ionisation energy of a 2+ ion, or the doubled anion terms in MgF₂-type formulae.
+- Omitting state symbols. Lattice energy equations need (g) on the ions and (s) on the product.
+- Dividing a ΔsolH in kJ by T and then adding it to entropies in J mol⁻¹ K⁻¹.
+- Deciding that an endothermic ΔsolH means a salt cannot dissolve.
+- Saying a big experimental–theoretical gap means the compound "is covalent". It shows partial covalent character in ionic bonding.
 
 ## Next steps
 
-- Condense this guide with the [lattice energy revision notes](/resources/edexcel-ial-chemistry-lattice-energy-revision-notes/).
-- Test yourself with the [lattice energy practice questions](/resources/edexcel-ial-chemistry-lattice-energy-practice/).
-- Find weak spots fast with the free [diagnostics](/diagnostics/).
+- Shorten this guide with the [lattice energy revision notes](/resources/edexcel-ial-chemistry-lattice-energy-revision-notes/).
+- Check yourself with the [lattice energy practice questions](/resources/edexcel-ial-chemistry-lattice-energy-practice/).
+- Find your weakest topics with the free [diagnostics](/diagnostics/).
 
 ## Official syllabus
 
-Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, published by Pearson Education Limited. Topic 12: Entropy and Energetics, part 12B: Lattice energy, outcomes 12.12 to 12.19.
+Source document: Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, Pearson Education Limited. Section taught here: 12B Lattice energy (outcomes 12.12 to 12.19), within Topic 12, Entropy and Energetics.

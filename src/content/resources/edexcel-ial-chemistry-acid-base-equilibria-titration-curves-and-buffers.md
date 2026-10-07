@@ -112,7 +112,7 @@ Typical ranges (in a question, always use the values you are given):
 
 ## 14.17 and 14.18 Buffer solutions
 
-A **buffer solution** minimises the change in pH when small amounts of acid or alkali are added. It does not keep pH perfectly constant, and large additions overwhelm it.
+A **buffer solution** is one whose pH changes very little when a small amount of acid or alkali is added to it. It does not hold the pH perfectly constant, and a large addition overwhelms it.
 
 Acidic buffers contain a weak acid and its conjugate base (usually supplied as a salt), for example propanoic acid with sodium propanoate. Basic buffers contain a weak base and its conjugate acid, for example ammonia with ammonium chloride.
 
@@ -137,25 +137,25 @@ Rearrange the Ka expression:
 [H⁺] = Ka × [HA] / [A⁻]        or        pH = pKa − log([HA]/[A⁻])
 ```
 
-Assume the dissociation of HA is negligible and all A⁻ comes from the salt. Both species share one volume, so moles can replace concentrations in the ratio. A buffer can also be made by partly neutralising a weak acid with a strong base.
+Assume the dissociation of HA is negligible and all A⁻ comes from the salt. Both species share one volume, so moles can replace concentrations in the ratio. Another route is to add less strong base than the weak acid needs for neutralisation: the leftover acid and the anion formed make the buffer.
 
 ### Worked example 3: partial neutralisation
 
-40.0 cm³ of 0.150 mol dm⁻³ lactic acid (Ka = 1.4 × 10⁻⁴ mol dm⁻³) is mixed with 12.0 cm³ of 0.200 mol dm⁻³ NaOH. Find the pH, then the pH after adding 1.00 cm³ of 0.500 mol dm⁻³ HCl.
+45.0 cm³ of 0.120 mol dm⁻³ lactic acid (use Ka = 1.4 × 10⁻⁴ mol dm⁻³) is mixed with 18.0 cm³ of 0.125 mol dm⁻³ NaOH. Find the pH, then the pH after adding 1.00 cm³ of 0.500 mol dm⁻³ HCl.
 
 ```
-moles HA at start = 0.0400 × 0.150 = 6.00 × 10⁻³ mol
-moles OH⁻ added   = 0.0120 × 0.200 = 2.40 × 10⁻³ mol
-HA left = 3.60 × 10⁻³ mol;  A⁻ formed = 2.40 × 10⁻³ mol
-[H⁺] = 1.4 × 10⁻⁴ × 3.60/2.40 = 2.1 × 10⁻⁴ mol dm⁻³
-pH = 3.68
+moles HA at start = 0.0450 × 0.120 = 5.40 × 10⁻³ mol
+moles OH⁻ added   = 0.0180 × 0.125 = 2.25 × 10⁻³ mol
+HA left = 3.15 × 10⁻³ mol;  A⁻ formed = 2.25 × 10⁻³ mol
+[H⁺] = 1.4 × 10⁻⁴ × 3.15/2.25 = 1.96 × 10⁻⁴ mol dm⁻³
+pH = 3.71
 
-HCl = 5.00 × 10⁻⁴ mol converts A⁻ to HA: HA = 4.10 × 10⁻³, A⁻ = 1.90 × 10⁻³
-[H⁺] = 1.4 × 10⁻⁴ × 4.10/1.90 = 3.02 × 10⁻⁴ mol dm⁻³
-pH = 3.52
+HCl = 5.00 × 10⁻⁴ mol converts A⁻ to HA: HA = 3.65 × 10⁻³, A⁻ = 1.75 × 10⁻³
+[H⁺] = 1.4 × 10⁻⁴ × 3.65/1.75 = 2.92 × 10⁻⁴ mol dm⁻³
+pH = 3.53
 ```
 
-The pH falls by only 0.16. The same HCl in 53 cm³ of pure water would give pH 2.03.
+The pH falls by less than 0.2. The same HCl added to 63.0 cm³ of pure water (64.0 cm³ in total) would give pH 2.11.
 
 ## 14.20 Making a buffer of a chosen pH
 
@@ -225,7 +225,7 @@ Neither concentration needs to be known. Alternatively, measure the pH of an aci
 ## Common errors
 
 - Assuming every equivalence point is at pH 7.
-- Choosing an indicator whose range only partly overlaps the vertical section.
+- Picking an indicator that starts or finishes changing colour outside the vertical section.
 - Using starting moles in a buffer ratio instead of the moles left after reaction.
 - Writing [H⁺] = Ka × [A⁻]/[HA] with the ratio upside down.
 - Reading the pH at the equivalence point and calling it pKa: it is the pH at half that volume.

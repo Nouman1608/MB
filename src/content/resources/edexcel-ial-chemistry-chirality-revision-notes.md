@@ -21,7 +21,7 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-These notes condense Topic 15A: Chirality of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017, outcomes 15.1 to 15.5. The topic is part of Unit 4: Rates, Equilibria and Further Organic Chemistry, an International A2 (IA2) unit. For full explanations and longer worked examples, read the [chirality study guide](/resources/edexcel-ial-chemistry-chirality/) first.
+These notes condense Topic 15A: Chirality of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017, outcomes 15.1 to 15.5. You meet it in Unit 4: Rates, Equilibria and Further Organic Chemistry, one of the International A2 (IA2) units. The [chirality study guide](/resources/edexcel-ial-chemistry-chirality/) has the full explanations and longer worked examples; read it first.
 
 Also useful: the [chirality practice questions](/resources/edexcel-ial-chemistry-chirality-practice/), the [printable checklist](/checklists/edexcel/a-level/chemistry/), the [course hub](/boards/edexcel/a-level/chemistry/) and a free [diagnostic](/diagnostics/) to see which topics need work.
 
@@ -30,11 +30,11 @@ Also useful: the [chirality practice questions](/resources/edexcel-ial-chemistry
 | Term | Definition |
 |---|---|
 | Chiral | Cannot be superimposed on its own mirror image |
-| Chiral centre (asymmetric carbon atom) | A carbon atom bonded to four different atoms or groups |
-| Optical isomers (enantiomers) | Object and non-superimposable mirror images of each other |
+| Chiral centre (asymmetric carbon atom) | A carbon atom that carries four different atoms or groups |
+| Optical isomers (enantiomers) | Object and non-superimposable mirror images |
 | Optical activity | The ability of a single optical isomer to rotate the plane of polarisation of plane-polarised monochromatic light |
-| Racemic mixture (racemate) | A mixture of equal amounts of the two enantiomers; it is not optically active |
-| Stereoisomers | Same structural formula, different arrangement of atoms in space |
+| Racemic mixture (racemate) | Equal amounts of both enantiomers mixed together; not optically active |
+| Stereoisomers | Molecules sharing one structural formula whose atoms are arranged differently in space |
 
 ## 15.1 and 15.2: Spotting chiral centres
 
@@ -95,7 +95,7 @@ For 2-bromopentanoic acid you might put C₃H₇ and COOH on plain bonds, Br on 
 
 ## Must-know distinctions
 
-- **Chiral molecule vs optically active sample.** A racemic sample is made of chiral molecules but shows no net rotation.
+- **Chiral molecules vs an optically active sample.** A racemic sample is made of chiral molecules but shows no net rotation.
 - **Racemic mixture vs achiral compound.** Both give a zero reading; only one has enantiomers.
 - **Inversion vs change of sign.** SN2 inverts the arrangement in space. It does not let you predict whether the product is (+) or (−).
 - **Geometric vs optical isomerism.** Geometric (E/Z) isomers come from restricted rotation about C=C (see the [alkenes guide](/resources/edexcel-ial-chemistry-alkenes/)); optical isomers come from a chiral centre.
@@ -118,7 +118,7 @@ For 2-bromopentanoic acid you might put C₃H₇ and COOH on plain bonds, Br on 
 
 ### Answers
 
-1. A carbon atom bonded to four different atoms or groups.
+1. A carbon atom that carries four different atoms or groups.
 2. Yes. The carbon carries H, Br, Cl and F: four different atoms.
 3. C2: H, NH₂, CH₃ and C₄H₉.
 4. C3 carries two identical ethyl groups, so it is not a chiral centre, and no other carbon is chiral.
@@ -129,13 +129,13 @@ For 2-bromopentanoic acid you might put C₃H₇ and COOH on plain bonds, Br on 
 9. SN1. The C–X bond breaks to give a planar carbocation; the nucleophile attacks either face with equal probability, giving a racemic mixture.
 10. No. C2 in both the reactant and the product carries two methyl groups, so neither is chiral and both would give zero rotation whatever the mechanism.
 11. No. The new chiral centre forms by CN⁻ attack on either side of the planar C=O with equal probability, giving a racemic mixture.
-12. A mixture containing equal amounts of the two enantiomers of a compound, which is not optically active.
+12. Equal amounts of the two enantiomers of a compound mixed together; it does not rotate the plane of polarisation.
 
 ## Where marks are usually lost
 
 - Defining optical activity without "plane-polarised" or "monochromatic", or saying light is "bent" instead of the plane being rotated.
 - Missing a chiral centre with no hydrogen on it, as in a tertiary alcohol or halogenoalkane.
-- Calling a carbon chiral when two of its groups are identical chains, such as two propyl groups.
+- Marking a carbon as chiral even though it carries two identical chains, such as two propyl groups.
 - Drawing the second "enantiomer" as the same molecule rotated, instead of a mirror image.
 - Bonding OH or COOH to the chiral carbon through the wrong atom in a 3D diagram.
 - Saying a racemic product "has no chiral centre".

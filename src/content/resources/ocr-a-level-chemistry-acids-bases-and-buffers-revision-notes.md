@@ -20,9 +20,9 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-For full explanations and longer worked examples, use the [Acids, bases and buffers study guide](/resources/ocr-a-level-chemistry-acids-bases-and-buffers/).
+Full explanations and longer worked examples are in the [Acids, bases and buffers study guide](/resources/ocr-a-level-chemistry-acids-bases-and-buffers/).
 
-These notes cover section 5.1.3, Acids, bases and buffers, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. They run through every learning outcome from 5.1.3(a) to (o) in Module 5, Physical chemistry and transition elements. H432 is the full A level. When you have revised, try the [practice questions](/resources/ocr-a-level-chemistry-acids-bases-and-buffers-practice/), tick each outcome off on the [printable checklist](/checklists/ocr/a-level/chemistry/), and find other topics on the [OCR chemistry hub](/boards/ocr/a-level/chemistry/). A [free diagnostic](/diagnostics/) will show you which topics need most work.
+These notes condense section 5.1.3, Acids, bases and buffers, of the H432 specification for OCR A Level Chemistry A (Version 3.1, May 2026; first assessment 2017). Every lettered outcome, (a) through (o), is included. H432 is the full A level, and this content is part of its Module 5 on physical chemistry and transition elements. After revising, attempt the [practice questions](/resources/ocr-a-level-chemistry-acids-bases-and-buffers-practice/), mark off each statement on the [printable OCR chemistry checklist](/checklists/ocr/a-level/chemistry/), and use the [course hub](/boards/ocr/a-level/chemistry/) to move to the next topic. A [free diagnostic](/diagnostics/) will tell you where to spend your time.
 
 ## Definitions to learn word for word
 
@@ -51,18 +51,18 @@ These notes cover section 5.1.3, Acids, bases and buffers, of the OCR A Level Ch
 | Weak acid | [H⁺] = √(Ka × [HA]) | |
 | Buffer | [H⁺] = Ka × [HA] / [A⁻] | |
 
-Larger Ka, or smaller pKa, means a stronger acid. A change of 1 pH unit is a tenfold change in [H⁺].
+A bigger Ka, or a smaller pKa, signals a stronger acid. Each step of 1 in pH is a factor of 10 in [H⁺].
 
 ## Ionic equations: the role of H⁺ (5.1.3(b))
 
-Write only the H⁺ and the species it reacts with:
+Show only H⁺ and the species it reacts with:
 
 - metal: Mg(s) + 2H⁺(aq) → Mg²⁺(aq) + H₂(g)
 - carbonate: CO₃²⁻(aq) + 2H⁺(aq) → CO₂(g) + H₂O(l)
 - metal oxide: ZnO(s) + 2H⁺(aq) → Zn²⁺(aq) + H₂O(l)
 - alkali: H⁺(aq) + OH⁻(aq) → H₂O(l)
 
-Keep insoluble solids as full formulae.
+Insoluble solids keep their full formulae.
 
 ## Method in steps
 
@@ -71,7 +71,7 @@ Keep insoluble solids as full formulae.
 2. [H⁺] = 1.00 × 10⁻¹⁴ / [OH⁻].
 3. pH = –log[H⁺].
 
-Reminder: a strong base at pH 11.20 has [H⁺] = 6.31 × 10⁻¹², so [OH⁻] = (1.00 × 10⁻¹⁴) / (6.31 × 10⁻¹²) = 1.58 × 10⁻³ mol dm⁻³.
+Working backwards: a strong base solution of pH 11.65 has [H⁺] = 10⁻¹¹·⁶⁵ = 2.24 × 10⁻¹² mol dm⁻³, so [OH⁻] = (1.00 × 10⁻¹⁴) / (2.24 × 10⁻¹²) = 4.47 × 10⁻³ mol dm⁻³.
 
 **Weak acid (5.1.3(g))**
 1. Write Ka = [H⁺]² / [HA].
@@ -93,23 +93,23 @@ Reminder: a strong base at pH 11.20 has [H⁺] = 6.31 × 10⁻¹², so [OH⁻] =
 
 ## Small worked reminders
 
-**Half-neutralised acid.** 40.0 cm³ of 0.150 mol dm⁻³ HZ (Ka = 5.6 × 10⁻⁵ mol dm⁻³) is mixed with 15.0 cm³ of 0.200 mol dm⁻³ NaOH.
-- n(HZ) = 0.0400 × 0.150 = 0.00600 mol; n(OH⁻) = 0.0150 × 0.200 = 0.00300 mol
-- n(Z⁻) = 0.00300 mol; n(HZ) left = 0.00300 mol
-- The amounts are equal, so pH = pKa = –log(5.6 × 10⁻⁵) = **4.25**
+**Half-neutralised acid.** 30.0 cm³ of 0.180 mol dm⁻³ HZ (Ka = 7.2 × 10⁻⁵ mol dm⁻³) is mixed with 27.0 cm³ of 0.100 mol dm⁻³ NaOH.
+- n(HZ) = 0.0300 × 0.180 = 0.00540 mol; n(OH⁻) = 0.0270 × 0.100 = 0.00270 mol
+- n(Z⁻) = 0.00270 mol; n(HZ) left = 0.00270 mol
+- Equal amounts, so pH = pKa = –log(7.2 × 10⁻⁵) = **4.14**
 
-**Dilution check.** Diluting a strong monobasic acid 100 times raises its pH by 2, because [H⁺] falls 100 times. Diluting a weak acid 100 times raises its pH by only about 1, because [H⁺] depends on √[HA], so it falls only 10 times. More of the weak acid dissociates as it is diluted.
+**Dilution check.** Make a strong monobasic acid 100 times more dilute and its pH goes up by 2, since [H⁺] drops by a factor of 100. Do the same to a weak acid and the pH goes up by only about 1: [H⁺] follows √[HA], so it drops by a factor of about 10. A larger fraction of the weak acid dissociates as it becomes more dilute.
 
-**Units of Ka.** Ka = [H⁺][A⁻] / [HA] has units (mol dm⁻³ × mol dm⁻³) / mol dm⁻³ = mol dm⁻³. Kw has units mol² dm⁻⁶ because nothing cancels.
+**Units of Ka.** In [H⁺][A⁻] / [HA], two concentration units on top and one underneath leave mol dm⁻³. In Kw nothing is divided, so the units are mol² dm⁻⁶.
 
 ## Approximation limits (5.1.3(h))
 
-[HA]equilibrium ≈ [HA]undissociated fails for "stronger" weak acids (large Ka), particularly when dilute. A significant fraction dissociates, so the real [HA] is lower than the starting value. The approximation then gives an [H⁺] that is too high and a pH that is too low. As a rough guide, if the approximate [H⁺] is more than a few per cent of the starting concentration, the result is unreliable. You will not be asked to solve the quadratic.
+The assumption [HA]equilibrium ≈ [HA]undissociated breaks down for "stronger" weak acids (large Ka), particularly in dilute solution. A significant fraction dissociates, so the real [HA] is lower than the starting value. The approximation then gives an [H⁺] that is too high and a pH that is too low. A useful test: if the approximate [H⁺] is more than a few per cent of the starting concentration, treat the answer with suspicion. You will not be asked to solve the quadratic.
 
 ## Buffers in one box (5.1.3(i)–(m))
 
 - **Two ways to make an acid buffer:** weak acid + its salt (CH₃COOH/CH₃COONa), or excess weak acid + strong alkali (excess CH₃COOH/NaOH).
-- **The conjugate pair:** HA ⇌ H⁺ + A⁻, with large amounts of both HA and A⁻.
+- **The conjugate pair:** in HA ⇌ H⁺ + A⁻, the buffer keeps big reserves of HA and of A⁻.
 - **Add acid:** H⁺ + A⁻ → HA; equilibrium shifts **left**.
 - **Add alkali:** OH⁻ + H⁺ → H₂O; HA dissociates, equilibrium shifts **right**.
 - **Equal [HA] and [A⁻]:** pH = pKa.
@@ -117,19 +117,19 @@ Reminder: a strong base at pH 11.20 has [H⁺] = 6.31 × 10⁻¹², so [OH⁻] =
 
 ## Titration curves and indicators (5.1.3(n))
 
-| Titration | Vertical section (about) | Equivalence pH | Indicator |
+| Titration | Steep section (approx.) | Equivalence pH | Indicator |
 |---|---|---|---|
 | strong acid / strong base | 3–11 | 7 | methyl orange or phenolphthalein |
 | weak acid / strong base | 7–11 | above 7 | phenolphthalein |
 | strong acid / weak base | 3–7 | below 7 | methyl orange |
 | weak acid / weak base | none sharp | varies | none suitable |
 
-Typical ranges: methyl orange about 3.1–4.4 (red in acid, yellow in alkali); phenolphthalein about 8.3–10.0 (colourless in acid, pink in alkali). Use the ranges a question gives you.
+Commonly quoted ranges: methyl orange about 3.1–4.4 (red in acid, yellow in alkali); phenolphthalein about 8.3–10.0 (colourless in acid, pink in alkali). In a question, always use the ranges it supplies.
 
-- **Rule:** the indicator's whole range must sit inside the vertical section.
+- **Rule:** the indicator's whole range must sit inside the steep section.
 - **Indicator as a weak acid:** HIn ⇌ H⁺ + In⁻. Acid shifts it left (colour of HIn); alkali removes H⁺ and shifts it right (colour of In⁻).
-- **Reading pKa from a curve:** at half the equivalence volume of a weak acid–strong base titration, pH = pKa.
-- **Sketching:** mark the start pH, the equivalence volume and the vertical section clearly.
+- **Reading pKa from a curve:** when a weak acid is titrated with a strong base, the pH halfway to equivalence equals pKa.
+- **Sketching:** mark the start pH, the equivalence volume and the steep section clearly.
 
 ## pH meter (5.1.3(o), PAG11)
 
@@ -137,21 +137,21 @@ Calibrate with buffers of known pH; rinse the electrode with deionised water bet
 
 ## Must-know distinctions
 
-- **Strong vs concentrated:** strong means fully dissociated; concentrated means a lot of solute per dm³.
-- **Equivalence point vs end point:** equivalence is when exact reacting amounts have been added; end point is when the indicator changes colour.
-- **Ka vs pKa:** large Ka means strong; large pKa means weak.
-- **Neutral vs pH 7:** neutral means [H⁺] = [OH⁻]; pH 7 is neutral only at 298 K.
-- **Buffer vs neutral solution:** a buffer resists pH change; it need not be at pH 7.
+- **Strength and concentration:** a strong acid dissociates completely; a concentrated acid simply has a large amount of acid in each dm³. So you can meet a weak acid at high concentration, or a strong one at low concentration.
+- **Equivalence point and end point:** at equivalence, exactly enough of one solution has been run in to react with the other; the end point is simply the volume at which you see the indicator turn.
+- **Ka and pKa:** the two move in opposite directions, so a weak acid has a small Ka but a large pKa.
+- **Neutral and pH 7:** a neutral solution is one where [H⁺] and [OH⁻] are equal; that coincides with pH 7 only at 298 K.
+- **Buffer and neutral solution:** a buffer resists pH change at whatever pH it is set; it need not be at pH 7.
 
 ## Quick self-test
 
 1. Calculate the pH of 0.00320 mol dm⁻³ HCl.
-2. A solution has pH 3.70. Calculate [H⁺].
-3. Calculate the pH of 0.0750 mol dm⁻³ NaOH at 298 K.
+2. A solution has pH 4.15. Calculate [H⁺].
+3. Calculate the pH of 0.0650 mol dm⁻³ NaOH at 298 K.
 4. An acid has Ka = 2.9 × 10⁻⁴ mol dm⁻³. Calculate pKa.
 5. An acid has pKa = 3.14. Calculate Ka.
-6. A weak acid with Ka = 3.0 × 10⁻⁵ mol dm⁻³ is at 0.0500 mol dm⁻³. Calculate its pH.
-7. A buffer has [HA] = [A⁻] and the acid's pKa is 4.30. State the pH.
+6. A weak acid with Ka = 2.7 × 10⁻⁵ mol dm⁻³ is at 0.0800 mol dm⁻³. Calculate its pH.
+7. A buffer has [HA] = [A⁻] and the acid's pKa is 4.38. State the pH.
 8. Give the conjugate base of H₂PO₄⁻ and the conjugate acid of HSO₄⁻.
 9. Which indicator suits a strong acid–weak base titration, and why?
 10. Explain why H₃PO₄ is tribasic but CH₃COOH is monobasic.
@@ -160,14 +160,14 @@ Calibrate with buffers of known pH; rinse the electrode with deionised water bet
 ### Answers
 
 1. pH = –log(0.00320) = **2.49**
-2. [H⁺] = 10⁻³·⁷⁰ = **2.00 × 10⁻⁴ mol dm⁻³**
-3. [H⁺] = 1.00 × 10⁻¹⁴ / 0.0750 = 1.33 × 10⁻¹³ mol dm⁻³; pH = **12.88**
+2. [H⁺] = 10⁻⁴·¹⁵ = **7.08 × 10⁻⁵ mol dm⁻³**
+3. [H⁺] = 1.00 × 10⁻¹⁴ / 0.0650 = 1.54 × 10⁻¹³ mol dm⁻³; pH = **12.81**
 4. pKa = –log(2.9 × 10⁻⁴) = **3.54**
 5. Ka = 10⁻³·¹⁴ = **7.24 × 10⁻⁴ mol dm⁻³**
-6. [H⁺] = √(3.0 × 10⁻⁵ × 0.0500) = 1.22 × 10⁻³ mol dm⁻³; pH = **2.91**
-7. pH = pKa = **4.30**
+6. [H⁺] = √(2.7 × 10⁻⁵ × 0.0800) = 1.47 × 10⁻³ mol dm⁻³; pH = **2.83**
+7. pH = pKa = **4.38**
 8. **HPO₄²⁻** and **H₂SO₄**
-9. **Methyl orange**: the vertical section is roughly pH 3–7 and methyl orange changes colour within it; phenolphthalein's range lies above it.
+9. **Methyl orange**: the steep section runs from roughly pH 3 to 7, and methyl orange changes colour inside it; phenolphthalein changes above it.
 10. H₃PO₄ can donate **three** protons per molecule; CH₃COOH can donate only the **one** on its COOH group.
 11. Electrode readings drift, so calibrating against buffers of **known pH** makes the readings accurate.
 
@@ -186,4 +186,4 @@ Calibrate with buffers of known pH; rinse the electrode with deionised water bet
 
 ## Official syllabus
 
-OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, published by OCR. Section 5.1.3 Acids, bases and buffers, Module 5: Physical chemistry and transition elements.
+Source document: OCR A Level Chemistry A (code H432), specification Version 3.1 dated May 2026; first assessment 2017. These notes follow section 5.1.3 Acids, bases and buffers, in Module 5: Physical chemistry and transition elements.

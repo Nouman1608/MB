@@ -26,9 +26,9 @@ featured: false
 > mark tariffs -- the IB holds copyright in its own papers. Use these alongside
 > the official past papers available through your school or the IB store.
 
-This set practises **Reactivity 1.3, Energy from fuels**, from the IB Diploma Programme *Chemistry guide* (published February 2023, first assessment 2025): questions 1 and 2 cover 1.3.1, 3 and 4 cover 1.3.2, 5 to 7 cover 1.3.3, 8 and 9 cover 1.3.4, and 10 and 11 cover 1.3.5. The sub-topic has no additional higher level content, so every question is for **SL and HL**.
+This set practises **Reactivity 1.3, Energy from fuels**, from the IB *Chemistry guide* for the Diploma Programme (first assessment 2025): questions 1 and 2 cover 1.3.1, 3 and 4 cover 1.3.2, 5 to 7 cover 1.3.3, 8 and 9 cover 1.3.4, and 10 and 11 cover 1.3.5. Nothing in Reactivity 1.3 is marked additional higher level, so every question suits **SL and HL**.
 
-If the content is new, start with the [study guide](/resources/ib-dp-chemistry-energy-from-fuels/); for a quick refresh, use the [revision notes](/resources/ib-dp-chemistry-energy-from-fuels-revision-notes/). The [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/) and the [printable checklist](/checklists/ib/ib-dp/chemistry/) list every other unit.
+If the content is new, start with the [study guide](/resources/ib-dp-chemistry-energy-from-fuels/); for a quick refresh, use the [revision notes](/resources/ib-dp-chemistry-energy-from-fuels-revision-notes/). Other units are on the [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/); track them with the [printable checklist](/checklists/ib/ib-dp/chemistry/).
 
 Where needed, take Ar(C) = 12.01, Ar(H) = 1.01 and Ar(O) = 16.00.
 
@@ -61,7 +61,7 @@ Where needed, take Ar(C) = 12.01, Ar(H) = 1.01 and Ar(O) = 16.00.
 
 **6.** Use these values for the enthalpy of combustion.
 
-| Fuel | Formula | ΔcH / kJ mol⁻¹ |
+| Fuel | Formula | ΔHc⦵ / kJ mol⁻¹ |
 |---|---|---|
 | propane | C₃H₈ | −2219 |
 | hexadecane | C₁₆H₃₄ | −10 700 |
@@ -169,10 +169,11 @@ Recommendation: **A**, because it gives lower net emissions without land-use har
 
 - [Reactivity 1.3 revision notes](/resources/ib-dp-chemistry-energy-from-fuels-revision-notes/) for a final read-through
 - [Reactivity 1.3 study guide](/resources/ib-dp-chemistry-energy-from-fuels/) for full explanations
-- The [IB DP chemistry course hub](/boards/ib/ib-dp/chemistry/) and the [printable checklist](/checklists/ib/ib-dp/chemistry/)
-- Try [all free 10-minute diagnostics](/diagnostics/)
+- [Course hub for IB DP chemistry](/boards/ib/ib-dp/chemistry/)
+- [Printable topic checklist](/checklists/ib/ib-dp/chemistry/)
+- Take [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)
 
 ## Official syllabus
 
-Source: the International Baccalaureate's Diploma Programme *Chemistry guide*, published in February 2023 for first assessment in 2025. This page follows Reactivity 1.3, Energy from fuels, covering understandings 1.3.1 to 1.3.5, all for SL and HL.
+Source: *Chemistry guide*, International Baccalaureate Diploma Programme, February 2023 (first assessment 2025). Practised here: Reactivity 1.3, Energy from fuels, understandings 1.3.1 to 1.3.5, common to SL and HL.

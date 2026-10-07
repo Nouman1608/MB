@@ -27,7 +27,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-This set covers Topic 13: Chemical Equilibria of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017, outcomes 13.1 to 13.9. The topic belongs to Unit 4: Rates, Equilibria and Further Organic Chemistry, an International A2 (IA2) unit. Read the [study guide](/resources/edexcel-ial-chemistry-chemical-equilibria/) and [revision notes](/resources/edexcel-ial-chemistry-chemical-equilibria-revision-notes/) first; the [checklist](/checklists/edexcel/a-level/chemistry/), [course hub](/boards/edexcel/a-level/chemistry/) and [diagnostics](/diagnostics/) track gaps.
+This set covers Topic 13: Chemical Equilibria of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017, outcomes 13.1 to 13.9. It is IA2 content, taught in Unit 4: Rates, Equilibria and Further Organic Chemistry. New to the topic? Read the [study guide](/resources/edexcel-ial-chemistry-chemical-equilibria/) and [revision notes](/resources/edexcel-ial-chemistry-chemical-equilibria-revision-notes/) first. Then log gaps on the [chemistry checklist](/checklists/edexcel/a-level/chemistry/), use the Edexcel [course hub](/boards/edexcel/a-level/chemistry/) or run a free [diagnostic](/diagnostics/).
 
 Take R = 8.31 J K⁻¹ mol⁻¹ where needed.
 
@@ -35,24 +35,24 @@ Take R = 8.31 J K⁻¹ mol⁻¹ where needed.
 
 **1.** For each equilibrium, write an expression for Kc and give its units, if any.
 
-**(a)** CS₂(g) + 3Cl₂(g) ⇌ CCl₄(g) + S₂Cl₂(g) **[2]**
-**(b)** Cu(s) + 2Ag⁺(aq) ⇌ Cu²⁺(aq) + 2Ag(s) **[2]**
+**(a)** 2CH₄(g) ⇌ C₂H₂(g) + 3H₂(g) **[2]**
+**(b)** 2Fe³⁺(aq) + Cu(s) ⇌ 2Fe²⁺(aq) + Cu²⁺(aq) **[2]**
 **(c)** Ca(OH)₂(s) ⇌ Ca²⁺(aq) + 2OH⁻(aq) **[2]**
 
-**2.** 0.200 mol ethanoic acid, 0.300 mol ethanol and a few drops of concentrated sulfuric acid (catalyst) are sealed in a flask and left to reach equilibrium:
+**2.** A flask contains 0.300 mol ethyl ethanoate, 0.500 mol water and dilute hydrochloric acid containing 0.0100 mol HCl as a catalyst. It is sealed and left until this equilibrium is reached:
 
-CH₃COOH(l) + C₂H₅OH(l) ⇌ CH₃COOC₂H₅(l) + H₂O(l)
+CH₃COOC₂H₅(l) + H₂O(l) ⇌ CH₃COOH(l) + C₂H₅OH(l)
 
-The whole equilibrium mixture is then titrated with 1.00 mol dm⁻³ sodium hydroxide and needs 47.0 cm³. In a separate titration, the same number of drops of sulfuric acid alone needs 4.0 cm³ of the same sodium hydroxide. Ignore any water added with the catalyst.
+All the acid in the equilibrium mixture is then neutralised by 68.50 cm³ of 2.00 mol dm⁻³ sodium hydroxide. Ignore the water added with the catalyst.
 
 **(a)** Calculate the amount, in mol, of ethanoic acid at equilibrium. **[2]**
-**(b)** Calculate Kc for this equilibrium. **[4]**
+**(b)** Calculate Kc for the hydrolysis. **[4]**
 
-**3.** 0.600 mol of sulfuryl chloride is heated in a sealed vessel. It sets up the equilibrium
+**3.** 0.500 mol of antimony(V) chloride vapour is heated in a sealed vessel. It sets up the equilibrium
 
-SO₂Cl₂(g) ⇌ SO₂(g) + Cl₂(g)
+SbCl₅(g) ⇌ SbCl₃(g) + Cl₂(g)
 
-At equilibrium, the vessel contains 0.180 mol Cl₂ and the total pressure is 1.56 atm.
+At equilibrium, the vessel contains 0.150 mol Cl₂ and the total pressure is 1.95 atm.
 
 **(a)** Write an expression for Kp. **[1]**
 **(b)** Calculate the value of Kp and give its units. **[4]**
@@ -66,11 +66,11 @@ At equilibrium, with some solid still present, the total pressure is 0.40 atm.
 **(a)** Calculate Kp at this temperature. **[2]**
 **(b)** Extra ammonia is pumped in at the same temperature. When equilibrium is re-established, with solid still present, p(NH₃) = 0.32 atm. Calculate p(HCl) and the new total pressure. **[2]**
 
-**5.** 1.00 × 10⁻³ mol of iodine is shaken with 100 cm³ of water and 100 cm³ of an organic solvent that does not mix with water. When equilibrium is reached, 25.0 cm³ of the aqueous layer reacts exactly with 3.70 cm³ of 2.00 × 10⁻³ mol dm⁻³ sodium thiosulfate solution:
+**5.** Ammonia is shaken with water and trichloromethane, two liquids that do not mix, until equilibrium is reached. A 10.0 cm³ portion of the aqueous layer is neutralised by 9.60 cm³ of 0.500 mol dm⁻³ hydrochloric acid. A 25.0 cm³ portion of the trichloromethane layer is neutralised by 25.0 cm³ of 0.0200 mol dm⁻³ hydrochloric acid.
 
-I₂ + 2S₂O₃²⁻ → 2I⁻ + S₄O₆²⁻
+NH₃ + HCl → NH₄Cl
 
-Calculate the equilibrium constant K = [I₂(organic)] / [I₂(aq)]. **[4]**
+Calculate the equilibrium constant K = [NH₃(aq)] / [NH₃(trichloromethane)]. **[4]**
 
 **6.** Methanal can be made by dehydrogenating methanol vapour:
 
@@ -82,9 +82,9 @@ The forward reaction is endothermic. For each change, state the effect on the eq
 **(b)** A catalyst is added. **[2]**
 **(c)** The temperature is raised. **[2]**
 
-**7.** This question uses the equilibrium mixture from question 3, where p(SO₂Cl₂) = 0.840 atm, p(SO₂) = p(Cl₂) = 0.360 atm and Kp = 0.154 atm. The volume of the vessel is suddenly halved at constant temperature.
+**7.** This question uses the equilibrium mixture from question 3, where p(SbCl₅) = 1.05 atm, p(SbCl₃) = p(Cl₂) = 0.450 atm and Kp = 0.193 atm. The volume of the vessel is suddenly halved at constant temperature.
 
-**(a)** Calculate the value of p(SO₂) × p(Cl₂) / p(SO₂Cl₂) immediately after the volume is halved. **[2]**
+**(a)** Calculate the value of p(SbCl₃) × p(Cl₂) / p(SbCl₅) immediately after the volume is halved. **[2]**
 **(b)** Use your answer to explain the direction in which the equilibrium moves, and state the effect on Kp. **[2]**
 
 **8.** Three reactions have these equilibrium constants at 298 K:
@@ -119,33 +119,33 @@ The forward reaction is exothermic. At one temperature, with both solids present
 
 ## Answers
 
-**1. (a)** Kc = [CCl₄][S₂Cl₂] / ([CS₂][Cl₂]³) [1]; units (mol dm⁻³)² / (mol dm⁻³)⁴ = **dm⁶ mol⁻²** [1].
-**(b)** Kc = [Cu²⁺] / [Ag⁺]², with both solids left out [1]; units **dm³ mol⁻¹** [1].
+**1. (a)** Kc = [C₂H₂][H₂]³ / [CH₄]² [1]; units (mol dm⁻³)⁴ / (mol dm⁻³)² = **mol² dm⁻⁶** [1].
+**(b)** Kc = [Fe²⁺]²[Cu²⁺] / [Fe³⁺]², with solid copper left out [1]; units **mol dm⁻³** [1].
 **(c)** Kc = [Ca²⁺][OH⁻]² [1]; units **mol³ dm⁻⁹** [1].
-*Examiner insight:* Work units out from your own expression by cancelling; a correct unit attached to a wrong expression is unlikely to earn credit.
+*Examiner insight:* Show the cancelling that gives each unit; a bare unit with no working gives the examiner nothing to check if the expression itself has slipped.
 
-**2. (a)** Titre due to ethanoic acid = 47.0 − 4.0 = 43.0 cm³ [1]; n(CH₃COOH) = 0.0430 dm³ × 1.00 mol dm⁻³ = **0.0430 mol** [1].
-**(b)** Acid reacted = 0.200 − 0.0430 = 0.157 mol [1]. At equilibrium: ester = water = 0.157 mol and ethanol = 0.300 − 0.157 = 0.143 mol [1]. Kc = [ester][water] / ([acid][ethanol]); V cancels because there are two species on each side [1]. Kc = (0.157 × 0.157) / (0.0430 × 0.143) = **4.01, no units** [1].
-*Examiner insight:* Show the catalyst subtraction as its own line; clear later steps can still gain credit if it goes wrong.
+**2. (a)** n(NaOH) = 0.06850 dm³ × 2.00 mol dm⁻³ = 0.137 mol [1]. Subtract the 0.0100 mol HCl: n(CH₃COOH) = **0.127 mol** [1].
+**(b)** Ethanol formed equals ethanoic acid formed, 0.127 mol [1]. Ester left = 0.300 − 0.127 = 0.173 mol; water left = 0.500 − 0.127 = 0.373 mol [1]. Kc = [CH₃COOH][C₂H₅OH] / ([CH₃COOC₂H₅][H₂O]), and V cancels because there are two species on each side [1]. Kc = (0.127 × 0.127) / (0.173 × 0.373) = **0.250, no units** [1].
+*Examiner insight:* Write Kc for the reaction exactly as the question gives it; the inverted (esterification) expression gives about 4.00, which answers a different question.
 
-**3. (a)** Kp = p(SO₂) × p(Cl₂) / p(SO₂Cl₂) [1]
-**(b)** Equilibrium moles: SO₂Cl₂ = 0.600 − 0.180 = 0.420; SO₂ = Cl₂ = 0.180; total = 0.780 mol [1]. Partial pressures: p(SO₂Cl₂) = (0.420 / 0.780) × 1.56 = 0.840 atm; p(SO₂) = p(Cl₂) = (0.180 / 0.780) × 1.56 = 0.360 atm [1]. Kp = 0.360² / 0.840 = **0.154** [1] **atm** [1].
-*Examiner insight:* Show each mole fraction multiplied by the total pressure, not just the final Kp.
+**3. (a)** Kp = p(SbCl₃) × p(Cl₂) / p(SbCl₅) [1]
+**(b)** Equilibrium moles: SbCl₅ = 0.500 − 0.150 = 0.350; SbCl₃ = Cl₂ = 0.150; total = 0.650 mol [1]. Partial pressures: p(SbCl₅) = (0.350 / 0.650) × 1.95 = 1.05 atm; p(SbCl₃) = p(Cl₂) = (0.150 / 0.650) × 1.95 = 0.450 atm [1]. Kp = 0.450² / 1.05 = **0.193** [1] **atm** [1].
+*Examiner insight:* Set out the total moles and each mole fraction × total pressure on separate lines, so that every stage of the method can be seen and credited.
 
 **4. (a)** Equal amounts of the two gases form, so p(NH₃) = p(HCl) = 0.40 / 2 = 0.20 atm [1]. Kp = 0.20 × 0.20 = **0.040 atm²** [1].
 **(b)** p(HCl) = 0.040 / 0.32 = **0.125 atm** [1]. Total pressure = 0.32 + 0.125 = **0.445 atm** [1].
 *Examiner insight:* Say that Kp is unchanged at fixed temperature; it justifies part (b).
 
-**5.** n(S₂O₃²⁻) = 3.70 × 10⁻³ dm³ × 2.00 × 10⁻³ mol dm⁻³ = 7.40 × 10⁻⁶ mol [1]. n(I₂) in 25.0 cm³ = 3.70 × 10⁻⁶ mol, so [I₂(aq)] = 3.70 × 10⁻⁶ / 0.0250 = 1.48 × 10⁻⁴ mol dm⁻³ [1]. I₂ in the 100 cm³ aqueous layer = 1.48 × 10⁻⁵ mol; I₂ in the organic layer = 1.00 × 10⁻³ − 1.48 × 10⁻⁵ = 9.85 × 10⁻⁴ mol, so [I₂(organic)] = 9.85 × 10⁻³ mol dm⁻³ [1]. K = 9.85 × 10⁻³ / 1.48 × 10⁻⁴ = **66.6, no units** [1].
-*Examiner insight:* Track which volume each step uses; scaling the 25.0 cm³ sample up to the 100 cm³ layer is easily missed.
+**5.** n(NH₃) in 10.0 cm³ of aqueous layer = 9.60 × 10⁻³ dm³ × 0.500 mol dm⁻³ = 4.80 × 10⁻³ mol [1]. [NH₃(aq)] = 4.80 × 10⁻³ / 0.0100 = 0.480 mol dm⁻³ [1]. n(NH₃) in 25.0 cm³ of organic layer = 0.0250 × 0.0200 = 5.00 × 10⁻⁴ mol, so the trichloromethane layer has [NH₃] = 0.0200 mol dm⁻³ [1]. K = 0.480 / 0.0200 = **24.0, no units** [1].
+*Examiner insight:* Divide each amount by the volume of its own sample, not the acid volume; mixing these up is the usual way this calculation goes wrong.
 
 **6. (a)** Yield of methanal **decreases**, because the equilibrium moves to the side with fewer gas moles (1 mol on the left, 2 mol on the right) [1]. Kp is **unchanged** [1].
 **(b)** Yield **unchanged** (equilibrium reached sooner) [1]. Kp **unchanged** [1].
 **(c)** Kp **increases** because the forward reaction is endothermic [1]. Yield of methanal **increases** [1].
 *Examiner insight:* State the yield effect and the Kp effect separately.
 
-**7. (a)** New partial pressures: p(SO₂Cl₂) = 1.68 atm, p(SO₂) = p(Cl₂) = 0.720 atm [1]. Value = 0.720² / 1.68 = **0.309 atm** [1].
-**(b)** 0.309 atm is greater than Kp, so the fraction must fall: SO₂ and Cl₂ combine to form SO₂Cl₂, and the equilibrium moves **to the left** [1]. Kp is **unchanged** because the temperature has not changed [1].
+**7. (a)** New partial pressures: p(SbCl₅) = 2.10 atm, p(SbCl₃) = p(Cl₂) = 0.900 atm [1]. Value = 0.900² / 2.10 = **0.386 atm** [1].
+**(b)** 0.386 atm is greater than Kp, so the fraction must fall: SbCl₃ and Cl₂ combine to form SbCl₅, and the equilibrium moves **to the left** [1]. Kp is **unchanged** because the temperature has not changed [1].
 *Examiner insight:* Compare your calculated value with Kp; a Le Chatelier answer alone ignores the calculation.
 
 **8. (a)** ΔStotal = R lnK = 8.31 × ln(3 × 10²²) = **+430 J K⁻¹ mol⁻¹** [1].
@@ -168,8 +168,8 @@ The forward reaction is exothermic. At one temperature, with both solids present
 ## Where marks are usually lost
 
 - Writing solids into Kc or Kp, or putting aqueous ions into Kp.
-- Using equilibrium moles in Kc when the volume does not cancel.
-- Forgetting to subtract a catalyst titre in the ester practical.
+- Substituting moles into Kc when the indices above and below do not balance.
+- Forgetting to allow for the acid catalyst in the ester titration.
 - Finding mole fractions but not multiplying by the total pressure.
 - Stating that pressure or a catalyst changes Kp.
 - Explaining a temperature effect without saying that K changes.
@@ -180,7 +180,7 @@ The forward reaction is exothermic. At one temperature, with both solids present
 - Review the [chemical equilibria revision notes](/resources/edexcel-ial-chemistry-chemical-equilibria-revision-notes/).
 - Reread weak sections of the [chemical equilibria study guide](/resources/edexcel-ial-chemistry-chemical-equilibria/).
 - Visit the [course hub](/boards/edexcel/a-level/chemistry/).
-- Tick off outcomes 13.1 to 13.9 on the [printable checklist](/checklists/edexcel/a-level/chemistry/).
+- Mark outcomes 13.1 to 13.9 as done on the [printable checklist](/checklists/edexcel/a-level/chemistry/).
 - Try all free 10-minute [diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 

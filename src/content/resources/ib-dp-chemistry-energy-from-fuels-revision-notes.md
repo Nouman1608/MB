@@ -20,9 +20,9 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-These notes condense **Reactivity 1.3, Energy from fuels**, from the IB Diploma Programme *Chemistry guide* (published February 2023, first assessment 2025). They cover understandings Reactivity 1.3.1 to 1.3.5. There is no additional higher level content in this sub-topic, so everything here is for **SL and HL**. The [study guide](/resources/ib-dp-chemistry-energy-from-fuels/) has the full teaching and worked examples.
+These notes condense **Reactivity 1.3, Energy from fuels** (understandings 1.3.1 to 1.3.5) from the IB *Chemistry guide* for the Diploma Programme (first assessment 2025). Nothing in Reactivity 1.3 is marked additional higher level, so all of it applies at **SL and HL**. The [study guide](/resources/ib-dp-chemistry-energy-from-fuels/) has the full teaching and worked examples.
 
-Then test yourself with the [practice questions](/resources/ib-dp-chemistry-energy-from-fuels-practice/). The [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/) and the [printable checklist](/checklists/ib/ib-dp/chemistry/) show where this unit fits, and the free [diagnostics](/diagnostics/) point to your weakest topics.
+Next, work through the [practice questions](/resources/ib-dp-chemistry-energy-from-fuels-practice/). For the wider course, use the [IB DP chemistry hub](/boards/ib/ib-dp/chemistry/); to track progress, use the [printable checklist](/checklists/ib/ib-dp/chemistry/); and the free [diagnostics](/diagnostics/) point to your weakest topics.
 
 ## Key definitions
 
@@ -86,12 +86,12 @@ Health and other effects:
 **Why larger hydrocarbons burn incompletely more often:** more O₂ needed per molecule, higher percentage of carbon by mass, lower volatility so poorer mixing with air.
 
 **Comparing CO₂ from fuels in steps**
-1. Energy per gram = |ΔcH| ÷ M.
+1. Energy per gram = |ΔHc⦵| ÷ M.
 2. Moles of CO₂ per mole of fuel = number of C atoms.
-3. Mass of CO₂ per unit energy = (C atoms × 44.01) ÷ |ΔcH|.
+3. Mass of CO₂ per unit energy = (C atoms × 44.01) ÷ |ΔHc⦵|.
 4. Mass of CO₂ per gram of fuel = (C atoms × 44.01) ÷ M.
 
-Small reminder, using ΔcH(ethane) = −1560 kJ mol⁻¹: M = 30.08 g mol⁻¹, so 51.9 kJ g⁻¹; 2 × 44.01 ÷ 1560 = 0.0564 g of CO₂ per kJ, which is 56.4 g per MJ.
+Small reminder, using ΔHc⦵(ethane) = −1560 kJ mol⁻¹: M = 30.08 g mol⁻¹, so 51.9 kJ g⁻¹; 2 × 44.01 ÷ 1560 = 0.0564 g of CO₂ per kJ, which is 56.4 g per MJ.
 
 **Greenhouse effect in four steps**
 1. Visible light from the Sun is absorbed by the ground, which warms up.
@@ -183,4 +183,4 @@ Carbon bookkeeping reminder for bioethanol: making 1 glucose fixes 6 CO₂. Ferm
 
 ## Official syllabus
 
-Source: the International Baccalaureate's Diploma Programme *Chemistry guide*, published in February 2023 for first assessment in 2025. These notes follow Reactivity 1.3, Energy from fuels, covering understandings 1.3.1 to 1.3.5 for both SL and HL.
+Source: *Chemistry guide*, International Baccalaureate Diploma Programme, February 2023 (first assessment 2025). Condensed here: Reactivity 1.3, Energy from fuels, understandings 1.3.1 to 1.3.5, common to SL and HL.

@@ -21,13 +21,13 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This guide teaches parts 15C (Carboxylic acids) and 15D (Carboxylic acid derivatives) of Topic 15 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers learning outcomes 15.9 to 15.16. This is International A2 (IA2) content, in Unit 4: Rates, Equilibria and Further Organic Chemistry, and it builds on the alcohol oxidation you met in Unit 2.
+This guide teaches parts 15C (Carboxylic acids) and 15D (Carboxylic acid derivatives) of Topic 15 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. Learning outcomes 15.9 to 15.16 are all here. The content is International A2 (IA2); Pearson places it in Unit 4: Rates, Equilibria and Further Organic Chemistry. Alcohol oxidation from Unit 2 comes back here.
 
-Course links: the [course hub](/boards/edexcel/a-level/chemistry/) and the [printable checklist](/checklists/edexcel/a-level/chemistry/). Condense this guide with the [carboxylic acids revision notes](/resources/edexcel-ial-chemistry-carboxylic-acids-and-their-derivatives-revision-notes/) and test yourself with the [carboxylic acids practice questions](/resources/edexcel-ial-chemistry-carboxylic-acids-and-their-derivatives-practice/). To refresh oxidation of alcohols first, see the [Edexcel IAL alcohols guide](/resources/edexcel-ial-chemistry-alcohols/). Find your gaps with a free [diagnostic](/diagnostics/).
+Other units of this course are listed on the [YCH11 course hub](/boards/edexcel/a-level/chemistry/), and every outcome can be ticked off on the [YCH11 checklist](/checklists/edexcel/a-level/chemistry/). For a shorter version, read the [carboxylic acids revision notes](/resources/edexcel-ial-chemistry-carboxylic-acids-and-their-derivatives-revision-notes/); to test yourself, try the [carboxylic acids practice questions](/resources/edexcel-ial-chemistry-carboxylic-acids-and-their-derivatives-practice/). A free [diagnostic](/diagnostics/) will point out your weak spots across the course.
 
 ## 15C and 15D at a glance
 
-| Outcome | What you must be able to do |
+| Spec outcome | You should be able to |
 |---|---|
 | 15.9 | Name carboxylic acids; draw structural, displayed and skeletal formulae |
 | 15.10 | Explain how hydrogen bonding affects boiling temperatures and solubility |
@@ -42,7 +42,7 @@ The specification suggests practicals for 15C and 15D (solubility, oxidation, es
 
 ## 15.9 Naming and drawing carboxylic acids
 
-The functional group is the carboxyl group, –COOH: one carbon carrying a C=O and an O–H. That carbon is always carbon 1 of the chain, so it never needs a locant.
+The functional group is the carboxyl group, –COOH. Its carbon holds a double-bonded oxygen and an –OH group. It is always carbon 1 of the chain, so it never needs a locant.
 
 - Count every carbon in the longest chain that includes the COOH carbon.
 - Replace the final -e of the alkane with **-oic acid**: methanoic, ethanoic, propanoic, butanoic, pentanoic, hexanoic acid.
@@ -71,7 +71,7 @@ H - C ----- C ----- C ----- C - O - H
     H       H       H
 ```
 
-Reading left to right: the CH₃ at the end of the chain, the CH carbon carrying the CH₃ branch, the CH₂, then the C(=O)–O–H. In the skeletal formula draw a zigzag of three lines, with a short branch line from the second carbon from the left. At the right-hand end, draw a double line up to an O and a single line to OH. Write the O and OH as atoms; leave out hydrogens on carbon.
+In the skeletal formula draw a zigzag of three lines, with a short branch line from the second carbon from the left. At the right-hand end, draw a double line up to an O and a single line to OH. Write the O and OH as atoms; leave out hydrogens on carbon.
 
 ## 15.10 Hydrogen bonding and physical properties
 
@@ -87,7 +87,7 @@ Use these values: propanoic acid (Mr 74.0) boils at 141 °C; butan-1-ol (Mr 74.0
 4. Butan-1-ol forms hydrogen bonds between molecules through its O–H group.
 5. Propanoic acid forms hydrogen-bonded dimers using its O–H and its C=O oxygen, so it has the **highest boiling temperature**.
 
-**Solubility.** Carboxylic acids hydrogen bond with water through both oxygens and the O–H hydrogen. Methanoic, ethanoic, propanoic and butanoic acids are miscible with water. As the hydrocarbon chain gets longer, more of the molecule cannot hydrogen bond with water, so solubility falls. Short aldehydes and ketones also dissolve, because water hydrogen bonds to their C=O oxygen.
+**Solubility.** Carboxylic acids hydrogen bond with water through both oxygens and the O–H hydrogen. Methanoic, ethanoic, propanoic and butanoic acids are miscible with water. Each extra CH₂ adds a non-polar section that water cannot hydrogen bond to, so solubility falls as the chain grows.
 
 ## 15.11 Preparing carboxylic acids
 
@@ -104,13 +104,13 @@ Butanenitrile gives butanoic acid. Heating with NaOH(aq) instead gives the sodiu
 
 ### Worked example 3: yield of an oxidation
 
-A student heats 5.10 g of hexan-1-ol under reflux with excess acidified potassium dichromate(VI) and isolates 4.06 g of hexanoic acid. Calculate the percentage yield. (Ar: H 1.0, C 12.0, O 16.0)
+A student refluxes 3.57 g of 3-methylpentan-1-ol, CH₃CH₂CH(CH₃)CH₂CH₂OH, with excess acidified potassium dichromate(VI). After purification, 2.84 g of 3-methylpentanoic acid is obtained. Work out the percentage yield. Use relative atomic masses H = 1.0, C = 12.0, O = 16.0.
 
 ```
-C₆H₁₃OH + 2[O] → C₅H₁₁COOH + H₂O
-Mr(hexan-1-ol, C₆H₁₄O) = 102.0     n = 5.10 ÷ 102.0 = 0.0500 mol
-Mr(hexanoic acid, C₆H₁₂O₂) = 116.0  maximum mass = 0.0500 × 116.0 = 5.80 g
-yield = 4.06 ÷ 5.80 × 100 = 70.0%
+CH₃CH₂CH(CH₃)CH₂CH₂OH + 2[O] → CH₃CH₂CH(CH₃)CH₂COOH + H₂O
+Mr(alcohol, C₆H₁₄O) = 102.0    n = 3.57 ÷ 102.0 = 0.0350 mol
+Mr(acid, C₆H₁₂O₂) = 116.0      maximum mass = 0.0350 × 116.0 = 4.06 g
+yield = 2.84 ÷ 4.06 × 100 = 70.0%
 ```
 
 ## 15.12 Reactions of carboxylic acids
@@ -148,39 +148,40 @@ Points to note:
 1. Find the C=O carbon. The chain that includes it comes from the acid and gives the second word, ending **-oate**.
 2. The group on the other side of the single-bonded oxygen comes from the alcohol and gives the first word, ending **-yl**.
 
-So CH₃COOCH₂CH₂CH(CH₃)₂ is **3-methylbutyl ethanoate**: the CH₃CO– part is ethanoate and the five-carbon branched group is 3-methylbutyl.
+So CH₃CH₂COOCH₂CH(CH₃)₂ is **2-methylpropyl propanoate**: the CH₃CH₂CO– part is propanoate and the four-carbon branched group on the oxygen is 2-methylpropyl.
 
 ## 15.14 Reactions of acyl chlorides
 
-Acyl chlorides react much faster than carboxylic acids. The carbonyl carbon is bonded to O and Cl, so it is strongly δ+, and Cl⁻ leaves easily. Each reaction gives HCl (steamy fumes) unless a base absorbs it.
+Acyl chlorides react much faster than carboxylic acids. Oxygen and chlorine both pull electron density away from the carbonyl carbon, which makes it strongly δ+, and Cl⁻ leaves easily. Each reaction gives HCl (steamy fumes) unless a base absorbs it.
 
 | Reagent | Organic product | Equation for butanoyl chloride |
 |---|---|---|
 | water | carboxylic acid | C₃H₇COCl + H₂O → C₃H₇COOH + HCl |
 | alcohol | ester | C₃H₇COCl + CH₃CH₂CH₂OH → C₃H₇COOCH₂CH₂CH₃ + HCl |
 | concentrated ammonia | amide | C₃H₇COCl + 2NH₃ → C₃H₇CONH₂ + NH₄Cl |
-| amine | N-substituted amide | C₃H₇COCl + 2CH₃NH₂ → C₃H₇CONHCH₃ + CH₃NH₃⁺Cl⁻ |
+| amine (propylamine) | N-substituted amide | C₃H₇COCl + 2C₃H₇NH₂ → C₃H₇CONHC₃H₇ + C₃H₇NH₃⁺Cl⁻ |
 
-With ammonia and amines, the second molecule acts as a base and takes up the HCl. With an alcohol the reaction is fast and not reversible, so it gives a better ester yield than the acid does.
+With ammonia or an amine, one molecule forms the amide and a second one neutralises the HCl, giving a salt. The amine row gives N-propylbutanamide. With an alcohol the reaction is fast and not reversible, so it gives a better ester yield than the acid does.
 
 ### Worked example 5: an amide from an acyl chloride
 
-2.13 g of butanoyl chloride is added to excess concentrated ammonia. Calculate the maximum mass of butanamide. (Ar: H 1.0, C 12.0, N 14.0, O 16.0, Cl 35.5)
+4.26 g of 2-methylpropanoyl chloride, (CH₃)₂CHCOCl, is added to excess concentrated ammonia. Find the maximum mass of 2-methylpropanamide that can form. Use H = 1.0, C = 12.0, N = 14.0, O = 16.0, Cl = 35.5.
 
 ```
-Mr(C₃H₇COCl) = 106.5      n = 2.13 ÷ 106.5 = 0.0200 mol
+(CH₃)₂CHCOCl + 2NH₃ → (CH₃)₂CHCONH₂ + NH₄Cl
+Mr((CH₃)₂CHCOCl) = 106.5     n = 4.26 ÷ 106.5 = 0.0400 mol
 1 mol acyl chloride → 1 mol amide
-Mr(C₃H₇CONH₂) = 87.0      mass = 0.0200 × 87.0 = 1.74 g
+Mr((CH₃)₂CHCONH₂) = 87.0     mass = 0.0400 × 87.0 = 3.48 g
 ```
 
 ## 15.15 Hydrolysis of esters
 
 - **Acidic solution** (dilute HCl or H₂SO₄): the reverse of esterification. It is reversible, so an equilibrium mixture of ester, acid, alcohol and water forms. RCOOR′ + H₂O ⇌ RCOOH + R′OH.
-- **Alkaline solution** (NaOH(aq)): gives the carboxylate salt and the alcohol. RCOOR′ + NaOH → RCOONa + R′OH. It goes to completion, because the carboxylate ion does not react with the alcohol. Add a strong acid afterwards to get the free carboxylic acid.
+- **Alkaline solution** (NaOH(aq)): gives the carboxylate salt and the alcohol. RCOOR′ + NaOH → RCOONa + R′OH. It goes to completion: the negatively charged carboxylate ion has no tendency to re-form an ester, so nothing reverses. Add a strong acid afterwards to get the free carboxylic acid.
 
 ### Worked example 6: alkaline hydrolysis
 
-2.32 g of ethyl 2-methylpropanoate, (CH₃)₂CHCOOCH₂CH₃, is heated under reflux with excess NaOH(aq). Name the products and calculate the mass of salt formed. (Ar: H 1.0, C 12.0, O 16.0, Na 23.0)
+2.32 g of ethyl 2-methylpropanoate, (CH₃)₂CHCOOCH₂CH₃, is heated under reflux with excess NaOH(aq). Name the products and find the mass of salt formed. Use H = 1.0, C = 12.0, O = 16.0, Na = 23.0.
 
 1. Products: **sodium 2-methylpropanoate**, (CH₃)₂CHCOONa, and **ethanol**.
 2. Mr(C₆H₁₂O₂) = 116.0, so n = 2.32 ÷ 116.0 = 0.0200 mol.
@@ -190,15 +191,15 @@ Mr(C₃H₇CONH₂) = 87.0      mass = 0.0200 × 87.0 = 1.74 g
 
 In **condensation polymerisation**, monomers with two functional groups join, and a small molecule is lost at each link. For a polyester, a diol reacts with a dicarboxylic acid (losing H₂O) or with a diacyl dichloride (losing HCl). Each new link is an ester group, –COO–.
 
-**Terylene** (PET) forms from benzene-1,4-dicarboxylic acid and ethane-1,2-diol. Its repeat unit is –OC–C₆H₄–COO–CH₂CH₂–O–. It is used for clothing fibres and drinks bottles.
+**Terylene** (PET) is made by condensing ethane-1,2-diol with benzene-1,4-dicarboxylic acid. Its repeat unit is –OC–C₆H₄–COO–CH₂CH₂–O–. It is used for clothing fibres and drinks bottles.
 
 ### Worked example 7: a polyester from two monomers
 
-Hexanedioic acid, HOOC(CH₂)₄COOH, reacts with propane-1,3-diol, HOCH₂CH₂CH₂OH. Draw the repeat unit and find its Mr.
+Hexanedioic acid, HOOC(CH₂)₄COOH, reacts with butane-1,4-diol, HO(CH₂)₄OH. Draw the repeat unit and find its Mr.
 
 1. Remove –OH from each acid end and –H from each alcohol end. Join the C=O carbon to the diol oxygen.
-2. Repeat unit: **–OC(CH₂)₄COO(CH₂)₃O–**, which is C₉H₁₄O₄.
-3. Mr = 9(12.0) + 14(1.0) + 4(16.0) = **186.0**. Two water molecules form for each repeat unit.
+2. Repeat unit: **–OC(CH₂)₄COO(CH₂)₄O–**, which is C₁₀H₁₆O₄.
+3. Mr = 10(12.0) + 16(1.0) + 4(16.0) = **200.0**. Two water molecules are lost per repeat unit.
 
 To find monomers from a given polyester, split each ester link at the C–O single bond. Add –OH to the C=O carbon and –H to the oxygen.
 

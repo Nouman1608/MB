@@ -20,13 +20,13 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-These revision notes condense section 5.2.1, Lattice enthalpy, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. They cover every learning outcome, 5.2.1(a) to (e), in Module 5, Physical chemistry and transition elements. H432 is the full A level. For full explanations and longer worked examples, use the [Lattice enthalpy study guide](/resources/ocr-a-level-chemistry-lattice-enthalpy/).
+Use these notes for fast recall of section 5.2.1, Lattice enthalpy, in the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. They summarise outcomes 5.2.1(a) to (e) in Module 5, Physical chemistry and transition elements, with no AS or A2 split because H432 is the full A level. Fuller teaching, with longer examples, is in the [Lattice enthalpy study guide](/resources/ocr-a-level-chemistry-lattice-enthalpy/).
 
-When you want marked questions, go to the [Lattice enthalpy practice questions](/resources/ocr-a-level-chemistry-lattice-enthalpy-practice/). Every H432 topic is linked from the [OCR chemistry hub](/boards/ocr/a-level/chemistry/), and the [printable checklist](/checklists/ocr/a-level/chemistry/) lets you tick outcomes off. A short check across the course is in the [free diagnostics](/diagnostics/).
+Marked questions on this section are in the [Lattice enthalpy practice questions](/resources/ocr-a-level-chemistry-lattice-enthalpy-practice/). Browse other units from the [OCR chemistry hub](/boards/ocr/a-level/chemistry/), tick off 5.2.1 on the [printable checklist](/checklists/ocr/a-level/chemistry/), and test the rest of the course with the [free diagnostics](/diagnostics/).
 
 ## 5.2.1(a): Lattice enthalpy in one line
 
-**ΔLEH**: the enthalpy change when 1 mol of an ionic lattice is formed from its gaseous ions, under standard conditions (100 kPa, usually 298 K).
+**ΔLEH**: the enthalpy change when 1 mol of an ionic lattice is formed from its gaseous ions, under standard conditions (100 kPa, with 298 K as the stated temperature).
 
 Li⁺(g) + I⁻(g) → LiI(s)
 
@@ -41,21 +41,21 @@ You must define **first ionisation energy** and **enthalpy change of formation**
 
 | Term | Equation pattern | Sign |
 |---|---|---|
-| ΔfH | Rb(s) + ½Cl₂(g) → RbCl(s) | usually − |
-| ΔatH, metal | Rb(s) → Rb(g) | + |
-| ΔatH, chlorine | ½Cl₂(g) → Cl(g) | + |
+| ΔfH | K(s) + ½F₂(g) → KF(s) | usually − |
+| ΔatH, metal | K(s) → K(g) | + |
+| ΔatH, fluorine or chlorine | ½F₂(g) → F(g); ½Cl₂(g) → Cl(g) | + |
 | ΔatH, bromine | ½Br₂(l) → Br(g) | + |
 | ΔatH, iodine | ½I₂(s) → I(g) | + |
-| First ionisation energy | Rb(g) → Rb⁺(g) + e⁻ | + |
+| First ionisation energy | K(g) → K⁺(g) + e⁻ | + |
 | Second ionisation energy | Sr⁺(g) → Sr²⁺(g) + e⁻ | + |
-| First electron affinity | Cl(g) + e⁻ → Cl⁻(g) | − for halogens |
+| First electron affinity | F(g) + e⁻ → F⁻(g) | − for halogens |
 | Second electron affinity | O⁻(g) + e⁻ → O²⁻(g) | + |
-| ΔLEH | Rb⁺(g) + Cl⁻(g) → RbCl(s) | − |
+| ΔLEH | K⁺(g) + F⁻(g) → KF(s) | − |
 
 **Definitions to learn:**
 
-- **First ionisation energy**: the energy needed to remove one electron from each atom in 1 mol of gaseous atoms, forming 1 mol of gaseous 1+ ions.
-- **Enthalpy change of formation**: the enthalpy change when 1 mol of a compound is formed from its elements in their standard states, under standard conditions.
+- **First ionisation energy**: the energy required to remove 1 mol of electrons from 1 mol of gaseous atoms, giving 1 mol of gaseous 1+ ions.
+- **Enthalpy change of formation**: the enthalpy change when 1 mol of a compound forms, under standard conditions, from its constituent elements, each in its standard state.
 
 ### Method in steps: a Born–Haber calculation
 
@@ -65,14 +65,14 @@ You must define **first ionisation energy** and **enthalpy change of formation**
 4. Put every value in with its sign, in brackets if negative.
 5. Rearrange for the unknown and check its sign makes sense.
 
-**Worked reminder: lattice enthalpy of rubidium chloride**
+**Worked reminder: lattice enthalpy of potassium fluoride**
 
-Data (kJ mol⁻¹): ΔfH(RbCl) = −435; ΔatH(Rb) = +81; first IE(Rb) = +403; ΔatH(Cl) = +122; first EA(Cl) = −349.
+Data (kJ mol⁻¹): ΔfH(KF) = −568; ΔatH(K) = +89; first IE(K) = +419; ΔatH(F) = +79; first EA(F) = −328.
 
 ```
-Sum of steps = 81 + 403 + 122 + (−349) = +257
-−435 = 257 + ΔLEH
-ΔLEH(RbCl) = −692 kJ mol⁻¹
+Sum of steps = 89 + 419 + 79 + (−328) = +259
+−568 = 259 + ΔLEH
+ΔLEH(KF) = −827 kJ mol⁻¹
 ```
 
 ### Drawing the cycle
@@ -87,8 +87,8 @@ Sum of steps = 81 + 403 + 122 + (−349) = +257
 
 | Term | Meaning | Example equation | Sign |
 |---|---|---|---|
-| ΔsolH | 1 mol of solute dissolves in water | RbCl(s) + aq → Rb⁺(aq) + Cl⁻(aq) | + or − |
-| ΔhydH | 1 mol of gaseous ions dissolves in water | Cl⁻(g) + aq → Cl⁻(aq) | always − |
+| ΔsolH | 1 mol of solute dissolves in water | KF(s) + aq → K⁺(aq) + F⁻(aq) | + or − |
+| ΔhydH | 1 mol of gaseous ions dissolves in water | F⁻(g) + aq → F⁻(aq) | always − |
 
 Hydration releases energy because polar water molecules are attracted to ions: δ− oxygen towards cations, δ+ hydrogen towards anions. Infinite dilution details are not required.
 
@@ -106,32 +106,32 @@ Hydration releases energy because polar water molecules are attracted to ions: �
 
 ### Method in steps
 
-1. Write the formula and count the ions: CsBr has one of each; SrCl₂ has one Sr²⁺ and two Cl⁻.
+1. Write the formula and count the ions: CsBr has one of each; MgI₂ has one Mg²⁺ and two I⁻.
 2. Reverse the lattice enthalpy (change its sign) for lattice breaking.
 3. Add the hydration enthalpy of every ion, multiplied by how many there are.
 4. Rearrange for whichever term is missing.
 
 **Worked reminder: ΔsolH of caesium bromide**
 
-Data (kJ mol⁻¹): ΔLEH(CsBr) = −645; ΔhydH(Cs⁺) = −276; ΔhydH(Br⁻) = −336.
+Data (kJ mol⁻¹): ΔLEH(CsBr) = −640; ΔhydH(Cs⁺) = −276; ΔhydH(Br⁻) = −336.
 
 ```
-ΔsolH = +645 + (−276) + (−336) = +33 kJ mol⁻¹
+ΔsolH = +640 + (−276) + (−336) = +28 kJ mol⁻¹
 ```
 
 Endothermic: breaking the lattice needs more energy than hydration releases.
 
-**Worked reminder: a 1:2 salt, barium chloride**
+**Worked reminder: a 1:2 salt, magnesium iodide**
 
-Data (kJ mol⁻¹): ΔLEH(BaCl₂) = −2056; ΔhydH(Ba²⁺) = −1341; ΔhydH(Cl⁻) = −364.
+Data (kJ mol⁻¹): ΔLEH(MgI₂) = −2327; ΔhydH(Mg²⁺) = −1926; ΔhydH(I⁻) = −307.
 
 ```
-ΔsolH = +2056 + (−1341) + 2(−364)
-      = 2056 − 1341 − 728
-      = −13 kJ mol⁻¹
+ΔsolH = +2327 + (−1926) + 2(−307)
+      = 2327 − 1926 − 614
+      = −213 kJ mol⁻¹
 ```
 
-The chloride term is doubled because BaCl₂ releases two chloride ions per formula unit. Leaving out the factor of 2 would give +351, which is wrong in both size and sign.
+The iodide term is doubled because MgI₂ releases two iodide ions per formula unit. Leaving out the factor of 2 would give +94, which is wrong in both size and sign.
 
 ### Reading a cycle you have not seen before
 
@@ -164,10 +164,10 @@ Questions sometimes give a part-drawn Born–Haber or solution cycle with one ar
 3. Write the equation for the enthalpy change of atomisation of iodine.
 4. Which two Born–Haber terms does the specification require you to define?
 5. Which has the more exothermic lattice enthalpy, LiCl or RbCl? Explain.
-6. Use these values to find the first electron affinity of bromine: ΔfH(CsBr) = −406; ΔatH(Cs) = +76; first IE(Cs) = +376; ΔatH(Br) = +112; ΔLEH(CsBr) = −645 (all kJ mol⁻¹).
+6. Use these values to find the first ionisation energy of potassium: ΔfH(KBr) = −394; ΔatH(K) = +89; ΔatH(Br) = +112; first EA(Br) = −325; ΔLEH(KBr) = −689 (all kJ mol⁻¹).
 7. How many electron affinity terms appear in the Born–Haber cycle for SrBr₂?
 8. Write the equation for the enthalpy change of solution of strontium chloride.
-9. ΔsolH(RbCl) = +17, ΔLEH(RbCl) = −692 and ΔhydH(Rb⁺) = −301 kJ mol⁻¹. Calculate ΔhydH(Cl⁻).
+9. ΔsolH(KF) = −18, ΔLEH(KF) = −827 and ΔhydH(K⁺) = −322 kJ mol⁻¹. Calculate ΔhydH(F⁻).
 10. Explain why ΔhydH(Mg²⁺) is more exothermic than ΔhydH(Na⁺).
 11. Why can ΔsolH be measured in a lab but ΔhydH cannot?
 
@@ -178,11 +178,11 @@ Questions sometimes give a part-drawn Born–Haber or solution cycle with one ar
 3. ½I₂(s) → I(g)
 4. First ionisation energy and enthalpy change of formation.
 5. LiCl. Li⁺ is smaller than Rb⁺ with the same charge, so the ions are closer and attract more strongly.
-6. −406 = 76 + 376 + 112 + EA + (−645), so EA = −406 − 76 − 376 − 112 + 645 = **−325 kJ mol⁻¹**.
+6. −394 = 89 + IE + 112 + (−325) + (−689), so IE = −394 − 89 − 112 + 325 + 689 = **+419 kJ mol⁻¹**.
 7. Two: one for each bromine atom (two Br(g) + 2e⁻ → two Br⁻(g)).
 8. SrCl₂(s) + aq → Sr²⁺(aq) + 2Cl⁻(aq)
-9. +17 = +692 + (−301) + ΔhydH(Cl⁻), so ΔhydH(Cl⁻) = 17 − 692 + 301 = **−374 kJ mol⁻¹**.
-10. Mg²⁺ has a larger charge and a smaller radius than Na⁺, so it attracts the δ− oxygen atoms of water more strongly and more energy is released.
+9. −18 = +827 + (−322) + ΔhydH(F⁻), so ΔhydH(F⁻) = −18 − 827 + 322 = **−523 kJ mol⁻¹**.
+10. Mg²⁺ carries a 2+ charge and is smaller than Na⁺, so water's δ− oxygen atoms are pulled closer and held more strongly, and more energy is released.
 11. A solid can be weighed and dissolved in water in a calorimeter. Gaseous ions cannot be produced and added to water, so ΔhydH comes from a cycle.
 
 ## Where marks are usually lost
