@@ -5694,11 +5694,33 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '1.4', name: 'Counting particles by mass: The mole', slug: 'ib-dp-chemistry-structure-1-4' },
         { number: '1.5', name: 'Ideal gases', slug: 'ib-dp-chemistry-structure-1-5' },
       ] },
-      { number: 2, name: 'Structure 2 -- Models of bonding and structure', slug: 'ib-dp-chemistry-structure-2', subtopics: [] },
-      { number: 3, name: 'Structure 3 -- Classification of matter', slug: 'ib-dp-chemistry-structure-3', subtopics: [] },
-      { number: 4, name: 'Reactivity 1 -- What drives chemical reactions?', slug: 'ib-dp-chemistry-reactivity-1', subtopics: [] },
-      { number: 5, name: 'Reactivity 2 -- How much, how fast and how far?', slug: 'ib-dp-chemistry-reactivity-2', subtopics: [] },
-      { number: 6, name: 'Reactivity 3 -- What are the mechanisms of chemical change?', slug: 'ib-dp-chemistry-reactivity-3', subtopics: [] },
+      { number: 2, name: 'Structure 2 -- Models of bonding and structure', slug: 'ib-dp-chemistry-structure-2', subtopics: [
+        { number: '2.1', name: 'The ionic model', slug: 'ib-dp-chemistry-structure-2-1' },
+        { number: '2.2', name: 'The covalent model', slug: 'ib-dp-chemistry-structure-2-2' },
+        { number: '2.3', name: 'The metallic model', slug: 'ib-dp-chemistry-structure-2-3' },
+        { number: '2.4', name: 'From models to materials', slug: 'ib-dp-chemistry-structure-2-4' },
+      ] },
+      { number: 3, name: 'Structure 3 -- Classification of matter', slug: 'ib-dp-chemistry-structure-3', subtopics: [
+        { number: '3.1', name: 'The periodic table: Classification of elements', slug: 'ib-dp-chemistry-structure-3-1' },
+        { number: '3.2', name: 'Functional groups: Classification of organic compounds', slug: 'ib-dp-chemistry-structure-3-2' },
+      ] },
+      { number: 4, name: 'Reactivity 1 -- What drives chemical reactions?', slug: 'ib-dp-chemistry-reactivity-1', subtopics: [
+        { number: '1.1', name: 'Measuring enthalpy changes', slug: 'ib-dp-chemistry-reactivity-1-1' },
+        { number: '1.2', name: 'Energy cycles in reactions', slug: 'ib-dp-chemistry-reactivity-1-2' },
+        { number: '1.3', name: 'Energy from fuels', slug: 'ib-dp-chemistry-reactivity-1-3' },
+        { number: '1.4', name: 'Entropy and spontaneity (Additional higher level)', slug: 'ib-dp-chemistry-reactivity-1-4' },
+      ] },
+      { number: 5, name: 'Reactivity 2 -- How much, how fast and how far?', slug: 'ib-dp-chemistry-reactivity-2', subtopics: [
+        { number: '2.1', name: 'How much? The amount of chemical change', slug: 'ib-dp-chemistry-reactivity-2-1' },
+        { number: '2.2', name: 'How fast? The rate of chemical change', slug: 'ib-dp-chemistry-reactivity-2-2' },
+        { number: '2.3', name: 'How far? The extent of chemical change', slug: 'ib-dp-chemistry-reactivity-2-3' },
+      ] },
+      { number: 6, name: 'Reactivity 3 -- What are the mechanisms of chemical change?', slug: 'ib-dp-chemistry-reactivity-3', subtopics: [
+        { number: '3.1', name: 'Proton transfer reactions', slug: 'ib-dp-chemistry-reactivity-3-1' },
+        { number: '3.2', name: 'Electron transfer reactions', slug: 'ib-dp-chemistry-reactivity-3-2' },
+        { number: '3.3', name: 'Electron sharing reactions', slug: 'ib-dp-chemistry-reactivity-3-3' },
+        { number: '3.4', name: 'Electron-pair sharing reactions', slug: 'ib-dp-chemistry-reactivity-3-4' },
+      ] },
     ],
   },
   {
