@@ -101,7 +101,7 @@ The polyamides in 6.2.3 are linked by secondary amide groups. The same counting 
 ## Optical isomerism: the essentials
 
 - Optical isomerism is a type of **stereoisomerism**, alongside E/Z and cis–trans (4.1.3).
-- It needs a **chiral centre**: a carbon with four different groups.
+- It needs a **chiral centre**, meaning a carbon atom bonded to four different groups.
 - The two isomers are **mirror images** that are **non-superimposable**: no rotation lines up every group.
 - If any two groups on the carbon are identical, the mirror image is the same molecule.
 
@@ -109,7 +109,7 @@ The polyamides in 6.2.3 are linked by secondary amide groups. The same counting 
 
 1. Put the chiral carbon in the centre.
 2. Draw two bonds in the plane of the page (plain lines).
-3. Show one bond coming towards you (solid wedge) and one going away (hashed wedge).
+3. Show one bond coming towards you (solid wedge) and one going away (hashed wedge), both on the side opposite the in-plane pair.
 4. Draw a mirror line, then reflect: left and right swap, wedge stays wedge, hashed stays hashed.
 5. Label every group on both isomers.
 
@@ -139,7 +139,7 @@ Compare **whole** groups, not just the atom attached. CH₂CH₃ and CH₂CH₂C
 - **Amide vs amine:** an amide has C=O on the nitrogen; an amine does not.
 - **Primary vs secondary amide:** count carbons on N, not hydrogens.
 - **Salt with alkali vs salt with acid:** sodium carboxylate (COO⁻Na⁺) vs ammonium chloride (NH₃⁺Cl⁻).
-- **Optical vs E/Z isomerism:** optical needs a chiral centre; E/Z needs a C=C with two different groups on each carbon.
+- **Optical vs E/Z isomerism:** optical needs a chiral centre; E/Z needs a C=C in which both carbons hold two unlike groups.
 - **Glycine vs other α-amino acids:** glycine (R = H) has no chiral centre; the others do.
 
 ## Quick self-test

@@ -42,7 +42,7 @@ Quick links: [course hub](/boards/oxfordaqa/igcse/chemistry/) · [printable chec
 | 3.5.2 b | Crystallise a salt solution to get the solid salt |
 | 3.5.2 c | Make insoluble salts by precipitation; name the reagents; explain how precipitation cleans water |
 
-None of the required practicals in section 6.2 of the specification sits in 3.5.1 or 3.5.2. The titration practical belongs to 3.6.4, but the alkali method below uses the same apparatus, so skills overlap.
+None of the required practicals in section 6.2 of the specification sits in 3.5.1 or 3.5.2. The titration practical belongs to 3.6.4 (see the [quantitative chemistry guide](/resources/oxfordaqa-igcse-chemistry-quantitative-chemistry/)), but the alkali method below uses the same apparatus, so skills overlap.
 
 ## Bases, alkalis and neutralisation (3.5.1 a to c)
 
@@ -85,7 +85,7 @@ Check: 1 Mg, 2 O, 4 H and 2 Cl on each side.
 
 NH₃(aq) + H₂O(l) ⇌ NH₄⁺(aq) + OH⁻(aq)
 
-Ammonia reacts with acids to make **ammonium salts**. No water forms in these reactions, because ammonia has no oxygen to give:
+Ammonia reacts with acids to make **ammonium salts**. No water forms in these reactions, because each ammonia molecule simply takes a hydrogen ion from the acid to become NH₄⁺:
 
 NH₃ + HNO₃ → NH₄NO₃ (ammonium nitrate)
 
@@ -137,7 +137,7 @@ There are three routes. All end by crystallising the salt solution.
 
 metal + acid → salt + hydrogen
 
-Not every metal is suitable. Very reactive metals such as potassium, sodium and lithium react too violently with acids to be safe. Metals below hydrogen in the reactivity series, such as copper and silver, are not reactive enough and do not react with dilute acids at all. Moderately reactive metals such as magnesium, zinc and iron work well. Add the metal in excess until bubbling stops, then filter off the unreacted metal. For the reactivity series, see the [metals study guide](/resources/oxfordaqa-igcse-chemistry-metals/).
+Not every metal is suitable. Very reactive metals such as potassium, sodium and lithium react too violently with acids to be safe. Metals below hydrogen in the reactivity series, such as copper and silver, are not reactive enough to give hydrogen with dilute acids. Moderately reactive metals such as magnesium, zinc and iron work well. Add the metal in excess until bubbling stops, then filter off the unreacted metal. For the reactivity series, see the [metals study guide](/resources/oxfordaqa-igcse-chemistry-metals/).
 
 ### Route 2: acid + insoluble base
 
@@ -166,7 +166,7 @@ Suggest how to make crystals of copper(II) nitrate, and explain why you chose th
 
 **Step 1: choose the acid.** A nitrate needs **nitric acid**.
 
-**Step 2: choose the copper compound.** Copper is below hydrogen, so copper metal will not react with dilute acid; route 1 is out. Copper(II) oxide is an insoluble base, so use route 2.
+**Step 2: choose the copper compound.** Copper is below hydrogen, so route 1 is out (with nitric acid, copper metal gives toxic nitrogen oxides, not hydrogen). Copper(II) oxide is an insoluble base, so use route 2.
 
 CuO + 2HNO₃ → Cu(NO₃)₂ + H₂O
 

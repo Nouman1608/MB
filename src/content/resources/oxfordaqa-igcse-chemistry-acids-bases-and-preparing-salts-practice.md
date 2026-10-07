@@ -62,7 +62,7 @@ Links: [acids, bases and salts study guide](/resources/oxfordaqa-igcse-chemistry
 
 | Volume of acid added / cm³ | 0 | 4 | 8 | 12 | 16 | 20 | 24 |
 |---|---|---|---|---|---|---|---|
-| pH | 13.0 | 12.9 | 12.7 | 12.4 | 7.0 | 1.9 | 1.6 |
+| pH | 13.0 | 12.8 | 12.6 | 12.2 | 7.0 | 1.9 | 1.6 |
 
 **(a)** State the volume of acid that exactly neutralised the alkali. **[1]**
 **(b)** Describe how the pH changes as the acid is added and explain the change in terms of ions. **[3]**
@@ -101,10 +101,10 @@ Links: [acids, bases and salts study guide](/resources/oxfordaqa-igcse-chemistry
 **(b)** Name two solutions that could be mixed to make barium carbonate, and write a balanced equation for the reaction. **[3]**
 **(c)** Explain why the precipitate is washed with distilled water after filtering. **[1]**
 
-**11.** A technician has these chemicals: zinc hydroxide (insoluble), copper metal, lead(II) nitrate solution, sodium sulfate solution, and dilute hydrochloric, nitric and sulfuric acids.
+**11.** A technician has these chemicals: zinc hydroxide (insoluble), copper metal, copper(II) sulfate solution, sodium carbonate solution, and dilute hydrochloric, nitric and sulfuric acids.
 
 **(a)** Describe how to make pure, dry crystals of zinc sulfate. Include an equation. **[5]**
-**(b)** Describe how to make a pure, dry sample of lead(II) sulfate, an insoluble salt. **[3]**
+**(b)** Describe how to make a pure, dry sample of copper(II) carbonate, an insoluble salt. **[3]**
 **(c)** Explain why the copper metal cannot be used to make copper(II) chloride, and name a type of copper compound that could be used instead. **[2]**
 
 **12.** Acidic waste water from a metal-finishing works contains dissolved copper(II) ions. Calcium hydroxide is added before release.
@@ -147,7 +147,7 @@ Links: [acids, bases and salts study guide](/resources/oxfordaqa-igcse-chemistry
 *Examiner insight:* Adding water as a product in part (b) makes the equation wrong; ammonia joins with the acid directly.
 
 **7. (a)** **Sulfuric acid** [1].
-**(b)** Copper is not reactive enough to react with dilute acid [1]; sodium is too reactive and would react dangerously [1].
+**(b)** Copper is not reactive enough to react with dilute sulfuric acid [1]; sodium is too reactive and would react dangerously [1].
 **(c)** Fe + H₂SO₄ → FeSO₄ + H₂ [1]
 **(d)** So that all the acid is used up and the solution contains only the salt [1]; bubbling (fizzing) stops and iron is left over [1].
 *Examiner insight:* Part (b) needs one point about copper and one about sodium; "it doesn't work" earns nothing.
@@ -169,8 +169,8 @@ Links: [acids, bases and salts study guide](/resources/oxfordaqa-igcse-chemistry
 *Examiner insight:* Naming "silver" or "chlorine" in part (a) does not score; each reagent must be a named solution of a soluble compound.
 
 **11. (a)** Add zinc hydroxide to warm dilute sulfuric acid, stirring, until some is left undissolved [1]. Filter off the excess solid [1]. Heat the filtrate until it is saturated [1], then cool so crystals form, filter and dry them [1]. Zn(OH)₂ + H₂SO₄ → ZnSO₄ + 2H₂O [1].
-**(b)** Mix lead(II) nitrate solution and sodium sulfate solution [1]; filter off the precipitate [1]; wash with distilled water and dry [1].
-**(c)** Copper is below hydrogen in the reactivity series, so it does not react with dilute acid [1]; use an insoluble base such as copper(II) oxide [1].
+**(b)** Mix copper(II) sulfate solution and sodium carbonate solution [1]; filter off the precipitate [1]; wash with distilled water and dry [1].
+**(c)** Copper is below hydrogen in the reactivity series, so it does not react with dilute hydrochloric acid [1]; use an insoluble base such as copper(II) oxide or copper(II) hydroxide [1].
 *Examiner insight:* The excess, the filtering and the crystallising are separate creditworthy steps; leaving one out costs a mark.
 
 **12. (a)** It neutralises the acid in the waste water [1]; it supplies hydroxide ions that precipitate the copper(II) ions [1].

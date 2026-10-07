@@ -109,7 +109,7 @@ Water adds H⁺ and OH⁻ ions to every aqueous electrolyte.
 
 **Practical points:**
 
-- Rinse the cathode gently and dry it before reweighing, or water adds to the mass and loose copper is lost.
+- Rinse the cathode gently (rough handling knocks off loose copper) and dry it before reweighing (water left on it adds to the mass).
 - Keep the rods apart so they do not touch.
 - Eye protection: copper sulfate solution is an irritant.
 - To spot an anomaly, compare each reading with the steady trend in mass gain.

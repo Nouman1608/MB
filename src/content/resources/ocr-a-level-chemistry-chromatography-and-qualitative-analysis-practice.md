@@ -94,7 +94,7 @@ The cleaning solution is diluted by a factor of 10 and injected under the same c
 ## Answers
 
 **1.** Rf = 2.85 ÷ 7.50, spot distance over front distance [1] = **0.38** [1]
-*Examiner insight:* An Rf above 1 or with units shows the division was inverted or mislabelled and loses the answer credit.
+*Examiner insight:* An Rf above 1, or one given with units, means the division was inverted or mislabelled; check that your answer is a unitless number below 1.
 
 **2.** Warm each with aqueous silver nitrate in ethanol [1] in a water bath [1]. 1-Iodohexane gives a yellow precipitate quickly; 1-chlorohexane gives a white precipitate much more slowly [1].
 *Examiner insight:* Colours alone are not enough; the reagent and the warming are separate points, and "AgNO₃" with no solvent is weaker than the full reagent.
@@ -114,7 +114,7 @@ The cleaning solution is diluted by a factor of 10 and injected under the same c
 **(b)** 4.9 × 10 = **49 g dm⁻³** [1]
 **(c)** The undiluted area would be far above the largest standard, so the reading would need extrapolation [1].
 **(d)** Any one: same column, oven temperature, carrier gas flow rate or injection volume [1].
-*Examiner insight:* Graph readings are credited within a tolerance, so draw a long ruled line and show the read-across on the graph.
+*Examiner insight:* Draw a long ruled best-fit line and mark the read-across from 7890 on the graph, so your reading is accurate and your method can be followed.
 
 **6.** Add Tollens' reagent to a sample of each and stand the tubes in a hot water bath [1]. Only the butanal tube develops a silver mirror; the butanone tube is unchanged [1]. Butanal is oxidised to butanoic acid: C₃H₇CHO + [O] → C₃H₇COOH [1]. Silver ions are reduced: Ag⁺ + e⁻ → Ag [1].
 *Examiner insight:* Credit goes to naming both changes, butanal oxidised and silver ions reduced; writing only "the aldehyde reduces" leaves the silver half out.

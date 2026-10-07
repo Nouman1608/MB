@@ -113,7 +113,7 @@ Carboxylic acids and esters contain C=O but give no precipitate with 2,4-DNP.
 Explanation for (e)(ii):
 
 - The aldehyde is oxidised to a carboxylic acid: RCHO + [O] → RCOOH.
-- Silver ions are reduced to silver: Ag⁺ + e⁻ → Ag.
+- Each Ag⁺ ion gains an electron and becomes silver metal: Ag⁺ + e⁻ → Ag.
 - One mole of aldehyde gives two moles of Ag (two electrons lost per –CHO).
 
 ### Small worked reminder
@@ -137,8 +137,8 @@ Order: 2,4-DNP first (is C=O present?), then Tollens' reagent (aldehyde or keton
 ## Links to other sections
 
 - **4.2.1 Alcohols:** primary alcohols are oxidised to aldehydes (distil) and secondary alcohols to ketones. Section 6.1.2(b)(i) reverses this: NaBH₄ turns the carbonyl compound back into the alcohol.
-- **6.2.4 Carbon–carbon bond formation:** the hydroxynitrile from 6.1.2(b)(ii) is one way to lengthen a chain; the nitrile can then be taken further.
-- **6.3.1(c) Qualitative analysis:** the 2,4-DNP, Tollens' and dichromate tests here are part of the full scheme for identifying unknown organic compounds.
+- **6.2.4 [Carbon–carbon bond formation](/resources/ocr-a-level-chemistry-carbon-carbon-bond-formation/):** the hydroxynitrile from 6.1.2(b)(ii) is one way to lengthen a chain; the nitrile can then be taken further.
+- **6.3.1(c) [Qualitative analysis](/resources/ocr-a-level-chemistry-chromatography-and-qualitative-analysis/):** the 2,4-DNP, Tollens' and dichromate tests here are part of the full scheme for identifying unknown organic compounds.
 
 A two-step route to remember: propan-2-ol → (Cr₂O₇²⁻/H⁺, reflux) → propanone → (NaCN(aq)/H⁺(aq)) → 2-hydroxy-2-methylpropanenitrile.
 
@@ -176,7 +176,7 @@ A two-step route to remember: propan-2-ol → (Cr₂O₇²⁻/H⁺, reflux) → 
 
 - Writing H₂ or 2H in place of 2[H] for NaBH₄ reductions.
 - Saying a ketone is oxidised by acidified dichromate, or giving no observation for the ketone (it stays orange).
-- Starting the CN⁻ arrow at nitrogen, or drawing it from the negative charge rather than from a lone pair.
+- Starting the CN⁻ arrow at nitrogen rather than at the lone pair on carbon.
 - Missing the arrow from the C=O bond to oxygen, so the oxygen never gains its negative charge.
 - Leaving out the protonation step, or not showing OH⁻ formed when water protonates the intermediate.
 - Describing 2,4-DNP as a colour change of the solution rather than a precipitate.

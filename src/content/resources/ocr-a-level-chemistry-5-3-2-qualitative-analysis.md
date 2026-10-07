@@ -60,7 +60,7 @@ These are the tests from 3.1.4(a), restated because an unknown here may also con
 | Br⁻ | AgNO₃(aq), after acidifying | cream precipitate, soluble in concentrated NH₃(aq) only | Ag⁺(aq) + Br⁻(aq) → AgBr(s) |
 | I⁻ | AgNO₃(aq), after acidifying | yellow precipitate, insoluble in concentrated NH₃(aq) | Ag⁺(aq) + I⁻(aq) → AgI(s) |
 
-The order of tests is carbonate, then sulfate, then halide. The specification's reason is that BaCO₃ and Ag₂SO₄ are both insoluble: carbonate would also precipitate with barium ions, and sulfate with silver ions. Nitric acid removes carbonate without adding a new anion. Barium nitrate is a better choice than barium chloride when a halide test will follow on the same solution.
+Test for carbonate first, then sulfate, then halide. The specification's reason is that BaCO₃ and Ag₂SO₄ are both insoluble: carbonate would also precipitate with barium ions, and sulfate with silver ions. Nitric acid removes carbonate without adding a new anion. Barium nitrate is a better choice than barium chloride when a halide test will follow on the same solution.
 
 One extra point arises with transition metals. Their carbonates do not dissolve in water. A coloured solid that will not dissolve in water but fizzes in dilute nitric acid is likely a carbonate. Dissolving it in nitric acid also puts the metal ion into solution, ready for the cation tests.
 

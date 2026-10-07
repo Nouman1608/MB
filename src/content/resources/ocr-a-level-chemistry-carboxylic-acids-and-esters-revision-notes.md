@@ -43,7 +43,7 @@ Once these notes feel secure, test yourself with the [Carboxylic acids and ester
 - Short-chain acids (methanoic to butanoic) are miscible with water.
 - Solubility falls as the chain lengthens: the non-polar chain cannot hydrogen bond with water.
 
-**Model answer, two marks:** "The –COOH group forms hydrogen bonds with water molecules: the δ+ H of O–H is attracted to a lone pair on a water oxygen. As the carbon chain gets longer, more of the molecule is non-polar and cannot hydrogen bond, so solubility decreases."
+**Model answer:** "The –COOH group forms hydrogen bonds with water molecules: the δ+ H of O–H is attracted to a lone pair on a water oxygen. As the carbon chain gets longer, more of the molecule is non-polar and cannot hydrogen bond, so solubility decreases."
 
 ## 6.1.3(b): Acid reactions in aqueous conditions
 
@@ -63,7 +63,7 @@ Carboxylic acids are weak acids: RCOOH ⇌ RCOO⁻ + H⁺. They still react as a
 | NaOH(aq) | reacts, salt forms | reacts, salt forms |
 | Na₂CO₃(aq) | effervescence, CO₂ | no reaction |
 
-Comparing the acidity of different carboxylic acids is not required.
+Comparing the acidity of different carboxylic acids is not required. The full set of PAG7 functional-group tests is in [Chromatography and qualitative analysis](/resources/ocr-a-level-chemistry-chromatography-and-qualitative-analysis/).
 
 **Method in steps: balancing an acid equation**
 

@@ -46,7 +46,7 @@ The specification says NMR chemical shift values will be provided on the Data Sh
 |---|---|---|---|
 | C–C (alkyl) | 5–55 | R–CH₃, R–CH₂–R, R₃CH | 0.7–1.8 |
 | C–Cl, C–Br | 30–70 | H–C–C=O | 2.0–2.7 |
-| C–N | 30–65 | H–C–N, H–C on a benzene ring | 2.3–3.0 |
+| C–N | 30–65 | H–C–N, H–C next to a benzene ring | 2.3–3.0 |
 | C–O | 50–90 | H–C–Cl, H–C–Br | 3.0–4.5 |
 | C=C (alkene) | 115–150 | H–C–O | 3.3–4.5 |
 | aromatic C | 110–160 | alkene C=C–H | 4.5–6.5 |
@@ -180,7 +180,7 @@ Compound C contains 50.8% C, 8.5% H and 40.7% O by mass. Relative atomic masses:
 - carbon-13: five lines, at δ 175.7, 66.8, 61.7, 20.4 and 14.1
 - proton: δ 1.29 (3H, triplet), 1.41 (3H, doublet), 2.9 (1H, broad singlet, gone after D₂O), 4.23 (2H, quartet), 4.28 (1H, quartet).
 
-**Empirical formula.** C: 50.8 ÷ 12.0 = 4.233. H: 8.5 ÷ 1.0 = 8.5. O: 40.7 ÷ 16.0 = 2.544. Dividing by 2.544 gives 1.664 : 3.342 : 1. Multiplying by 3 gives 4.99 : 10.03 : 3, so **C₅H₁₀O₃**, with Mr = 118.0.
+**Empirical formula.** C: 50.8 ÷ 12.0 = 4.233. H: 8.5 ÷ 1.0 = 8.5. O: 40.7 ÷ 16.0 = 2.544. Dividing by 2.544 gives 1.664 : 3.342 : 1. Multiplying by 3 gives 4.99 : 10.02 : 3, so **C₅H₁₀O₃**, with Mr = 118.0.
 
 **Molecular formula.** The molecular ion at m/z 118 matches: C₅H₁₀O₃.
 

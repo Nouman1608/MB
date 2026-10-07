@@ -43,7 +43,7 @@ The specification says chemical shift values will be provided on the Data Sheet 
 |---|---|---|---|
 | alkyl C–C | 5–55 | alkyl C–H | 0.7–1.8 |
 | C–Cl, C–Br | 30–70 | H–C–C=O | 2.0–2.7 |
-| C–N | 30–65 | H–C–N, H–C on a ring | 2.3–3.0 |
+| C–N | 30–65 | H–C–N, H–C next to a benzene ring | 2.3–3.0 |
 | C–O | 50–90 | H–C–Cl, H–C–Br | 3.0–4.5 |
 | alkene C=C | 115–150 | H–C–O | 3.3–4.5 |
 | aromatic C | 110–160 | alkene C=C–H | 4.5–6.5 |

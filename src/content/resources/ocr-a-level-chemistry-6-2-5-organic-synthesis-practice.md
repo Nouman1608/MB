@@ -62,7 +62,7 @@ Questions supply any data you need. Take O = 16.0, Br = 79.9, H = 1.0 and C = 12
 
 **6.** Devise a three-stage synthesis of 1-hydroxycyclohexane-1-carboxylic acid from cyclohexanol. For each stage, give the reagents and conditions and the structure of the product. **[6]**
 
-**7.** N-phenylbutanamide, CH₃CH₂CH₂CONHC₆H₅, is to be made from benzene and butanoic acid.
+**7.** N-phenylpentanamide, CH₃CH₂CH₂CH₂CONHC₆H₅, is to be made from benzene and pentanoic acid.
 
 **(a)** Devise a route. Give reagents for each step and name each intermediate. **[4]**
 **(b)** Write an equation for the final step. **[1]**
@@ -117,15 +117,15 @@ Stage 2: NaCN(aq) and H⁺(aq) [1]; 1-hydroxycyclohexane-1-carbonitrile, with OH
 Stage 3: dilute HCl(aq), heat under reflux [1]; 1-hydroxycyclohexane-1-carboxylic acid, with OH and COOH on one ring carbon [1]. **[6]**
 *Examiner insight:* The CN step is what adds the carbon of the COOH group; check that your target has one more carbon than cyclohexanol before you start.
 
-**7. (a)** Concentrated HNO₃ and concentrated H₂SO₄ give nitrobenzene [1]. Tin and concentrated HCl, then aqueous NaOH, give phenylamine [1]. SOCl₂ converts butanoic acid into butanoyl chloride [1]. Phenylamine reacts with butanoyl chloride to give N-phenylbutanamide [1]. **[4]**
-**(b)** C₆H₅NH₂ + CH₃CH₂CH₂COCl → CH₃CH₂CH₂CONHC₆H₅ + HCl [1] **[1]**
+**7. (a)** Concentrated HNO₃ and concentrated H₂SO₄ give nitrobenzene [1]. Tin and concentrated HCl, then aqueous NaOH, give phenylamine [1]. SOCl₂ converts pentanoic acid into pentanoyl chloride [1]. Phenylamine reacts with pentanoyl chloride to give N-phenylpentanamide [1]. **[4]**
+**(b)** C₆H₅NH₂ + CH₃CH₂CH₂CH₂COCl → CH₃CH₂CH₂CH₂CONHC₆H₅ + HCl [1] **[1]**
 **(c)** Secondary amide [1] **[1]**
 *Examiner insight:* Name the intermediates clearly; "reduce it" without the reagents tin and concentrated HCl does not show which reduction you mean.
 
 **8. (a)** C₆H₅OH + 3Br₂ → C₆H₂Br₃OH + 3HBr [1] **[1]**
 **(b)** n(phenol) = 1.50 ÷ 94.0 = 0.01596 mol [1]. M(C₆H₃Br₃O) = 330.7 g mol⁻¹, so theoretical mass = 0.01596 × 330.7 = 5.277 g [1]. Yield = 4.12 ÷ 5.277 × 100 = **78.1%** [1] **[3]**
 **(c)** Impure: it melts below 95 °C and over a 4 °C range [1] **[1]**
-*Examiner insight:* Phenol and the product react 1:1, so the theoretical mass uses moles of phenol directly; the 3:1 ratio applies to bromine.
+*Examiner insight:* One mole of phenol gives one mole of product, so the theoretical mass uses moles of phenol directly; the 3:1 ratio applies to bromine.
 
 **9.** Step 1: distilling removes the aldehyde, 2-methylpropanal, before further oxidation [1]. Heat under reflux with excess dichromate to make 2-methylpropanoic acid [1].
 Step 2: phenol is not readily esterified by a carboxylic acid [1]. Convert the acid into 2-methylpropanoyl chloride with SOCl₂, then react it with phenol [1]. **[4]**

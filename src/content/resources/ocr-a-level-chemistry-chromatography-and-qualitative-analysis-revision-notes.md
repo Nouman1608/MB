@@ -157,7 +157,7 @@ The 2,4-DNP equation and the structure of its derivative are not required.
 6. **All three:** yellow-orange precipitate with 2,4-DNP, silver mirror with Tollens', orange to green with dichromate.
 7. **Iodo first, then bromo, then chloro.** The C–I bond is the weakest, so it is hydrolysed fastest.
 8. Graphite is insoluble in the solvent; ink components would travel up the plate as extra spots.
-9. Most organic liquids catch fire easily; a water bath keeps flames away from them.
+9. Many organic liquids are flammable; a water bath keeps flames away from them.
 10. **No change; it stays orange.** It is a tertiary alcohol and resists oxidation.
 11. Run a pure standard under the same conditions and match the retention time.
 

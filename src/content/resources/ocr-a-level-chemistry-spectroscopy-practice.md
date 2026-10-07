@@ -26,7 +26,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-This set covers 6.3.2 Spectroscopy in the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. Questions target each outcome, 6.3.2(a) to (e), in Module 6 of the full A level. Questions 9 and 10 combine elemental analysis, mass spectra, IR and NMR.
+This set covers 6.3.2 Spectroscopy in the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. Questions target each outcome, 6.3.2(a) to (e). Questions 9 and 10 combine elemental analysis, mass spectra, IR and NMR.
 
 Background reading: the [study guide](/resources/ocr-a-level-chemistry-spectroscopy/) and [revision notes](/resources/ocr-a-level-chemistry-spectroscopy-revision-notes/). Also useful: the [OCR A Level Chemistry hub](/boards/ocr/a-level/chemistry/), the [H432 checklist](/checklists/ocr/a-level/chemistry/) and the [free diagnostics](/diagnostics/).
 
@@ -67,7 +67,7 @@ IR: alcohol O–H 3200–3600 cm⁻¹ (broad); acid O–H 2500–3300 cm⁻¹ (v
 **(b)** Isomer B gives three carbon-13 lines, at δ 142, 112 and 24. Identify B, and explain why it cannot be methylcyclopropane. **[2]**
 **(c)** Predict the proton NMR spectrum of B. **[2]**
 
-**6.** Compound C, C₈H₈O₂, is either methyl benzoate, C₆H₅COOCH₃, or phenyl ethanoate, CH₃COOC₆H₅. Its proton spectrum shows a 3H singlet at δ 3.9 and 5H of signals between δ 7.4 and 8.1.
+**6.** Compound C, C₅H₁₀O₂, is either methyl butanoate, CH₃CH₂CH₂COOCH₃, or propyl ethanoate, CH₃COOCH₂CH₂CH₃. Its proton spectrum has a 3H singlet at δ 3.7 and a 2H triplet at δ 2.3.
 
 **(a)** Explain which compound C is. **[3]**
 **(b)** State the expected shift range of the other compound's 3H singlet. **[1]**
@@ -130,9 +130,9 @@ IR: alcohol O–H 3200–3600 cm⁻¹ (broad); acid O–H 2500–3300 cm⁻¹ (v
 **(c)** Two signals, ratio 6 : 2 (3 : 1) [1]. Both are singlets, because the only carbon next to each set of protons is the central =C<, which carries no hydrogen [1].
 *Examiner insight:* To rule out an isomer, quote the evidence it fails to match.
 
-**6. (a)** The 5H at δ 7.4–8.1 are aromatic, a C₆H₅ group [1]. The 3H singlet is a CH₃ with no adjacent H [1]. δ 3.9 is in the H–C–O range, so the CH₃ is on oxygen: C is **methyl benzoate** [1].
+**6. (a)** The 3H singlet is a CH₃ with no adjacent H [1]. δ 3.7 is in the H–C–O range, so the CH₃ is on oxygen [1]. The δ 2.3 triplet is a CH₂ next to C=O, not on oxygen: C is **methyl butanoate** [1].
 **(b)** δ **2.0–2.7** (CH₃ next to C=O) [1].
-*Examiner insight:* Identify the ring from its shift and its 5H area; aromatic splitting is not expected.
+*Examiner insight:* Both isomers have a 3H singlet, so the shift decides what the CH₃ is bonded to.
 
 **7. (a)** IR: alcohol O–H and C=O; with no aldehyde proton, a ketone [1]. The δ 3.7 signal disappears with D₂O, so it is the O–H [1]. δ 2.22 (3H, singlet) is CH₃ on C=O [1]. δ 1.38 (6H, singlet) comes from a pair of equivalent methyl groups on a carbon that carries no hydrogen, so D is **CH₃COC(OH)(CH₃)₂, 3-hydroxy-3-methylbutan-2-one** [1].
 **(b)** **4** [1].

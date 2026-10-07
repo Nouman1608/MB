@@ -187,12 +187,12 @@ Worked example 7. A polymer section reads:
 
 Worked example 8. A section reads:
 
-–CO–C₆H₄–CO–O–(CH₂)₃–O–CO–C₆H₄–CO–O–(CH₂)₃–O–
+–CO–C₆H₄–CO–O–(CH₂)₈–O–CO–C₆H₄–CO–O–(CH₂)₈–O–
 
 1. Cut through each ester link between C=O and O.
-2. The pieces alternate: –CO–C₆H₄–CO– and –O–(CH₂)₃–O–.
+2. The pieces alternate: –CO–C₆H₄–CO– and –O–(CH₂)₈–O–.
 3. Add –OH to each acyl end and H to each oxygen end.
-4. Monomers: **HOOC–C₆H₄–COOH** (a benzenedicarboxylic acid; the diacyl chloride ClOC–C₆H₄–COCl also works) and **HO–(CH₂)₃–OH, propane-1,3-diol**.
+4. Monomers: **HOOC–C₆H₄–COOH** (a benzenedicarboxylic acid; the diacyl chloride ClOC–C₆H₄–COCl also works) and **HO–(CH₂)₈–OH, octane-1,8-diol**.
 
 For a polyamide, cut between C=O and N–H in the same way and give back –OH (or –Cl) and H.
 

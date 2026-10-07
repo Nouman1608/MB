@@ -65,10 +65,10 @@ Identify which solid is pure T, which is impure T, and which is a different pure
 **(c)** Explain why a lid is placed on the beaker. **[1]**
 **(d)** Suggest why the student uses ethanol rather than water as the solvent. **[1]**
 
-**6.** A green food colouring is analysed by paper chromatography. The solvent front is 9.0 cm above the baseline. The colouring gives three spots, with centres 2.7 cm, 5.4 cm and 7.2 cm above the baseline. Reference dyes run in the same solvent have these Rf values: A 0.30, B 0.45, C 0.80.
+**6.** A brown food colouring is analysed by paper chromatography. The solvent front is 9.0 cm above the baseline. The colouring gives three spots, with centres 2.7 cm, 5.4 cm and 7.2 cm above the baseline. Reference dyes run in the same solvent have these Rf values: A 0.30, B 0.45, C 0.80.
 
 **(a)** Calculate Rf for the lowest, middle and highest spots. **[2]**
-**(b)** Which reference dyes are in the green colouring? What can you conclude about the third spot? **[2]**
+**(b)** Which reference dyes are in the brown colouring? What can you conclude about the remaining spot? **[2]**
 
 **7.** In a different solvent a dye has an Rf value of 0.55. The solvent front moves 6.0 cm from the baseline. Calculate how far the dye spot moves. **[2]**
 
@@ -127,7 +127,7 @@ Identify which solid is pure T, which is impure T, and which is a different pure
 
 **6. (a)** Rf = spot distance ÷ solvent distance: 2.7 ÷ 9.0, 5.4 ÷ 9.0 and 7.2 ÷ 9.0 [1]. Rf values **0.30, 0.60 and 0.80** [1].
 **(b)** The colouring contains **A and C** [1]. No reference has Rf 0.60, so the middle spot is some other substance; B is absent [1].
-*Examiner insight:* Show at least one division in full; if a value is mis-keyed, written working is the only evidence of correct method.
+*Examiner insight:* Show at least one division in full so your method is clear, and give each Rf to two decimal places to match the reference values.
 
 **7.** Distance = Rf × distance moved by solvent = 0.55 × 6.0 [1] = **3.3 cm** [1].
 *Examiner insight:* Write the rearranged formula before substituting, and give the unit, cm, with the answer.

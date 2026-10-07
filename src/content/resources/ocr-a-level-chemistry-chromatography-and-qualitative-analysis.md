@@ -97,7 +97,7 @@ Retention time also depends on the column, oven temperature and carrier gas flow
 
 ### (b)(ii) Amounts and proportions
 
-The **area** under each peak is proportional to the amount of that component. The instrument integrates the peaks and gives you the areas.
+Each peak's **area** shows how much of that component the sample contains. The instrument integrates the peaks and gives you the areas.
 
 Percentage of a component = (its peak area ÷ total of all peak areas) × 100
 
@@ -136,7 +136,7 @@ A citrus extract was diluted by a factor of 5 and injected. Its limonene peak ar
 
 **Step 2. Read off.** Concentration = (2950 − 5) ÷ 2406 = **1.22 g dm⁻³** in the diluted sample. On a graph, read across from 2950 to the line and down to the x-axis.
 
-**Step 3. Allow for dilution.** 1.22 × 5 = **6.12 g dm⁻³** in the original extract.
+**Step 3. Allow for dilution.** Using the unrounded value, 1.224 × 5 = **6.12 g dm⁻³** in the original extract.
 
 The unknown lies inside the range of the standards; reading beyond them would mean extrapolating, which is less reliable.
 

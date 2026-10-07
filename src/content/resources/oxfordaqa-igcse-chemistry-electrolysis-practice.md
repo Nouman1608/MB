@@ -130,7 +130,7 @@ Links: [electrolysis study guide](/resources/oxfordaqa-igcse-chemistry-electroly
 
 **5. (a)** A pink-brown (copper-coloured) coating forms [1].
 **(b)** Oxygen [1]. It relights a glowing splint [1].
-**(c)** The 20 minute reading (0.70 g) [1]. Suggestion: some copper flaked off during rinsing, or the cathode was not dry when weighed at another time point, or the current briefly dropped [1].
+**(c)** The 20 minute reading (0.70 g) [1]. Suggestion: a one-off weighing error, such as misreading the balance or recording the wrong value; the 25 minute reading is back on the trend, so no copper was lost for good [1].
 **(d)** 1.00 ÷ 25 [1] = **0.040 g/min** [1].
 **(e)** Copper ions (which make the solution blue) are removed from the solution as copper is deposited on the cathode [1].
 *Examiner insight:* For an anomalous result, quote the specific reading and compare it with the trend (about 0.04 g each minute predicts 0.80 g at 20 minutes); "the one that doesn't fit" is too vague.

@@ -42,7 +42,7 @@ In calculations take C 12.0, H 1.0, O 16.0, N 14.0, Na 23.0. In every structure,
 **(a)** –CH₂–CH(OCOCH₂CH₃)–CH₂–CH(OCOCH₂CH₃)– **[2]**
 **(b)** –O–CH₂–CH₂–CH₂–CO–O–CH₂–CH₂–CH₂–CO– **[2]**
 
-**3.** Pentane-1,5-diol, HO–(CH₂)₅–OH, reacts with benzene-1,3-dicarbonyl dichloride, ClOC–C₆H₄–COCl, to form a polyester.
+**3.** Decane-1,10-diol, HO–(CH₂)₁₀–OH, reacts with benzene-1,3-dicarbonyl dichloride, ClOC–C₆H₄–COCl, to form a polyester.
 
 **(a)** Give the repeat unit of the polyester. **[2]**
 **(b)** Name the other product. **[1]**
@@ -109,7 +109,7 @@ A 2.75 g sample was heated under reflux with 40.0 cm³ of 1.00 mol dm⁻³ NaOH(
 **(b)** **Condensation**: ester links are in the backbone [1]; monomer **HO–CH₂–CH₂–CH₂–COOH**, 4-hydroxybutanoic acid [1]
 *Examiner insight:* In (a), seeing an ester group and answering "condensation" is the trap; justify the type from the backbone, not the side groups.
 
-**3. (a)** Ester link correctly formed between the acyl carbon and the diol oxygen [1]; repeat unit **–[CO–C₆H₄–CO–O–(CH₂)₅–O]–** with open bonds at both ends and one residue of each monomer [1]
+**3. (a)** Ester link correctly formed between the acyl carbon and the diol oxygen [1]; repeat unit **–[CO–C₆H₄–CO–O–(CH₂)₁₀–O]–** with open bonds at both ends and one residue of each monomer [1]
 **(b)** **Hydrogen chloride** [1]
 *Examiner insight:* Water in (b) is a common slip; the by-product comes from the acyl chloride group, so it must contain chlorine.
 

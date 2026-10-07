@@ -109,7 +109,7 @@ H⁺(aq) + OH⁻(aq) → H₂O(l)
 
 Metal route limits:
 - **Too reactive:** potassium, sodium, lithium; the reaction is violent and dangerous.
-- **Not reactive enough:** copper, silver, gold; no reaction with dilute acid.
+- **Not reactive enough:** copper, silver, gold; no reaction with dilute hydrochloric or sulfuric acid.
 
 **Method in steps: excess solid (metal or insoluble base)**
 
@@ -167,7 +167,7 @@ Example: sodium nitrate. Sodium is too reactive, and sodium hydroxide is an alka
 4. Universal indicator turns blue in a solution. Give a likely pH range and name the ion present in excess.
 5. Name the product of ammonia with sulfuric acid, and give its formula.
 6. State what forms when carbon dioxide is bubbled through limewater.
-7. Why is silver metal unsuitable for making silver nitrate from nitric acid by the metal route?
+7. Why can copper metal not be used to make copper(II) sulfate from dilute sulfuric acid?
 8. When making a salt from an insoluble base, how do you know all the acid has reacted?
 9. Name two solutions you could mix to make lead(II) iodide.
 10. Why is the alkali and acid reaction repeated without indicator?
@@ -182,7 +182,7 @@ Example: sodium nitrate. Sodium is too reactive, and sodium hydroxide is an alka
 4. About pH 8 to 11; hydroxide ions, OH⁻.
 5. Ammonium sulfate, (NH₄)₂SO₄.
 6. Calcium carbonate (and water); the limewater turns cloudy white.
-7. Silver is not reactive enough; it does not react with dilute acid.
+7. Copper is below hydrogen in the reactivity series, so it does not react with dilute sulfuric acid.
 8. Some solid base stays undissolved after stirring.
 9. Lead(II) nitrate solution and potassium iodide solution (or sodium iodide solution).
 10. So the salt is not contaminated with indicator.

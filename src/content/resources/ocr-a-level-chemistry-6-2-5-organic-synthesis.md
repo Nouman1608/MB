@@ -159,15 +159,15 @@ Combine this with the Module 4 table in the 4.2.3 guide.
 3. On a ring, place substituents in an order that the directing effects allow (6.1.1(k)–(l)). Introduce groups that would react with a later reagent, such as NH₂, as late as possible.
 4. For each step give the reagent, the conditions and the intermediate's structure.
 
-### Worked example 4: but-1-ene to 2-methylbutan-1-amine
+### Worked example 4: pent-1-ene to 2-methylpentan-1-amine
 
-The target, CH₃CH₂CH(CH₃)CH₂NH₂, has five carbons; the start has four. A CH₂NH₂ group at the end of a branch comes from reducing a nitrile.
+The target, CH₃CH₂CH₂CH(CH₃)CH₂NH₂, has six carbons; the start has five. A CH₂NH₂ group at the end of a branch comes from reducing a nitrile.
 
-1. HBr adds to but-1-ene. By Markownikoff's rule the major product is **2-bromobutane**, CH₃CH₂CHBrCH₃.
-2. KCN in ethanol, heat under reflux. CN⁻ substitutes for Br⁻, giving **2-methylbutanenitrile**, CH₃CH₂CH(CH₃)CN. This adds the fifth carbon.
-3. H₂ with a nickel catalyst reduces C≡N to CH₂NH₂: **2-methylbutan-1-amine**.
+1. HBr adds to pent-1-ene. By Markownikoff's rule the major product is **2-bromopentane**, CH₃CH₂CH₂CHBrCH₃.
+2. KCN in ethanol, heat under reflux. CN⁻ substitutes for Br⁻, giving **2-methylpentanenitrile**, CH₃CH₂CH₂CH(CH₃)CN. This adds the sixth carbon.
+3. H₂ with a nickel catalyst reduces C≡N to CH₂NH₂: **2-methylpentan-1-amine**.
 
-Ammonia on 2-bromobutane would give a four-carbon amine.
+Ammonia on 2-bromopentane would give a five-carbon amine.
 
 ### Worked example 5: benzene to 1-(3-aminophenyl)ethanone
 

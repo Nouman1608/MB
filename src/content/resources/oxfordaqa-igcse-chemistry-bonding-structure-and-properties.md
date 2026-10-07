@@ -45,7 +45,8 @@ A free ten-minute [diagnostic](/diagnostics/) will show which parts of the cours
 | 3.2.2 f | Describe giant covalent structures (diamond, graphite, silicon dioxide) and explain their very high melting points; recognise other giant structures from diagrams |
 | 3.2.2 g | Explain why metals conduct heat and electricity |
 
-How the bonds form belongs to section 3.2.1. Electron arrangements are covered in
+How the bonds form belongs to
+[section 3.2.1](/resources/oxfordaqa-igcse-chemistry-chemical-bonds-ionic-covalent-and-metallic/). Electron arrangements are covered in
 [our guide to atoms and the periodic table for this course](/resources/igcse-oxfordaqa-chemistry-atomic-structure-and-periodic-table/).
 
 ## Four structure types at a glance
@@ -95,8 +96,6 @@ An electric current is a flow of charge. In an ionic compound, the charge carrie
   current, so the liquid conducts.
 - **Dissolved in water**: the lattice comes apart and the ions mix with the water molecules. Now
   mobile, they carry the current through the solution.
-
-Electrons play no part: the moving particles are **ions**.
 
 ### Worked example 1: explaining a conductivity result
 
@@ -189,7 +188,8 @@ The examples you must know are:
 To melt any of these, you must break a huge number of strong covalent bonds. That needs a very
 large amount of energy, so they have **very high melting points**. Silicon dioxide, for example,
 melts at roughly 1700 °C. The detailed structures and other properties of diamond and graphite,
-such as hardness and graphite's conductivity, belong to section 3.2.3.
+such as hardness and graphite's conductivity, belong to
+[section 3.2.3](/resources/oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles/).
 
 ### Recognising a giant structure from a diagram
 

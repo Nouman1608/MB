@@ -143,9 +143,9 @@ Your hands are the everyday model: mirror images that cannot be overlaid. If two
 
 Use the standard convention around the tetrahedral carbon:
 
-- two bonds as plain lines, in the plane of the page;
+- two neighbouring bonds as plain lines, in the plane of the page;
 - one solid wedge, pointing towards you;
-- one hashed (dashed) wedge, pointing away from you.
+- one hashed (dashed) wedge, pointing away from you, with both wedges on the side opposite the plain pair.
 
 Draw one isomer, a dotted mirror line, then the reflection: wedges stay wedges and hashed bonds stay hashed; only left and right swap.
 
@@ -154,13 +154,13 @@ Draw one isomer, a dotted mirror line, then the reflection: wedges stay wedges a
 **Task:** show the two optical isomers of 2-aminohexanoic acid.
 
 1. The α-carbon carries H, NH₂, COOH and C₄H₉. Four different groups, so it is a chiral centre.
-2. Sketch, where | is a bond in the page, ◀ or ▶ is a solid wedge towards you and ··· is a hashed bond away from you:
+2. Sketch, where | and — are bonds in the page, ◀ or ▶ is a solid wedge towards you and ⋮ is a hashed bond away from you:
 
 ```
           H          :          H
           |          :          |
- C₄H₉ ··· C ◀ NH₂    :    H₂N ▶ C ··· C₄H₉
-          |          :          |
+  C₄H₉ —  C ◀ NH₂    :    H₂N ▶ C — C₄H₉
+          ⋮          :          ⋮
         COOH         :        COOH
 ```
 

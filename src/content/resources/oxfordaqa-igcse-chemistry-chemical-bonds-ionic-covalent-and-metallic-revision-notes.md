@@ -52,12 +52,12 @@ Every ion in the table has a noble gas arrangement: [2,8] is neon's and [2,8,8] 
 - **Group 7** (halogens) react with metals to form ionic compounds containing a **1−** halide ion.
 - Compounds of a metal with a non-metal consist of ions.
 
-### Method: writing an ion in the specification's form
+### Method: showing the electron arrangement of an ion
 
 1. Write the atom's electron arrangement from its atomic number.
 2. Metal: remove the outer-shell electrons. Non-metal: add electrons until the outer shell holds eight.
 3. Charge = protons − electrons.
-4. Write the new arrangement in square brackets with the charge at the top right, for example [2,8]⁺ for Na⁺.
+4. Draw the new shells (or write the arrangement) inside square brackets with the charge at the top right. The specification draws Na⁺ as a shell diagram with 2 and 8 electrons in brackets, charge +; written out, that is [2,8]⁺.
 
 ## Ionic structures (f)
 
@@ -123,7 +123,7 @@ You also need to recognise the other two forms the specification shows: the dot 
 - The outer electrons are **delocalised**: they can move anywhere in the metal.
 - Think of it as **positive ions** in a regular lattice with electrons between them.
 - **Strong electrostatic attractions** between the positive ions and the delocalised electrons hold the structure together.
-- The standard diagram: rows of circles labelled +, with electrons (e⁻ or dots) drawn in the spaces and labelled "delocalised electrons".
+- The specification's diagram: rows of circles labelled +, in a shaded background labelled "delocalised electrons" (e⁻ symbols drawn between the ions show the same idea).
 - A Group 1 metal gives one delocalised electron per atom and forms 1+ ions in the lattice; a Group 2 metal gives two and forms 2+ ions.
 
 ## Must-know distinctions
@@ -143,7 +143,7 @@ Two more:
 ## Quick self-test
 
 1. Is chlorine gas, Cl₂, a compound? Give a reason.
-2. Give the electron arrangement of a beryllium ion, Be²⁺, in the specification's form.
+2. Give the electron arrangement of a beryllium ion, Be²⁺, written in square brackets with its charge.
 3. Phosphorus has atomic number 15. Give the charge and electron arrangement of a phosphide ion.
 4. Strontium is in Group 2 and fluorine in Group 7. Give the formula of strontium fluoride.
 5. Why do all Group 1 metals form ions with a single positive charge?
@@ -152,7 +152,7 @@ Two more:
 8. How many shared pairs and non-bonding pairs are there in a hydrogen chloride molecule?
 9. Name the two giant covalent structures listed in the specification.
 10. In solid potassium, what particles are in the lattice, and what holds them together?
-11. Dichlorine oxide, Cl₂O, contains only non-metals. What does that tell you about its structure?
+11. Disulfur dichloride, S₂Cl₂, contains only non-metals. What does that tell you about its structure?
 
 ### Answers
 
@@ -166,7 +166,7 @@ Two more:
 8. One shared pair; three non-bonding pairs, all on the chlorine.
 9. Diamond and silicon dioxide.
 10. K⁺ ions in a regular pattern, with delocalised electrons between them; strong electrostatic attraction between the ions and the electrons holds them together.
-11. It is made of Cl₂O molecules, with the atoms in each molecule joined by covalent bonds.
+11. It is made of S₂Cl₂ molecules, with the atoms in each molecule joined by covalent bonds.
 
 ## Where marks are usually lost
 

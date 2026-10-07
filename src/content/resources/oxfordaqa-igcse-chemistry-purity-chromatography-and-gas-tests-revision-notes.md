@@ -187,7 +187,7 @@ Links: [course hub](/boards/oxfordaqa/igcse/chemistry/) · [checklist](/checklis
 
 ## Next steps
 
-Work through the [practice questions](/resources/oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests-practice/), then go back to the [study guide](/resources/oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests/) for anything you got wrong. The [exam preparation guide](/resources/oxfordaqa-igcse-chemistry-exam-preparation/) covers technique across the course. Find weak spots with the [free 10-minute diagnostics](/diagnostics/).
+Work through the [practice questions](/resources/oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests-practice/), then go back to the [study guide](/resources/oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests/) for anything you got wrong. The [exam preparation guide](/resources/oxfordaqa-igcse-chemistry-exam-preparation/) covers technique across the course, and the [identification of ions guide](/resources/oxfordaqa-igcse-chemistry-identification-of-ions/) continues chemical analysis with flame tests and precipitates. Find weak spots with the [free 10-minute diagnostics](/diagnostics/).
 
 ## Official syllabus
 

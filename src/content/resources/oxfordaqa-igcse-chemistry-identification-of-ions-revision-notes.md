@@ -98,6 +98,8 @@ Check the balance: 2 Al, 3 SO₄ and 6 Na on each side; 6 OH⁻ go into 2 Al(OH)
 
 General word equation: carbonate + acid → salt + water + carbon dioxide.
 
+The gas tests themselves (section 3.4.2) are in the [purity, chromatography and gas tests guide](/resources/oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests/).
+
 ## Halides (3.4.3 e)
 
 **Method in steps**

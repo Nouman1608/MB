@@ -101,7 +101,7 @@ Relative atomic masses for the calculations: Ag 107.9, H 1.0, O 16.0, C 12.0, N 
 **(b)** Heat under reflux (with excess oxidising agent) [1]
 **(c)** Orange to green [1]
 **(d)** **C₆H₅CH₂CHO + [O] → C₆H₅CH₂COOH** [1]
-*Examiner insight:* "Acidified dichromate" without naming the acid, or "distil" as the condition, describes the alcohol-to-aldehyde step, not this one.
+*Examiner insight:* Give "heat under reflux" as the condition; "distil" is how a primary alcohol is stopped at the aldehyde, which is the opposite of what is wanted here.
 
 **3. (a)** The ring carbon that was C=O now carries OH and CN: **C₅H₈(OH)CN**, a cyclopentane ring with –OH and –C≡N on the same carbon (1-hydroxycyclopentane-1-carbonitrile) [1]
 **(b)** HCN is a very toxic, volatile compound; NaCN(aq) with acid supplies CN⁻ and H⁺ in solution instead [1]
@@ -110,7 +110,7 @@ Relative atomic masses for the calculations: Ag 107.9, H 1.0, O 16.0, C 12.0, N 
 *Examiner insight:* In (a), put both groups on the former carbonyl carbon; placing OH and CN on different carbons shows a different compound.
 
 **4.** Dipole Cδ+=Oδ− shown; H⁻ lone pair attacks the carbonyl carbon (curly arrow) [1]. π-bond pair of C=O moves onto O (arrow starts on the double bond) [1]. Alkoxide intermediate **CH₃CH₂CH₂O⁻**, charge on O [1]. O⁻ lone pair takes H from H₂O, the O–H pair returning to the water's O, giving **propan-1-ol and OH⁻** [1]
-*Examiner insight:* Curly arrows begin on electrons, so draw the lone pair on H⁻ and start there; an arrow that begins at the minus sign or stops short of the carbon may not be credited.
+*Examiner insight:* Curly arrows begin on electrons, so draw the lone pair on H⁻ and start there, and make the arrow end clearly on the carbonyl carbon, not on the oxygen.
 
 **5. (a)** CN⁻ attacks the δ+ carbonyl carbon, the arrow beginning at the lone pair on its **carbon** atom [1]. The C=O π pair moves onto O [1]. Intermediate (CH₃)₂CHCH₂CH(CN)O⁻ [1]. O⁻ lone pair bonds to H⁺, giving (CH₃)₂CHCH₂CH(OH)CN [1]
 **(b)** **2-Hydroxy-4-methylpentanenitrile** [1]

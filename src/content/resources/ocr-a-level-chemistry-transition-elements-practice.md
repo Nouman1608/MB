@@ -125,7 +125,7 @@ State the colour change and the change in oxidation number of chromium, then con
 
 **3. (a)** Mn: +2, Mn²⁺, very pale pink; +7, MnO₄⁻, purple [1]. Second element, e.g. Fe: +2, Fe²⁺, pale green; +3, Fe³⁺, yellow to orange-brown [1]. Each element shown in two or more oxidation states with correct formulae [1]
 **(b)** MnO₂ catalyses the decomposition of hydrogen peroxide [1]: **2H₂O₂ → 2H₂O + O₂** [1]
-*Examiner insight:* The question asks for at least two elements, so an answer using manganese alone limits the credit available in (a).
+*Examiner insight:* The question needs manganese and a second element, so an answer using manganese alone limits the credit available in (a).
 
 **4. (a)** Square planar: cis has the two Cl ligands at 90° (adjacent), trans has them at 180° (opposite) [1]. The flat arrangement is fixed, and there are two pairs of different ligands [1]
 **(b)** Chloride ligands are replaced inside the cell [1]. Pt bonds to nitrogen atoms on DNA bases [1]. The distorted DNA cannot be replicated, so the cell cannot divide [1]

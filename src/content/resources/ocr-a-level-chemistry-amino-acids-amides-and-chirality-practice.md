@@ -78,11 +78,11 @@ Data for all questions:
 **(b)** Write an equation for its reaction with propylamine, CH₃CH₂CH₂NH₂, using two moles of the amine, and state the type of amide formed. **[2]**
 **(c)** Identify, by its position in the chain, the chiral centre in the amide from (b). **[1]**
 
-**8.** Three 3-D drawings of heptan-2-amine are described. Each has the chiral carbon central, two in-plane bonds (up and down), one wedge and one hashed bond.
+**8.** Three 3-D drawings of heptan-2-amine are described. Each has the chiral carbon central, two neighbouring in-plane bonds, and one wedge and one hashed bond on the opposite side.
 
-- Drawing 1: H up, CH₃ down, NH₂ on a wedge to the right, C₅H₁₁ on a hashed bond to the left.
-- Drawing 2: H up, CH₃ down, C₅H₁₁ on a wedge to the right, NH₂ on a hashed bond to the left.
-- Drawing 3: CH₃ up, H down, NH₂ on a wedge to the left, C₅H₁₁ on a hashed bond to the right.
+- Drawing 1: H up and CH₃ left (in plane), NH₂ on a wedge to the right, C₅H₁₁ on a hashed bond pointing down.
+- Drawing 2: H up and CH₃ left (in plane), C₅H₁₁ on a wedge to the right, NH₂ on a hashed bond pointing down.
+- Drawing 3: H down and CH₃ right (in plane), NH₂ on a wedge to the left, C₅H₁₁ on a hashed bond pointing up.
 
 **(a)** State the relationship between drawings 1 and 2, and explain your answer. **[2]**
 **(b)** State the relationship between drawings 1 and 3. **[1]**
@@ -130,7 +130,7 @@ Data for all questions:
 *Examiner insight:* Show both mole values; a ratio of masses ignores the change in molar mass.
 
 **5. (a)** The CH carbon is a chiral centre: it carries four different groups, H, CH₃, NH₂ and C₆H₅ [1]; so the molecule exists as two mirror images that are non-superimposable [1]
-**(b)** A 3-D tetrahedral drawing using in-plane, wedged and hashed bonds [1]; its reflection beside a mirror line, every group labelled [1]. For example: H up, CH₃ down, NH₂ wedge right, C₆H₅ hashed left; then the same with left and right exchanged.
+**(b)** A 3-D tetrahedral drawing using in-plane, wedged and hashed bonds [1]; its reflection beside a mirror line, every group labelled [1]. For example: H up and CH₃ left in the plane, NH₂ wedge right, C₆H₅ hashed down; then H up, CH₃ right, NH₂ wedge left, C₆H₅ hashed down.
 *Examiner insight:* Four plain bonds cannot show the mirror relationship; use wedges and label every group.
 
 **6. (a)** **1** (C3) [1]

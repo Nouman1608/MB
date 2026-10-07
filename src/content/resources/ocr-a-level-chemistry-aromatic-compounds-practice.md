@@ -62,11 +62,11 @@ Relative atomic masses: N 14.0; H 1.0; O 16.0; C 12.0. Any further data is given
 
 **6.** Cyclohexene decolourises bromine at room temperature. Benzene does not react unless a halogen carrier is present. Explain this difference. **[3]**
 
-**7.** Benzene reacts with 2,2-dimethylpropanoyl chloride, (CH₃)₃CCOCl, in the presence of AlCl₃ to form 2,2-dimethyl-1-phenylpropan-1-one, C₆H₅COC(CH₃)₃.
+**7.** Benzene reacts with phenylethanoyl chloride, C₆H₅CH₂COCl, in the presence of AlCl₃ to form 1,2-diphenylethanone, C₆H₅COCH₂C₆H₅.
 
 **(a)** Name the type of reaction and write an equation to show the role of AlCl₃. **[2]**
 **(b)** Write the overall equation for the reaction. **[1]**
-**(c)** 3.12 g of benzene reacts with excess acyl chloride. 4.73 g of the ketone is obtained. Calculate the percentage yield. **[2]**
+**(c)** 3.12 g of benzene reacts with excess acyl chloride. 6.04 g of the ketone is obtained. Calculate the percentage yield. **[2]**
 **(d)** Explain why reactions of this type are important in organic synthesis. **[1]**
 
 **8.** In the presence of a strong acid, benzene reacts with cyclohexene to form cyclohexylbenzene, C₆H₅C₆H₁₁. You are told that H⁺ first adds to cyclohexene to form a carbocation.
@@ -129,16 +129,16 @@ Relative atomic masses: N 14.0; H 1.0; O 16.0; C 12.0. Any further data is given
 **6.** The C=C π-bond of cyclohexene holds its two electrons between just two atoms: a region of high electron density [1]; benzene's six π-electrons spread round the whole ring, so electron density at any bond is lower [1]; benzene cannot induce a large enough dipole in Br₂, so a halogen carrier is needed to form Br⁺ [1] **[3]**
 *Examiner insight:* Compare electron density in both molecules; saying only that benzene is "stable" does not explain why Br₂ fails to react.
 
-**7. (a)** Friedel–Crafts acylation (electrophilic substitution) [1]; (CH₃)₃CCOCl + AlCl₃ → (CH₃)₃CCO⁺ + AlCl₄⁻ [1]
-**(b)** C₆H₆ + (CH₃)₃CCOCl → C₆H₅COC(CH₃)₃ + HCl [1]
-**(c)** n(benzene) = 3.12 ÷ 78.0 = 0.0400 mol; Mr(C₁₁H₁₄O) = 162.0, theoretical mass = 6.48 g [1]; yield = 4.73 ÷ 6.48 × 100 = **73.0%** [1]
+**7. (a)** Friedel–Crafts acylation (electrophilic substitution) [1]; C₆H₅CH₂COCl + AlCl₃ → C₆H₅CH₂CO⁺ + AlCl₄⁻ [1]
+**(b)** C₆H₆ + C₆H₅CH₂COCl → C₆H₅COCH₂C₆H₅ + HCl [1]
+**(c)** n(benzene) = 3.12 ÷ 78.0 = 0.0400 mol; Mr(C₁₄H₁₂O) = 196.0, theoretical mass = 7.84 g [1]; yield = 6.04 ÷ 7.84 × 100 = **77.0%** [1]
 **(d)** It forms a new C–C bond to the aromatic ring, extending the carbon skeleton [1] **[6]**
-*Examiner insight:* Keep 6.48 g unrounded; rounding to 6.5 g early gives 72.8%.
+*Examiner insight:* Keep 7.84 g unrounded; rounding to 7.8 g early gives 77.4%.
 
 **8. (a)** C₆H₁₀ + H⁺ → C₆H₁₁⁺ [1]
 **(b)** Curly arrow from the π-system to the positive carbon of C₆H₁₁⁺, forming the charged intermediate [1]; C–H bond electrons move into the ring (curly arrow) and H⁺ leaves [1]
 **(c)** H⁺ is used in forming the electrophile and regenerated in the final step [1] **[4]**
-*Examiner insight:* Unfamiliar reactions are marked on the same pattern as nitration; reuse the three-arrow sequence rather than inventing a new one.
+*Examiner insight:* Unfamiliar substitutions follow the same pattern as nitration; reuse the three-arrow sequence rather than inventing a new one.
 
 **9. (a)** Only propanoic acid effervesces with sodium carbonate [1]; of the other two, phenol gives a weakly acidic pH (below 7) while ethanol is neutral [1]
 **(b)** C₆H₅OH + NaOH → C₆H₅ONa + H₂O [1]

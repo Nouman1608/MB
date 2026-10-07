@@ -109,7 +109,7 @@ Revise first with the [study guide](/resources/oxfordaqa-igcse-chemistry-structu
 *Examiner insight:* Writing that the covalent bonds in graphite are weak is chemically wrong and loses the first mark.
 
 **4.** One electron from each carbon atom is **delocalised** [1]. These electrons **move through the structure** and carry the current [1]. Like a metal, graphite **has delocalised electrons** [1].
-*Examiner insight:* Mention of ions or atoms moving cancels the explanation; only electrons move in graphite.
+*Examiner insight:* Writing that ions or atoms move contradicts the explanation; only electrons move in graphite.
 
 **5. (a)** **Hexagonal rings** of carbon atoms [1]
 **(b)** Any two of: drug delivery into the body; lubricants; catalysts; nanotubes for reinforcing materials [1] [1].

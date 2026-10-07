@@ -30,7 +30,7 @@ Electron arrangements come from the [earlier unit on atoms and shells](/resource
 |---|---|
 | a | Say what a compound is |
 | b | Explain bonding as transferring or sharing outer-shell electrons to reach a noble gas arrangement |
-| c | Describe how positive and negative ions form; write ion arrangements such as [2,8]⁺; link charge to group number |
+| c | Describe how positive and negative ions form; draw an ion's shells in square brackets with its charge; link charge to group number |
 | d | State that Group 1 metals form ionic compounds with non-metals, with a 1+ metal ion |
 | e | State that Group 7 elements form ionic compounds with metals, with a 1− halide ion |
 | f | Describe a giant ionic lattice and ionic bonding; know the sodium chloride structure; draw ion formation diagrams |
@@ -39,7 +39,7 @@ Electron arrangements come from the [earlier unit on atoms and shells](/resource
 | i | Describe how the atoms in a metal are arranged |
 | j | Explain metallic bonding with delocalised electrons and draw the standard diagram |
 
-How these bonds explain melting points, conductivity and hardness belongs to section 3.2.2, the next unit.
+How these bonds explain melting points, conductivity and hardness belongs to section 3.2.2, the [next unit](/resources/oxfordaqa-igcse-chemistry-bonding-structure-and-properties/).
 
 ## Compounds and why atoms bond (a, b)
 
@@ -54,7 +54,7 @@ Atoms bond by moving or sharing the electrons in their **highest occupied energy
 
 Atoms that transfer electrons become **ions**. Losing electrons gives a **positive** ion (more protons than electrons); gaining electrons gives a **negative** ion. Metals form positive ions; non-metals form negative ions. Compounds made from a metal and a non-metal consist of ions.
 
-Write an ion's arrangement in square brackets with the charge at the top right: [2,8]⁺ for a sodium ion. The proton number never changes.
+The specification shows a sodium ion as a shell diagram: the nucleus, a circle for each shell with its electrons as crosses (2 then 8), all inside square brackets with + at the top right. In writing, the same ion can be given as [2,8]⁺. The proton number never changes.
 
 **Worked example 1.** Give the electron arrangements of the ions formed by lithium (atomic number 3) and sulfur (atomic number 16).
 
@@ -171,24 +171,24 @@ The specification names water, ammonia, hydrogen, hydrogen chloride, methane and
 
 Check any diagram: total outer electrons of the atoms = 2 × (shared pairs + non-bonding pairs). For oxygen, 6 + 6 = 12 = 2 × (2 + 4).
 
-**Worked example 4.** Nitrogen is in Group 5 and fluorine is in Group 7. Draw a dot and cross diagram for nitrogen trifluoride, NF₃.
+**Worked example 4.** Phosphorus is in Group 5 and bromine is in Group 7. Draw a dot and cross diagram for phosphorus tribromide, PBr₃.
 
 ```
-N has 5 outer electrons (crosses); each F has 7 (dots).
-N needs 3 more; each F needs 1 more.
-So N shares one pair with each of the 3 F atoms.
+P has 5 outer electrons (crosses); each Br has 7 (dots).
+P needs 3 more; each Br needs 1 more.
+So P shares one pair with each of the 3 Br atoms.
 
-Each N-F overlap:      one x (from N) + one • (from F)
-Left on N:             one pair, xx
-Left on each F:        three pairs, ••  ••  ••
-Displayed formula:     F-N-F, with the third F bonded to N
+Each P-Br overlap:     one x (from P) + one • (from Br)
+Left on P:             one pair, xx
+Left on each Br:       three pairs, ••  ••  ••
+Displayed formula:     Br-P-Br, with the third Br bonded to P
 
 Shared pairs: 3
-Non-bonding pairs: 1 on N + 3 on each F = 10
+Non-bonding pairs: 1 on P + 3 on each Br = 10
 Check: 5 + 7 + 7 + 7 = 26 = 2 x (3 + 10)
 ```
 
-Nitrogen looks as it does in ammonia, but each fluorine also keeps three non-bonding pairs.
+Phosphorus looks like the nitrogen in ammonia, but each bromine also keeps three non-bonding pairs.
 
 **Worked example 5.** Carbon is in Group 4, oxygen and sulfur in Group 6. Carbonyl sulfide is O=C=S. Explain the bonding.
 
@@ -214,7 +214,7 @@ A is **simple molecular**: the bonds stop at each pair, and the diagram shows ma
 
 A metal is a **giant structure** in which the atoms are packed in a **regular pattern**. Each atom's outer-shell electrons are **delocalised**: no longer attached to a particular atom, they can **move anywhere in the metal**.
 
-The picture is a lattice of **positive ions** with delocalised electrons between them. The electrons hold the ions together by **strong electrostatic attractions** between the positive ions and the negative electrons. The standard diagram shows rows of circles marked + with small dots or e⁻ symbols scattered between them, labelled "delocalised electrons".
+The picture is a lattice of **positive ions** with delocalised electrons between them. The electrons hold the ions together by **strong electrostatic attractions** between the positive ions and the negative electrons. The specification's diagram shows rows of circles marked +, sitting in a shaded background that represents the delocalised electrons, labelled "delocalised electrons". Drawing small e⁻ symbols between the ions shows the same idea.
 
 **Worked example 7.** Describe the bonding in solid calcium. Calcium is in Group 2.
 

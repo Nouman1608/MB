@@ -88,7 +88,7 @@ The methyl branch moves from C3 in the haloalkane to C4 in the nitrile, because 
 
 General equation: R₂C=O + HCN → R₂C(OH)CN
 
-This works for aldehydes and ketones, and again the chain grows by one carbon.
+This works for aldehydes and ketones; again the chain gains one carbon.
 
 ### The nucleophilic addition mechanism
 
@@ -99,12 +99,12 @@ This works for aldehydes and ketones, and again the chain grows by one carbon.
 
 ### Worked example 2: addition to a branched ketone
 
-3-Methylbutan-2-one, CH₃COCH(CH₃)₂, reacts with NaCN(aq)/H⁺(aq). Give the product and describe the mechanism.
+3-Methylpentan-2-one, CH₃COCH(CH₃)CH₂CH₃, reacts with NaCN(aq)/H⁺(aq). Give the product and describe the mechanism.
 
 1. The C=O carbon is C2 of the ketone. CN adds to it and H adds to the oxygen.
-2. Product: CH₃C(OH)(CN)CH(CH₃)₂, molecular formula C₆H₁₁NO.
-3. Name it from the nitrile carbon: C1 is CN, C2 carries OH and a methyl, C3 carries a methyl, C4 is the end CH₃. Name: **2-hydroxy-2,3-dimethylbutanenitrile**.
-4. Mechanism: :CN⁻ carbon lone pair attacks the δ+ carbonyl carbon; the π pair moves onto O; the intermediate is CH₃C(O⁻)(CN)CH(CH₃)₂; the O⁻ takes H⁺ from water or from H⁺(aq).
+2. Product: CH₃C(OH)(CN)CH(CH₃)CH₂CH₃, molecular formula C₇H₁₃NO.
+3. Name it from the nitrile carbon: C1 is CN, C2 carries OH and a methyl, C3 carries a methyl, C4 is CH₂ and C5 is the end CH₃. Name: **2-hydroxy-2,3-dimethylpentanenitrile**.
+4. Mechanism: :CN⁻ carbon lone pair attacks the δ+ carbonyl carbon; the π pair moves onto O; the intermediate is CH₃C(O⁻)(CN)CH(CH₃)CH₂CH₃; the O⁻ takes H⁺ from water or from H⁺(aq).
 
 ## 6.2.4(c): Taking the nitrile further
 
@@ -203,6 +203,7 @@ To make 5.00 g of the acid (Mᵣ 132.0): 5.00 ÷ 132.0 = 0.03788 mol, so 0.03788
 
 - Condense this page: [Carbon–carbon bond formation revision notes](/resources/ocr-a-level-chemistry-carbon-carbon-bond-formation-revision-notes/)
 - Test yourself: [Carbon–carbon bond formation practice questions](/resources/ocr-a-level-chemistry-carbon-carbon-bond-formation-practice/)
+- Related: [OCR carbonyl compounds study guide](/resources/ocr-a-level-chemistry-carbonyl-compounds/)
 - Check the whole course: [all free 10-minute diagnostics](/diagnostics/)
 
 ## Official syllabus

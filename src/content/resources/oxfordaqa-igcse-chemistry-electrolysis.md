@@ -20,7 +20,7 @@ publishedDate: 2026-10-07
 featured: false
 ---
 
-This study guide teaches electrolysis for OxfordAQA International GCSE Chemistry (9202). It follows the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, and covers every statement in section 3.3.2 (statements a to j) plus the required practical on copper sulfate solution. The qualification is untiered, so everything here applies to every candidate. Either paper can test this unit, because the specification allows any of its content on Paper 1 or Paper 2.
+This study guide teaches electrolysis for OxfordAQA International GCSE Chemistry (9202). It follows the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, and covers every statement in section 3.3.2 (statements a to j) plus the required practical on copper sulfate solution. The qualification is untiered, so everything here applies to every candidate.
 
 Quick links: [course hub](/boards/oxfordaqa/igcse/chemistry/) · [printable checklist](/checklists/oxfordaqa/igcse/chemistry/) · [revision notes for this unit](/resources/oxfordaqa-igcse-chemistry-electrolysis-revision-notes/) · [practice questions for this unit](/resources/oxfordaqa-igcse-chemistry-electrolysis-practice/) · [free diagnostics](/diagnostics/)
 
@@ -48,7 +48,7 @@ An ionic compound is a giant lattice of positive and negative ions. In the solid
 
 When the compound is **melted** or **dissolved in water**, the lattice breaks up. The ions are now free to move about within the liquid or solution. Moving ions can carry charge, so the liquid conducts.
 
-**Electrolysis** is the breakdown of an ionic substance, molten or in solution, by passing an electric current through it. The substance being broken down is the **electrolyte**. For a molten compound the products are the elements it is made from.
+**Electrolysis** is the breakdown of an ionic substance, molten or in solution, by passing an electric current through it. The substance being broken down is the **electrolyte**. For a molten compound the products are the elements it is made from: molten lead bromide, for example, gives lead and bromine.
 
 Two conducting rods, the **electrodes**, dip into the electrolyte and connect to a direct-current supply:
 
@@ -152,7 +152,7 @@ A student weighed the cathode every 4 minutes at a steady current.
 |---|---|---|---|---|---|
 | Mass of cathode / g | 12.46 | 12.58 | 12.70 | 12.77 | 12.94 |
 
-Mass gained: 0.12 g, 0.24 g, 0.31 g and 0.48 g after 4, 8, 12 and 16 minutes. Every value except 12 minutes fits 0.03 g per minute (0.12 ÷ 4 = 0.03). At 12 minutes the expected gain is 12 × 0.03 = 0.36 g, so 0.31 g is **anomalous**, perhaps because loose copper was knocked off while rinsing. The steady gain shows a solid (copper) is being deposited.
+Mass gained: 0.12 g, 0.24 g, 0.31 g and 0.48 g after 4, 8, 12 and 16 minutes. Every value except 12 minutes fits 0.03 g per minute (0.12 ÷ 4 = 0.03). At 12 minutes the expected gain is 12 × 0.03 = 0.36 g, so 0.31 g is **anomalous**. The 16-minute reading is back on trend, so this was a one-off weighing or recording slip, not lost copper. The steady gain shows a solid (copper) is being deposited.
 
 ## 3.3.2 h: electroplating
 
@@ -186,7 +186,7 @@ Carbon is below aluminium in reactivity, so heating the oxide with carbon does n
 
 Pure aluminium oxide melts at over 2000 °C. It is dissolved in molten **cryolite**, which gives a mixture that is molten at a much lower temperature (around 950 °C). **Cryolite is used because it lowers the temperature needed, which saves a large amount of energy and money.**
 
-- **Negative electrode (cathode):** aluminium ions are reduced, Al³⁺ + 3e⁻ → Al. Molten aluminium collects at the bottom of the cell and is tapped off.
+- **Negative electrode (cathode):** aluminium ions are reduced, Al³⁺ + 3e⁻ → Al. The aluminium, liquid at this temperature, sinks to the floor of the cell and is tapped off.
 - **Positive electrode (anode):** oxide ions are oxidised, 2O²⁻ → O₂ + 4e⁻.
 - The positive electrodes are made of **carbon**. At this temperature the carbon reacts with the oxygen: C + O₂ → CO₂. The anodes burn away and must be replaced regularly.
 

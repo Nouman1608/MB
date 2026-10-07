@@ -28,7 +28,7 @@ Course hub: [OCR A Level chemistry](/boards/ocr/a-level/chemistry/). Progress tr
 
 ## The outcome in one line
 
-Given an unknown compound, use test-tube tests to identify CO₃²⁻, Cl⁻, Br⁻, I⁻ and SO₄²⁻ (part (i)) and NH₄⁺, Cu²⁺, Fe²⁺, Fe³⁺, Mn²⁺ and Cr³⁺ (part (ii)). The anion tests and the ammonium test come from 3.1.4(a). The transition metal tests use the precipitation and complex-formation reactions of 5.3.1(j).
+Given an unknown compound, use test-tube tests to identify CO₃²⁻, Cl⁻, Br⁻, I⁻ and SO₄²⁻ (part (i)) and NH₄⁺, Cu²⁺, Fe²⁺, Fe³⁺, Mn²⁺ and Cr³⁺ (part (ii)). The anion tests and the ammonium test come from 3.1.4(a). The transition metal tests use the precipitation and complex-formation reactions of 5.3.1(j). Revise those sections in [3.1.4 Qualitative analysis](/resources/ocr-a-level-chemistry-qualitative-analysis/) and [5.3.1 Transition elements](/resources/ocr-a-level-chemistry-transition-elements/).
 
 ## Anions: the order matters
 

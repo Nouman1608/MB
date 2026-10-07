@@ -126,7 +126,7 @@ Check: 1 + 6 + 6 + 1 = 14 = 2 × (3 + 4).
 **(b)** Each silicon has four oxygens, but each oxygen is shared between two silicons [1], so there are half as many silicon atoms as oxygen atoms: Si : O = 1 : 2 [1].
 *Examiner insight:* "It has strong bonds" is not evidence from the diagram; your evidence should point to something you can see, such as bonds running off the edges.
 
-**10.** A giant structure of sodium atoms arranged in a regular pattern [1]. The outer electron of each atom is delocalised, free to move through the whole structure [1]. This leaves Na⁺ ions held together by strong electrostatic attraction to the delocalised electrons [1]. Diagram: a regular lattice of circles marked + with electrons between them, labelled "delocalised electrons" [1]. **[4]**
+**10.** A giant structure of sodium atoms arranged in a regular pattern [1]. The outer electron of each atom is delocalised, free to move through the whole structure [1]. This leaves Na⁺ ions held together by strong electrostatic attraction to the delocalised electrons [1]. Diagram: a regular lattice of circles marked + with electrons (or shading) between them, labelled "delocalised electrons" [1]. **[4]**
 *Examiner insight:* Writing "free electrons" alone, with no idea that they move through the whole structure, or saying "free ions", weakens the description of delocalisation.
 
 **11. (a)** Q: **2,8,8,1** [1]. R: **2,8,7** [1].

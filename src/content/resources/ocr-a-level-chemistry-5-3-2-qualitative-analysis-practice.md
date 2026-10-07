@@ -55,7 +55,7 @@ O₂(g) + 2H₂O(l) + 4e⁻ → 4OH⁻(aq)
 **(b)** Use the half-equations to construct the overall equation. **[2]**
 **(c)** State the change in the oxidation number of iron, and name the oxidising agent. **[2]**
 
-**5.** Solid X is ammonium iron(III) sulfate, NH₄Fe(SO₄)₂. Describe test-tube tests, with the expected observations, that would show the presence of each of its three ions. **[6]**
+**5.** Solid X is ammonium iron(II) sulfate, (NH₄)₂Fe(SO₄)₂. Describe test-tube tests, with the expected observations, that would show the presence of each of its three ions. **[6]**
 
 **6.** A student dissolves 1.00 g of chromium(III) chloride hexahydrate, CrCl₃·6H₂O, in water and adds 0.500 mol dm⁻³ NaOH(aq) from a burette. Use these Ar values: H = 1.0, O = 16.0, Cl = 35.5, Cr = 52.0.
 
@@ -122,7 +122,7 @@ Cr(OH)₃(s) + 3OH⁻(aq) → [Cr(OH)₆]³⁻(aq) [1]
 **(c)** Iron goes from +2 to +3. [1] The oxidising agent is oxygen, O₂, from the air. [1]
 *Examiner insight:* Cancel species that appear on both sides; no electrons should remain in the overall equation.
 
-**5.** Fe³⁺: add aqueous sodium hydroxide (or aqueous ammonia) to a solution of X. [1] An orange-brown precipitate forms, which does not dissolve in excess. [1]
+**5.** Fe²⁺: add aqueous sodium hydroxide (or aqueous ammonia) to a solution of X. [1] A green precipitate forms, insoluble in excess, browning at the surface on standing. [1]
 NH₄⁺: warm X with aqueous sodium hydroxide, holding moist red litmus paper near the open end. [1] The litmus turns blue (ammonia gas). [1]
 SO₄²⁻: acidify a solution of X with dilute nitric acid and add aqueous barium nitrate (or barium chloride). [1] A white precipitate forms. [1]
 *Examiner insight:* For each ion give both the reagent and the result; either alone is only half a test.

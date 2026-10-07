@@ -86,7 +86,7 @@ Naming reminders: primary amines take "-amine" on the stem (hexan-2-amine) or th
 - *Ethanol, not water:* OH⁻ or water would substitute the halogen and form an alcohol.
 - *Sealed tube:* stops volatile ammonia escaping on heating.
 
-**Cross-link:** a nitrile reduced with H₂/Ni (6.2.4(c)) also gives a primary amine, RCN + 2H₂ → RCH₂NH₂. Starting from a haloalkane via a nitrile adds one carbon, and the amine never meets unreacted haloalkane, so there is no further substitution.
+**Cross-link:** a nitrile reduced with H₂/Ni (6.2.4(c)) also gives a primary amine, RCN + 2H₂ → RCH₂NH₂. Starting from a haloalkane via a nitrile adds one carbon, and the amine never meets unreacted haloalkane, so there is no further substitution. More in [Carbon–carbon bond formation](/resources/ocr-a-level-chemistry-carbon-carbon-bond-formation/).
 
 ### Worked reminder
 
@@ -99,6 +99,8 @@ Product: cyclohexylmethanamine, a primary amine with the same carbon skeleton as
 ## 6.2.1(b)(ii): Aromatic amines by reduction
 
 **Reagents:** tin (Sn) and concentrated hydrochloric acid, heat under reflux. **Then:** excess NaOH(aq).
+
+Nitroarenes come from nitration of arenes: see [Aromatic compounds](/resources/ocr-a-level-chemistry-aromatic-compounds/).
 
 **Equation with [H]**, as the specification's guidance for organic redox asks:
 
