@@ -1,5 +1,7 @@
 ---
 title: "Cambridge A-Level Law: Criminal Law — Revision Notes (9084)"
+seoTitle: "Cambridge 9084 A Level Law: Criminal Law Revision Notes"
+seoDescription: "Revision notes for Cambridge AS & A Level Law 9084 Topic 2, Criminal Law: the elements of a crime, offences against property, and sentencing."
 resourceType: "revision-notes"
 subject: "law"
 level: ["a-levels"]

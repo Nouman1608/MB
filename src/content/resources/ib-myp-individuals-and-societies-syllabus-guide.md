@@ -1,5 +1,7 @@
 ---
 title: "IB Middle Years Programme Individuals and Societies: Syllabus Guide"
+seoTitle: "MYP Individuals and Societies: Subjects, Concepts, Criteria"
+seoDescription: "What IB MYP Individuals and Societies covers: the subject options, key and related concepts, the four assessment criteria and the MYP eAssessment."
 resourceType: "study-guides"
 subject: "myp-individuals-and-societies"
 level: ["ib"]

@@ -1,5 +1,7 @@
 ---
 title: "IB MYP Mathematics: The Four Assessment Criteria in Practice -- Revision Notes"
+seoTitle: "MYP Maths Criteria A–D Explained: Revision Notes"
+seoDescription: "What top-band work looks like in MYP Mathematics criteria A–D: knowing and understanding, investigating patterns, communicating, real-life contexts."
 resourceType: "revision-notes"
 subject: "mathematics"
 level: ["ib"]

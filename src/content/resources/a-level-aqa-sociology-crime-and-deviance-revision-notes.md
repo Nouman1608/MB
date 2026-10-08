@@ -1,5 +1,7 @@
 ---
 title: "AQA A-Level Sociology: Crime and Deviance — Revision Notes"
+seoTitle: "AQA A Level Sociology Crime and Deviance Notes (7192)"
+seoDescription: "Revision notes for AQA A Level Sociology 7192 Paper 3, Crime and Deviance: the content areas, core themes and which theory explains what."
 resourceType: "revision-notes"
 subject: "sociology"
 level: ["a-levels"]

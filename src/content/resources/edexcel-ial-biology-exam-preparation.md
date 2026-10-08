@@ -1,5 +1,7 @@
 ---
 title: "Edexcel International A Level Biology: Unit-by-Unit Exam Preparation Across Six Papers"
+seoTitle: "Edexcel IAL Biology YBI11 Exam Guide: Units 1–6"
+seoDescription: "How the six units of Edexcel International A Level Biology YBI11 are weighted, why Units 3 and 6 are written practical papers, and an evaluation routine."
 resourceType: "exam-preparation"
 subject: "biology"
 level: ["a-levels"]

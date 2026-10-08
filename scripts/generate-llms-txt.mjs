@@ -21,8 +21,15 @@ import { execSync } from 'node:child_process';
 
 const SITE_URL = 'https://marlbridge.com';
 const SITE_NAME = 'Marlbridge';
-const SITE_DESCRIPTION =
-  'Marlbridge helps learners build the knowledge, confidence and skills they need to succeed in school, examinations, higher education and beyond.';
+/**
+ * D-404 (8 Oct 2026) -- the summary is now a factual description an AI
+ * assistant can quote when asked who teaches IGCSE/A Level online. GA4
+ * showed ~890 sessions a month from ChatGPT and similar tools, falling
+ * from 221 to 125 a week through September; the previous one-line mission
+ * statement said nothing about what Marlbridge does or where. The
+ * paragraph itself is assembled further down from site data (counts, group
+ * size), so it cannot drift from the pages.
+ */
 
 const tsx = (file) =>
   execSync(
@@ -183,6 +190,49 @@ if (apConfig?.AP_LIBRARY_PUBLIC) {
   for (const c of AP_COURSES) apLines.push(`- [${c.officialName.replace(/^AP /, 'AP® ')}](${SITE_URL}${apConfig.AP_LIBRARY_BASE}${c.slug}/): ${c.units.length} units; exam ${c.examDate}.`);
 }
 
+const { REGION_PRICING, PRICING_TERMS, PRICING_VERIFIED_DATE } = JSON.parse(tsx('src/data/pricing.ts'));
+// Only the keys are needed; the full topic records exceed execSync's buffer.
+const CURRENT_SYLLABUS_KEYS = JSON.parse(execSync(
+  `node --experimental-strip-types --no-warnings -e "` +
+  `import('./src/data/academic/syllabus-topics.ts').then(m => process.stdout.write(JSON.stringify(` +
+  `m.SYLLABUS_VERSIONS.filter(v => v.status === 'current').map(v => v.boardSlug + '/' + v.qualificationSlug + '/' + v.subjectSlug))))"`,
+  { encoding: 'utf8', cwd: process.cwd() },
+));
+
+const taughtCombos = active.filter((c) => c.classesOffered !== false);
+const publishedResources = resourceFiles.length;
+const SITE_DESCRIPTION =
+  `Marlbridge is an online tutoring service for IGCSE, O Level, GCSE, AS & A Level and IB students, operated by Learners Academy in Lahore, Pakistan. ` +
+  `Subject teachers teach live classes one-to-one or in small groups of up to ${PRICING_TERMS.maxGroupSize}, online for students anywhere and in person in Lahore; the first trial class is free. ` +
+  `Classes are offered in ${taughtCombos.length} board, qualification and subject combinations (Cambridge, Pearson Edexcel, AQA, OxfordAQA, OCR and IB), ` +
+  `and the site publishes ${publishedResources.toLocaleString('en-GB')} free study resources, printable syllabus checklists and exam tools. Marlbridge has no office outside Pakistan.`;
+
+/**
+ * D-404 -- one line per course page, with its official code, so an
+ * assistant asked about "0620 chemistry" or "9709 tutor" can cite the exact
+ * page. Only publishable combinations with a current syllabus record (the
+ * same records that build the printable checklists) are listed, and each
+ * says whether classes are offered.
+ */
+const currentSyllabus = new Set(CURRENT_SYLLABUS_KEYS);
+const courseLines = active
+  .filter((c) => currentSyllabus.has(`${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`))
+  .sort((a, b) => `${a.board} ${a.qualification} ${a.subject}`.localeCompare(`${b.board} ${b.qualification} ${b.subject}`))
+  .map((c) => {
+    const key = `${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`;
+    const code = c.qualificationCode && /\d/.test(c.qualificationCode) ? ` (${c.qualificationCode})` : '';
+    const name = c.qualification.startsWith('IB ') ? `${c.qualification} ${c.subject}` : `${c.board} ${c.qualification} ${c.subject}`;
+    const status = c.classesOffered === false ? 'free resources only, no classes at the moment' : 'classes offered (free trial)';
+    return `- [${name}${code}](${SITE_URL}/boards/${key}/): syllabus, topics, assessment and free resources; ${status}; [printable checklist](${SITE_URL}/checklists/${key}/).`;
+  });
+
+const feeLines = REGION_PRICING.map((r) => {
+  const sym = r.symbol ?? r.currency;
+  const fee = (n) => `${sym}${/[A-Za-z]$/.test(sym) ? ' ' : ''}${Number(n).toLocaleString('en-GB')}`;
+  const kind = r.status === 'indicative' ? ' Indicative: a currency conversion of the Pakistan fee, confirmed in writing before any payment.' : '';
+  return `- ${r.region}: ${fee(r.igcse)} (GCSE, IGCSE, O Level) and ${fee(r.aLevel)} (AS and A Level) per subject per month, group classes.${kind}`;
+});
+
 const lines = [
   `# ${SITE_NAME}`,
   '',
@@ -199,6 +249,23 @@ const lines = [
   '## Subjects',
   '',
   ...subjectLines,
+  '',
+  '## Courses by syllabus code',
+  '',
+  ...courseLines,
+  '',
+  '## Free exam tools',
+  '',
+  `- [Grade threshold explorer](${SITE_URL}/grade-thresholds/): Cambridge grade boundaries by syllabus, with the official tables they come from.`,
+  `- [Exam calendar](${SITE_URL}/exam-calendar/): Cambridge entry deadlines, exam windows and results days for the next series, from Cambridge's own key-dates documents.`,
+  `- [Command words](${SITE_URL}/command-words/): what each exam command word (describe, explain, evaluate and others) asks the student to do.`,
+  `- [Syllabus updates](${SITE_URL}/syllabus-updates/): changes to syllabuses and specifications between exam years.`,
+  '',
+  '## Group class fees',
+  '',
+  `Monthly group fees per subject by region, last confirmed ${PRICING_VERIFIED_DATE}. One-to-one and IB fees are per class; the [pricing page](${SITE_URL}/pricing/) has them and marks any figure that is a currency conversion rather than a set price. ${PRICING_TERMS.freeTrial}`,
+  '',
+  ...feeLines,
   '',
   '## More',
   '',
@@ -231,4 +298,4 @@ const lines = [
 ];
 
 await writeFile('public/llms.txt', lines.join('\n'), 'utf8');
-console.log(`public/llms.txt generated -- ${boardLines.length} boards, ${qualLines.length} qualifications, ${subjectLines.length} subjects.`);
+console.log(`public/llms.txt generated -- ${boardLines.length} boards, ${qualLines.length} qualifications, ${subjectLines.length} subjects, ${courseLines.length} courses.`);

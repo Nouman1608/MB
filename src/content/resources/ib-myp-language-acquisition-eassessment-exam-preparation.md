@@ -1,5 +1,7 @@
 ---
 title: "IB MYP Language Acquisition eAssessment: Preparing for Both Components"
+seoTitle: "MYP Language Acquisition eAssessment: Both Components"
+seoDescription: "How to prepare for IB MYP Language Acquisition eAssessment: the on-screen listening, reading and writing exam, the speaking exam, and a checklist."
 resourceType: "exam-preparation"
 subject: "myp-language-acquisition"
 level: ["ib"]

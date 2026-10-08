@@ -1,5 +1,7 @@
 ---
 title: "NMR Spectroscopy: Carbon-13 and Proton NMR"
+seoTitle: "Cambridge 9701 NMR: Carbon-13 and Proton NMR Spectra"
+seoDescription: "Read carbon-13 and proton NMR spectra for Cambridge A Level Chemistry 9701: chemical shifts, peak areas, splitting, the n+1 rule and deducing structures."
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

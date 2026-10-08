@@ -1,5 +1,7 @@
 ---
 title: "IB Diploma Programme Global Politics: Subject Overview"
+seoTitle: "IB Global Politics: Core Topic, Thematic Studies and Papers"
+seoDescription: "IB DP Global Politics explained: concepts, content and context, the core topic and three thematic studies, how it is assessed, and the HL extension."
 resourceType: "subject-guides"
 subject: "global-politics"
 level: ["ib"]

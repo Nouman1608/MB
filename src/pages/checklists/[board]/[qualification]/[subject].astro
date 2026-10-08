@@ -19,6 +19,9 @@ import { subjectBySlug } from '../../../../data/academic/subjects';
 import { courseSubjectNameOverride } from '../../../../data/academic/matrix';
 import { activeOnly, academicHubPath } from '../../../../utils/academic';
 import { recordRtlLang, nameRtlLang } from '../../../../utils/academic/rtl-names';
+import { taughtOnly } from '../../../../utils/academic';
+import { PRICING_TERMS, isOneToOneOnlyCourse } from '../../../../data/pricing';
+import ResourceTutoringPrompt from '../../../../components/tools/ResourceTutoringPrompt.astro';
 
 export async function getStaticPaths() {
   const activeKeys = new Set(activeOnly().map((c) => `${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`));
@@ -40,6 +43,19 @@ const qualificationName = qualificationBySlug(qualification)?.name ?? qualificat
 const subjectName = courseSubjectNameOverride(board, qualification, subject) ?? subjectBySlug(subject)?.name ?? subject;
 const rtlLang = recordRtlLang(version.topics);
 const hubHref = academicHubPath({ boardSlug: board, qualificationSlug: qualification, subjectSlug: subject } as any);
+
+/**
+ * 8 Oct 2026 -- the lesson-end tuition prompt (D-403) on checklists too.
+ * Search Console (15 Sep-5 Oct): checklists get ~8.5% CTR and GA4 shows
+ * ~320 organic sessions a month landing on them, with no tuition offer on
+ * the page. Shown only for a course Marlbridge teaches (taughtOnly()), never
+ * printed, with the course pre-filled in the trial link (D-330).
+ */
+const taught = taughtOnly().some((c) => c.boardSlug === board && c.qualificationSlug === qualification && c.subjectSlug === subject);
+const courseKey = `${board}/${qualification}/${subject}`;
+const oneToOneOnly = board === 'ib' || isOneToOneOnlyCourse(board, subject);
+const promptFormat = oneToOneOnly ? 'one-to-one' : `one-to-one and in small groups of up to ${PRICING_TERMS.maxGroupSize}`;
+const promptTrialHref = `/trial/?course=${encodeURIComponent(courseKey)}${oneToOneOnly ? '&format=one-to-one' : ''}&source=resource`;
 ---
 <BaseLayout
   title={`${boardName} ${qualificationName} ${subjectName} — printable checklist`}
@@ -88,6 +104,16 @@ const hubHref = academicHubPath({ boardSlug: board, qualificationSlug: qualifica
           </li>
         ))}
       </ol>
+
+      {taught && (
+        <div class="print:hidden">
+          <ResourceTutoringPrompt
+            label={`${boardName} ${qualificationName} ${subjectName} (${version.syllabusCode})`}
+            trialHref={promptTrialHref}
+            formatPhrase={promptFormat}
+          />
+        </div>
+      )}
     </Container>
   </Section>
 </BaseLayout>

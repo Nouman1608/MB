@@ -1,5 +1,7 @@
 ---
 title: "Edexcel International A Level Chemistry: Preparing for Six Units and Two Practical Skills Papers"
+seoTitle: "Edexcel IAL Chemistry YCH11 Exam Guide: Units 1–6"
+seoDescription: "Edexcel International A Level Chemistry YCH11: unit weightings, why Units 3 and 6 are written practical papers, the maths demand, and a mechanism routine."
 resourceType: "exam-preparation"
 subject: "chemistry"
 level: ["a-levels"]

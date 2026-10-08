@@ -1,5 +1,7 @@
 ---
 title: "IGCSE Business Studies: Marketing — Revision Notes"
+seoTitle: "IGCSE Business 0450 Marketing Revision Notes: The 4Ps"
+seoDescription: "Revision notes for Cambridge IGCSE Business Studies 0450 marketing: niche and mass markets, market research, the four Ps and marketing strategy."
 resourceType: "revision-notes"
 subject: "business"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
 import { sameCourse } from '../academic/combination-resources';
+import { PAGE_TWO_RESOURCES } from '../../data/search-boost';
 
 /**
  * QIGT programme -- every place in this file that lists, links to, or
@@ -75,6 +76,18 @@ export async function relatedResources(
     !boards || boards.length === 0 || r.data.boards.some((b) => boards.includes(b));
 
   for (const p of picked) push(byId.get(p.id));
+  // D-404 -- at most one slot for a same-course page stuck on Google's page 2
+  // (src/data/search-boost.ts). When a course has several, a stable hash of
+  // this page's id picks one, so the links are shared out evenly rather than
+  // all going to whichever comes first in ring order.
+  if (sameCourseAs && excludeId) {
+    const boosted = sortedIds.filter((r) => r.id !== excludeId && PAGE_TWO_RESOURCES.has(r.id));
+    if (boosted.length > 0) {
+      let h = 0;
+      for (const ch of excludeId) h = (h * 31 + ch.charCodeAt(0)) >>> 0;
+      push(boosted[h % boosted.length]);
+    }
+  }
   if (topic) {
     for (const r of all) if (r.data.topic === topic && sharesBoard(r)) push(r);
     for (const r of all) if (r.data.topic === topic && !sharesBoard(r)) push(r);

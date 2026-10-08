@@ -1,5 +1,7 @@
 ---
 title: "IGCSE Accounting: Analysis and Interpretation — Revision Notes"
+seoTitle: "IGCSE Accounting 0452 Ratios and Analysis Revision Notes"
+seoDescription: "Revision notes for Cambridge IGCSE Accounting 0452: the ten accounting ratios, interpreting them, profit vs cash, comparisons and users of accounts."
 resourceType: "revision-notes"
 subject: "accounting"
 level: ["igcse"]

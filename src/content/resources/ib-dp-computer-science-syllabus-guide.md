@@ -1,5 +1,7 @@
 ---
 title: "IB Diploma Programme Computer Science: Syllabus Guide"
+seoTitle: "IB Computer Science Syllabus 2027: Themes A and B Explained"
+seoDescription: "The new IB DP Computer Science syllabus, first assessed 2027: Theme A concepts, Theme B computational thinking, the case study, hours at SL and HL, and the IA."
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["ib"]

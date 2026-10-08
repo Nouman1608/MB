@@ -1,5 +1,7 @@
 ---
 title: "Pearson Edexcel IGCSE Chemistry: Paper-by-Paper Exam Preparation"
+seoTitle: "Edexcel IGCSE Chemistry 4CH1 Paper 1 and 2 Exam Guide"
+seoDescription: "How Edexcel International GCSE Chemistry 4CH1 Paper 1 and Paper 2 differ, why the 61/39 weighting matters for revision, and a worked calculation routine."
 resourceType: "exam-preparation"
 subject: "chemistry"
 level: ["igcse"]

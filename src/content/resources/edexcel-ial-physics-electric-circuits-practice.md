@@ -1,5 +1,7 @@
 ---
 title: "Edexcel IAL Physics: Electric Circuits — Practice Questions"
+seoTitle: "Edexcel IAL Physics Electric Circuits Practice Questions"
+seoDescription: "Exam-style Edexcel IAL Physics questions with full worked answers: drift velocity, resistivity, internal resistance and potential dividers."
 resourceType: "practice-questions"
 subject: "physics"
 level: ["a-levels"]

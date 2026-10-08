@@ -1,5 +1,7 @@
 ---
 title: "A Level Accounting: Accounting for Non-Current Assets (Cambridge 9706)"
+seoTitle: "Cambridge 9706 Non-Current Assets and Depreciation"
+seoDescription: "Capital vs revenue expenditure, depreciation methods, the cost and revaluation models, and disposals, for Cambridge AS & A Level Accounting 9706."
 resourceType: "study-guides"
 subject: "accounting"
 level: ["a-levels"]

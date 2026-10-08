@@ -1,5 +1,7 @@
 ---
 title: "AQA GCSE Chemistry: Paper-by-Paper Exam Preparation"
+seoTitle: "AQA GCSE Chemistry 8462 Exam Technique: Papers 1 and 2"
+seoDescription: "AQA GCSE Chemistry 8462 exam preparation: Foundation vs Higher tier, required practicals, calculation technique, a worked mole-ratio answer and a checklist."
 resourceType: "exam-preparation"
 subject: "chemistry"
 level: ["gcse"]

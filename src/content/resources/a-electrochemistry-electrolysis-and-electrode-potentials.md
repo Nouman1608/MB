@@ -1,5 +1,7 @@
 ---
 title: "Electrochemistry: Electrolysis and Standard Electrode Potentials"
+seoTitle: "Cambridge 9701 Electrochemistry: Electrode Potentials"
+seoDescription: "Electrolysis calculations, standard electrode and cell potentials, predicting feasibility and the Nernst equation, for Cambridge A Level Chemistry 9701."
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]
