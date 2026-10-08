@@ -1,5 +1,7 @@
 ---
 title: "IB MYP Language Acquisition: Proficiency Phases and Assessment Criteria — Revision Notes"
+seoTitle: "MYP Language Acquisition: Phases 1–6 and Criteria A–D Notes"
+seoDescription: "IB MYP Language Acquisition notes: the six phases, emergent, capable and proficient levels, and criteria A–D (listening, reading, speaking, writing)."
 resourceType: "revision-notes"
 subject: "myp-language-acquisition"
 level: ["ib"]

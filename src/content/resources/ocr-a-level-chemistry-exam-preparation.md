@@ -1,5 +1,7 @@
 ---
 title: "OCR A Level Chemistry A: Mapping Modules to Papers 1, 2 and 3"
+seoTitle: "OCR A Level Chemistry H432: Papers 1, 2 and 3 Explained"
+seoDescription: "Which OCR Chemistry A (H432) modules each paper tests, why Paper 3 covers every module, where the Practical Endorsement fits, plus a worked calculation routine."
 resourceType: "exam-preparation"
 subject: "chemistry"
 level: ["a-levels"]

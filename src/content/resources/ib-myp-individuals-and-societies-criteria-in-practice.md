@@ -1,5 +1,7 @@
 ---
 title: "IB MYP Individuals and Societies: The Four Assessment Criteria in Practice"
+seoTitle: "MYP Individuals and Societies Criteria A–D: Top-Band Guide"
+seoDescription: "Top-band work in each MYP Individuals and Societies criterion: A Knowing and understanding, B Investigating, C Communicating, D Thinking critically."
 resourceType: "study-guides"
 subject: "myp-individuals-and-societies"
 level: ["ib"]

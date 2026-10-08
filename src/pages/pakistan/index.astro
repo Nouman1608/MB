@@ -30,7 +30,8 @@ import {
   REGION_PRICING, ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS, IB_PRICING,
   PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee,
 } from '../../data/pricing';
-import { hubIsTaught, RESOURCES_ONLY_SUFFIX } from '../../data/markets';
+import { hubIsTaught, RESOURCES_ONLY_SUFFIX, tutorCoursesFor, PAKISTAN_QUALIFICATION_ORDER } from '../../data/markets';
+import TutorBySubject from '../../components/sections/TutorBySubject.astro';
 
 /**
  * D-303: the Cambridge-board hub pages searchers located in Pakistan found
@@ -80,10 +81,20 @@ const faqs = [
   },
 ];
 const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
+
+/**
+ * 8 Oct 2026 -- buyer-intent title and a "tutor by subject" list. Search
+ * Console (6 Sep-5 Oct) recorded no impressions for this page, yet GA4 shows
+ * Pakistan converts best (4 enquiries, 13 WhatsApp clicks, 56 form starts).
+ * The old title ("Marlbridge in Pakistan -- Boards, Pricing & Free Trial")
+ * matched no search a family makes. Lahore is named because the academy is
+ * there (site.about); other cities only as places students join online from.
+ */
+const tutorCourses = tutorCoursesFor(['cambridge', 'edexcel', 'oxfordaqa'], 15, 3, PAKISTAN_QUALIFICATION_ORDER);
 ---
 <PageLayout
-  title="Marlbridge in Pakistan — Boards, Pricing & Free Trial"
-  description="O Level, IGCSE, A Level and IB tuition in Pakistan: in person at our Lahore academy or live online, with group and one-to-one fees in PKR, the boards taught and how to book a free trial class."
+  title="O Level, IGCSE & A Level Tutors in Lahore and Online"
+  description="O Level, IGCSE, A Level and IB tuition in Pakistan: in person at our Lahore academy, or live online from Karachi, Islamabad and anywhere else. Fees in PKR, first class free."
   path={path}
   eyebrow="Pakistan"
   heading="Marlbridge in Pakistan"
@@ -121,6 +132,12 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
       </ul>
     </Container>
   </Section>
+
+  <TutorBySubject
+    heading="O Level, IGCSE and A Level tutors by subject"
+    intro="Courses taught in person at the Lahore academy and live online for students in Karachi, Islamabad, Rawalpindi, Faisalabad and the rest of Pakistan. Each course page has the syllabus, the topics and the teachers; the free trial books a first class with the course already filled in."
+    courses={tutorCourses}
+  />
 
   <Section surface="ivory" border>
     <Container>

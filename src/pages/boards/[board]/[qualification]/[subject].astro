@@ -338,8 +338,21 @@ const presentResourceTypes = [...new Set(resources.map((r) => r.data.resourceTyp
 const resourceSummary = presentResourceTypes.length > 0
   ? `${resources.length} original resource${resources.length === 1 ? '' : 's'} (${presentResourceTypes.join(', ')})`
   : 'no original Marlbridge resource yet';
+/**
+ * 8 Oct 2026 -- Search Console (15 Sep-5 Oct) shows hubs at ~1.3% CTR
+ * around position 8-10, while the printable checklists for the same courses
+ * get ~8.5% at a similar position: searchers click the offer of every topic
+ * on one page. Where a current checklist exists, the description leads with
+ * it and the real topic count; the resource count follows. Nothing is
+ * claimed that the page does not link to.
+ */
+const checklistLead = checklistHref && checklistVersion
+  ? `all ${checklistVersion.topics.length} topics with a free printable checklist, how it is assessed, the official ${c.board} link, and ${resources.length > 0 ? `${resources.length} free study resource${resources.length === 1 ? '' : 's'}` : 'no Marlbridge resource yet'}.`
+  : undefined;
 const pageDescription = (tuitionPage
   ? `${heading}${codeLabel ? ` (${codeLabel})` : ''} ${docWord.toLowerCase()}${editionYears ? ` ${editionYears}` : ''}: syllabus topics, online tuition with named teachers and published fees, a free trial class, and ${resources.length} free resources.`
+  : syllabus && checklistLead
+    ? `${heading}${codeLabel ? ` (${codeLabel})` : ''} ${docWord.toLowerCase()}${editionYears ? ` ${editionYears}` : ''}: ${checklistLead}`
   : syllabus
     ? `${heading}${codeLabel ? ` (${codeLabel})` : ''} ${docWord.toLowerCase()}${editionYears ? ` ${editionYears}` : ''}: what it covers, how it is assessed, the official ${c.board} link, and ${resourceSummary} Marlbridge has published for it.`
     : `${heading}: what the qualification covers, and ${resourceSummary} Marlbridge has published for it.`).replace(/\s+/g, ' ');

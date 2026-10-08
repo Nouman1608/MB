@@ -23,7 +23,8 @@ import {
   IB_PRICING, formatFee, isIndicative, INDICATIVE_NOTE, ibConversionFor,
 } from '../../data/pricing';
 import { site } from '../../data/site';
-import { timeRows, hubIsTaught, RESOURCES_ONLY_SUFFIX, type Market } from '../../data/markets';
+import { timeRows, hubIsTaught, RESOURCES_ONLY_SUFFIX, tutorCoursesFor, type Market } from '../../data/markets';
+import TutorBySubject from './TutorBySubject.astro';
 
 interface Props { market: Market }
 const { market: m } = Astro.props;
@@ -56,11 +57,26 @@ const faqs = [
 ];
 const faq = faqNode(faqs);
 
+/**
+ * 8 Oct 2026 -- buyer-intent titles. Search Console (6 Sep-5 Oct) recorded
+ * no impressions for these pages; the old title ("Online IGCSE, A Level & IB
+ * Tuition in the UAE -- Fees & Times") named no city or subject. The title
+ * now says who the tutors are for and where; "online" and "for students in"
+ * keep it honest, since no local branch or teacher exists.
+ */
+const place = m.name === 'United Arab Emirates' ? 'the UAE' : m.name;
+const cityList = m.cities.length > 1 ? `${m.cities.slice(0, -1).join(', ')} and ${m.cities[m.cities.length - 1]}` : m.cities[0];
+const pageTitle = m.cities.length > 0
+  ? `Online IGCSE & A Level Tutors for ${m.cities.slice(0, 2).join(' & ')}${m.cities.length === 1 ? `, ${m.name}` : ''}`
+  : `Online IGCSE & A Level Tutors in ${place}`;
+const pageDescription = `Live online IGCSE, A Level and IB tutors for students in ${cityList ?? place}: ${boardRows.map((r) => r.name).slice(0, 3).join(', ')}, fees in ${group?.currency ?? 'local currency'}, class times in local time, first class free.`;
+const tutorCourses = tutorCoursesFor(m.focusBoards, 12);
+
 const summary = `Marlbridge teaches ${m.name}-based students live online, one-to-one or in small groups of up to ${PRICING_TERMS.maxGroupSize}, from its academy in Lahore, Pakistan. ${m.name} is ${diffText}. ${PRICING_TERMS.freeTrial}`;
 ---
 <PageLayout
-  title={`Online IGCSE, A Level & IB Tuition in ${m.name === 'United Arab Emirates' ? 'the UAE' : m.name} — Fees & Times`}
-  description={`Live online tuition for students in ${m.name === 'United Arab Emirates' ? 'the UAE' : m.name}: ${boardRows.map((r) => r.name).slice(0, 3).join(', ')} and more, taught from Lahore. Fees in ${group?.currency ?? 'local currency'}, class times in ${m.name === 'United Arab Emirates' ? 'UAE' : m.name} time, first class free.`}
+  title={pageTitle}
+  description={pageDescription}
   path={m.path}
   eyebrow={m.name}
   heading={`Marlbridge for students in ${m.name === 'United Arab Emirates' ? 'the UAE' : m.name}`}
@@ -112,6 +128,12 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
       </ul>
     </Container>
   </Section>
+
+  <TutorBySubject
+    heading={`Online tutors by subject for students in ${place}`}
+    intro={`Courses taught live online for families in ${cityList ?? place} and across ${place === 'the UAE' ? 'the country' : place}. Each course page has the syllabus, the topics and the teachers; the free trial books a first class with the course already filled in.`}
+    courses={tutorCourses}
+  />
 
   <Section surface="ivory" border>
     <Container>

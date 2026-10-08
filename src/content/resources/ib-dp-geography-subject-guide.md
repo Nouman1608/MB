@@ -1,5 +1,7 @@
 ---
 title: "IB Diploma Programme Geography: Subject Overview"
+seoTitle: "IB Geography SL vs HL: Papers, Weightings and Fieldwork"
+seoDescription: "How IB Geography is assessed at SL and HL: Paper 1 optional themes, Paper 2, the HL-only Paper 3 on global interactions, weightings and the fieldwork."
 resourceType: "subject-guides"
 subject: "geography"
 level: ["ib"]

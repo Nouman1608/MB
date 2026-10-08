@@ -1,5 +1,7 @@
 ---
 title: "Cambridge A Level Information Technology (ICT): Data Processing and Information (9626)"
+seoTitle: "Cambridge 9626 IT Topic 1: Data Processing and Information"
+seoDescription: "Cambridge 9626 IT topic 1: data vs information, quality of information, encryption, validation vs verification, and batch, online and real-time processing."
 resourceType: "study-guides"
 subject: "ict"
 level: ["a-levels"]

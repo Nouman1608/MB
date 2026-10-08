@@ -15590,3 +15590,16 @@ Three more problems turned up:
 - **Tests (7 Oct 2026).**
   - `check_new.py` passed on all 393 pages.
   - `validate-academic-content`, the duplicate-scope check, `npm run build` and `audit:all` passed.
+
+## D-403 - Search-to-tuition round: titles, a lesson-end tuition prompt and buyer-intent country pages (branch `claude/marlbridge-rankings-review-kpug8u`, 8 Oct 2026)
+
+- **Why.** The owner asked for steps 1-3 of a ranking review. Evidence, all from the site's own data:
+  - Search Console (D1 `mb-search-demand`, 6 Sep-5 Oct): Google clicks rose from 190 to 292 a week, and 1,273 of 1,677 pages with impressions average page 1. But many pages at positions 6-9 had 0.5-1.5% CTR, hubs averaged about 1.3% against about 8.5% for checklists, and `/pakistan/`, `/uae/` and `/qatar/` had no impressions. Buyer searches ranked 80-95 ("igcse online tutoring" 94, "igcse tuition in qatar" 83). "marlbridge" ranks 1.4.
+  - GA4 BigQuery export (`analytics_550438391`, 6 Sep-7 Oct): 95% of organic landings were resource and checklist pages; 10 of 11 `generate_lead` events came from tutoring pages and one from organic search. Pakistan converted best (4 leads, 13 WhatsApp clicks, 56 form starts). About 3,900 Singapore sessions (0.2 s engagement, no leads) are bots, not people.
+- **What.**
+  1. **Titles.** `seoTitle`/`seoDescription` added to 11 high-impression resources that had none. The 9 pages given them on 29 Sep were left alone (their CTR went from 0.78% to 2.13% in the days since). `/resources/` is retitled from "Learning resources" (595 impressions, 3 clicks). Hub descriptions lead with the real topic count and the free printable checklist where one exists.
+  2. **Lesson-end tuition prompt** (`ResourceTutoringPrompt.astro`) on resource pages where classes are offered (3,198 of 3,759): free trial with the course pre-filled, WhatsApp with the course named, and static links to the six country pages. The browser time zone (read locally, never sent) shows the visitor's country line and, for Pakistan and the Gulf, puts WhatsApp first. Tracked through the existing `trial_cta_click` (`resource-trial-mid`) and `whatsapp_click` (`resource_prompt`) events.
+  3. **Country pages.** Buyer-intent titles naming cities (Lahore for the academy; Dubai, Abu Dhabi, Doha, Kuala Lumpur only as where students are, never as a local office) and a "tutors by subject" list built from `taughtOnly()` (`tutorCoursesFor()` in `src/data/markets.ts`), each linking the course hub and a trial with `source=region`. Pakistan lists O Level first; the other countries list IGCSE and A Level first. The Gulf page title is buyer-intent too.
+- **Not claimed.** No local office, teacher, result or price that is not already in `pricing.ts`.
+- **Check after deploy.** Re-run the CTR comparison for the changed pages and the country pages' impressions after 2-3 weeks, and the `resource-trial-mid` / `resource_prompt` events in GA4.
+- **Tests (8 Oct 2026).** `astro check` 0 errors; `npm run build` and `audit:all` passed (trial sources, metadata, structured data, links, accessibility). Headless Chromium on the built page: Asia/Karachi and Asia/Dubai put WhatsApp first with the local line, Europe/London keeps the trial first with the UK line, America/New_York keeps the static layout; no horizontal scroll at 390 px.

@@ -1,0 +1,105 @@
+---
+/**
+ * Conversion round (8 Oct 2026) -- a tuition prompt directly after the
+ * lesson text on resource pages where classes are really offered.
+ *
+ * WHY
+ * GA4 (6 Sep-7 Oct 2026): 95% of visitors from search land on resource and
+ * checklist pages, but 10 of 11 enquiries came from tutoring pages and only
+ * one from search. The existing invitations are a one-line link near the top
+ * and a block at the very foot that ~13% of readers reach (D-326). Readers
+ * who finish the lesson are the ones most likely to want a teacher, so this
+ * sits where the lesson ends, once, with no pop-up.
+ *
+ * WHAT
+ * Static HTML: free-trial button (course pre-filled, D-330), a WhatsApp link
+ * whose message names the course (authored data only, D-149), and links to
+ * the country pages with local fees and class times -- real internal links
+ * on every taught resource page, which those pages had almost none of.
+ *
+ * Region (progressive enhancement): the browser's own time zone picks the
+ * visitor's country page and, for Pakistan and the Gulf, where WhatsApp is
+ * how families get in touch (GA4: Pakistan 13 WhatsApp clicks against 4
+ * form enquiries), puts WhatsApp first. The zone is read in the browser and
+ * never sent anywhere; without JavaScript, or for any other zone, the static
+ * order and the full country list stay as they are.
+ */
+import { PRICING_TERMS } from '../../data/pricing';
+
+interface Props {
+  /** Course or subject the page teaches, e.g. "Cambridge IGCSE Chemistry (0620)". */
+  label: string;
+  trialHref: string;
+  formatPhrase: string;
+}
+const { label, trialHref, formatPhrase } = Astro.props;
+
+const whatsappHref = `https://wa.me/923239149918?text=${encodeURIComponent(`Hi, I'd like to ask about ${label} classes.`)}`;
+
+const MARKET_LINKS = [
+  { slug: 'pakistan', href: '/pakistan/', name: 'Pakistan', local: 'In Pakistan, classes are in person at our Lahore academy or live online, with fees in rupees.' },
+  { slug: 'uae', href: '/uae/', name: 'UAE', local: 'For families in the UAE: live online classes, fees and class times in UAE time.' },
+  { slug: 'qatar', href: '/qatar/', name: 'Qatar', local: 'For families in Qatar: live online classes, fees and class times in Qatar time.' },
+  { slug: 'gulf', href: '/gulf/', name: 'Saudi Arabia, Kuwait, Bahrain and Oman', local: 'For families in the Gulf: live online classes, fees and class times in your time zone.' },
+  { slug: 'malaysia', href: '/malaysia/', name: 'Malaysia', local: 'For families in Malaysia: live online classes, fees and class times in Malaysia time.' },
+  { slug: 'uk', href: '/uk/', name: 'UK', local: 'For families in the UK: live online classes, fees and class times in UK time.' },
+] as const;
+---
+<aside data-tutoring-prompt aria-labelledby="tutoring-prompt-heading" class="mt-12 rounded-sm border border-teal-500 bg-ivory p-[clamp(20px,2.4vw,28px)]">
+  <p class="m-0 mb-2 mb-eyebrow text-teal-700">Learn this with a teacher</p>
+  <h2 id="tutoring-prompt-heading" class="m-0 text-[22px] font-semibold leading-snug text-navy-800">Stuck on {label}?</h2>
+  <p class="m-0 mt-3 max-w-[60ch] text-[16px] leading-[1.6] text-ink-mute">
+    A Marlbridge subject teacher can take you through it live, {formatPhrase}. {PRICING_TERMS.freeTrial}
+  </p>
+  {MARKET_LINKS.map((m) => (
+    <p data-market-local={m.slug} hidden class="m-0 mt-3 max-w-[60ch] text-[15px] leading-[1.6] text-ink">
+      {m.local} <a href={m.href} class="font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">See {m.name === 'Saudi Arabia, Kuwait, Bahrain and Oman' ? 'Gulf' : m.name} fees and times</a>.
+    </p>
+  ))}
+  <div data-prompt-actions class="mt-5 flex flex-wrap items-center gap-3">
+    <a href={trialHref} data-cta="resource-trial-mid" data-prompt-action="trial" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-6 py-3 text-[15px] font-medium text-ivory transition-colors duration-150 hover:bg-navy-700">Book a free trial class</a>
+    <a href={whatsappHref} target="_blank" rel="noopener noreferrer" data-whatsapp-button data-link-location="resource_prompt" data-page-context={`about ${label} classes`} data-prompt-action="whatsapp" class="inline-flex min-h-11 items-center justify-center rounded-sm border border-navy-800 px-6 py-3 text-[15px] font-medium text-navy-800 hover:bg-white">Ask on WhatsApp</a>
+  </div>
+  <p data-market-list class="m-0 mt-4 text-[14px] leading-[1.6] text-ink-mute">
+    Local fees and class times:{' '}
+    {MARKET_LINKS.map((m, i) => (
+      <><a href={m.href} class="underline decoration-rule underline-offset-2 hover:text-teal-700">{m.slug === 'gulf' ? 'Gulf' : m.name}</a>{i < MARKET_LINKS.length - 1 ? ' · ' : '.'}</>
+    ))}
+  </p>
+</aside>
+
+<script>
+  /** Browser time zone -> country page. Read locally, never transmitted. */
+  const ZONE_MARKET: Record<string, string> = {
+    'Asia/Karachi': 'pakistan',
+    'Asia/Dubai': 'uae',
+    'Asia/Qatar': 'qatar',
+    'Asia/Riyadh': 'gulf', 'Asia/Kuwait': 'gulf', 'Asia/Bahrain': 'gulf', 'Asia/Muscat': 'gulf',
+    'Asia/Kuala_Lumpur': 'malaysia', 'Asia/Kuching': 'malaysia',
+    'Europe/London': 'uk',
+  };
+  const WHATSAPP_FIRST = new Set(['pakistan', 'uae', 'qatar', 'gulf']);
+  const PRIMARY = 'bg-navy-800 text-ivory hover:bg-navy-700'.split(' ');
+  const SECONDARY = 'border border-navy-800 text-navy-800 hover:bg-white'.split(' ');
+
+  let zone = '';
+  try { zone = Intl.DateTimeFormat().resolvedOptions().timeZone ?? ''; } catch { /* keep the static layout */ }
+  const market = ZONE_MARKET[zone];
+
+  document.querySelectorAll<HTMLElement>('[data-tutoring-prompt]').forEach((box) => {
+    if (!market) return;
+    box.dataset.market = market;
+    const local = box.querySelector<HTMLElement>(`[data-market-local="${market}"]`);
+    if (local) local.hidden = false;
+    if (!WHATSAPP_FIRST.has(market)) return;
+    const actions = box.querySelector<HTMLElement>('[data-prompt-actions]');
+    const trial = actions?.querySelector<HTMLElement>('[data-prompt-action="trial"]');
+    const whatsapp = actions?.querySelector<HTMLElement>('[data-prompt-action="whatsapp"]');
+    if (!actions || !trial || !whatsapp) return;
+    actions.prepend(whatsapp);
+    whatsapp.classList.remove(...SECONDARY);
+    whatsapp.classList.add(...PRIMARY);
+    trial.classList.remove(...PRIMARY);
+    trial.classList.add(...SECONDARY);
+  });
+</script>

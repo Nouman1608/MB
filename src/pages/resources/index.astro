@@ -15,6 +15,11 @@
  * linked from one compact table at the foot, so nothing becomes unreachable;
  * the "#study-guides"-style anchors used by footers and old links still
  * resolve to that table's column headings.
+ *
+ * Title and description (8 Oct 2026): Search Console (6 Sep-5 Oct) had this
+ * page at position 6.4 for 595 impressions and 3 clicks under the title
+ * "Learning resources", which names nothing a student searches for. The
+ * title now names the qualifications and the description the real count.
  */
 import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
@@ -39,8 +44,8 @@ const rows = subjects
 ---
 <PageLayout
   translationKey="resources"
-  title="Learning resources"
-  description="Study guides and revision notes written by the Marlbridge Academic Team. Free to read, organised by subject, level and topic, with new resource types published as they are written."
+  title="Free IGCSE, O Level, A Level & IB Revision Notes"
+  description={`${resources.length.toLocaleString('en-GB')} free study guides, revision notes and practice questions for Cambridge, Edexcel, AQA, OCR, OxfordAQA and IB courses. Pick your course and topic; no sign-up.`}
   path={routes.resources}
   eyebrow="Study resources"
   heading="Find study resources"

@@ -1,5 +1,7 @@
 ---
 title: "IB Diploma Programme Language A: Language and Literature: Syllabus Guide"
+seoTitle: "IB Language and Literature Syllabus: Areas of Exploration"
+seoDescription: "IB Language A: Language and Literature's three areas of exploration (readers, writers and texts; time and space; intertextuality) and how it is assessed."
 resourceType: "study-guides"
 subject: "language-a-language-and-literature"
 level: ["ib"]

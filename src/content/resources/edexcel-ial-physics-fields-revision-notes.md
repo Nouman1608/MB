@@ -1,5 +1,7 @@
 ---
 title: "Edexcel IAL Physics: Electric and Magnetic Fields — Revision Notes"
+seoTitle: "Edexcel IAL Physics Unit 4 Fields Revision Notes (WPH14)"
+seoDescription: "Quick-recall notes for Edexcel International A Level Physics Unit 4 (WPH14): electric fields, capacitance, magnetic flux density and electromagnetic induction."
 resourceType: "revision-notes"
 subject: "physics"
 level: ["a-levels"]

@@ -1,5 +1,7 @@
 ---
 title: "AQA A-Level Biology: Paper-by-Paper Exam Preparation"
+seoTitle: "AQA A Level Biology 7402 Papers 1–3: Exam Technique Guide"
+seoDescription: "How AQA A Level Biology 7402 Papers 1, 2 and 3 work, why Paper 3 draws on all eight topics, essay and comprehension strategy, a worked answer and a checklist."
 resourceType: "exam-preparation"
 subject: "biology"
 level: ["a-levels"]

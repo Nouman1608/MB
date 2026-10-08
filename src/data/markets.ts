@@ -18,6 +18,7 @@
  */
 
 import { taughtOnly } from '../utils/academic';
+import { courseSubjectNameOverride } from './academic/matrix';
 
 /**
  * True when the board hub at `path` (/boards/<board>/<qual>/<subject>/) is a
@@ -54,6 +55,12 @@ export interface Market {
   /** Curricula Marlbridge does NOT teach that families here may be asked about. */
   readonly notOffered: string;
   readonly faqs: readonly { question: string; answer: string }[];
+  /**
+   * Main cities, used only to name where students are (8 Oct 2026, buyer
+   * searches name the city, e.g. "igcse tutor dubai"). Never a claim of a
+   * local office or teacher: every page states there is none.
+   */
+  readonly cities: readonly string[];
 }
 
 /** Lahore, where every live class is taught from: UTC+5, no daylight saving. */
@@ -78,6 +85,7 @@ export function timeRows(utcOffsetHours: number) {
 export const MARKETS: readonly Market[] = [
   {
     slug: 'uae',
+    cities: ['Dubai', 'Abu Dhabi', 'Sharjah'],
     path: '/uae/',
     name: 'United Arab Emirates',
     pricingRegion: 'United Arab Emirates',
@@ -119,6 +127,7 @@ export const MARKETS: readonly Market[] = [
   },
   {
     slug: 'qatar',
+    cities: ['Doha'],
     path: '/qatar/',
     name: 'Qatar',
     pricingRegion: 'Qatar',
@@ -160,6 +169,7 @@ export const MARKETS: readonly Market[] = [
   },
   {
     slug: 'malaysia',
+    cities: ['Kuala Lumpur', 'Penang', 'Johor Bahru'],
     path: '/malaysia/',
     name: 'Malaysia',
     pricingRegion: 'Malaysia',
@@ -202,3 +212,67 @@ export const MARKETS: readonly Market[] = [
 ];
 
 export const marketBySlug = (slug: MarketSlug): Market | undefined => MARKETS.find((m) => m.slug === slug);
+
+/**
+ * Conversion round (8 Oct 2026) -- "tutor by subject" links on the country
+ * pages. Search Console (6 Sep-5 Oct) gave /pakistan/, /uae/ and /qatar/ no
+ * impressions at all, and buyer searches such as "igcse online tutoring"
+ * ranked 80-95: those pages named boards, never a subject a family searches
+ * for. Each entry is a course Marlbridge really teaches (taughtOnly()), named
+ * the way its hub names it, linking to the hub and to a free trial with the
+ * course pre-filled (D-330). Nothing local is claimed.
+ */
+const SUBJECT_PRIORITY = [
+  'mathematics', 'physics', 'chemistry', 'biology', 'english-language', 'computer-science',
+  'economics', 'business', 'accounting', 'english-literature', 'ict', 'islamiyat', 'pakistan-studies', 'urdu-language',
+];
+/** Pakistan's own order: O Level is the main route there. */
+export const PAKISTAN_QUALIFICATION_ORDER = ['o-level', 'igcse', 'a-level', 'gcse', 'ib-dp', 'ib-myp'];
+/** Elsewhere families mostly sit IGCSE and A Level; O Level comes last. */
+const INTERNATIONAL_QUALIFICATION_ORDER = ['igcse', 'a-level', 'gcse', 'ib-dp', 'ib-myp', 'o-level'];
+
+export interface TutorCourse {
+  readonly key: string;
+  readonly label: string;
+  readonly code?: string;
+  readonly hubHref: string;
+  readonly trialHref: string;
+}
+
+/** At most `perSubject` courses per subject, so one subject cannot fill the list. */
+export function tutorCoursesFor(
+  boards: readonly string[],
+  limit: number,
+  perSubject = 2,
+  qualificationOrder: readonly string[] = INTERNATIONAL_QUALIFICATION_ORDER,
+): TutorCourse[] {
+  const rank = (list: readonly string[], v: string) => {
+    const i = list.indexOf(v);
+    return i === -1 ? list.length : i;
+  };
+  const perSubjectCount = new Map<string, number>();
+  return taughtOnly()
+    .filter((c) => boards.includes(c.boardSlug))
+    .sort((a, b) =>
+      rank(SUBJECT_PRIORITY, a.subjectSlug) - rank(SUBJECT_PRIORITY, b.subjectSlug)
+      || rank(boards, a.boardSlug) - rank(boards, b.boardSlug)
+      || rank(qualificationOrder, a.qualificationSlug) - rank(qualificationOrder, b.qualificationSlug))
+    .filter((c) => {
+      const n = perSubjectCount.get(c.subjectSlug) ?? 0;
+      perSubjectCount.set(c.subjectSlug, n + 1);
+      return n < perSubject;
+    })
+    .slice(0, limit)
+    .map((c) => {
+      const key = `${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`;
+      const subject = courseSubjectNameOverride(c.boardSlug, c.qualificationSlug, c.subjectSlug) ?? c.subject;
+      const qualification = c.qualification.startsWith('IB ') ? c.qualification : `${c.board} ${c.qualification}`;
+      return {
+        key,
+        label: `${qualification} ${subject}`,
+        code: c.qualificationCode && /\d/.test(c.qualificationCode) ? c.qualificationCode : undefined,
+        hubHref: `/boards/${key}/`,
+        trialHref: `/trial/?course=${encodeURIComponent(key)}&source=region`,
+      };
+    });
+}

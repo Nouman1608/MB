@@ -1,5 +1,7 @@
 ---
 title: "Edexcel A Level Mathematics: Pure Mathematics 1 (YMA01)"
+seoTitle: "Edexcel IAL Pure Maths 1 (P1): Every Topic Explained"
+seoDescription: "Every topic in Edexcel International A Level Maths Pure 1 (YMA01): algebra and functions, coordinate geometry, trigonometry, differentiation and integration."
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

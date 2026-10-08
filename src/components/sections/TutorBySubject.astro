@@ -1,0 +1,37 @@
+---
+/**
+ * Conversion round (8 Oct 2026) -- the subjects a family can book a tutor
+ * for, on a country page. See tutorCoursesFor() in src/data/markets.ts for
+ * why and where the list comes from. Each row links the course hub (its
+ * syllabus, topics and teachers) and a free trial with the course filled in.
+ */
+import Section from '../layout/Section.astro';
+import Container from '../layout/Container.astro';
+import type { TutorCourse } from '../../data/markets';
+
+interface Props {
+  heading: string;
+  intro: string;
+  courses: readonly TutorCourse[];
+  surface?: 'white' | 'ivory';
+}
+const { heading, intro, courses, surface = 'white' } = Astro.props;
+---
+{courses.length > 0 && (
+  <Section surface={surface} border>
+    <Container>
+      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{heading}</h2>
+      <p class="m-0 mb-6 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">{intro}</p>
+      <ul class="m-0 grid gap-3 p-0 sm:grid-cols-2" style="list-style: none;">
+        {courses.map((t) => (
+          <li class="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1 rounded-sm border border-rule bg-white px-4 py-3">
+            <a href={t.hubHref} class="text-[15.5px] font-semibold text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">
+              {t.label} tutor{t.code && <span class="font-normal text-ink-mute"> ({t.code})</span>}
+            </a>
+            <a href={t.trialHref} data-cta="region-trial-subject" class="text-[14px] font-medium text-navy-800 underline decoration-rule underline-offset-2 hover:text-teal-700">Free trial class</a>
+          </li>
+        ))}
+      </ul>
+    </Container>
+  </Section>
+)}

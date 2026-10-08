@@ -1,5 +1,7 @@
 ---
 title: "IB DP History: Paper-by-Paper Exam Preparation"
+seoTitle: "IB History Papers 1, 2 and 3: Exam Guide (First Exams 2028)"
+seoDescription: "How to answer IB History Paper 1 source questions, Paper 2 essays and HL Paper 3, with a worked source analysis and an exam checklist. First assessment 2028."
 resourceType: "exam-preparation"
 subject: "world-history"
 level: ["ib"]

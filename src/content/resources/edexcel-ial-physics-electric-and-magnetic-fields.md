@@ -1,5 +1,7 @@
 ---
 title: "Unit 4: Electric and Magnetic Fields"
+seoTitle: "Edexcel IAL Physics Unit 4: Electric and Magnetic Fields"
+seoDescription: "Edexcel IAL Physics YPH11 Unit 4 guide: Coulomb's law, field strength and potential, capacitors and RC circuits, flux density and electromagnetic induction."
 resourceType: "study-guides"
 subject: "physics"
 level: ["a-levels"]
