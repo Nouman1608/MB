@@ -15627,3 +15627,11 @@ Three more problems turned up:
 ## D-406 - Review credit for the three D-405 articles (branch `claude/marlbridge-rankings-review-kpug8u`, 9 Oct 2026)
 
 - The owner confirmed on 9 Oct 2026 that Sir Nouman Ahmed (`nouman-ahmed`) reviewed "O Level tuition in Lahore: online or in person?", "Edexcel IGCSE tutoring in Qatar" and "When to start A Level tuition before the summer exams". Each now carries `reviewer`, `reviewStatus: "reviewed"` and `reviewedDate: 2026-10-09`. `validate-review-integrity` and the build pass.
+
+## D-407 - Trial form: abandonment tracking and an earlier WhatsApp option; speed re-check (branch `claude/marlbridge-rankings-review-kpug8u`, 9 Oct 2026)
+
+- **Correction to an earlier figure.** GA4 `form_start` (106 in 6 Sep-7 Oct) counts any form, mostly the course finder and revision-email box on resource pages and the home page. The enquiry funnel is the trial form: 21 visitors started it, 6 sent it, 3 left for WhatsApp and 12 left without contacting us. Nothing recorded why.
+- **What.** `TrialRequestForm.astro` now sends `trial_form_error` (`stage` client or server, `fields` = names of the fields that blocked the send) and `trial_form_abandon` on leaving the page (`last_field`, `missing_fields`, `filled_count`, `tried_submit`). Field names and counts only, never values, through the existing consent-gated gtag. A WhatsApp link sits above the fields ("Takes about a minute. Prefer to talk first?"), tracked as `whatsapp_click` with `link_location: trial_form_top`.
+- **Not changed.** Every visible field stays compulsory (owner decision D-293). Whether to pre-select "Not sure" for exam board and "Help me decide" for format is put to the owner, to be decided with the new abandonment data.
+- **Speed.** Lighthouse 12 (mobile, local build served with compression) on home, a resource, a hub, a checklist, `/uk/`, `/trial/` and an article: performance 99-100, accessibility 100, SEO 100, best practices 96 (the only failure is the GA4 script, blocked by the test sandbox's network). LCP 1.6-1.8 s, TBT 0 ms, CLS 0. No change needed.
+- **Tests (9 Oct 2026).** `astro check` 0 errors; `npm run build`, `audit:all` and `test:api` (88) passed; headless Chromium confirmed the three trial events fire with the expected parameters and no page errors.

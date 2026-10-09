@@ -85,6 +85,13 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
 
   <p data-trial-context hidden class="m-0 rounded-sm border border-gold-500 bg-ivory px-4 py-3 text-[15px] text-navy-800"></p>
 
+  {/* D-407 -- GA4: 3 of 15 visitors who left this form went to WhatsApp from
+      the link at its foot. The same option is offered before the fields. */}
+  <p class="m-0 text-[15px] text-ink-mute">
+    Takes about a minute. Prefer to talk first?{' '}
+    <a href={waHref} target="_blank" rel="noopener noreferrer" data-trial-whatsapp data-wa-position="top" class="font-medium text-navy-800 underline decoration-[#25D366] underline-offset-4">Message us on WhatsApp</a>.
+  </p>
+
   {/* D-330: a teacher preference from ?teacher= is shown and can be removed.
       It stays a preference: availability is only confirmed by a person. */}
   <div data-trial-teacher-pref hidden class="m-0 flex flex-wrap items-center gap-x-4 gap-y-2 rounded-sm border border-rule bg-white px-4 py-3 text-[15px]">
@@ -274,6 +281,37 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
       if (subject.value.trim() !== prefilled) { courseIn.value = ''; }
     });
 
+    // ---- D-407 analytics: where the form is abandoned ----
+    // GA4 (6 Sep-7 Oct 2026): 21 visitors started this form, 6 sent it, 3 left
+    // for WhatsApp and 12 left without a word, with nothing recorded about why.
+    // These events carry field NAMES and counts only, never what was typed,
+    // and go through the same consent-gated gtag as every other event.
+    const track = (name: string, params: Record<string, unknown>) => {
+      try { (window as unknown as { gtag?: (...a: unknown[]) => void }).gtag?.('event', name, params); } catch { /* never block the form */ }
+    };
+    let lastField = '';
+    let touched = false;
+    form.addEventListener('focusin', (ev) => {
+      const t = ev.target as HTMLElement | null;
+      const n = t?.getAttribute('name');
+      if (n && !['website', 'cf-turnstile-response'].includes(n)) { lastField = n; touched = true; }
+    });
+    const reportAbandon = () => {
+      if (!touched || sent || abandonReported) return;
+      abandonReported = true;
+      const missing = rules.filter(([, value]) => !value()).map(([n]) => n);
+      track('trial_form_abandon', {
+        last_field: lastField || 'none',
+        missing_fields: missing.join(',') || 'none',
+        filled_count: rules.length - missing.length,
+        tried_submit: tried ? 'yes' : 'no',
+        transport_type: 'beacon',
+      });
+    };
+    let abandonReported = false;
+    document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'hidden') reportAbandon(); });
+    window.addEventListener('pagehide', reportAbandon);
+
     // ---- validation and submit ----
     const setError = (name: string, message: string | null) => {
       const el = form.querySelector<HTMLElement>(`[data-error-for="${name}"]`);
@@ -326,7 +364,12 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
       if (sent) return;
       tried = true;
       const first = validate();
-      if (first) { first.focus(); return; }
+      if (first) {
+        // D-407 -- which required fields stopped the send (names only, never values).
+        track('trial_form_error', { stage: 'client', fields: rules.filter(([, , check]) => check()).map(([n]) => n).join(',') });
+        first.focus();
+        return;
+      }
       availIn.value = [...form.querySelectorAll<HTMLInputElement>('[data-slot]:checked')].map((x) => x.value).join(',');
       button.disabled = true;
       status.className = 'text-[15px] text-ink-mute';
@@ -377,6 +420,7 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
         return;
       }
       button.disabled = false;
+      track('trial_form_error', { stage: 'server', fields: result.errors ? Object.keys(result.errors).join(',') : 'send_failed' });
       if (result.errors) for (const [k, m] of Object.entries(result.errors)) setError(k, m);
       status.className = 'rounded-sm border border-[#E3BDBD] bg-[#FBF2F2] p-4 text-[15px] text-error';
       status.textContent = `${result.message ?? 'Your request could not be sent.'} Everything you typed is still here. You can also email ${'hello@marlbridge.com'} or use WhatsApp.`;
@@ -388,8 +432,8 @@ const labelCls = 'text-[14.5px] font-medium text-ink';
       else { status.tabIndex = -1; status.focus(); }
     });
 
-    form.querySelector<HTMLAnchorElement>('[data-trial-whatsapp]')?.addEventListener('click', () => {
-      (window as unknown as { gtag?: (...a: unknown[]) => void }).gtag?.('event', 'whatsapp_click', { link_location: 'trial_form', page_context: 'about a free trial class' });
-    });
+    form.querySelectorAll<HTMLAnchorElement>('[data-trial-whatsapp]').forEach((link) => link.addEventListener('click', () => {
+      track('whatsapp_click', { link_location: link.dataset.waPosition === 'top' ? 'trial_form_top' : 'trial_form', page_context: 'about a free trial class' });
+    }));
   }
 </script>
