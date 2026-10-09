@@ -14,12 +14,11 @@ syllabusTopics:
     topic: "living-with-physical-environment-9230"
 description: "Condensed recall notes on tectonic hazards, weather hazards, climate change and ecosystems for OxfordAQA International GCSE Geography 9230."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-08-22
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 Condensed for the final weeks. For the full explanation, use the

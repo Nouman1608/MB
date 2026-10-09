@@ -15,12 +15,11 @@ syllabusTopics:
     topic: "social-structures-processes-issues-8192"
 description: "Study guide to AQA GCSE Sociology 8192 section 3.2: comparing theories in context, responding to extracts, methods issues and contemporary debates."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers section 3.2, Social structures, social processes and social issues, of the AQA GCSE Sociology (8192) specification, Version 1.2 (June 2026), for GCSE exams 2019 onwards. Section 3.2 sets out how you handle theories, extracts, methods and debates in every topic. The specification does not attach it to one paper: Paper 1 (The sociology of families and education) and Paper 2 (The sociology of crime and deviance and social stratification) both assess "relevant areas of social theory and methodology", and both expect you to draw on the entire course.

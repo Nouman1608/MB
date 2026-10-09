@@ -22,12 +22,11 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-8-3"
 description: "Study guide for IB DP ESS Topic 8: population dynamics and models, urban systems and planning, and urban air pollution, with worked data examples."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
 publishedDate: 2026-09-27
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This study guide teaches Topic 8, Human populations and urban systems, for IB Diploma Programme Environmental Systems and Societies (ESS). It is aligned to the International Baccalaureate *Diploma Programme Subject Brief: Environmental systems and societies*, first assessment 2026, and covers syllabus sections 8.1 (human populations), 8.2 (urban systems and urban planning) and 8.3 (urban air pollution). The topic is studied at both SL and HL; the brief gives it 9 teaching hours at SL and 15 at HL, so HL students study some parts in extra depth. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.

@@ -15,12 +15,11 @@ syllabusTopics:
     topic: "paper-2-the-family-9699"
 description: "Condensed revision notes on perspectives on the family, diversity and social change, and gender and age within family life for Cambridge AS & A Level Sociology Paper 2 (9699)."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-03
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 Related: [Paper 2 study guide](/resources/a-level-cambridge-sociology-the-family/)

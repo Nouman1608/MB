@@ -22,12 +22,11 @@ syllabusTopics:
     subtopic: "social-class-educational-attainment-9699"
 description: "Original 9699 practice questions with marked answers on intelligence, IQ tests, class, cultural capital, labelling and compensatory education."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

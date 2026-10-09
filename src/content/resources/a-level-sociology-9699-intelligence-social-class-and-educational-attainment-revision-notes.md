@@ -22,12 +22,11 @@ syllabusTopics:
     subtopic: "social-class-educational-attainment-9699"
 description: "Condensed 9699 notes on intelligence and class in education: key terms, studies at a glance, distinctions, an essay plan and a quick self-test."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 These notes condense the [study guide for this unit](/resources/a-level-sociology-9699-intelligence-social-class-and-educational-attainment/); go there for full explanations and worked paragraphs.

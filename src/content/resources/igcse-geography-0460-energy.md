@@ -18,12 +18,11 @@ syllabusTopics:
     subtopic: "energy-0460"
 description: "Cambridge IGCSE Geography 0460 Topic 3.5 Energy: fossil fuels, fuelwood, nuclear and renewables, their pros and cons, and an Iceland case study."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers Topic 3.5 Energy from the Cambridge IGCSE Geography (0460) syllabus for examination in 2025 and 2026, Version 2 (published November 2022). Topic 3.5 sits in Theme 3, Economic development. It is examined in Paper 1 Geographical Themes (1 hour 45 minutes, 75 marks), where you answer three questions, one from each section. The syllabus also says Paper 2 Geographical Skills knowledge questions are based on topics from the three themes, and it lists energy among the things graphs in Paper 2 may show.

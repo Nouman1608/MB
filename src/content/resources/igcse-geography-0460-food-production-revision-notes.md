@@ -18,12 +18,11 @@ syllabusTopics:
     subtopic: "food-production-0460"
 description: "Condensed revision notes for Cambridge IGCSE Geography 0460 section 3.2 Food production, with key terms, case study facts and a self-test."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 These notes condense the [Food production study guide](/resources/igcse-geography-0460-food-production/). Read that first if a point here is new to you.

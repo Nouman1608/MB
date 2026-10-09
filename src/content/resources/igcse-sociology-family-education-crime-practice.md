@@ -14,12 +14,11 @@ syllabusTopics:
     topic: "paper-2-family-education-crime-0495"
 description: "An original practice paper for Cambridge IGCSE Sociology 0495 Paper 2: three 40-mark questions on Family, Education, and Crime, deviance and social control, each with parts (a) to (f), with mark schemes."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-05
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions;

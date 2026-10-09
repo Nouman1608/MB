@@ -14,12 +14,11 @@ syllabusTopics:
     topic: "theme-2-natural-environment-0460"
 description: "Condensed recall notes on earthquakes and volcanoes, rivers, coasts, weather and climate/vegetation, with case-study requirements marked, for Cambridge IGCSE Geography (0460) Theme 2."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-06
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 Condensed for the final weeks. For the full explanation of each sub-topic, use the study guides for

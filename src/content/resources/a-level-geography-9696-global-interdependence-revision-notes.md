@@ -28,12 +28,11 @@ syllabusTopics:
     subtopic: "the-management-of-a-tourist-destination-9696"
 description: "Condensed 9696 Global interdependence notes: key terms, trade, debt and aid facts, tourism models, an essay plan and a self-test with answers."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 Read the [study guide for this unit](/resources/a-level-geography-9696-global-interdependence/) first; these notes are for fast recall.

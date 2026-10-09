@@ -19,12 +19,11 @@ syllabusTopics:
     subtopic: "changing-places-9635"
 description: "Study guide to OxfordAQA 9635 Changing places: place concepts, flows and external forces, meaning and representation, and how to build both place studies."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers section 3.4.1, Changing places, of the OxfordAQA International AS and A-level Geography (9635) specification, Version 3.2. It works through 3.4.1.1 to 3.4.1.5: the nature and importance of places, relationships and connections, meaning and representation, quantitative and qualitative skills, and the two place studies. The specification places Changing places in Unit 4: Human geography 2, a 1 hour 30 minute written exam in which you answer all questions in Section A (40 marks) and Section B (40 marks); Unit 4 is worth 20% of the full International A-level.

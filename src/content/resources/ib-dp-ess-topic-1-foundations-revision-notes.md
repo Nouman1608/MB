@@ -14,12 +14,11 @@ syllabusTopics:
     topic: "ib-dp-environmental-systems-and-societies-foundation"
 description: "Condensed revision notes on IB Diploma Programme ESS Topic 1 -- Perspectives, Systems and Sustainability -- the foundation unit the specification says is revisited throughout the course, with key vocabulary and self-test questions."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
 publishedDate: 2026-09-02
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 Topic 1 -- Foundations is deliberately the first thing every ESS student studies, and, as the

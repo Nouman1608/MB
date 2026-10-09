@@ -7,6 +7,7 @@ credentials: []
 image: "/images/faculty/azam-siddique.jpg"
 entityType: person
 subjectsTaught: ["Islamiyat / Pakistan Studies", "History", "World History", "Environmental Management"]
+subjectsReviewed: ["Geography", "Environmental Systems and Societies"]
 boardsTaught: ["cambridge", "edexcel", "aqa", "oxfordaqa", "ib"]
 qualificationsTaught: []
 yearsExperience: 25
@@ -14,5 +15,6 @@ previousSchools: ["Aitchison College", "LGS", "Garrison", "Newlands", "Learning 
 sourceUrl: "https://learnersacademy.com.pk/teachers/"
 verifiedOn: 2026-08-18
 isReviewer: true
+sourceNote: "Teaching facts from the Learners Academy teacher listing. Geography and Environmental Systems and Societies review assigned by Nouman Ahmed, owner, in writing, 9 October 2026."
 publicationState: published
 ---

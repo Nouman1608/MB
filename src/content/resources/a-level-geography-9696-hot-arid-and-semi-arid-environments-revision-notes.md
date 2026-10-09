@@ -28,12 +28,11 @@ syllabusTopics:
     subtopic: "sustainable-management-of-hot-arid-and-semi-arid-environments-9696"
 description: "Revision notes for Cambridge 9696 Geography topic 10: aridity, wind and water processes, desert landforms, salinisation and desertification at a glance."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 These notes condense the [full study guide](/resources/a-level-geography-9696-hot-arid-and-semi-arid-environments/) for this unit.

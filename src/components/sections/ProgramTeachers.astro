@@ -58,7 +58,7 @@ const matrixSubjects = level === 'ap' ? new Set(AP_SUBJECT_TOKENS) : new Set(
 // subject filter above still decides who appears at all.
 const teachers = sortPinnedFirst(
   (await getAuthors())
-    .filter((a) => a.data.entityType === 'person')
+    .filter((a) => a.data.entityType === 'person' && a.data.subjectsTaught.length > 0)
     .filter((a) => a.data.subjectsTaught.some((s) => tokens(s).some((t) => matrixSubjects.has(t)))),
   (a, b) => (b.data.yearsExperience ?? 0) - (a.data.yearsExperience ?? 0),
 );

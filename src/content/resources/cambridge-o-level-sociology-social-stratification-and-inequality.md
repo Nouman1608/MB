@@ -14,12 +14,11 @@ syllabusTopics:
     topic: "paper-1-research-methods-identity-inequality-2251"
 description: "Class, gender, ethnicity and life chances -- Topic 3, Social Stratification and Inequality, given a full deep dive beyond the connective overview treatment in the site's existing whole-Paper-1 study guide."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-09
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide expands on **Topic 3: Social Stratification and Inequality**, part of Paper 1 in Cambridge

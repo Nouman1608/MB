@@ -95,7 +95,8 @@ function loadAuthors() {
     const fm = raw.split('---')[1] ?? '';
     const isReviewer = /^isReviewer:\s*true/m.test(fm);
     const list = (key) => JSON.parse(fm.match(new RegExp(`^${key}:\\s*(\\[.*\\])`, 'm'))?.[1] ?? '[]');
-    authors.set(file.replace(/\.md$/, ''), { isReviewer, subjects: list('subjectsTaught'), boards: list('boardsTaught') });
+    // D-408 -- a reviewer covers subjects taught and subjects reviewed (subjectsReviewed).
+    authors.set(file.replace(/\.md$/, ''), { isReviewer, subjects: [...list('subjectsTaught'), ...list('subjectsReviewed')], boards: list('boardsTaught') });
   }
   return authors;
 }

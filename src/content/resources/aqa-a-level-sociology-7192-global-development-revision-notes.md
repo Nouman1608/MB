@@ -18,12 +18,11 @@ syllabusTopics:
     subtopic: "global-development-7192"
 description: "Condensed AQA 7192 Global Development revision notes: key terms, theorists at a glance, must-know distinctions, an essay plan and a quick self-test."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 Read the [Global development study guide](/resources/aqa-a-level-sociology-7192-global-development/) first; these notes condense it for last-stage revision.

@@ -19,12 +19,11 @@ syllabusTopics:
     topic: "ib-dp-environmental-systems-and-societies-hl-c-environmental-ethics"
 description: "Study guide to the three IB DP ESS HL lenses -- environmental law, environmental and ecological economics, and ethics -- with worked examples."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
 publishedDate: 2026-09-27
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This study guide covers the three higher level lenses of IB Diploma Programme Environmental Systems and Societies (ESS). It is aligned to the International Baccalaureate Organization's Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026, and covers HL.a Environmental law, HL.b Environmental and ecological economics and HL.c Environmental ethics. All three are **HL only**: SL students do not study them. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.

@@ -31,12 +31,11 @@ syllabusTopics:
     subtopic: "artificial-intelligence-and-cyborgs-9690"
 description: "Study guide to OxfordAQA 9690 Sociology Unit 5, People and technology: machines, media, social media, digital life, AI and cyborgs."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers section 3.2.3, People and technology (3.2.3.1 to 3.2.3.5), of the OxfordAQA International AS and A-level Sociology (9690) specification, Version 1.1 (first teaching September 2026; first A-level exams May/June 2028). The section is assessed in Unit 5: People and technology, a 1 hour 30 minute exam worth 50 marks and 20% of the International A-level, with short and extended response questions. The specification also says you must use examples from your own society, or a society you know about, in selected extended response questions.

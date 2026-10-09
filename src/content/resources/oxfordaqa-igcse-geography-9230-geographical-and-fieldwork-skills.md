@@ -15,12 +15,11 @@ syllabusTopics:
     topic: "geographical-fieldwork-skills-9230"
 description: "Map, graph, number and statistics skills plus the six fieldwork enquiry strands for OxfordAQA IGCSE Geography 9230, with worked examples and checked sums."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers Unit 3, Geographical and Fieldwork skills (section 3.3), of the OxfordAQA International GCSE Geography (9230) specification, Version 4.3 (exams May/June 2020 onwards). It works through section 3.3.1 (Section A: Geographical skills) and section 3.3.2 (Section B: Fieldwork skills and Section C: Individual fieldwork enquiry). Paper 3, Geographical and Fieldwork skills, is a 1 hour 15 minute written exam worth 60 marks and 28% of the qualification, with three compulsory sections of 20 marks each. Geographical skills can also be tested on Papers 1 and 2, and map extracts may be used in any of the three exams.

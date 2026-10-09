@@ -14,12 +14,11 @@ syllabusTopics:
     topic: "theme-3-economic-development-2217"
 description: "Cambridge O Level Geography 2217 (2026 series), Theme 3: development indicators, globalisation, food production, industry, tourism, energy, water, and environmental risks of economic development, with the eight required case studies."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-02
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers **Theme 3 Economic Development**, the third and

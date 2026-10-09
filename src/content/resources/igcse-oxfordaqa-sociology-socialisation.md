@@ -15,12 +15,11 @@ syllabusTopics:
     subtopic: "socialisation-and-social-control-9292"
 description: "Primary and secondary socialisation, agencies of socialisation, and the functionalist, Marxist, feminist and social action perspectives on it -- 3.2.2.2 within Socialisation and Social Control, OxfordAQA International GCSE Sociology (9292)."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-02
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers **3.2.2.2 Socialisation**, part of the Socialisation

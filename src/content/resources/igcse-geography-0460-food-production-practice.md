@@ -18,12 +18,11 @@ syllabusTopics:
     subtopic: "food-production-0460"
 description: "Original IGCSE Geography 0460 food production questions with marked answers: farm systems, data skills, food shortages, aid and case studies."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

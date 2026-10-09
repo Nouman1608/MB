@@ -14,12 +14,11 @@ syllabusTopics:
     topic: "ib-dp-geography-changing-population"
 description: "Condensed revision notes on IB Diploma Programme Geography's compulsory core theme, Population distribution -- changing population, with key vocabulary, case-study guidance and self-test questions."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
 publishedDate: 2026-09-02
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 Unlike DP Geography's seven geographic-theme options, which depend on what your teacher chose to

@@ -14,12 +14,11 @@ syllabusTopics:
     topic: "ib-dp-geography-global-climate"
 description: "Causes, consequences and responses -- including vulnerability, resilience, adaptation and mitigation -- in the compulsory Global Climate core theme of IB Diploma Programme Geography, examined in Paper 2 for every student regardless of which options a school teaches."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
 publishedDate: 2026-09-06
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers **Global Climate: Vulnerability and Resilience**,

@@ -14,12 +14,11 @@ syllabusTopics:
     topic: "ib-dp-environmental-systems-and-societies-foundation"
 description: "Perspectives, systems and sustainability -- IB Diploma Programme ESS Topic 1, the foundation unit the specification explicitly revisits throughout the course, first assessment 2026."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
 publishedDate: 2026-09-06
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers **Topic 1 — Foundations**, for IB Diploma Programme

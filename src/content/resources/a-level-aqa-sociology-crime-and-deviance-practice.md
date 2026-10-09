@@ -14,12 +14,11 @@ syllabusTopics:
     topic: "paper-3-crime-deviance-theory-methods-7192"
 description: "Original exam-style practice questions with full worked answers on the content areas, core themes and theoretical explanations of crime and deviance, for AQA A-Level Sociology (7192) Paper 3."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-06
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

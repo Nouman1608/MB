@@ -9,12 +9,11 @@ syllabusCodes: ["DP Environmental Systems and Societies"]
 order: 1
 description: "Condensed recall notes on the assessment structure at SL and HL -- papers, weightings and the fieldwork-based internal assessment -- for IB Diploma Programme Environmental Systems and Societies (ESS)."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
 publishedDate: 2026-08-26
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the

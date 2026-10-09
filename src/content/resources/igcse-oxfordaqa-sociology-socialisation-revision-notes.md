@@ -15,12 +15,11 @@ syllabusTopics:
     subtopic: "socialisation-and-social-control-9292"
 description: "Condensed recall notes on types and agencies of socialisation and the four sociological perspectives for OxfordAQA International GCSE Sociology 3.2.2.2 (9292)."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-03
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 Condensed for the final weeks. For the full explanation, use the

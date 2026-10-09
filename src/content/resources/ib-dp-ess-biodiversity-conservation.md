@@ -24,6 +24,9 @@ description: "Study guide for IB DP ESS Topic 3: biodiversity and evolution, hum
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This study guide teaches Topic 3, Biodiversity and conservation, of IB Diploma Programme Environmental Systems and Societies (ESS). It is aligned to the IB Diploma Programme Subject Brief, *Environmental systems and societies*, and covers syllabus sections 3.1 (biodiversity and evolution), 3.2 (human impact on biodiversity) and 3.3 (conservation and regeneration). The topic is studied at both SL and HL: the brief gives it 13 teaching hours at SL and 26 at HL, so HL students study some topics in extra depth. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.

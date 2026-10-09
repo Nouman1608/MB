@@ -15,12 +15,11 @@ syllabusTopics:
     subtopic: "rivers-0460"
 description: "Hydrological characteristics of rivers and drainage basins, the processes of erosion, transportation and deposition, the landforms they create, and flood hazards and their management, for Cambridge IGCSE Geography 0460, section 2.2."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-02
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers **2.2, Rivers**, from Theme 2, The Natural

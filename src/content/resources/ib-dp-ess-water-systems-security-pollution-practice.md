@@ -25,12 +25,11 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-4-4"
 description: "11 original IB DP ESS Topic 4 Water questions with worked mark-point answers on data, fisheries, water security and pollution, SL and HL."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
 publishedDate: 2026-09-27
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

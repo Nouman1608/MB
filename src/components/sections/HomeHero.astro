@@ -33,7 +33,7 @@ import { getAuthors } from '../../utils/content/collections';
 import { activeOnly } from '../../utils/academic';
 import { routes } from '../../utils/urls/routes';
 
-const teacherCount = (await getAuthors()).filter((a) => a.data.entityType === 'person').length;
+const teacherCount = (await getAuthors()).filter((a) => a.data.entityType === 'person' && a.data.subjectsTaught.length > 0).length;
 
 /**
  * The board list is DERIVED from the academic matrix, not typed by hand.

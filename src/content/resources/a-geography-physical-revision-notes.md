@@ -19,12 +19,11 @@ syllabusTopics:
     topic: "rocks-and-weathering-9696"
 description: "Condensed recall notes on hydrology, fluvial landforms, rocks and weathering, and atmosphere for Cambridge AS & A Level Geography 9696."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-08-22
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 Condensed for the final weeks. For the full explanation, use the

@@ -22,12 +22,11 @@ syllabusTopics:
     subtopic: "fieldwork-skills-9635"
 description: "Original OxfordAQA 9635 Unit 5 practice questions with marked answers: IQR, standard deviation, Spearman's rank, chi-square and fieldwork evaluation."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

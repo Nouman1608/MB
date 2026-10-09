@@ -11,12 +11,11 @@ syllabusSeries: "Version 1.1 -- new specification: first teaching September 2026
 order: 3
 description: "How to prepare for OxfordAQA International A-Level Sociology 9690's five equally-weighted units from the specification and the Unit 1 specimen question paper and mark scheme, plus a worked evaluation-paragraph routine."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-09
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 OxfordAQA International A-Level Sociology (9690) is a brand-new specification: first teaching from

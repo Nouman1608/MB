@@ -22,12 +22,11 @@ syllabusTopics:
     subtopic: "fieldwork-skills-9635"
 description: "Study guide to OxfordAQA 9635 Unit 5: the full skills checklist, worked Spearman's rank and chi-square tests, and every stage of the fieldwork enquiry."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers section 3.5, Unit 5: Geographical and Fieldwork skills, of the OxfordAQA International AS and A-level Geography (9635) specification, Version 3.2. It works through the geographical skills checklist (3.5.1.1 to 3.5.1.5) and the fieldwork skills (3.5.2.1 to 3.5.2.5). Unit 5 is a written exam of 1 hour 30 minutes with 60 marks, all questions compulsory, worth 20% of the International A-level. The specification also says knowledge of the skills list is needed for Units 1 to 4, so these techniques can appear on every paper.

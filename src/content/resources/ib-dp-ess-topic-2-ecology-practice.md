@@ -14,12 +14,11 @@ syllabusTopics:
     topic: "ib-dp-environmental-systems-and-societies-ecology"
 description: "Original practice questions with full worked answers on ecosystem structure, energy flow, nutrient cycling and ecosystem change, for Topic 2 of IB Diploma Programme Environmental Systems and Societies."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
 publishedDate: 2026-09-06
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

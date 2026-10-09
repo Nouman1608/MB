@@ -28,12 +28,11 @@ syllabusTopics:
     subtopic: "sustainable-management-of-coasts-9696"
 description: "Condensed revision notes for Cambridge 9696 Coastal environments: key terms, landform sequences, coral reef facts, case study summaries and a self-test."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 For full explanations and worked answer paragraphs, read the [study guide](/resources/a-level-geography-9696-coastal-environments/) first.

@@ -18,25 +18,1329 @@ review.
 
 | Teacher | Profile slug | Pages eligible |
 | --- | --- | --- |
-| Muhammad Ghazali Siddiqui | `muhammad-ghazali-siddiqui` | 94 |
-| Sajawal Zahid | `sajawal-zahid` | 94 |
-| Ameer Hamza | `ameer-hamza` | 83 |
-| Hina Mogul | `hina-mogul` | 77 |
-| Nouman Ahmed | `nouman-ahmed` | 47 |
-| Farhat ul Ain Sehgal | `farhat-ul-ain-sehgal` | 41 |
-| Saad Zai | `saad-zai` | 35 |
-| Iftikhar Azeemi | `iftikhar-azeemi` | 7 |
-| Hassan | `hassan` | 1 |
-| *No eligible teacher* | — | 561 |
+| Nouman Ahmed | `nouman-ahmed` | 621 |
+| Farhat ul Ain Sehgal | `farhat-ul-ain-sehgal` | 615 |
+| Muhammad Ghazali Siddiqui | `muhammad-ghazali-siddiqui` | 150 |
+| Sajawal Zahid | `sajawal-zahid` | 150 |
+| Javaid Iqbal Sabri | `javaid-iqbal-sabri` | 138 |
+| Zain Ud Din Ahmed | `zain-ud-din-ahmed` | 138 |
+| Ameer Hamza | `ameer-hamza` | 131 |
+| Hina Mogul | `hina-mogul` | 125 |
+| Harris Khan | `harris-khan` | 97 |
+| Saad Zai | `saad-zai` | 83 |
+| Iftikhar Azeemi | `iftikhar-azeemi` | 44 |
+| Salman Ahmad | `salman-ahmad` | 42 |
+| Hassan | `hassan` | 38 |
+| *No eligible teacher* | — | 292 |
 
-780 review-pending pages in total; a page can appear under more than one teacher.
+1503 review-pending pages in total; a page can appear under more than one teacher.
 
-## Muhammad Ghazali Siddiqui (`muhammad-ghazali-siddiqui`) — 94
+## Nouman Ahmed (`nouman-ahmed`) — 621
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `aqa-a-level-chemistry-acids-and-bases-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-acids-and-bases-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-acids-and-bases` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-alcohols-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-alcohols-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-alcohols` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-aldehydes-and-ketones-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-aldehydes-and-ketones-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-aldehydes-and-ketones` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-alkanes-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-alkanes-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-alkanes` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-alkenes-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-alkenes-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-alkenes` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-amines-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-amines-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-amines` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-amino-acids-proteins-and-dna-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-amino-acids-proteins-and-dna-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-amino-acids-proteins-and-dna` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-aromatic-chemistry-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-aromatic-chemistry-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-aromatic-chemistry` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-carboxylic-acids-and-derivatives-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-carboxylic-acids-and-derivatives-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-carboxylic-acids-and-derivatives` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-chromatography-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-chromatography-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-chromatography` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-energetics-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-energetics-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-energetics` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-group-2-the-alkaline-earth-metals-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-group-2-the-alkaline-earth-metals-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-group-2-the-alkaline-earth-metals` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-group-7-17-the-halogens-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-group-7-17-the-halogens-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-group-7-17-the-halogens` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-halogenoalkanes-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-halogenoalkanes-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-halogenoalkanes` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-ideal-gas-equation-and-empirical-formula-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-ideal-gas-equation-and-empirical-formula-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-ideal-gas-equation-and-empirical-formula` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-introduction-to-organic-chemistry-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-introduction-to-organic-chemistry-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-introduction-to-organic-chemistry` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-kinetics-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-kinetics-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-kinetics` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-optical-isomerism-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-optical-isomerism-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-optical-isomerism` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-organic-analysis-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-organic-analysis-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-organic-analysis` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-organic-synthesis-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-organic-synthesis-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-organic-synthesis` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-oxidation-reduction-and-redox-equations-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-oxidation-reduction-and-redox-equations-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-oxidation-reduction-and-redox-equations` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-periodicity-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-periodicity-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-periodicity` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-polymers-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-polymers-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-polymers` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-properties-of-period-3-elements-and-their-oxides-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-properties-of-period-3-elements-and-their-oxides-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-properties-of-period-3-elements-and-their-oxides` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-rate-equations-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-rate-equations-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-rate-equations` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-thermodynamics-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-thermodynamics-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-thermodynamics` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-transition-metals-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-transition-metals-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-transition-metals` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-atomic-structure-practice` | aqa gcse chemistry (8462) | practice-questions | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-atomic-structure-revision-notes` | aqa gcse chemistry (8462) | revision-notes | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-atomic-structure` | aqa gcse chemistry (8462) | study-guides | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds-practice` | aqa gcse chemistry (8462) | practice-questions | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds-revision-notes` | aqa gcse chemistry (8462) | revision-notes | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds` | aqa gcse chemistry (8462) | study-guides | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-covalent-and-metallic-bonding-practice` | aqa gcse chemistry (8462) | practice-questions | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-covalent-and-metallic-bonding-revision-notes` | aqa gcse chemistry (8462) | revision-notes | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-covalent-and-metallic-bonding` | aqa gcse chemistry (8462) | study-guides | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-properties-of-transition-metals-practice` | aqa gcse chemistry (8462) | practice-questions | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-properties-of-transition-metals-revision-notes` | aqa gcse chemistry (8462) | revision-notes | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-properties-of-transition-metals` | aqa gcse chemistry (8462) | study-guides | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-the-periodic-table-practice` | aqa gcse chemistry (8462) | practice-questions | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-the-periodic-table-revision-notes` | aqa gcse chemistry (8462) | revision-notes | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-the-periodic-table` | aqa gcse chemistry (8462) | study-guides | VERIFIED | 1 |
+| `cambridge-o-level-chemistry-5070-past-papers` | cambridge o-level chemistry (5070) | past-papers | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-acid-base-equilibria-ph-ka-and-kw-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-acid-base-equilibria-ph-ka-and-kw-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-acid-base-equilibria-ph-ka-and-kw` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-acid-base-equilibria-titration-curves-and-buffers-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-acid-base-equilibria-titration-curves-and-buffers-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-acid-base-equilibria-titration-curves-and-buffers` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-alcohols-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-alcohols-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-alcohols` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-alkenes-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-alkenes-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-alkenes` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-amines-amides-amino-acids-and-proteins-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-amines-amides-amino-acids-and-proteins-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-amines-amides-amino-acids-and-proteins` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-carbonyl-compounds-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-carbonyl-compounds-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-carbonyl-compounds` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-carboxylic-acids-and-their-derivatives-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-carboxylic-acids-and-their-derivatives-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-carboxylic-acids-and-their-derivatives` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-chemical-equilibria-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-chemical-equilibria-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-chemical-equilibria` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-chirality-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-chirality-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-chirality` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-energetics-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-energetics-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-energetics` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-entropy-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-entropy-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-entropy` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-formulae-equations-and-amount-of-substance-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-formulae-equations-and-amount-of-substance-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-formulae-equations-and-amount-of-substance` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-inorganic-chemistry-of-group-7-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-inorganic-chemistry-of-group-7-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-inorganic-chemistry-of-group-7` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-intermolecular-forces-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-intermolecular-forces-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-intermolecular-forces` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-introduction-to-kinetics-and-equilibria-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-introduction-to-kinetics-and-equilibria-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-introduction-to-kinetics-and-equilibria` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-introductory-organic-chemistry-and-alkanes-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-introductory-organic-chemistry-and-alkanes-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-introductory-organic-chemistry-and-alkanes` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-ionic-and-covalent-bonding-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-ionic-and-covalent-bonding-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-ionic-and-covalent-bonding` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-kinetics-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-kinetics-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-kinetics` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-lattice-energy-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-lattice-energy-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-lattice-energy` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-mass-spectra-and-infrared-spectroscopy-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-mass-spectra-and-infrared-spectroscopy-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-mass-spectra-and-infrared-spectroscopy` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-organic-chemistry-arenes-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-organic-chemistry-arenes-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-organic-chemistry-arenes` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-organic-principles-and-halogenoalkanes-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-organic-principles-and-halogenoalkanes-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-organic-principles-and-halogenoalkanes` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-organic-synthesis-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-organic-synthesis-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-organic-synthesis` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-practical-skills-in-chemistry-i-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-practical-skills-in-chemistry-i-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-practical-skills-in-chemistry-i` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-practical-skills-in-chemistry-ii-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-practical-skills-in-chemistry-ii-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-practical-skills-in-chemistry-ii` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-redox-chemistry-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-redox-chemistry-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-redox-chemistry` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-redox-equilibria-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-redox-equilibria-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-redox-equilibria` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-shapes-of-molecules-and-metallic-bonding-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-shapes-of-molecules-and-metallic-bonding-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-shapes-of-molecules-and-metallic-bonding` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-spectroscopy-and-chromatography-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-spectroscopy-and-chromatography-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-spectroscopy-and-chromatography` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-the-elements-of-groups-1-and-2-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-the-elements-of-groups-1-and-2-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-the-elements-of-groups-1-and-2` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-transition-metals-complexes-and-colour-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-transition-metals-complexes-and-colour-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-transition-metals-complexes-and-colour` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-transition-metals-redox-and-catalysis-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-transition-metals-redox-and-catalysis-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-transition-metals-redox-and-catalysis` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-atomic-structure-and-the-periodic-table-practice` | edexcel igcse chemistry (4CH1) | practice-questions | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-atomic-structure-and-the-periodic-table-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-atomic-structure-and-the-periodic-table` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-chemical-formulae-equations-and-calculations-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-chemical-formulae-equations-and-calculations` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-chemical-tests-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-chemical-tests` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-electrolysis-practice` | edexcel igcse chemistry (4CH1) | practice-questions | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-electrolysis-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-electrolysis` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals-practice` | edexcel igcse chemistry (4CH1) | practice-questions | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-gases-in-the-atmosphere-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-gases-in-the-atmosphere` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-group-1-and-group-7-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-group-1-and-group-7` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding-practice` | edexcel igcse chemistry (4CH1) | practice-questions | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures-practice` | edexcel igcse chemistry (4CH1) | practice-questions | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
+| `ib-dp-chemistry-counting-particles-by-mass-the-mole-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-counting-particles-by-mass-the-mole-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-counting-particles-by-mass-the-mole` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-configurations-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-configurations-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-configurations` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-sharing-reactions-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-sharing-reactions-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-sharing-reactions` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-transfer-redox-cells-and-electrolysis-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-transfer-redox-cells-and-electrolysis-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-transfer-redox-cells-and-electrolysis` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-energy-cycles-in-reactions-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-energy-cycles-in-reactions-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-energy-cycles-in-reactions` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-energy-from-fuels-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-energy-from-fuels-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-energy-from-fuels` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-entropy-and-spontaneity-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-entropy-and-spontaneity-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-entropy-and-spontaneity` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-from-models-to-materials-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-from-models-to-materials-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-from-models-to-materials` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-functional-groups-and-naming-organic-compounds-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-functional-groups-and-naming-organic-compounds-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-functional-groups-and-naming-organic-compounds` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-how-far-the-extent-of-chemical-change-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-how-far-the-extent-of-chemical-change-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-how-far-the-extent-of-chemical-change` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-how-fast-rates-and-collision-theory-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-how-fast-rates-and-collision-theory-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-how-fast-rates-and-collision-theory` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-how-much-the-amount-of-chemical-change-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-how-much-the-amount-of-chemical-change-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-how-much-the-amount-of-chemical-change` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-ideal-gases-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-ideal-gases-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-ideal-gases` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-measuring-enthalpy-changes-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-measuring-enthalpy-changes-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-measuring-enthalpy-changes` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-proton-transfer-acids-bases-and-ph-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-proton-transfer-acids-bases-and-ph-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-proton-transfer-acids-bases-and-ph` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-covalent-model-bonds-lewis-formulas-shapes-and-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-covalent-model-bonds-lewis-formulas-shapes-and-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-covalent-model-bonds-lewis-formulas-shapes-and` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-ionic-model-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-ionic-model-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-ionic-model` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-metallic-model-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-metallic-model-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-metallic-model` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-nuclear-atom-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-nuclear-atom-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-nuclear-atom` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-periodic-table-classification-of-elements-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-periodic-table-classification-of-elements-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-periodic-table-classification-of-elements` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-myp-sciences-global-contexts-practice` | ib ib-myp myp-sciences (MYP Sciences) | practice-questions | PARTIAL_UNVERIFIABLE | 2 |
+| `ib-myp-sciences-global-contexts-revision-notes` | ib ib-myp myp-sciences (MYP Sciences) | revision-notes | PARTIAL_UNVERIFIABLE | 2 |
+| `ib-myp-sciences-global-contexts` | ib ib-myp myp-sciences (MYP Sciences) | study-guides | PARTIAL_UNVERIFIABLE | 2 |
+| `ib-myp-sciences-key-concepts-practice` | ib ib-myp myp-sciences (MYP Sciences) | practice-questions | PARTIAL_UNVERIFIABLE | 2 |
+| `ib-myp-sciences-key-concepts-revision-notes` | ib ib-myp myp-sciences (MYP Sciences) | revision-notes | PARTIAL_UNVERIFIABLE | 2 |
+| `ib-myp-sciences-key-concepts` | ib ib-myp myp-sciences (MYP Sciences) | study-guides | PARTIAL_UNVERIFIABLE | 2 |
+| `igcse-chemistry-0620-elements-atomic-structure-and-isotopes` | cambridge igcse chemistry (0620) | study-guides | VERIFIED | 1 |
+| `ocr-a-level-chemistry-5-3-2-qualitative-analysis-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-5-3-2-qualitative-analysis-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-5-3-2-qualitative-analysis` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-6-2-5-organic-synthesis-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-6-2-5-organic-synthesis-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-6-2-5-organic-synthesis` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-acids-bases-and-buffers-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-acids-bases-and-buffers-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-acids-bases-and-buffers` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-alcohols-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-alcohols-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-alcohols` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-alkanes-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-alkanes-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-alkanes` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-alkenes-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-alkenes-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-alkenes` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-amines-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-amines-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-amines` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-amino-acids-amides-and-chirality-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-amino-acids-amides-and-chirality-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-amino-acids-amides-and-chirality` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-analytical-techniques-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-analytical-techniques-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-analytical-techniques` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-aromatic-compounds-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-aromatic-compounds-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-aromatic-compounds` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-basic-concepts-of-organic-chemistry-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-basic-concepts-of-organic-chemistry-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-basic-concepts-of-organic-chemistry` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-bonding-and-structure-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-bonding-and-structure-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-bonding-and-structure` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-carbon-carbon-bond-formation-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-carbon-carbon-bond-formation-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-carbon-carbon-bond-formation` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-carbonyl-compounds-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-carbonyl-compounds-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-carbonyl-compounds` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-carboxylic-acids-and-esters-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-carboxylic-acids-and-esters-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-carboxylic-acids-and-esters` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-chemical-equilibrium-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-chemical-equilibrium-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-chemical-equilibrium` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-chromatography-and-qualitative-analysis-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-chromatography-and-qualitative-analysis-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-chromatography-and-qualitative-analysis` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-electron-structure-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-electron-structure-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-electron-structure` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-enthalpy-and-entropy-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-enthalpy-and-entropy-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-enthalpy-and-entropy` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-enthalpy-changes-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-enthalpy-changes-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-enthalpy-changes` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-group-2-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-group-2-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-group-2` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-haloalkanes-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-haloalkanes-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-haloalkanes` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-how-far-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-how-far-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-how-far` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-how-fast-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-how-fast-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-how-fast` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-lattice-enthalpy-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-lattice-enthalpy-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-lattice-enthalpy` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-organic-synthesis-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-organic-synthesis-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-organic-synthesis` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-periodicity-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-periodicity-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-periodicity` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-polyesters-and-polyamides-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-polyesters-and-polyamides-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-polyesters-and-polyamides` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-practical-skills-practical-endorsement-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-practical-skills-practical-endorsement-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-practical-skills-practical-endorsement` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-practical-skills-written-examination-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-practical-skills-written-examination-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-practical-skills-written-examination` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-qualitative-analysis-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-qualitative-analysis-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-qualitative-analysis` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-reaction-rates-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-reaction-rates-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-reaction-rates` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-redox-and-electrode-potentials-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-redox-and-electrode-potentials-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-redox-and-electrode-potentials` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-redox-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-redox-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-redox` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-spectroscopy-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-spectroscopy-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-spectroscopy` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-the-halogens-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-the-halogens-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-the-halogens` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-transition-elements-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-transition-elements-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-transition-elements` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-bonding-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-bonding-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-bonding` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-controlling-reactions-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-controlling-reactions-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-controlling-reactions` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-earth-systems-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-earth-systems-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-earth-systems` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-electrolysis-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-electrolysis-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-electrolysis` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-energetics-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-energetics-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-energetics` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-equilibria-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-equilibria-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-equilibria` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-identifying-products-of-reactions-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-identifying-products-of-reactions-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-identifying-products-of-reactions` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-improving-processes-and-products-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-improving-processes-and-products-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-improving-processes-and-products` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-introducing-chemical-reactions-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-introducing-chemical-reactions-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-introducing-chemical-reactions` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-monitoring-chemical-reactions-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-monitoring-chemical-reactions-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-monitoring-chemical-reactions` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-organic-chemistry-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-organic-chemistry-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-organic-chemistry` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-predicting-chemical-reactions-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-predicting-chemical-reactions-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-predicting-chemical-reactions` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-properties-of-materials-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-properties-of-materials-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-properties-of-materials` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-the-particle-model-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-the-particle-model-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-the-particle-model` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-types-of-chemical-reactions-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-types-of-chemical-reactions-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-types-of-chemical-reactions` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-acids-and-bases-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-acids-and-bases-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-acids-and-bases` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-alcohols-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-alcohols-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-alcohols` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-aldehydes-and-ketones-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-aldehydes-and-ketones-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-aldehydes-and-ketones` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-alkanes-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-alkanes-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-alkanes` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-alkenes-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-alkenes-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-alkenes` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-amines-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-amines-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-amines` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-amino-acids-and-proteins-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-amino-acids-and-proteins-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-amino-acids-and-proteins` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-aromatic-chemistry-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-aromatic-chemistry-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-aromatic-chemistry` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-carboxylic-acids-and-derivatives-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-carboxylic-acids-and-derivatives-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-carboxylic-acids-and-derivatives` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-chromatography-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-chromatography-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-chromatography` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-group-2-the-alkaline-earth-metals-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-group-2-the-alkaline-earth-metals-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-group-2-the-alkaline-earth-metals` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-group-7-17-the-halogens-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-group-7-17-the-halogens-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-group-7-17-the-halogens` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-halogenoalkanes-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-halogenoalkanes-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-halogenoalkanes` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-introduction-to-organic-chemistry-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-introduction-to-organic-chemistry-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-introduction-to-organic-chemistry` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-kinetics-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-kinetics-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-kinetics` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-optical-isomerism-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-optical-isomerism-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-optical-isomerism` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-organic-analysis-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-organic-analysis-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-organic-analysis` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-organic-synthesis-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-organic-synthesis-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-organic-synthesis` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-oxidation-reduction-and-redox-equations-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-oxidation-reduction-and-redox-equations-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-oxidation-reduction-and-redox-equations` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-periodicity-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-periodicity-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-periodicity` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-polymers-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-polymers-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-polymers` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-properties-of-period-3-elements-and-their-oxides-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-properties-of-period-3-elements-and-their-oxides-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-properties-of-period-3-elements-and-their-oxides` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-rate-equations-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-rate-equations-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-rate-equations` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-thermodynamics-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-thermodynamics-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-thermodynamics` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-transition-metals-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-transition-metals-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-transition-metals` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-acids-bases-and-preparing-salts-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-acids-bases-and-preparing-salts-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-acids-bases-and-preparing-salts` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-bonding-structure-and-properties-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-bonding-structure-and-properties-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-bonding-structure-and-properties` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-chemical-bonds-ionic-covalent-and-metallic-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-chemical-bonds-ionic-covalent-and-metallic-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-chemical-bonds-ionic-covalent-and-metallic` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-electrolysis-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-electrolysis-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-electrolysis` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-exothermic-endothermic-and-energy-change-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-exothermic-endothermic-and-energy-change-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-exothermic-endothermic-and-energy-change` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-group-properties-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-group-properties-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-group-properties` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-identification-of-ions-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-identification-of-ions-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-identification-of-ions` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-metals-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-metals-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-metals` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-rate-of-reaction-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-rate-of-reaction-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-rate-of-reaction` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-redox-reactions-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-redox-reactions-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-redox-reactions` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-synthetic-and-naturally-occurring-polymers-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-synthetic-and-naturally-occurring-polymers-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-synthetic-and-naturally-occurring-polymers` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-transition-metals-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-transition-metals-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-transition-metals` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+
+## Farhat ul Ain Sehgal (`farhat-ul-ain-sehgal`) — 615
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `aqa-a-level-chemistry-acids-and-bases-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-acids-and-bases-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-acids-and-bases` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-alcohols-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-alcohols-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-alcohols` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-aldehydes-and-ketones-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-aldehydes-and-ketones-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-aldehydes-and-ketones` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-alkanes-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-alkanes-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-alkanes` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-alkenes-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-alkenes-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-alkenes` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-amines-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-amines-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-amines` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-amino-acids-proteins-and-dna-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-amino-acids-proteins-and-dna-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-amino-acids-proteins-and-dna` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-aromatic-chemistry-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-aromatic-chemistry-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-aromatic-chemistry` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-carboxylic-acids-and-derivatives-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-carboxylic-acids-and-derivatives-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-carboxylic-acids-and-derivatives` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-chromatography-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-chromatography-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-chromatography` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-energetics-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-energetics-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-energetics` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-group-2-the-alkaline-earth-metals-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-group-2-the-alkaline-earth-metals-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-group-2-the-alkaline-earth-metals` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-group-7-17-the-halogens-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-group-7-17-the-halogens-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-group-7-17-the-halogens` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-halogenoalkanes-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-halogenoalkanes-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-halogenoalkanes` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-ideal-gas-equation-and-empirical-formula-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-ideal-gas-equation-and-empirical-formula-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-ideal-gas-equation-and-empirical-formula` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-introduction-to-organic-chemistry-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-introduction-to-organic-chemistry-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-introduction-to-organic-chemistry` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-kinetics-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-kinetics-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-kinetics` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-optical-isomerism-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-optical-isomerism-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-optical-isomerism` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-organic-analysis-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-organic-analysis-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-organic-analysis` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-organic-synthesis-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-organic-synthesis-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-organic-synthesis` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-oxidation-reduction-and-redox-equations-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-oxidation-reduction-and-redox-equations-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-oxidation-reduction-and-redox-equations` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-periodicity-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-periodicity-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-periodicity` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-polymers-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-polymers-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-polymers` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-properties-of-period-3-elements-and-their-oxides-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-properties-of-period-3-elements-and-their-oxides-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-properties-of-period-3-elements-and-their-oxides` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-rate-equations-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-rate-equations-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-rate-equations` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-thermodynamics-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-thermodynamics-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-thermodynamics` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-transition-metals-practice` | aqa a-level chemistry (7405) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-transition-metals-revision-notes` | aqa a-level chemistry (7405) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-chemistry-transition-metals` | aqa a-level chemistry (7405) | study-guides | UNVERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-atomic-structure-practice` | aqa gcse chemistry (8462) | practice-questions | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-atomic-structure-revision-notes` | aqa gcse chemistry (8462) | revision-notes | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-atomic-structure` | aqa gcse chemistry (8462) | study-guides | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds-practice` | aqa gcse chemistry (8462) | practice-questions | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds-revision-notes` | aqa gcse chemistry (8462) | revision-notes | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds` | aqa gcse chemistry (8462) | study-guides | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-covalent-and-metallic-bonding-practice` | aqa gcse chemistry (8462) | practice-questions | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-covalent-and-metallic-bonding-revision-notes` | aqa gcse chemistry (8462) | revision-notes | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-covalent-and-metallic-bonding` | aqa gcse chemistry (8462) | study-guides | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-properties-of-transition-metals-practice` | aqa gcse chemistry (8462) | practice-questions | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-properties-of-transition-metals-revision-notes` | aqa gcse chemistry (8462) | revision-notes | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-properties-of-transition-metals` | aqa gcse chemistry (8462) | study-guides | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-the-periodic-table-practice` | aqa gcse chemistry (8462) | practice-questions | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-the-periodic-table-revision-notes` | aqa gcse chemistry (8462) | revision-notes | VERIFIED | 1 |
+| `aqa-gcse-chemistry-8462-the-periodic-table` | aqa gcse chemistry (8462) | study-guides | VERIFIED | 1 |
+| `cambridge-o-level-chemistry-5070-past-papers` | cambridge o-level chemistry (5070) | past-papers | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-acid-base-equilibria-ph-ka-and-kw-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-acid-base-equilibria-ph-ka-and-kw-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-acid-base-equilibria-ph-ka-and-kw` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-acid-base-equilibria-titration-curves-and-buffers-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-acid-base-equilibria-titration-curves-and-buffers-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-acid-base-equilibria-titration-curves-and-buffers` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-alcohols-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-alcohols-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-alcohols` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-alkenes-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-alkenes-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-alkenes` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-amines-amides-amino-acids-and-proteins-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-amines-amides-amino-acids-and-proteins-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-amines-amides-amino-acids-and-proteins` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-carbonyl-compounds-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-carbonyl-compounds-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-carbonyl-compounds` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-carboxylic-acids-and-their-derivatives-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-carboxylic-acids-and-their-derivatives-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-carboxylic-acids-and-their-derivatives` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-chemical-equilibria-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-chemical-equilibria-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-chemical-equilibria` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-chirality-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-chirality-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-chirality` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-energetics-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-energetics-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-energetics` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-entropy-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-entropy-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-entropy` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-formulae-equations-and-amount-of-substance-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-formulae-equations-and-amount-of-substance-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-formulae-equations-and-amount-of-substance` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-inorganic-chemistry-of-group-7-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-inorganic-chemistry-of-group-7-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-inorganic-chemistry-of-group-7` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-intermolecular-forces-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-intermolecular-forces-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-intermolecular-forces` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-introduction-to-kinetics-and-equilibria-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-introduction-to-kinetics-and-equilibria-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-introduction-to-kinetics-and-equilibria` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-introductory-organic-chemistry-and-alkanes-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-introductory-organic-chemistry-and-alkanes-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-introductory-organic-chemistry-and-alkanes` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-ionic-and-covalent-bonding-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-ionic-and-covalent-bonding-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-ionic-and-covalent-bonding` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-kinetics-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-kinetics-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-kinetics` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-lattice-energy-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-lattice-energy-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-lattice-energy` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-mass-spectra-and-infrared-spectroscopy-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-mass-spectra-and-infrared-spectroscopy-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-mass-spectra-and-infrared-spectroscopy` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-organic-chemistry-arenes-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-organic-chemistry-arenes-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-organic-chemistry-arenes` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-organic-principles-and-halogenoalkanes-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-organic-principles-and-halogenoalkanes-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-organic-principles-and-halogenoalkanes` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-organic-synthesis-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-organic-synthesis-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-organic-synthesis` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-practical-skills-in-chemistry-i-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-practical-skills-in-chemistry-i-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-practical-skills-in-chemistry-i` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-practical-skills-in-chemistry-ii-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-practical-skills-in-chemistry-ii-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-practical-skills-in-chemistry-ii` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-redox-chemistry-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-redox-chemistry-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-redox-chemistry` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-redox-equilibria-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-redox-equilibria-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-redox-equilibria` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-shapes-of-molecules-and-metallic-bonding-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-shapes-of-molecules-and-metallic-bonding-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-shapes-of-molecules-and-metallic-bonding` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-spectroscopy-and-chromatography-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-spectroscopy-and-chromatography-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-spectroscopy-and-chromatography` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-the-elements-of-groups-1-and-2-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-the-elements-of-groups-1-and-2-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-the-elements-of-groups-1-and-2` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-transition-metals-complexes-and-colour-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-transition-metals-complexes-and-colour-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-transition-metals-complexes-and-colour` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-transition-metals-redox-and-catalysis-practice` | edexcel a-level chemistry (YCH11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-transition-metals-redox-and-catalysis-revision-notes` | edexcel a-level chemistry (YCH11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-chemistry-transition-metals-redox-and-catalysis` | edexcel a-level chemistry (YCH11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-atomic-structure-and-the-periodic-table-practice` | edexcel igcse chemistry (4CH1) | practice-questions | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-atomic-structure-and-the-periodic-table-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-atomic-structure-and-the-periodic-table` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-chemical-formulae-equations-and-calculations-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-chemical-formulae-equations-and-calculations` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-chemical-tests-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-chemical-tests` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-electrolysis-practice` | edexcel igcse chemistry (4CH1) | practice-questions | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-electrolysis-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-electrolysis` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals-practice` | edexcel igcse chemistry (4CH1) | practice-questions | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-gases-in-the-atmosphere-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-gases-in-the-atmosphere` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-group-1-and-group-7-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-group-1-and-group-7` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding-practice` | edexcel igcse chemistry (4CH1) | practice-questions | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures-practice` | edexcel igcse chemistry (4CH1) | practice-questions | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
+| `edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
+| `ib-dp-chemistry-counting-particles-by-mass-the-mole-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-counting-particles-by-mass-the-mole-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-counting-particles-by-mass-the-mole` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-configurations-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-configurations-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-configurations` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-sharing-reactions-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-sharing-reactions-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-sharing-reactions` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-transfer-redox-cells-and-electrolysis-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-transfer-redox-cells-and-electrolysis-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-transfer-redox-cells-and-electrolysis` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-energy-cycles-in-reactions-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-energy-cycles-in-reactions-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-energy-cycles-in-reactions` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-energy-from-fuels-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-energy-from-fuels-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-energy-from-fuels` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-entropy-and-spontaneity-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-entropy-and-spontaneity-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-entropy-and-spontaneity` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-from-models-to-materials-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-from-models-to-materials-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-from-models-to-materials` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-functional-groups-and-naming-organic-compounds-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-functional-groups-and-naming-organic-compounds-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-functional-groups-and-naming-organic-compounds` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-how-far-the-extent-of-chemical-change-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-how-far-the-extent-of-chemical-change-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-how-far-the-extent-of-chemical-change` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-how-fast-rate-equations-mechanisms-and-the-arrhenius` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-how-fast-rates-and-collision-theory-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-how-fast-rates-and-collision-theory-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-how-fast-rates-and-collision-theory` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-how-much-the-amount-of-chemical-change-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-how-much-the-amount-of-chemical-change-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-how-much-the-amount-of-chemical-change` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-ideal-gases-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-ideal-gases-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-ideal-gases` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-measuring-enthalpy-changes-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-measuring-enthalpy-changes-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-measuring-enthalpy-changes` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-proton-transfer-acids-bases-and-ph-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-proton-transfer-acids-bases-and-ph-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-proton-transfer-acids-bases-and-ph` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-covalent-model-bonds-lewis-formulas-shapes-and-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-covalent-model-bonds-lewis-formulas-shapes-and-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-covalent-model-bonds-lewis-formulas-shapes-and` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-covalent-model-formal-charge-sigma-and-pi-bonds` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-ionic-model-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-ionic-model-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-ionic-model` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-metallic-model-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-metallic-model-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-metallic-model` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-nuclear-atom-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-nuclear-atom-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-nuclear-atom` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-periodic-table-classification-of-elements-practice` | ib ib-dp chemistry (DP Chemistry) | practice-questions | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-periodic-table-classification-of-elements-revision-notes` | ib ib-dp chemistry (DP Chemistry) | revision-notes | UNVERIFIED | 1 |
+| `ib-dp-chemistry-the-periodic-table-classification-of-elements` | ib ib-dp chemistry (DP Chemistry) | study-guides | UNVERIFIED | 1 |
+| `igcse-chemistry-0620-elements-atomic-structure-and-isotopes` | cambridge igcse chemistry (0620) | study-guides | VERIFIED | 1 |
+| `ocr-a-level-chemistry-5-3-2-qualitative-analysis-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-5-3-2-qualitative-analysis-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-5-3-2-qualitative-analysis` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-6-2-5-organic-synthesis-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-6-2-5-organic-synthesis-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-6-2-5-organic-synthesis` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-acids-bases-and-buffers-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-acids-bases-and-buffers-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-acids-bases-and-buffers` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-alcohols-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-alcohols-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-alcohols` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-alkanes-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-alkanes-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-alkanes` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-alkenes-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-alkenes-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-alkenes` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-amines-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-amines-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-amines` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-amino-acids-amides-and-chirality-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-amino-acids-amides-and-chirality-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-amino-acids-amides-and-chirality` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-analytical-techniques-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-analytical-techniques-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-analytical-techniques` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-aromatic-compounds-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-aromatic-compounds-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-aromatic-compounds` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-basic-concepts-of-organic-chemistry-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-basic-concepts-of-organic-chemistry-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-basic-concepts-of-organic-chemistry` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-bonding-and-structure-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-bonding-and-structure-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-bonding-and-structure` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-carbon-carbon-bond-formation-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-carbon-carbon-bond-formation-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-carbon-carbon-bond-formation` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-carbonyl-compounds-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-carbonyl-compounds-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-carbonyl-compounds` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-carboxylic-acids-and-esters-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-carboxylic-acids-and-esters-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-carboxylic-acids-and-esters` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-chemical-equilibrium-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-chemical-equilibrium-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-chemical-equilibrium` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-chromatography-and-qualitative-analysis-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-chromatography-and-qualitative-analysis-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-chromatography-and-qualitative-analysis` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-electron-structure-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-electron-structure-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-electron-structure` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-enthalpy-and-entropy-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-enthalpy-and-entropy-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-enthalpy-and-entropy` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-enthalpy-changes-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-enthalpy-changes-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-enthalpy-changes` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-group-2-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-group-2-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-group-2` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-haloalkanes-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-haloalkanes-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-haloalkanes` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-how-far-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-how-far-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-how-far` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-how-fast-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-how-fast-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-how-fast` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-lattice-enthalpy-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-lattice-enthalpy-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-lattice-enthalpy` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-organic-synthesis-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-organic-synthesis-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-organic-synthesis` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-periodicity-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-periodicity-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-periodicity` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-polyesters-and-polyamides-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-polyesters-and-polyamides-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-polyesters-and-polyamides` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-practical-skills-practical-endorsement-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-practical-skills-practical-endorsement-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-practical-skills-practical-endorsement` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-practical-skills-written-examination-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-practical-skills-written-examination-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-practical-skills-written-examination` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-qualitative-analysis-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-qualitative-analysis-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-qualitative-analysis` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-reaction-rates-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-reaction-rates-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-reaction-rates` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-redox-and-electrode-potentials-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-redox-and-electrode-potentials-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-redox-and-electrode-potentials` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-redox-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-redox-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-redox` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-spectroscopy-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-spectroscopy-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-spectroscopy` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-the-halogens-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-the-halogens-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-the-halogens` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-transition-elements-practice` | ocr a-level chemistry (H432) | practice-questions | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-transition-elements-revision-notes` | ocr a-level chemistry (H432) | revision-notes | UNVERIFIED | 1 |
+| `ocr-a-level-chemistry-transition-elements` | ocr a-level chemistry (H432) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-bonding-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-bonding-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-bonding` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-controlling-reactions-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-controlling-reactions-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-controlling-reactions` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-earth-systems-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-earth-systems-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-earth-systems` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-electrolysis-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-electrolysis-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-electrolysis` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-energetics-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-energetics-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-energetics` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-equilibria-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-equilibria-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-equilibria` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-identifying-products-of-reactions-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-identifying-products-of-reactions-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-identifying-products-of-reactions` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-improving-processes-and-products-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-improving-processes-and-products-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-improving-processes-and-products` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-introducing-chemical-reactions-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-introducing-chemical-reactions-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-introducing-chemical-reactions` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-monitoring-chemical-reactions-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-monitoring-chemical-reactions-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-monitoring-chemical-reactions` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-organic-chemistry-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-organic-chemistry-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-organic-chemistry` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-predicting-chemical-reactions-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-predicting-chemical-reactions-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-predicting-chemical-reactions` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-properties-of-materials-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-properties-of-materials-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-properties-of-materials` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-the-particle-model-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-the-particle-model-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-the-particle-model` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-types-of-chemical-reactions-practice` | ocr gcse chemistry (J248) | practice-questions | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-types-of-chemical-reactions-revision-notes` | ocr gcse chemistry (J248) | revision-notes | UNVERIFIED | 1 |
+| `ocr-gcse-chemistry-types-of-chemical-reactions` | ocr gcse chemistry (J248) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-acids-and-bases-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-acids-and-bases-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-acids-and-bases` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-alcohols-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-alcohols-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-alcohols` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-aldehydes-and-ketones-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-aldehydes-and-ketones-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-aldehydes-and-ketones` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-alkanes-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-alkanes-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-alkanes` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-alkenes-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-alkenes-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-alkenes` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-amines-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-amines-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-amines` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-amino-acids-and-proteins-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-amino-acids-and-proteins-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-amino-acids-and-proteins` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-aromatic-chemistry-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-aromatic-chemistry-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-aromatic-chemistry` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-carboxylic-acids-and-derivatives-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-carboxylic-acids-and-derivatives-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-carboxylic-acids-and-derivatives` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-chromatography-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-chromatography-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-chromatography` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-group-2-the-alkaline-earth-metals-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-group-2-the-alkaline-earth-metals-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-group-2-the-alkaline-earth-metals` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-group-7-17-the-halogens-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-group-7-17-the-halogens-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-group-7-17-the-halogens` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-halogenoalkanes-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-halogenoalkanes-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-halogenoalkanes` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-introduction-to-organic-chemistry-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-introduction-to-organic-chemistry-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-introduction-to-organic-chemistry` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-kinetics-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-kinetics-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-kinetics` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-optical-isomerism-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-optical-isomerism-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-optical-isomerism` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-organic-analysis-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-organic-analysis-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-organic-analysis` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-organic-synthesis-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-organic-synthesis-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-organic-synthesis` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-oxidation-reduction-and-redox-equations-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-oxidation-reduction-and-redox-equations-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-oxidation-reduction-and-redox-equations` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-periodicity-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-periodicity-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-periodicity` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-polymers-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-polymers-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-polymers` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-properties-of-period-3-elements-and-their-oxides-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-properties-of-period-3-elements-and-their-oxides-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-properties-of-period-3-elements-and-their-oxides` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-rate-equations-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-rate-equations-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-rate-equations` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-thermodynamics-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-thermodynamics-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-thermodynamics` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-transition-metals-practice` | oxfordaqa a-level chemistry (9620) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-transition-metals-revision-notes` | oxfordaqa a-level chemistry (9620) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-transition-metals` | oxfordaqa a-level chemistry (9620) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-acids-bases-and-preparing-salts-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-acids-bases-and-preparing-salts-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-acids-bases-and-preparing-salts` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-bonding-structure-and-properties-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-bonding-structure-and-properties-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-bonding-structure-and-properties` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-chemical-bonds-ionic-covalent-and-metallic-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-chemical-bonds-ionic-covalent-and-metallic-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-chemical-bonds-ionic-covalent-and-metallic` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-electrolysis-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-electrolysis-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-electrolysis` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-exothermic-endothermic-and-energy-change-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-exothermic-endothermic-and-energy-change-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-exothermic-endothermic-and-energy-change` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-group-properties-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-group-properties-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-group-properties` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-identification-of-ions-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-identification-of-ions-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-identification-of-ions` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-metals-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-metals-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-metals` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-organic-compounds-their-structure-and-reactions` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-rate-of-reaction-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-rate-of-reaction-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-rate-of-reaction` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-redox-reactions-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-redox-reactions-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-redox-reactions` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-synthetic-and-naturally-occurring-polymers-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-synthetic-and-naturally-occurring-polymers-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-synthetic-and-naturally-occurring-polymers` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-transition-metals-practice` | oxfordaqa igcse chemistry (9202) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-transition-metals-revision-notes` | oxfordaqa igcse chemistry (9202) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-igcse-chemistry-transition-metals` | oxfordaqa igcse chemistry (9202) | study-guides | UNVERIFIED | 1 |
+
+## Muhammad Ghazali Siddiqui (`muhammad-ghazali-siddiqui`) — 150
 
 | Resource | Course | Type | Verification | Also eligible |
 | --- | --- | --- | --- | --- |
 | `a-level-maths-9709-quadratics` | cambridge a-level mathematics (9709) | study-guides | VERIFIED | 1 |
 | `a-level-maths-9709-representation-of-data-practice` | cambridge a-level mathematics (9709) | practice-questions | VERIFIED | 1 |
+| `aqa-a-level-mathematics-coordinate-geometry-in-the-plane-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-coordinate-geometry-in-the-plane-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-coordinate-geometry-in-the-plane` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-data-presentation-and-interpretation-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-data-presentation-and-interpretation-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-data-presentation-and-interpretation` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-exponentials-and-logarithms-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-exponentials-and-logarithms-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-exponentials-and-logarithms` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-forces-and-newtons-laws-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-forces-and-newtons-laws-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-forces-and-newtons-laws` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-integration-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-integration-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-integration` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-kinematics-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-kinematics-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-kinematics` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-moments-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-moments-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-moments` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-numerical-methods-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-numerical-methods-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-numerical-methods` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-probability-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-probability-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-probability` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-proof-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-proof-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-proof` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-quantities-and-units-in-mechanics-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-quantities-and-units-in-mechanics-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-quantities-and-units-in-mechanics` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-sequences-and-series-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-sequences-and-series-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-sequences-and-series` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-statistical-distributions-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-statistical-distributions-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-statistical-distributions` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-statistical-hypothesis-testing-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-statistical-hypothesis-testing-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-statistical-hypothesis-testing` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-statistical-sampling-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-statistical-sampling-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-statistical-sampling` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-trigonometry-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-trigonometry-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-trigonometry` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-use-of-data-in-statistics-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-use-of-data-in-statistics-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-use-of-data-in-statistics` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-vectors-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-vectors-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-vectors` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
 | `aqa-gcse-maths-8300-fractions-decimals-and-percentages-practice` | aqa gcse mathematics (8300) | practice-questions | VERIFIED | 1 |
 | `aqa-gcse-maths-8300-fractions-decimals-and-percentages-revision-notes` | aqa gcse mathematics (8300) | revision-notes | VERIFIED | 1 |
 | `aqa-gcse-maths-8300-fractions-decimals-and-percentages` | aqa gcse mathematics (8300) | study-guides | VERIFIED | 1 |
@@ -58,6 +1362,8 @@ review.
 | `aqa-gcse-maths-8300-structure-and-calculation-practice` | aqa gcse mathematics (8300) | practice-questions | VERIFIED | 1 |
 | `aqa-gcse-maths-8300-structure-and-calculation-revision-notes` | aqa gcse mathematics (8300) | revision-notes | VERIFIED | 1 |
 | `aqa-gcse-maths-8300-structure-and-calculation` | aqa gcse mathematics (8300) | study-guides | VERIFIED | 1 |
+| `cambridge-a-level-mathematics-9709-past-papers` | cambridge a-level mathematics (9709) | past-papers | UNVERIFIED | 1 |
+| `cambridge-o-level-mathematics-4024-past-papers` | cambridge o-level mathematics (4024) | past-papers | UNVERIFIED | 1 |
 | `edexcel-igcse-maths-4ma1-applying-number-and-calculators-practice` | edexcel igcse mathematics (4MA1) | practice-questions | VERIFIED | 1 |
 | `edexcel-igcse-maths-4ma1-applying-number-and-calculators-revision-notes` | edexcel igcse mathematics (4MA1) | revision-notes | VERIFIED | 1 |
 | `edexcel-igcse-maths-4ma1-applying-number-and-calculators` | edexcel igcse mathematics (4MA1) | study-guides | VERIFIED | 1 |
@@ -130,12 +1436,66 @@ review.
 | `o-level-statistics-4040-time-series-moving-averages-practice` | cambridge o-level/igcse statistics (4040/0479) | practice-questions | VERIFIED | 1 |
 | `o-level-statistics-4040-time-series-moving-averages` | cambridge o-level/igcse statistics (4040/0479) | study-guides | VERIFIED | 1 |
 
-## Sajawal Zahid (`sajawal-zahid`) — 94
+## Sajawal Zahid (`sajawal-zahid`) — 150
 
 | Resource | Course | Type | Verification | Also eligible |
 | --- | --- | --- | --- | --- |
 | `a-level-maths-9709-quadratics` | cambridge a-level mathematics (9709) | study-guides | VERIFIED | 1 |
 | `a-level-maths-9709-representation-of-data-practice` | cambridge a-level mathematics (9709) | practice-questions | VERIFIED | 1 |
+| `aqa-a-level-mathematics-coordinate-geometry-in-the-plane-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-coordinate-geometry-in-the-plane-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-coordinate-geometry-in-the-plane` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-data-presentation-and-interpretation-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-data-presentation-and-interpretation-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-data-presentation-and-interpretation` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-exponentials-and-logarithms-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-exponentials-and-logarithms-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-exponentials-and-logarithms` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-forces-and-newtons-laws-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-forces-and-newtons-laws-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-forces-and-newtons-laws` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-integration-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-integration-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-integration` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-kinematics-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-kinematics-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-kinematics` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-moments-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-moments-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-moments` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-numerical-methods-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-numerical-methods-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-numerical-methods` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-probability-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-probability-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-probability` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-proof-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-proof-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-proof` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-quantities-and-units-in-mechanics-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-quantities-and-units-in-mechanics-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-quantities-and-units-in-mechanics` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-sequences-and-series-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-sequences-and-series-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-sequences-and-series` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-statistical-distributions-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-statistical-distributions-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-statistical-distributions` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-statistical-hypothesis-testing-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-statistical-hypothesis-testing-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-statistical-hypothesis-testing` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-statistical-sampling-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-statistical-sampling-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-statistical-sampling` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-trigonometry-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-trigonometry-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-trigonometry` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-use-of-data-in-statistics-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-use-of-data-in-statistics-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-use-of-data-in-statistics` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-vectors-practice` | aqa a-level mathematics (7357) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-vectors-revision-notes` | aqa a-level mathematics (7357) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-mathematics-vectors` | aqa a-level mathematics (7357) | study-guides | UNVERIFIED | 1 |
 | `aqa-gcse-maths-8300-fractions-decimals-and-percentages-practice` | aqa gcse mathematics (8300) | practice-questions | VERIFIED | 1 |
 | `aqa-gcse-maths-8300-fractions-decimals-and-percentages-revision-notes` | aqa gcse mathematics (8300) | revision-notes | VERIFIED | 1 |
 | `aqa-gcse-maths-8300-fractions-decimals-and-percentages` | aqa gcse mathematics (8300) | study-guides | VERIFIED | 1 |
@@ -157,6 +1517,8 @@ review.
 | `aqa-gcse-maths-8300-structure-and-calculation-practice` | aqa gcse mathematics (8300) | practice-questions | VERIFIED | 1 |
 | `aqa-gcse-maths-8300-structure-and-calculation-revision-notes` | aqa gcse mathematics (8300) | revision-notes | VERIFIED | 1 |
 | `aqa-gcse-maths-8300-structure-and-calculation` | aqa gcse mathematics (8300) | study-guides | VERIFIED | 1 |
+| `cambridge-a-level-mathematics-9709-past-papers` | cambridge a-level mathematics (9709) | past-papers | UNVERIFIED | 1 |
+| `cambridge-o-level-mathematics-4024-past-papers` | cambridge o-level mathematics (4024) | past-papers | UNVERIFIED | 1 |
 | `edexcel-igcse-maths-4ma1-applying-number-and-calculators-practice` | edexcel igcse mathematics (4MA1) | practice-questions | VERIFIED | 1 |
 | `edexcel-igcse-maths-4ma1-applying-number-and-calculators-revision-notes` | edexcel igcse mathematics (4MA1) | revision-notes | VERIFIED | 1 |
 | `edexcel-igcse-maths-4ma1-applying-number-and-calculators` | edexcel igcse mathematics (4MA1) | study-guides | VERIFIED | 1 |
@@ -229,7 +1591,293 @@ review.
 | `o-level-statistics-4040-time-series-moving-averages-practice` | cambridge o-level/igcse statistics (4040/0479) | practice-questions | VERIFIED | 1 |
 | `o-level-statistics-4040-time-series-moving-averages` | cambridge o-level/igcse statistics (4040/0479) | study-guides | VERIFIED | 1 |
 
-## Ameer Hamza (`ameer-hamza`) — 83
+## Javaid Iqbal Sabri (`javaid-iqbal-sabri`) — 138
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `aqa-a-level-accounting-absorption-and-activity-based-costing-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-absorption-and-activity-based-costing-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-absorption-and-activity-based-costing` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of-accounting-re-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of-accounting-re-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of-accounting-re` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-accounting-for-limited-companies-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-accounting-for-limited-companies-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-accounting-for-limited-companies` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-analysis-and-evaluation-of-financial-information-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-analysis-and-evaluation-of-financial-information-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-analysis-and-evaluation-of-financial-information` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-budgeting-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-budgeting-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-budgeting` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-capital-investment-appraisal-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-capital-investment-appraisal-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-capital-investment-appraisal` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-interpretation-analysis-and-communication-of-accounting-info-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-interpretation-analysis-and-communication-of-accounting-info-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-interpretation-analysis-and-communication-of-accounting-info` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-limited-company-accounts-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-limited-company-accounts-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-limited-company-accounts` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-marginal-costing-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-marginal-costing-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-marginal-costing` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-partnership-accounts-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-partnership-accounts-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-partnership-accounts` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-standard-costing-and-variance-analysis-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-standard-costing-and-variance-analysis-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-standard-costing-and-variance-analysis` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-the-impact-of-ethical-considerations-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-the-impact-of-ethical-considerations-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-the-impact-of-ethical-considerations` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-verification-of-accounting-records-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-verification-of-accounting-records-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-verification-of-accounting-records` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-analysis-of-accounting-statements-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-analysis-of-accounting-statements-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-analysis-of-accounting-statements` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-break-even-analysis-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-break-even-analysis-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-break-even-analysis` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-budgeting-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-budgeting-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-budgeting` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-financial-statements-of-organisations-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-financial-statements-of-organisations-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-financial-statements-of-organisations` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-information-and-communication-technology-in-accounting-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-information-and-communication-technology-in-accounting-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-information-and-communication-technology-in-accounting` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-introduction-to-costing-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-introduction-to-costing-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-introduction-to-costing` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-investment-ratios-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-investment-ratios-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-investment-ratios` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-limited-companies-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-limited-companies-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-limited-companies` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-marginal-costing-and-absorption-costing-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-marginal-costing-and-absorption-costing-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-marginal-costing-and-absorption-costing` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-project-appraisal-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-project-appraisal-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-project-appraisal` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-social-and-ethical-accounting-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-social-and-ethical-accounting-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-social-and-ethical-accounting` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-standard-costing-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-standard-costing-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-standard-costing` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-statement-of-cash-flows-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-statement-of-cash-flows-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-statement-of-cash-flows` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-absorption-and-activity-based-costing-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-absorption-and-activity-based-costing-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-absorption-and-activity-based-costing` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-accounting-for-limited-companies-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-accounting-for-limited-companies-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-accounting-for-limited-companies` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-accounting-for-organisations-with-incomplete-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-accounting-for-organisations-with-incomplete-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-accounting-for-organisations-with-incomplete` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-analysis-and-evaluation-of-financial-information-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-analysis-and-evaluation-of-financial-information-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-analysis-and-evaluation-of-financial-information` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-budgeting-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-budgeting-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-budgeting` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-capital-investment-appraisal-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-capital-investment-appraisal-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-capital-investment-appraisal` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-interpretation-analysis-and-communication-of-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-interpretation-analysis-and-communication-of-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-interpretation-analysis-and-communication-of` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-limited-company-accounts-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-limited-company-accounts-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-limited-company-accounts` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-manufacturing-accounts-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-manufacturing-accounts-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-manufacturing-accounts` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-marginal-costing-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-marginal-costing-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-marginal-costing` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-partnership-accounts-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-partnership-accounts-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-partnership-accounts` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-preparation-of-financial-statements-of-sole-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-preparation-of-financial-statements-of-sole-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-preparation-of-financial-statements-of-sole` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-standard-costing-and-variance-analysis-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-standard-costing-and-variance-analysis-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-standard-costing-and-variance-analysis` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-the-double-entry-model-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-the-double-entry-model-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-the-double-entry-model` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-the-impact-of-ethical-considerations-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-the-impact-of-ethical-considerations-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-the-impact-of-ethical-considerations` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-verification-of-accounting-records-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-verification-of-accounting-records-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-verification-of-accounting-records` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+
+## Zain Ud Din Ahmed (`zain-ud-din-ahmed`) — 138
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `aqa-a-level-accounting-absorption-and-activity-based-costing-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-absorption-and-activity-based-costing-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-absorption-and-activity-based-costing` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of-accounting-re-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of-accounting-re-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of-accounting-re` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-accounting-for-limited-companies-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-accounting-for-limited-companies-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-accounting-for-limited-companies` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-analysis-and-evaluation-of-financial-information-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-analysis-and-evaluation-of-financial-information-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-analysis-and-evaluation-of-financial-information` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-budgeting-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-budgeting-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-budgeting` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-capital-investment-appraisal-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-capital-investment-appraisal-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-capital-investment-appraisal` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-interpretation-analysis-and-communication-of-accounting-info-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-interpretation-analysis-and-communication-of-accounting-info-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-interpretation-analysis-and-communication-of-accounting-info` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-limited-company-accounts-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-limited-company-accounts-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-limited-company-accounts` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-marginal-costing-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-marginal-costing-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-marginal-costing` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-partnership-accounts-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-partnership-accounts-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-partnership-accounts` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-preparation-of-financial-statements-of-sole-traders` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-standard-costing-and-variance-analysis-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-standard-costing-and-variance-analysis-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-standard-costing-and-variance-analysis` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-the-impact-of-ethical-considerations-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-the-impact-of-ethical-considerations-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-the-impact-of-ethical-considerations` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-verification-of-accounting-records-practice` | aqa a-level accounting (7127) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-verification-of-accounting-records-revision-notes` | aqa a-level accounting (7127) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-accounting-verification-of-accounting-records` | aqa a-level accounting (7127) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-analysis-of-accounting-statements-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-analysis-of-accounting-statements-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-analysis-of-accounting-statements` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-break-even-analysis-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-break-even-analysis-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-break-even-analysis` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-budgeting-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-budgeting-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-budgeting` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-financial-statements-of-organisations-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-financial-statements-of-organisations-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-financial-statements-of-organisations` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-information-and-communication-technology-in-accounting-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-information-and-communication-technology-in-accounting-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-information-and-communication-technology-in-accounting` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-introduction-to-costing-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-introduction-to-costing-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-introduction-to-costing` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-investment-ratios-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-investment-ratios-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-investment-ratios` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-limited-companies-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-limited-companies-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-limited-companies` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-marginal-costing-and-absorption-costing-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-marginal-costing-and-absorption-costing-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-marginal-costing-and-absorption-costing` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-project-appraisal-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-project-appraisal-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-project-appraisal` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-social-and-ethical-accounting-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-social-and-ethical-accounting-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-social-and-ethical-accounting` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-standard-costing-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-standard-costing-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-standard-costing` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-statement-of-cash-flows-practice` | edexcel a-level accounting (YAC11) | practice-questions | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-statement-of-cash-flows-revision-notes` | edexcel a-level accounting (YAC11) | revision-notes | UNVERIFIED | 1 |
+| `edexcel-ial-accounting-statement-of-cash-flows` | edexcel a-level accounting (YAC11) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-absorption-and-activity-based-costing-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-absorption-and-activity-based-costing-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-absorption-and-activity-based-costing` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-accounting-concepts-used-in-the-preparation-of` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-accounting-for-limited-companies-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-accounting-for-limited-companies-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-accounting-for-limited-companies` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-accounting-for-organisations-with-incomplete-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-accounting-for-organisations-with-incomplete-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-accounting-for-organisations-with-incomplete` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-analysis-and-evaluation-of-financial-information-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-analysis-and-evaluation-of-financial-information-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-analysis-and-evaluation-of-financial-information` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-budgeting-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-budgeting-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-budgeting` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-capital-investment-appraisal-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-capital-investment-appraisal-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-capital-investment-appraisal` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-interpretation-analysis-and-communication-of-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-interpretation-analysis-and-communication-of-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-interpretation-analysis-and-communication-of` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-limited-company-accounts-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-limited-company-accounts-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-limited-company-accounts` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-manufacturing-accounts-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-manufacturing-accounts-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-manufacturing-accounts` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-marginal-costing-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-marginal-costing-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-marginal-costing` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-partnership-accounts-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-partnership-accounts-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-partnership-accounts` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-preparation-of-financial-statements-of-sole-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-preparation-of-financial-statements-of-sole-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-preparation-of-financial-statements-of-sole` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-standard-costing-and-variance-analysis-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-standard-costing-and-variance-analysis-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-standard-costing-and-variance-analysis` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-the-double-entry-model-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-the-double-entry-model-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-the-double-entry-model` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-the-impact-of-ethical-considerations-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-the-impact-of-ethical-considerations-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-the-impact-of-ethical-considerations` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-verification-of-accounting-records-practice` | oxfordaqa a-level accounting (9615) | practice-questions | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-verification-of-accounting-records-revision-notes` | oxfordaqa a-level accounting (9615) | revision-notes | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-accounting-verification-of-accounting-records` | oxfordaqa a-level accounting (9615) | study-guides | UNVERIFIED | 1 |
+
+## Ameer Hamza (`ameer-hamza`) — 131
 
 | Resource | Course | Type | Verification | Also eligible |
 | --- | --- | --- | --- | --- |
@@ -316,8 +1964,56 @@ review.
 | `igcse-biology-0610-hormones-homeostasis-and-tropic-responses-subtopic-practice` | cambridge igcse biology (0610) | practice-questions | VERIFIED | 2 |
 | `igcse-biology-0610-leaf-structure-subtopic-practice` | cambridge igcse biology (0610) | practice-questions | VERIFIED | 2 |
 | `igcse-biology-0610-sex-hormones-and-stis-subtopic-practice` | cambridge igcse biology (0610) | practice-questions | VERIFIED | 2 |
+| `o-level-biology-5090-biotechnology-and-genetic-modification-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-biotechnology-and-genetic-modification-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-biotechnology-and-genetic-modification` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-classification-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-classification-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-classification` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-coordination-and-control-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-coordination-and-control-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-coordination-and-control` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-coordination-and-response-in-plants-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-coordination-and-response-in-plants-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-coordination-and-response-in-plants` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-development-of-organisms-and-continuity-of-life-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-development-of-organisms-and-continuity-of-life-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-development-of-organisms-and-continuity-of-life` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-disease-and-immunity-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-disease-and-immunity-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-disease-and-immunity` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-excretion-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-excretion-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-excretion` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-human-gas-exchange-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-human-gas-exchange-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-human-gas-exchange` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-human-nutrition-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-human-nutrition-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-human-nutrition` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-inheritance-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-inheritance-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-inheritance` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-movement-into-and-out-of-cells-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-movement-into-and-out-of-cells-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-movement-into-and-out-of-cells` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-plant-nutrition-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-plant-nutrition-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-plant-nutrition` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-relationships-of-organisms-with-one-another-and-with-the-env-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-relationships-of-organisms-with-one-another-and-with-the-env-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-relationships-of-organisms-with-one-another-and-with-the-env` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-respiration-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-respiration-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-respiration` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-transport-in-flowering-plants-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-transport-in-flowering-plants-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-transport-in-flowering-plants` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-transport-in-humans-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-transport-in-humans-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-transport-in-humans` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
 
-## Hina Mogul (`hina-mogul`) — 77
+## Hina Mogul (`hina-mogul`) — 125
 
 | Resource | Course | Type | Verification | Also eligible |
 | --- | --- | --- | --- | --- |
@@ -398,106 +2094,158 @@ review.
 | `igcse-biology-0610-hormones-homeostasis-and-tropic-responses-subtopic-practice` | cambridge igcse biology (0610) | practice-questions | VERIFIED | 2 |
 | `igcse-biology-0610-leaf-structure-subtopic-practice` | cambridge igcse biology (0610) | practice-questions | VERIFIED | 2 |
 | `igcse-biology-0610-sex-hormones-and-stis-subtopic-practice` | cambridge igcse biology (0610) | practice-questions | VERIFIED | 2 |
+| `o-level-biology-5090-biotechnology-and-genetic-modification-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-biotechnology-and-genetic-modification-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-biotechnology-and-genetic-modification` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-classification-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-classification-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-classification` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-coordination-and-control-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-coordination-and-control-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-coordination-and-control` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-coordination-and-response-in-plants-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-coordination-and-response-in-plants-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-coordination-and-response-in-plants` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-development-of-organisms-and-continuity-of-life-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-development-of-organisms-and-continuity-of-life-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-development-of-organisms-and-continuity-of-life` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-disease-and-immunity-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-disease-and-immunity-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-disease-and-immunity` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-excretion-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-excretion-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-excretion` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-human-gas-exchange-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-human-gas-exchange-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-human-gas-exchange` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-human-nutrition-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-human-nutrition-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-human-nutrition` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-inheritance-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-inheritance-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-inheritance` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-movement-into-and-out-of-cells-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-movement-into-and-out-of-cells-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-movement-into-and-out-of-cells` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-plant-nutrition-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-plant-nutrition-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-plant-nutrition` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-relationships-of-organisms-with-one-another-and-with-the-env-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-relationships-of-organisms-with-one-another-and-with-the-env-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-relationships-of-organisms-with-one-another-and-with-the-env` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-respiration-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-respiration-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-respiration` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-transport-in-flowering-plants-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-transport-in-flowering-plants-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-transport-in-flowering-plants` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-transport-in-humans-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-transport-in-humans-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-transport-in-humans` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
 
-## Nouman Ahmed (`nouman-ahmed`) — 47
-
-| Resource | Course | Type | Verification | Also eligible |
-| --- | --- | --- | --- | --- |
-| `aqa-gcse-chemistry-8462-atomic-structure-practice` | aqa gcse chemistry (8462) | practice-questions | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-atomic-structure-revision-notes` | aqa gcse chemistry (8462) | revision-notes | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-atomic-structure` | aqa gcse chemistry (8462) | study-guides | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds-practice` | aqa gcse chemistry (8462) | practice-questions | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds-revision-notes` | aqa gcse chemistry (8462) | revision-notes | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds` | aqa gcse chemistry (8462) | study-guides | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-covalent-and-metallic-bonding-practice` | aqa gcse chemistry (8462) | practice-questions | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-covalent-and-metallic-bonding-revision-notes` | aqa gcse chemistry (8462) | revision-notes | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-covalent-and-metallic-bonding` | aqa gcse chemistry (8462) | study-guides | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-properties-of-transition-metals-practice` | aqa gcse chemistry (8462) | practice-questions | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-properties-of-transition-metals-revision-notes` | aqa gcse chemistry (8462) | revision-notes | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-properties-of-transition-metals` | aqa gcse chemistry (8462) | study-guides | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-the-periodic-table-practice` | aqa gcse chemistry (8462) | practice-questions | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-the-periodic-table-revision-notes` | aqa gcse chemistry (8462) | revision-notes | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-the-periodic-table` | aqa gcse chemistry (8462) | study-guides | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-atomic-structure-and-the-periodic-table-practice` | edexcel igcse chemistry (4CH1) | practice-questions | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-atomic-structure-and-the-periodic-table-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-atomic-structure-and-the-periodic-table` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-chemical-formulae-equations-and-calculations-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-chemical-formulae-equations-and-calculations` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-chemical-tests-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-chemical-tests` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-electrolysis-practice` | edexcel igcse chemistry (4CH1) | practice-questions | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-electrolysis-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-electrolysis` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals-practice` | edexcel igcse chemistry (4CH1) | practice-questions | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-gases-in-the-atmosphere-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-gases-in-the-atmosphere` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-group-1-and-group-7-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-group-1-and-group-7` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding-practice` | edexcel igcse chemistry (4CH1) | practice-questions | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures-practice` | edexcel igcse chemistry (4CH1) | practice-questions | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
-| `ib-myp-sciences-global-contexts-practice` | ib ib-myp myp-sciences (MYP Sciences) | practice-questions | PARTIAL_UNVERIFIABLE | 2 |
-| `ib-myp-sciences-global-contexts-revision-notes` | ib ib-myp myp-sciences (MYP Sciences) | revision-notes | PARTIAL_UNVERIFIABLE | 2 |
-| `ib-myp-sciences-global-contexts` | ib ib-myp myp-sciences (MYP Sciences) | study-guides | PARTIAL_UNVERIFIABLE | 2 |
-| `ib-myp-sciences-key-concepts-practice` | ib ib-myp myp-sciences (MYP Sciences) | practice-questions | PARTIAL_UNVERIFIABLE | 2 |
-| `ib-myp-sciences-key-concepts-revision-notes` | ib ib-myp myp-sciences (MYP Sciences) | revision-notes | PARTIAL_UNVERIFIABLE | 2 |
-| `ib-myp-sciences-key-concepts` | ib ib-myp myp-sciences (MYP Sciences) | study-guides | PARTIAL_UNVERIFIABLE | 2 |
-| `igcse-chemistry-0620-elements-atomic-structure-and-isotopes` | cambridge igcse chemistry (0620) | study-guides | VERIFIED | 1 |
-
-## Farhat ul Ain Sehgal (`farhat-ul-ain-sehgal`) — 41
+## Harris Khan (`harris-khan`) — 97
 
 | Resource | Course | Type | Verification | Also eligible |
 | --- | --- | --- | --- | --- |
-| `aqa-gcse-chemistry-8462-atomic-structure-practice` | aqa gcse chemistry (8462) | practice-questions | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-atomic-structure-revision-notes` | aqa gcse chemistry (8462) | revision-notes | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-atomic-structure` | aqa gcse chemistry (8462) | study-guides | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds-practice` | aqa gcse chemistry (8462) | practice-questions | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds-revision-notes` | aqa gcse chemistry (8462) | revision-notes | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds` | aqa gcse chemistry (8462) | study-guides | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-covalent-and-metallic-bonding-practice` | aqa gcse chemistry (8462) | practice-questions | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-covalent-and-metallic-bonding-revision-notes` | aqa gcse chemistry (8462) | revision-notes | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-covalent-and-metallic-bonding` | aqa gcse chemistry (8462) | study-guides | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-properties-of-transition-metals-practice` | aqa gcse chemistry (8462) | practice-questions | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-properties-of-transition-metals-revision-notes` | aqa gcse chemistry (8462) | revision-notes | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-properties-of-transition-metals` | aqa gcse chemistry (8462) | study-guides | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-the-periodic-table-practice` | aqa gcse chemistry (8462) | practice-questions | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-the-periodic-table-revision-notes` | aqa gcse chemistry (8462) | revision-notes | VERIFIED | 1 |
-| `aqa-gcse-chemistry-8462-the-periodic-table` | aqa gcse chemistry (8462) | study-guides | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-atomic-structure-and-the-periodic-table-practice` | edexcel igcse chemistry (4CH1) | practice-questions | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-atomic-structure-and-the-periodic-table-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-atomic-structure-and-the-periodic-table` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-chemical-formulae-equations-and-calculations-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-chemical-formulae-equations-and-calculations` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-chemical-tests-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-chemical-tests` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-electrolysis-practice` | edexcel igcse chemistry (4CH1) | practice-questions | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-electrolysis-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-electrolysis` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals-practice` | edexcel igcse chemistry (4CH1) | practice-questions | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-gases-in-the-atmosphere-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-gases-in-the-atmosphere` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-group-1-and-group-7-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-group-1-and-group-7` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding-practice` | edexcel igcse chemistry (4CH1) | practice-questions | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures-practice` | edexcel igcse chemistry (4CH1) | practice-questions | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures-revision-notes` | edexcel igcse chemistry (4CH1) | revision-notes | VERIFIED | 1 |
-| `edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures` | edexcel igcse chemistry (4CH1) | study-guides | VERIFIED | 1 |
-| `igcse-chemistry-0620-elements-atomic-structure-and-isotopes` | cambridge igcse chemistry (0620) | study-guides | VERIFIED | 1 |
+| `a-level-cambridge-ict-algorithms-and-flowcharts-practice` | cambridge a-level ict (9626) | practice-questions | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-algorithms-and-flowcharts-revision-notes` | cambridge a-level ict (9626) | revision-notes | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-algorithms-and-flowcharts` | cambridge a-level ict (9626) | study-guides | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-animation-practice` | cambridge a-level ict (9626) | practice-questions | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-animation-revision-notes` | cambridge a-level ict (9626) | revision-notes | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-animation` | cambridge a-level ict (9626) | study-guides | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-communications-technology-practice` | cambridge a-level ict (9626) | practice-questions | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-communications-technology-revision-notes` | cambridge a-level ict (9626) | revision-notes | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-communications-technology` | cambridge a-level ict (9626) | study-guides | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-data-analysis-and-visualisation-practice` | cambridge a-level ict (9626) | practice-questions | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-data-analysis-and-visualisation-revision-notes` | cambridge a-level ict (9626) | revision-notes | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-data-analysis-and-visualisation` | cambridge a-level ict (9626) | study-guides | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-database-and-file-concepts-practice` | cambridge a-level ict (9626) | practice-questions | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-database-and-file-concepts-revision-notes` | cambridge a-level ict (9626) | revision-notes | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-database-and-file-concepts` | cambridge a-level ict (9626) | study-guides | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-esecurity-practice` | cambridge a-level ict (9626) | practice-questions | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-esecurity-revision-notes` | cambridge a-level ict (9626) | revision-notes | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-esecurity` | cambridge a-level ict (9626) | study-guides | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-expert-systems-practice` | cambridge a-level ict (9626) | practice-questions | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-expert-systems-revision-notes` | cambridge a-level ict (9626) | revision-notes | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-expert-systems` | cambridge a-level ict (9626) | study-guides | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-graphics-creation-practice` | cambridge a-level ict (9626) | practice-questions | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-graphics-creation-revision-notes` | cambridge a-level ict (9626) | revision-notes | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-graphics-creation` | cambridge a-level ict (9626) | study-guides | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-it-in-society-practice` | cambridge a-level ict (9626) | practice-questions | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-it-in-society-revision-notes` | cambridge a-level ict (9626) | revision-notes | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-it-in-society` | cambridge a-level ict (9626) | study-guides | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-mail-merge-practice` | cambridge a-level ict (9626) | practice-questions | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-mail-merge-revision-notes` | cambridge a-level ict (9626) | revision-notes | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-mail-merge` | cambridge a-level ict (9626) | study-guides | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-modelling-practice` | cambridge a-level ict (9626) | practice-questions | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-modelling-revision-notes` | cambridge a-level ict (9626) | revision-notes | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-modelling` | cambridge a-level ict (9626) | study-guides | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-new-and-emerging-technologies-practice` | cambridge a-level ict (9626) | practice-questions | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-new-and-emerging-technologies-revision-notes` | cambridge a-level ict (9626) | revision-notes | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-new-and-emerging-technologies` | cambridge a-level ict (9626) | study-guides | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-programming-for-the-web-practice` | cambridge a-level ict (9626) | practice-questions | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-programming-for-the-web-revision-notes` | cambridge a-level ict (9626) | revision-notes | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-programming-for-the-web` | cambridge a-level ict (9626) | study-guides | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-project-management-practice` | cambridge a-level ict (9626) | practice-questions | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-project-management-revision-notes` | cambridge a-level ict (9626) | revision-notes | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-project-management` | cambridge a-level ict (9626) | study-guides | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-spreadsheets-practice` | cambridge a-level ict (9626) | practice-questions | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-spreadsheets-revision-notes` | cambridge a-level ict (9626) | revision-notes | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-spreadsheets` | cambridge a-level ict (9626) | study-guides | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-system-life-cycle-practice` | cambridge a-level ict (9626) | practice-questions | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-system-life-cycle-revision-notes` | cambridge a-level ict (9626) | revision-notes | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-system-life-cycle` | cambridge a-level ict (9626) | study-guides | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-the-digital-divide-practice` | cambridge a-level ict (9626) | practice-questions | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-the-digital-divide-revision-notes` | cambridge a-level ict (9626) | revision-notes | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-the-digital-divide` | cambridge a-level ict (9626) | study-guides | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-video-and-audio-editing-practice` | cambridge a-level ict (9626) | practice-questions | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-video-and-audio-editing-revision-notes` | cambridge a-level ict (9626) | revision-notes | UNVERIFIED | 0 |
+| `a-level-cambridge-ict-video-and-audio-editing` | cambridge a-level ict (9626) | study-guides | UNVERIFIED | 0 |
+| `cambridge-o-level-computer-science-2210-past-papers` | cambridge o-level computer-science (2210) | past-papers | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-advanced-algorithms-practice` | oxfordaqa a-level computer-science (9645) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-advanced-algorithms-revision-notes` | oxfordaqa a-level computer-science (9645) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-advanced-algorithms` | oxfordaqa a-level computer-science (9645) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-advanced-data-structures-practice` | oxfordaqa a-level computer-science (9645) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-advanced-data-structures-revision-notes` | oxfordaqa a-level computer-science (9645) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-advanced-data-structures` | oxfordaqa a-level computer-science (9645) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-artificial-intelligence-practice` | oxfordaqa a-level computer-science (9645) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-artificial-intelligence-revision-notes` | oxfordaqa a-level computer-science (9645) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-artificial-intelligence` | oxfordaqa a-level computer-science (9645) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-computer-organisation-and-architecture-practice` | oxfordaqa a-level computer-science (9645) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-computer-organisation-and-architecture-revision-notes` | oxfordaqa a-level computer-science (9645) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-computer-organisation-and-architecture` | oxfordaqa a-level computer-science (9645) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-computer-systems-practice` | oxfordaqa a-level computer-science (9645) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-computer-systems-revision-notes` | oxfordaqa a-level computer-science (9645) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-computer-systems` | oxfordaqa a-level computer-science (9645) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-databases-practice` | oxfordaqa a-level computer-science (9645) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-databases-revision-notes` | oxfordaqa a-level computer-science (9645) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-databases` | oxfordaqa a-level computer-science (9645) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-functional-programming-practice` | oxfordaqa a-level computer-science (9645) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-functional-programming-revision-notes` | oxfordaqa a-level computer-science (9645) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-functional-programming` | oxfordaqa a-level computer-science (9645) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-machine-code-and-assembly-language-practice` | oxfordaqa a-level computer-science (9645) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-machine-code-and-assembly-language-revision-notes` | oxfordaqa a-level computer-science (9645) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-machine-code-and-assembly-language` | oxfordaqa a-level computer-science (9645) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-networking-and-cyber-security-practice` | oxfordaqa a-level computer-science (9645) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-networking-and-cyber-security-revision-notes` | oxfordaqa a-level computer-science (9645) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-networking-and-cyber-security` | oxfordaqa a-level computer-science (9645) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-object-oriented-and-additional-programming-practice` | oxfordaqa a-level computer-science (9645) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-object-oriented-and-additional-programming-revision-notes` | oxfordaqa a-level computer-science (9645) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-object-oriented-and-additional-programming` | oxfordaqa a-level computer-science (9645) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-program-design-practice` | oxfordaqa a-level computer-science (9645) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-program-design-revision-notes` | oxfordaqa a-level computer-science (9645) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-program-design` | oxfordaqa a-level computer-science (9645) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-representing-data-practice` | oxfordaqa a-level computer-science (9645) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-representing-data-revision-notes` | oxfordaqa a-level computer-science (9645) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-representing-data` | oxfordaqa a-level computer-science (9645) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-searching-and-sorting-algorithms-practice` | oxfordaqa a-level computer-science (9645) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-searching-and-sorting-algorithms-revision-notes` | oxfordaqa a-level computer-science (9645) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-searching-and-sorting-algorithms` | oxfordaqa a-level computer-science (9645) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-theory-of-computation-practice` | oxfordaqa a-level computer-science (9645) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-theory-of-computation-revision-notes` | oxfordaqa a-level computer-science (9645) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-computer-science-theory-of-computation` | oxfordaqa a-level computer-science (9645) | study-guides | UNVERIFIED | 0 |
 
-## Saad Zai (`saad-zai`) — 35
+## Saad Zai (`saad-zai`) — 83
 
 | Resource | Course | Type | Verification | Also eligible |
 | --- | --- | --- | --- | --- |
@@ -536,12 +2284,97 @@ review.
 | `igcse-biology-0610-hormones-homeostasis-and-tropic-responses-subtopic-practice` | cambridge igcse biology (0610) | practice-questions | VERIFIED | 2 |
 | `igcse-biology-0610-leaf-structure-subtopic-practice` | cambridge igcse biology (0610) | practice-questions | VERIFIED | 2 |
 | `igcse-biology-0610-sex-hormones-and-stis-subtopic-practice` | cambridge igcse biology (0610) | practice-questions | VERIFIED | 2 |
+| `o-level-biology-5090-biotechnology-and-genetic-modification-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-biotechnology-and-genetic-modification-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-biotechnology-and-genetic-modification` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-classification-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-classification-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-classification` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-coordination-and-control-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-coordination-and-control-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-coordination-and-control` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-coordination-and-response-in-plants-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-coordination-and-response-in-plants-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-coordination-and-response-in-plants` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-development-of-organisms-and-continuity-of-life-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-development-of-organisms-and-continuity-of-life-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-development-of-organisms-and-continuity-of-life` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-disease-and-immunity-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-disease-and-immunity-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-disease-and-immunity` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-excretion-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-excretion-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-excretion` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-human-gas-exchange-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-human-gas-exchange-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-human-gas-exchange` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-human-nutrition-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-human-nutrition-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-human-nutrition` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-inheritance-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-inheritance-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-inheritance` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-movement-into-and-out-of-cells-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-movement-into-and-out-of-cells-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-movement-into-and-out-of-cells` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-plant-nutrition-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-plant-nutrition-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-plant-nutrition` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-relationships-of-organisms-with-one-another-and-with-the-env-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-relationships-of-organisms-with-one-another-and-with-the-env-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-relationships-of-organisms-with-one-another-and-with-the-env` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-respiration-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-respiration-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-respiration` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-transport-in-flowering-plants-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-transport-in-flowering-plants-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-transport-in-flowering-plants` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
+| `o-level-biology-5090-transport-in-humans-practice` | cambridge o-level biology (5090) | practice-questions | UNVERIFIED | 2 |
+| `o-level-biology-5090-transport-in-humans-revision-notes` | cambridge o-level biology (5090) | revision-notes | UNVERIFIED | 2 |
+| `o-level-biology-5090-transport-in-humans` | cambridge o-level biology (5090) | study-guides | UNVERIFIED | 2 |
 
-## Iftikhar Azeemi (`iftikhar-azeemi`) — 7
+## Iftikhar Azeemi (`iftikhar-azeemi`) — 44
 
 | Resource | Course | Type | Verification | Also eligible |
 | --- | --- | --- | --- | --- |
+| `aqa-a-level-physics-astrophysics-practice` | aqa a-level physics (7408) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-physics-astrophysics-revision-notes` | aqa a-level physics (7408) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-physics-astrophysics` | aqa a-level physics (7408) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-physics-electricity-practice` | aqa a-level physics (7408) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-physics-electricity-revision-notes` | aqa a-level physics (7408) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-physics-electricity` | aqa a-level physics (7408) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-physics-electronics-practice` | aqa a-level physics (7408) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-physics-electronics-revision-notes` | aqa a-level physics (7408) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-physics-electronics` | aqa a-level physics (7408) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-physics-engineering-physics-practice` | aqa a-level physics (7408) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-physics-engineering-physics-revision-notes` | aqa a-level physics (7408) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-physics-engineering-physics` | aqa a-level physics (7408) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-physics-fields-and-their-consequences-practice` | aqa a-level physics (7408) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-physics-fields-and-their-consequences-revision-notes` | aqa a-level physics (7408) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-physics-fields-and-their-consequences` | aqa a-level physics (7408) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-physics-further-mechanics-and-thermal-physics-practice` | aqa a-level physics (7408) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-physics-further-mechanics-and-thermal-physics-revision-notes` | aqa a-level physics (7408) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-physics-further-mechanics-and-thermal-physics` | aqa a-level physics (7408) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-physics-mechanics-and-materials-practice` | aqa a-level physics (7408) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-physics-mechanics-and-materials-revision-notes` | aqa a-level physics (7408) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-physics-mechanics-and-materials` | aqa a-level physics (7408) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-physics-medical-physics-practice` | aqa a-level physics (7408) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-physics-medical-physics-revision-notes` | aqa a-level physics (7408) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-physics-medical-physics` | aqa a-level physics (7408) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-physics-nuclear-physics-practice` | aqa a-level physics (7408) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-physics-nuclear-physics-revision-notes` | aqa a-level physics (7408) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-physics-nuclear-physics` | aqa a-level physics (7408) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-physics-particles-and-radiation-practice` | aqa a-level physics (7408) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-physics-particles-and-radiation-revision-notes` | aqa a-level physics (7408) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-physics-particles-and-radiation` | aqa a-level physics (7408) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-physics-turning-points-in-physics-practice` | aqa a-level physics (7408) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-physics-turning-points-in-physics-revision-notes` | aqa a-level physics (7408) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-physics-turning-points-in-physics` | aqa a-level physics (7408) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-physics-waves-practice` | aqa a-level physics (7408) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-physics-waves-revision-notes` | aqa a-level physics (7408) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-physics-waves` | aqa a-level physics (7408) | study-guides | UNVERIFIED | 1 |
 | `aqa-gcse-physics-8463-national-and-global-energy-resources-revision-notes` | aqa gcse physics (8463) | revision-notes | VERIFIED_AFTER_CORRECTION | 1 |
+| `cambridge-o-level-physics-5054-past-papers` | cambridge o-level physics (5054) | past-papers | UNVERIFIED | 1 |
 | `ib-myp-sciences-global-contexts-practice` | ib ib-myp myp-sciences (MYP Sciences) | practice-questions | PARTIAL_UNVERIFIABLE | 2 |
 | `ib-myp-sciences-global-contexts-revision-notes` | ib ib-myp myp-sciences (MYP Sciences) | revision-notes | PARTIAL_UNVERIFIABLE | 2 |
 | `ib-myp-sciences-global-contexts` | ib ib-myp myp-sciences (MYP Sciences) | study-guides | PARTIAL_UNVERIFIABLE | 2 |
@@ -549,13 +2382,97 @@ review.
 | `ib-myp-sciences-key-concepts-revision-notes` | ib ib-myp myp-sciences (MYP Sciences) | revision-notes | PARTIAL_UNVERIFIABLE | 2 |
 | `ib-myp-sciences-key-concepts` | ib ib-myp myp-sciences (MYP Sciences) | study-guides | PARTIAL_UNVERIFIABLE | 2 |
 
-## Hassan (`hassan`) — 1
+## Salman Ahmad (`salman-ahmad`) — 42
 
 | Resource | Course | Type | Verification | Also eligible |
 | --- | --- | --- | --- | --- |
-| `aqa-gcse-physics-8463-national-and-global-energy-resources-revision-notes` | aqa gcse physics (8463) | revision-notes | VERIFIED_AFTER_CORRECTION | 1 |
+| `oxfordaqa-a-level-business-analysing-future-sales-practice` | oxfordaqa a-level business (9725) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-analysing-future-sales-revision-notes` | oxfordaqa a-level business (9725) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-analysing-future-sales` | oxfordaqa a-level business (9725) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-analysing-the-external-environment-to-assess-practice` | oxfordaqa a-level business (9725) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-analysing-the-external-environment-to-assess-revision-notes` | oxfordaqa a-level business (9725) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-analysing-the-external-environment-to-assess` | oxfordaqa a-level business (9725) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-analysing-the-industry-environment-practice` | oxfordaqa a-level business (9725) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-analysing-the-industry-environment-revision-notes` | oxfordaqa a-level business (9725) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-analysing-the-industry-environment` | oxfordaqa a-level business (9725) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-analysis-the-existing-internal-position-of-a-practice` | oxfordaqa a-level business (9725) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-analysis-the-existing-internal-position-of-a-revision-notes` | oxfordaqa a-level business (9725) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-analysis-the-existing-internal-position-of-a` | oxfordaqa a-level business (9725) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-change-risk-and-uncertainty-practice` | oxfordaqa a-level business (9725) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-change-risk-and-uncertainty-revision-notes` | oxfordaqa a-level business (9725) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-change-risk-and-uncertainty` | oxfordaqa a-level business (9725) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-deciding-on-a-strategic-investment-practice` | oxfordaqa a-level business (9725) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-deciding-on-a-strategic-investment-revision-notes` | oxfordaqa a-level business (9725) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-deciding-on-a-strategic-investment` | oxfordaqa a-level business (9725) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-finance-practice` | oxfordaqa a-level business (9725) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-finance-revision-notes` | oxfordaqa a-level business (9725) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-finance` | oxfordaqa a-level business (9725) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-human-resources-practice` | oxfordaqa a-level business (9725) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-human-resources-revision-notes` | oxfordaqa a-level business (9725) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-human-resources` | oxfordaqa a-level business (9725) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-implementing-a-strategy-practice` | oxfordaqa a-level business (9725) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-implementing-a-strategy-revision-notes` | oxfordaqa a-level business (9725) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-implementing-a-strategy` | oxfordaqa a-level business (9725) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-mission-objective-and-swot-analysis-practice` | oxfordaqa a-level business (9725) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-mission-objective-and-swot-analysis-revision-notes` | oxfordaqa a-level business (9725) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-mission-objective-and-swot-analysis` | oxfordaqa a-level business (9725) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-operational-performance-practice` | oxfordaqa a-level business (9725) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-operational-performance-revision-notes` | oxfordaqa a-level business (9725) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-operational-performance` | oxfordaqa a-level business (9725) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-strategic-options-choosing-which-markets-to-practice` | oxfordaqa a-level business (9725) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-strategic-options-choosing-which-markets-to-revision-notes` | oxfordaqa a-level business (9725) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-strategic-options-choosing-which-markets-to` | oxfordaqa a-level business (9725) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-strategic-positioning-choosing-how-to-compete-practice` | oxfordaqa a-level business (9725) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-strategic-positioning-choosing-how-to-compete-revision-notes` | oxfordaqa a-level business (9725) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-strategic-positioning-choosing-how-to-compete` | oxfordaqa a-level business (9725) | study-guides | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-types-of-strategies-practice` | oxfordaqa a-level business (9725) | practice-questions | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-types-of-strategies-revision-notes` | oxfordaqa a-level business (9725) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-business-types-of-strategies` | oxfordaqa a-level business (9725) | study-guides | UNVERIFIED | 0 |
 
-## No eligible teacher — 561
+## Hassan (`hassan`) — 38
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `aqa-a-level-physics-astrophysics-practice` | aqa a-level physics (7408) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-physics-astrophysics-revision-notes` | aqa a-level physics (7408) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-physics-astrophysics` | aqa a-level physics (7408) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-physics-electricity-practice` | aqa a-level physics (7408) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-physics-electricity-revision-notes` | aqa a-level physics (7408) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-physics-electricity` | aqa a-level physics (7408) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-physics-electronics-practice` | aqa a-level physics (7408) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-physics-electronics-revision-notes` | aqa a-level physics (7408) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-physics-electronics` | aqa a-level physics (7408) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-physics-engineering-physics-practice` | aqa a-level physics (7408) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-physics-engineering-physics-revision-notes` | aqa a-level physics (7408) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-physics-engineering-physics` | aqa a-level physics (7408) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-physics-fields-and-their-consequences-practice` | aqa a-level physics (7408) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-physics-fields-and-their-consequences-revision-notes` | aqa a-level physics (7408) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-physics-fields-and-their-consequences` | aqa a-level physics (7408) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-physics-further-mechanics-and-thermal-physics-practice` | aqa a-level physics (7408) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-physics-further-mechanics-and-thermal-physics-revision-notes` | aqa a-level physics (7408) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-physics-further-mechanics-and-thermal-physics` | aqa a-level physics (7408) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-physics-mechanics-and-materials-practice` | aqa a-level physics (7408) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-physics-mechanics-and-materials-revision-notes` | aqa a-level physics (7408) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-physics-mechanics-and-materials` | aqa a-level physics (7408) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-physics-medical-physics-practice` | aqa a-level physics (7408) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-physics-medical-physics-revision-notes` | aqa a-level physics (7408) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-physics-medical-physics` | aqa a-level physics (7408) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-physics-nuclear-physics-practice` | aqa a-level physics (7408) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-physics-nuclear-physics-revision-notes` | aqa a-level physics (7408) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-physics-nuclear-physics` | aqa a-level physics (7408) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-physics-particles-and-radiation-practice` | aqa a-level physics (7408) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-physics-particles-and-radiation-revision-notes` | aqa a-level physics (7408) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-physics-particles-and-radiation` | aqa a-level physics (7408) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-physics-turning-points-in-physics-practice` | aqa a-level physics (7408) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-physics-turning-points-in-physics-revision-notes` | aqa a-level physics (7408) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-physics-turning-points-in-physics` | aqa a-level physics (7408) | study-guides | UNVERIFIED | 1 |
+| `aqa-a-level-physics-waves-practice` | aqa a-level physics (7408) | practice-questions | UNVERIFIED | 1 |
+| `aqa-a-level-physics-waves-revision-notes` | aqa a-level physics (7408) | revision-notes | UNVERIFIED | 1 |
+| `aqa-a-level-physics-waves` | aqa a-level physics (7408) | study-guides | UNVERIFIED | 1 |
+| `aqa-gcse-physics-8463-national-and-global-energy-resources-revision-notes` | aqa gcse physics (8463) | revision-notes | VERIFIED_AFTER_CORRECTION | 1 |
+| `cambridge-o-level-physics-5054-past-papers` | cambridge o-level physics (5054) | past-papers | UNVERIFIED | 1 |
+
+## No eligible teacher — 292
 
 These pages have no designated reviewer whose profile covers their board(s) and subject.
 Signing them off needs a teacher profile to be updated (or a new reviewer designated)
@@ -565,18 +2482,8 @@ is not a review and does not change their status.
 
 | Resource | Course | Type | Verification | Also eligible |
 | --- | --- | --- | --- | --- |
-| `a-geography-human-revision-notes` | cambridge a-level geography (9696) | revision-notes | VERIFIED | 0 |
-| `a-geography-physical-practice` | cambridge a-level geography (9696) | practice-questions | VERIFIED | 0 |
-| `a-geography-physical-revision-notes` | cambridge a-level geography (9696) | revision-notes | VERIFIED | 0 |
 | `a-level-aqa-psychology-approaches-in-psychology` | aqa a-level psychology (7182) | study-guides | VERIFIED_AFTER_CORRECTION | 0 |
 | `a-level-aqa-psychology-multi-store-and-working-memory-models` | aqa a-level psychology (7182) | study-guides | VERIFIED | 0 |
-| `a-level-aqa-sociology-crime-and-deviance-practice` | aqa a-level sociology (7192) | practice-questions | VERIFIED | 0 |
-| `a-level-aqa-sociology-crime-and-deviance-revision-notes` | aqa a-level sociology (7192) | revision-notes | VERIFIED | 0 |
-| `a-level-aqa-sociology-crime-and-deviance` | aqa a-level sociology (7192) | study-guides | VERIFIED | 0 |
-| `a-level-aqa-sociology-education-practice` | aqa a-level sociology (7192) | practice-questions | VERIFIED | 0 |
-| `a-level-aqa-sociology-role-of-education-and-differential-achievement` | aqa a-level sociology (7192) | study-guides | VERIFIED | 0 |
-| `a-level-cambridge-geography-core-human-geography` | cambridge a-level geography (9696) | study-guides | VERIFIED | 0 |
-| `a-level-cambridge-geography-core-physical-geography` | cambridge a-level geography (9696) | study-guides | VERIFIED | 0 |
 | `a-level-cambridge-global-perspectives-essay` | cambridge a-level global-perspectives (9239) | study-guides | VERIFIED_AFTER_CORRECTION | 0 |
 | `a-level-cambridge-global-perspectives-team-project-practice` | cambridge a-level global-perspectives (9239) | practice-questions | VERIFIED | 0 |
 | `a-level-cambridge-global-perspectives-team-project-revision-notes` | cambridge a-level global-perspectives (9239) | revision-notes | VERIFIED | 0 |
@@ -585,71 +2492,20 @@ is not a review and does not change their status.
 | `a-level-cambridge-global-perspectives-written-exam-revision-notes` | cambridge a-level global-perspectives (9239) | revision-notes | VERIFIED_AFTER_CORRECTION | 0 |
 | `a-level-cambridge-global-perspectives-written-exam` | cambridge a-level global-perspectives (9239) | study-guides | VERIFIED | 0 |
 | `a-level-cambridge-psychology-research-methods` | cambridge a-level psychology (9990) | study-guides | VERIFIED | 0 |
-| `a-level-cambridge-sociology-globalisation-media-religion-practice` | cambridge a-level sociology (9699) | practice-questions | VERIFIED | 0 |
-| `a-level-cambridge-sociology-globalisation-media-religion-revision-notes` | cambridge a-level sociology (9699) | revision-notes | VERIFIED | 0 |
-| `a-level-cambridge-sociology-globalisation-media-religion` | cambridge a-level sociology (9699) | study-guides | VERIFIED | 0 |
-| `a-level-cambridge-sociology-socialisation-identity-methods` | cambridge a-level sociology (9699) | study-guides | VERIFIED | 0 |
-| `a-level-cambridge-sociology-the-family` | cambridge a-level sociology (9699) | study-guides | VERIFIED | 0 |
-| `a-level-geography-9696-coastal-environments-practice` | cambridge a-level geography (9696) | practice-questions | VERIFIED | 0 |
-| `a-level-geography-9696-coastal-environments-revision-notes` | cambridge a-level geography (9696) | revision-notes | VERIFIED | 0 |
-| `a-level-geography-9696-coastal-environments` | cambridge a-level geography (9696) | study-guides | VERIFIED | 0 |
-| `a-level-geography-9696-economic-transition-practice` | cambridge a-level geography (9696) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `a-level-geography-9696-economic-transition-revision-notes` | cambridge a-level geography (9696) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `a-level-geography-9696-economic-transition` | cambridge a-level geography (9696) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `a-level-geography-9696-environmental-management-practice` | cambridge a-level geography (9696) | practice-questions | VERIFIED | 0 |
-| `a-level-geography-9696-environmental-management-revision-notes` | cambridge a-level geography (9696) | revision-notes | VERIFIED | 0 |
-| `a-level-geography-9696-environmental-management` | cambridge a-level geography (9696) | study-guides | VERIFIED_AFTER_CORRECTION | 0 |
-| `a-level-geography-9696-global-interdependence-practice` | cambridge a-level geography (9696) | practice-questions | VERIFIED_AFTER_CORRECTION | 0 |
-| `a-level-geography-9696-global-interdependence-revision-notes` | cambridge a-level geography (9696) | revision-notes | VERIFIED_AFTER_CORRECTION | 0 |
-| `a-level-geography-9696-global-interdependence` | cambridge a-level geography (9696) | study-guides | VERIFIED_AFTER_CORRECTION | 0 |
-| `a-level-geography-9696-hazardous-environments-practice` | cambridge a-level geography (9696) | practice-questions | VERIFIED | 0 |
-| `a-level-geography-9696-hazardous-environments-revision-notes` | cambridge a-level geography (9696) | revision-notes | VERIFIED | 0 |
-| `a-level-geography-9696-hazardous-environments` | cambridge a-level geography (9696) | study-guides | VERIFIED | 0 |
-| `a-level-geography-9696-hot-arid-and-semi-arid-environments-practice` | cambridge a-level geography (9696) | practice-questions | VERIFIED | 0 |
-| `a-level-geography-9696-hot-arid-and-semi-arid-environments-revision-notes` | cambridge a-level geography (9696) | revision-notes | VERIFIED | 0 |
-| `a-level-geography-9696-hot-arid-and-semi-arid-environments` | cambridge a-level geography (9696) | study-guides | VERIFIED | 0 |
-| `a-level-geography-9696-production-location-and-change-practice` | cambridge a-level geography (9696) | practice-questions | VERIFIED | 0 |
-| `a-level-geography-9696-production-location-and-change-revision-notes` | cambridge a-level geography (9696) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `a-level-geography-9696-production-location-and-change` | cambridge a-level geography (9696) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `a-level-geography-9696-tropical-environments-practice` | cambridge a-level geography (9696) | practice-questions | VERIFIED | 0 |
-| `a-level-geography-9696-tropical-environments-revision-notes` | cambridge a-level geography (9696) | revision-notes | VERIFIED | 0 |
-| `a-level-geography-9696-tropical-environments` | cambridge a-level geography (9696) | study-guides | VERIFIED | 0 |
-| `a-level-geography-human-practice` | cambridge a-level geography (9696) | practice-questions | VERIFIED | 0 |
 | `a-level-global-perspectives-9239-component-4-cambridge-research-report-practice` | cambridge a-level global-perspectives (9239) | practice-questions | VERIFIED | 0 |
 | `a-level-global-perspectives-9239-component-4-cambridge-research-report-revision-notes` | cambridge a-level global-perspectives (9239) | revision-notes | VERIFIED | 0 |
 | `a-level-global-perspectives-9239-component-4-cambridge-research-report` | cambridge a-level global-perspectives (9239) | study-guides | VERIFIED | 0 |
 | `a-level-global-perspectives-essay-practice` | cambridge a-level global-perspectives (9239) | practice-questions | VERIFIED | 0 |
 | `a-level-global-perspectives-essay-revision-notes` | cambridge a-level global-perspectives (9239) | revision-notes | VERIFIED | 0 |
-| `a-level-oxfordaqa-geography-global-systems-and-governance` | oxfordaqa a-level geography (9635) | study-guides | VERIFIED | 0 |
-| `a-level-oxfordaqa-geography-physical-geography-1` | oxfordaqa a-level geography (9635) | study-guides | VERIFIED_AFTER_CORRECTION | 0 |
 | `a-level-oxfordaqa-psychology-biopsychology-development-research-methods` | oxfordaqa a-level psychology (9685) | study-guides | VERIFIED | 0 |
 | `a-level-oxfordaqa-psychology-introductory-topics` | oxfordaqa a-level psychology (9685) | study-guides | VERIFIED | 0 |
-| `a-level-oxfordaqa-sociology-exploring-sociology` | oxfordaqa a-level sociology (9690) | study-guides | VERIFIED | 0 |
-| `a-level-oxfordaqa-sociology-introducing-sociology` | oxfordaqa a-level sociology (9690) | study-guides | VERIFIED | 0 |
 | `a-level-psychology-approaches-issues-and-debates` | cambridge a-level psychology (9990) | study-guides | VERIFIED | 0 |
 | `a-level-psychology-research-methods-practice` | cambridge a-level psychology (9990) | practice-questions | VERIFIED | 0 |
 | `a-level-psychology-research-methods-revision-notes` | cambridge a-level psychology (9990) | revision-notes | VERIFIED | 0 |
 | `a-level-psychology-specialist-options-practice` | cambridge a-level psychology (9990) | practice-questions | VERIFIED | 0 |
 | `a-level-psychology-specialist-options-revision-notes` | cambridge a-level psychology (9990) | revision-notes | VERIFIED | 0 |
 | `a-level-psychology-specialist-options` | cambridge a-level psychology (9990) | study-guides | VERIFIED | 0 |
-| `a-level-sociology-9699-education-society-and-the-curriculum-practice` | cambridge a-level sociology (9699) | practice-questions | VERIFIED | 0 |
-| `a-level-sociology-9699-education-society-and-the-curriculum-revision-notes` | cambridge a-level sociology (9699) | revision-notes | VERIFIED | 0 |
-| `a-level-sociology-9699-education-society-and-the-curriculum` | cambridge a-level sociology (9699) | study-guides | VERIFIED | 0 |
-| `a-level-sociology-9699-ethnicity-gender-and-educational-attainment-practice` | cambridge a-level sociology (9699) | practice-questions | VERIFIED | 0 |
-| `a-level-sociology-9699-ethnicity-gender-and-educational-attainment-revision-notes` | cambridge a-level sociology (9699) | revision-notes | VERIFIED | 0 |
-| `a-level-sociology-9699-ethnicity-gender-and-educational-attainment` | cambridge a-level sociology (9699) | study-guides | VERIFIED | 0 |
-| `a-level-sociology-9699-intelligence-social-class-and-educational-attainment-practice` | cambridge a-level sociology (9699) | practice-questions | VERIFIED | 0 |
-| `a-level-sociology-9699-intelligence-social-class-and-educational-attainment-revision-notes` | cambridge a-level sociology (9699) | revision-notes | VERIFIED | 0 |
-| `a-level-sociology-9699-intelligence-social-class-and-educational-attainment` | cambridge a-level sociology (9699) | study-guides | VERIFIED | 0 |
-| `a-level-sociology-course-structure` | aqa a-level sociology (7192) | subject-guides | VERIFIED_AFTER_CORRECTION | 0 |
-| `a-level-sociology-family-practice` | cambridge a-level sociology (9699) | practice-questions | VERIFIED_AFTER_CORRECTION | 0 |
-| `a-level-sociology-family-revision-notes` | cambridge a-level sociology (9699) | revision-notes | VERIFIED | 0 |
-| `a-level-sociology-methods-in-context-practice` | aqa a-level sociology (7192) | practice-questions | VERIFIED | 0 |
-| `a-level-sociology-methods-in-context-revision-notes` | aqa a-level sociology (7192) | revision-notes | VERIFIED | 0 |
-| `a-level-sociology-methods-in-context` | aqa a-level sociology (7192) | study-guides | VERIFIED | 0 |
 | `a-psychology-approaches-revision-notes` | cambridge a-level psychology (9990) | revision-notes | VERIFIED | 0 |
-| `a-sociology-socialisation-methods-practice` | cambridge a-level sociology (9699) | practice-questions | VERIFIED | 0 |
-| `a-sociology-socialisation-methods-revision-notes` | cambridge a-level sociology (9699) | revision-notes | VERIFIED | 0 |
 | `aqa-a-level-psychology-7182-addiction-practice` | aqa a-level psychology (7182) | practice-questions | VERIFIED | 0 |
 | `aqa-a-level-psychology-7182-addiction-revision-notes` | aqa a-level psychology (7182) | revision-notes | VERIFIED | 0 |
 | `aqa-a-level-psychology-7182-addiction` | aqa a-level psychology (7182) | study-guides | VERIFIED | 0 |
@@ -686,120 +2542,17 @@ is not a review and does not change their status.
 | `aqa-a-level-psychology-introductory-revision-notes` | aqa a-level psychology (7182) | revision-notes | VERIFIED_AFTER_CORRECTION | 0 |
 | `aqa-a-level-psychology-introductory-topics` | aqa a-level psychology (7182) | study-guides | VERIFIED | 0 |
 | `aqa-a-level-psychology-memory-revision-notes` | aqa a-level psychology (7182) | revision-notes | VERIFIED | 0 |
-| `aqa-a-level-sociology-7192-beliefs-in-society-practice` | aqa a-level sociology (7192) | practice-questions | VERIFIED | 0 |
-| `aqa-a-level-sociology-7192-beliefs-in-society-revision-notes` | aqa a-level sociology (7192) | revision-notes | VERIFIED | 0 |
-| `aqa-a-level-sociology-7192-beliefs-in-society` | aqa a-level sociology (7192) | study-guides | VERIFIED | 0 |
-| `aqa-a-level-sociology-7192-culture-and-identity-practice` | aqa a-level sociology (7192) | practice-questions | VERIFIED | 0 |
-| `aqa-a-level-sociology-7192-culture-and-identity-revision-notes` | aqa a-level sociology (7192) | revision-notes | VERIFIED | 0 |
-| `aqa-a-level-sociology-7192-culture-and-identity` | aqa a-level sociology (7192) | study-guides | VERIFIED | 0 |
-| `aqa-a-level-sociology-7192-families-and-households-practice` | aqa a-level sociology (7192) | practice-questions | VERIFIED | 0 |
-| `aqa-a-level-sociology-7192-families-and-households-revision-notes` | aqa a-level sociology (7192) | revision-notes | VERIFIED | 0 |
-| `aqa-a-level-sociology-7192-families-and-households` | aqa a-level sociology (7192) | study-guides | VERIFIED | 0 |
-| `aqa-a-level-sociology-7192-global-development-practice` | aqa a-level sociology (7192) | practice-questions | VERIFIED | 0 |
-| `aqa-a-level-sociology-7192-global-development-revision-notes` | aqa a-level sociology (7192) | revision-notes | VERIFIED | 0 |
-| `aqa-a-level-sociology-7192-global-development` | aqa a-level sociology (7192) | study-guides | VERIFIED | 0 |
-| `aqa-a-level-sociology-7192-health-practice` | aqa a-level sociology (7192) | practice-questions | VERIFIED | 0 |
-| `aqa-a-level-sociology-7192-health-revision-notes` | aqa a-level sociology (7192) | revision-notes | VERIFIED | 0 |
-| `aqa-a-level-sociology-7192-health` | aqa a-level sociology (7192) | study-guides | VERIFIED | 0 |
-| `aqa-a-level-sociology-7192-stratification-and-differentiation-practice` | aqa a-level sociology (7192) | practice-questions | VERIFIED | 0 |
-| `aqa-a-level-sociology-7192-stratification-and-differentiation-revision-notes` | aqa a-level sociology (7192) | revision-notes | VERIFIED | 0 |
-| `aqa-a-level-sociology-7192-stratification-and-differentiation` | aqa a-level sociology (7192) | study-guides | VERIFIED | 0 |
-| `aqa-a-level-sociology-7192-the-media-practice` | aqa a-level sociology (7192) | practice-questions | VERIFIED | 0 |
-| `aqa-a-level-sociology-7192-the-media-revision-notes` | aqa a-level sociology (7192) | revision-notes | VERIFIED | 0 |
-| `aqa-a-level-sociology-7192-the-media` | aqa a-level sociology (7192) | study-guides | VERIFIED | 0 |
-| `aqa-a-level-sociology-7192-work-poverty-and-welfare-practice` | aqa a-level sociology (7192) | practice-questions | VERIFIED | 0 |
-| `aqa-a-level-sociology-7192-work-poverty-and-welfare-revision-notes` | aqa a-level sociology (7192) | revision-notes | VERIFIED | 0 |
-| `aqa-a-level-sociology-7192-work-poverty-and-welfare` | aqa a-level sociology (7192) | study-guides | VERIFIED | 0 |
-| `aqa-a-level-sociology-education-revision-notes` | aqa a-level sociology (7192) | revision-notes | VERIFIED_AFTER_CORRECTION | 0 |
 | `aqa-gcse-psychology-cognition-and-behaviour` | aqa gcse psychology (8182) | study-guides | VERIFIED | 0 |
 | `aqa-gcse-psychology-exam-preparation` | aqa gcse psychology (8182) | exam-preparation | VERIFIED | 0 |
 | `aqa-gcse-psychology-research-methods` | aqa gcse psychology (8182) | study-guides | VERIFIED | 0 |
 | `aqa-gcse-psychology-social-context-and-behaviour` | aqa gcse psychology (8182) | study-guides | VERIFIED | 0 |
-| `aqa-gcse-sociology-8192-education-practice` | aqa gcse sociology (8192) | practice-questions | VERIFIED | 0 |
-| `aqa-gcse-sociology-8192-education-revision-notes` | aqa gcse sociology (8192) | revision-notes | VERIFIED | 0 |
-| `aqa-gcse-sociology-8192-education` | aqa gcse sociology (8192) | study-guides | VERIFIED | 0 |
-| `aqa-gcse-sociology-8192-research-methods-practice` | aqa gcse sociology (8192) | practice-questions | VERIFIED | 0 |
-| `aqa-gcse-sociology-8192-research-methods-revision-notes` | aqa gcse sociology (8192) | revision-notes | VERIFIED | 0 |
-| `aqa-gcse-sociology-8192-research-methods` | aqa gcse sociology (8192) | study-guides | VERIFIED | 0 |
-| `aqa-gcse-sociology-8192-social-stratification-practice` | aqa gcse sociology (8192) | practice-questions | VERIFIED | 0 |
-| `aqa-gcse-sociology-8192-social-stratification-revision-notes` | aqa gcse sociology (8192) | revision-notes | VERIFIED | 0 |
-| `aqa-gcse-sociology-8192-social-stratification` | aqa gcse sociology (8192) | study-guides | VERIFIED_AFTER_CORRECTION | 0 |
-| `aqa-gcse-sociology-8192-social-structures-processes-issues-practice` | aqa gcse sociology (8192) | practice-questions | VERIFIED | 0 |
-| `aqa-gcse-sociology-8192-social-structures-processes-issues-revision-notes` | aqa gcse sociology (8192) | revision-notes | VERIFIED | 0 |
-| `aqa-gcse-sociology-8192-social-structures-processes-issues` | aqa gcse sociology (8192) | study-guides | VERIFIED_AFTER_CORRECTION | 0 |
-| `aqa-gcse-sociology-8192-the-sociological-approach-practice` | aqa gcse sociology (8192) | practice-questions | VERIFIED | 0 |
-| `aqa-gcse-sociology-8192-the-sociological-approach-revision-notes` | aqa gcse sociology (8192) | revision-notes | VERIFIED | 0 |
-| `aqa-gcse-sociology-8192-the-sociological-approach` | aqa gcse sociology (8192) | study-guides | VERIFIED | 0 |
-| `aqa-gcse-sociology-crime-and-stratification` | aqa gcse sociology (8192) | study-guides | VERIFIED | 0 |
-| `aqa-gcse-sociology-exam-preparation` | aqa gcse sociology (8192) | exam-preparation | VERIFIED | 0 |
-| `aqa-gcse-sociology-families-and-education` | aqa gcse sociology (8192) | study-guides | VERIFIED_AFTER_CORRECTION | 0 |
-| `aqa-gcse-sociology-families-education-practice` | aqa gcse sociology (8192) | practice-questions | VERIFIED_AFTER_CORRECTION | 0 |
-| `aqa-gcse-sociology-families-education-revision-notes` | aqa gcse sociology (8192) | revision-notes | VERIFIED_AFTER_CORRECTION | 0 |
-| `aqa-gcse-sociology-research-methods` | aqa gcse sociology (8192) | study-guides | VERIFIED | 0 |
-| `cambridge-a-level-geography-coastal-environments` | cambridge a-level geography (9696) | study-guides | VERIFIED | 0 |
-| `cambridge-a-level-geography-exam-preparation` | cambridge a-level geography (9696) | exam-preparation | VERIFIED | 0 |
-| `cambridge-igcse-sociology-exam-preparation` | cambridge igcse sociology (0495) | exam-preparation | VERIFIED | 0 |
-| `cambridge-o-level-sociology-exam-preparation` | cambridge o-level sociology (2251) | exam-preparation | VERIFIED | 0 |
-| `cambridge-o-level-sociology-social-stratification-and-inequality` | cambridge o-level sociology (2251) | study-guides | VERIFIED | 0 |
 | `gcse-psychology-cognition-practice` | aqa gcse psychology (8182) | practice-questions | VERIFIED | 0 |
 | `gcse-psychology-cognition-revision-notes` | aqa gcse psychology (8182) | revision-notes | VERIFIED_AFTER_CORRECTION | 0 |
 | `gcse-psychology-social-context-practice` | aqa gcse psychology (8182) | practice-questions | VERIFIED | 0 |
 | `gcse-psychology-social-context-revision-notes` | aqa gcse psychology (8182) | revision-notes | VERIFIED | 0 |
-| `gcse-sociology-crime-stratification-practice` | aqa gcse sociology (8192) | practice-questions | VERIFIED_AFTER_CORRECTION | 0 |
-| `gcse-sociology-crime-stratification-revision-notes` | aqa gcse sociology (8192) | revision-notes | VERIFIED | 0 |
 | `global-perspectives-individual-report-revision-notes` | cambridge igcse global-perspectives (0457) | revision-notes | VERIFIED | 0 |
 | `global-perspectives-practice` | cambridge igcse global-perspectives (0457) | practice-questions | VERIFIED | 0 |
 | `global-perspectives-revision-notes` | cambridge igcse global-perspectives (0457) | revision-notes | VERIFIED | 0 |
-| `ib-dp-environmental-systems-and-societies-assessment-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-environmental-systems-and-societies-exam-preparation` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | exam-preparation | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-environmental-systems-and-societies-subject-guide` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | subject-guides | VERIFIED_AFTER_CORRECTION | 0 |
-| `ib-dp-environmental-systems-and-societies-syllabus-guide` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-atmosphere-climate-change-ozone-practice` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-atmosphere-climate-change-ozone-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-atmosphere-climate-change-ozone` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-biodiversity-conservation-practice` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-biodiversity-conservation-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-biodiversity-conservation` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-climate-biomes-succession-practice` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-climate-biomes-succession-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-climate-biomes-succession` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-ecosystems-energy-biogeochemical-cycles-practice` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | practice-questions | VERIFIED_AFTER_CORRECTION | 0 |
-| `ib-dp-ess-ecosystems-energy-biogeochemical-cycles-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | VERIFIED_AFTER_CORRECTION | 0 |
-| `ib-dp-ess-ecosystems-energy-biogeochemical-cycles` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-foundation-perspectives-systems-sustainability-practice` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-foundation-perspectives-systems-sustainability-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-foundation-perspectives-systems-sustainability` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-hl-lenses-law-economics-ethics-practice` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-hl-lenses-law-economics-ethics-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-hl-lenses-law-economics-ethics` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-human-populations-urban-systems-practice` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-human-populations-urban-systems-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-human-populations-urban-systems` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-natural-resources-energy-waste-practice` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | practice-questions | VERIFIED_AFTER_CORRECTION | 0 |
-| `ib-dp-ess-natural-resources-energy-waste-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | VERIFIED_AFTER_CORRECTION | 0 |
-| `ib-dp-ess-natural-resources-energy-waste` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | VERIFIED_AFTER_CORRECTION | 0 |
-| `ib-dp-ess-soil-agriculture-food-practice` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-soil-agriculture-food-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-soil-agriculture-food` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-topic-1-foundations-practice` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-topic-1-foundations-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-topic-1-foundations` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-topic-2-ecology-practice` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-topic-2-ecology-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-topic-2-ecology` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-water-systems-security-pollution-practice` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-water-systems-security-pollution-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-water-systems-security-pollution` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-geography-assessment-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-geography-exam-preparation` | ib ib-dp geography (DP Geography) | exam-preparation | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-geography-global-climate-practice` | ib ib-dp geography (DP Geography) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-geography-global-climate-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-geography-global-climate` | ib ib-dp geography (DP Geography) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-geography-population-distribution-practice` | ib ib-dp geography (DP Geography) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-geography-population-distribution-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-geography-population-distribution` | ib ib-dp geography (DP Geography) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-geography-subject-guide` | ib ib-dp geography (DP Geography) | subject-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-geography-syllabus-guide` | ib ib-dp geography (DP Geography) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
 | `ib-dp-global-politics-assessment-revision-notes` | ib ib-dp global-politics (DP Global Politics) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
 | `ib-dp-global-politics-core-interdependence-practice` | ib ib-dp global-politics (DP Global Politics) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
 | `ib-dp-global-politics-core-interdependence-revision-notes` | ib ib-dp global-politics (DP Global Politics) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
@@ -918,41 +2671,9 @@ is not a review and does not change their status.
 | `ib-myp-individuals-societies-disciplines-revision-notes` | ib ib-myp myp-individuals-and-societies (MYP Individuals and Societies) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
 | `ib-myp-individuals-societies-disciplines` | ib ib-myp myp-individuals-and-societies (MYP Individuals and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
 | `ib-myp-individuals-societies-source-evaluation-exam-preparation` | ib ib-myp myp-individuals-and-societies (MYP Individuals and Societies) | exam-preparation | PARTIAL_UNVERIFIABLE | 0 |
-| `igcse-cambridge-geography-natural-environment` | cambridge igcse geography (0460) | study-guides | VERIFIED | 0 |
 | `igcse-cambridge-global-perspectives-individual-report` | cambridge igcse global-perspectives (0457) | study-guides | VERIFIED | 0 |
 | `igcse-cambridge-global-perspectives-team-project` | cambridge igcse global-perspectives (0457) | study-guides | VERIFIED | 0 |
 | `igcse-cambridge-global-perspectives-written-exam` | cambridge igcse global-perspectives (0457) | study-guides | VERIFIED | 0 |
-| `igcse-cambridge-sociology-family-education-crime` | cambridge igcse sociology (0495) | study-guides | VERIFIED | 0 |
-| `igcse-geography-0460-development-practice` | cambridge igcse geography (0460) | practice-questions | VERIFIED | 0 |
-| `igcse-geography-0460-development-revision-notes` | cambridge igcse geography (0460) | revision-notes | VERIFIED | 0 |
-| `igcse-geography-0460-development` | cambridge igcse geography (0460) | study-guides | VERIFIED | 0 |
-| `igcse-geography-0460-energy-practice` | cambridge igcse geography (0460) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `igcse-geography-0460-energy-revision-notes` | cambridge igcse geography (0460) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `igcse-geography-0460-energy` | cambridge igcse geography (0460) | study-guides | VERIFIED | 0 |
-| `igcse-geography-0460-environmental-risks-of-economic-development-practice` | cambridge igcse geography (0460) | practice-questions | VERIFIED | 0 |
-| `igcse-geography-0460-environmental-risks-of-economic-development-revision-notes` | cambridge igcse geography (0460) | revision-notes | VERIFIED | 0 |
-| `igcse-geography-0460-environmental-risks-of-economic-development` | cambridge igcse geography (0460) | study-guides | VERIFIED | 0 |
-| `igcse-geography-0460-food-production-practice` | cambridge igcse geography (0460) | practice-questions | VERIFIED | 0 |
-| `igcse-geography-0460-food-production-revision-notes` | cambridge igcse geography (0460) | revision-notes | VERIFIED | 0 |
-| `igcse-geography-0460-food-production` | cambridge igcse geography (0460) | study-guides | VERIFIED | 0 |
-| `igcse-geography-0460-industry-practice` | cambridge igcse geography (0460) | practice-questions | VERIFIED | 0 |
-| `igcse-geography-0460-industry-revision-notes` | cambridge igcse geography (0460) | revision-notes | VERIFIED | 0 |
-| `igcse-geography-0460-industry` | cambridge igcse geography (0460) | study-guides | VERIFIED | 0 |
-| `igcse-geography-0460-tourism-practice` | cambridge igcse geography (0460) | practice-questions | VERIFIED_AFTER_CORRECTION | 0 |
-| `igcse-geography-0460-tourism-revision-notes` | cambridge igcse geography (0460) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `igcse-geography-0460-tourism` | cambridge igcse geography (0460) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `igcse-geography-0460-water-practice` | cambridge igcse geography (0460) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `igcse-geography-0460-water-revision-notes` | cambridge igcse geography (0460) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `igcse-geography-0460-water` | cambridge igcse geography (0460) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `igcse-geography-climate-and-natural-vegetation` | cambridge igcse geography (0460) | study-guides | VERIFIED | 0 |
-| `igcse-geography-coasts` | cambridge igcse geography (0460) | study-guides | VERIFIED_AFTER_CORRECTION | 0 |
-| `igcse-geography-earthquakes-and-volcanoes` | cambridge igcse geography (0460) | study-guides | VERIFIED | 0 |
-| `igcse-geography-natural-environment-practice` | cambridge igcse geography (0460) | practice-questions | VERIFIED | 0 |
-| `igcse-geography-natural-environment-revision-notes` | cambridge igcse geography (0460) | revision-notes | VERIFIED_AFTER_CORRECTION | 0 |
-| `igcse-geography-population-and-settlement` | cambridge igcse geography (0460) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `igcse-geography-population-settlement-revision-notes` | cambridge igcse geography (0460) | revision-notes | VERIFIED | 0 |
-| `igcse-geography-rivers` | cambridge igcse geography (0460) | study-guides | VERIFIED_AFTER_CORRECTION | 0 |
-| `igcse-geography-weather` | cambridge igcse geography (0460) | study-guides | VERIFIED | 0 |
 | `igcse-global-perspectives-0457-arts-in-society-practice` | cambridge igcse global-perspectives (0457) | practice-questions | VERIFIED | 0 |
 | `igcse-global-perspectives-0457-arts-in-society-revision-notes` | cambridge igcse global-perspectives (0457) | revision-notes | VERIFIED | 0 |
 | `igcse-global-perspectives-0457-arts-in-society` | cambridge igcse global-perspectives (0457) | study-guides | VERIFIED | 0 |
@@ -1022,63 +2743,12 @@ is not a review and does not change their status.
 | `igcse-global-perspectives-individual-report-practice` | cambridge igcse global-perspectives (0457) | practice-questions | VERIFIED | 0 |
 | `igcse-global-perspectives-team-project-practice` | cambridge igcse global-perspectives (0457) | practice-questions | VERIFIED | 0 |
 | `igcse-global-perspectives-team-project-revision-notes` | cambridge igcse global-perspectives (0457) | revision-notes | VERIFIED | 0 |
-| `igcse-oxfordaqa-geography-living-with-the-physical-environment` | oxfordaqa igcse geography (9230) | study-guides | VERIFIED | 0 |
-| `igcse-oxfordaqa-geography-physical-environment-practice` | oxfordaqa igcse geography (9230) | practice-questions | VERIFIED | 0 |
-| `igcse-oxfordaqa-geography-physical-environment-revision-notes` | oxfordaqa igcse geography (9230) | revision-notes | VERIFIED | 0 |
-| `igcse-oxfordaqa-geography-urban-issues-and-challenges` | oxfordaqa igcse geography (9230) | study-guides | VERIFIED_AFTER_CORRECTION | 0 |
-| `igcse-oxfordaqa-geography-urban-issues-practice` | oxfordaqa igcse geography (9230) | practice-questions | VERIFIED_AFTER_CORRECTION | 0 |
-| `igcse-oxfordaqa-geography-urban-issues-revision-notes` | oxfordaqa igcse geography (9230) | revision-notes | VERIFIED_AFTER_CORRECTION | 0 |
 | `igcse-oxfordaqa-psychology-cognition-and-behaviour` | oxfordaqa igcse psychology (9218) | study-guides | VERIFIED | 0 |
 | `igcse-oxfordaqa-psychology-conformity-and-obedience` | oxfordaqa igcse psychology (9218) | study-guides | VERIFIED | 0 |
 | `igcse-oxfordaqa-psychology-conformity-obedience-practice` | oxfordaqa igcse psychology (9218) | practice-questions | VERIFIED | 0 |
 | `igcse-oxfordaqa-psychology-conformity-obedience-revision-notes` | oxfordaqa igcse psychology (9218) | revision-notes | VERIFIED | 0 |
-| `igcse-oxfordaqa-sociology-introducing-sociology` | oxfordaqa igcse sociology (9292) | study-guides | VERIFIED | 0 |
-| `igcse-oxfordaqa-sociology-practice` | oxfordaqa igcse sociology (9292) | practice-questions | VERIFIED_AFTER_CORRECTION | 0 |
-| `igcse-oxfordaqa-sociology-revision-notes` | oxfordaqa igcse sociology (9292) | revision-notes | VERIFIED | 0 |
-| `igcse-oxfordaqa-sociology-socialisation-practice` | oxfordaqa igcse sociology (9292) | practice-questions | VERIFIED | 0 |
-| `igcse-oxfordaqa-sociology-socialisation-revision-notes` | oxfordaqa igcse sociology (9292) | revision-notes | VERIFIED | 0 |
-| `igcse-oxfordaqa-sociology-socialisation` | oxfordaqa igcse sociology (9292) | study-guides | VERIFIED | 0 |
 | `igcse-psychology-cognition-practice` | oxfordaqa igcse psychology (9218) | practice-questions | VERIFIED | 0 |
 | `igcse-psychology-cognition-revision-notes` | oxfordaqa igcse psychology (9218) | revision-notes | VERIFIED | 0 |
-| `igcse-sociology-family-education-crime-practice` | cambridge igcse sociology (0495) | practice-questions | VERIFIED | 0 |
-| `igcse-sociology-methods-inequality-practice` | cambridge igcse sociology (0495) | practice-questions | VERIFIED | 0 |
-| `igcse-sociology-methods-inequality-revision-notes` | cambridge igcse sociology (0495) | revision-notes | VERIFIED | 0 |
-| `igcse-sociology-research-methods-identity-and-inequality` | cambridge igcse sociology (0495) | study-guides | VERIFIED_AFTER_CORRECTION | 0 |
-| `o-level-geography-economic-development-practice` | cambridge o-level geography (2217) | practice-questions | VERIFIED | 0 |
-| `o-level-geography-economic-development-revision-notes` | cambridge o-level geography (2217) | revision-notes | VERIFIED | 0 |
-| `o-level-geography-economic-development` | cambridge o-level geography (2217) | study-guides | VERIFIED | 0 |
-| `o-level-geography-natural-environment-practice` | cambridge o-level geography (2217) | practice-questions | VERIFIED | 0 |
-| `o-level-geography-natural-environment-revision-notes` | cambridge o-level geography (2217) | revision-notes | VERIFIED | 0 |
-| `o-level-geography-natural-environment` | cambridge o-level geography (2217) | study-guides | VERIFIED | 0 |
-| `o-level-geography-population-and-settlement` | cambridge o-level geography (2217) | study-guides | VERIFIED | 0 |
-| `o-level-geography-population-practice` | cambridge o-level geography (2217) | practice-questions | VERIFIED | 0 |
-| `o-level-geography-population-revision-notes` | cambridge o-level geography (2217) | revision-notes | VERIFIED | 0 |
-| `o-level-sociology-family-education-crime-practice` | cambridge o-level sociology (2251) | practice-questions | VERIFIED | 0 |
-| `o-level-sociology-family-education-crime-revision-notes` | cambridge o-level sociology (2251) | revision-notes | VERIFIED | 0 |
-| `o-level-sociology-family-education-crime` | cambridge o-level sociology (2251) | study-guides | VERIFIED | 0 |
-| `o-level-sociology-methods-practice` | cambridge o-level sociology (2251) | practice-questions | VERIFIED | 0 |
-| `o-level-sociology-methods-revision-notes` | cambridge o-level sociology (2251) | revision-notes | VERIFIED | 0 |
-| `o-level-sociology-research-methods-identity-and-inequality` | cambridge o-level sociology (2251) | study-guides | VERIFIED_AFTER_CORRECTION | 0 |
-| `oxfordaqa-a-level-geography-9635-changing-places-practice` | oxfordaqa a-level geography (9635) | practice-questions | VERIFIED | 0 |
-| `oxfordaqa-a-level-geography-9635-changing-places-revision-notes` | oxfordaqa a-level geography (9635) | revision-notes | VERIFIED | 0 |
-| `oxfordaqa-a-level-geography-9635-changing-places` | oxfordaqa a-level geography (9635) | study-guides | VERIFIED | 0 |
-| `oxfordaqa-a-level-geography-9635-ecosystems-under-stress-practice` | oxfordaqa a-level geography (9635) | practice-questions | VERIFIED | 0 |
-| `oxfordaqa-a-level-geography-9635-ecosystems-under-stress-revision-notes` | oxfordaqa a-level geography (9635) | revision-notes | VERIFIED | 0 |
-| `oxfordaqa-a-level-geography-9635-ecosystems-under-stress` | oxfordaqa a-level geography (9635) | study-guides | VERIFIED | 0 |
-| `oxfordaqa-a-level-geography-9635-geographical-and-fieldwork-skills-practice` | oxfordaqa a-level geography (9635) | practice-questions | VERIFIED | 0 |
-| `oxfordaqa-a-level-geography-9635-geographical-and-fieldwork-skills-revision-notes` | oxfordaqa a-level geography (9635) | revision-notes | VERIFIED | 0 |
-| `oxfordaqa-a-level-geography-9635-geographical-and-fieldwork-skills` | oxfordaqa a-level geography (9635) | study-guides | VERIFIED | 0 |
-| `oxfordaqa-a-level-geography-9635-people-and-contemporary-urban-environments-practice` | oxfordaqa a-level geography (9635) | practice-questions | VERIFIED | 0 |
-| `oxfordaqa-a-level-geography-9635-people-and-contemporary-urban-environments-revision-notes` | oxfordaqa a-level geography (9635) | revision-notes | VERIFIED | 0 |
-| `oxfordaqa-a-level-geography-9635-people-and-contemporary-urban-environments` | oxfordaqa a-level geography (9635) | study-guides | VERIFIED | 0 |
-| `oxfordaqa-a-level-geography-9635-water-carbon-and-life-on-earth-practice` | oxfordaqa a-level geography (9635) | practice-questions | VERIFIED | 0 |
-| `oxfordaqa-a-level-geography-9635-water-carbon-and-life-on-earth-revision-notes` | oxfordaqa a-level geography (9635) | revision-notes | VERIFIED | 0 |
-| `oxfordaqa-a-level-geography-9635-water-carbon-and-life-on-earth` | oxfordaqa a-level geography (9635) | study-guides | VERIFIED | 0 |
-| `oxfordaqa-a-level-geography-exam-preparation` | oxfordaqa a-level geography (9635) | exam-preparation | VERIFIED_AFTER_CORRECTION | 0 |
-| `oxfordaqa-a-level-geography-globalisation-practice` | oxfordaqa a-level geography (9635) | practice-questions | VERIFIED | 0 |
-| `oxfordaqa-a-level-geography-globalisation-revision-notes` | oxfordaqa a-level geography (9635) | revision-notes | VERIFIED | 0 |
-| `oxfordaqa-a-level-geography-physical-practice` | oxfordaqa a-level geography (9635) | practice-questions | VERIFIED | 0 |
-| `oxfordaqa-a-level-geography-physical-revision-notes` | oxfordaqa a-level geography (9635) | revision-notes | VERIFIED | 0 |
 | `oxfordaqa-a-level-psychology-9685-applied-psychology-work-and-the-individual-practice` | oxfordaqa a-level psychology (9685) | practice-questions | VERIFIED | 0 |
 | `oxfordaqa-a-level-psychology-9685-applied-psychology-work-and-the-individual-revision-notes` | oxfordaqa a-level psychology (9685) | revision-notes | VERIFIED | 0 |
 | `oxfordaqa-a-level-psychology-9685-applied-psychology-work-and-the-individual` | oxfordaqa a-level psychology (9685) | study-guides | VERIFIED | 0 |
@@ -1102,27 +2772,5 @@ is not a review and does not change their status.
 | `oxfordaqa-a-level-psychology-exam-preparation` | oxfordaqa a-level psychology (9685) | exam-preparation | VERIFIED | 0 |
 | `oxfordaqa-a-level-psychology-practice` | oxfordaqa a-level psychology (9685) | practice-questions | VERIFIED | 0 |
 | `oxfordaqa-a-level-psychology-revision-notes` | oxfordaqa a-level psychology (9685) | revision-notes | VERIFIED | 0 |
-| `oxfordaqa-a-level-sociology-9690-people-and-development-practice` | oxfordaqa a-level sociology (9690) | practice-questions | VERIFIED | 0 |
-| `oxfordaqa-a-level-sociology-9690-people-and-development-revision-notes` | oxfordaqa a-level sociology (9690) | revision-notes | VERIFIED | 0 |
-| `oxfordaqa-a-level-sociology-9690-people-and-development` | oxfordaqa a-level sociology (9690) | study-guides | VERIFIED | 0 |
-| `oxfordaqa-a-level-sociology-9690-people-and-technology-practice` | oxfordaqa a-level sociology (9690) | practice-questions | VERIFIED | 0 |
-| `oxfordaqa-a-level-sociology-9690-people-and-technology-revision-notes` | oxfordaqa a-level sociology (9690) | revision-notes | VERIFIED | 0 |
-| `oxfordaqa-a-level-sociology-9690-people-and-technology` | oxfordaqa a-level sociology (9690) | study-guides | VERIFIED | 0 |
-| `oxfordaqa-a-level-sociology-9690-people-and-the-environment-practice` | oxfordaqa a-level sociology (9690) | practice-questions | VERIFIED | 0 |
-| `oxfordaqa-a-level-sociology-9690-people-and-the-environment-revision-notes` | oxfordaqa a-level sociology (9690) | revision-notes | VERIFIED | 0 |
-| `oxfordaqa-a-level-sociology-9690-people-and-the-environment` | oxfordaqa a-level sociology (9690) | study-guides | VERIFIED | 0 |
-| `oxfordaqa-a-level-sociology-exam-preparation` | oxfordaqa a-level sociology (9690) | exam-preparation | VERIFIED_AFTER_CORRECTION | 0 |
-| `oxfordaqa-a-level-sociology-exploring-sociology-practice` | oxfordaqa a-level sociology (9690) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `oxfordaqa-a-level-sociology-exploring-sociology-revision-notes` | oxfordaqa a-level sociology (9690) | revision-notes | VERIFIED_AFTER_CORRECTION | 0 |
-| `oxfordaqa-a-level-sociology-practice` | oxfordaqa a-level sociology (9690) | practice-questions | VERIFIED_AFTER_CORRECTION | 0 |
-| `oxfordaqa-a-level-sociology-revision-notes` | oxfordaqa a-level sociology (9690) | revision-notes | VERIFIED_AFTER_CORRECTION | 0 |
-| `oxfordaqa-igcse-geography-9230-geographical-and-fieldwork-skills-practice` | oxfordaqa igcse geography (9230) | practice-questions | VERIFIED | 0 |
-| `oxfordaqa-igcse-geography-9230-geographical-and-fieldwork-skills-revision-notes` | oxfordaqa igcse geography (9230) | revision-notes | VERIFIED | 0 |
-| `oxfordaqa-igcse-geography-9230-geographical-and-fieldwork-skills` | oxfordaqa igcse geography (9230) | study-guides | VERIFIED | 0 |
-| `oxfordaqa-igcse-geography-exam-preparation` | oxfordaqa igcse geography (9230) | exam-preparation | VERIFIED | 0 |
 | `oxfordaqa-igcse-psychology-exam-preparation` | oxfordaqa igcse psychology (9218) | exam-preparation | VERIFIED | 0 |
-| `oxfordaqa-igcse-sociology-exam-preparation` | oxfordaqa igcse sociology (9292) | exam-preparation | VERIFIED | 0 |
-| `population-and-settlement-practice` | cambridge igcse geography (0460) | practice-questions | VERIFIED | 0 |
 | `psychology-approaches-and-debates-practice` | cambridge a-level psychology (9990) | practice-questions | VERIFIED | 0 |
-| `sociology-family-education-crime-revision-notes` | cambridge igcse sociology (0495) | revision-notes | VERIFIED | 0 |
-| `sociology-research-methods-practice` | cambridge igcse sociology (0495) | practice-questions | VERIFIED | 0 |

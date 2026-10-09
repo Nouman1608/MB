@@ -14,12 +14,11 @@ syllabusTopics:
     topic: "paper-1-families-and-education-8192"
 description: "A guide to Paper 1 of AQA GCSE Sociology (8192): the sociological approach, social structures and processes, families (functions, forms, conjugal roles, criticisms of families with Zaretsky and Delphy and Leonard, divorce) and education, with research methods pointed to its own guide."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-08-21
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers **Paper 1 The Sociology of Families and Education**,

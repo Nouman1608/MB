@@ -18,12 +18,11 @@ syllabusTopics:
     subtopic: "development-0460"
 description: "Condensed IGCSE Geography 0460 Development notes: key terms, HDI facts, sector shifts, globalisation impacts, a Nike case summary and a self-test."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 These notes condense the [Development study guide](/resources/igcse-geography-0460-development/). Read the guide first if a point here is unclear.

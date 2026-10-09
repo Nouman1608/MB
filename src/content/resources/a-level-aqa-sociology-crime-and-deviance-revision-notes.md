@@ -16,12 +16,11 @@ syllabusTopics:
     topic: "paper-3-crime-deviance-theory-methods-7192"
 description: "Condensed recall notes on the content areas, core themes and theory-to-explanation map for AQA A-Level Sociology (7192) Paper 3, Crime and Deviance."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-06
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 Condensed for the final weeks. For the full explanation, use the

@@ -28,12 +28,11 @@ syllabusTopics:
     subtopic: "the-management-of-change-in-manufacturing-industry-9696"
 description: "Original practice questions with marked answers on farm systems, productivity, locational rent, EPZs and the informal sector for Cambridge 9696 Topic 11."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

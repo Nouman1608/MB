@@ -19,12 +19,11 @@ syllabusTopics:
     subtopic: "water-carbon-life-earth-9635"
 description: "Condensed 9635 water and carbon cycle notes: key terms, store sizes, case studies at a glance, feedbacks, an essay plan and a quick self-test."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 Read the [Water, carbon and life on earth study guide](/resources/oxfordaqa-a-level-geography-9635-water-carbon-and-life-on-earth/) first; these notes condense it for revision.

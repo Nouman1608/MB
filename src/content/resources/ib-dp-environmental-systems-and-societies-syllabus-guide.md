@@ -11,12 +11,11 @@ syllabusSeries: "First assessment 2026"
 order: 2
 description: "The eight-topic syllabus structure, teaching hours at SL and HL, the three HL-only lenses, and the experimental programme of IB Diploma Programme Environmental Systems and Societies (ESS), for first assessment 2026."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
 publishedDate: 2026-09-02
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers the full syllabus structure of **IB Diploma Programme

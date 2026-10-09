@@ -18,12 +18,11 @@ syllabusTopics:
     subtopic: "health-7192"
 description: "Study guide to AQA A-level Sociology 7192 Health: models of health, unequal health chances, access to care, mental illness and the role of medicine."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers the Health topic of AQA A-level Sociology (7192), as set out in the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). Health is section 4.2.3 of the A-level subject content (the specification at a glance also lists it as 3.2.3). It is one of the four option 1 topics in Paper 2: Topics in Sociology, and it is answered in Section A of that paper.

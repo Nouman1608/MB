@@ -14,12 +14,11 @@ syllabusTopics:
     topic: "ib-dp-geography-changing-population"
 description: "Original Paper-2-style practice questions with full worked answers on population distribution, key demographic vocabulary, population pyramids and case-study application, for the compulsory IB Diploma Programme Geography core."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
 publishedDate: 2026-09-06
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

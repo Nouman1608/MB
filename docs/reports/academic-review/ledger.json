@@ -8,29 +8,30 @@
     "repositoryVerification": "A check of the page against its official specification recorded in docs/reports/academic-review/pending-review-*.json. Not a teacher review and not a sign-off."
   },
   "totals": {
-    "resources": 2767,
+    "resources": 3759,
     "reviewStatus": {
-      "review-pending": 780,
-      "reviewed": 1987
+      "review-pending": 1503,
+      "reviewed": 2256
     },
     "outcome": {
       "REPO_PARTIAL_UNVERIFIABLE": 153,
       "REPO_VERIFIED": 585,
       "REPO_VERIFIED_AFTER_CORRECTION": 42,
-      "TEACHER_CREDITED": 1987
+      "TEACHER_CREDITED": 1987,
+      "UNVERIFIED": 992
     },
     "structuralValidation": {
-      "PASS": 2398,
-      "WARN": 369
+      "PASS": 3385,
+      "WARN": 374
     },
     "withVerificationRecord": 780,
-    "withSpecCheck": 549,
+    "withSpecCheck": 292,
     "correctedInThisProgramme": 48,
-    "pendingWithoutReviewer": 780
+    "pendingWithoutReviewer": 1503
   },
   "integrity": [],
   "rowsFile": "docs/reports/academic-review/ledger.csv",
-  "rowCount": 2767,
+  "rowCount": 3759,
   "columns": [
     "filename",
     "slug",

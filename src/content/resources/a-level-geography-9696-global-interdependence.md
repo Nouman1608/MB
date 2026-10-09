@@ -28,12 +28,11 @@ syllabusTopics:
     subtopic: "the-management-of-a-tourist-destination-9696"
 description: "Study guide to 9696 Global interdependence: trade, the WTO, Fairtrade, debt and aid, tourism growth and impacts, Butler's model and a Venice case study."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers Topic 13, Global interdependence (sections 13.1 to 13.4), of the Cambridge International AS & A Level Geography (9696) syllabus for examination in 2025 and 2026. Global interdependence is one of four Advanced Human Geography options assessed in Paper 4 (1 hour 30 minutes, 60 marks, 25% of the A Level). You answer on two of the four options; for each one you answer a 10-mark structured question and choose one of two 20-mark essays.

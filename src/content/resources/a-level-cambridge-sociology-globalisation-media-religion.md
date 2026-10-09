@@ -15,12 +15,11 @@ syllabusTopics:
     topic: "paper-4-globalisation-media-religion-9699"
 description: "Globalisation, media, and religion -- the full content of Paper 4 for Cambridge International A Level Sociology (9699), an A Level-only paper."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-01
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers **Paper 4 Globalisation, Media and Religion**, an A

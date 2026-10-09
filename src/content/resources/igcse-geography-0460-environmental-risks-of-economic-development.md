@@ -18,12 +18,11 @@ syllabusTopics:
     subtopic: "environmental-risks-economic-development-0460"
 description: "Study guide for Cambridge IGCSE Geography 0460 section 3.7: threats from economic activity, sustainable management, resource conservation and a case study."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers section 3.7 Environmental risks of economic development of the Cambridge IGCSE Geography (0460) syllabus for examination in 2025 and 2026, Version 2 (published November 2022). Section 3.7 is the last part of Theme 3: Economic development. Theme content is assessed in Paper 1 Geographical Themes (1 hour 45 minutes, 75 marks), where you answer three 25-mark questions, one from each section. Paper 2 Geographical Skills can also set knowledge questions based on the three themes, so pollution or land-use data may appear there too.

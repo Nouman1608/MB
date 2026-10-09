@@ -22,7 +22,7 @@ import { getAuthors } from '../../utils/content/collections';
 import { sortPinnedFirst } from '../../data/featured-teachers';
 import { routes } from '../../utils/urls/routes';
 
-const people = (await getAuthors()).filter((a) => a.data.entityType === 'person');
+const people = (await getAuthors()).filter((a) => a.data.entityType === 'person' && a.data.subjectsTaught.length > 0);
 // Pinned leads first (D-151). Because this band shows only the first six,
 // the pin genuinely changes who is visible here, not just the order --
 // which is the point of the instruction.

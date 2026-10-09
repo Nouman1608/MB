@@ -19,12 +19,11 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-5-2"
 description: "IB DP ESS study guide to Topic 5 Land: soil as a system, texture, degradation and conservation, farming systems, food security and sustainability."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
 publishedDate: 2026-09-27
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This study guide teaches the soil, agriculture and food unit of IB Diploma Programme Environmental Systems and Societies (ESS). It is aligned to the IB Diploma Programme Subject Brief, *Environmental systems and societies*, and covers syllabus sections 5.1 (Soil) and 5.2 (Agriculture and food) of Topic 5, Land. Topic 5 is studied at both SL and HL: the brief recommends 8 teaching hours at SL and 15 at HL, and HL students study some topics in extra depth. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.

@@ -19,12 +19,11 @@ syllabusTopics:
     topic: "ib-dp-environmental-systems-and-societies-hl-c-environmental-ethics"
 description: "11 original IB DP ESS HL questions on environmental law, economics and ethics, with data-response tasks, essays and fully marked answers."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
 publishedDate: 2026-09-27
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

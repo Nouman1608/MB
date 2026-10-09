@@ -25,12 +25,11 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-4-4"
 description: "Condensed IB DP ESS Topic 4 Water revision notes: key definitions, calculation methods, must-know distinctions and a 10-question self-test."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
 publishedDate: 2026-09-27
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 For full explanations and worked examples, read the [Topic 4 Water study guide](/resources/ib-dp-ess-water-systems-security-pollution/) first. These notes are for the final weeks before your exams.

@@ -25,12 +25,11 @@ syllabusTopics:
     subtopic: "influences-on-the-curriculum-9699"
 description: "Revision notes for Cambridge 9699 Sociology 5.1-5.3: key terms, theorists at a glance, meritocracy and mobility, curriculum, and a self-test."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 These notes condense the [Education, society and the curriculum study guide](/resources/a-level-sociology-9699-education-society-and-the-curriculum/). Read that first for full explanations and worked paragraphs.

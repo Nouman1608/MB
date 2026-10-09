@@ -16,12 +16,11 @@ syllabusTopics:
     subtopic: "global-systems-governance-9635"
 description: "Condensed recall notes on the dimensions and drivers of globalisation, and global economic, political, social and environmental interdependence, for OxfordAQA International A-Level Geography (9635), sub-topics 3.2.1.1 and 3.2.1.2."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-02
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 Condensed for the final weeks. For the full explanation, use the

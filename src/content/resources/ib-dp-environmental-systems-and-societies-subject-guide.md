@@ -8,12 +8,11 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Environmental Systems and Societies"]
 description: "An overview of IB Diploma Programme Environmental Systems and Societies (ESS) -- an interdisciplinary sciences / individuals-and-societies course, and how it can count toward either or both subject groups."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
 publishedDate: 2026-08-22
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 Environmental Systems and Societies (ESS) is an interdisciplinary IB

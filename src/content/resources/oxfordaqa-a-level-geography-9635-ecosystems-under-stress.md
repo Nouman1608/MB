@@ -19,12 +19,11 @@ syllabusTopics:
     subtopic: "ecosystems-under-stress-9635"
 description: "Study guide to OxfordAQA 9635 Ecosystems under stress: biodiversity, energy and nutrients, succession, biomes, coral reefs and the case studies."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers section 3.3.2, Ecosystems under stress, of the OxfordAQA International AS and A-level Geography (9635) specification, Version 3.2. It works through every content point from 3.3.2.1 to 3.3.2.7, including the two required case studies and the named coral reef. The section is Section B of Unit 3: Physical geography 2, a 1 hour 30 minute written exam in which you answer all questions in Section A (40 marks) and Section B (40 marks). Unit 3 is part of the full International A-level, where it carries 20% of the qualification.

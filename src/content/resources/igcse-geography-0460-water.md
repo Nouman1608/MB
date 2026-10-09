@@ -18,12 +18,11 @@ syllabusTopics:
     subtopic: "water-0460"
 description: "Cambridge IGCSE Geography 0460 Topic 3.6 Water: supply methods, how water use changes with development, shortages, management and a Singapore case study."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers Topic 3.6 Water from the Cambridge IGCSE Geography (0460) syllabus for examination in 2025 and 2026, Version 2 (published November 2022). Topic 3.6 sits in Theme 3, Economic development. It is examined in Paper 1 Geographical Themes (1 hour 45 minutes, 75 marks), where you answer three questions, one from each section. The syllabus says Paper 2 knowledge questions are also based on topics from the three themes, and it lists a water enquiry among its suggested topics for Component 3 Coursework.

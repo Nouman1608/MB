@@ -19,12 +19,11 @@ syllabusTopics:
     subtopic: "ecosystems-under-stress-9635"
 description: "Condensed 9635 Ecosystems under stress notes: key terms, succession, biomes, Great Barrier Reef and Rondônia at a glance, essay plan and self-test."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 For full explanations, case-study detail and a worked answer paragraph, use the [Ecosystems under stress study guide](/resources/oxfordaqa-a-level-geography-9635-ecosystems-under-stress/).

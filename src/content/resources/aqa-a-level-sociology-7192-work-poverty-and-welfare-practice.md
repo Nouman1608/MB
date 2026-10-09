@@ -18,12 +18,11 @@ syllabusTopics:
     subtopic: "work-poverty-and-welfare-7192"
 description: "Original AQA 7192 Work, Poverty and Welfare practice questions with marked answers on poverty data, welfare providers, skill and globalisation."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -28,12 +28,11 @@ syllabusTopics:
     subtopic: "sustainable-management-in-hazardous-environments-9696"
 description: "Condensed 9696 Hazardous environments notes: key terms, case studies at a glance, essay plan and a self-test on tectonic, slope and storm hazards."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 Read the [Hazardous environments study guide](/resources/a-level-geography-9696-hazardous-environments/) first; these notes condense it for revision.

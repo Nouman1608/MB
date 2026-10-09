@@ -18,12 +18,11 @@ syllabusTopics:
     subtopic: "work-poverty-and-welfare-7192"
 description: "Study guide to AQA A-level Sociology 7192 Work, Poverty and Welfare: poverty, wealth, welfare, the labour process and worklessness."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers Work, Poverty and Welfare for AQA A-level Sociology (7192), using the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). The topic is section 4.2.4 of the specification (the specification-at-a-glance list also shows it as 3.2.4). It is one of the four Option 1 topics on Paper 2: Topics in Sociology, which the specification sets as a 2 hour written exam, 80 marks, 33.3% of the A-level.

@@ -28,12 +28,11 @@ syllabusTopics:
     subtopic: "the-management-of-a-degraded-environment-9696"
 description: "Study guide to Cambridge 9696 Geography topic 12: energy resources, Germany and Three Gorges case studies, pollution, degradation and the Aral Sea."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers topic 12, Environmental management, sections 12.1 to 12.4, of the Cambridge International AS & A Level Geography (9696) syllabus for examination in 2025 and 2026. It is one of the four Advanced Human Geography Options. The document places it in Paper 4 (1 hour 30 minutes, 60 marks, 25% of the A Level), where you answer questions on two optional topics. For each topic there is one structured question (10 marks) and you choose one of two essay questions (20 marks).

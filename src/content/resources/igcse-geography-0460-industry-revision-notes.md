@@ -18,12 +18,11 @@ syllabusTopics:
     subtopic: "industry-0460"
 description: "Quick-recall notes for Cambridge IGCSE Geography 0460 Industry: key terms, location factors, case studies at a glance, an essay plan and a self-test."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 These notes condense the [Industry study guide](/resources/igcse-geography-0460-industry/); read that first for full explanations and worked answers.

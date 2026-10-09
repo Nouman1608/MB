@@ -24,6 +24,9 @@ description: "Condensed IB DP ESS revision notes for the foundation unit (1.1-1.
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 For full explanations and worked examples, read the [study guide](/resources/ib-dp-ess-foundation-perspectives-systems-sustainability/) first.

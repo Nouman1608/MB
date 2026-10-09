@@ -4,7 +4,8 @@
  *
  * The enquiry Function cannot read the Astro content collection, so this is a
  * plain list. functions/api/__tests__/trial-teachers.test.mjs fails if it ever
- * differs from the `entityType: person` entries in src/content/authors/, so a
+ * differs from the `entityType: person` entries that teach a subject (D-408:
+ * reviewer-only profiles are excluded) in src/content/authors/, so a
  * new or removed teacher cannot drift silently.
  *
  * Used to (1) drop a `teacher` value that names nobody real, and (2) write the

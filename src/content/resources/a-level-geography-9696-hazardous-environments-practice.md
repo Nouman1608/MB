@@ -28,12 +28,11 @@ syllabusTopics:
     subtopic: "sustainable-management-in-hazardous-environments-9696"
 description: "Original 9696 Hazardous environments questions with marked answers: volcano monitoring data, landslide thresholds, cyclones, tornadoes and two essays."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

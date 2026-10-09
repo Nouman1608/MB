@@ -15,12 +15,11 @@ syllabusTopics:
     topic: "unit-1-introducing-sociology-9690"
 description: "Condensed recall notes on Families (3.1.1) and Research Methods and Theory (3.1.3) for OxfordAQA International A Level Sociology (9690) Unit 1 -- Section A Families (40 of the unit's 60 marks) and Section B Research methods (20 marks)."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-08-22
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 Condensed for the final weeks. For the full explanation, use the

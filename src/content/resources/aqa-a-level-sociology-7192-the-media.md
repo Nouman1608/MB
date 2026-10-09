@@ -18,12 +18,11 @@ syllabusTopics:
     subtopic: "the-media-7192"
 description: "Study guide to AQA A-level Sociology 7192 The Media: new media, ownership, globalisation, news, representations and audiences, with evaluation."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers The Media for AQA A-level Sociology (7192), using the AQA AS and A-level Sociology (7191, 7192) specification, Version 1.2 (14 October 2021). The content is printed in section 4.2.7 The Media, which the specification's at-a-glance list shows as 3.2.7. It is an A-level option only, and it is assessed in Paper 2: Topics in Sociology, a 2 hour written exam worth 80 marks and 33.3% of the A-level.

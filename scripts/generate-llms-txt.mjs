@@ -174,6 +174,8 @@ for (const file of (await readdir(authorsDir)).filter((f) => f.endsWith('.md')).
   const fm = (await readFile(join(authorsDir, file), 'utf8')).split('---')[1] ?? '';
   if (!/^entityType:\s*person\s*$/m.test(fm)) continue;
   if (/^publicationState:\s*draft\s*$/m.test(fm)) continue;
+  // D-408 -- reviewer-only profiles (no subjects taught) are not listed as teachers.
+  if (/^subjectsTaught:\s*\[\s*\]/m.test(fm)) continue;
   const name = (fm.match(/^name:\s*"([^"]+)"/m) || [])[1];
   const role = (fm.match(/^role:\s*"([^"]+)"/m) || [])[1];
   if (!name) continue;

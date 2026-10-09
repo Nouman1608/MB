@@ -25,12 +25,11 @@ syllabusTopics:
     subtopic: "people-and-animals-9690"
 description: "Condensed revision notes for OxfordAQA 9690 Unit 4 People and the environment: key terms, theorists at a glance, an essay plan and a self-test."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 These notes condense the [People and the environment study guide](/resources/oxfordaqa-a-level-sociology-9690-people-and-the-environment/); read that first for full explanations and worked paragraphs.

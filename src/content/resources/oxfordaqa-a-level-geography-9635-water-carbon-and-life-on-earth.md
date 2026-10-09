@@ -19,12 +19,11 @@ syllabusTopics:
     subtopic: "water-carbon-life-earth-9635"
 description: "Study guide to OxfordAQA 9635 section 3.3.1: water and carbon stores, drainage basins, hydrographs, feedbacks, the Amazon and the River Eden."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers section 3.3.1, Water, carbon and life on earth (3.3.1.1 to 3.3.1.6), of the OxfordAQA International AS and A-level Geography (9635) specification, Version 3.2. It is Section A of Unit 3: Physical geography 2, a 1 hour 30 minute written exam in which you answer all questions in Section A (40 marks) and all questions in Section B (40 marks). Unit 3 is one of the units taken for the full International A-level, and the specification gives it 20% of the A-level.

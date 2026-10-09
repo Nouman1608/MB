@@ -11,12 +11,11 @@ syllabusSeries: "2025-2027"
 order: 3
 description: "How Cambridge IGCSE Sociology 0495's two papers use different compulsory/optional question structures, and a worked concept-application routine."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-09
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 Cambridge IGCSE Sociology (0495) is a linear, not-tiered qualification of two equally weighted written

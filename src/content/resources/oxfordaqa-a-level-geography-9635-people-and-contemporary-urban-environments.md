@@ -19,12 +19,11 @@ syllabusTopics:
     subtopic: "urban-environments-9635"
 description: "Study guide to OxfordAQA 9635 section 3.4.2: urbanisation, urban forms, urban climate, waste, health, sustainability and two contrasting case studies."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers section 3.4.2, People and contemporary urban environments, of the OxfordAQA International AS and A-level Geography (9635) specification, Version 3.2. The specification places this content in Unit 4: Human geography 2, Section B. Unit 4 is a 1 hour 30 minute written exam with two sections of 40 marks each, and you answer all questions.

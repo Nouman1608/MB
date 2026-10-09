@@ -18,12 +18,11 @@ syllabusTopics:
     subtopic: "industry-0460"
 description: "Study guide for Cambridge IGCSE Geography 0460 section 3.3: industrial systems, industry types, location and siting factors, and two case studies."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers section 3.3 Industry of the Cambridge IGCSE Geography (0460) syllabus for examination in 2025 and 2026, Version 2 (published November 2022). Section 3.3 sits in Theme 3: Economic development. Theme content is assessed in Paper 1 Geographical Themes (1 hour 45 minutes, 75 marks), where you answer three 25-mark questions, one from each section. Paper 2 Geographical Skills can also set knowledge questions based on the three themes, so industry data may appear there too.

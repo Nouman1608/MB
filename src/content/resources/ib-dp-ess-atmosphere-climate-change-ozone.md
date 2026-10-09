@@ -27,6 +27,9 @@ description: "Study guide for IB DP ESS Topic 6: the atmosphere, greenhouse effe
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This study guide teaches Topic 6 of IB Diploma Programme Environmental Systems and Societies (ESS), aligned to the International Baccalaureate *Diploma Programme Subject Brief: Environmental systems and societies*, first assessment 2026. It covers syllabus sections 6.1–6.4, studied at both SL and HL. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.

@@ -19,12 +19,11 @@ syllabusTopics:
     subtopic: "urban-environments-9635"
 description: "Condensed OxfordAQA 9635 urban environments notes: key terms, case study facts, must-know distinctions, an essay plan and a quick self-test."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 These are the short-form notes. For full explanations, worked paragraphs and evaluation, read the [People and contemporary urban environments study guide](/resources/oxfordaqa-a-level-geography-9635-people-and-contemporary-urban-environments/) first.

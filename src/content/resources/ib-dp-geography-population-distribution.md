@@ -14,12 +14,11 @@ syllabusTopics:
     topic: "ib-dp-geography-changing-population"
 description: "Why population is unevenly distributed, key demographic vocabulary, and how to read population pyramids and demographic data -- the compulsory Population Distribution core theme of IB Diploma Programme Geography, examined in Paper 2 for every student."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
 publishedDate: 2026-09-06
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers **Population Distribution -- Changing Population**,

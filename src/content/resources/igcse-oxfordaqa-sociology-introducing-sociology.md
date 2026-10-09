@@ -14,12 +14,11 @@ syllabusTopics:
     topic: "paper-1-introducing-sociology-9292"
 description: "A guide to Paper 1 Introducing Sociology for OxfordAQA International GCSE Sociology (9292): families (3.1.1), education including global education (3.1.2) and research methods (3.1.3), with the named sociologists for each."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-08-21
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers **Paper 1 Introducing Sociology**, one of two

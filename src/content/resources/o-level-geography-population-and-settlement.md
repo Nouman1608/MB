@@ -14,12 +14,11 @@ syllabusTopics:
     topic: "theme-1-population-settlement-2217"
 description: "Cambridge O Level Geography 2217 (2026 series), Theme 1: population dynamics, migration, population structure, density and distribution, rural and urban settlement, and urbanisation. Identical three-theme structure to Cambridge IGCSE Geography 0460."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-08-21
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers **Theme 1 Population and Settlement**, for Cambridge

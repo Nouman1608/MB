@@ -19,12 +19,11 @@ syllabusTopics:
     topic: "settlement-dynamics-9696"
 description: "Original exam-style practice questions with full worked answers on population change, migration and settlement dynamics for Cambridge AS & A Level Geography Paper 2 (9696)."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-03
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

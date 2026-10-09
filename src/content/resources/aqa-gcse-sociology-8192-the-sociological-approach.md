@@ -15,12 +15,11 @@ syllabusTopics:
     topic: "the-sociological-approach-8192"
 description: "Study guide to AQA GCSE Sociology 8192 section 3.1: consensus and conflict, Durkheim, Marx and Weber in context, four perspectives and key concepts."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers section 3.1, The sociological approach, of the AQA GCSE Sociology (8192) specification, Version 1.2 (June 2026), for GCSE exams 2019 onwards. Section 3.1 has no sub-sections and is not tied to one paper. Both Paper 1 (The sociology of families and education) and Paper 2 (The sociology of crime and deviance and social stratification) assess "relevant areas of social theory and methodology", and the specification expects you to draw on the whole course in both. Each paper is a 1 hour 45 minute written exam worth 100 marks and 50% of the GCSE.

@@ -280,6 +280,15 @@ const authors = defineCollection({
      * backlog). Left empty for entityType: 'organization' entries.
      */
     subjectsTaught: z.array(z.string()).default([]),
+    /**
+     * D-408 -- subjects this person is the accountable reviewer for without
+     * teaching them at Marlbridge (owner-assigned, e.g. resources-only
+     * subjects such as Geography or Sociology). Kept apart from
+     * subjectsTaught so a profile never says "Teaches" for a subject with no
+     * classes, and teacher lists (subject-teachers.ts) never show them.
+     * validate-review-integrity rule [10] accepts either list.
+     */
+    subjectsReviewed: z.array(z.string()).default([]),
     boardsTaught: z.array(z.string()).default([]),
     qualificationsTaught: z.array(z.string()).default([]),
     /** Years of teaching experience, exactly as publicly stated by the

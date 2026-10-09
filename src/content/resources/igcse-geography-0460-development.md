@@ -18,12 +18,11 @@ syllabusTopics:
     subtopic: "development-0460"
 description: "Cambridge IGCSE Geography 0460 topic 3.1: indicators and HDI, inequality, sectors of employment, globalisation and a Nike TNC case study."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers topic 3.1 Development in Theme 3 (Economic development) of the Cambridge IGCSE Geography (0460) syllabus for examination in 2025 and 2026, Version 2 (published November 2022). The syllabus says Paper 1 (Geographical Themes) combines resource-based tasks and free-response writing requiring place-specific information, and Paper 2 (Geographical Skills) can base knowledge questions on any of the three themes. Your teacher will confirm which section of Paper 1 holds the Theme 3 questions.

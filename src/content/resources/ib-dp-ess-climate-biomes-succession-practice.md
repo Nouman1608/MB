@@ -21,6 +21,9 @@ description: "12 original IB DP ESS questions on climate, biomes, zonation and s
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-27
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

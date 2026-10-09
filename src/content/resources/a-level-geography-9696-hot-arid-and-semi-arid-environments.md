@@ -28,12 +28,11 @@ syllabusTopics:
     subtopic: "sustainable-management-of-hot-arid-and-semi-arid-environments-9696"
 description: "Study guide to Cambridge 9696 Geography topic 10: causes of aridity, desert landforms, soils, vegetation, desertification and a Sahel case study."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers topic 10, Hot arid and semi-arid environments, sections 10.1 to 10.4 of the Cambridge International AS & A Level Geography (9696) syllabus for examination in 2025 and 2026. It is one of four Advanced Physical Geography options assessed in Paper 3 (1 hour 30 minutes, 60 marks). The syllabus says A Level candidates study two of the four physical options; in Paper 3 you answer on two options, and each has one 10-mark structured question and a choice of 20-mark essay questions.

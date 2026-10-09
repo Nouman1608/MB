@@ -18,12 +18,11 @@ syllabusTopics:
     subtopic: "families-and-households-7192"
 description: "Original AQA 7192 Families and Households practice questions with marked answers on diversity, domestic labour, childhood and demographic change."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

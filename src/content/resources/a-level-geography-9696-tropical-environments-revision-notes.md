@@ -28,12 +28,11 @@ syllabusTopics:
     subtopic: "sustainable-management-of-tropical-environments-9696"
 description: "Condensed 9696 Tropical environments notes: key terms, climate controls, granite and karst landforms, Gersmehl cycles, soils, self-test."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 These notes condense the [Tropical environments study guide](/resources/a-level-geography-9696-tropical-environments/); go back to it for full explanations and the worked paragraph.

@@ -28,12 +28,11 @@ syllabusTopics:
     subtopic: "sustainable-management-of-tropical-environments-9696"
 description: "Study guide for Cambridge 9696 Tropical environments: ITCZ and monsoon climates, granite and karst landforms, rainforest and savanna ecosystems."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers topic 7, Tropical environments (sections 7.1 to 7.4), of the Cambridge International AS & A Level Geography (9696) syllabus for examination in 2025 and 2026. It is one of four Advanced Physical Geography Options assessed in Paper 3, which is an A Level paper. On Paper 3 you answer questions on two of the four options, so you study this topic only if your school has chosen it.

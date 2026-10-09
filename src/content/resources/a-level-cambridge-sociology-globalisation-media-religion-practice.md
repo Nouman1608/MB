@@ -15,12 +15,11 @@ syllabusTopics:
     topic: "paper-4-globalisation-media-religion-9699"
 description: "Original exam-style practice questions with full worked answers on globalisation, media and religion, and how to link substantive content back to research methods, for Cambridge International A Level Sociology (9699) Paper 4."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-06
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

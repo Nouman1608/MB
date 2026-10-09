@@ -14,12 +14,11 @@ syllabusTopics:
     topic: "ib-dp-environmental-systems-and-societies-foundation"
 description: "Original practice questions with full worked answers on environmental value systems, systems thinking and sustainability, for Topic 1 of IB Diploma Programme Environmental Systems and Societies."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
 publishedDate: 2026-09-06
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

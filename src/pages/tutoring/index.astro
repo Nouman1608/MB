@@ -23,7 +23,7 @@ import { routes } from '../../utils/urls/routes';
 // excluded from this teacher grid.
 // Pinned leads first (D-151), then the existing alphabetical order.
 const teachers = sortPinnedFirst(
-  (await getAuthors()).filter((a) => a.data.entityType === 'person'),
+  (await getAuthors()).filter((a) => a.data.entityType === 'person' && a.data.subjectsTaught.length > 0),
   (a, b) => a.data.name.localeCompare(b.data.name),
 );
 

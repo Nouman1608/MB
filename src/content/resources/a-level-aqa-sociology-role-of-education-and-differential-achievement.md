@@ -15,12 +15,11 @@ syllabusTopics:
     subtopic: "education-7192"
 description: "Sociological explanations of the role and functions of education, and differential educational achievement by class, gender and ethnicity -- two of the four content strands of 3.1.1 Education, AQA A-Level Sociology (7192)."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-02
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers two of the four content strands within **3.1.1

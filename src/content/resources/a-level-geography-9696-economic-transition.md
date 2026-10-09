@@ -28,12 +28,11 @@ syllabusTopics:
     subtopic: "the-management-of-regional-development-9696"
 description: "Study guide to Cambridge 9696 Geography Topic 14: sectors and inequality, TNCs and the NIDL, NICs, core-periphery and regional policy in China."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers Topic 14, Economic transition, sections 14.1 to 14.4, of the Cambridge International AS & A Level Geography (9696) syllabus for examination in 2025 and 2026. Economic transition is one of four Advanced Human Geography Options assessed in Paper 4, which is an A Level paper (25% of the A Level). You study two of the four options, and the syllabus asks for one TNC case study (14.2) and one country's regional development policy (14.4).

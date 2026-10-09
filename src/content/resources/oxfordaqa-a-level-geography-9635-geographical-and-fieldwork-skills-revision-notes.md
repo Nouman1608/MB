@@ -22,12 +22,11 @@ syllabusTopics:
     subtopic: "fieldwork-skills-9635"
 description: "Condensed revision notes for OxfordAQA 9635 Unit 5: skills checklist, statistics formulas, sampling, fieldwork stages and a quick self-test with answers."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 For full explanations and worked calculations, read the [study guide](/resources/oxfordaqa-a-level-geography-9635-geographical-and-fieldwork-skills/) first.

@@ -18,12 +18,11 @@ syllabusTopics:
     subtopic: "tourism-0460"
 description: "Cambridge IGCSE Geography 0460 Topic 3.4 Tourism: why tourism grows, its benefits and costs, sustainable management and a Maldives case study."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers Topic 3.4 Tourism from the Cambridge IGCSE Geography (0460) syllabus for examination in 2025 and 2026, Version 2 (published November 2022). Topic 3.4 sits in Theme 3, Economic development. Its content is examined in Paper 1 Geographical Themes (1 hour 45 minutes, 75 marks), where you answer three questions, one from each section, and the syllabus says Paper 2 knowledge questions are also based on topics from the three themes. The syllabus also lists tourism among the topics where questionnaires can be used, which matters for Paper 4 Alternative to Coursework.

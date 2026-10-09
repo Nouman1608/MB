@@ -15,12 +15,11 @@ syllabusTopics:
     topic: "unit-1-physical-geography-1-9635"
 description: "Living with hazards (hazard perception, tectonic and storm hazards) and the coastal systems and landscapes option -- an overview of Unit 1 for OxfordAQA International AS and A-Level Geography (9635)."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-08-21
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers **Unit 1 Physical Geography 1: Living with

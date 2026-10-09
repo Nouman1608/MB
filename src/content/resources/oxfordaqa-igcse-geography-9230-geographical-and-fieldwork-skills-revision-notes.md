@@ -15,12 +15,11 @@ syllabusTopics:
     topic: "geographical-fieldwork-skills-9230"
 description: "Condensed 9230 skills notes: grid references, gradient, graph choice, averages, percentiles, sampling and the six enquiry strands, with a quick self-test."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 For full explanations and worked examples, read the [study guide for this unit](/resources/oxfordaqa-igcse-geography-9230-geographical-and-fieldwork-skills/) first.

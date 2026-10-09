@@ -28,12 +28,11 @@ syllabusTopics:
     subtopic: "the-management-of-a-degraded-environment-9696"
 description: "Condensed revision notes for Cambridge 9696 Geography topic 12, Environmental management: key terms, case studies, an essay plan and a self-test."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 For full explanations, read the [Environmental management study guide](/resources/a-level-geography-9696-environmental-management/) first.

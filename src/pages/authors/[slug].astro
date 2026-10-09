@@ -60,6 +60,9 @@ const videos = await videosForTeacher(author.id);
  * they are a record of where a person worked, nothing more.
  */
 const isPerson = d.entityType === 'person';
+// D-408 -- a reviewer-only profile (no subject taught at Marlbridge) is not presented as a teacher:
+// no "Meet the teacher", no levels claim and no trial booking with them.
+const isTeacher = isPerson && d.subjectsTaught.length > 0;
 // D-333 (owner answers, 25 Sep 2026): boards per teacher, and which teachers take IB
 // students. boardsTaught holds board slugs from src/data/academic/boards.ts; an unknown
 // slug fails the build rather than printing a wrong board.
@@ -87,9 +90,11 @@ const teachesOneToOneOnly = d.boardsTaught.some((board) =>
 );
 const teachingFacts = [
   d.subjectsTaught.length > 0 && { label: 'Teaches', value: d.subjectsTaught.join(' · ') },
+  // D-408 -- subjects reviewed but not taught at Marlbridge.
+  d.subjectsReviewed.length > 0 && { label: 'Reviews study resources in', value: d.subjectsReviewed.join(' · ') },
   // D-331 (owner decision, 25 Sep 2026): every Marlbridge teacher teaches all levels.
   // A per-teacher list, if one is ever recorded, still wins.
-  { label: 'Levels', value: d.qualificationsTaught.length > 0 ? d.qualificationsTaught.join(' · ') : ALL_LEVELS_LABEL },
+  isTeacher && { label: 'Levels', value: d.qualificationsTaught.length > 0 ? d.qualificationsTaught.join(' · ') : ALL_LEVELS_LABEL },
   boardNames.length > 0 && { label: 'Exam boards', value: boardNames.join(' · ') },
   d.yearsExperience !== undefined && { label: 'Teaching experience', value: `${d.yearsExperience} years` },
   d.previousSchools.length > 0 && { label: 'Previously taught at', value: d.previousSchools.join(', ') },
@@ -108,11 +113,11 @@ const jsonLd = [
   title={isPerson && d.role ? `${d.name}, ${d.role}` : d.name}
   description={`${d.name} — ${d.role} at Marlbridge. ${d.bio}`.slice(0, 160)}
   path={path}
-  eyebrow={isPerson ? 'Meet the teacher' : 'Author'}
+  eyebrow={isTeacher ? 'Meet the teacher' : isPerson ? 'Reviewer' : 'Author'}
   heading={d.name}
   lead={d.role}
   headingFont="sans"
-  breadcrumbs={isPerson
+  breadcrumbs={isTeacher
     ? [
         { label: 'Home', href: routes.home },
         { label: 'Tutoring', href: routes.tutoring },
@@ -187,7 +192,7 @@ const jsonLd = [
         </section>
       )}
 
-      {isPerson && (
+      {isTeacher && (
         <section aria-labelledby="teacher-trial" class="mt-8 border-t border-rule pt-8">
           <h2 id="teacher-trial" class="m-0 text-[19px] font-semibold tracking-[-0.015em] text-navy-800">Study with {d.name.split(' ')[0]}</h2>
           <p class="m-0 mt-3 max-w-[62ch] text-[16.5px] leading-[1.65] text-ink-mute">

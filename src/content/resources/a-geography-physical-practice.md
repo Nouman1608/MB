@@ -19,12 +19,11 @@ syllabusTopics:
     topic: "rocks-and-weathering-9696"
 description: "Original exam-style practice questions with full worked answers on hydrology and fluvial geomorphology, atmosphere and weather (diurnal energy budgets and urban climates), and plate tectonics."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-08-22
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

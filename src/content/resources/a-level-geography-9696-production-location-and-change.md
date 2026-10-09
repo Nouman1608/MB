@@ -28,12 +28,11 @@ syllabusTopics:
     subtopic: "the-management-of-change-in-manufacturing-industry-9696"
 description: "Study guide to Cambridge 9696 Geography Topic 11: farm systems, agricultural change in India, industrial location, EPZs, the informal sector and Malaysia."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers Topic 11, Production, location and change, from the Cambridge International AS & A Level Geography (9696) syllabus for examination in 2025 and 2026. It teaches every point in sections 11.1 to 11.4. The topic is one of four Advanced Human Geography Options assessed in Paper 4 (1 hour 30 minutes, 60 marks, 25% of the A Level). You must study two of the four options, and for each option you answer one structured question (10 marks) and one essay from a choice of two (20 marks each).

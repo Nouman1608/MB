@@ -14,12 +14,11 @@ syllabusTopics:
     topic: "theme-2-natural-environment-2217"
 description: "Cambridge O Level Geography 2217 (2026 series), Theme 2: earthquakes and volcanoes, rivers, coasts, weather, and climate and natural vegetation. Identical three-theme structure to Cambridge IGCSE Geography 0460."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-01
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers **Theme 2 The Natural Environment**, the second of

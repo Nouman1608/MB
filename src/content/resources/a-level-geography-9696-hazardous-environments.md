@@ -28,12 +28,11 @@ syllabusTopics:
     subtopic: "sustainable-management-in-hazardous-environments-9696"
 description: "Study guide to 9696 Hazardous environments: tectonic, mass movement and storm hazards, prediction and risk, with real case studies and model paragraphs."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers topic 9, Hazardous environments (sections 9.1-9.4), of the Cambridge International AS & A Level Geography (9696) syllabus for examination in 2025 and 2026. Hazardous environments is one of four Advanced Physical Geography Options assessed in Paper 3. A Level candidates study two of the four physical options.

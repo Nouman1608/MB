@@ -14,12 +14,11 @@ syllabusTopics:
     topic: "paper-2-family-education-crime-2251"
 description: "Original exam-style practice questions with full worked answers on family, education and crime, deviance and social control for Cambridge O Level Sociology Paper 2 (2251)."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-03
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

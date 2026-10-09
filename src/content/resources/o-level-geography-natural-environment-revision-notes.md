@@ -14,12 +14,11 @@ syllabusTopics:
     topic: "theme-2-natural-environment-2217"
 description: "Condensed revision notes on earthquakes and volcanoes, rivers, coasts, weather, and climate and natural vegetation for Cambridge O Level Geography Theme 2 (2217)."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-03
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 Related: [Theme 2 study guide](/resources/o-level-geography-natural-environment/)

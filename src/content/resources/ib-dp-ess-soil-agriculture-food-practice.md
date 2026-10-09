@@ -19,12 +19,11 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-5-2"
 description: "11 original IB DP ESS questions on soil systems, erosion data, farming energy ratios, food waste and sustainable agriculture, with marked answers."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
 publishedDate: 2026-09-27
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

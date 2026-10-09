@@ -18,12 +18,11 @@ syllabusTopics:
     subtopic: "stratification-and-differentiation-7192"
 description: "Original practice questions with marked answers for AQA A-level Sociology 7192 Stratification: class theory, life chances, measurement and mobility data."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

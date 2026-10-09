@@ -15,12 +15,11 @@ syllabusTopics:
     subtopic: "weather-0460"
 description: "The Stevenson Screen, named weather instruments and what each measures, calculations from weather data, and interpreting weather and climate graphs, for Cambridge IGCSE Geography 0460, section 2.4."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-02
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers **2.4, Weather**, from Theme 2, The Natural

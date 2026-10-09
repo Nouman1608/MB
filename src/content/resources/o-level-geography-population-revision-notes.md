@@ -14,12 +14,11 @@ syllabusTopics:
     topic: "theme-1-population-settlement-2217"
 description: "Condensed recall notes on population change, the DTM, migration, settlement hierarchy and urbanisation for Cambridge O Level Geography 2217."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-08-22
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 Condensed for the final weeks. For the full explanation, use the

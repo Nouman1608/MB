@@ -15,12 +15,11 @@ syllabusTopics:
     topic: "unit-2-exploring-sociology-9690"
 description: "Socialisation and social control (3.1.2), and research methods and theory (3.1.3) -- the content of Unit 2 for OxfordAQA International A-Level Sociology (9690), the second and final unit of the International AS."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-02
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers **Unit 2 Exploring Sociology**, the second of two

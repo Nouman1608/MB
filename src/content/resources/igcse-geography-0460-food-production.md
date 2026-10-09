@@ -18,12 +18,11 @@ syllabusTopics:
     subtopic: "food-production-0460"
 description: "Study guide to Cambridge IGCSE Geography 0460 section 3.2: farming systems, farm types, inputs, food shortages and two real case studies."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers section 3.2 Food production of the Cambridge IGCSE Geography (0460) syllabus for examination in 2025 and 2026, Version 2 (published November 2022). Section 3.2 sits in Theme 3: Economic development. It is assessed mainly in Paper 1 Geographical Themes, where the syllabus says questions combine resource-based tasks with "free-response writing requiring place-specific information". Paper 2 Geographical Skills can also set knowledge questions based on topics from the three themes, so you need to read farming data as well as write about it.

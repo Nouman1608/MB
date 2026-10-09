@@ -14,12 +14,11 @@ syllabusTopics:
     topic: "paper-2-family-education-crime-2251"
 description: "A guide to Paper 2 of Cambridge O Level Sociology 2251, 2025-2027 series: the sub-topics of Family, Education, and Crime, deviance and social control, the functionalist, Marxist and feminist views the syllabus names, and how to revise and answer on the two topics candidates choose."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-01
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide sets out **Paper 2 Family, Education and Crime**, for

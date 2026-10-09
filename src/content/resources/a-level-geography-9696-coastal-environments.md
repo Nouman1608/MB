@@ -28,12 +28,11 @@ syllabusTopics:
     subtopic: "sustainable-management-of-coasts-9696"
 description: "Study guide to Cambridge 9696 Coastal environments 8.1-8.4: waves, erosion, landforms, sea level change, coral reefs and a managed coast case study."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers Topic 8, Coastal environments, of the Cambridge International AS & A Level Geography (9696) syllabus for examination in 2025 and 2026, sections 8.1 to 8.4. Coastal environments is one of the four Advanced Physical Geography Options assessed in Paper 3 (1 hour 30 minutes, 60 marks, 25% of the A Level). Candidates answer questions on two of the four options; for each option they answer a 10-mark structured question and choose one of two 20-mark essays.

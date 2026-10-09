@@ -15,12 +15,11 @@ syllabusTopics:
     subtopic: "sociological-research-methods-8192"
 description: "Research design, data types, and practical and ethical issues in sociological investigation -- Section 3.7, examined across both papers, distinct from the site's existing content-focused guides to Families, Education, Crime and Social Stratification."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-09
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 This guide covers **Section 3.7: Sociological Research Methods** in AQA GCSE Sociology (8192). Unlike

@@ -22,12 +22,11 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-8-3"
 description: "Condensed IB DP ESS Topic 8 revision notes: demographic formulas, DTM, urban systems, smog and inversions, plus a quick self-test with answers."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
 publishedDate: 2026-09-27
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 For full explanations and worked examples, start with the [Human populations and urban systems study guide](/resources/ib-dp-ess-human-populations-urban-systems/). These notes are for fast recall in the final weeks.

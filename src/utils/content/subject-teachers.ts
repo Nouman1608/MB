@@ -39,7 +39,7 @@ export async function teachersForSubjectTitle(
   boards: readonly string[] = [],
 ): Promise<CollectionEntry<'authors'>[]> {
   if (!subjectTitle) return [];
-  cache ??= (await getAuthors()).filter((a) => a.data.entityType === 'person');
+  cache ??= (await getAuthors()).filter((a) => a.data.entityType === 'person' && a.data.subjectsTaught.length > 0);
   return cache
     .filter((a) => teacherMatchesSubject(a.data.subjectsTaught, subjectTitle))
     .filter((a) => boards.length === 0 || a.data.boardsTaught.some((b) => boards.includes(b)))

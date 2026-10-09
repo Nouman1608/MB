@@ -28,12 +28,11 @@ syllabusTopics:
     subtopic: "the-management-of-regional-development-9696"
 description: "Condensed notes for Cambridge 9696 Economic transition: key terms, models at a glance, case study cards, an essay plan and a quick self-test."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 For full explanations and worked paragraphs, use the [Economic transition study guide](/resources/a-level-geography-9696-economic-transition/).

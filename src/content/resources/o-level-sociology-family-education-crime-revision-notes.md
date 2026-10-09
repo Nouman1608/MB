@@ -14,12 +14,11 @@ syllabusTopics:
     topic: "paper-2-family-education-crime-2251"
 description: "Condensed recall notes on family structures and theory, the roles of education, and crime, deviance and social control for Cambridge O Level Sociology (2251), 2025-2027 series."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-02
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 Condensed recall notes for **Paper 2 Family, Education and Crime**,

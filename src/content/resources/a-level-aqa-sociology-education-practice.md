@@ -15,12 +15,11 @@ syllabusTopics:
     subtopic: "education-7192"
 description: "Original exam-style practice questions with full worked answers on functionalist and Marxist views of education, and class, gender and ethnicity explanations for differential achievement, for AQA A-Level Sociology (7192)."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-06
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

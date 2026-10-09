@@ -15,12 +15,11 @@ syllabusTopics:
     topic: "unit-2-exploring-sociology-9690"
 description: "An original 60-mark Unit 2 practice paper for OxfordAQA International A-level Sociology (9690): Section A Socialisation and social control (40 marks) and Section B Research methods and theory (one 20-mark extended response), with mark schemes."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-05
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions;

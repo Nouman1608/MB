@@ -27,12 +27,11 @@ syllabusTopics:
     subtopic: "processes-within-schools-8192"
 description: "Condensed AQA GCSE Sociology 8192 Education notes: key terms, the six named writers at a glance, must-know distinctions, an essay plan and a self-test."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-29
 featured: false
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 For full explanations and worked paragraphs, read the [Education study guide](/resources/aqa-gcse-sociology-8192-education/) first.

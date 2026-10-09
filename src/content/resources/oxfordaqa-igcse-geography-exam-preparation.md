@@ -11,12 +11,11 @@ syllabusSeries: "First teaching 2018, first examined 2020"
 order: 3
 description: "How OxfordAQA International GCSE Geography 9230's three papers split 36/36/28, why Paper 3's fieldwork and skills content is examinable without a fieldtrip in the room, and a worked data-response routine."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
 publishedDate: 2026-09-09
 featured: false
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 ---
 
 OxfordAQA International GCSE Geography (9230) is a linear, untiered qualification with no coursework,
