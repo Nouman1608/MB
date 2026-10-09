@@ -31,6 +31,7 @@ export const TRIAL_TEACHERS: Readonly<Record<string, string>> = {
   'jawad-tariq': 'Jawad Tariq',
   'lubna-waseem': 'Lubna Waseem',
   'muhammad-ghazali-siddiqui': 'Muhammad Ghazali Siddiqui',
+  'naqiya-yousaf': 'Naqiya Yousaf',
   'nouman-ahmed': 'Nouman Ahmed',
   'saad-zai': 'Saad Zai',
   'sajawal-zahid': 'Sajawal Zahid',

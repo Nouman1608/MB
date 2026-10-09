@@ -1,18 +1,17 @@
 ---
 name: "Naqiya Yousaf"
-role: "Sociology Reviewer"
+role: "Sociology Teacher"
 bio: >-
-  Naqiya Yousaf reviews the Sociology study resources on Marlbridge. Marlbridge
-  does not currently offer Sociology classes.
+  Naqiya Yousaf teaches Sociology at Marlbridge and reviews its Sociology study
+  resources.
 credentials: []
 entityType: person
-subjectsTaught: []
-subjectsReviewed: ["Sociology"]
+subjectsTaught: ["Sociology"]
 boardsTaught: ["cambridge", "aqa", "oxfordaqa"]
 qualificationsTaught: []
 previousSchools: []
 isReviewer: true
-sourceNote: "Sociology review assigned by Nouman Ahmed, owner, in writing, 9 October 2026."
+sourceNote: "Confirmed in writing by Nouman Ahmed, owner, 9 October 2026 (Sociology teacher and reviewer)."
 verifiedOn: 2026-10-09
 publicationState: published
 ---

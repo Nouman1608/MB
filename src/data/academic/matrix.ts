@@ -752,9 +752,11 @@ const BASE_MATRIX: readonly Combination[] = [
  * Societies added in D-273): no classes are currently offered in these
  * subjects on any board or level. Their hubs, checklists and free
  * resources stay published (same resources-only state as D-270).
+ * D-409 (owner, 9 Oct 2026): Sociology classes now offered, taught by
+ * Naqiya Yousaf, so 'sociology' is no longer in this set.
  */
 const SUBJECTS_WITHOUT_CLASSES: ReadonlySet<string> = new Set([
-  'psychology', 'sociology', 'geography', 'global-perspectives',
+  'psychology', 'geography', 'global-perspectives',
   'myp-design', 'myp-individuals-and-societies',
 ]);
 
