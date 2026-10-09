@@ -15652,3 +15652,7 @@ Three more problems turned up:
 - **What changed.** `sociology` removed from `SUBJECTS_WITHOUT_CLASSES` (`src/data/academic/matrix.ts`), so every published Sociology combination (Cambridge O Level 2251, IGCSE 0495 and AS & A Level 9699; AQA GCSE 8192 and A-level 7192; OxfordAQA International GCSE 9292 and AS and A-level 9690) is taught: trial links, tuition prompts, teacher lists and Course data now apply. `src/content/subjects/sociology.md` says Sociology is taught (`marlbridgeTeaches: "teaching"`); the international-tutoring page no longer names Sociology as resources-only.
 - **Profile.** `naqiya-yousaf` is now "Sociology Teacher" with `subjectsTaught: ["Sociology"]` (boards Cambridge, AQA, OxfordAQA, as on the Sociology pages), so she appears in teacher lists and can be requested on the trial form (`TRIAL_TEACHERS`). She stays the reviewer of the 114 Sociology pages (D-408).
 - **Tests (9 Oct 2026).** `validate-review-integrity`, `validate-commercial-claims`, `astro check`, `npm run build`, `audit:all`, `test:api` (88), `test:tools` (122) and `check:review-ledger` passed.
+
+## D-410 - Naqiya Yousaf profile details (9 Oct 2026)
+
+- Owner, 9 Oct 2026: 9 years' teaching experience, previously Beaconhouse, now Learners Academy, teaches all boards. `naqiya-yousaf` updated (`yearsExperience: 9`, `previousSchools: ["Beaconhouse"]`, all six boards, bio in the same form as the other teacher profiles). Profile picture to follow.
