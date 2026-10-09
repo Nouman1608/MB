@@ -2,6 +2,9 @@
 title: "Group classes or one-to-one tuition: which suits your child?"
 excerpt: "Small group classes and one-to-one lessons suit different students and cost different amounts. How the two formats work at Marlbridge, and how to choose."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 publishedDate: 2026-10-08
 category: "teaching"
 subjects: []

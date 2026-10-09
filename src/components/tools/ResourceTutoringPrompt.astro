@@ -24,7 +24,7 @@
  * never sent anywhere; without JavaScript, or for any other zone, the static
  * order and the full country list stay as they are.
  */
-import { PRICING_TERMS } from '../../data/pricing';
+import { PRICING_TERMS, REGION_PRICING, formatFee } from '../../data/pricing';
 
 interface Props {
   /** Course or subject the page teaches, e.g. "Cambridge IGCSE Chemistry (0620)". */
@@ -34,6 +34,12 @@ interface Props {
 }
 const { label, trialHref, formatPhrase } = Astro.props;
 
+// D-405 -- the UK line names GCSE/A Level, evening UK times and the set GBP group fee.
+const ukRow = REGION_PRICING.find((r) => r.region === 'United Kingdom');
+const ukLocal = ukRow
+  ? `For UK students: live online GCSE and A Level classes after school and in the evening UK time, with group classes from ${ukRow.symbol}${formatFee(ukRow.igcse, ukRow.currency)} a month per subject.`
+  : 'For families in the UK: live online classes, fees and class times in UK time.';
+
 const whatsappHref = `https://wa.me/923239149918?text=${encodeURIComponent(`Hi, I'd like to ask about ${label} classes.`)}`;
 
 const MARKET_LINKS = [
@@ -42,7 +48,7 @@ const MARKET_LINKS = [
   { slug: 'qatar', href: '/qatar/', name: 'Qatar', local: 'For families in Qatar: live online classes, fees and class times in Qatar time.' },
   { slug: 'gulf', href: '/gulf/', name: 'Saudi Arabia, Kuwait, Bahrain and Oman', local: 'For families in the Gulf: live online classes, fees and class times in your time zone.' },
   { slug: 'malaysia', href: '/malaysia/', name: 'Malaysia', local: 'For families in Malaysia: live online classes, fees and class times in Malaysia time.' },
-  { slug: 'uk', href: '/uk/', name: 'UK', local: 'For families in the UK: live online classes, fees and class times in UK time.' },
+  { slug: 'uk', href: '/uk/', name: 'UK', local: ukLocal },
 ] as const;
 ---
 <aside data-tutoring-prompt aria-labelledby="tutoring-prompt-heading" class="mt-12 rounded-sm border border-teal-500 bg-ivory p-[clamp(20px,2.4vw,28px)]">

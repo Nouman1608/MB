@@ -535,6 +535,40 @@ if (primaryAssessment) {
     });
   }
 }
+/**
+ * D-405 (9 Oct 2026) -- three more FAQs a searcher or AI assistant asks
+ * about a course, built only from data this page already renders: the
+ * current syllabus topics (the printable checklist), whether classes are
+ * offered (offersClasses), and the published resources. Search Console
+ * showed the most-searched hubs at positions 8-12; question-and-answer
+ * text that matches those searches, and the FAQPage node built from it,
+ * is the most quotable part of a page. Hubs with a tuition section keep
+ * their own tuition FAQs instead of the tutor question.
+ */
+const courseName = `${heading}${syllabus && hasRealCode ? ` (${syllabus.code})` : ''}`;
+if (checklistVersion && checklistVersion.topics.length > 0) {
+  const topicNames = checklistVersion.topics.map((t) => t.name);
+  faqs.push({
+    question: `What topics does ${courseName} cover?`,
+    answer: `${topicNames.length} topics in the current syllabus: ${topicNames.join('; ')}. The printable topic checklist lists every topic${checklistVersion.topics.some((t) => t.subtopics.length > 0) ? ' and subtopic' : ''} on one page.`,
+  });
+}
+if (!tuitionPage) {
+  const taughtHere = offersClasses(c);
+  const oneToOneHere = c.boardSlug === 'ib' || isOneToOneOnlyCourse(c.boardSlug, c.subjectSlug);
+  faqs.push({
+    question: `Can I get a tutor for ${courseName}?`,
+    answer: taughtHere
+      ? `Yes. Marlbridge teaches ${courseName} live online${oneToOneHere ? ', one-to-one only' : ', one-to-one or in small groups'}, taught by a named subject teacher from its academy in Lahore, Pakistan. The first trial class is free.`
+      : `Not at the moment. Marlbridge publishes free study resources for ${courseName} but is not offering classes in it.`,
+  });
+}
+if (resources.length > 0 && presentResourceTypes.length > 0) {
+  faqs.push({
+    question: `Are there free ${courseName} revision notes and practice questions?`,
+    answer: `Yes. Marlbridge has published ${resources.length} free resource${resources.length === 1 ? '' : 's'} for this course (${presentResourceTypes.join(', ')}), free to read with no sign-up.`,
+  });
+}
 // D-286: tuition FAQs join the same list, so the page emits one FAQPage
 // node that matches everything visible.
 const tuitionFaqList = tuitionPage ? tuitionFaqs(tuitionPage, `${heading}${syllabus ? ` (${syllabus.code})` : ''}`) : [];
@@ -851,7 +885,7 @@ const jsonLd = [
 
       {faqs.length > 0 && (
         <div class="mt-[clamp(48px,6vw,80px)] border-t border-rule pt-[clamp(32px,4vw,56px)]">
-          <h2 class="m-0 mb-2 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Assessment FAQs</h2>
+          <h2 class="m-0 mb-2 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Questions about this course</h2>
           <FAQ items={faqs} />
         </div>
       )}

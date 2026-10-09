@@ -2,6 +2,9 @@
 title: "How online IGCSE and A Level tuition works from the UAE"
 excerpt: "What families in Dubai, Abu Dhabi and Sharjah should know before booking online tuition from Lahore: boards, class times, fees, the free trial and what is not taught."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 publishedDate: 2026-10-08
 category: "teaching"
 subjects: []

@@ -24,7 +24,8 @@ import {
   PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee, INDICATIVE_NOTE, ibConversionFor,
 } from '../../data/pricing';
 import { faqNode } from '../../utils/schema/faq';
-import { hubIsTaught, RESOURCES_ONLY_SUFFIX } from '../../data/markets';
+import { hubIsTaught, RESOURCES_ONLY_SUFFIX, tutorCoursesFor } from '../../data/markets';
+import TutorBySubject from '../../components/sections/TutorBySubject.astro';
 
 const path = '/uk/';
 
@@ -91,10 +92,20 @@ const faqs = [
 ];
 
 const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
+
+/**
+ * D-405 (9 Oct 2026) -- the UK is the largest search audience (GA4, 6 Sep-
+ * 7 Oct: 539 organic sessions, the most of any country) but produced one
+ * enquiry. UK visitors land on AQA, OCR and Edexcel pages. The title now
+ * says what a UK family searches for and the real starting price; a
+ * "tutors by subject" list puts GCSE and A Level courses first.
+ */
+const ukTitle = `Online GCSE & A Level Tutors in the UK, from ${uk.symbol}${formatFee(uk.igcse, uk.currency)} a Month`;
+const tutorCourses = tutorCoursesFor(['aqa', 'edexcel', 'ocr', 'cambridge'], 14, 2, ['gcse', 'a-level', 'as-level', 'igcse', 'o-level', 'ib-dp', 'ib-myp']);
 ---
 <PageLayout
-  title="Marlbridge in the UK — Online GCSE & A Level Tuition, Pricing"
-  description="Online GCSE, IGCSE and A Level tuition for students in the UK — AQA, OCR, Edexcel and Cambridge, taught live by named specialists. GBP pricing, UK time-zone guidance, first class free."
+  title={ukTitle}
+  description={`Live online GCSE and A Level tutors for UK students: AQA, OCR, Edexcel and Cambridge, after-school and evening classes in UK time, group classes from ${uk.symbol}${formatFee(uk.igcse, uk.currency)} a month per subject. First class free.`}
   path={path}
   eyebrow="United Kingdom"
   heading="Marlbridge in the UK"
@@ -136,6 +147,12 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
       </p>
     </Container>
   </Section>
+
+  <TutorBySubject
+    heading="GCSE and A Level tutors by subject"
+    intro="Courses taught live online for UK students, after school and in the evening UK time. Each course page names the specification code and lists the topics; the free trial books a first class with the course already filled in. OCR courses are one-to-one only."
+    courses={tutorCourses}
+  />
 
   <Section surface="ivory" border>
     <Container>

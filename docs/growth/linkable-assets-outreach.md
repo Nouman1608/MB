@@ -76,3 +76,6 @@ with search-engine guidelines.
 The next concrete step is the owner (or a session with real contact-research
 tooling — e.g. a connected CRM/enrichment MCP, none available this session)
 populating the prospect table with real, qualified contacts.
+
+**Update, 9 Oct 2026 (D-405):** a first populated target list with message
+templates is in `docs/growth/outreach-plan-2026-10.md`.

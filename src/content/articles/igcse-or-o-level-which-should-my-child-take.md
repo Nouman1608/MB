@@ -2,6 +2,9 @@
 title: "IGCSE or O Level: which should my child take?"
 excerpt: "Cambridge IGCSE and Cambridge O Level sit at the same level and both lead to A Level. The real differences are tiers, grades and a few subjects, and they matter more than the name."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 publishedDate: 2026-10-08
 category: "curriculum-guides"
 subjects: []
