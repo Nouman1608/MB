@@ -2,6 +2,9 @@
 title: "Edexcel IGCSE tutoring in Qatar: what families in Doha should know"
 excerpt: "Many British-curriculum schools in Doha teach Pearson Edexcel International GCSE. Which specifications Marlbridge teaches online, how class times work from Qatar, fees and the free trial."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 publishedDate: 2026-10-09
 category: "teaching"
 subjects: []

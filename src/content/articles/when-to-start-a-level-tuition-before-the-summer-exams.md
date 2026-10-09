@@ -2,6 +2,9 @@
 title: "When to start A Level tuition before the summer exams"
 excerpt: "Starting tuition in October, January or April gives a student very different options. What each starting point can realistically achieve before May and June exams, and how to use the time."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 publishedDate: 2026-10-09
 category: "exam-preparation"
 subjects: []

@@ -2,6 +2,9 @@
 title: "O Level tuition in Lahore: online or in person?"
 excerpt: "Families in Lahore can choose classes at the academy or live online with the same teachers; families elsewhere in Pakistan learn online. How the two compare, and how to decide."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 publishedDate: 2026-10-09
 category: "teaching"
 subjects: []

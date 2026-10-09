@@ -15623,3 +15623,7 @@ Three more problems turned up:
 - **Outreach.** `docs/growth/outreach-plan-2026-10.md`: real, publicly listed targets (student communities, Gulf parent and school directories, Pakistan and Gulf media, schools via public directories), timing hooks and five message templates. No personal contact data.
 - **Results check.** A one-off reminder (`trig_01TvpcR393cLZAqo3YYGUP6U`) fires 27 Oct 2026 04:00 UTC to compare Search Console and GA4 against the 6 Sep-5 Oct baseline for D-403 to D-405.
 - **Tests (9 Oct 2026).** `astro check` 0 errors; `npm run build`, `audit:all` and `test:api` (88) passed.
+
+## D-406 - Review credit for the three D-405 articles (branch `claude/marlbridge-rankings-review-kpug8u`, 9 Oct 2026)
+
+- The owner confirmed on 9 Oct 2026 that Sir Nouman Ahmed (`nouman-ahmed`) reviewed "O Level tuition in Lahore: online or in person?", "Edexcel IGCSE tutoring in Qatar" and "When to start A Level tuition before the summer exams". Each now carries `reviewer`, `reviewStatus: "reviewed"` and `reviewedDate: 2026-10-09`. `validate-review-integrity` and the build pass.
