@@ -15,7 +15,7 @@ faqs:
   - question: "Which exam boards does this follow?"
     answer: "Cambridge International Education, AQA and OxfordAQA."
   - question: "Does Marlbridge teach Sociology?"
-    answer: "Yes, at GCSE, IGCSE, O Level and AS & A Level. Marlbridge teaches this across Cambridge, AQA and OxfordAQA."
+    answer: "Yes, at GCSE, IGCSE, O Level and AS & A Level. Marlbridge teaches this live online across Cambridge, AQA and OxfordAQA."
 ---
 
 The Sociology hub gathers the topics, study guides and practice material for

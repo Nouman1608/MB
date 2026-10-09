@@ -16,7 +16,7 @@ import { SYLLABUS_VERSIONS, topicsFor } from '../../../../data/academic/syllabus
 import { boardBySlug } from '../../../../data/academic/boards';
 import { qualificationBySlug } from '../../../../data/academic/qualifications';
 import { subjectBySlug } from '../../../../data/academic/subjects';
-import { courseSubjectNameOverride } from '../../../../data/academic/matrix';
+import { courseSubjectNameOverride, ONLINE_ONLY_SUBJECTS } from '../../../../data/academic/matrix';
 import { activeOnly, academicHubPath } from '../../../../utils/academic';
 import { recordRtlLang, nameRtlLang } from '../../../../utils/academic/rtl-names';
 import { taughtOnly } from '../../../../utils/academic';
@@ -111,6 +111,7 @@ const promptTrialHref = `/trial/?course=${encodeURIComponent(courseKey)}${oneToO
             label={`${boardName} ${qualificationName} ${subjectName} (${version.syllabusCode})`}
             trialHref={promptTrialHref}
             formatPhrase={promptFormat}
+            onlineOnly={ONLINE_ONLY_SUBJECTS.includes(subject)}
           />
         </div>
       )}

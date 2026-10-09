@@ -31,8 +31,10 @@ interface Props {
   label: string;
   trialHref: string;
   formatPhrase: string;
+  /** D-412 -- the course is taught live online only (no Lahore in-person classes). */
+  onlineOnly?: boolean;
 }
-const { label, trialHref, formatPhrase } = Astro.props;
+const { label, trialHref, formatPhrase, onlineOnly = false } = Astro.props;
 
 // D-405 -- the UK line names GCSE/A Level, evening UK times and the set GBP group fee.
 const ukRow = REGION_PRICING.find((r) => r.region === 'United Kingdom');
@@ -43,7 +45,7 @@ const ukLocal = ukRow
 const whatsappHref = `https://wa.me/923239149918?text=${encodeURIComponent(`Hi, I'd like to ask about ${label} classes.`)}`;
 
 const MARKET_LINKS = [
-  { slug: 'pakistan', href: '/pakistan/', name: 'Pakistan', local: 'In Pakistan, classes are in person at our Lahore academy or live online, with fees in rupees.' },
+  { slug: 'pakistan', href: '/pakistan/', name: 'Pakistan', local: onlineOnly ? 'In Pakistan, this course is taught live online, with fees in rupees.' : 'In Pakistan, classes are in person at our Lahore academy or live online, with fees in rupees.' },
   { slug: 'uae', href: '/uae/', name: 'UAE', local: 'For families in the UAE: live online classes, fees and class times in UAE time.' },
   { slug: 'qatar', href: '/qatar/', name: 'Qatar', local: 'For families in Qatar: live online classes, fees and class times in Qatar time.' },
   { slug: 'gulf', href: '/gulf/', name: 'Saudi Arabia, Kuwait, Bahrain and Oman', local: 'For families in the Gulf: live online classes, fees and class times in your time zone.' },

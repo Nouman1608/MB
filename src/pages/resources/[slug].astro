@@ -17,7 +17,7 @@ import { syllabusPointsFor } from '../../utils/academic/syllabus-points';
 import { PRICING_TERMS, ONE_TO_ONE_ONLY_PRICING, isOneToOneOnlyCourse, formatFee } from '../../data/pricing';
 import { LEVEL_FOR_QUALIFICATION, taughtOnly, activeOnly, academicHubPath } from '../../utils/academic';
 import { matrixSlugsFor } from '../../utils/content/status';
-import { courseSubjectNameOverride } from '../../data/academic/matrix';
+import { courseSubjectNameOverride, ONLINE_ONLY_SUBJECTS } from '../../data/academic/matrix';
 import { teachersForSubjectTitle } from '../../utils/content/subject-teachers';
 import ResourceNextSteps from '../../components/tools/ResourceNextSteps.astro';
 import ResourceTutoringPrompt from '../../components/tools/ResourceTutoringPrompt.astro';
@@ -458,6 +458,7 @@ const jsonLd = [articleNode({
           label={taughtCourseLabel ?? (studyLabel || subject?.data.title || 'this subject')}
           trialHref={courseTrialHref}
           formatPhrase={formatPhrase}
+          onlineOnly={matrixSubjects.some((s) => ONLINE_ONLY_SUBJECTS.includes(s))}
         />
       )}
 

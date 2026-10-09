@@ -38,7 +38,7 @@ const tsx = (file) =>
     { encoding: 'utf8', cwd: process.cwd() },
   );
 
-const { MATRIX } = JSON.parse(tsx('src/data/academic/matrix.ts'));
+const { MATRIX, ONLINE_ONLY_SUBJECTS = [] } = JSON.parse(tsx('src/data/academic/matrix.ts'));
 const { BOARDS } = JSON.parse(tsx('src/data/academic/boards.ts'));
 const { QUALIFICATIONS } = JSON.parse(tsx('src/data/academic/qualifications.ts'));
 
@@ -109,7 +109,9 @@ for (const file of subjectFiles) {
   }
   const levels = levelsMatch ? `Levels: ${levelsMatch[1]}.` : '';
   const status = teachesMatch && teachesMatch[1] === 'teaching'
-    ? 'Taught by Marlbridge (online, and in person in Lahore); free study resources.'
+    ? (ONLINE_ONLY_SUBJECTS.includes(slug)
+      ? 'Taught by Marlbridge (live online only); free study resources.'
+      : 'Taught by Marlbridge (online, and in person in Lahore); free study resources.')
     : 'Free study resources only; Marlbridge does not currently offer classes in this subject.';
   subjectLines.push(`- [${title}](${SITE_URL}/subjects/${slug}/): ${[levels, status].filter(Boolean).join(' ')}`);
 }

@@ -755,6 +755,13 @@ const BASE_MATRIX: readonly Combination[] = [
  * D-409 (owner, 9 Oct 2026): Sociology classes now offered, taught by
  * Naqiya Yousaf, so 'sociology' is no longer in this set.
  */
+/**
+ * D-412 (owner, 9 Oct 2026) -- subjects taught live online only, never in
+ * person at the Lahore academy. Pages that otherwise say "in person in Lahore
+ * or online" (the tuition prompt's Pakistan line, llms.txt) say "online" for these.
+ */
+export const ONLINE_ONLY_SUBJECTS: readonly string[] = ['sociology'];
+
 const SUBJECTS_WITHOUT_CLASSES: ReadonlySet<string> = new Set([
   'psychology', 'geography', 'global-perspectives',
   'myp-design', 'myp-individuals-and-societies',

@@ -2,8 +2,8 @@
 name: "Naqiya Yousaf"
 role: "Sociology Teacher"
 bio: >-
-  Naqiya Yousaf teaches Sociology at Learners Academy, with 9 years of teaching
-  experience. Previously taught at Beaconhouse. She also reviews Marlbridge's
+  Naqiya Yousaf teaches Sociology live online at Learners Academy, with 9 years
+  of teaching experience. Previously taught at Beaconhouse. She also reviews Marlbridge's
   Sociology study resources.
 credentials: []
 entityType: person

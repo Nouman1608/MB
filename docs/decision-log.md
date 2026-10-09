@@ -15660,3 +15660,8 @@ Three more problems turned up:
 ## D-411 - Trial form fields stay as they are (9 Oct 2026)
 
 - Owner, 9 Oct 2026: do not pre-set "Exam board" to "Not sure" or "Group or one-to-one" to "Help me decide". The trial form keeps D-293 (every visible field compulsory, nothing pre-selected unless a link fills it). The D-407 abandonment events will show which fields lose visitors.
+
+## D-412 - Sociology is taught online only (9 Oct 2026)
+
+- Owner, 9 Oct 2026: Naqiya Yousaf teaches online only. New `ONLINE_ONLY_SUBJECTS` (`['sociology']`) in `src/data/academic/matrix.ts`. The tuition prompt on Sociology resource and checklist pages says "In Pakistan, this course is taught live online, with fees in rupees" instead of offering the Lahore academy; llms.txt lists Sociology as "live online only"; the Sociology FAQ and Naqiya's bio say online. Site-wide pages that describe the academy in general are unchanged.
+- **Tests.** `astro check`, `npm run build`, `audit:all`, `test:api` and `validate-commercial-claims` passed.
