@@ -101,7 +101,7 @@ const jsonLd = [faqNode(faqs)].filter(Boolean) as Record<string, unknown>[];
  * "tutors by subject" list puts GCSE and A Level courses first.
  */
 const ukTitle = `Online GCSE & A Level Tutors in the UK, from ${uk.symbol}${formatFee(uk.igcse, uk.currency)} a Month`;
-const tutorCourses = tutorCoursesFor(['aqa', 'edexcel', 'ocr', 'cambridge'], 14, 2, ['gcse', 'a-level', 'as-level', 'igcse', 'o-level', 'ib-dp', 'ib-myp']);
+const tutorCourses = tutorCoursesFor(['aqa', 'edexcel', 'ocr', 'cambridge'], 14, 2, ['gcse', 'a-level', 'as-level', 'igcse', 'o-level', 'ib-dp', 'ib-myp'], ['sociology']);
 ---
 <PageLayout
   title={ukTitle}

@@ -245,24 +245,31 @@ export function tutorCoursesFor(
   limit: number,
   perSubject = 2,
   qualificationOrder: readonly string[] = INTERNATIONAL_QUALIFICATION_ORDER,
+  /**
+   * D-413 -- subjects outside SUBJECT_PRIORITY that a page should still list
+   * (up to perSubject courses each, after the main list), e.g. Sociology on
+   * /uk/, where A Level Sociology searches reach the site.
+   */
+  extraSubjects: readonly string[] = [],
 ): TutorCourse[] {
   const rank = (list: readonly string[], v: string) => {
     const i = list.indexOf(v);
     return i === -1 ? list.length : i;
   };
   const perSubjectCount = new Map<string, number>();
-  return taughtOnly()
-    .filter((c) => boards.includes(c.boardSlug))
-    .sort((a, b) =>
+  const byPriority = (a: ReturnType<typeof taughtOnly>[number], b: ReturnType<typeof taughtOnly>[number]) =>
       rank(SUBJECT_PRIORITY, a.subjectSlug) - rank(SUBJECT_PRIORITY, b.subjectSlug)
       || rank(boards, a.boardSlug) - rank(boards, b.boardSlug)
-      || rank(qualificationOrder, a.qualificationSlug) - rank(qualificationOrder, b.qualificationSlug))
-    .filter((c) => {
-      const n = perSubjectCount.get(c.subjectSlug) ?? 0;
-      perSubjectCount.set(c.subjectSlug, n + 1);
-      return n < perSubject;
-    })
-    .slice(0, limit)
+      || rank(qualificationOrder, a.qualificationSlug) - rank(qualificationOrder, b.qualificationSlug);
+  const capped = (c: ReturnType<typeof taughtOnly>[number]) => {
+    const n = perSubjectCount.get(c.subjectSlug) ?? 0;
+    perSubjectCount.set(c.subjectSlug, n + 1);
+    return n < perSubject;
+  };
+  const onBoards = taughtOnly().filter((c) => boards.includes(c.boardSlug));
+  const main = onBoards.filter((c) => !extraSubjects.includes(c.subjectSlug)).sort(byPriority).filter(capped).slice(0, limit);
+  const extra = onBoards.filter((c) => extraSubjects.includes(c.subjectSlug)).sort(byPriority).filter(capped);
+  return [...main, ...extra]
     .map((c) => {
       const key = `${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`;
       const subject = courseSubjectNameOverride(c.boardSlug, c.qualificationSlug, c.subjectSlug) ?? c.subject;

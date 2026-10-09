@@ -15665,3 +15665,10 @@ Three more problems turned up:
 
 - Owner, 9 Oct 2026: Naqiya Yousaf teaches online only. New `ONLINE_ONLY_SUBJECTS` (`['sociology']`) in `src/data/academic/matrix.ts`. The tuition prompt on Sociology resource and checklist pages says "In Pakistan, this course is taught live online, with fees in rupees" instead of offering the Lahore academy; llms.txt lists Sociology as "live online only"; the Sociology FAQ and Naqiya's bio say online. Site-wide pages that describe the academy in general are unchanged.
 - **Tests.** `astro check`, `npm run build`, `audit:all`, `test:api` and `validate-commercial-claims` passed.
+
+## D-413 - Four parent articles, Sociology on /uk/, Trustpilot requests (9 Oct 2026)
+
+- Owner, 9 Oct 2026 ("do 3, 5 and 6").
+- **Articles (review pending).** `sociology-tuition-online-gcse-igcse-o-level-and-a-level` (all seven taught Sociology specifications, paper outlines from `assessments.ts`, online only per D-412, teacher Naqiya Yousaf), `a-level-tuition-in-dubai-cambridge-or-edexcel` (Edexcel IAL units vs Cambridge staged AS & A Level, from `assessments.ts`), `igcse-tuition-in-malaysia-online` (taught Cambridge/Edexcel/OxfordAQA IGCSE subjects, Malaysia fees indicative, 0450 to 0264 change) and `o-level-june-or-november-exam-series` (series facts and the 14 January 2027 results date from `exam-calendar.ts`). No fee figures in the text; each links to its country or pricing page. No reviewer is credited until the owner confirms one.
+- **Sociology on /uk/.** `tutorCoursesFor()` takes optional `extraSubjects`, listed after the main list. /uk/ adds AQA GCSE and A-level Sociology. Search Console, 6 Sep-9 Oct: Sociology pages had 831 impressions and 41 clicks, mostly from A Level and AQA searches.
+- **Trustpilot.** `docs/growth/trustpilot-review-requests.md`: WhatsApp (English and Roman Urdu) and email requests, following Trustpilot's rules (ask everyone, no incentives, no suggested wording, staff do not review).
