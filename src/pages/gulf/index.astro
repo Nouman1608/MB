@@ -18,6 +18,7 @@ import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import CTA from '../../components/ui/CTA.astro';
 import FAQ from '../../components/ui/FAQ.astro';
+import CountryGuides from '../../components/sections/CountryGuides.astro';
 import { faqNode } from '../../utils/schema/faq';
 import { activeOnly, taughtOnly } from '../../utils/academic';
 import { site } from '../../data/site';
@@ -204,6 +205,8 @@ const TIME_ZONES: Record<string, string> = {
       </p>
     </Container>
   </Section>
+
+  <CountryGuides country="gulf" audience="families in the Gulf" />
 
   <Section surface="ivory" border>
     <Container>

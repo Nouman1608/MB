@@ -26,6 +26,7 @@ import {
 import { faqNode } from '../../utils/schema/faq';
 import { hubIsTaught, RESOURCES_ONLY_SUFFIX, tutorCoursesFor } from '../../data/markets';
 import TutorBySubject from '../../components/sections/TutorBySubject.astro';
+import CountryGuides from '../../components/sections/CountryGuides.astro';
 
 const path = '/uk/';
 
@@ -153,6 +154,8 @@ const tutorCourses = tutorCoursesFor(['aqa', 'edexcel', 'ocr', 'cambridge'], 14,
     intro="Courses taught live online for UK students, after school and in the evening UK time. Each course page names the specification code and lists the topics; the free trial books a first class with the course already filled in. OCR courses are one-to-one only."
     courses={tutorCourses}
   />
+
+  <CountryGuides country="uk" audience="UK families" />
 
   <Section surface="ivory" border>
     <Container>

@@ -25,6 +25,7 @@ import {
 import { site } from '../../data/site';
 import { timeRows, hubIsTaught, RESOURCES_ONLY_SUFFIX, tutorCoursesFor, type Market } from '../../data/markets';
 import TutorBySubject from './TutorBySubject.astro';
+import CountryGuides from './CountryGuides.astro';
 
 interface Props { market: Market }
 const { market: m } = Astro.props;
@@ -134,6 +135,8 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
     intro={`Courses taught live online for families in ${cityList ?? place} and across ${place === 'the UAE' ? 'the country' : place}. Each course page has the syllabus, the topics and the teachers; the free trial books a first class with the course already filled in.`}
     courses={tutorCourses}
   />
+
+  <CountryGuides country={m.slug} audience={`families in ${place}`} />
 
   <Section surface="ivory" border>
     <Container>

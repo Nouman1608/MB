@@ -1,0 +1,40 @@
+---
+/**
+ * D-414 -- "Guides for families in ..." on a country page: the parent
+ * articles listed for that country in src/data/country-guides.ts.
+ */
+import { getEntry } from 'astro:content';
+import Section from '../layout/Section.astro';
+import Container from '../layout/Container.astro';
+import { COUNTRY_GUIDES } from '../../data/country-guides';
+
+interface Props {
+  country: keyof typeof COUNTRY_GUIDES | string;
+  /** e.g. "families in the UAE" */
+  audience: string;
+  surface?: 'white' | 'ivory';
+}
+const { country, audience, surface = 'white' } = Astro.props;
+
+const guides = await Promise.all((COUNTRY_GUIDES[country] ?? []).map(async (slug) => {
+  const entry = await getEntry('articles', slug);
+  if (!entry || entry.data.draft) throw new Error(`CountryGuides: "${slug}" (${country}) is not a published article`);
+  return { href: `/articles/${slug}/`, title: entry.data.title, excerpt: entry.data.excerpt };
+}));
+---
+{guides.length > 0 && (
+  <Section surface={surface} border>
+    <Container>
+      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Guides for {audience}</h2>
+      <p class="m-0 mb-6 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">Short guides to help you choose courses, formats and exam dates before booking.</p>
+      <ul class="m-0 grid gap-4 p-0 md:grid-cols-3" style="list-style: none;">
+        {guides.map((g) => (
+          <li class="m-0 rounded-sm border border-rule bg-white p-4">
+            <a href={g.href} data-link-location="country_guides" class="text-[15.5px] font-semibold leading-snug text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{g.title}</a>
+            <p class="m-0 mt-2 text-[14px] leading-[1.6] text-ink-mute">{g.excerpt}</p>
+          </li>
+        ))}
+      </ul>
+    </Container>
+  </Section>
+)}

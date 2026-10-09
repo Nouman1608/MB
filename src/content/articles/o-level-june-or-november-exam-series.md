@@ -2,6 +2,9 @@
 title: "O Level in May/June or October/November: choosing an exam series"
 excerpt: "Cambridge O Level can be sat in the May/June or the October/November series. What each series means for preparation time, results and resits, and how to plan subjects across them."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 publishedDate: 2026-10-09
 category: "exam-preparation"
 subjects: []

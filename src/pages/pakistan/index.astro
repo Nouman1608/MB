@@ -32,6 +32,7 @@ import {
 } from '../../data/pricing';
 import { hubIsTaught, RESOURCES_ONLY_SUFFIX, tutorCoursesFor, PAKISTAN_QUALIFICATION_ORDER } from '../../data/markets';
 import TutorBySubject from '../../components/sections/TutorBySubject.astro';
+import CountryGuides from '../../components/sections/CountryGuides.astro';
 
 /**
  * D-303: the Cambridge-board hub pages searchers located in Pakistan found
@@ -138,6 +139,8 @@ const tutorCourses = tutorCoursesFor(['cambridge', 'edexcel', 'oxfordaqa'], 15, 
     intro="Courses taught in person at the Lahore academy and live online for students in Karachi, Islamabad, Rawalpindi, Faisalabad and the rest of Pakistan. Each course page has the syllabus, the topics and the teachers; the free trial books a first class with the course already filled in."
     courses={tutorCourses}
   />
+
+  <CountryGuides country="pakistan" audience="families in Pakistan" />
 
   <Section surface="ivory" border>
     <Container>

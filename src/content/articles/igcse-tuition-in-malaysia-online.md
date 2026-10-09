@@ -2,6 +2,9 @@
 title: "IGCSE tuition in Malaysia: how online classes work from Kuala Lumpur, Penang and Johor Bahru"
 excerpt: "For families at international schools in Malaysia: which Cambridge, Pearson Edexcel and OxfordAQA IGCSE subjects are taught online, class times in Malaysia time, fees and the free trial."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 publishedDate: 2026-10-09
 category: "teaching"
 subjects: []

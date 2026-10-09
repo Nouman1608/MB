@@ -2,6 +2,9 @@
 title: "A Level tuition in Dubai: Cambridge or Pearson Edexcel International A Level?"
 excerpt: "Schools in Dubai and Abu Dhabi teach either Cambridge International AS & A Level or Pearson Edexcel International A Level. How the two are structured, why it matters for tuition, and how online classes from Lahore work."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 publishedDate: 2026-10-09
 category: "teaching"
 subjects: []

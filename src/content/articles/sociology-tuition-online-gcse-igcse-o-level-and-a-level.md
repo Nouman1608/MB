@@ -2,6 +2,9 @@
 title: "Sociology tuition online: GCSE, IGCSE, O Level and A Level"
 excerpt: "Which Sociology specifications Marlbridge teaches live online, how the papers are set out, where students usually lose marks, and how a trial class works."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-09
 publishedDate: 2026-10-09
 category: "teaching"
 subjects: ["sociology"]
