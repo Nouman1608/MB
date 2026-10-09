@@ -15656,3 +15656,7 @@ Three more problems turned up:
 ## D-410 - Naqiya Yousaf profile details (9 Oct 2026)
 
 - Owner, 9 Oct 2026: 9 years' teaching experience, previously Beaconhouse, now Learners Academy, teaches all boards. `naqiya-yousaf` updated (`yearsExperience: 9`, `previousSchools: ["Beaconhouse"]`, all six boards, bio in the same form as the other teacher profiles). Profile picture to follow.
+
+## D-411 - Trial form fields stay as they are (9 Oct 2026)
+
+- Owner, 9 Oct 2026: do not pre-set "Exam board" to "Not sure" or "Group or one-to-one" to "Help me decide". The trial form keeps D-293 (every visible field compulsory, nothing pre-selected unless a link fills it). The D-407 abandonment events will show which fields lose visitors.
