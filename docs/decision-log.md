@@ -15694,3 +15694,7 @@ Three more problems turned up:
   - IB and one-to-one-only courses: Rs 6,000 → S$28 per class.
 - **Rate.** 216.20 PKR per SGD, from XE's mid-market rate dated 5 Oct 2026. The usual exchangerate-api endpoint was blocked from the build environment. Other published rates that week ranged 215-219. Recorded in `FX_RATES` with that note; `validate-fx-policy.mjs` checks every row.
 - **Changes.** `/singapore/` uses `pricingRegion: 'Singapore'`, and its fee FAQs say "Singapore dollars, indicative". The tuition prompt, /international-tutoring/, /pricing/ and the conversion note now name Singapore with Malaysia, and the organization schema's areaServed includes SG. The trial form's country list now includes Singapore (it is built from `REGION_PRICING`).
+
+## D-417 - IB tuition in Singapore article (10 Oct 2026)
+
+- Owner, 10 Oct 2026 ("sure continue"): new article `ib-tuition-in-singapore-online`. It covers the IB DP and MYP subjects taught (from `taughtOnly()`, named as on their course pages), that IB is one-to-one only in 1-hour classes, and Singapore time (UTC+8). It also explains what tuition cannot do: internal assessments, the EE and MYP projects stay the student's own work under IB academic integrity rules. No fee figure is given in the text; it links to /singapore/. It is listed first among the guides on /singapore/. Review pending until the owner confirms a reviewer.

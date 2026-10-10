@@ -28,6 +28,7 @@ export const COUNTRY_GUIDES: Readonly<Record<string, readonly string[]>> = {
     'group-classes-or-one-to-one-tuition',
   ],
   singapore: [
+    'ib-tuition-in-singapore-online',
     'when-to-start-a-level-tuition-before-the-summer-exams',
     'group-classes-or-one-to-one-tuition',
   ],
