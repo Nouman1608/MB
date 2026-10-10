@@ -94,6 +94,11 @@ export const FX_RATES: readonly FxRate[] = [
   // D-311 -- added 2026-09-24 for the US dollar rows (owner request, same
   // source; that day's rate: 1 USD = 276.970859 PKR).
   { currency: 'USD', pkrPerUnit: 276.97 },
+  // D-416 -- added 2026-10-10 for the Singapore rows (owner request). The
+  // exchangerate-api endpoint was unreachable from the build environment, so
+  // this is XE's mid-market rate dated 2026-10-05 (1 SGD = 216.20 PKR);
+  // other published rates that week ranged 215-219.
+  { currency: 'SGD', pkrPerUnit: 216.20 },
 ] as const;
 
 /** How many days after FX_RATE_ASOF_DATE the snapshot is considered stale

@@ -16,7 +16,7 @@ import { REGION_PRICING } from '../../data/pricing';
  */
 const COUNTRY_CODES: Record<string, string> = {
   Pakistan: 'PK', 'Saudi Arabia': 'SA', 'United Arab Emirates': 'AE', Qatar: 'QA',
-  Kuwait: 'KW', Bahrain: 'BH', Oman: 'OM', 'United Kingdom': 'GB', Malaysia: 'MY',
+  Kuwait: 'KW', Bahrain: 'BH', Oman: 'OM', 'United Kingdom': 'GB', Malaysia: 'MY', Singapore: 'SG',
 };
 
 /** Regions with their own row on /pricing/. "Other countries" is a price

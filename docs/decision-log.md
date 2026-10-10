@@ -15677,3 +15677,20 @@ Three more problems turned up:
 
 - Owner, 9 Oct 2026: Nouman Ahmed has read the four D-413 articles. Each now has `reviewer: "nouman-ahmed"`, `reviewStatus: "reviewed"`, `reviewedDate: 2026-10-09`.
 - **Guides on country pages.** None of the country pages linked to the articles written for them. New `src/data/country-guides.ts` (country to article slugs, in display order) and `CountryGuides.astro` ("Guides for families in ...", title and excerpt per article, `data-link-location="country_guides"`). Placed after the tutors-by-subject list on /uae/, /qatar/, /malaysia/, /pakistan/ and /uk/, and before the FAQs on /gulf/. A slug that is missing or draft fails the build.
+
+## D-415 - Singapore country page (10 Oct 2026)
+
+- Owner, 10 Oct 2026: "add a page for singapore". This reverses the D-303 hold (Search Console then: 9 clicks / 900 impressions).
+- **Evidence for the searched courses.** Most GA4 "Singapore" sessions are bots (D-403). GA4 BigQuery, 1 Jul-9 Oct 2026, Singapore sessions with 5 s or more of engagement: about 21, landing mostly on IB DP (Computer Science, Mathematics AA, Economics, ESS), IB MYP and A Level resources. `searchedHubs` lists the matching taught course pages. A new `searchedHubsNote` field states that the source is GA4, not the 23 Sep Search Console export.
+- **Content.** Built on `MarketPage.astro` with a `markets.ts` entry. IB is listed first, and the title is "Online IB, IGCSE & A Level Tutors in Singapore" (new optional `pageTitle`). The time is UTC+8, three hours ahead of Lahore. "Not taught" names the PSLE and the Singapore-Cambridge GCE O/N/A-Level and SEC examinations, and an FAQ explains that these differ from Cambridge International qualifications. There is no Singapore centre or teacher.
+- **Fees.** There is no Singapore price. The `Other countries` US dollar rows apply (owner, D-311/D-313): group fees are indicative, and one-to-one and IB (MYP US$22, DP US$25) are confirmed. `MarketPage` now shows the IB US dollar prices for that region instead of "on enquiry". Superseded the same day by D-416 (Singapore dollar prices).
+- **Links.** /international-tutoring/ country list; the lesson-end tuition prompt (Singapore line, and `Asia/Singapore` maps to the Singapore page); guides (`country-guides.ts`); llms.txt country pages.
+
+## D-416 - Singapore dollar prices (10 Oct 2026)
+
+- Owner, 10 Oct 2026: "add the price in Singapore Dollar for this page". Singapore gets its own rows, all `indicative` conversions of the Pakistan fees, as with Malaysia (D-297):
+  - Group classes: Rs 19,000 / 24,000 → S$88 / S$111 per subject per month.
+  - One-to-one: Rs 3,500 / 4,000 → S$16 / S$19 per class.
+  - IB and one-to-one-only courses: Rs 6,000 → S$28 per class.
+- **Rate.** 216.20 PKR per SGD, from XE's mid-market rate dated 5 Oct 2026. The usual exchangerate-api endpoint was blocked from the build environment. Other published rates that week ranged 215-219. Recorded in `FX_RATES` with that note; `validate-fx-policy.mjs` checks every row.
+- **Changes.** `/singapore/` uses `pricingRegion: 'Singapore'`, and its fee FAQs say "Singapore dollars, indicative". The tuition prompt, /international-tutoring/, /pricing/ and the conversion note now name Singapore with Malaysia, and the organization schema's areaServed includes SG. The trial form's country list now includes Singapore (it is built from `REGION_PRICING`).

@@ -20,7 +20,7 @@ import { faqNode } from '../../utils/schema/faq';
 import { TRIAL_STEPS } from '../../data/tuition';
 import {
   REGION_PRICING, ONE_TO_ONE_PRICING, PRICING_TERMS, PRICING_VERIFIED_DATE, ONE_TO_ONE_TERMS,
-  IB_PRICING, formatFee, isIndicative, INDICATIVE_NOTE, ibConversionFor,
+  IB_PRICING, IB_USD_PRICING, formatFee, isIndicative, INDICATIVE_NOTE, ibConversionFor,
 } from '../../data/pricing';
 import { site } from '../../data/site';
 import { timeRows, hubIsTaught, RESOURCES_ONLY_SUFFIX, tutorCoursesFor, type Market } from '../../data/markets';
@@ -34,6 +34,8 @@ const group = REGION_PRICING.find((r) => r.region === m.pricingRegion);
 const oneToOne = ONE_TO_ONE_PRICING.find((r) => r.region === m.pricingRegion);
 // D-311 -- IB: Rs 6,000 per 1-hour class in Pakistan; other currencies are indicative conversions.
 const ib = ibConversionFor(m.pricingRegion);
+// D-415 -- countries without a set fee (Singapore) pay the owner-set US dollar IB prices (D-313).
+const ibUsd = m.pricingRegion === IB_USD_PRICING.region;
 const rows = timeRows(m.utcOffsetHours);
 const diff = 5 - m.utcOffsetHours;
 const diffText = diff === 0 ? 'the same time as Lahore' : diff > 0 ? `${diff} hour${diff === 1 ? '' : 's'} behind Lahore` : `${-diff} hour${diff === -1 ? '' : 's'} ahead of Lahore`;
@@ -67,11 +69,12 @@ const faq = faqNode(faqs);
  */
 const place = m.name === 'United Arab Emirates' ? 'the UAE' : m.name;
 const cityList = m.cities.length > 1 ? `${m.cities.slice(0, -1).join(', ')} and ${m.cities[m.cities.length - 1]}` : m.cities[0];
-const pageTitle = m.cities.length > 0
+const pageTitle = m.pageTitle ?? (m.cities.length > 0
   ? `Online IGCSE & A Level Tutors for ${m.cities.slice(0, 2).join(' & ')}${m.cities.length === 1 ? `, ${m.name}` : ''}`
-  : `Online IGCSE & A Level Tutors in ${place}`;
+  : `Online IGCSE & A Level Tutors in ${place}`);
 const pageDescription = `Live online IGCSE, A Level and IB tutors for students in ${cityList ?? place}: ${boardRows.map((r) => r.name).slice(0, 3).join(', ')}, fees in ${group?.currency ?? 'local currency'}, class times in local time, first class free.`;
-const tutorCourses = tutorCoursesFor(m.focusBoards, 12);
+const tutorCourses = tutorCoursesFor(m.focusBoards, 12)
+  .filter((t) => !(m.tutorListExcludes ?? []).includes(t.key.split('/')[1]));
 
 const summary = `Marlbridge teaches ${m.name}-based students live online, one-to-one or in small groups of up to ${PRICING_TERMS.maxGroupSize}, from its academy in Lahore, Pakistan. ${m.name} is ${diffText}. ${PRICING_TERMS.freeTrial}`;
 ---
@@ -120,7 +123,7 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
 
       <h3 class="m-0 mt-10 mb-3 text-[20px] font-semibold text-navy-800">Syllabus pages searchers in {m.name === 'United Arab Emirates' ? 'the UAE' : m.name} look for most</h3>
       <p class="m-0 mb-4 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
-        From Marlbridge's own Google Search Console data for searches made in {m.name === 'United Arab Emirates' ? 'the UAE' : m.name} (last three months, checked 23 September 2026). Each page gives the official syllabus or specification, how it is assessed, and free study material.
+        {m.searchedHubsNote ?? `From Marlbridge's own Google Search Console data for searches made in ${m.name === 'United Arab Emirates' ? 'the UAE' : m.name} (last three months, checked 23 September 2026). Each page gives the official syllabus or specification, how it is assessed, and free study material.`}
       </p>
       <ul class="m-0 grid list-none gap-3 p-0 sm:grid-cols-2">
         {m.searchedHubs.map((h) => (
@@ -132,7 +135,7 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
 
   <TutorBySubject
     heading={`Online tutors by subject for students in ${place}`}
-    intro={`Courses taught live online for families in ${cityList ?? place} and across ${place === 'the UAE' ? 'the country' : place}. Each course page has the syllabus, the topics and the teachers; the free trial books a first class with the course already filled in.`}
+    intro={`Courses taught live online for families ${cityList ? `in ${cityList} and across ${place === 'the UAE' ? 'the country' : place}` : `across ${place}`}. Each course page has the syllabus, the topics and the teachers; the free trial books a first class with the course already filled in.`}
     courses={tutorCourses}
   />
 
@@ -201,8 +204,8 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
               </tr>
               <tr class="border-b border-rule">
                 <th scope="row" class="py-3 pr-4 text-left font-normal text-ink">IB, one-to-one, per 1-hour class</th>
-                <td class="py-3 pr-4 text-ink-mute" colspan="2">{ib ? `${formatFee(ib.perClass, ib.currency)} ${ib.currency}` : 'Confirmed in writing when you enquire'}</td>
-                <td class="py-3 text-ink-mute">{ib ? 'Indicative' : 'On enquiry'}</td>
+                <td class="py-3 pr-4 text-ink-mute" colspan="2">{ibUsd ? `MYP ${IB_USD_PRICING.myp} ${IB_USD_PRICING.currency}, Diploma ${IB_USD_PRICING.dp} ${IB_USD_PRICING.currency}` : ib ? `${formatFee(ib.perClass, ib.currency)} ${ib.currency}` : 'Confirmed in writing when you enquire'}</td>
+                <td class="py-3 text-ink-mute">{ibUsd ? 'Confirmed' : ib ? 'Indicative' : 'On enquiry'}</td>
               </tr>
             </tbody>
           </table>
@@ -211,7 +214,7 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
         <p class="m-0 text-[15.5px] text-ink-mute">{PRICING_TERMS.unsupportedRegionNote}</p>
       )}
       <p class="m-0 mt-4 max-w-[70ch] text-[13px] text-ink-mute">
-        {group && oneToOne && (!isIndicative(group) || !isIndicative(oneToOne)) ? `"Confirmed" fees are set by Marlbridge for ${m.name}. ` : ''}{INDICATIVE_NOTE} The IB fee is set in Pakistan at {IB_PRICING.perClass.toLocaleString('en-US')} {IB_PRICING.currency} {IB_PRICING.unit}; the figure above is its conversion (IB rates converted {IB_PRICING.verifiedDate}). {PRICING_TERMS.notPermanentNote} Group fees last confirmed {PRICING_VERIFIED_DATE}; one-to-one figures last confirmed or converted {ONE_TO_ONE_TERMS.verifiedDate}{m.slug === 'malaysia' ? '; Malaysia figures converted 2026-09-23' : ''}.
+        {ibUsd ? `${m.name} has no separate price; these are the US dollar prices for countries without their own fee. "Confirmed" fees are set by Marlbridge in US dollars. ` : group && oneToOne && (!isIndicative(group) || !isIndicative(oneToOne)) ? `"Confirmed" fees are set by Marlbridge for ${m.name}. ` : ''}{INDICATIVE_NOTE} {ibUsd ? `IB is priced in US dollars ${IB_USD_PRICING.unit} (set ${IB_USD_PRICING.verifiedDate}).` : `The IB fee is set in Pakistan at ${IB_PRICING.perClass.toLocaleString('en-US')} ${IB_PRICING.currency} ${IB_PRICING.unit}; the figure above is its conversion (IB rates converted ${IB_PRICING.verifiedDate}).`} {PRICING_TERMS.notPermanentNote} Group fees last confirmed {PRICING_VERIFIED_DATE}; one-to-one figures last confirmed or converted {ONE_TO_ONE_TERMS.verifiedDate}{m.slug === 'malaysia' ? '; Malaysia figures converted 2026-09-23' : m.slug === 'singapore' ? '; Singapore figures converted at the 5 October 2026 rate' : ''}.
       </p>
     </Container>
   </Section>

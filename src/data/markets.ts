@@ -33,7 +33,7 @@ export function hubIsTaught(path: string): boolean {
 
 export const RESOURCES_ONLY_SUFFIX = ' (free resources only, no classes at the moment)';
 
-export type MarketSlug = 'pakistan' | 'uk' | 'uae' | 'qatar' | 'malaysia';
+export type MarketSlug = 'pakistan' | 'uk' | 'uae' | 'qatar' | 'malaysia' | 'singapore';
 
 export interface MarketHubLink {
   /** Path of an existing board hub page. */
@@ -61,6 +61,18 @@ export interface Market {
    * local office or teacher: every page states there is none.
    */
   readonly cities: readonly string[];
+  /** Overrides the computed page title (D-415: Singapore leads with IB). */
+  readonly pageTitle?: string;
+  /**
+   * Where `searchedHubs` came from, when it is not the 23 Sep 2026 Search
+   * Console export (D-415: Singapore uses GA4, bot sessions excluded).
+   */
+  readonly searchedHubsNote?: string;
+  /**
+   * Qualifications left out of the "tutors by subject" list (D-415: in
+   * Singapore "O Level" reads as the national Singapore-Cambridge O-Level).
+   */
+  readonly tutorListExcludes?: readonly string[];
 }
 
 /** Lahore, where every live class is taught from: UTC+5, no daylight saving. */
@@ -206,6 +218,66 @@ export const MARKETS: readonly Market[] = [
         question: 'Can I pay in ringgit?',
         answer:
           'Fees are paid by bank transfer or international wire transfer. The currency and exact amount are confirmed in writing when a place is offered.',
+      },
+    ],
+  },
+  {
+    /**
+     * D-415 (owner, 10 Oct 2026). Singapore was left without a page in D-303
+     * (Search Console: 9 clicks / 900 impressions). Most GA4 "Singapore"
+     * sessions are bots (0.2 s engagement, D-403); `searchedHubs` uses only
+     * the ~21 Singapore sessions with 5 s or more of engagement, July to
+     * 9 Oct 2026, mapped from their landing pages to the course pages, all
+     * taught. Fees: Singapore dollar conversions of the Pakistan fee, all
+     * indicative (owner, D-416).
+     */
+    slug: 'singapore',
+    cities: [],
+    pageTitle: 'Online IB, IGCSE & A Level Tutors in Singapore',
+    tutorListExcludes: ['o-level'],
+    path: '/singapore/',
+    name: 'Singapore',
+    pricingRegion: 'Singapore',
+    utcOffsetHours: 8,
+    timeZoneLabel: 'UTC+8 (Singapore Standard Time, no daylight saving)',
+    focusBoards: ['ib', 'cambridge', 'edexcel', 'oxfordaqa'],
+    searchedHubs: [
+      { path: '/boards/ib/ib-dp/mathematics-analysis-and-approaches/', label: 'IB DP Mathematics: Analysis and Approaches' },
+      { path: '/boards/ib/ib-dp/computer-science/', label: 'IB DP Computer Science' },
+      { path: '/boards/ib/ib-dp/economics/', label: 'IB DP Economics' },
+      { path: '/boards/ib/ib-myp/myp-language-acquisition/', label: 'IB MYP Language Acquisition' },
+      { path: '/boards/cambridge/a-level/chemistry/', label: 'Cambridge A Level Chemistry' },
+      { path: '/boards/edexcel/a-level/economics/', label: 'Pearson Edexcel A Level Economics' },
+    ],
+    searchedHubsNote:
+      "From Marlbridge's own Google Analytics data for visits from Singapore that stayed at least five seconds (July to October 2026, automated traffic excluded), grouped by course. Each page gives the official syllabus or specification, how it is assessed, and free study material.",
+    notOffered:
+      'Marlbridge does not teach the Singapore national curriculum or its national examinations, including the PSLE, the Singapore-Cambridge GCE O-Level, N-Level and A-Level, and the Singapore-Cambridge Secondary Education Certificate (SEC). These are different examinations from Cambridge International IGCSE, O Level and AS & A Level, which are taught. It also does not teach the American curriculum or Advanced Placement (AP), or the Indian CBSE or ICSE curricula.',
+    faqs: [
+      {
+        question: 'Does Marlbridge have a centre in Singapore?',
+        answer:
+          'No. Marlbridge has no office, branch or teacher based in Singapore. Every class is taught live online by a named subject teacher from our academy in Lahore, Pakistan.',
+      },
+      {
+        question: 'What time would classes be in Singapore?',
+        answer:
+          'Singapore is three hours ahead of Lahore all year, so a 5:00 pm class in Singapore is 2:00 pm in Lahore. Group class times are agreed with the families in each group and confirmed before the trial; one-to-one classes can be arranged at any time, because teachers are available 24 hours a day, 7 days a week.',
+      },
+      {
+        question: 'Is this tuition for the Singapore O-Level or A-Level?',
+        answer:
+          'No. Marlbridge teaches the international qualifications taken at international schools: Cambridge International IGCSE, O Level and AS & A Level, Pearson Edexcel International GCSE and International A Level, OxfordAQA, and the IB. The Singapore-Cambridge GCE and SEC examinations taken in Singapore government schools have their own syllabuses and are not taught.',
+      },
+      {
+        question: 'My child is in an IB school in Singapore. Can Marlbridge help?',
+        answer:
+          'Yes. IB Diploma tuition is available one-to-one in the subjects listed on the IB board page, and MYP tuition in Mathematics, Sciences and Language Acquisition. IB classes are 1 hour each; the Singapore dollar IB figure on this page is an indicative conversion of the Pakistan fee, confirmed in writing before any payment.',
+      },
+      {
+        question: 'What does tuition cost from Singapore?',
+        answer:
+          'Fees are shown on this page in Singapore dollars. Marlbridge has not set a separate Singapore price: the figures are conversions of the Pakistan fee at the exchange rate recorded on the date shown, so you can see the approximate cost, and the exact fee is confirmed in writing before any payment.',
       },
     ],
   },

@@ -1,0 +1,7 @@
+---
+/** D-415 -- country market page (owner, 10 Oct 2026); content in src/data/markets.ts. */
+import MarketPage from '../../components/sections/MarketPage.astro';
+import { marketBySlug } from '../../data/markets';
+const market = marketBySlug('singapore')!;
+---
+<MarketPage market={market} />

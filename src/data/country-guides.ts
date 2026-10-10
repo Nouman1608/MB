@@ -27,6 +27,10 @@ export const COUNTRY_GUIDES: Readonly<Record<string, readonly string[]>> = {
     'when-to-start-a-level-tuition-before-the-summer-exams',
     'group-classes-or-one-to-one-tuition',
   ],
+  singapore: [
+    'when-to-start-a-level-tuition-before-the-summer-exams',
+    'group-classes-or-one-to-one-tuition',
+  ],
   gulf: [
     'how-online-igcse-and-a-level-tuition-works-from-the-uae',
     'edexcel-igcse-tutoring-in-qatar',
