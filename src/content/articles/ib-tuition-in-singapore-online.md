@@ -2,6 +2,9 @@
 title: "IB tuition in Singapore: how online Diploma and MYP classes work"
 excerpt: "For families at IB schools in Singapore: which IB Diploma and MYP subjects are taught one-to-one online, how classes fit around the school week in Singapore time, what tuition can and cannot help with, and the free trial."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-10-10
 publishedDate: 2026-10-10
 category: "teaching"
 subjects: []

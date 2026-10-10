@@ -15698,3 +15698,7 @@ Three more problems turned up:
 ## D-417 - IB tuition in Singapore article (10 Oct 2026)
 
 - Owner, 10 Oct 2026 ("sure continue"): new article `ib-tuition-in-singapore-online`. It covers the IB DP and MYP subjects taught (from `taughtOnly()`, named as on their course pages), that IB is one-to-one only in 1-hour classes, and Singapore time (UTC+8). It also explains what tuition cannot do: internal assessments, the EE and MYP projects stay the student's own work under IB academic integrity rules. No fee figure is given in the text; it links to /singapore/. It is listed first among the guides on /singapore/. Review pending until the owner confirms a reviewer.
+
+## D-418 - IB Singapore article reviewed (10 Oct 2026)
+
+- Owner, 10 Oct 2026: Nouman Ahmed has read `ib-tuition-in-singapore-online`. The article now has `reviewer: "nouman-ahmed"`, `reviewStatus: "reviewed"` and `reviewedDate: 2026-10-10`.
