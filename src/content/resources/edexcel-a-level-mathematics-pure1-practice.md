@@ -12,6 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-p1-pure-mathematics-1-edexcel-alevel-maths"
+    subtopic: "p1-coordinate-geometry-edexcel-alevel-maths"
 description: "Original exam-style practice questions with full worked answers on algebra, quadratics, differentiation, integration and coordinate geometry."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"

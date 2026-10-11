@@ -12,6 +12,7 @@ order: 3
 syllabusTopics:
   - qualification: "o-level"
     topic: "formation-of-data-into-frequency-distributions-4040"
+    subtopic: "class-measures-grouped-frequency-4040"
 description: "Class limits, boundaries, midpoints and intervals, plus frequency polygons and histograms -- Topic 3 of Cambridge O Level Statistics (4040), distinct from the site's existing guides to Data and Its Collection and Summary Representation of Data."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
