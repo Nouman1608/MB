@@ -12,6 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "development-of-practical-skills-in-physics-ocr-alevel"
+    subtopic: "practical-skills-assessed-in-a-written-examination"
 description: "Condensed recall notes on variables, uncertainty, errors, graphical analysis and experimental technique for OCR A Level Physics H556."
 author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
