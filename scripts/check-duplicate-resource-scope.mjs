@@ -889,6 +889,774 @@ const REVIEWED_LEGITIMATE = [
     files: ['ib-dp-language-a-literature-poetry-analysis-practice.md', 'ib-dp-language-a-literature-readers-writers-texts-practice.md'],
     evidence: "Practice sets siblings of the study-guide pair above; same distinction applies. Both tagged Readers, writers and texts. The older readers-writers-texts pages are an overview of the area with one narrative-voice worked example. The poetry-analysis unit is poetry only: voice, form, structure, metre and rhyme, sound, imagery and paragraph writing, using Blake, Rossetti, Hopkins and original poems the overview never uses. No shared questions (content-breadth sprint 27 Sep 2026).",
   },
+  {
+    files: ['aqa-a-level-biology-biodiversity-index-of-diversity-and-farming-practice.md', 'aqa-a-level-biology-dna-genes-chromosomes-and-protein-synthesis-practice.md', 'aqa-a-level-biology-genetic-diversity-natural-selection-and-required-practice.md', 'aqa-a-level-biology-mutation-and-meiosis-practice.md', 'aqa-a-level-biology-species-taxonomy-and-investigating-diversity-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['aqa-a-level-biology-biodiversity-index-of-diversity-and-farming-revision-notes.md', 'aqa-a-level-biology-dna-genes-chromosomes-and-protein-synthesis-revision-notes.md', 'aqa-a-level-biology-genetic-diversity-natural-selection-and-required-revision-notes.md', 'aqa-a-level-biology-mutation-and-meiosis-revision-notes.md', 'aqa-a-level-biology-species-taxonomy-and-investigating-diversity-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['aqa-a-level-biology-biodiversity-index-of-diversity-and-farming.md', 'aqa-a-level-biology-dna-genes-chromosomes-and-protein-synthesis.md', 'aqa-a-level-biology-genetic-diversity-natural-selection-and-required.md', 'aqa-a-level-biology-mutation-and-meiosis.md', 'aqa-a-level-biology-species-taxonomy-and-investigating-diversity.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems-practice.md', 'aqa-a-level-biology-nutrient-cycles-and-fertilisers-practice.md', 'aqa-a-level-biology-photosynthesis-practice.md', 'aqa-a-level-biology-respiration-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems-revision-notes.md', 'aqa-a-level-biology-nutrient-cycles-and-fertilisers-revision-notes.md', 'aqa-a-level-biology-photosynthesis-revision-notes.md', 'aqa-a-level-biology-respiration-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems.md', 'aqa-a-level-biology-nutrient-cycles-and-fertilisers.md', 'aqa-a-level-biology-photosynthesis.md', 'aqa-a-level-biology-respiration.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['aqa-a-level-biology-gene-mutations-and-stem-cells-practice.md', 'aqa-a-level-biology-genome-projects-and-gene-technologies-practice.md', 'aqa-a-level-biology-regulation-of-gene-expression-and-cancer-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['aqa-a-level-biology-gene-mutations-and-stem-cells-revision-notes.md', 'aqa-a-level-biology-genome-projects-and-gene-technologies-revision-notes.md', 'aqa-a-level-biology-regulation-of-gene-expression-and-cancer-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['aqa-a-level-biology-gene-mutations-and-stem-cells.md', 'aqa-a-level-biology-genome-projects-and-gene-technologies.md', 'aqa-a-level-biology-regulation-of-gene-expression-and-cancer.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['aqa-a-level-biology-homeostasis-and-control-of-blood-glucose-practice.md', 'aqa-a-level-biology-muscle-contraction-practice.md', 'aqa-a-level-biology-nerve-impulses-and-synaptic-transmission-practice.md', 'aqa-a-level-biology-osmoregulation-and-the-kidney-practice.md', 'aqa-a-level-biology-survival-response-and-receptors-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['aqa-a-level-biology-homeostasis-and-control-of-blood-glucose-revision-notes.md', 'aqa-a-level-biology-muscle-contraction-revision-notes.md', 'aqa-a-level-biology-nerve-impulses-and-synaptic-transmission-revision-notes.md', 'aqa-a-level-biology-osmoregulation-and-the-kidney-revision-notes.md', 'aqa-a-level-biology-survival-response-and-receptors-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['aqa-a-level-biology-homeostasis-and-control-of-blood-glucose.md', 'aqa-a-level-biology-muscle-contraction.md', 'aqa-a-level-biology-nerve-impulses-and-synaptic-transmission.md', 'aqa-a-level-biology-osmoregulation-and-the-kidney.md', 'aqa-a-level-biology-survival-response-and-receptors.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['aqa-a-level-biology-inheritance-and-chi-squared-practice.md', 'aqa-a-level-biology-populations-hardy-weinberg-selection-and-speciation-practice.md', 'aqa-a-level-biology-populations-in-ecosystems-and-succession-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['aqa-a-level-biology-inheritance-and-chi-squared-revision-notes.md', 'aqa-a-level-biology-populations-hardy-weinberg-selection-and-speciation-revision-notes.md', 'aqa-a-level-biology-populations-in-ecosystems-and-succession-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['aqa-a-level-biology-inheritance-and-chi-squared.md', 'aqa-a-level-biology-populations-hardy-weinberg-selection-and-speciation.md', 'aqa-a-level-biology-populations-in-ecosystems-and-succession.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['edexcel-ial-biology-adaptive-immunity-immunisation-and-antibiotics-practice.md', 'edexcel-ial-biology-bacteria-viruses-tb-hiv-and-the-bodys-defences-practice.md', 'edexcel-ial-biology-culturing-microorganisms-and-bacterial-growth-practice.md', 'edexcel-ial-biology-decomposition-pcr-electrophoresis-and-forensic-biology-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['edexcel-ial-biology-adaptive-immunity-immunisation-and-antibiotics-revision-notes.md', 'edexcel-ial-biology-bacteria-viruses-tb-hiv-and-the-bodys-defences-revision-notes.md', 'edexcel-ial-biology-culturing-microorganisms-and-bacterial-growth-revision-notes.md', 'edexcel-ial-biology-decomposition-pcr-electrophoresis-and-forensic-biology-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['edexcel-ial-biology-adaptive-immunity-immunisation-and-antibiotics.md', 'edexcel-ial-biology-bacteria-viruses-tb-hiv-and-the-bodys-defences.md', 'edexcel-ial-biology-culturing-microorganisms-and-bacterial-growth.md', 'edexcel-ial-biology-decomposition-pcr-electrophoresis-and-forensic-biology.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['edexcel-ial-biology-aerobic-and-anaerobic-respiration-practice.md', 'edexcel-ial-biology-homeostasis-the-kidney-osmoregulation-and-gene-practice.md', 'edexcel-ial-biology-skeletal-muscle-cardiac-control-and-adrenaline-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['edexcel-ial-biology-aerobic-and-anaerobic-respiration-revision-notes.md', 'edexcel-ial-biology-homeostasis-the-kidney-osmoregulation-and-gene-revision-notes.md', 'edexcel-ial-biology-skeletal-muscle-cardiac-control-and-adrenaline-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['edexcel-ial-biology-aerobic-and-anaerobic-respiration.md', 'edexcel-ial-biology-homeostasis-the-kidney-osmoregulation-and-gene.md', 'edexcel-ial-biology-skeletal-muscle-cardiac-control-and-adrenaline.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['edexcel-ial-biology-cell-ultrastructure-and-microscopy-practice.md', 'edexcel-ial-biology-meiosis-gametes-fertilisation-and-mitosis-practice.md', 'edexcel-ial-biology-stem-cells-differential-gene-expression-and-phenotype-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['edexcel-ial-biology-cell-ultrastructure-and-microscopy-revision-notes.md', 'edexcel-ial-biology-meiosis-gametes-fertilisation-and-mitosis-revision-notes.md', 'edexcel-ial-biology-stem-cells-differential-gene-expression-and-phenotype-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['edexcel-ial-biology-cell-ultrastructure-and-microscopy.md', 'edexcel-ial-biology-meiosis-gametes-fertilisation-and-mitosis.md', 'edexcel-ial-biology-stem-cells-differential-gene-expression-and-phenotype.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['edexcel-ial-biology-classification-biodiversity-hardy-weinberg-and-practice.md', 'edexcel-ial-biology-plant-cell-structure-starch-cellulose-and-plant-fibres-practice.md', 'edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['edexcel-ial-biology-classification-biodiversity-hardy-weinberg-and-revision-notes.md', 'edexcel-ial-biology-plant-cell-structure-starch-cellulose-and-plant-fibres-revision-notes.md', 'edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['edexcel-ial-biology-classification-biodiversity-hardy-weinberg-and.md', 'edexcel-ial-biology-plant-cell-structure-starch-cellulose-and-plant-fibres.md', 'edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['edexcel-ial-biology-climate-change-evolution-speciation-and-sustainable-practice.md', 'edexcel-ial-biology-photosynthesis-practice.md', 'edexcel-ial-biology-productivity-populations-niche-and-succession-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['edexcel-ial-biology-climate-change-evolution-speciation-and-sustainable-revision-notes.md', 'edexcel-ial-biology-photosynthesis-revision-notes.md', 'edexcel-ial-biology-productivity-populations-niche-and-succession-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['edexcel-ial-biology-climate-change-evolution-speciation-and-sustainable.md', 'edexcel-ial-biology-photosynthesis.md', 'edexcel-ial-biology-productivity-populations-niche-and-succession.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['edexcel-ial-biology-neurones-reflexes-action-potentials-and-synapses-practice.md', 'edexcel-ial-biology-recombinant-dna-genetic-engineering-and-bioinformatics-practice.md', 'edexcel-ial-biology-sensory-reception-plant-hormones-and-the-brain-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['edexcel-ial-biology-neurones-reflexes-action-potentials-and-synapses-revision-notes.md', 'edexcel-ial-biology-recombinant-dna-genetic-engineering-and-bioinformatics-revision-notes.md', 'edexcel-ial-biology-sensory-reception-plant-hormones-and-the-brain-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['edexcel-ial-biology-neurones-reflexes-action-potentials-and-synapses.md', 'edexcel-ial-biology-recombinant-dna-genetic-engineering-and-bioinformatics.md', 'edexcel-ial-biology-sensory-reception-plant-hormones-and-the-brain.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test-practice.md', 'ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test-revision-notes.md', 'ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-biology-dihybrid-crosses-gene-linkage-and-the-chi-squared-test.md', 'ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-biology-energy-flow-in-ecosystems-food-chains-trophic-levels-practice.md', 'ib-dp-biology-production-and-the-carbon-cycle-primary-and-secondary-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-biology-energy-flow-in-ecosystems-food-chains-trophic-levels-revision-notes.md', 'ib-dp-biology-production-and-the-carbon-cycle-primary-and-secondary-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-biology-energy-flow-in-ecosystems-food-chains-trophic-levels.md', 'ib-dp-biology-production-and-the-carbon-cycle-primary-and-secondary.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant-practice.md', 'ib-dp-biology-integration-of-body-systems-nervous-system-brain-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant-revision-notes.md', 'ib-dp-biology-integration-of-body-systems-nervous-system-brain-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-biology-hormonal-and-feedback-integration-in-animals-and-plant.md', 'ib-dp-biology-integration-of-body-systems-nervous-system-brain.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis-practice.md', 'ib-dp-biology-reproduction-sexual-and-asexual-human-reproductive-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis-revision-notes.md', 'ib-dp-biology-reproduction-sexual-and-asexual-human-reproductive-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-biology-human-reproduction-in-detail-puberty-gametogenesis.md', 'ib-dp-biology-reproduction-sexual-and-asexual-human-reproductive.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-physics-activity-half-life-and-the-radioactive-decay-law-practice.md', 'ib-dp-physics-nuclear-structure-binding-energy-and-types-of-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-physics-activity-half-life-and-the-radioactive-decay-law-revision-notes.md', 'ib-dp-physics-nuclear-structure-binding-energy-and-types-of-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-physics-activity-half-life-and-the-radioactive-decay-law.md', 'ib-dp-physics-nuclear-structure-binding-energy-and-types-of.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-physics-conduction-convection-and-thermal-radiation-stefan-practice.md', 'ib-dp-physics-molecular-model-temperature-internal-energy-and-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-physics-conduction-convection-and-thermal-radiation-stefan-revision-notes.md', 'ib-dp-physics-molecular-model-temperature-internal-energy-and-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-physics-conduction-convection-and-thermal-radiation-stefan.md', 'ib-dp-physics-molecular-model-temperature-internal-energy-and.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-physics-electric-charge-coulombs-law-electric-and-magnetic-practice.md', 'ib-dp-physics-electric-potential-energy-potential-and-equipotentials-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-physics-electric-charge-coulombs-law-electric-and-magnetic-revision-notes.md', 'ib-dp-physics-electric-potential-energy-potential-and-equipotentials-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-physics-electric-charge-coulombs-law-electric-and-magnetic.md', 'ib-dp-physics-electric-potential-energy-potential-and-equipotentials.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot-practice.md', 'ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot-revision-notes.md', 'ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-physics-entropy-the-second-law-heat-engines-and-the-carnot.md', 'ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-physics-gravitational-fields-kepler-newtons-law-and-field-practice.md', 'ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-physics-gravitational-fields-kepler-newtons-law-and-field-revision-notes.md', 'ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-physics-gravitational-fields-kepler-newtons-law-and-field.md', 'ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-physics-superposition-double-slit-interference-single-slit-practice.md', 'ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-physics-superposition-double-slit-interference-single-slit-revision-notes.md', 'ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-dp-physics-superposition-double-slit-interference-single-slit.md', 'ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and-practice.md', 'ib-myp-mathematics-number-sense-estimation-exponents-and-proportion-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and-revision-notes.md', 'ib-myp-mathematics-number-sense-estimation-exponents-and-proportion-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and.md', 'ib-myp-mathematics-number-sense-estimation-exponents-and-proportion.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp-practice.md', 'ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp-revision-notes.md', 'ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp.md', 'ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-myp-mathematics-coordinate-geometry-transformations-similarity-and-practice.md', 'ib-myp-mathematics-geometry-angles-circles-area-volume-and-metric-measure-practice.md', 'ib-myp-mathematics-trigonometry-and-pythagoras-in-myp-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-myp-mathematics-coordinate-geometry-transformations-similarity-and-revision-notes.md', 'ib-myp-mathematics-geometry-angles-circles-area-volume-and-metric-measure-revision-notes.md', 'ib-myp-mathematics-trigonometry-and-pythagoras-in-myp-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ib-myp-mathematics-coordinate-geometry-transformations-similarity-and.md', 'ib-myp-mathematics-geometry-angles-circles-area-volume-and-metric-measure.md', 'ib-myp-mathematics-trigonometry-and-pythagoras-in-myp.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-biology-cell-communication-homeostasis-and-the-liver-practice.md', 'ocr-a-level-biology-chemiosmosis-anaerobic-respiration-and-respiratory-practice.md', 'ocr-a-level-biology-glycolysis-the-link-reaction-and-the-krebs-cycle-practice.md', 'ocr-a-level-biology-hormonal-communication-and-blood-glucose-control-practice.md', 'ocr-a-level-biology-nervous-system-reflexes-heart-control-and-muscle-practice.md', 'ocr-a-level-biology-neuronal-communication-practice.md', 'ocr-a-level-biology-photosynthesis-practice.md', 'ocr-a-level-biology-plant-responses-and-plant-hormones-practice.md', 'ocr-a-level-biology-the-kidney-osmoregulation-and-renal-failure-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-biology-cell-communication-homeostasis-and-the-liver-revision-notes.md', 'ocr-a-level-biology-chemiosmosis-anaerobic-respiration-and-respiratory-revision-notes.md', 'ocr-a-level-biology-glycolysis-the-link-reaction-and-the-krebs-cycle-revision-notes.md', 'ocr-a-level-biology-hormonal-communication-and-blood-glucose-control-revision-notes.md', 'ocr-a-level-biology-nervous-system-reflexes-heart-control-and-muscle-revision-notes.md', 'ocr-a-level-biology-neuronal-communication-revision-notes.md', 'ocr-a-level-biology-photosynthesis-revision-notes.md', 'ocr-a-level-biology-plant-responses-and-plant-hormones-revision-notes.md', 'ocr-a-level-biology-the-kidney-osmoregulation-and-renal-failure-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-biology-cell-communication-homeostasis-and-the-liver.md', 'ocr-a-level-biology-chemiosmosis-anaerobic-respiration-and-respiratory.md', 'ocr-a-level-biology-glycolysis-the-link-reaction-and-the-krebs-cycle.md', 'ocr-a-level-biology-hormonal-communication-and-blood-glucose-control.md', 'ocr-a-level-biology-nervous-system-reflexes-heart-control-and-muscle.md', 'ocr-a-level-biology-neuronal-communication.md', 'ocr-a-level-biology-photosynthesis.md', 'ocr-a-level-biology-plant-responses-and-plant-hormones.md', 'ocr-a-level-biology-the-kidney-osmoregulation-and-renal-failure.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-biology-classification-and-taxonomy-practice.md', 'ocr-a-level-biology-measuring-biodiversity-practice.md', 'ocr-a-level-biology-pathogens-transmission-and-the-first-lines-of-defence-practice.md', 'ocr-a-level-biology-specific-immunity-vaccination-and-medicines-practice.md', 'ocr-a-level-biology-threats-to-biodiversity-and-conservation-practice.md', 'ocr-a-level-biology-variation-adaptation-and-natural-selection-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-biology-classification-and-taxonomy-revision-notes.md', 'ocr-a-level-biology-measuring-biodiversity-revision-notes.md', 'ocr-a-level-biology-pathogens-transmission-and-the-first-lines-of-defence-revision-notes.md', 'ocr-a-level-biology-specific-immunity-vaccination-and-medicines-revision-notes.md', 'ocr-a-level-biology-threats-to-biodiversity-and-conservation-revision-notes.md', 'ocr-a-level-biology-variation-adaptation-and-natural-selection-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-biology-classification-and-taxonomy.md', 'ocr-a-level-biology-measuring-biodiversity.md', 'ocr-a-level-biology-pathogens-transmission-and-the-first-lines-of-defence.md', 'ocr-a-level-biology-specific-immunity-vaccination-and-medicines.md', 'ocr-a-level-biology-threats-to-biodiversity-and-conservation.md', 'ocr-a-level-biology-variation-adaptation-and-natural-selection.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-biology-dna-sequencing-profiling-pcr-and-electrophoresis-practice.md', 'ocr-a-level-biology-ecosystems-biomass-transfer-and-succession-practice.md', 'ocr-a-level-biology-gene-mutations-and-control-of-gene-expression-practice.md', 'ocr-a-level-biology-genetic-engineering-and-gene-therapy-practice.md', 'ocr-a-level-biology-microorganisms-in-biotechnology-and-immobilised-enzymes-practice.md', 'ocr-a-level-biology-natural-and-artificial-cloning-practice.md', 'ocr-a-level-biology-populations-hardy-weinberg-speciation-and-artificial-practice.md', 'ocr-a-level-biology-populations-interactions-and-sustainable-management-practice.md', 'ocr-a-level-biology-variation-genetic-diagrams-and-chi-squared-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-biology-dna-sequencing-profiling-pcr-and-electrophoresis-revision-notes.md', 'ocr-a-level-biology-ecosystems-biomass-transfer-and-succession-revision-notes.md', 'ocr-a-level-biology-gene-mutations-and-control-of-gene-expression-revision-notes.md', 'ocr-a-level-biology-genetic-engineering-and-gene-therapy-revision-notes.md', 'ocr-a-level-biology-microorganisms-in-biotechnology-and-immobilised-enzymes-revision-notes.md', 'ocr-a-level-biology-natural-and-artificial-cloning-revision-notes.md', 'ocr-a-level-biology-populations-hardy-weinberg-speciation-and-artificial-revision-notes.md', 'ocr-a-level-biology-populations-interactions-and-sustainable-management-revision-notes.md', 'ocr-a-level-biology-variation-genetic-diagrams-and-chi-squared-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-biology-dna-sequencing-profiling-pcr-and-electrophoresis.md', 'ocr-a-level-biology-ecosystems-biomass-transfer-and-succession.md', 'ocr-a-level-biology-gene-mutations-and-control-of-gene-expression.md', 'ocr-a-level-biology-genetic-engineering-and-gene-therapy.md', 'ocr-a-level-biology-microorganisms-in-biotechnology-and-immobilised-enzymes.md', 'ocr-a-level-biology-natural-and-artificial-cloning.md', 'ocr-a-level-biology-populations-hardy-weinberg-speciation-and-artificial.md', 'ocr-a-level-biology-populations-interactions-and-sustainable-management.md', 'ocr-a-level-biology-variation-genetic-diagrams-and-chi-squared.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-biology-nucleotides-atp-dna-structure-and-semi-conservative-practice.md', 'ocr-a-level-biology-the-genetic-code-transcription-and-translation-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-biology-nucleotides-atp-dna-structure-and-semi-conservative-revision-notes.md', 'ocr-a-level-biology-the-genetic-code-transcription-and-translation-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-biology-nucleotides-atp-dna-structure-and-semi-conservative.md', 'ocr-a-level-biology-the-genetic-code-transcription-and-translation.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-biology-proteins-inorganic-ions-and-biochemical-tests-practice.md', 'ocr-a-level-biology-water-carbohydrates-and-lipids-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-biology-proteins-inorganic-ions-and-biochemical-tests-revision-notes.md', 'ocr-a-level-biology-water-carbohydrates-and-lipids-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-biology-proteins-inorganic-ions-and-biochemical-tests.md', 'ocr-a-level-biology-water-carbohydrates-and-lipids.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-capacitance-capacitor-combinations-and-stored-energy-practice.md', 'ocr-a-level-physics-charging-discharging-and-exponential-decay-in-rc-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-capacitance-capacitor-combinations-and-stored-energy-revision-notes.md', 'ocr-a-level-physics-charging-discharging-and-exponential-decay-in-rc-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-capacitance-capacitor-combinations-and-stored-energy.md', 'ocr-a-level-physics-charging-discharging-and-exponential-decay-in-rc.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-distances-redshift-hubbles-law-and-the-big-bang-practice.md', 'ocr-a-level-physics-stars-stellar-evolution-and-the-hr-diagram-practice.md', 'ocr-a-level-physics-stellar-spectra-wiens-law-stefans-law-and-stellar-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-distances-redshift-hubbles-law-and-the-big-bang-revision-notes.md', 'ocr-a-level-physics-stars-stellar-evolution-and-the-hr-diagram-revision-notes.md', 'ocr-a-level-physics-stellar-spectra-wiens-law-stefans-law-and-stellar-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-distances-redshift-hubbles-law-and-the-big-bang.md', 'ocr-a-level-physics-stars-stellar-evolution-and-the-hr-diagram.md', 'ocr-a-level-physics-stellar-spectra-wiens-law-stefans-law-and-stellar.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-dynamics-free-body-diagrams-drag-and-terminal-velocity-practice.md', 'ocr-a-level-physics-moments-equilibrium-density-and-pressure-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-dynamics-free-body-diagrams-drag-and-terminal-velocity-revision-notes.md', 'ocr-a-level-physics-moments-equilibrium-density-and-pressure-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-dynamics-free-body-diagrams-drag-and-terminal-velocity.md', 'ocr-a-level-physics-moments-equilibrium-density-and-pressure.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-electromagnetic-induction-generators-and-transformers-practice.md', 'ocr-a-level-physics-magnetic-fields-force-on-conductors-and-moving-charges-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-electromagnetic-induction-generators-and-transformers-revision-notes.md', 'ocr-a-level-physics-magnetic-fields-force-on-conductors-and-moving-charges-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-electromagnetic-induction-generators-and-transformers.md', 'ocr-a-level-physics-magnetic-fields-force-on-conductors-and-moving-charges.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal-practice.md', 'ocr-a-level-physics-stationary-waves-harmonics-and-resonance-tubes-practice.md', 'ocr-a-level-physics-superposition-interference-and-the-double-slit-practice.md', 'ocr-a-level-physics-wave-motion-polarisation-and-wave-effects-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal-revision-notes.md', 'ocr-a-level-physics-stationary-waves-harmonics-and-resonance-tubes-revision-notes.md', 'ocr-a-level-physics-superposition-interference-and-the-double-slit-revision-notes.md', 'ocr-a-level-physics-wave-motion-polarisation-and-wave-effects-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal.md', 'ocr-a-level-physics-stationary-waves-harmonics-and-resonance-tubes.md', 'ocr-a-level-physics-superposition-interference-and-the-double-slit.md', 'ocr-a-level-physics-wave-motion-polarisation-and-wave-effects.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-gamma-camera-pet-scanning-and-ultrasound-practice.md', 'ocr-a-level-physics-x-rays-attenuation-and-cat-scanning-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-gamma-camera-pet-scanning-and-ultrasound-revision-notes.md', 'ocr-a-level-physics-x-rays-attenuation-and-cat-scanning-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-gamma-camera-pet-scanning-and-ultrasound.md', 'ocr-a-level-physics-x-rays-attenuation-and-cat-scanning.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-gravitational-fields-newtons-law-and-planetary-motion-practice.md', 'ocr-a-level-physics-gravitational-potential-potential-energy-and-escape-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-gravitational-fields-newtons-law-and-planetary-motion-revision-notes.md', 'ocr-a-level-physics-gravitational-potential-potential-energy-and-escape-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-gravitational-fields-newtons-law-and-planetary-motion.md', 'ocr-a-level-physics-gravitational-potential-potential-energy-and-escape.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-ideal-gases-and-kinetic-theory-practice.md', 'ocr-a-level-physics-temperature-kinetic-model-internal-energy-specific-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-ideal-gases-and-kinetic-theory-revision-notes.md', 'ocr-a-level-physics-temperature-kinetic-model-internal-energy-specific-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-ideal-gases-and-kinetic-theory.md', 'ocr-a-level-physics-temperature-kinetic-model-internal-energy-specific.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-mass-energy-binding-energy-fission-and-fusion-practice.md', 'ocr-a-level-physics-radioactive-decay-activity-half-life-and-dating-practice.md', 'ocr-a-level-physics-the-nuclear-atom-nuclear-size-and-fundamental-particles-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-mass-energy-binding-energy-fission-and-fusion-revision-notes.md', 'ocr-a-level-physics-radioactive-decay-activity-half-life-and-dating-revision-notes.md', 'ocr-a-level-physics-the-nuclear-atom-nuclear-size-and-fundamental-particles-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-a-level-physics-mass-energy-binding-energy-fission-and-fusion.md', 'ocr-a-level-physics-radioactive-decay-activity-half-life-and-dating.md', 'ocr-a-level-physics-the-nuclear-atom-nuclear-size-and-fundamental-particles.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-ecosystem-organisation-abiotic-and-biotic-factors-practice.md', 'ocr-gcse-biology-material-cycling-and-decomposition-in-ecosystems-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-ecosystem-organisation-abiotic-and-biotic-factors-revision-notes.md', 'ocr-gcse-biology-material-cycling-and-decomposition-in-ecosystems-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-ecosystem-organisation-abiotic-and-biotic-factors.md', 'ocr-gcse-biology-material-cycling-and-decomposition-in-ecosystems.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-exchange-surfaces-and-the-human-circulatory-system-practice.md', 'ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-exchange-surfaces-and-the-human-circulatory-system-revision-notes.md', 'ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-exchange-surfaces-and-the-human-circulatory-system.md', 'ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-food-security-agricultural-solutions-and-selective-practice.md', 'ocr-gcse-biology-genetic-engineering-and-biotechnology-in-food-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-food-security-agricultural-solutions-and-selective-revision-notes.md', 'ocr-gcse-biology-genetic-engineering-and-biotechnology-in-food-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-food-security-agricultural-solutions-and-selective.md', 'ocr-gcse-biology-genetic-engineering-and-biotechnology-in-food.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-genome-alleles-variants-and-mutations-practice.md', 'ocr-gcse-biology-sexual-and-asexual-reproduction-haploid-and-diploid-practice.md', 'ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-genome-alleles-variants-and-mutations-revision-notes.md', 'ocr-gcse-biology-sexual-and-asexual-reproduction-haploid-and-diploid-revision-notes.md', 'ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-genome-alleles-variants-and-mutations.md', 'ocr-gcse-biology-sexual-and-asexual-reproduction-haploid-and-diploid.md', 'ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-health-disease-types-and-the-spread-and-prevention-of-practice.md', 'ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug-practice.md', 'ocr-gcse-biology-named-infections-stis-and-plant-disease-defence-and-practice.md', 'ocr-gcse-biology-non-communicable-disease-cardiovascular-treatment-practice.md', 'ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine-practice.md', 'ocr-gcse-biology-white-blood-cells-the-immune-system-and-vaccination-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-health-disease-types-and-the-spread-and-prevention-of-revision-notes.md', 'ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug-revision-notes.md', 'ocr-gcse-biology-named-infections-stis-and-plant-disease-defence-and-revision-notes.md', 'ocr-gcse-biology-non-communicable-disease-cardiovascular-treatment-revision-notes.md', 'ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine-revision-notes.md', 'ocr-gcse-biology-white-blood-cells-the-immune-system-and-vaccination-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-health-disease-types-and-the-spread-and-prevention-of.md', 'ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug.md', 'ocr-gcse-biology-named-infections-stis-and-plant-disease-defence-and.md', 'ocr-gcse-biology-non-communicable-disease-cardiovascular-treatment.md', 'ocr-gcse-biology-stem-cells-gene-technology-and-genomics-in-medicine.md', 'ocr-gcse-biology-white-blood-cells-the-immune-system-and-vaccination.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-homeostasis-temperature-control-and-blood-glucose-practice.md', 'ocr-gcse-biology-osmoregulation-water-balance-the-kidney-and-adh-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-homeostasis-temperature-control-and-blood-glucose-revision-notes.md', 'ocr-gcse-biology-osmoregulation-water-balance-the-kidney-and-adh-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-homeostasis-temperature-control-and-blood-glucose.md', 'ocr-gcse-biology-osmoregulation-water-balance-the-kidney-and-adh.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and-practice.md', 'ocr-gcse-biology-the-endocrine-system-thyroxine-adrenaline-and-the-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and-revision-notes.md', 'ocr-gcse-biology-the-endocrine-system-thyroxine-adrenaline-and-the-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-hormones-in-contraception-and-fertility-treatment-and.md', 'ocr-gcse-biology-the-endocrine-system-thyroxine-adrenaline-and-the.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-nervous-system-coordinated-responses-and-reflex-arcs-practice.md', 'ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-nervous-system-coordinated-responses-and-reflex-arcs-revision-notes.md', 'ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-nervous-system-coordinated-responses-and-reflex-arcs.md', 'ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and-practice.md', 'ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology-practice.md', 'ocr-gcse-biology-working-scientifically-planning-recording-presenting-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and-revision-notes.md', 'ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology-revision-notes.md', 'ocr-gcse-biology-working-scientifically-planning-recording-presenting-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and.md', 'ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology.md', 'ocr-gcse-biology-working-scientifically-planning-recording-presenting.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-deformation-springs-and-hookes-law-practice.md', 'ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids-practice.md', 'ocr-gcse-physics-moments-levers-and-gears-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-deformation-springs-and-hookes-law-revision-notes.md', 'ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids-revision-notes.md', 'ocr-gcse-physics-moments-levers-and-gears-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-deformation-springs-and-hookes-law.md', 'ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids.md', 'ocr-gcse-physics-moments-levers-and-gears.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-electromagnetic-induction-alternators-and-dynamos-practice.md', 'ocr-gcse-physics-the-motor-effect-and-electric-motors-practice.md', 'ocr-gcse-physics-transformers-microphones-and-loudspeakers-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-electromagnetic-induction-alternators-and-dynamos-revision-notes.md', 'ocr-gcse-physics-the-motor-effect-and-electric-motors-revision-notes.md', 'ocr-gcse-physics-transformers-microphones-and-loudspeakers-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-electromagnetic-induction-alternators-and-dynamos.md', 'ocr-gcse-physics-the-motor-effect-and-electric-motors.md', 'ocr-gcse-physics-transformers-microphones-and-loudspeakers.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-electromagnetic-waves-and-the-spectrum-practice.md', 'ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-electromagnetic-waves-and-the-spectrum-revision-notes.md', 'ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-electromagnetic-waves-and-the-spectrum.md', 'ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-energy-resources-trends-in-use-and-mains-electricity-practice.md', 'ocr-gcse-physics-the-national-grid-and-transformers-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-energy-resources-trends-in-use-and-mains-electricity-revision-notes.md', 'ocr-gcse-physics-the-national-grid-and-transformers-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-energy-resources-trends-in-use-and-mains-electricity.md', 'ocr-gcse-physics-the-national-grid-and-transformers.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers-practice.md', 'ocr-gcse-physics-everyday-speeds-reaction-times-and-stopping-distances-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers-revision-notes.md', 'ocr-gcse-physics-everyday-speeds-reaction-times-and-stopping-distances-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers.md', 'ocr-gcse-physics-everyday-speeds-reaction-times-and-stopping-distances.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere-practice.md', 'ocr-gcse-physics-liquid-pressure-upthrust-floating-and-sinking-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere-revision-notes.md', 'ocr-gcse-physics-liquid-pressure-upthrust-floating-and-sinking-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere.md', 'ocr-gcse-physics-liquid-pressure-upthrust-floating-and-sinking.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams-practice.md', 'ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion-practice.md', 'ocr-gcse-physics-work-done-stored-energy-and-power-from-forces-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams-revision-notes.md', 'ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion-revision-notes.md', 'ocr-gcse-physics-work-done-stored-energy-and-power-from-forces-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams.md', 'ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion.md', 'ocr-gcse-physics-work-done-stored-energy-and-power-from-forces.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-ionisation-half-life-and-penetrating-power-practice.md', 'ocr-gcse-physics-nuclear-structure-isotopes-and-decay-equations-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-ionisation-half-life-and-penetrating-power-revision-notes.md', 'ocr-gcse-physics-nuclear-structure-isotopes-and-decay-equations-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-ionisation-half-life-and-penetrating-power.md', 'ocr-gcse-physics-nuclear-structure-isotopes-and-decay-equations.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits-practice.md', 'ocr-gcse-physics-red-shift-the-big-bang-and-star-formation-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits-revision-notes.md', 'ocr-gcse-physics-red-shift-the-big-bang-and-star-formation-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits.md', 'ocr-gcse-physics-red-shift-the-big-bang-and-star-formation.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-resistance-ohms-law-and-i-v-characteristics-practice.md', 'ocr-gcse-physics-series-and-parallel-circuit-calculations-and-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-resistance-ohms-law-and-i-v-characteristics-revision-notes.md', 'ocr-gcse-physics-series-and-parallel-circuit-calculations-and-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-resistance-ohms-law-and-i-v-characteristics.md', 'ocr-gcse-physics-series-and-parallel-circuit-calculations-and.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-sound-waves-at-boundaries-and-hearing-practice.md', 'ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-sound-waves-at-boundaries-and-hearing-revision-notes.md', 'ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['ocr-gcse-physics-sound-waves-at-boundaries-and-hearing.md', 'ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['oxfordaqa-a-level-biology-allele-frequencies-genetic-drift-and-the-hardy-practice.md', 'oxfordaqa-a-level-biology-energy-transfer-productivity-and-farming-practice.md', 'oxfordaqa-a-level-biology-inheritance-and-genetic-crosses-practice.md', 'oxfordaqa-a-level-biology-natural-selection-and-speciation-practice.md', 'oxfordaqa-a-level-biology-nutrient-cycles-carbon-and-nitrogen-practice.md', 'oxfordaqa-a-level-biology-photosynthesis-and-limiting-factors-practice.md', 'oxfordaqa-a-level-biology-populations-communities-and-ecological-succession-practice.md', 'oxfordaqa-a-level-biology-respiration-glycolysis-krebs-cycle-and-respiratory-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['oxfordaqa-a-level-biology-allele-frequencies-genetic-drift-and-the-hardy-revision-notes.md', 'oxfordaqa-a-level-biology-energy-transfer-productivity-and-farming-revision-notes.md', 'oxfordaqa-a-level-biology-inheritance-and-genetic-crosses-revision-notes.md', 'oxfordaqa-a-level-biology-natural-selection-and-speciation-revision-notes.md', 'oxfordaqa-a-level-biology-nutrient-cycles-carbon-and-nitrogen-revision-notes.md', 'oxfordaqa-a-level-biology-photosynthesis-and-limiting-factors-revision-notes.md', 'oxfordaqa-a-level-biology-populations-communities-and-ecological-succession-revision-notes.md', 'oxfordaqa-a-level-biology-respiration-glycolysis-krebs-cycle-and-respiratory-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['oxfordaqa-a-level-biology-allele-frequencies-genetic-drift-and-the-hardy.md', 'oxfordaqa-a-level-biology-energy-transfer-productivity-and-farming.md', 'oxfordaqa-a-level-biology-inheritance-and-genetic-crosses.md', 'oxfordaqa-a-level-biology-natural-selection-and-speciation.md', 'oxfordaqa-a-level-biology-nutrient-cycles-carbon-and-nitrogen.md', 'oxfordaqa-a-level-biology-photosynthesis-and-limiting-factors.md', 'oxfordaqa-a-level-biology-populations-communities-and-ecological-succession.md', 'oxfordaqa-a-level-biology-respiration-glycolysis-krebs-cycle-and-respiratory.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['oxfordaqa-a-level-biology-blood-glucose-control-hormones-and-diabetes-practice.md', 'oxfordaqa-a-level-biology-homeostasis-feedback-and-control-of-heart-rate-practice.md', 'oxfordaqa-a-level-biology-nerve-impulses-and-synaptic-transmission-practice.md', 'oxfordaqa-a-level-biology-plant-growth-substances-tropisms-ethene-and-aba-practice.md', 'oxfordaqa-a-level-biology-recombinant-dna-technology-practice.md', 'oxfordaqa-a-level-biology-reflexes-taxes-and-kineses-and-sensory-receptors-practice.md', 'oxfordaqa-a-level-biology-regulation-of-gene-expression-and-stem-cells-practice.md', 'oxfordaqa-a-level-biology-skeletal-muscle-and-the-sliding-filament-theory-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['oxfordaqa-a-level-biology-blood-glucose-control-hormones-and-diabetes-revision-notes.md', 'oxfordaqa-a-level-biology-homeostasis-feedback-and-control-of-heart-rate-revision-notes.md', 'oxfordaqa-a-level-biology-nerve-impulses-and-synaptic-transmission-revision-notes.md', 'oxfordaqa-a-level-biology-plant-growth-substances-tropisms-ethene-and-aba-revision-notes.md', 'oxfordaqa-a-level-biology-recombinant-dna-technology-revision-notes.md', 'oxfordaqa-a-level-biology-reflexes-taxes-and-kineses-and-sensory-receptors-revision-notes.md', 'oxfordaqa-a-level-biology-regulation-of-gene-expression-and-stem-cells-revision-notes.md', 'oxfordaqa-a-level-biology-skeletal-muscle-and-the-sliding-filament-theory-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['oxfordaqa-a-level-biology-blood-glucose-control-hormones-and-diabetes.md', 'oxfordaqa-a-level-biology-homeostasis-feedback-and-control-of-heart-rate.md', 'oxfordaqa-a-level-biology-nerve-impulses-and-synaptic-transmission.md', 'oxfordaqa-a-level-biology-plant-growth-substances-tropisms-ethene-and-aba.md', 'oxfordaqa-a-level-biology-recombinant-dna-technology.md', 'oxfordaqa-a-level-biology-reflexes-taxes-and-kineses-and-sensory-receptors.md', 'oxfordaqa-a-level-biology-regulation-of-gene-expression-and-stem-cells.md', 'oxfordaqa-a-level-biology-skeletal-muscle-and-the-sliding-filament-theory.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['oxfordaqa-igcse-biology-decay-the-carbon-cycle-and-human-effects-on-the-practice.md', 'oxfordaqa-igcse-biology-energy-transfer-biomass-pyramids-adaptations-and-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['oxfordaqa-igcse-biology-decay-the-carbon-cycle-and-human-effects-on-the-revision-notes.md', 'oxfordaqa-igcse-biology-energy-transfer-biomass-pyramids-adaptations-and-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['oxfordaqa-igcse-biology-decay-the-carbon-cycle-and-human-effects-on-the.md', 'oxfordaqa-igcse-biology-energy-transfer-biomass-pyramids-adaptations-and.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and-practice.md', 'oxfordaqa-igcse-biology-genetic-variation-monohybrid-inheritance-dna-and-practice.md', 'oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and-revision-notes.md', 'oxfordaqa-igcse-biology-genetic-variation-monohybrid-inheritance-dna-and-revision-notes.md', 'oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and.md', 'oxfordaqa-igcse-biology-genetic-variation-monohybrid-inheritance-dna-and.md', 'oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose-practice.md', 'oxfordaqa-igcse-biology-infection-immunity-vaccination-and-antibiotics-practice.md', 'oxfordaqa-igcse-biology-nervous-system-reflexes-and-animal-behaviour-practice.md', 'oxfordaqa-igcse-biology-water-and-ion-balance-liver-kidneys-and-adh-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose-revision-notes.md', 'oxfordaqa-igcse-biology-infection-immunity-vaccination-and-antibiotics-revision-notes.md', 'oxfordaqa-igcse-biology-nervous-system-reflexes-and-animal-behaviour-revision-notes.md', 'oxfordaqa-igcse-biology-water-and-ion-balance-liver-kidneys-and-adh-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['oxfordaqa-igcse-biology-homeostasis-temperature-control-and-blood-glucose.md', 'oxfordaqa-igcse-biology-infection-immunity-vaccination-and-antibiotics.md', 'oxfordaqa-igcse-biology-nervous-system-reflexes-and-animal-behaviour.md', 'oxfordaqa-igcse-biology-water-and-ion-balance-liver-kidneys-and-adh.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['oxfordaqa-igcse-physics-charge-current-potential-difference-and-circuit-symbols-practice.md', 'oxfordaqa-igcse-physics-resistance-i-v-characteristics-and-electronic-practice.md', 'oxfordaqa-igcse-physics-series-and-parallel-circuits-and-heating-effect-of-practice.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), practice-questions, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['oxfordaqa-igcse-physics-charge-current-potential-difference-and-circuit-symbols-revision-notes.md', 'oxfordaqa-igcse-physics-resistance-i-v-characteristics-and-electronic-revision-notes.md', 'oxfordaqa-igcse-physics-series-and-parallel-circuits-and-heating-effect-of-revision-notes.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), revision-notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
+  {
+    files: ['oxfordaqa-igcse-physics-charge-current-potential-difference-and-circuit-symbols.md', 'oxfordaqa-igcse-physics-resistance-i-v-characteristics-and-electronic.md', 'oxfordaqa-igcse-physics-series-and-parallel-circuits-and-heating-effect-of.md'],
+    evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
+  },
 ];
 const legitimateKeyOf = (fs) => [...fs].sort().join('|');
 const REVIEWED_KEYS = new Map(
