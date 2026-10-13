@@ -138,13 +138,16 @@ await journey('Finder never shows another qualification or board', async (page) 
       await page.locator(`[data-board-chip] input[value="${b}"]`).check();
       const ids = await visibleCourseIds(page);
       expect(ids.length > 0, `no subjects for ${q}/${b}`);
-      const wrong = ids.filter((id) => !id.startsWith(`${b}/${q}/`));
+      // AS Level also lists the board's A Level courses (the AS content lives inside them).
+      const wrong = ids.filter((id) => !id.startsWith(`${b}/${q}/`) && !(q === 'as-level' && id.startsWith(`${b}/a-level/`)));
       expect(!wrong.length, `${q}/${b} showed ${wrong.join(', ')}`);
       combos++;
     }
   }
   const catalogue = await (await page.request.get(`${BASE}/tools-data/catalogue.json`)).json();
-  const pairs = new Set(catalogue.map((e) => `${e.qs}/${e.bs}`)).size;
+  const pairSet = new Set(catalogue.map((e) => `${e.qs}/${e.bs}`));
+  for (const e of catalogue) if (e.qs === 'a-level') pairSet.add(`as-level/${e.bs}`);
+  const pairs = pairSet.size;
   expect(combos === pairs, `checked ${combos} qualification/board pairs, catalogue has ${pairs}`);
 });
 
