@@ -15721,3 +15721,9 @@ Three more problems turned up:
 - **Stage field.** The 243 new AS and A-level pages carry the stage field the stage-consistency validator requires.
 - **Allow-list.** Sibling units that share one official subtopic or topic are recorded in `REVIEWED_LEGITIMATE` in `check-duplicate-resource-scope.mjs`. None pairs a new page with an older one.
 - **Open items.** (1) The J247 B6.2g scope line mentions mycoprotein, which is not in the official text; the pages follow the official text. (2) The H420 6.1.1 scope line mentions epigenetics, which is not in the official text; left out. (3) 7402 VNTRs sit under 3.8.4.3 in the map. (4) The IB DP Biology scope strings were generated from statement titles; writers re-read the guide sections. (5) Equations in some specification PDFs are images and were rederived. (6) The J247 Higher Tier statement list is approximate for some sections. (7) The IB DP Environmental systems and societies full guide, and the other IB DP subjects, are still needed before gap work on them.
+
+## D-421 - Course finder: AS Level lists A Level courses (13 Oct 2026)
+
+- Owner, 13 Oct 2026: choosing AS Level then AQA in the course finder showed only Business, because AQA AS Business is the only stand-alone AS course in the academic matrix; every other AS subject sits inside its A Level course.
+- **Change.** In `CourseFinder.astro`, the AS Level choice now lists the stand-alone AS courses plus every A Level course, for every board. A subject the board also offers as a stand-alone AS (AQA Business) is not repeated. Each added card links to the A Level course page and says "AS content is in the A Level course". No new AS syllabus data or pages were added.
+- **Not done.** Separate AQA AS hubs with AS codes and AS topic maps (for example Biology 7401). That needs verified AS codes, topic maps and AS pages, and is an owner decision.

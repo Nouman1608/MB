@@ -37,8 +37,21 @@ const { id = 'course-finder', source, mode = 'full', heading = 'Find study resou
 
 const catalogue = catalogueIndex(await getResources());
 const quals = QUALIFICATIONS.filter((q) => catalogue.some((e) => e.qs === q.slug));
+/**
+ * AS Level lists the AS-only courses (AQA runs AS as its own qualification)
+ * plus every A Level course, because at most boards the AS is the first half
+ * of the A Level course and has no separate page. A course the board also
+ * offers as a stand-alone AS is not repeated.
+ */
+const entriesFor = (qs: string) => {
+  const own = catalogue.filter((e) => e.qs === qs);
+  if (qs !== 'as-level') return own.map((e) => ({ ...e, asVia: false }));
+  const have = new Set(own.map((e) => `${e.bs}/${e.ss}`));
+  const viaALevel = catalogue.filter((e) => e.qs === 'a-level' && !have.has(`${e.bs}/${e.ss}`)).map((e) => ({ ...e, asVia: true }));
+  return [...own.map((e) => ({ ...e, asVia: false })), ...viaALevel];
+};
 const tree = quals.map((q) => {
-  const entries = catalogue.filter((e) => e.qs === q.slug);
+  const entries = entriesFor(q.slug);
   const boards = [...new Map(entries.map((e) => [e.bs, e.b])).entries()].map(([bs, b]) => ({
     bs,
     b,
@@ -47,7 +60,7 @@ const tree = quals.map((q) => {
   return { qs: q.slug, q: q.name, boards };
 });
 const allBoards = [...new Map(catalogue.map((e) => [e.bs, e.b])).entries()].sort((a, b) => a[1].localeCompare(b[1]));
-const qualsForBoard = (bs: string) => [...new Set(catalogue.filter((e) => e.bs === bs).map((e) => e.qs))].join(' ');
+const qualsForBoard = (bs: string) => [...new Set(tree.filter((q) => q.boards.some((b) => b.bs === bs)).map((q) => q.qs))].join(' ');
 const H = `h${level}` as 'h2' | 'h3';
 const H2 = `h${level + 1}` as 'h3' | 'h4';
 const H3 = `h${level + 2}` as 'h4' | 'h5';
@@ -127,7 +140,7 @@ const courseLabel = (e: (typeof catalogue)[number]) => `${e.bs === 'ib' ? e.q : 
                     <a href={e.hub} data-course-link={e.id} data-course-label={courseLabel(e)} data-course-code={e.bs !== 'ib' ? e.code : undefined}
                       class="flex h-full min-h-11 flex-col gap-0.5 rounded-md border border-rule bg-white px-4 py-3 transition-colors hover:border-teal-700 hover:bg-teal-50 hover:text-navy-800 active:bg-teal-100">
                       <span class="font-display text-[17px] font-semibold leading-tight text-navy-800">{e.s}</span>
-                      <span class="font-mono text-[11.5px] text-ink-mute">{e.code && e.bs !== 'ib' && <>{e.code} · </>}{e.n > 0 ? `${e.n} ${e.n === 1 ? 'resource' : 'resources'}` : 'topics only'}</span>
+                      <span class="font-mono text-[11.5px] text-ink-mute">{e.code && e.bs !== 'ib' && <>{e.code} · </>}{e.n > 0 ? `${e.n} ${e.n === 1 ? 'resource' : 'resources'}` : 'topics only'}{e.asVia && <> · AS content is in the A Level course</>}</span>
                     </a>
                   </li>
                 ))}
