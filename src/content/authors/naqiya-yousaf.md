@@ -6,6 +6,7 @@ bio: >-
   of teaching experience. Previously taught at Beaconhouse. She also reviews Marlbridge's
   Sociology study resources.
 credentials: []
+image: "/images/faculty/naqiya-yousaf.jpg"
 entityType: person
 subjectsTaught: ["Sociology"]
 boardsTaught: ["cambridge", "edexcel", "aqa", "ocr", "oxfordaqa", "ib"]

@@ -6,6 +6,7 @@ bio: >-
   Diploma Programme Language A and Language B courses and MYP Language
   Acquisition.
 credentials: []
+image: "/images/faculty/ammar-bilal.jpg"
 entityType: person
 subjectsTaught: ["English Literature", "English", "Language A: Literature", "Language A: Language and Literature", "Language B", "Language Acquisition (MYP)"]
 boardsTaught: ["cambridge", "edexcel", "aqa", "oxfordaqa", "ib"]
