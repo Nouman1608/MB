@@ -134,7 +134,7 @@ State the assumption that the same rate would apply.
 
 ## Must-know distinctions
 
-- Growth is a rise in output; development is wider and includes health, education and freedom. A barrier can hit one more than the other.
+- Growth means more output. Development means better lives, including health, education and freedom. One barrier can hurt growth more than development, or the reverse.
 - Poverty cycle (the loop) against poverty trap (the situation that is hard to leave).
 - Humanitarian aid (emergencies) against development aid (long-term).
 - World Bank (development lending and projects) against IMF (lending for balance of payments problems, with advice).

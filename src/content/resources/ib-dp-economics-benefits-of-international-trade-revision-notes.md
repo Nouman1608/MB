@@ -34,7 +34,7 @@ For full explanations and worked examples, read the [study guide](/resources/ib-
 | Foreign exchange earnings | Foreign currency received from exports |
 | Absolute advantage (HL only) | Producing a good with fewer resources, or more output from the same resources, than another country |
 | Opportunity cost (HL only) | The next best alternative given up |
-| Comparative advantage (HL only) | Giving up less of other goods to make a good than another country does |
+| Comparative advantage (HL only) | A lower opportunity cost of a good than a trading partner has |
 
 ## The nine benefits at a glance
 

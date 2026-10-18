@@ -40,7 +40,7 @@ The guide asks for correctly labelled, clearly drawn diagrams where they are app
 
 ## The set-up that every diagram shares
 
-All the diagrams use one market, one world price and one domestic demand and supply pair. Put price up the side and quantity along the bottom.
+All the diagrams use one market, one world price and one domestic demand and supply pair. Put price up the vertical axis and quantity along the horizontal axis.
 
 - **D** is domestic demand and **S** is domestic supply.
 - **Pw** is the world price. Under free trade, domestic buyers and sellers face Pw.
@@ -111,7 +111,7 @@ Spending changes too. Consumers spend 25 × 105 = 2 625 instead of 2 400. Domest
 
 ## Quotas
 
-An import quota caps how many units of a good can enter during a set period. The government may allocate the right to import by licence. Because supply from abroad is capped, the domestic price rises until domestic buyers want exactly the quota quantity beyond what domestic firms supply.
+An import quota sets a ceiling on the units of a good allowed in during a set period. The government may allocate the right to import by licence. Because supply from abroad is capped, the domestic price rises until domestic buyers want exactly the quota quantity beyond what domestic firms supply.
 
 ### Quota diagram
 
@@ -134,7 +134,7 @@ A second difference: with a tariff the price gap is set and the import quantity 
 
 ## Subsidies and export subsidies
 
-A subsidy is money the government pays to producers, usually per unit. In trade, two cases matter.
+A subsidy is a government payment made to producers, usually per unit. In trade, two cases matter.
 
 ### Subsidy to domestic producers (competing with imports)
 
@@ -173,7 +173,7 @@ Home consumers pay more, producers gain, and taxpayers fund the subsidy.
 
 ## Administrative barriers
 
-The guide names **standards and regulations** here, at an evaluation depth. These are non-tax rules that make it harder or dearer to sell an imported product. Examples (all fictional in use):
+The guide names **standards and regulations** here, at an evaluation depth. These are non-tax rules that make it harder or dearer to sell an imported product. Examples of such rules:
 
 - A labelling rule that requires packaging in the local language.
 - A safety standard, tested in domestic laboratories.
@@ -188,8 +188,7 @@ Importers must pay 4 per shirt for local testing, so the consumer price becomes 
 
 1. Qd = 180 − 72 = 108 and Qs = 96 − 30 = 66. Imports = **42**.
 2. Compliance spending = 4 × 42 = **168**, which is a pure cost and not revenue to anyone.
-3. Consumer surplus loss = ½ × (120 + 108) × 4 = 456. Producer surplus gain = ½ × (50 + 66) × 4 = 232.
-4. Net welfare change = 232 − 456 = **−224**, made up of 168 of compliance cost and triangles of 32 and 24.
+3. Every unit sold still costs consumers 24, and domestic producers gain from the higher price, as with a tariff of 4. The difference is that the 168 pays for compliance and goes to no one as income.
 
 Evaluation matters because a standard can have two purposes. It may protect buyers from unsafe or misleading products. It may also shelter domestic firms. A good answer weighs how well the rule achieves a genuine goal against how much it restricts trade, and whether a less restrictive rule would do the job. Reasons for trade control belong to sub-topic 4.3.
 

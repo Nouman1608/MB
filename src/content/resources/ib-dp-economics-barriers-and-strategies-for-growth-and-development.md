@@ -23,13 +23,13 @@ publishedDate: 2026-10-19
 featured: false
 ---
 
-This guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers sub-topic 4.9, barriers to economic growth and/or economic development, and sub-topic 4.10, growth and/or development strategies, in Unit 4 The global economy. Neither sub-topic contains HL-only content, so both are for SL and HL. Every country, firm and figure here is invented for illustration.
+This guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers sub-topic 4.9, barriers to economic growth and/or economic development, and sub-topic 4.10, growth and/or development strategies, in Unit 4 The global economy. Neither sub-topic contains HL-only content, so both are for SL and HL. The countries, firms and figures below are made up.
 
 See the [IB DP Economics hub](/boards/ib/ib-dp/economics/) and the [printable checklist](/checklists/ib/ib-dp/economics/). Condensed recall is in the [revision notes](/resources/ib-dp-economics-barriers-and-strategies-for-growth-and-development-revision-notes/) and exam-style work is in the [practice set](/resources/ib-dp-economics-barriers-and-strategies-for-growth-and-development-practice/). Related units: [economic integration](/resources/ib-dp-economics-economic-integration/) and [inequality and poverty](/resources/ib-dp-economics-inequality-and-poverty/). To find your weak spots first, try the [free diagnostics](/diagnostics/).
 
 ## What 4.9 and 4.10 ask you to do
 
-| Content | What you should be able to do |
+| Content | Skill |
 |---|---|
 | Poverty traps and poverty cycles | Explain them and draw a poverty cycle diagram |
 | Economic barriers (nine listed) | Explain each and apply it to a country |
@@ -89,7 +89,7 @@ A single price fall cuts export earnings by 17.5%, which squeezes imports, tax r
 
 **Capital flight.** Savings and investment funds leave the country, often because of political risk, fear of inflation or a weak currency. If Brevane's investment is 6.0 billion and 1.5 billion leaves each year, the outflow equals 1.5/6.0 = 25% of domestic investment.
 
-**Indebtedness.** High debt means interest and repayments absorb export earnings and tax revenue. In Quillon, debt service is 0.9 billion quills and exports are 3.0 billion, so the debt service ratio is 0.9/3.0 = 30%. Government revenue is 6.0 billion and interest is 1.2 billion, which is 20% of revenue and more than the 0.9 billion spent on education.
+**Indebtedness.** High debt means interest and repayments absorb export earnings and tax revenue. In Quillon, debt service is 0.9 billion quills and exports are 3.0 billion, so the debt service ratio is 0.9/3.0 = 30%. If the government pays all of it from revenue of 6.0 billion, that is 0.9/6.0 = 15% of revenue, equal to the 0.9 billion spent on education.
 
 **Geography, including landlocked countries.** A landlocked country must send trade through neighbours' ports and roads, which adds cost and delay and gives neighbours bargaining power.
 

@@ -22,13 +22,13 @@ featured: false
 
 These notes follow the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. They cover sub-topic 4.7, sustainable development, in Unit 4 The global economy. The meaning of sustainable development and the Sustainable Development Goals are SL and HL. The link between sustainability and poverty is **HL only**. All countries and figures are invented.
 
-For full explanations, read the [study guide](/resources/ib-dp-economics-sustainable-development/). Test yourself with the [practice set](/resources/ib-dp-economics-sustainable-development-practice/). Track progress on the [IB DP Economics hub](/boards/ib/ib-dp/economics/) and the [printable checklist](/checklists/ib/ib-dp/economics/), and find gaps with the [free diagnostics](/diagnostics/).
+For full explanations, read the [study guide](/resources/ib-dp-economics-sustainable-development/). Then try the [practice set](/resources/ib-dp-economics-sustainable-development-practice/). Track progress on the [IB DP Economics hub](/boards/ib/ib-dp/economics/) and the [printable checklist](/checklists/ib/ib-dp/economics/), and find gaps with the [free diagnostics](/diagnostics/).
 
 ## Core definitions
 
 | Term | Meaning |
 |---|---|
-| Sustainability | The present generation meets its needs without compromising the ability of future generations to meet theirs; economic activity must limit resource depletion and degradation that would harm them |
+| Sustainability | The present generation meets its needs while leaving later generations able to meet theirs; economic activity must limit resource depletion and degradation that would harm them |
 | Sustainable development | Raising living standards in a way that can continue, so that present needs are met without running down what later generations will need |
 | Renewable resource | A resource that regenerates; use is sustainable while the yearly amount taken does not exceed regeneration |
 | Non-renewable resource | A resource with no useful regeneration; every unit used reduces what remains |
@@ -149,7 +149,7 @@ Together they can form a vicious circle. Policies that tackle both at once, such
 
 ### Answers
 
-1. Meeting the needs of the present generation without compromising the ability of future generations to meet their own.
+1. Meeting present needs while leaving later generations able to meet theirs.
 2. Regeneration = 10% × 50,000 = 5,000 tonnes. Next stock = 50,000 + 5,000 − 6,000 = **49,000 tonnes**.
 3. 250 ÷ 5 = **50 years**.
 4. Mining need = 80% × 5 = 4 million a year. 250 ÷ 4 = **62.5 years**.
@@ -174,4 +174,4 @@ Together they can form a vicious circle. Policies that tackle both at once, such
 
 ## Official syllabus
 
-IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization in February 2020. These notes cover sub-topic 4.7, sustainable development.
+Source: *Economics guide*, IB Diploma Programme, first assessment 2022 (International Baccalaureate Organization, February 2020). Sub-topic 4.7.

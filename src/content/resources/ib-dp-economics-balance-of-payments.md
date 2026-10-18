@@ -42,7 +42,7 @@ The guide sets the deficit, surplus and effectiveness rows at the evaluation lev
 
 ## Credits, debits, surplus and deficit
 
-The **balance of payments** is a record of all the transactions between residents of one country and the rest of the world over a period. A **credit item** brings money into the country, for example an export sale. A **debit item** sends money out, for example an import purchase. An account has a **surplus** if credits exceed debits and a **deficit** if debits exceed credits.
+The **balance of payments** records every payment flowing between a country's residents and foreign residents in a given period. A **credit item** brings money into the country, for example an export sale. A **debit item** sends money out, for example an import purchase. An account has a **surplus** if credits exceed debits and a **deficit** if debits exceed credits.
 
 ## Components of the balance of payments
 
@@ -53,11 +53,11 @@ The **balance of payments** is a record of all the transactions between resident
 | Balance of trade in goods | Exports minus imports of physical goods | Selling machinery abroad | Buying foreign cars |
 | Balance of trade in services | Exports minus imports of services | A foreign tourist staying in Halvenia | A Halvenian firm paying for foreign software |
 | Income | Earnings on investment and pay across borders | Profit sent home by a Halvenian firm's overseas factory | Profit sent abroad by a foreign-owned Halvenian factory |
-| Current transfers | One-way payments with nothing received in return | Remittances sent home by Halvenians working abroad | Government aid given to another country |
+| Current transfers | Gifts and aid that need no payment back | Remittances sent home by Halvenians working abroad | Government aid given to another country |
 
 ### The capital account
 
-**Capital transfers** are one-way transfers linked to assets, such as a creditor writing off a debt. **Transactions in non-produced, non-financial assets** are purchases and sales of things that were not made and are not financial, such as the rights to a patent or a licence.
+**Capital transfers** are one-way transfers linked to assets, such as a creditor writing off a debt. **Transactions in non-produced, non-financial assets** are purchases and sales of things that were not made and are not financial, such as land bought abroad by an embassy or the transfer of a brand name.
 
 ### The financial account
 
@@ -65,7 +65,7 @@ This guide records a net inflow of financial capital as a credit, so a financial
 
 - **Foreign direct investment (FDI):** buying or building a lasting stake in a business abroad, such as a new factory.
 - **Portfolio investment:** buying shares or bonds without seeking control.
-- **Reserve assets:** foreign currency and gold held by the central bank. A fall in reserves is a credit, because the central bank is supplying foreign currency to the market.
+- **Reserve assets:** the central bank's stock of foreign currency and gold. A fall in reserves is a credit, because the central bank is supplying foreign currency to the market.
 - **Official borrowing:** borrowing by the government or central bank from abroad. A net inflow of borrowing is a credit.
 
 ### Worked example 1: calculating from data
@@ -112,7 +112,7 @@ Draw the market for the hal: exchange rate (foreign currency per hal) on the ver
 
 ```
 Rate
- |  S (hals supplied: imports, outflows)
+ |  D (hals demanded: exports, inflows)
  |   \             /
  |    \           /
 R1 - - -\- - - - /- - - -   excess supply of hals
@@ -120,13 +120,13 @@ R1 - - -\- - - - /- - - -   excess supply of hals
 Re - - - - -X- - - - - -
  |         /     \
  |        /       \
- |  D (hals demanded: exports, inflows)
+ |  S (hals supplied: imports, outflows)
  +------------------------------ Quantity of hals
 ```
 
-Foreign buyers demand hals to pay for exports, so demand slopes down. Halvenians supply hals to buy imports, so supply slopes up. Re is the equilibrium rate. If the rate is held at R1, above Re, the supply of hals exceeds demand. This is the pressure a current account deficit creates.
+Foreign buyers need hals to pay for exports, so the demand curve falls to the right. Halvenians sell hals to pay for imports, so the supply curve rises. Re is the equilibrium rate. If the rate is held at R1, above Re, the supply of hals exceeds demand. This is the pressure a current account deficit creates.
 
-In a floating system, the rate falls towards Re. The depreciation makes exports cheaper abroad and imports dearer at home, which tends to narrow the deficit. The link runs both ways. A current account surplus has the opposite effect: demand for hals shifts right and the rate rises.
+In a floating system, the rate falls towards Re. The fall in the hal makes Halvenian goods cheaper for foreign buyers and foreign goods dearer for Halvenians, which tends to narrow the deficit. The link runs both ways. A current account surplus has the opposite effect: demand for hals shifts right and the rate rises.
 
 ## The financial account and the exchange rate (HL only)
 
@@ -151,20 +151,20 @@ Judge a deficit by its size relative to GDP, its duration, how it is financed an
 ## Methods to correct a persistent current account deficit (HL only)
 
 - **Expenditure switching** moves spending from imports to domestic output. Examples are tariffs, quotas, export subsidies and a deliberate depreciation or devaluation.
-- **Expenditure reducing** cuts total demand, and so imports. Examples are higher taxes, lower government spending and higher interest rates.
+- **Expenditure reducing** cuts total demand, and so imports. Examples are tax rises, spending cuts and dearer borrowing.
 - **Supply-side policies** raise productivity and quality, which improves competitiveness over time. Examples are investment in education, infrastructure and research.
 
 Effectiveness depends on the case. Expenditure switching can bring retaliation. Depreciation raises import prices and works only if demand responds enough, as the next section shows. Expenditure reducing works quickly on imports but costs output, jobs and growth. Supply-side policies avoid those costs but are slow and expensive. Pair each method with the cause: weak competitiveness needs supply-side policy, whereas a consumption boom may respond to expenditure reducing. See [supply-side policies](/resources/ib-dp-economics-supply-side-policies/), [fiscal policy](/resources/ib-dp-economics-fiscal-policy/) and [types of trade protection](/resources/ib-dp-economics-types-of-trade-protection/).
 
 ## The Marshall-Lerner condition and the J-curve effect (HL only)
 
-The **Marshall-Lerner condition** says a depreciation improves the current account only if the sum of the price elasticity of demand for exports and for imports (ignoring signs) is greater than 1.
+The **Marshall-Lerner condition** says a depreciation improves the current account only if the price elasticities of demand for exports and for imports, taken as positive numbers, total more than 1.
 
 ### Worked example 3
 
 Halvenia's exports of goods and services are 400 and imports are 440, so the balance is -40. The hal depreciates by 10%. Assume export prices in hals are unchanged, so foreign buyers see a 10% price fall, and import prices in foreign currency are unchanged, so Halvenians see a 10% price rise.
 
-Case A: price elasticity of demand for exports 0.9 and for imports 0.7. The sum is 1.6, which is above 1.
+Case A: export elasticity 0.9, import elasticity 0.7. The sum is 1.6, which is above 1.
 
 ```
 Export volume up 0.9 x 10% = 9%      Exports = 400 x 1.09 = 436.00
@@ -174,7 +174,7 @@ New balance = 436.00 - 450.12 = -14.12
 
 The deficit narrows from 40 to 14.12.
 
-Case B: elasticities 0.4 and 0.3. The sum is 0.7, below 1.
+Case B: export elasticity 0.4, import elasticity 0.3. The sum is 0.7, below 1.
 
 ```
 Exports = 400 x 1.04 = 416.00
@@ -186,7 +186,7 @@ The deficit widens from 40 to 53.48.
 
 ### The J-curve
 
-Demand is usually less elastic in the short run, because contracts are fixed and buyers take time to switch. Case B describes the short run and Case A the longer run. The balance therefore worsens first and then improves, tracing a J shape.
+Demand is usually less elastic in the short run, because contracts are fixed and buyers take time to switch. Case B describes the short run and Case A the longer run. The balance therefore falls at first, then recovers, tracing a J shape.
 
 ```
 Current account balance
@@ -219,7 +219,7 @@ A surplus is not simply success. Weigh jobs, export growth and foreign assets ag
 - Writing that the balance of payments can be in deficit overall. The total is zero, so name the account.
 - Treating a fall in reserves as a debit. In this guide's convention it is a credit.
 - Drawing a currency diagram without labelled axes, curves and equilibrium.
-- Saying a depreciation always cures a deficit, with no mention of elasticities or time.
+- Claiming depreciation must cure a deficit, ignoring elasticities and time lags.
 
 ## Official syllabus
 

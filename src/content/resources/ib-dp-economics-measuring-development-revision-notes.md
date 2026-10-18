@@ -26,7 +26,7 @@ These notes follow the IB Diploma Programme *Economics guide* (first assessment 
 
 | Term | Meaning |
 |---|---|
-| Economic growth | A rise in real output, shown by real GDP or GNI |
+| Economic growth | Increase in real output, measured by real GDP or GNI |
 | Economic development | Wider improvement in living standards: health, education, equity, choice, sustainability and income |
 | Purchasing power parity (PPP) | Exchange rate that makes a standard basket cost the same in two countries |
 | Single indicator | A measure of one aspect of development |
@@ -54,7 +54,7 @@ These notes follow the IB Diploma Programme *Economics guide* (first assessment 
 
 ## Method: building an HDI (illustrative limits)
 
-Use limits: life expectancy 20 to 85; expected schooling 0 to 18; mean schooling 0 to 15; income 100 to 75,000.
+Use limits: income from 200 to 80,000, expected schooling from 0 to 20, mean schooling from 0 to 15, life expectancy from 25 to 85.
 
 1. Dimension index = (actual - minimum) / (maximum - minimum).
 2. Education index = average of the expected-schooling and mean-schooling indices.
@@ -63,14 +63,14 @@ Use limits: life expectancy 20 to 85; expected schooling 0 to 18; mean schooling
 
 Worked reminder. Ormund: life expectancy 78, expected schooling 15, mean schooling 11, GNI per person 30,000 units at PPP.
 
-- Health = (78 - 20) / 65 = 0.892.
-- Schooling indices: 15 / 18 = 0.833 and 11 / 15 = 0.733; education = 0.783.
-- Income = (ln 30,000 - ln 100) / (ln 75,000 - ln 100) = 5.704 / 6.620 = 0.862.
-- HDI = (0.892 x 0.783 x 0.862)^(1/3) = **0.844**.
+- Health = (78 - 25) / 60 = 0.883.
+- Schooling indices: 15 / 20 = 0.750 and 11 / 15 = 0.733; education = 0.742.
+- Income = (ln 30,000 - ln 200) / (ln 80,000 - ln 200) = 5.011 / 5.991 = 0.836.
+- HDI = (0.883 x 0.742 x 0.836)^(1/3) = **0.818**.
 
-Pellara: life expectancy 64, expected schooling 10, mean schooling 5, income 3,000. Indices 0.677, 0.444 and 0.514 give an HDI of **0.537**.
+Pellara: life expectancy 64, expected schooling 10, mean schooling 5, income 3,000. Indices 0.650, 0.417 and 0.452 give an HDI of **0.497**.
 
-Ormund's income is ten times Pellara's, yet its HDI is about 1.6 times higher, not ten times, because each dimension is capped at 1 and the income index uses logarithms.
+Ormund's income is ten times Pellara's, yet its HDI is only about 1.6 times higher, not ten times, because each dimension is capped at 1 and the income index uses logarithms.
 
 ## Method: adjusting for inequality (simplified)
 
@@ -81,9 +81,9 @@ Ormund's income is ten times Pellara's, yet its HDI is about 1.6 times higher, n
 
 Worked reminder. Ormund's losses are 5% in health, 10% in education and 15% in income.
 
-- Adjusted indices: 0.892 x 0.95 = 0.848; 0.783 x 0.90 = 0.705; 0.862 x 0.85 = 0.732.
-- IHDI = (0.848 x 0.705 x 0.732)^(1/3) = **0.759**.
-- Loss = (0.844 - 0.759) / 0.844 = 10.1%.
+- Adjusted indices: 0.883 x 0.95 = 0.839; 0.742 x 0.90 = 0.668; 0.836 x 0.85 = 0.711.
+- IHDI = (0.839 x 0.668 x 0.711)^(1/3) = **0.736**.
+- Loss = (0.818 - 0.736) / 0.818 = about 10%.
 
 The real IHDI uses its own inequality formula for each dimension. In an answer, say that unequal distribution lowers the score, and name which dimension loses most.
 
@@ -100,7 +100,7 @@ Pellara's basket costs 1,500 and the same basket costs 500 in a reference econom
 
 ## Must-know distinctions
 
-- **Growth versus development:** growth is a rise in output; development is wider and includes people's health, schooling and fairness.
+- **Growth versus development:** growth means more output; development covers people's health, schooling and fairness as well.
 - **Single versus composite:** single indicators are clear but narrow; composites are broad but depend on weights and method.
 - **HDI versus IHDI:** the IHDI adjusts for inequality, so it is lower unless distribution is perfectly equal.
 - **HDI versus GII:** the HDI measures average achievement; the GII measures gender disadvantage, and a higher GII is worse.
@@ -132,7 +132,7 @@ Conclusion to aim for: the link is positive but conditional. Use a named case wi
 1. Define purchasing power parity.
 2. A basket costs 1,500 in Pellara and 500 in a reference economy. GNI per person is 45,000 in Pellara. Find GNI per person at PPP.
 3. Name the three dimensions of the HDI.
-4. Life expectancy is 55 and the illustrative limits are 20 and 85. Find the health index.
+4. Life expectancy is 55 and the illustrative limits are 25 and 85. Find the health index.
 5. Explain why the HDI uses a geometric mean.
 6. Dimension indices are 0.9, 0.8 and 0.5. Find the HDI to 3 decimal places.
 7. What does a higher GII value show?
@@ -146,7 +146,7 @@ Conclusion to aim for: the link is positive but conditional. Use a named case wi
 1. The exchange rate that makes a standard basket of goods cost the same in two countries.
 2. PPP rate = 1,500 / 500 = 3; 45,000 / 3 = **15,000 units**.
 3. Health (life expectancy), education (schooling) and standard of living (GNI per person at PPP).
-4. (55 - 20) / (85 - 20) = 35 / 65 = **0.538**.
+4. (55 - 25) / (85 - 25) = 30 / 60 = **0.500**.
 5. It lowers the index when one dimension is weak, so strength in one dimension cannot fully offset weakness in another.
 6. (0.9 x 0.8 x 0.5)^(1/3) = (0.36)^(1/3) = **0.711**.
 7. Greater inequality between women and men, so a worse position.
@@ -163,7 +163,7 @@ Conclusion to aim for: the link is positive but conditional. Use a named case wi
 - Writing "PPP" without explaining that it adjusts for price differences.
 - Stating strengths and limitations as a general list rather than applying them to a named index and a given country.
 - Ignoring the data given in the question and relying on memorised statements.
-- Giving a one-sided answer to an evaluation question and not reaching a supported judgement.
+- Stopping an evaluation after one side, with no supported judgement at the end.
 - Mixing up IHDI and GII: one adjusts HDI for inequality in general, the other measures gender disadvantage.
 
 ## Official syllabus

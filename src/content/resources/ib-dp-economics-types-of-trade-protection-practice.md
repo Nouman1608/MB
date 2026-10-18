@@ -53,7 +53,7 @@ Norland now imposes a tariff of 10 per tyre.
 
 **(a)** Calculate the quantity of imports before and after the tariff. **[2]**
 **(b)** Calculate government revenue. **[1]**
-**(c)** Calculate the fall in consumer surplus. **[2]**
+**(c)** Calculate the loss of consumer surplus. **[2]**
 **(d)** Calculate the gain in producer surplus. **[1]**
 **(e)** Calculate the total welfare loss. **[2]**
 
@@ -71,7 +71,7 @@ Norland now imposes a tariff of 10 per tyre.
 
 **(a)** Calculate exports before and after the subsidy. **[2]**
 **(b)** Calculate what the subsidy costs the government. **[1]**
-**(c)** Calculate the fall in consumer surplus. **[2]**
+**(c)** Calculate the loss of consumer surplus. **[2]**
 **(d)** Calculate the gain in producer surplus. **[1]**
 **(e)** Calculate the net change in welfare. **[1]**
 
@@ -84,7 +84,7 @@ Norland now imposes a tariff of 10 per tyre.
 ## Answers
 
 **1.** A tariff is a tax on imported goods [1]. It raises the price of the import in the domestic market [1]. **[2]**
-*Examiner insight:* A definition earns credit for the key word "tax" together with "imports"; "a barrier to trade" is too wide to be a definition of this tool.
+*Examiner insight:* Aim to name the tool by its mechanism, a tax levied on imports; "a barrier to trade" is too wide to define it.
 
 **2.** Axes are price and quantity, with domestic demand D and domestic supply S labelled [1]. A horizontal world price line Pw sits below the point where D meets S, and a second line Pw + t above it [1]. Four quantities are marked on the horizontal axis: Qs and Qd under free trade, and Qs and Qd with the tariff [1]. The revenue rectangle is shaded between the two new quantities and the price gap, with the two welfare-loss triangles labelled [1]. **[4]**
 *Examiner insight:* A diagram that omits the world price line or the quantities cannot show the effect on imports, however neat it looks.
@@ -102,7 +102,7 @@ Norland now imposes a tariff of 10 per tyre.
 *Examiner insight:* Part (e) can be found as consumer loss minus producer gain minus revenue, but showing the two triangles protects the method mark if one earlier figure is wrong.
 
 **5.** First, revenue: a tariff pays area d to the government [1], whereas a quota creates quota rent, collected by licence holders and not necessarily by the government [1]. Second, adjustment: a tariff fixes the price gap and lets the quantity of imports respond to demand [1], while a quota sets the quantity and lets the price respond, so a rise in demand pushes the price further up [1]. **[4]**
-*Examiner insight:* Each difference needs both the contrast and the consequence, so a list of two bare labels earns half marks at best.
+*Examiner insight:* Pair each difference with its consequence for price or quantity; two bare labels give you little to build on.
 
 **6. (a)** Set Qd − Qs = 20: 150 − 3P − (2P − 20) = 20 [1]. So 170 − 5P = 20 and P = **30 [1]**.
 **(b)** At Pw = 24 the price gap is 30 − 24 = 6 [1]. Rent = 6 × 20 = **120 [1]**.
@@ -122,7 +122,7 @@ Norland now imposes a tariff of 10 per tyre.
 **9.** First, extra cost: a testing or labelling requirement adds a cost per unit [1], which raises the price of imports and so reduces the quantity bought [1]. Second, delay and uncertainty: slow inspections or the risk that goods are rejected make importers bring in less [1], so supply of imports falls [1]. **[4]**
 *Examiner insight:* "It is a barrier" is not an explanation; credit comes from a mechanism that leads to fewer imports.
 
-**10.** A model plan, with indicative points. The real paper is marked against the IB markbands and not point by point, but the content below shows what to include.
+**10.** Model plan with indicative content. The guide says papers use an analytic markscheme together with markbands, so treat this as indicative content and not a tally.
 - Both tools raise domestic output: the tariff by raising the price producers get, the subsidy by paying them more per unit [1].
 - Tariff: consumers pay a higher price and buy less, a cost for buyers, including firms that use steel [1].
 - Subsidy: the consumer price is unchanged, so buyers are not harmed [1].
@@ -133,7 +133,7 @@ Norland now imposes a tariff of 10 per tyre.
 - Tariff may provoke other countries to respond with their own tariffs, harming exporters [1].
 - Subsidy may be hard to end once firms depend on it [1].
 - A judgment, such as the subsidy being less harmful to consumers but dearer to the budget, with a criterion given [1]. **[10]**
-*Examiner insight:* A one-sided answer that only explains the tariff cannot reach the top band; the question asks you to weigh two tools against each other.
+*Examiner insight:* Explaining only the tariff leaves the question half answered; the task is to weigh the two tools against each other.
 
 **11.** A model plan.
 - The laboratory fee adds a cost per unit that only imports pay, so import prices rise [1].
@@ -144,7 +144,7 @@ Norland now imposes a tariff of 10 per tyre.
 - Testing could have a real purpose: unsafe toys harm children, and testing before sale may help prevent that [1].
 - Evidence of protection: the safety test applies only to imports, since local makers test themselves [1].
 - Judgment: the rule may have a safety motive, but different treatment suggests it also shelters domestic firms; a rule that tested every toy to the same standard would be more convincing [1]. **[8]**
-*Examiner insight:* "To what extent" needs a stated judgment supported by the case evidence, not a list of effects.
+*Examiner insight:* With "to what extent", commit to a view and back it with details from the case, rather than listing effects.
 
 ## Where marks are usually lost
 

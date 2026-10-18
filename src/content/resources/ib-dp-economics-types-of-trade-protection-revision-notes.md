@@ -31,9 +31,9 @@ All figures are fictional.
 | Term | Meaning |
 |---|---|
 | Tariff | A tax on imported goods. Specific: a fixed sum per unit. Ad valorem: a share of the import's value |
-| Quota | A legal cap on the number of units of a good that may enter |
+| Quota | A legal ceiling on the units of a good allowed in |
 | Quota rent | The price gap (domestic price minus world price) times the quota quantity, collected by licence holders |
-| Subsidy | Money paid by government to producers, usually per unit of output |
+| Subsidy | A government payment made to producers, usually per unit of output |
 | Export subsidy | A payment per unit sold abroad |
 | Administrative barrier | A standard, regulation, licence or procedure that makes importing harder or dearer |
 | Welfare loss | The triangles of surplus that nobody gains when protection distorts output and consumption |
@@ -70,7 +70,7 @@ Every diagram needs the following. Mark each as you draw.
 7. Welfare loss = ½ × price rise × (new Qs − old Qs) + ½ × price rise × (old Qd − new Qd).
 8. Check: consumer loss = producer gain + revenue + welfare loss.
 
-**Producer subsidy, import-competing market**
+**Producer subsidy, import-competing market (steps 3 to 5 are HL only calculations)**
 
 1. Producers receive Pw + s. Find the new Qs. Consumers still pay Pw, so Qd does not change.
 2. New imports = Qd − new Qs.
@@ -78,7 +78,7 @@ Every diagram needs the following. Mark each as you draw.
 4. Producer gain = ½ × (old Qs + new Qs) × s.
 5. Net welfare change = producer gain − cost, which equals −½ × s × (new Qs − old Qs).
 
-**Export subsidy**
+**Export subsidy (steps 3 and 4 are HL only calculations)**
 
 1. Domestic price rises to Pw + s.
 2. New Qd and Qs at that price. Exports = Qs − Qd.
@@ -104,9 +104,9 @@ At Pw: Qd = 100, Qs = 50, imports = **50**.
 | Welfare loss | ½ × 4 × 12 + ½ × 4 × 8 = 24 + 16 | 40 |
 | Check | 224 + 120 + 40 | 384 |
 
-**Quota of 30:** solve 140 − 2P − (3P − 10) = 30, so 150 − 5P = 30 and **P = 24**. Same quantities as the tariff. Quota rent = 4 × 30 = **120**.
+**Quota of 30 (rent is an HL only calculation):** solve 140 − 2P − (3P − 10) = 30, so 150 − 5P = 30 and **P = 24**. Same quantities as the tariff. Quota rent = 4 × 30 = **120**.
 
-**Producer subsidy of 4:** producers receive 24, so Qs = 62. Consumers pay 20 and buy 100. Imports = **38**. Cost = 4 × 62 = **248**. Producer gain = ½ × (50 + 62) × 4 = **224**. Net = 224 − 248 = **−24**.
+**Producer subsidy of 4 (cost and welfare are HL only):** producers receive 24, so Qs = 62. Consumers pay 20 and buy 100. Imports = **38**. Cost = 4 × 62 = **248**. Producer gain = ½ × (50 + 62) × 4 = **224**. Net = 224 − 248 = **−24**.
 
 **Export subsidy (HL only):** fictional tea market in Sunmar. Qd = 120 − 2P, Qs = 3P − 30, Pw = 36. Free trade: Qd = 48, Qs = 78, exports **30**. A subsidy of 3 per unit exported lifts the domestic price to 39. Then Qd = 42, Qs = 87 and exports are **45**. Cost = 3 × 45 = **135**. Consumer loss = ½ × (48 + 42) × 3 = **135**. Producer gain = ½ × (78 + 87) × 3 = **247.5**. Net = 247.5 − 135 − 135 = **−22.5**.
 
@@ -170,13 +170,13 @@ Use the Lorvan market: Qd = 140 − 2P, Qs = 3P − 10, Pw = 20, quantities in t
 6. Calculate the fall in consumer surplus. (HL only)
 7. Calculate the gain in producer surplus. (HL only)
 8. Calculate the net change in welfare. (HL only)
-9. An ad valorem tariff of 15% is placed on a good with a world price of 30. State the tariff per unit and the domestic price.
+9. A 15% ad valorem tariff applies to a good whose world price is 30. State the tariff per unit and the domestic price.
 10. State why an administrative barrier raises no government revenue.
-11. A quota of 30 is set. State the domestic price and the quota rent.
+11. A quota of 30 is set. State the domestic price and the quota rent. (HL only)
 
 ### Answers
 
-1. A legal cap on how many units of a good may enter in a period.
+1. A legal ceiling on the units of a good allowed in during a period.
 2. 20 + 6 = **26**.
 3. Qs = 78 − 10 = **68**. Qd = 140 − 52 = **88**.
 4. 88 − 68 = **20**.

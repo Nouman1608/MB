@@ -34,7 +34,7 @@ Related pages: the [study guide](/resources/ib-dp-economics-benefits-of-internat
 
 **1.** Outline two ways in which increased competition from imports can benefit consumers. **[2]**
 
-**2.** A fictional firm, Ostrel Pottery, has fixed costs of 240 000 currency units and a variable cost of 5 units per item. Calculate its average cost at 20 000 items and at 60 000 items, and the percentage fall to one decimal place. **[3]**
+**2.** A fictional firm, Ostrel Pottery, has fixed costs of 180 000 currency units and a variable cost of 4 units per item. Calculate its average cost at 15 000 items and at 45 000 items, and the percentage fall to one decimal place. **[3]**
 
 **3.** In the fictional market for rice in Norvale, the world price is above the domestic equilibrium price. Draw and label a diagram of free trade in this market, and explain the effect on domestic consumers and producers. **[4]**
 
@@ -75,7 +75,7 @@ Related pages: the [study guide](/resources/ib-dp-economics-benefits-of-internat
 **1.** Home firms must cut prices or improve quality to keep customers [1], so consumers pay less or get better goods; or consumers can choose between more varieties [1]. Any two distinct valid ways. **[2]**
 *Examiner insight:* "Outline" asks for a brief account, so give two short, separate points rather than one point repeated.
 
-**2.** At 20 000: (240 000 + 5 × 20 000) ÷ 20 000 = 340 000 ÷ 20 000 = **17** [1]. At 60 000: (240 000 + 300 000) ÷ 60 000 = **9** [1]. Fall = (17 − 9) ÷ 17 = **47.1%** [1]. **[3]**
+**2.** At 15 000: (180 000 + 4 × 15 000) ÷ 15 000 = 240 000 ÷ 15 000 = **16** [1]. At 45 000: (180 000 + 180 000) ÷ 45 000 = **8** [1]. Fall = (16 − 8) ÷ 16 = **50.0%** [1]. **[3]**
 *Examiner insight:* Show the total-cost step before dividing, since the guide's meaning of calculate is to show the stages of working.
 
 **3.** Diagram: price up the side, quantity along the bottom, D and S crossing at the no-trade price [1]; horizontal world price line above it, with Qd and Qs read at that price and exports Qs − Qd [1]. Consumers pay a higher price and buy less, so consumer surplus falls [1]. Producers receive a higher price and sell more, so producer surplus rises, by more than consumers lose [1]. **[4]**

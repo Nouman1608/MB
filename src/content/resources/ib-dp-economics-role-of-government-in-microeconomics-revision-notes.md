@@ -78,7 +78,7 @@ Learn the seven aims, then pair each with a tool and an example.
 
 The guide does not name which quantities to compute, so practise all of them.
 
-## Worked reminder: indirect tax (fictional)
+## Worked reminder: indirect tax (fictional, HL only)
 
 Market for sparkling water in Brenmoor: demand P = 200 − 4Q, supply P = 20 + 2Q. Tax: 18 cu per bottle.
 
@@ -93,7 +93,7 @@ Producer keeps = 92 - 18 = 74
 - Revenue: 18 × 27 = 486. Consumer share 12 × 27 = 324. Producer share 6 × 27 = 162.
 - Welfare loss: ½ × 18 × (30 − 27) = 27.
 
-## Worked reminder: price ceiling (fictional)
+## Worked reminder: price ceiling (fictional, HL only)
 
 Market for bottled gas in Selvane: demand P = 120 − 2Q, supply P = 30 + Q. Equilibrium Q = 30, P = 60. Ceiling: 48 cu.
 
@@ -141,8 +141,8 @@ The guide asks you to weigh consequences for markets and stakeholders. Use these
 2. Which curve shifts for an indirect tax, and in which direction?
 3. Name two reasons a government might subsidise a good.
 4. Tea in Dunmere: demand P = 90 − 3Q, supply P = 10 + Q. Find equilibrium.
-5. A floor of 45 cu is set. Find the quantity demanded, quantity supplied and the surplus.
-6. If the government buys the surplus at 45 cu, what does it spend?
+5. (HL only) A floor of 45 cu is set. Find the quantity demanded, quantity supplied and the surplus.
+6. (HL only) If the government buys the surplus at 45 cu, what does it spend?
 7. Solar panels in Pellaria: demand P = 180 − 3Q, supply P = 40 + Q. Find equilibrium.
 8. A subsidy of 24 cu per installation is introduced. Find the new quantity, consumer price and producer price. (HL only)
 9. Find the cost to the government and the welfare loss of the subsidy. (HL only)

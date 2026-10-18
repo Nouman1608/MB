@@ -56,9 +56,9 @@ Average cost falls by 8, which is 47.1% of the old figure. The fixed cost is spr
 
 ## Free trade when the world price is above the domestic price
 
-Build the diagram in this order. Put price up the side and quantity along the bottom. Draw the domestic demand curve (D) and domestic supply curve (S). Mark the no-trade equilibrium where they cross, at price P and quantity Q. Draw a horizontal line at the world price, Pw. Under free trade, domestic buyers and sellers face this price, because any firm can sell abroad at Pw.
+Build the diagram in this order. Put price on the vertical axis and quantity on the horizontal axis. Draw the domestic demand curve (D) and domestic supply curve (S). Mark the no-trade equilibrium where they cross, at price P and quantity Q. Draw a horizontal line at the world price, Pw. Under free trade, domestic buyers and sellers face this price, because any firm can sell abroad at Pw.
 
-If Pw is above P, the country has a comparative strength in this good. At Pw domestic sellers want to supply more than domestic buyers want to buy, so the difference is exported.
+If Pw is above P, the country can make this good more cheaply than the rest of the world. At Pw domestic sellers want to supply more than domestic buyers want to buy, so the difference is exported.
 
 
 Where the Pw line meets D, read off the quantity demanded (Qd). Where it meets S, read off the quantity supplied (Qs). The horizontal gap, Qs − Qd, is the quantity of exports. The effects:
@@ -109,7 +109,7 @@ Consumer surplus rises from ½ × 60 × (50 − 35) = 450 to ½ × 120 × (50 �
 
 ## Absolute and comparative advantage (HL only)
 
-A country has an **absolute advantage** in a good if it can produce it using fewer resources than another country, or can produce more with the same resources. A country has a **comparative advantage** if it gives up less of other goods to make it, so its **opportunity cost** is lower.
+A country has **absolute advantage** in a good when it makes the good with fewer resources than a trading partner, or gets more output from the same resources. It has **comparative advantage** when making the good costs it a smaller sacrifice of other goods than it costs the partner, so its **opportunity cost** is lower.
 
 Absolute advantage compares output. Comparative advantage compares opportunity cost. A country can be better at everything and still have a comparative advantage in only some goods, because it cannot have the lowest opportunity cost in both goods in a two-good model.
 

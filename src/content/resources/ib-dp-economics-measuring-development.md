@@ -26,7 +26,7 @@ See the [IB DP Economics hub](/boards/ib/ib-dp/economics/) and [printable checkl
 
 ## What 4.8 asks you to do
 
-| Content | What you should be able to do | Level |
+| Topic | Skill to show | Level |
 |---|---|---|
 | Multidimensional nature of development | Explain why development is more than higher income | SL and HL |
 | Single indicators | Explain GDP/GNI per person at PPP, health, education, inequality, energy and environmental indicators | SL and HL |
@@ -87,20 +87,20 @@ A composite indicator turns several measures into one number so countries can be
 
 ### Human Development Index (HDI)
 
-The HDI has three dimensions:
+The HDI is built from three dimensions:
 
-- **Health:** life expectancy at birth.
+- **Health:** how long people can expect to live at birth.
 - **Education:** mean years of schooling (adults) and expected years of schooling (children entering school).
 - **Standard of living:** GNI per person at PPP.
 
-Each dimension is turned into an index between 0 and 1: (actual value minus minimum) / (maximum minus minimum). The income index uses logarithms, so extra income counts for less as income rises. The HDI is the **geometric mean** of the three dimension indices. The real method sets fixed minimum and maximum values; the ones below are illustrative.
+Each dimension is turned into an index between 0 and 1: (actual value minus minimum) / (maximum minus minimum). The income index uses logarithms, so extra income counts for less as income rises. The overall HDI is the **geometric mean** of those three indices. The real method sets fixed minimum and maximum values; the ones below are illustrative.
 
-Worked example (invented). Sorenth has life expectancy 72, expected schooling 12 years, mean schooling 8 years and GNI per person of 12,000 units at PPP. Illustrative limits: life expectancy 20 to 85; expected schooling 0 to 18; mean schooling 0 to 15; income 100 to 75,000.
+Worked example (invented). Sorenth has life expectancy 72, expected schooling 12 years, mean schooling 8 years and GNI per person of 12,000 units at PPP. Illustrative limits: income from 200 to 80,000, expected schooling from 0 to 20, mean schooling from 0 to 15, life expectancy from 25 to 85.
 
-- Health index = (72 - 20) / (85 - 20) = 52 / 65 = 0.800.
-- Schooling indices: 12 / 18 = 0.667 and 8 / 15 = 0.533. Education index = their average = 0.600.
-- Income index = (ln 12,000 - ln 100) / (ln 75,000 - ln 100) = 4.787 / 6.620 = 0.723.
-- HDI = (0.800 x 0.600 x 0.723)^(1/3) = (0.3470)^(1/3) = **0.703**.
+- Health index = (72 - 25) / (85 - 25) = 47 / 60 = 0.783.
+- Schooling indices: 12 / 20 = 0.600 and 8 / 15 = 0.533. Education index = their average = 0.567.
+- Income index = (ln 12,000 - ln 200) / (ln 80,000 - ln 200) = 4.094 / 5.991 = 0.683.
+- HDI = (0.783 x 0.567 x 0.683)^(1/3) = (0.3033)^(1/3) = **0.672**.
 
 **Why geometric?** It stops a strong dimension fully covering a weak one. Country A has indices 0.9, 0.9 and 0.3. Country B has 0.7, 0.7 and 0.7. Both have an arithmetic mean of 0.700. The geometric mean is 0.624 for A and 0.700 for B, so A is penalised for its weak dimension.
 
@@ -110,9 +110,9 @@ The IHDI starts from the HDI and adjusts each dimension for how unequally it is 
 
 Simplified worked example (invented). Sorenth has losses of 10% in health, 20% in education and 30% in income.
 
-- Adjusted indices: 0.800 x 0.90 = 0.720; 0.600 x 0.80 = 0.480; 0.723 x 0.70 = 0.506.
-- IHDI = (0.720 x 0.480 x 0.506)^(1/3) = **0.559**.
-- Loss = (0.703 - 0.559) / 0.703 = 20.4%.
+- Adjusted indices: 0.783 x 0.90 = 0.705; 0.567 x 0.80 = 0.453; 0.683 x 0.70 = 0.478.
+- IHDI = (0.705 x 0.453 x 0.478)^(1/3) = **0.535**.
+- Loss = (0.672 - 0.535) / 0.672 = 20.4%.
 
 The published method uses a specific inequality formula for each dimension; the idea you need is that unequal distribution lowers the score.
 
@@ -149,20 +149,20 @@ Other limits apply to all indices: data quality varies, countries differ in what
 
 Growth often helps development. Higher incomes raise tax revenue and household spending on health and schooling, and better-educated, healthier workers raise productivity, so development can also drive growth. The link is not automatic.
 
-Worked comparison (invented). Tarvia and Quelland both have GNI per person of 22,000 units at PPP, so the income index is 0.815 in both.
+Worked comparison (invented). Tarvia and Quelland both have GNI per person of 22,000 units at PPP, so the income index is 0.785 in both.
 
 | Country | Life expectancy | Expected schooling | Mean schooling | HDI (illustrative limits) |
 |---|---|---|---|---|
-| Tarvia | 70 | 13 | 9 | 0.746 |
-| Quelland | 76 | 15 | 11 | 0.819 |
+| Tarvia | 70 | 13 | 9 | 0.716 |
+| Quelland | 76 | 15 | 11 | 0.791 |
 
-Same income, different outcomes. Quelland spends more of its income on health and schools. Growth does not raise development where gains go to a few households, where governments spend little on public services, where growth causes pollution that harms health, or where weak institutions waste revenue. Development without growth is also hard to sustain, because spending needs funding.
+Same income, different outcomes. One possible reason (not shown by the data) is that Quelland spends more of its income on health and schools. Growth does not raise development where gains go to a few households, where governments spend little on public services, where growth causes pollution that harms health, or where weak institutions waste revenue. Development without growth is also hard to sustain, because spending needs funding.
 
 A fair conclusion is that the relationship is positive but conditional. It depends on the sources of growth, how its gains are shared and how revenue is used, so check these in any case study you use.
 
 ## Common errors
 
-- Writing that HDI "measures income". It combines health, education and income.
+- Describing the HDI as an income measure. It combines health, education and income.
 - Saying a higher GII is good. A higher GII means greater gender inequality.
 - Treating PPP income as a measure of distribution. It is still an average.
 - Listing strengths and limitations without applying them to a named indicator or country.

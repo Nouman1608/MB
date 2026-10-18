@@ -22,7 +22,7 @@ featured: false
 
 This study guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. Its subject is sub-topic 2.7, Role of government in microeconomics (Unit 2), taught at SL and HL. Two items are HL only: the calculation of effects on markets and stakeholders, and consumer nudges.
 
-Every market in this guide is fictional and every figure is invented for practice. Course overview: [IB DP Economics hub](/boards/ib/ib-dp/economics/). Self-assessment: [printable checklist](/checklists/ib/ib-dp/economics/). Also for this sub-topic: [revision notes](/resources/ib-dp-economics-role-of-government-in-microeconomics-revision-notes/) and a [practice set](/resources/ib-dp-economics-role-of-government-in-microeconomics-practice/). If you need equilibrium, shortage and surplus first, read [demand, supply and market equilibrium](/resources/ib-dp-economics-demand-supply-equilibrium/). Our [free 10-minute diagnostics](/diagnostics/) can show you where to begin.
+Every market in this guide is fictional and every figure is invented for practice. Course overview: [IB DP Economics hub](/boards/ib/ib-dp/economics/). Self-assessment: [printable checklist](/checklists/ib/ib-dp/economics/). Also for this sub-topic: [revision notes](/resources/ib-dp-economics-role-of-government-in-microeconomics-revision-notes/) and a [practice set](/resources/ib-dp-economics-role-of-government-in-microeconomics-practice/). If you need equilibrium, shortage and surplus first, read [demand, supply and market equilibrium](/resources/ib-dp-economics-demand-supply-equilibrium/). Our [free 10-minute diagnostics](/diagnostics/) can help you choose a starting point.
 
 ## What the guide asks you to do
 
@@ -36,7 +36,7 @@ Every market in this guide is fictional and every figure is invented for practic
 | Consequences for markets and stakeholders | Weigh up the effects, not just list them | SL and HL |
 | Calculations | Work out effects of ceilings, floors, taxes and subsidies | HL only |
 
-The guide gives the depth of the forms of intervention as application and diagram skills (AO2, AO4), and the depth of the consequences as synthesis and evaluation (AO3). So drawing the diagram is the start. You then judge who gains, who loses and how far the policy works.
+Calculating the shortages, surpluses and other figures in the worked examples below is HL only; at SL, show the same effects on the diagram. The guide gives the depth of the forms of intervention as application and diagram skills (AO2, AO4), and the depth of the consequences as synthesis and evaluation (AO3). So drawing the diagram is the start. You then judge who gains, who loses and how far the policy works.
 
 ## Why governments intervene
 
@@ -47,14 +47,14 @@ The guide lists seven aims. Each one can be matched to a tool.
 - **Support low-income households.** A price ceiling on a basic good or a subsidy on a necessity lowers what poorer households pay.
 - **Influence production.** A subsidy encourages output; a tax discourages it.
 - **Influence consumption.** A tax on a good lowers consumption; a subsidy raises it.
-- **Correct market failure.** A tax on a good with a negative externality, or a subsidy on one with a positive externality, moves output towards the socially best level.
+- **Correct market failure** (see [externalities and common pool resources](/resources/ib-dp-economics-externalities-and-common-pool-resources/)). A tax on a good with a negative externality, or a subsidy on one with a positive externality, moves output towards the socially best level.
 - **Promote equity.** Policies aim at a fairer distribution of income or access.
 
 Most real policies have more than one aim, and aims can conflict. A tax that raises revenue may also hurt low-income households.
 
 ## Price ceilings (maximum prices)
 
-A **price ceiling** is a legal maximum price. It only matters if it is set **below** the free-market equilibrium price. A ceiling above equilibrium changes nothing, because the market price never reaches it.
+A **price ceiling** is a legal maximum price. It only matters if it sits **under** the equilibrium price that the free market would reach. A ceiling above equilibrium changes nothing, because the market price never reaches it.
 
 **How to draw it**
 1. Draw demand (D) sloping down and supply (S) sloping up. Put price on the y-axis and quantity along the x-axis.
@@ -104,8 +104,8 @@ If the government buys the surplus to keep the price at 75 cu, the cost is 45 ×
 
 **Consequences for stakeholders**
 - **Farmers** gain a higher price per tonne, and gain most if the government buys the surplus.
-- **Consumers** pay more and buy less.
-- **Taxpayers** fund any purchases, and stored stock may be wasted or sold cheaply elsewhere.
+- **Consumers** face a higher price and buy fewer tonnes.
+- **Taxpayers** pay for any purchases, and stored stock may be wasted or sold cheaply elsewhere.
 - **Resources** are drawn into a product that the market does not need at that price.
 
 ## Indirect taxes

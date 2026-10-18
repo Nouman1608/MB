@@ -22,7 +22,7 @@ featured: false
 
 This guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers sub-topic 4.7, sustainable development, in Unit 4 The global economy. The meaning of sustainable development and the Sustainable Development Goals are SL and HL. The relationship between sustainability and poverty is **HL only** and is marked that way below. Every country, resource and figure in the worked examples is invented and illustrative.
 
-Use the [IB DP Economics hub](/boards/ib/ib-dp/economics/) and the [printable checklist](/checklists/ib/ib-dp/economics/) to track your progress. Condensed recall is in the [revision notes](/resources/ib-dp-economics-sustainable-development-revision-notes/) and exam-style work is in the [practice set](/resources/ib-dp-economics-sustainable-development-practice/). To find weak spots first, take the [free diagnostics](/diagnostics/).
+Use the [IB DP Economics hub](/boards/ib/ib-dp/economics/) and the [printable checklist](/checklists/ib/ib-dp/economics/) to track your progress. Quick recall is in the [revision notes](/resources/ib-dp-economics-sustainable-development-revision-notes/) and exam-style work is in the [practice set](/resources/ib-dp-economics-sustainable-development-practice/). To find weak spots first, take the [free diagnostics](/diagnostics/).
 
 ## What 4.7 asks of you
 
@@ -32,13 +32,13 @@ Use the [IB DP Economics hub](/boards/ib/ib-dp/economics/) and the [printable ch
 | Sustainable Development Goals | Describe the goals and apply them to a situation | SL and HL |
 | Relationship between sustainability and poverty | Analyse how poverty and environmental pressure affect each other | HL only |
 
-The guide sets the depth of teaching for all three rows at the application and analysis level (AO2). It also says an exam question cannot use a command term from a higher level than the one set for the content. So for 4.7 expect terms such as "explain", "distinguish", "analyse", "apply" and "suggest", and expect lower-level terms such as "define" and "outline". Questions that ask you to weigh up how far the goals have been met in particular countries belong to 4.10, not here.
+The guide sets the depth of teaching for all three rows at the application and analysis level (AO2). It also says a question may not use a command term pitched above the level set for the content. So for 4.7 expect terms such as "explain", "distinguish", "analyse", "apply" and "suggest", and expect lower-level terms such as "define" and "outline". Questions that ask you to weigh up how far the goals have been met in particular countries belong to 4.10, not here.
 
-The unit also names a conceptual understanding that matters for this topic: the pursuit of sustainability is subject to various constraints. A strong answer says what limits a country, not only what it should do.
+The unit also names a conceptual understanding that matters for this topic: the pursuit of sustainability is subject to various constraints. A strong answer says what limits a country, not only what it should do. The guide adds that effective strategies take account of the social, economic and political context.
 
 ## The meaning of sustainable development
 
-The guide defines sustainability in economics as the ability of the present generation to meet its needs without compromising the ability of future generations to meet theirs. It adds that this means limiting economic activity that causes resource depletion or degradation that would harm future generations.
+The guide defines sustainability in economics as the present generation meeting its needs while leaving later generations able to meet theirs. It adds that this means limiting economic activity that causes resource depletion or degradation that would harm future generations.
 
 Sustainable development applies that idea to development: raising living standards in a way that can continue. Three points sit inside it.
 
@@ -80,7 +80,7 @@ Recycling extends the life of the deposit but does not make extraction sustainab
 
 ## Sustainable Development Goals
 
-The Sustainable Development Goals (SDGs) are a set of 17 global goals agreed by United Nations member states in 2015, with 2030 as the target date. Each goal has more detailed targets beneath it. The guide names the goals as part of 4.7 and refers to several of them elsewhere, including poverty, reduced inequalities, decent work and economic growth, innovation and infrastructure, and responsible consumption and production.
+The Sustainable Development Goals (SDGs) are a set of 17 global goals agreed by United Nations member states in 2015, with 2030 as the target date. Each goal has more detailed targets beneath it. The guide lists the goals as a content item in 4.7 and refers to several of them elsewhere, including poverty, reduced inequalities, decent work and economic growth, innovation and infrastructure, and responsible consumption and production.
 
 The 17 goals, grouped by the main aim they serve, are below. The grouping is a study aid only.
 
@@ -161,4 +161,4 @@ Try the [practice set](/resources/ib-dp-economics-sustainable-development-practi
 
 ## Official syllabus
 
-IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization in February 2020. This page covers sub-topic 4.7, sustainable development.
+Source: *Economics guide*, IB Diploma Programme, first assessment 2022 (International Baccalaureate Organization, February 2020). Sub-topic 4.7.

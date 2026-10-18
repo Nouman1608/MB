@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- the IB holds copyright in its own papers. Use these alongside
 > the official past papers available through your school or the IB store.
 
-This set follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers sub-topics 4.9 and 4.10, for SL and HL; neither has HL-only content. All countries, currencies and figures are invented. The guide says calculators are not permitted in Paper 1, and a four-function calculator or GDC is allowed in Paper 2. The marks below are a revision aid: the real papers use an analytic markscheme together with markbands.
+This set follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers sub-topics 4.9 and 4.10, for SL and HL; neither has HL-only content. All countries, currencies and figures are invented. Per the guide, Paper 1 allows no calculator, while Paper 2 allows a four-function calculator or a GDC. The marks below are a revision aid: the real papers use an analytic markscheme together with markbands.
 
 The [study guide](/resources/ib-dp-economics-barriers-and-strategies-for-growth-and-development/) and [revision notes](/resources/ib-dp-economics-barriers-and-strategies-for-growth-and-development-revision-notes/) cover the content. See also the [IB DP Economics hub](/boards/ib/ib-dp/economics/) and [printable checklist](/checklists/ib/ib-dp/economics/). Take a [free diagnostic](/diagnostics/) if you are unsure where to start.
 
@@ -133,7 +133,7 @@ Evaluation: judge using conditions such as the strength of institutions [1], the
 - Use the [revision notes](/resources/ib-dp-economics-barriers-and-strategies-for-growth-and-development-revision-notes/) in the final week.
 - Check coverage on the [IB DP Economics hub](/boards/ib/ib-dp/economics/) and the [printable checklist](/checklists/ib/ib-dp/economics/).
 - Try the free 10-minute [diagnostics](/diagnostics/).
-- Want a teacher to go through your answers? [Book a free trial class](/trial/).
+- Talk your answers through with a teacher: [book a free trial class](/trial/).
 
 ## Official syllabus
 

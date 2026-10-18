@@ -28,7 +28,7 @@ featured: false
 
 This set follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers sub-topic 4.8, measuring development, for SL and HL; none of it is HL only. All countries, currencies and figures are invented. The guide does not allow calculators in Paper 1 and allows a four-function calculator or GDC in Papers 2 and 3. The marks below are a revision aid: the real papers use an analytic markscheme together with markbands.
 
-The [study guide](/resources/ib-dp-economics-measuring-development/) and [revision notes](/resources/ib-dp-economics-measuring-development-revision-notes/) cover the content. See also the [IB DP Economics hub](/boards/ib/ib-dp/economics/), the [printable checklist](/checklists/ib/ib-dp/economics/) and the [free diagnostics](/diagnostics/). Where a question needs index limits, use: life expectancy 20 to 85; expected schooling 0 to 18; mean schooling 0 to 15; income 100 to 75,000 (illustrative).
+The [study guide](/resources/ib-dp-economics-measuring-development/) and [revision notes](/resources/ib-dp-economics-measuring-development-revision-notes/) cover the content. See also the [IB DP Economics hub](/boards/ib/ib-dp/economics/), the [printable checklist](/checklists/ib/ib-dp/economics/) and the [free diagnostics](/diagnostics/). Where a question needs index limits, use: income from 200 to 80,000, expected schooling from 0 to 20, mean schooling from 0 to 15, life expectancy from 25 to 85 (illustrative).
 
 ## Questions
 
@@ -49,7 +49,7 @@ The [study guide](/resources/ib-dp-economics-measuring-development/) and [revisi
 **(b)** Calculate the geometric mean for each. **[2]**
 **(c)** Explain why this matters for the way the HDI is built. **[2]**
 
-**5.** (calculator allowed) Kelvane has life expectancy 70, expected schooling 14 years, mean schooling 9 years and GNI per person of 8,000 units at PPP.
+**5.** (calculator allowed) Kelvane has life expectancy 70, expected schooling 14 years, mean schooling 9 years and GNI per person of 9,000 units at PPP.
 
 **(a)** Calculate the health index. **[1]**
 **(b)** Calculate the education index. **[2]**
@@ -58,18 +58,18 @@ The [study guide](/resources/ib-dp-economics-measuring-development/) and [revisi
 
 **6.** (calculator allowed) In Kelvane, GNI per person rises by 2,000 units, from 2,000 to 4,000. In another country it rises by 2,000 units, from 40,000 to 42,000. Calculate the change in the income index in each case, then explain why the HDI income index uses logarithms. **[4]**
 
-**7.** (calculator allowed) Kelvane's inequality losses are 8% in health, 15% in education and 25% in income. Its HDI is 0.705 and its dimension indices are 0.769, 0.689 and 0.662.
+**7.** (calculator allowed) Kelvane's inequality losses are 8% in health, 20% in education and 25% in income. Its HDI is 0.676 and its dimension indices are 0.750, 0.650 and 0.635.
 
 **(a)** Calculate the three adjusted indices. **[2]**
 **(b)** Calculate the IHDI. **[2]**
-**(c)** Calculate the percentage loss in HDI due to inequality. **[1]**
+**(c)** Calculate the percentage loss in HDI due to inequality, to the nearest whole number. **[1]**
 **(d)** Explain what this loss shows. **[2]**
 
 **8.** Outline the three dimensions of the Gender Inequality Index and state what a higher value means. **[4]**
 
 **9.** Distinguish between the Human Development Index and the Happy Planet Index. **[4]**
 
-**10.** Ostmar and Delmere are fictional countries with the same GNI per person at PPP of 40,000 units and the same schooling (expected 16 years, mean 12 years). Life expectancy is 80 in Ostmar and 74 in Delmere. HDI is 0.890 in Ostmar and 0.859 in Delmere. Over the past decade Delmere's real GNI grew faster, at 4% a year against 2% in Ostmar. Discuss the possible relationship between economic growth and economic development, using the data. **[8]**
+**10.** Ostmar and Delmere are fictional countries with the same GNI per person at PPP of 40,000 units and the same schooling (expected 16 years, mean 12 years). Life expectancy is 80 in Ostmar and 74 in Delmere. HDI is 0.866 in Ostmar and 0.833 in Delmere. Over the past decade Delmere's real GNI grew faster, at 4% a year against 2% in Ostmar. Discuss the possible relationship between economic growth and economic development, using the data. **[8]**
 
 **11.** Evaluate the use of the Human Development Index alone as a measure of development. **[10]**
 
@@ -92,18 +92,18 @@ The [study guide](/resources/ib-dp-economics-measuring-development/) and [revisi
 **(c)** The geometric mean is lower for X because one dimension is weak [1]; so the HDI does not let strength in health or education fully make up for low income, or any other weak dimension [1]. **[2]**
 *Examiner insight:* compare the two countries explicitly; a general description of geometric means without reference to X and Y answers a different question.
 
-**5. (a)** (70 - 20) / 65 = **0.769** [1]
-**(b)** Schooling indices: 14 / 18 = 0.778 and 9 / 15 = 0.600 [1]; average = **0.689** [1]
-**(c)** (ln 8,000 - ln 100) / (ln 75,000 - ln 100) = 4.382 / 6.620 [1] = **0.662** [1]
-**(d)** (0.769 x 0.689 x 0.662)^(1/3) = (0.3508)^(1/3) [1] = **0.705** [1] **[7]**
-*Examiner insight:* write the formula with the numbers substituted before the answer; a small rounding difference in an index is usually tolerated when the method is clear.
+**5. (a)** (70 - 25) / 60 = 45 / 60 = **0.750** [1]
+**(b)** Schooling indices: 14 / 20 = 0.700 and 9 / 15 = 0.600 [1]; average = **0.650** [1]
+**(c)** (ln 9,000 - ln 200) / (ln 80,000 - ln 200) = 3.807 / 5.991 [1] = **0.635** [1]
+**(d)** (0.750 x 0.650 x 0.635)^(1/3) = (0.3096)^(1/3) [1] = **0.676** [1] **[7]**
+*Examiner insight:* write the formula with the numbers substituted before the answer; this lets a reader follow your method if rounding an index changes the last digit.
 
-**6.** Low case: (ln 4,000 - ln 2,000) / 6.620 = 0.693 / 6.620 = **0.105** [1]; high case: (ln 42,000 - ln 40,000) / 6.620 = 0.0488 / 6.620 = **0.007** [1]. The same 2,000 extra units raises the index much more at low income [1], because logarithms give diminishing returns: extra income adds less to living standards as income rises [1]. **[4]**
+**6.** Low case: (ln 4,000 - ln 2,000) / 5.991 = 0.693 / 5.991 = **0.116** [1]; high case: (ln 42,000 - ln 40,000) / 5.991 = 0.0488 / 5.991 = **0.008** [1]. The same 2,000 extra units raises the index much more at low income [1], because logarithms give diminishing returns: extra income adds less to living standards as income rises [1]. **[4]**
 *Examiner insight:* give both changes and a comparison; a statement about diminishing returns with no figures does not use the data supplied.
 
-**7. (a)** Health 0.769 x 0.92 = **0.708** [1]; education 0.689 x 0.85 = **0.586**; income 0.662 x 0.75 = **0.496** [1]
-**(b)** (0.708 x 0.586 x 0.496)^(1/3) = (0.2058)^(1/3) [1] = **0.590** [1]
-**(c)** (0.705 - 0.590) / 0.705 = **16.3%** [1]
+**7. (a)** Health 0.750 x 0.92 = **0.690** [1]; education 0.650 x 0.80 = **0.520**; income 0.635 x 0.75 = **0.476** [1]
+**(b)** (0.690 x 0.520 x 0.476)^(1/3) = (0.1708)^(1/3) [1] = **0.555** [1]
+**(c)** (0.676 - 0.555) / 0.676 = 0.121 / 0.676 = **18%** [1]
 **(d)** Unequal distribution within the dimensions lowers achievement, so average human development overstates how most people live [1]; income inequality is the largest contributor, so reducing it would raise the IHDI most [1]. **[7]**
 *Examiner insight:* in "what does this show" parts, tie the interpretation to the figures, here the 25% income loss, rather than repeating the definition.
 
@@ -111,9 +111,9 @@ The [study guide](/resources/ib-dp-economics-measuring-development/) and [revisi
 *Examiner insight:* "Outline" is a brief account; naming a measure within each dimension supports the point, and the direction of the scale is a common slip.
 
 **9.** The HDI combines life expectancy, schooling and GNI per person at PPP [1]; the Happy Planet Index combines life expectancy, reported well-being and inequality of outcomes with ecological footprint [1]. The HDI ignores the environment, whereas the Happy Planet Index includes it [1]. A higher HDI shows greater achievement, while the Happy Planet Index rewards long, satisfied lives achieved with a lighter footprint [1]. **[4]**
-*Examiner insight:* each mark here needs a contrast between the two indices, so check that every sentence mentions both.
+*Examiner insight:* a contrast between the two indices is stronger than two separate descriptions, so check that sentences mention both.
 
-**10.** Delmere grew faster than Ostmar but has a lower HDI [1], so faster growth did not give higher development [1]. With equal income at PPP and equal schooling, the HDI gap comes from health: indices 60/65 = 0.923 against 54/65 = 0.831 [1]. Possible reasons: Ostmar spends more on health care, or Delmere's gains are unevenly shared or linked to pollution [1], and the HDI cannot show which [1]. Growth may also help later, since faster growth gives more revenue for health, and the data cover one point in time [1]. The HDI omits inequality, so the IHDI would help [1]. Conclusion: the link is positive but conditional on how growth is shared and used [1]. **[8]**
+**10.** Delmere grew faster than Ostmar but has a lower HDI [1], so faster growth did not give higher development [1]. With equal income at PPP and equal schooling, the HDI gap comes from health: indices 55/60 = 0.917 against 49/60 = 0.817 [1]. Possible reasons: Ostmar spends more on health care, or Delmere's gains are unevenly shared or linked to pollution [1], and the HDI cannot show which [1]. Growth may also help later, since faster growth gives more revenue for health, and the data cover one point in time [1]. The HDI omits inequality, so the IHDI would help [1]. Conclusion: the link is positive but conditional on how growth is shared and used [1]. **[8]**
 *Examiner insight:* "Discuss" rewards balance and a conclusion; quote the figures supplied, and avoid claiming a cause that the data cannot prove.
 
 **11.** Strengths: combines three dimensions rather than relying on income [1]; uses PPP, so income reflects purchasing power [1]; simple, widely available and easy to compare across countries and over time [1]; geometric mean limits offsetting between dimensions [1]. Limitations: omits inequality, so averages hide how outcomes are shared [1]; omits environment and sustainability [1]; leaves out freedom, security and other aspects of well-being [1]; limits and logarithm are choices, so rankings depend on judgement [1]; data quality varies between countries [1]. Judgement: useful as a first comparison, best used with the IHDI, GII and environmental indicators [1]. **[10]**
@@ -121,7 +121,7 @@ The [study guide](/resources/ib-dp-economics-measuring-development/) and [revisi
 
 ## Where marks are usually lost
 
-- Using "growth" and "development" as if they were the same.
+- Writing about growth when the question asks about development.
 - Leaving out the PPP rate calculation, or dividing the wrong way round.
 - Forgetting to average the two schooling indices before taking the education index.
 - Taking an arithmetic mean instead of a geometric mean when asked for the HDI.

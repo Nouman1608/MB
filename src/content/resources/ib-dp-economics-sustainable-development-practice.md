@@ -26,9 +26,9 @@ featured: false
 > mark tariffs -- the IB holds copyright in its own papers. Use these alongside
 > the official past papers available through your school or the IB store.
 
-This set follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers sub-topic 4.7, sustainable development, in Unit 4. The meaning of sustainable development and the Sustainable Development Goals are SL and HL. Questions 9, 10 and 11 cover the sustainability and poverty link and are **HL only**. All countries, resources and figures are invented. The guide says calculators are not allowed in Paper 1 and are allowed in Papers 2 and 3. The marks are a revision aid: the real papers use an analytic markscheme together with markbands.
+This set follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers sub-topic 4.7, sustainable development, in Unit 4. The meaning of sustainable development and the Sustainable Development Goals are SL and HL. Questions 9, 10 and 11 cover the sustainability and poverty link and are **HL only**. All countries, resources and figures are invented. The guide says calculators are not allowed in Paper 1 and are allowed in Papers 2 and 3. The marks here are a revision aid only.
 
-Read the [study guide](/resources/ib-dp-economics-sustainable-development/) and the [revision notes](/resources/ib-dp-economics-sustainable-development-revision-notes/) first. Course pages are the [IB DP Economics hub](/boards/ib/ib-dp/economics/) and the [printable checklist](/checklists/ib/ib-dp/economics/).
+Start with the [study guide](/resources/ib-dp-economics-sustainable-development/) and [revision notes](/resources/ib-dp-economics-sustainable-development-revision-notes/). Course pages are the [IB DP Economics hub](/boards/ib/ib-dp/economics/) and the [printable checklist](/checklists/ib/ib-dp/economics/).
 
 ## Questions
 
@@ -76,7 +76,7 @@ Read the [study guide](/resources/ib-dp-economics-sustainable-development/) and 
 
 ## Answers
 
-**1.** Sustainable development means raising living standards and meeting the needs of the present generation [1] without compromising the ability of future generations to meet their own needs, for example by limiting resource depletion and degradation [1]. **[2]**
+**1.** Sustainable development means raising living standards and meeting present needs [1] while leaving later generations able to meet theirs, which means limiting resource depletion and degradation [1]. **[2]**
 *Examiner insight:* Advice: include both the present and the future in a definition.
 
 **2. (a)** 8% × 150,000 = **12,000 tonnes** [1].
@@ -134,11 +134,11 @@ Read the [study guide](/resources/ib-dp-economics-sustainable-development/) and 
 
 ## Next steps
 
-- Review the content in the [revision notes](/resources/ib-dp-economics-sustainable-development-revision-notes/) and the [study guide](/resources/ib-dp-economics-sustainable-development/).
+- Revise with the [revision notes](/resources/ib-dp-economics-sustainable-development-revision-notes/) and the [study guide](/resources/ib-dp-economics-sustainable-development/).
 - Return to the [IB DP Economics hub](/boards/ib/ib-dp/economics/) and tick off the [printable checklist](/checklists/ib/ib-dp/economics/).
 - Find weak spots with all [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 
 ## Official syllabus
 
-IB Diploma Programme *Economics guide*, first assessment 2022, published by the International Baccalaureate Organization in February 2020. This set covers sub-topic 4.7, sustainable development.
+Source: *Economics guide*, IB Diploma Programme, first assessment 2022 (International Baccalaureate Organization, February 2020). Sub-topic 4.7.
