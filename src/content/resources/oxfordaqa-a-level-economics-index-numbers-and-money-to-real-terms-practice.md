@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International AS and A-level Economics: Index numbers and money to real terms (9640) -- Practice Questions"
+title: "OxfordAQA AS and A-level Economics: Index numbers and money to real terms (9640) -- Practice Questions"
 seoTitle: "OxfordAQA Economics Index Numbers Practice Questions"
 resourceType: "practice-questions"
 subject: "economics"

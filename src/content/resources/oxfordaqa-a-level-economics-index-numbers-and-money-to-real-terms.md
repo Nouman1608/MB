@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International AS and A-level Economics: Index numbers and money to real terms (9640)"
+title: "OxfordAQA AS and A-level Economics: Index numbers and money to real terms (9640)"
 seoTitle: "OxfordAQA Economics Index Numbers and Real Terms Guide"
 resourceType: "study-guides"
 subject: "economics"

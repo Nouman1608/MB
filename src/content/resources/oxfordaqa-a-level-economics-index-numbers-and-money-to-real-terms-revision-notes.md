@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International AS and A-level Economics: Index numbers and money to real terms (9640) -- Revision Notes"
+title: "OxfordAQA AS and A-level Economics: Index numbers and money to real terms (9640) -- Revision Notes"
 seoTitle: "OxfordAQA Economics Index Numbers Revision Notes"
 resourceType: "revision-notes"
 subject: "economics"

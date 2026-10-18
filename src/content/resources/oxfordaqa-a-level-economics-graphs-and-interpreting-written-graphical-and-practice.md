@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International AS and A-level Economics: Graphs and interpreting information (9640) -- Practice Questions"
+title: "OxfordAQA AS and A-level Economics: Graphs and interpreting information (9640) -- Practice Questions"
 seoTitle: "OxfordAQA Economics Graphs and Data Practice Questions"
 resourceType: "practice-questions"
 subject: "economics"

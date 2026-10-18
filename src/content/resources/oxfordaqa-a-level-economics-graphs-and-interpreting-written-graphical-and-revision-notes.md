@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International AS and A-level Economics: Graphs and interpreting information (9640) -- Revision Notes"
+title: "OxfordAQA AS and A-level Economics: Graphs and interpreting information (9640) -- Revision Notes"
 seoTitle: "OxfordAQA Economics Graphs and Data Revision Notes"
 resourceType: "revision-notes"
 subject: "economics"

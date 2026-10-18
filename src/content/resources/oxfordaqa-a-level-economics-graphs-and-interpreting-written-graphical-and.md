@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International AS and A-level Economics: Graphs and interpreting information (9640)"
+title: "OxfordAQA AS and A-level Economics: Graphs and interpreting information (9640)"
 seoTitle: "OxfordAQA Economics Graphs and Data Interpretation Guide"
 resourceType: "study-guides"
 subject: "economics"

@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International AS and A-level Economics: Cost, revenue and profit calculations and elasticity (9640) -- Practice Questions"
+title: "OxfordAQA AS and A-level Economics: Cost, revenue, profit and elasticity (9640) -- Practice Questions"
 seoTitle: "OxfordAQA Economics Cost and Elasticity Practice"
 resourceType: "practice-questions"
 subject: "economics"
