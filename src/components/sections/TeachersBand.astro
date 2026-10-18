@@ -17,7 +17,6 @@
 import Section from '../layout/Section.astro';
 import Container from '../layout/Container.astro';
 import SectionHeading from '../ui/SectionHeading.astro';
-import Button from '../ui/Button.astro';
 import { getAuthors } from '../../utils/content/collections';
 import { sortPinnedFirst } from '../../data/featured-teachers';
 import { routes } from '../../utils/urls/routes';
@@ -41,7 +40,6 @@ const featured = sortPinnedFirst(people, (a, b) => {
             Not a tutor pool. Every class is taught by a specific teacher you can read about before you book &mdash; each profile lists the subjects they teach and, where a public source exists, where those details were verified from.
           </p>
         </div>
-        <Button href={routes.tutoring} variant="quiet">All teachers</Button>
       </div>
 
       <ul class="m-0 grid list-none gap-5 p-0 sm:grid-cols-2 lg:grid-cols-3">
