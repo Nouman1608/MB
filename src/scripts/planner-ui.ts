@@ -428,7 +428,7 @@ function init(): void {
         if (i) links.append(document.createTextNode(' · '));
         const a = el('a', 'underline decoration-teal-500 underline-offset-2 hover:text-teal-700', l.t);
         a.href = l.u;
-        a.addEventListener('click', () => track('recommended_resource_click', { source: 'planner', link_kind: s.kind }));
+        a.addEventListener('click', () => track('recommended_resource_click', { module: 'planner', link_kind: s.kind, link_url: a.href }));
         links.append(a);
       });
       body.append(links);
