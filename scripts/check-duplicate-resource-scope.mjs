@@ -1657,6 +1657,951 @@ const REVIEWED_LEGITIMATE = [
     files: ['oxfordaqa-igcse-physics-charge-current-potential-difference-and-circuit-symbols.md', 'oxfordaqa-igcse-physics-resistance-i-v-characteristics-and-electronic.md', 'oxfordaqa-igcse-physics-series-and-parallel-circuits-and-heating-effect-of.md'],
     evidence: "Sibling new units from the physics, biology and MYP mathematics gap sprint (12 Oct 2026), study-guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, listed in its own syllabus coverage section, with its own worked examples and questions. Independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-420.",
   },
+  {
+    files: ["aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of-practice.md", "aqa-a-level-economics-fiscal-policy-government-spending-taxation-and-the-practice.md", "aqa-a-level-economics-supply-side-policies-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of-revision-notes.md", "aqa-a-level-economics-fiscal-policy-government-spending-taxation-and-the-revision-notes.md", "aqa-a-level-economics-supply-side-policies-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of.md", "aqa-a-level-economics-fiscal-policy-government-spending-taxation-and-the.md", "aqa-a-level-economics-supply-side-policies.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-central-banks-and-monetary-policy-practice.md", "aqa-a-level-economics-commercial-and-investment-banks-credit-creation-and-practice.md", "aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-central-banks-and-monetary-policy-revision-notes.md", "aqa-a-level-economics-commercial-and-investment-banks-credit-creation-and-revision-notes.md", "aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-central-banks-and-monetary-policy.md", "aqa-a-level-economics-commercial-and-investment-banks-credit-creation-and.md", "aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-comparative-advantage-and-the-costs-and-benefits-of-practice.md", "aqa-a-level-economics-economic-growth-and-development-practice.md", "aqa-a-level-economics-exchange-rate-systems-and-currency-unions-practice.md", "aqa-a-level-economics-globalisation-and-multinational-corporations-practice.md", "aqa-a-level-economics-protectionism-trading-blocs-and-the-wto-practice.md", "aqa-a-level-economics-the-balance-of-payments-and-correcting-imbalances-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-comparative-advantage-and-the-costs-and-benefits-of-revision-notes.md", "aqa-a-level-economics-economic-growth-and-development-revision-notes.md", "aqa-a-level-economics-exchange-rate-systems-and-currency-unions-revision-notes.md", "aqa-a-level-economics-globalisation-and-multinational-corporations-revision-notes.md", "aqa-a-level-economics-protectionism-trading-blocs-and-the-wto-revision-notes.md", "aqa-a-level-economics-the-balance-of-payments-and-correcting-imbalances-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-comparative-advantage-and-the-costs-and-benefits-of.md", "aqa-a-level-economics-economic-growth-and-development.md", "aqa-a-level-economics-exchange-rate-systems-and-currency-unions.md", "aqa-a-level-economics-globalisation-and-multinational-corporations.md", "aqa-a-level-economics-protectionism-trading-blocs-and-the-wto.md", "aqa-a-level-economics-the-balance-of-payments-and-correcting-imbalances.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-competition-policy-public-ownership-regulation-and-practice.md", "aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price-practice.md", "aqa-a-level-economics-merit-and-demerit-goods-and-market-imperfections-practice.md", "aqa-a-level-economics-public-goods-and-externalities-practice.md", "aqa-a-level-economics-the-price-mechanism-and-the-meaning-of-market-failure-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-competition-policy-public-ownership-regulation-and-revision-notes.md", "aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price-revision-notes.md", "aqa-a-level-economics-merit-and-demerit-goods-and-market-imperfections-revision-notes.md", "aqa-a-level-economics-public-goods-and-externalities-revision-notes.md", "aqa-a-level-economics-the-price-mechanism-and-the-meaning-of-market-failure-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-competition-policy-public-ownership-regulation-and.md", "aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price.md", "aqa-a-level-economics-merit-and-demerit-goods-and-market-imperfections.md", "aqa-a-level-economics-public-goods-and-externalities.md", "aqa-a-level-economics-the-price-mechanism-and-the-meaning-of-market-failure.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-conflicts-between-macroeconomic-objectives-and-the-practice.md", "aqa-a-level-economics-economic-growth-and-the-economic-cycle-practice.md", "aqa-a-level-economics-employment-and-unemployment-practice.md", "aqa-a-level-economics-inflation-and-deflation-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-conflicts-between-macroeconomic-objectives-and-the-revision-notes.md", "aqa-a-level-economics-economic-growth-and-the-economic-cycle-revision-notes.md", "aqa-a-level-economics-employment-and-unemployment-revision-notes.md", "aqa-a-level-economics-inflation-and-deflation-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-conflicts-between-macroeconomic-objectives-and-the.md", "aqa-a-level-economics-economic-growth-and-the-economic-cycle.md", "aqa-a-level-economics-employment-and-unemployment.md", "aqa-a-level-economics-inflation-and-deflation.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-costs-of-production-and-economies-and-diseconomies-of-practice.md", "aqa-a-level-economics-production-productivity-specialisation-and-returns-practice.md", "aqa-a-level-economics-revenue-profit-and-technological-change-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-costs-of-production-and-economies-and-diseconomies-of-revision-notes.md", "aqa-a-level-economics-production-productivity-specialisation-and-returns-revision-notes.md", "aqa-a-level-economics-revenue-profit-and-technological-change-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-costs-of-production-and-economies-and-diseconomies-of.md", "aqa-a-level-economics-production-productivity-specialisation-and-returns.md", "aqa-a-level-economics-revenue-profit-and-technological-change.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-demand-and-supply-of-labour-and-competitive-labour-practice.md", "aqa-a-level-economics-monopsony-and-trade-unions-in-labour-markets-practice.md", "aqa-a-level-economics-the-national-minimum-wage-and-discrimination-in-labour-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-demand-and-supply-of-labour-and-competitive-labour-revision-notes.md", "aqa-a-level-economics-monopsony-and-trade-unions-in-labour-markets-revision-notes.md", "aqa-a-level-economics-the-national-minimum-wage-and-discrimination-in-labour-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-demand-and-supply-of-labour-and-competitive-labour.md", "aqa-a-level-economics-monopsony-and-trade-unions-in-labour-markets.md", "aqa-a-level-economics-the-national-minimum-wage-and-discrimination-in-labour.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand-practice.md", "aqa-a-level-economics-supply-elasticity-of-supply-equilibrium-and-related-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand-revision-notes.md", "aqa-a-level-economics-supply-elasticity-of-supply-equilibrium-and-related-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand.md", "aqa-a-level-economics-supply-elasticity-of-supply-equilibrium-and-related.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-distribution-of-income-and-wealth-lorenz-curve-and-the-practice.md", "aqa-a-level-economics-poverty-and-government-policies-on-poverty-and-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-distribution-of-income-and-wealth-lorenz-curve-and-the-revision-notes.md", "aqa-a-level-economics-poverty-and-government-policies-on-poverty-and-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-distribution-of-income-and-wealth-lorenz-curve-and-the.md", "aqa-a-level-economics-poverty-and-government-policies-on-poverty-and.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-dynamic-competition-creative-destruction-and-practice.md", "aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer-practice.md", "aqa-a-level-economics-market-structures-and-the-objectives-of-firms-practice.md", "aqa-a-level-economics-monopoly-monopoly-power-and-price-discrimination-practice.md", "aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked-practice.md", "aqa-a-level-economics-perfect-competition-and-monopolistic-competition-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-dynamic-competition-creative-destruction-and-revision-notes.md", "aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer-revision-notes.md", "aqa-a-level-economics-market-structures-and-the-objectives-of-firms-revision-notes.md", "aqa-a-level-economics-monopoly-monopoly-power-and-price-discrimination-revision-notes.md", "aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked-revision-notes.md", "aqa-a-level-economics-perfect-competition-and-monopolistic-competition-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-a-level-economics-dynamic-competition-creative-destruction-and.md", "aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer.md", "aqa-a-level-economics-market-structures-and-the-objectives-of-firms.md", "aqa-a-level-economics-monopoly-monopoly-power-and-price-discrimination.md", "aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked.md", "aqa-a-level-economics-perfect-competition-and-monopolistic-competition.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-gcse-economics-business-objectives-costs-revenue-and-profit-practice.md", "aqa-gcse-economics-productivity-and-economies-of-scale-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-gcse-economics-business-objectives-costs-revenue-and-profit-revision-notes.md", "aqa-gcse-economics-productivity-and-economies-of-scale-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-gcse-economics-business-objectives-costs-revenue-and-profit.md", "aqa-gcse-economics-productivity-and-economies-of-scale.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-gcse-economics-demand-and-supply-factors-curves-shifts-and-movements-practice.md", "aqa-gcse-economics-equilibrium-price-revenue-on-diagrams-and-intermarket-practice.md", "aqa-gcse-economics-price-elasticity-of-demand-and-supply-calculation-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-gcse-economics-demand-and-supply-factors-curves-shifts-and-movements-revision-notes.md", "aqa-gcse-economics-equilibrium-price-revenue-on-diagrams-and-intermarket-revision-notes.md", "aqa-gcse-economics-price-elasticity-of-demand-and-supply-calculation-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-gcse-economics-demand-and-supply-factors-curves-shifts-and-movements.md", "aqa-gcse-economics-equilibrium-price-revenue-on-diagrams-and-intermarket.md", "aqa-gcse-economics-price-elasticity-of-demand-and-supply-calculation.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-gcse-economics-market-structures-competitive-and-non-competitive-practice.md", "aqa-gcse-economics-the-labour-market-wage-determination-differentials-and-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-gcse-economics-market-structures-competitive-and-non-competitive-revision-notes.md", "aqa-gcse-economics-the-labour-market-wage-determination-differentials-and-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["aqa-gcse-economics-market-structures-competitive-and-non-competitive.md", "aqa-gcse-economics-the-labour-market-wage-determination-differentials-and.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business-practice.md", "cambridge-a-level-economics-inclusive-and-sustainable-economic-growth-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business-revision-notes.md", "cambridge-a-level-economics-inclusive-and-sustainable-economic-growth-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business.md", "cambridge-a-level-economics-inclusive-and-sustainable-economic-growth.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-components-of-ad-the-accelerator-and-output-gaps-in-practice.md", "cambridge-a-level-economics-the-multiplier-and-propensities-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-components-of-ad-the-accelerator-and-output-gaps-in-revision-notes.md", "cambridge-a-level-economics-the-multiplier-and-propensities-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-components-of-ad-the-accelerator-and-output-gaps-in.md", "cambridge-a-level-economics-the-multiplier-and-propensities.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-controlling-inflation-demand-for-money-and-interest-practice.md", "cambridge-a-level-economics-money-banks-and-the-money-supply-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-controlling-inflation-demand-for-money-and-interest-revision-notes.md", "cambridge-a-level-economics-money-banks-and-the-money-supply-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-controlling-inflation-demand-for-money-and-interest.md", "cambridge-a-level-economics-money-banks-and-the-money-supply.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-effectiveness-of-fiscal-and-monetary-policy-including-practice.md", "cambridge-a-level-economics-effectiveness-of-supply-side-exchange-rate-and-trade-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-effectiveness-of-fiscal-and-monetary-policy-including-revision-notes.md", "cambridge-a-level-economics-effectiveness-of-supply-side-exchange-rate-and-trade-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-effectiveness-of-fiscal-and-monetary-policy-including.md", "cambridge-a-level-economics-effectiveness-of-supply-side-exchange-rate-and-trade.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-imperfect-labour-markets-wage-differentials-transfer-practice.md", "cambridge-a-level-economics-labour-demand-supply-and-wage-determination-in-perfect-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-imperfect-labour-markets-wage-differentials-transfer-revision-notes.md", "cambridge-a-level-economics-labour-demand-supply-and-wage-determination-in-perfect-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-imperfect-labour-markets-wage-differentials-transfer.md", "cambridge-a-level-economics-labour-demand-supply-and-wage-determination-in-perfect.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-international-aid-trade-and-investment-practice.md", "cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-international-aid-trade-and-investment-revision-notes.md", "cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-international-aid-trade-and-investment.md", "cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-long-run-production-economies-of-scale-revenue-and-practice.md", "cambridge-a-level-economics-short-run-production-and-costs-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-long-run-production-economies-of-scale-revenue-and-revision-notes.md", "cambridge-a-level-economics-short-run-production-and-costs-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-long-run-production-economies-of-scale-revenue-and.md", "cambridge-a-level-economics-short-run-production-and-costs.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-market-failure-policies-permits-property-rights-practice.md", "cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-market-failure-policies-permits-property-rights-revision-notes.md", "cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-market-failure-policies-permits-property-rights.md", "cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-market-structures-barriers-to-entry-and-concentration-practice.md", "cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price-practice.md", "cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-market-structures-barriers-to-entry-and-concentration-revision-notes.md", "cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price-revision-notes.md", "cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["cambridge-a-level-economics-market-structures-barriers-to-entry-and-concentration.md", "cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price.md", "cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-ial-economics-balance-of-payments-and-international-competitiveness-practice.md", "edexcel-ial-economics-exchange-rates-and-their-effects-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-ial-economics-balance-of-payments-and-international-competitiveness-revision-notes.md", "edexcel-ial-economics-exchange-rates-and-their-effects-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-ial-economics-balance-of-payments-and-international-competitiveness.md", "edexcel-ial-economics-exchange-rates-and-their-effects.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-ial-economics-comparative-advantage-patterns-of-trade-and-the-terms-practice.md", "edexcel-ial-economics-trading-blocs-the-wto-and-protectionism-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-ial-economics-comparative-advantage-patterns-of-trade-and-the-terms-revision-notes.md", "edexcel-ial-economics-trading-blocs-the-wto-and-protectionism-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-ial-economics-comparative-advantage-patterns-of-trade-and-the-terms.md", "edexcel-ial-economics-trading-blocs-the-wto-and-protectionism.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on-practice.md", "edexcel-ial-economics-industrialisation-aid-debt-relief-and-international-practice.md", "edexcel-ial-economics-market-orientated-and-interventionist-development-practice.md", "edexcel-ial-economics-measuring-development-and-the-economic-constraints-on-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on-revision-notes.md", "edexcel-ial-economics-industrialisation-aid-debt-relief-and-international-revision-notes.md", "edexcel-ial-economics-market-orientated-and-interventionist-development-revision-notes.md", "edexcel-ial-economics-measuring-development-and-the-economic-constraints-on-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on.md", "edexcel-ial-economics-industrialisation-aid-debt-relief-and-international.md", "edexcel-ial-economics-market-orientated-and-interventionist-development.md", "edexcel-ial-economics-measuring-development-and-the-economic-constraints-on.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-ial-economics-economies-and-diseconomies-of-scale-profit-and-practice.md", "edexcel-ial-economics-revenue-short-run-costs-and-diminishing-returns-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-ial-economics-economies-and-diseconomies-of-scale-profit-and-revision-notes.md", "edexcel-ial-economics-revenue-short-run-costs-and-diminishing-returns-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-ial-economics-economies-and-diseconomies-of-scale-profit-and.md", "edexcel-ial-economics-revenue-short-run-costs-and-diminishing-returns.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-ial-economics-efficiency-concentration-ratios-and-perfect-competition-practice.md", "edexcel-ial-economics-monopolistic-competition-and-contestable-markets-practice.md", "edexcel-ial-economics-monopoly-price-discrimination-and-monopsony-practice.md", "edexcel-ial-economics-oligopoly-interdependence-collusion-and-competition-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-ial-economics-efficiency-concentration-ratios-and-perfect-competition-revision-notes.md", "edexcel-ial-economics-monopolistic-competition-and-contestable-markets-revision-notes.md", "edexcel-ial-economics-monopoly-price-discrimination-and-monopsony-revision-notes.md", "edexcel-ial-economics-oligopoly-interdependence-collusion-and-competition-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-ial-economics-efficiency-concentration-ratios-and-perfect-competition.md", "edexcel-ial-economics-monopolistic-competition-and-contestable-markets.md", "edexcel-ial-economics-monopoly-price-discrimination-and-monopsony.md", "edexcel-ial-economics-oligopoly-interdependence-collusion-and-competition.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-ial-economics-externalities-and-public-goods-as-sources-of-market-practice.md", "edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-ial-economics-externalities-and-public-goods-as-sources-of-market-revision-notes.md", "edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-ial-economics-externalities-and-public-goods-as-sources-of-market.md", "edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-ial-economics-fiscal-and-monetary-policy-and-the-role-of-central-practice.md", "edexcel-ial-economics-macroeconomic-objectives-and-conflicts-between-them-practice.md", "edexcel-ial-economics-supply-side-policies-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-ial-economics-fiscal-and-monetary-policy-and-the-role-of-central-revision-notes.md", "edexcel-ial-economics-macroeconomic-objectives-and-conflicts-between-them-revision-notes.md", "edexcel-ial-economics-supply-side-policies-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-ial-economics-fiscal-and-monetary-policy-and-the-role-of-central.md", "edexcel-ial-economics-macroeconomic-objectives-and-conflicts-between-them.md", "edexcel-ial-economics-supply-side-policies.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-ial-economics-fiscal-deficits-and-national-debt-practice.md", "edexcel-ial-economics-macroeconomic-policies-in-a-global-context-control-of-practice.md", "edexcel-ial-economics-public-expenditure-and-taxation-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-ial-economics-fiscal-deficits-and-national-debt-revision-notes.md", "edexcel-ial-economics-macroeconomic-policies-in-a-global-context-control-of-revision-notes.md", "edexcel-ial-economics-public-expenditure-and-taxation-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-ial-economics-fiscal-deficits-and-national-debt.md", "edexcel-ial-economics-macroeconomic-policies-in-a-global-context-control-of.md", "edexcel-ial-economics-public-expenditure-and-taxation.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-igcse-economics-economic-growth-gdp-and-the-economic-cycle-practice.md", "edexcel-igcse-economics-environmental-protection-and-redistribution-of-income-practice.md", "edexcel-igcse-economics-inflation-deflation-and-the-cpi-practice.md", "edexcel-igcse-economics-the-current-account-of-the-balance-of-payments-practice.md", "edexcel-igcse-economics-unemployment-and-its-consequences-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-igcse-economics-economic-growth-gdp-and-the-economic-cycle-revision-notes.md", "edexcel-igcse-economics-environmental-protection-and-redistribution-of-income-revision-notes.md", "edexcel-igcse-economics-inflation-deflation-and-the-cpi-revision-notes.md", "edexcel-igcse-economics-the-current-account-of-the-balance-of-payments-revision-notes.md", "edexcel-igcse-economics-unemployment-and-its-consequences-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-igcse-economics-economic-growth-gdp-and-the-economic-cycle.md", "edexcel-igcse-economics-environmental-protection-and-redistribution-of-income.md", "edexcel-igcse-economics-inflation-deflation-and-the-cpi.md", "edexcel-igcse-economics-the-current-account-of-the-balance-of-payments.md", "edexcel-igcse-economics-unemployment-and-its-consequences.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses-practice.md", "edexcel-igcse-economics-monetary-policy-and-government-controls-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses-revision-notes.md", "edexcel-igcse-economics-monetary-policy-and-government-controls-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses.md", "edexcel-igcse-economics-monetary-policy-and-government-controls.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-igcse-economics-free-trade-protectionism-and-tariff-quota-and-subsidy-practice.md", "edexcel-igcse-economics-trading-blocs-the-wto-and-trade-patterns-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-igcse-economics-free-trade-protectionism-and-tariff-quota-and-subsidy-revision-notes.md", "edexcel-igcse-economics-trading-blocs-the-wto-and-trade-patterns-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["edexcel-igcse-economics-free-trade-protectionism-and-tariff-quota-and-subsidy.md", "edexcel-igcse-economics-trading-blocs-the-wto-and-trade-patterns.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-aggregate-supply-and-the-ad-as-model-practice.md", "ocr-a-level-economics-the-circular-flow-of-income-propensities-and-aggregate-practice.md", "ocr-a-level-economics-the-multiplier-the-economic-cycle-and-output-gaps-practice.md", "ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-aggregate-supply-and-the-ad-as-model-revision-notes.md", "ocr-a-level-economics-the-circular-flow-of-income-propensities-and-aggregate-revision-notes.md", "ocr-a-level-economics-the-multiplier-the-economic-cycle-and-output-gaps-revision-notes.md", "ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-aggregate-supply-and-the-ad-as-model.md", "ocr-a-level-economics-the-circular-flow-of-income-propensities-and-aggregate.md", "ocr-a-level-economics-the-multiplier-the-economic-cycle-and-output-gaps.md", "ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-business-objectives-and-the-principal-agent-problem-practice.md", "ocr-a-level-economics-economies-of-scale-revenue-and-profit-practice.md", "ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-business-objectives-and-the-principal-agent-problem-revision-notes.md", "ocr-a-level-economics-economies-of-scale-revenue-and-profit-revision-notes.md", "ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-business-objectives-and-the-principal-agent-problem.md", "ocr-a-level-economics-economies-of-scale-revenue-and-profit.md", "ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-central-banks-and-financial-regulation-practice.md", "ocr-a-level-economics-financial-institutions-markets-and-borrowing-practice.md", "ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates-practice.md", "ocr-a-level-economics-the-financial-sector-in-developing-and-emerging-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-central-banks-and-financial-regulation-revision-notes.md", "ocr-a-level-economics-financial-institutions-markets-and-borrowing-revision-notes.md", "ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates-revision-notes.md", "ocr-a-level-economics-the-financial-sector-in-developing-and-emerging-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-central-banks-and-financial-regulation.md", "ocr-a-level-economics-financial-institutions-markets-and-borrowing.md", "ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates.md", "ocr-a-level-economics-the-financial-sector-in-developing-and-emerging.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-contestable-markets-integration-growth-of-firms-and-practice.md", "ocr-a-level-economics-monopoly-natural-monopoly-and-price-discrimination-practice.md", "ocr-a-level-economics-oligopoly-interdependence-and-concentration-ratios-practice.md", "ocr-a-level-economics-perfect-competition-and-monopolistic-competition-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-contestable-markets-integration-growth-of-firms-and-revision-notes.md", "ocr-a-level-economics-monopoly-natural-monopoly-and-price-discrimination-revision-notes.md", "ocr-a-level-economics-oligopoly-interdependence-and-concentration-ratios-revision-notes.md", "ocr-a-level-economics-perfect-competition-and-monopolistic-competition-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-contestable-markets-integration-growth-of-firms-and.md", "ocr-a-level-economics-monopoly-natural-monopoly-and-price-discrimination.md", "ocr-a-level-economics-oligopoly-interdependence-and-concentration-ratios.md", "ocr-a-level-economics-perfect-competition-and-monopolistic-competition.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-demand-for-labour-productivity-and-unit-labour-costs-practice.md", "ocr-a-level-economics-labour-market-issues-inequality-and-government-practice.md", "ocr-a-level-economics-supply-of-labour-economic-rent-and-wage-determination-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-demand-for-labour-productivity-and-unit-labour-costs-revision-notes.md", "ocr-a-level-economics-labour-market-issues-inequality-and-government-revision-notes.md", "ocr-a-level-economics-supply-of-labour-economic-rent-and-wage-determination-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-demand-for-labour-productivity-and-unit-labour-costs.md", "ocr-a-level-economics-labour-market-issues-inequality-and-government.md", "ocr-a-level-economics-supply-of-labour-economic-rent-and-wage-determination.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus-practice.md", "ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure-practice.md", "ocr-a-level-economics-elasticity-of-demand-and-supply-ped-yed-xed-pes-practice.md", "ocr-a-level-economics-government-intervention-cost-benefit-analysis-and-practice.md", "ocr-a-level-economics-information-failure-merit-and-demerit-goods-public-practice.md", "ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the-practice.md", "ocr-a-level-economics-the-environment-and-market-failure-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus-revision-notes.md", "ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure-revision-notes.md", "ocr-a-level-economics-elasticity-of-demand-and-supply-ped-yed-xed-pes-revision-notes.md", "ocr-a-level-economics-government-intervention-cost-benefit-analysis-and-revision-notes.md", "ocr-a-level-economics-information-failure-merit-and-demerit-goods-public-revision-notes.md", "ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the-revision-notes.md", "ocr-a-level-economics-the-environment-and-market-failure-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus.md", "ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure.md", "ocr-a-level-economics-elasticity-of-demand-and-supply-ped-yed-xed-pes.md", "ocr-a-level-economics-government-intervention-cost-benefit-analysis-and.md", "ocr-a-level-economics-information-failure-merit-and-demerit-goods-public.md", "ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the.md", "ocr-a-level-economics-the-environment-and-market-failure.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-economic-development-alternative-measures-and-practice.md", "ocr-a-level-economics-economic-growth-gdp-and-recession-practice.md", "ocr-a-level-economics-income-and-wealth-distribution-poverty-and-uk-practice.md", "ocr-a-level-economics-inflation-deflation-and-index-numbers-practice.md", "ocr-a-level-economics-unemployment-and-employment-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-economic-development-alternative-measures-and-revision-notes.md", "ocr-a-level-economics-economic-growth-gdp-and-recession-revision-notes.md", "ocr-a-level-economics-income-and-wealth-distribution-poverty-and-uk-revision-notes.md", "ocr-a-level-economics-inflation-deflation-and-index-numbers-revision-notes.md", "ocr-a-level-economics-unemployment-and-employment-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-economic-development-alternative-measures-and.md", "ocr-a-level-economics-economic-growth-gdp-and-recession.md", "ocr-a-level-economics-income-and-wealth-distribution-poverty-and-uk.md", "ocr-a-level-economics-inflation-deflation-and-index-numbers.md", "ocr-a-level-economics-unemployment-and-employment.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-economic-integration-the-eu-and-the-wto-practice.md", "ocr-a-level-economics-exchange-rate-determination-measures-and-systems-practice.md", "ocr-a-level-economics-globalisation-and-multinational-firms-practice.md", "ocr-a-level-economics-international-trade-comparative-advantage-and-the-practice.md", "ocr-a-level-economics-protectionism-and-the-case-for-free-trade-practice.md", "ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition-practice.md", "ocr-a-level-economics-the-balance-of-payments-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-economic-integration-the-eu-and-the-wto-revision-notes.md", "ocr-a-level-economics-exchange-rate-determination-measures-and-systems-revision-notes.md", "ocr-a-level-economics-globalisation-and-multinational-firms-revision-notes.md", "ocr-a-level-economics-international-trade-comparative-advantage-and-the-revision-notes.md", "ocr-a-level-economics-protectionism-and-the-case-for-free-trade-revision-notes.md", "ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition-revision-notes.md", "ocr-a-level-economics-the-balance-of-payments-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-economic-integration-the-eu-and-the-wto.md", "ocr-a-level-economics-exchange-rate-determination-measures-and-systems.md", "ocr-a-level-economics-globalisation-and-multinational-firms.md", "ocr-a-level-economics-international-trade-comparative-advantage-and-the.md", "ocr-a-level-economics-protectionism-and-the-case-for-free-trade.md", "ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition.md", "ocr-a-level-economics-the-balance-of-payments.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation-practice.md", "ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal-practice.md", "ocr-a-level-economics-monetary-policy-and-inflation-targeting-practice.md", "ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic-practice.md", "ocr-a-level-economics-supply-side-policy-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation-revision-notes.md", "ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal-revision-notes.md", "ocr-a-level-economics-monetary-policy-and-inflation-targeting-revision-notes.md", "ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic-revision-notes.md", "ocr-a-level-economics-supply-side-policy-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation.md", "ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal.md", "ocr-a-level-economics-monetary-policy-and-inflation-targeting.md", "ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic.md", "ocr-a-level-economics-supply-side-policy.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-opportunity-cost-the-ppf-specialisation-and-trade-practice.md", "ocr-a-level-economics-resource-allocation-economic-systems-and-the-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-opportunity-cost-the-ppf-specialisation-and-trade-revision-notes.md", "ocr-a-level-economics-resource-allocation-economic-systems-and-the-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-a-level-economics-opportunity-cost-the-ppf-specialisation-and-trade.md", "ocr-a-level-economics-resource-allocation-economic-systems-and-the.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-gcse-economics-distribution-of-income-and-wealth-inflation-and-price-practice.md", "ocr-gcse-economics-economic-growth-gdp-and-unemployment-practice.md", "ocr-gcse-economics-fiscal-policy-government-budgets-and-monetary-policy-practice.md", "ocr-gcse-economics-supply-side-policies-and-the-limitations-of-markets-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-gcse-economics-distribution-of-income-and-wealth-inflation-and-price-revision-notes.md", "ocr-gcse-economics-economic-growth-gdp-and-unemployment-revision-notes.md", "ocr-gcse-economics-fiscal-policy-government-budgets-and-monetary-policy-revision-notes.md", "ocr-gcse-economics-supply-side-policies-and-the-limitations-of-markets-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-gcse-economics-distribution-of-income-and-wealth-inflation-and-price.md", "ocr-gcse-economics-economic-growth-gdp-and-unemployment.md", "ocr-gcse-economics-fiscal-policy-government-budgets-and-monetary-policy.md", "ocr-gcse-economics-supply-side-policies-and-the-limitations-of-markets.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development-practice.md", "ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development-revision-notes.md", "ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development.md", "ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run-practice.md", "oxfordaqa-a-level-economics-the-circular-flow-and-aggregate-demand-and-supply-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run-revision-notes.md", "oxfordaqa-a-level-economics-the-circular-flow-and-aggregate-demand-and-supply-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run.md", "oxfordaqa-a-level-economics-the-circular-flow-and-aggregate-demand-and-supply.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-competition-policy-public-ownership-privatisation-and-practice.md", "oxfordaqa-a-level-economics-competitive-dynamics-efficiency-and-consumer-and-practice.md", "oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic-practice.md", "oxfordaqa-a-level-economics-monopoly-power-price-discrimination-and-contestable-practice.md", "oxfordaqa-a-level-economics-oligopoly-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-competition-policy-public-ownership-privatisation-and-revision-notes.md", "oxfordaqa-a-level-economics-competitive-dynamics-efficiency-and-consumer-and-revision-notes.md", "oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic-revision-notes.md", "oxfordaqa-a-level-economics-monopoly-power-price-discrimination-and-contestable-revision-notes.md", "oxfordaqa-a-level-economics-oligopoly-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-competition-policy-public-ownership-privatisation-and.md", "oxfordaqa-a-level-economics-competitive-dynamics-efficiency-and-consumer-and.md", "oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic.md", "oxfordaqa-a-level-economics-monopoly-power-price-discrimination-and-contestable.md", "oxfordaqa-a-level-economics-oligopoly.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-costs-of-production-economies-of-scale-revenue-and-practice.md", "oxfordaqa-a-level-economics-production-productivity-specialisation-and-exchange-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-costs-of-production-economies-of-scale-revenue-and-revision-notes.md", "oxfordaqa-a-level-economics-production-productivity-specialisation-and-exchange-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-costs-of-production-economies-of-scale-revenue-and.md", "oxfordaqa-a-level-economics-production-productivity-specialisation-and-exchange.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-demand-and-the-elasticities-of-demand-practice.md", "oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation-practice.md", "oxfordaqa-a-level-economics-supply-and-price-elasticity-of-supply-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-demand-and-the-elasticities-of-demand-revision-notes.md", "oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation-revision-notes.md", "oxfordaqa-a-level-economics-supply-and-price-elasticity-of-supply-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-demand-and-the-elasticities-of-demand.md", "oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation.md", "oxfordaqa-a-level-economics-supply-and-price-elasticity-of-supply.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-demand-for-and-supply-of-labour-practice.md", "oxfordaqa-a-level-economics-labour-market-discrimination-and-minimum-wage-laws-practice.md", "oxfordaqa-a-level-economics-wage-determination-in-perfect-and-imperfect-labour-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-demand-for-and-supply-of-labour-revision-notes.md", "oxfordaqa-a-level-economics-labour-market-discrimination-and-minimum-wage-laws-revision-notes.md", "oxfordaqa-a-level-economics-wage-determination-in-perfect-and-imperfect-labour-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-demand-for-and-supply-of-labour.md", "oxfordaqa-a-level-economics-labour-market-discrimination-and-minimum-wage-laws.md", "oxfordaqa-a-level-economics-wage-determination-in-perfect-and-imperfect-labour.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-diminishing-returns-returns-to-scale-short-run-and-practice.md", "oxfordaqa-a-level-economics-revenue-curves-profit-and-technological-change-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-diminishing-returns-returns-to-scale-short-run-and-revision-notes.md", "oxfordaqa-a-level-economics-revenue-curves-profit-and-technological-change-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-diminishing-returns-returns-to-scale-short-run-and.md", "oxfordaqa-a-level-economics-revenue-curves-profit-and-technological-change.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-economic-growth-and-the-economic-cycle-practice.md", "oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation-practice.md", "oxfordaqa-a-level-economics-the-current-account-of-the-balance-of-payments-and-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-economic-growth-and-the-economic-cycle-revision-notes.md", "oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation-revision-notes.md", "oxfordaqa-a-level-economics-the-current-account-of-the-balance-of-payments-and-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-economic-growth-and-the-economic-cycle.md", "oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation.md", "oxfordaqa-a-level-economics-the-current-account-of-the-balance-of-payments-and.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-exchange-rates-practice.md", "oxfordaqa-a-level-economics-financial-markets-practice.md", "oxfordaqa-a-level-economics-the-balance-of-payments-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-exchange-rates-revision-notes.md", "oxfordaqa-a-level-economics-financial-markets-revision-notes.md", "oxfordaqa-a-level-economics-the-balance-of-payments-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-exchange-rates.md", "oxfordaqa-a-level-economics-financial-markets.md", "oxfordaqa-a-level-economics-the-balance-of-payments.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-factors-that-affect-economic-development-practice.md", "oxfordaqa-a-level-economics-measuring-economic-growth-development-and-living-practice.md", "oxfordaqa-a-level-economics-policies-to-promote-development-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-factors-that-affect-economic-development-revision-notes.md", "oxfordaqa-a-level-economics-measuring-economic-growth-development-and-living-revision-notes.md", "oxfordaqa-a-level-economics-policies-to-promote-development-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-factors-that-affect-economic-development.md", "oxfordaqa-a-level-economics-measuring-economic-growth-development-and-living.md", "oxfordaqa-a-level-economics-policies-to-promote-development.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-fiscal-policy-practice.md", "oxfordaqa-a-level-economics-monetary-policy-practice.md", "oxfordaqa-a-level-economics-supply-side-policies-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-fiscal-policy-revision-notes.md", "oxfordaqa-a-level-economics-monetary-policy-revision-notes.md", "oxfordaqa-a-level-economics-supply-side-policies-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-fiscal-policy.md", "oxfordaqa-a-level-economics-monetary-policy.md", "oxfordaqa-a-level-economics-supply-side-policies.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-globalisation-practice.md", "oxfordaqa-a-level-economics-international-trade-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-globalisation-revision-notes.md", "oxfordaqa-a-level-economics-international-trade-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-globalisation.md", "oxfordaqa-a-level-economics-international-trade.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-government-intervention-in-markets-and-government-practice.md", "oxfordaqa-a-level-economics-market-failure-public-goods-and-externalities-practice.md", "oxfordaqa-a-level-economics-merit-and-demerit-goods-market-imperfections-and-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-government-intervention-in-markets-and-government-revision-notes.md", "oxfordaqa-a-level-economics-market-failure-public-goods-and-externalities-revision-notes.md", "oxfordaqa-a-level-economics-merit-and-demerit-goods-market-imperfections-and-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-government-intervention-in-markets-and-government.md", "oxfordaqa-a-level-economics-market-failure-public-goods-and-externalities.md", "oxfordaqa-a-level-economics-merit-and-demerit-goods-market-imperfections-and.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-market-structures-firms-objectives-and-competitive-practice.md", "oxfordaqa-a-level-economics-monopoly-monopoly-power-and-the-competitive-market-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-market-structures-firms-objectives-and-competitive-revision-notes.md", "oxfordaqa-a-level-economics-monopoly-monopoly-power-and-the-competitive-market-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-market-structures-firms-objectives-and-competitive.md", "oxfordaqa-a-level-economics-monopoly-monopoly-power-and-the-competitive-market.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-objectives-and-growth-of-firms-practice.md", "oxfordaqa-a-level-economics-the-rational-and-behavioural-individual-decision-maker-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-objectives-and-growth-of-firms-revision-notes.md", "oxfordaqa-a-level-economics-the-rational-and-behavioural-individual-decision-maker-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-a-level-economics-objectives-and-growth-of-firms.md", "oxfordaqa-a-level-economics-the-rational-and-behavioural-individual-decision-maker.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-igcse-economics-demand-supply-and-equilibrium-price-practice.md", "oxfordaqa-igcse-economics-related-markets-and-price-elasticity-of-demand-and-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-igcse-economics-demand-supply-and-equilibrium-price-revision-notes.md", "oxfordaqa-igcse-economics-related-markets-and-price-elasticity-of-demand-and-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-igcse-economics-demand-supply-and-equilibrium-price.md", "oxfordaqa-igcse-economics-related-markets-and-price-elasticity-of-demand-and.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-igcse-economics-fiscal-and-monetary-policy-practice.md", "oxfordaqa-igcse-economics-supply-side-policies-and-correcting-externalities-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-igcse-economics-fiscal-and-monetary-policy-revision-notes.md", "oxfordaqa-igcse-economics-supply-side-policies-and-correcting-externalities-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-igcse-economics-fiscal-and-monetary-policy.md", "oxfordaqa-igcse-economics-supply-side-policies-and-correcting-externalities.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-igcse-economics-globalisation-benefits-drawbacks-and-ethical-issues-practice.md", "oxfordaqa-igcse-economics-why-countries-trade-free-trade-and-exchange-rates-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-igcse-economics-globalisation-benefits-drawbacks-and-ethical-issues-revision-notes.md", "oxfordaqa-igcse-economics-why-countries-trade-free-trade-and-exchange-rates-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-igcse-economics-globalisation-benefits-drawbacks-and-ethical-issues.md", "oxfordaqa-igcse-economics-why-countries-trade-free-trade-and-exchange-rates.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-igcse-economics-market-structures-competitive-and-non-competitive-practice.md", "oxfordaqa-igcse-economics-the-labour-market-and-wage-determination-practice.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), practice sets, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-igcse-economics-market-structures-competitive-and-non-competitive-revision-notes.md", "oxfordaqa-igcse-economics-the-labour-market-and-wage-determination-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), revision notes, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
+  {
+    files: ["oxfordaqa-igcse-economics-market-structures-competitive-and-non-competitive.md", "oxfordaqa-igcse-economics-the-labour-market-and-wage-determination.md"],
+    evidence:
+      "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
+  },
 ];
 const legitimateKeyOf = (fs) => [...fs].sort().join('|');
 const REVIEWED_KEYS = new Map(
