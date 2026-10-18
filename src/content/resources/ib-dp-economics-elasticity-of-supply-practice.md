@@ -77,20 +77,20 @@ These questions follow the IB Diploma Programme *Economics guide* (first assessm
 ## Answers
 
 **1.** PES shows how far output reacts to a price change [1]. It is the proportionate change in output divided by the proportionate change in price, both as percentages [1]. **[2]**
-*Examiner insight:* Credit comes from showing that you grasp the reaction of output to price; a bare formula with no meaning attached is a thinner answer.
+*Examiner insight:* Show that you understand how output reacts to price; a bare formula with no meaning attached is a thinner answer.
 
 **2. (a)** Price change = (30 − 25) / 25 × 100 = 20% [1]. Quantity change = (448 − 400) / 400 × 100 = 12% [1]. PES = 12 / 20 = **0.6** [1].
 **(b)** PES is below 1, so supply is relatively inelastic [1]. **[4]**
-*Examiner insight:* When a question says "calculate", show each percentage change; an unsupported answer is risky if a slip occurs.
+*Examiner insight:* When a question says "calculate", show each percentage change; an unsupported answer is risky if you make a slip.
 
 **3.** Percentage change in quantity = 1.4 × (−5%) = −7% [1]. Fall in quantity = 7% of 1,500 = 105 [1]. New quantity = 1,500 − 105 = **1,395 tiles** [1]. **[3]**
 *Examiner insight:* Give the new quantity, not only the percentage change, because the question asks for the quantity.
 
 **4.** Percentage change in price = 9 / 0.5 = 18% [1]. Price rise = 18% of 50 = 9 [1]. New price = 50 + 9 = **59 vels** [1]. **[3]**
-*Examiner insight:* Rearranging the formula gains credit for method even if the arithmetic then slips.
+*Examiner insight:* Show the rearranged formula so that your method is visible even if the arithmetic slips.
 
 **5.** Axes labelled price and quantity supplied [1]. (a) A vertical line labelled S, PES = 0 [1]. (b) A horizontal line labelled S, PES = infinity [1]. (c) A straight upward line through the origin labelled S, PES = 1 [1]. **[4]**
-*Examiner insight:* A diagram needs labelled axes and curves to earn full credit; an unlabelled sketch shows less.
+*Examiner insight:* Label both axes and every curve; an unlabelled sketch shows less.
 
 **6.** Spare production lines mean output can rise without new investment [1], so quantity supplied rises sharply when price rises and PES is higher [1]. The cold store lets the firm hold stock and release it when price rises [1], which raises PES because supply can respond immediately [1]. **[4]**
 *Examiner insight:* "Explain" needs a reason and a direction for each determinant; naming them alone does not meet the command term.
@@ -110,10 +110,10 @@ These questions follow the IB Diploma Programme *Economics guide* (first assessm
 **(b)** S1: price 13, quantity 360 [1]. S2: price 14, quantity 340 [1].
 **(c)** S1: price +30%, quantity +20%, PES = 20 / 30 = **0.67** [1]. S2: price +40%, quantity +13.3%, PES = 13.3 / 40 = **0.33** [1]. Both are below 1, so both are inelastic [1].
 **(d)** S2 is less elastic, so producers add fewer units for each price rise [1]. A larger price rise is needed to bring supply into line with the higher demand [1]. **[8]**
-*Examiner insight:* State the equilibrium from the table as a price and a quantity; giving only one gives half a point.
+*Examiner insight:* State the equilibrium from the table as both a price and a quantity; giving only one is incomplete.
 
 **11.** Credit any developed, balanced points, in a response with a judgement. A model plan follows. Short run means some inputs are fixed [1]. Handwork limits the speed at which output can rise because skilled labour is scarce and slow to train [1]. Tools and workspace may already be fully used, so there is little unused capacity [1]. Wood can be stored, so the workshop could build stock in advance, which raises PES a little [1]. Extra output may mean overtime and rising unit costs [1]. Materials might be easy to obtain, which helps [1]. A supported judgement, for example that supply is probably relatively inelastic in the short run but becomes more elastic over time, with a reason [2]. **[8]**
-*Examiner insight:* "Discuss" is an AO3 command term, so an answer that lists determinants without weighing them will not reach the top markband.
+*Examiner insight:* "Discuss" is an AO3 command term, so an answer that only lists determinants without weighing them is unlikely to show the judgement the term asks for.
 
 ## Where marks are usually lost
 

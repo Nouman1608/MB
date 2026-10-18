@@ -20,9 +20,9 @@ publishedDate: 2026-10-19
 featured: false
 ---
 
-This study guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers sub-topic 2.7, Role of government in microeconomics, which is part of Unit 2 and is taught at both SL and HL. Two items are HL only: the calculation of effects on markets and stakeholders, and consumer nudges.
+This study guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. Its subject is sub-topic 2.7, Role of government in microeconomics (Unit 2), taught at SL and HL. Two items are HL only: the calculation of effects on markets and stakeholders, and consumer nudges.
 
-Every market in this guide is fictional and every figure is invented for practice. Use the [IB DP Economics hub](/boards/ib/ib-dp/economics/) for the full course and the [printable checklist](/checklists/ib/ib-dp/economics/) to tick off what you can do. The same sub-topic has [revision notes](/resources/ib-dp-economics-role-of-government-in-microeconomics-revision-notes/) and a [practice set](/resources/ib-dp-economics-role-of-government-in-microeconomics-practice/). If you need equilibrium, shortage and surplus first, read [demand, supply and market equilibrium](/resources/ib-dp-economics-demand-supply-equilibrium/). To find your weak spots, try the [free 10-minute diagnostics](/diagnostics/).
+Every market in this guide is fictional and every figure is invented for practice. Course overview: [IB DP Economics hub](/boards/ib/ib-dp/economics/). Self-assessment: [printable checklist](/checklists/ib/ib-dp/economics/). Also for this sub-topic: [revision notes](/resources/ib-dp-economics-role-of-government-in-microeconomics-revision-notes/) and a [practice set](/resources/ib-dp-economics-role-of-government-in-microeconomics-practice/). If you need equilibrium, shortage and surplus first, read [demand, supply and market equilibrium](/resources/ib-dp-economics-demand-supply-equilibrium/). Our [free 10-minute diagnostics](/diagnostics/) can show you where to begin.
 
 ## What the guide asks you to do
 
@@ -57,7 +57,7 @@ Most real policies have more than one aim, and aims can conflict. A tax that rai
 A **price ceiling** is a legal maximum price. It only matters if it is set **below** the free-market equilibrium price. A ceiling above equilibrium changes nothing, because the market price never reaches it.
 
 **How to draw it**
-1. Draw demand (D) sloping down and supply (S) sloping up, with price on the vertical axis and quantity on the horizontal axis.
+1. Draw demand (D) sloping down and supply (S) sloping up. Put price on the y-axis and quantity along the x-axis.
 2. Mark the equilibrium price (Pe) and quantity (Qe).
 3. Draw a horizontal line at the ceiling price (Pmax) below Pe.
 4. Read across: the line meets S at the quantity supplied (Qs) and D at the quantity demanded (Qd). Qs is to the left of Qd.
@@ -114,7 +114,7 @@ An **indirect tax** is charged on a good or service, and the seller passes it on
 
 **How to draw it**
 1. Draw D and S with Pe and Qe.
-2. Shift S **upwards by the amount of the tax**, because at each quantity the firm now needs a price that is higher by the tax to receive the same amount.
+2. Shift S **upwards by the amount of the tax**. For any quantity, firms now need a price higher by the tax to keep the same take-home amount.
 3. The new equilibrium has a higher price paid by the consumer (Pc) and a lower quantity (Qt).
 4. The price the producer keeps is Pc minus the tax. Mark it on the original supply curve, directly below Pc at quantity Qt.
 5. Shade the tax revenue: tax per unit × Qt.
@@ -139,7 +139,7 @@ Consumers pay 80 instead of 70, a rise of 10. Producers keep 65 instead of 70, a
 
 ## Subsidies
 
-A **subsidy** is a payment from the government to a producer (or consumer) that lowers the cost of a good.
+A **subsidy** is money the state pays to a producer (or consumer) so that a good costs less to supply or buy.
 
 **How to draw it.** Shift S **downwards by the amount of the subsidy**. The new equilibrium has a lower price paid by consumers and a higher quantity. The producer receives the consumer price plus the subsidy.
 
@@ -177,8 +177,8 @@ The guide treats consequences for markets and stakeholders as an evaluation skil
 
 ## Common errors
 
-- Drawing a ceiling above equilibrium or a floor below it, then claiming a shortage or surplus.
-- Shifting demand instead of supply for a tax or subsidy.
+- Placing a ceiling over equilibrium or a floor under it, then claiming a shortage or surplus.
+- Moving the demand curve when the policy acts on supply.
 - Reading the producer's price from the new curve rather than the original one.
 - Forgetting that the tax per unit is the vertical gap between the two supply curves.
 - Saying a tax "burden" is always shared equally. It depends on the slopes of the curves.

@@ -68,7 +68,7 @@ If imports are made with heavy pollution, a country that charges its own firms f
 
 ### 5. Anti-dumping
 
-Dumping means selling in a foreign market at a price below cost, or below the price charged at home. The aim is to drive out local rivals and then raise prices.
+Dumping is when an exporter charges a foreign buyer less than the cost of making the good, or less than it charges at home. The aim is to drive out local rivals and then raise prices.
 
 **Worked example.** A fictional exporter in Brenmar produces at a cost of 52 per unit and sells at 70 at home. In Tarvia it sells at 45.
 

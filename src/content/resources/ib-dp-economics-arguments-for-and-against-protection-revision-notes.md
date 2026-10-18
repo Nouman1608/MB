@@ -55,7 +55,7 @@ For full explanations, start with the [study guide](/resources/ib-dp-economics-a
 
 - **Protection:** government action that restricts imports or favours domestic producers.
 - **Infant industry:** a young industry with high costs because it is small and inexperienced.
-- **Dumping:** selling abroad at a price below cost, or below the price charged at home.
+- **Dumping:** an export price lower than the cost of production, or lower than the exporter's home price.
 - **Retaliation:** a trading partner's barrier imposed in response to yours.
 - **ELDC:** economically least developed country.
 
@@ -149,7 +149,7 @@ The guide's definition of *evaluate* is to weigh up strengths and limitations. *
 
 ## Using this in the exam
 
-Paper 1 is an extended response paper. You answer one question from three, and each question has part (a) worth 10 marks and part (b) worth 15. Calculators are not allowed. Paper 2 is a data response paper with calculators allowed. For a 4.3 argument, build each paragraph in four moves: state the argument, explain the mechanism, apply it to the stimulus or your example, then give one limitation. For evaluation, finish with a judgement that names the condition under which it holds.
+Paper 1 is an extended response paper with a choice of three questions, and calculators are not allowed. Its parts carry 10 marks (a) and 15 marks (b). Paper 2 is a data response paper with calculators allowed. For a 4.3 argument, build each paragraph in four moves: state the argument, explain the mechanism, apply it to the stimulus or your example, then give one limitation. For evaluation, finish with a judgement that names the condition under which it holds.
 
 ## Where marks are usually lost
 

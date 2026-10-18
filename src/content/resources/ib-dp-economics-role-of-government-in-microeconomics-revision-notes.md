@@ -20,9 +20,9 @@ publishedDate: 2026-10-19
 featured: false
 ---
 
-These notes follow the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. They cover sub-topic 2.7, Role of government in microeconomics, at SL and HL. Two items are HL only: the calculation of effects on markets and stakeholders, and consumer nudges. Full explanations are in the [study guide](/resources/ib-dp-economics-role-of-government-in-microeconomics/); test yourself with the [practice set](/resources/ib-dp-economics-role-of-government-in-microeconomics-practice/).
+These notes follow the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. The subject is sub-topic 2.7, Role of government in microeconomics, at SL and HL. Two items are HL only: the calculation of effects on markets and stakeholders, and consumer nudges. Longer explanations are in the [study guide](/resources/ib-dp-economics-role-of-government-in-microeconomics/); test yourself with the [practice set](/resources/ib-dp-economics-role-of-government-in-microeconomics-practice/).
 
-All markets and figures below are fictional. See the [IB DP Economics hub](/boards/ib/ib-dp/economics/), the [printable checklist](/checklists/ib/ib-dp/economics/) and the [free 10-minute diagnostics](/diagnostics/). For equilibrium basics, see the [demand, supply and equilibrium revision notes](/resources/ib-dp-economics-demand-supply-equilibrium-revision-notes/).
+All markets and figures below are fictional. Related pages: the course [hub for IB DP Economics](/boards/ib/ib-dp/economics/), a [checklist to print](/checklists/ib/ib-dp/economics/), and some [free 10-minute diagnostics](/diagnostics/). Equilibrium basics are in the [demand, supply and equilibrium revision notes](/resources/ib-dp-economics-demand-supply-equilibrium-revision-notes/).
 
 ## Reasons for intervention (list of seven)
 
@@ -55,7 +55,7 @@ Learn the seven aims, then pair each with a tool and an example.
 - **Ceiling versus floor.** A ceiling is a maximum price and needs to be **below** equilibrium to bind. A floor is a minimum price and needs to be **above** equilibrium to bind.
 - **Shortage versus surplus.** Shortage means Qd > Qs. Surplus means Qs > Qd.
 - **Quantity traded under a ceiling** is Qs (the short side). **Quantity traded under a floor** is Qd (the short side) unless the government buys the surplus.
-- **Tax versus subsidy.** Tax shifts supply up; subsidy shifts supply down. Neither shifts demand.
+- **Tax versus subsidy.** A tax moves supply up; a subsidy moves it down. Demand stays where it is.
 - **Price paid versus price received.** With a tax, consumers pay the new equilibrium price and producers keep that price minus the tax. With a subsidy, producers receive the new price plus the subsidy.
 - **Direct provision versus command and control.** One supplies a service; the other sets rules.
 
@@ -167,8 +167,8 @@ The guide asks you to weigh consequences for markets and stakeholders. Use these
 
 ## Where marks are usually lost
 
-- Drawing a ceiling above equilibrium or a floor below it.
-- Shifting demand for a tax or subsidy.
+- Putting a ceiling over equilibrium or a floor under it.
+- Moving demand for a tax or subsidy.
 - Missing labels: axes, S and D, Pe, Qe, the new price and quantity.
 - Reading the producer price off the wrong curve.
 - Forgetting that the shortage or surplus is a gap between quantities, not prices.

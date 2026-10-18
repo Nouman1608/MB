@@ -26,9 +26,9 @@ featured: false
 > mark tariffs -- the IB holds copyright in its own papers. Use these alongside
 > the official past papers available through your school or the IB store.
 
-This practice set follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers sub-topic 2.7, Role of government in microeconomics, at SL and HL. Questions 8 to 11 are HL only. Every market and figure is fictional. The [1] points in the answers are a revision aid; the guide says real papers use an analytic markscheme with markbands.
+This practice set follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. The subject is sub-topic 2.7, Role of government in microeconomics, at SL and HL. Questions 8 to 11 are HL only. Every market and figure is fictional. The [1] points in the answers are a revision aid; the guide says real papers use an analytic markscheme with markbands.
 
-Explanations are in the [study guide](/resources/ib-dp-economics-role-of-government-in-microeconomics/) and the [revision notes](/resources/ib-dp-economics-role-of-government-in-microeconomics-revision-notes/). The [IB DP Economics hub](/boards/ib/ib-dp/economics/), [printable checklist](/checklists/ib/ib-dp/economics/) and [free 10-minute diagnostics](/diagnostics/) cover the rest.
+Teaching is in the [study guide](/resources/ib-dp-economics-role-of-government-in-microeconomics/) and the [revision notes](/resources/ib-dp-economics-role-of-government-in-microeconomics-revision-notes/). For the wider course, see the [course hub](/boards/ib/ib-dp/economics/), the [checklist to print](/checklists/ib/ib-dp/economics/) and the [free 10-minute diagnostics](/diagnostics/).
 
 ## Questions
 
@@ -137,12 +137,12 @@ Explanations are in the [study guide](/resources/ib-dp-economics-role-of-governm
 - Alternatives such as direct payments can support income with less surplus [1].
 - A judgement that depends on the size of the floor and the responsiveness of supply and demand [1].
 **[10]**
-*Examiner insight:* "Evaluate" asks you to weigh strengths against limitations. A conclusion that takes a side and says what it depends on turns an explanation into an evaluation.
+*Examiner insight:* "Evaluate" means appraising by weighing up strengths and limitations. A conclusion that takes a side and states its conditions lifts an explanation into evaluation.
 
 ## Where marks are usually lost
 
-- Setting a ceiling above equilibrium or a floor below it, then claiming a shortage or surplus.
-- Shifting demand instead of supply for a tax or subsidy.
+- Placing a ceiling over equilibrium or a floor under it, then claiming a shortage or surplus.
+- Moving demand when the policy acts on supply.
 - Leaving out axis labels, curve labels, Pe, Qe or the new values.
 - Reading the producer price from the wrong curve, or forgetting to take off the tax.
 - Using the old quantity in revenue or cost calculations.
@@ -153,11 +153,11 @@ Explanations are in the [study guide](/resources/ib-dp-economics-role-of-governm
 
 ## Next steps
 
-- Re-read the [study guide](/resources/ib-dp-economics-role-of-government-in-microeconomics/) where you lost marks.
-- Use the [revision notes](/resources/ib-dp-economics-role-of-government-in-microeconomics-revision-notes/) for a final recall check.
-- Work through the [IB DP Economics hub](/boards/ib/ib-dp/economics/) and tick off the [printable checklist](/checklists/ib/ib-dp/economics/).
-- Try all [free 10-minute diagnostics](/diagnostics/) to find your next topic.
-- [Book a free trial class](/trial/) if you want a teacher to go through your answers.
+- Revisit the [study guide](/resources/ib-dp-economics-role-of-government-in-microeconomics/) wherever you lost marks.
+- Run a final recall check with the [revision notes](/resources/ib-dp-economics-role-of-government-in-microeconomics-revision-notes/).
+- Move on through the [course hub](/boards/ib/ib-dp/economics/) using the [checklist](/checklists/ib/ib-dp/economics/).
+- Pick your next topic with the [free 10-minute diagnostics](/diagnostics/).
+- [Book a free trial class](/trial/) and have a teacher mark your answers.
 
 ## Official syllabus
 
