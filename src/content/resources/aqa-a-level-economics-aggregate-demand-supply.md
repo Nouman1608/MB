@@ -12,6 +12,7 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
+    subtopic: "how-the-macroeconomy-works-aqa-alevel-economics"
 description: "The circular flow of income, AD/AS analysis, the determinants of aggregate demand (including the accelerator and saving), the multiplier and MPC, and short-run and long-run aggregate supply (including the Keynesian AS curve) -- Section 3.2.2 How the macroeconomy works, in Topic 2 of AQA A-Level Economics (7136)."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
