@@ -163,7 +163,7 @@ The guide asks you to weigh consequences for markets and stakeholders. Use these
 9. Cost: 24 × 41 = 984 cu. Welfare loss: ½ × 24 × (41 − 35) = 72 cu. Check: consumers gain 18 × 41 = 738, producers gain 6 × 41 = 246, and 738 + 246 = 984.
 10. A default option that people may change, such as automatic enrolment in a saving plan.
 11. It can push output beyond the level where marginal benefit equals marginal cost, especially where there was no market failure to correct.
-12. Farmers (sellers) earn a higher price on each unit sold; consumers pay more and buy less. Taxpayers fund any surplus purchases.
+12. Farmers (sellers) earn a higher price on each unit sold; consumers face higher prices and purchase fewer units. Taxpayers pay for any stock the state buys.
 
 ## Where marks are usually lost
 

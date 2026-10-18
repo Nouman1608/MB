@@ -71,7 +71,7 @@ Revise first with the [study guide](/resources/ib-dp-economics-public-goods-and-
 ## Answers
 
 **1.** Non-rivalrous: when one person uses it, the same amount remains for everyone else [1]. Non-excludable: non-payers cannot be prevented from using it [1]. **[2]**
-*Examiner insight:* "State" asks for a brief answer, so one clear sentence per term is enough; extra detail earns nothing more.
+*Examiner insight:* "State" asks for a brief answer, so one clear sentence per term is enough; extra detail is wasted time.
 
 **2.** (i) Public: anyone with a radio receives it and one listener does not reduce another's signal [1]. (ii) Private: the seat is occupied by one person and non-ticket holders can be turned away [1]. (iii) Public: the wall protects every property in the bay and defending one does not reduce protection for another [1]. **[3]**
 *Examiner insight:* A classification mark needs a reason that uses both features, not just a label.

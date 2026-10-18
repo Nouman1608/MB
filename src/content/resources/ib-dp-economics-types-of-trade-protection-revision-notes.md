@@ -30,10 +30,10 @@ All figures are fictional.
 
 | Term | Meaning |
 |---|---|
-| Tariff | A tax on imported goods. Specific: a fixed sum per unit. Ad valorem: a percentage of the price |
-| Quota | A legal limit on the quantity of a good that may be imported |
+| Tariff | A tax on imported goods. Specific: a fixed sum per unit. Ad valorem: a share of the import's value |
+| Quota | A legal cap on the number of units of a good that may enter |
 | Quota rent | The price gap (domestic price minus world price) times the quota quantity, collected by licence holders |
-| Subsidy | A payment from government to producers, usually per unit of output |
+| Subsidy | Money paid by government to producers, usually per unit of output |
 | Export subsidy | A payment per unit sold abroad |
 | Administrative barrier | A standard, regulation, licence or procedure that makes importing harder or dearer |
 | Welfare loss | The triangles of surplus that nobody gains when protection distorts output and consumption |
@@ -176,7 +176,7 @@ Use the Lorvan market: Qd = 140 − 2P, Qs = 3P − 10, Pw = 20, quantities in t
 
 ### Answers
 
-1. A legal limit on the quantity of a good that can be imported in a period.
+1. A legal cap on how many units of a good may enter in a period.
 2. 20 + 6 = **26**.
 3. Qs = 78 − 10 = **68**. Qd = 140 − 52 = **88**.
 4. 88 − 68 = **20**.

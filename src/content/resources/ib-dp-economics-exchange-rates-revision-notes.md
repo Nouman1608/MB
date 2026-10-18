@@ -95,11 +95,11 @@ AD/AS sketch for a depreciation: AD shifts right, and SRAS shifts left if import
 
 Worked reminder. Pelland pegs at 1.80 while the market would give 1.50, with 60 million pels of excess supply. The bank buys 60 million pels and spends 60 x 1.80 = 108 million duns of reserves. Reserves are finite, so an overvalued peg cannot be held indefinitely without a policy change.
 
-Second reminder, for a managed system. Demand for pels rises and the market rate would be 1.70, but the bank holds it at 1.60. The pel is undervalued compared with the market rate, so demand exceeds supply at 1.60. The bank sells pels, and its reserves of duns grow. Name the direction of intervention and the effect on reserves; both are easy marks.
+Second reminder, for a managed system. Demand for pels rises and the market rate would be 1.70, but the bank holds it at 1.60. The pel is undervalued compared with the market rate, so demand exceeds supply at 1.60. The bank sells pels, and its reserves of duns grow. Name the direction of intervention and the effect on reserves.
 
 ## Writing the answers
 
-- **Explain a change in the rate.** Name the factor, state which curve shifts and which way, state the new rate, then name the result as appreciation or depreciation. Four short steps cover most two to four mark questions.
+- **Explain a change in the rate.** Name the factor, state which curve shifts and which way, state the new rate, then name the result as appreciation or depreciation. Four short steps give a clear, complete explanation.
 - **Examine consequences.** Choose the indicators the question names. For each, give the chain from the rate to the price of exports or imports, then to AD or SRAS, then to the indicator. Add a condition, such as how strongly buyers respond, and a stakeholder who gains or loses.
 - **Calculate.** Write the formula, substitute, and give the answer with the currency or the percent sign. Show the working even when the answer looks obvious.
 - **Evaluate fixed against floating (HL only).** Pick two or three criteria, compare the systems on each, and finish with a judgement tied to the country in the question.

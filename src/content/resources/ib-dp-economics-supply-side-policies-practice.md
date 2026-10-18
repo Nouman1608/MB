@@ -69,7 +69,7 @@ All countries, firms and figures are invented. The mark scheme style used in the
 
 **1. (a)** Supply-side policies are government actions to increase the productive capacity of the economy or the efficiency of markets [1], rather than changing total spending [1]. **[2]**
 **(b)** Any two of: long-term growth by raising productive capacity; better competition and efficiency; lower labour costs and unemployment through labour market flexibility; lower inflation for competitiveness; stronger incentives to invest in innovation. One mark for each goal stated clearly [1] [1]. **[2]**
-*Examiner insight:* "Outline" asks for a brief account, so a named goal with a few words of explanation is enough; a full paragraph per goal wastes time.
+*Examiner insight:* The command term "outline" calls for a short summary, so name each goal and add a few words; a full paragraph per goal costs time you need elsewhere.
 
 **2.** Market-based policies free markets or change incentives so that private decisions raise efficiency or output [1]. Example: privatization, deregulation or a tax cut [1]. Interventionist policies involve the government directly providing or funding something that raises capacity [1]. Example: education and training, infrastructure or research and development [1]. **[4]**
 *Examiner insight:* "Distinguish" needs the difference stated clearly, not two separate definitions; use a linking word such as "whereas".
@@ -81,7 +81,7 @@ All countries, firms and figures are invented. The mark scheme style used in the
 **4. (a)** 1,000 − 40W = 200 + 60W, so 800 = 100W [1]. **W = 8 crowns** and Q = 1,000 − 320 = **680 workers** [1]. **[2]**
 **(b)** At W = 10, Qd = 1,000 − 400 = 600 and Qs = 200 + 600 = 800 [1]. Unemployment = 800 − 600 = **200 workers** [1]. **[2]**
 **(c)** Jobs lost = 680 − 600 = 80 [1]. 80 / 680 × 100 = **11.8%** [1]. **[2]**
-*Examiner insight:* For "calculate", show the relevant stages in the working; a bare number gives nothing to reward if it is wrong, and the base for a percentage must be the original figure.
+*Examiner insight:* For "calculate", show the relevant stages in the working; a bare number gives the reader nothing to credit if it is wrong, and the base for a percentage should be the original figure.
 
 **5.** Diagram: wage against quantity of labour with a minimum wage line above the equilibrium wage, Qd below Qs and the gap labelled unemployment [1]. Abolishing the minimum wage lets the wage fall to the equilibrium level [1]. As the wage drops, employers want more workers and fewer people offer labour, until the two match and the surplus vanishes [1]. Equity concern: workers who keep jobs may earn less, so low-paid households could be worse off [1]. **[4]**
 *Examiner insight:* Explain the movement along both curves; saying "unemployment falls" without the mechanism leaves the analysis incomplete.
@@ -99,7 +99,7 @@ All countries, firms and figures are invented. The mark scheme style used in the
 *Examiner insight:* Relate the reason to the guide's constraints of costs and time lags and to the numbers in the question.
 
 **9.** Any two of: equity issues, time lags, vested interests, environmental impact. For each, one mark for the constraint and one for the explanation. For example, equity: tax cuts mostly help high earners and lower benefits hit the poor [1][1]. Time lags: competition and incentives take time to change behaviour, so effects on growth come late [1][1]. Vested interests (unions or protected firms blocking reform) and environmental impact (more pollution from deregulation and growth) are equally acceptable. **[4]**
-*Examiner insight:* A constraint stated as a single word earns less than one tied to a named policy and a consequence.
+*Examiner insight:* Tie each constraint to a named policy and a consequence; a single word is easy to leave undeveloped.
 
 **10.** Supply side: lower tax raises the reward for work, so labour supply or hours may rise [1], which increases productive capacity and shifts LRAS right [1]. Demand side: higher take-home pay raises consumption, so AD shifts right [1]. If AD rises more than LRAS, price level pressure increases [1]. If LRAS rises as much or more, prices may stay stable or fall [1]. Comment: inflation turns on how large each shift is and when it arrives [1]. **[6]**
 *Examiner insight:* "Explain" needs the chain on both sides, and a comment should reach a judgement, not repeat the explanation.
@@ -114,7 +114,7 @@ All countries, firms and figures are invented. The mark scheme style used in the
 - Limit: they do little for cyclical (demand deficient) unemployment [1].
 - Judgement that depends on the type of unemployment and the time horizon [1].
 **[10]**
-*Examiner insight:* "Evaluate" asks you to weigh strengths against limitations and reach a supported judgement; a one-sided list of benefits stays descriptive.
+*Examiner insight:* Set the strengths beside the limitations and finish with a judgement you can defend; a one-sided list of benefits reads as description rather than appraisal.
 
 ## Where marks are usually lost
 

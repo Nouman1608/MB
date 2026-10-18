@@ -40,7 +40,7 @@ The guide asks for correctly labelled, clearly drawn diagrams where they are app
 
 ## The set-up that every diagram shares
 
-All the diagrams use one market, one world price and one domestic demand and supply pair. Price is on the vertical axis and quantity on the horizontal axis.
+All the diagrams use one market, one world price and one domestic demand and supply pair. Put price up the side and quantity along the bottom.
 
 - **D** is domestic demand and **S** is domestic supply.
 - **Pw** is the world price. Under free trade, domestic buyers and sellers face Pw.
@@ -60,7 +60,7 @@ At Pw = 20, Qd = 180 − 60 = 120 and Qs = 80 − 30 = 50. Imports are 120 − 5
 
 ## Tariffs
 
-A tariff is a tax on imported goods. A **specific** tariff is a fixed amount per unit. An **ad valorem** tariff is a percentage of the price: 25% of a world price of 20 is 5 per unit. Either way, the domestic price of the imported good becomes Pw plus the tariff.
+A tariff is a tax on imported goods. A **specific** tariff is a fixed amount per unit. An **ad valorem** tariff is set as a share of the import's value: 25% of a world price of 20 is 5 per unit. Either way, the domestic price of the imported good becomes Pw plus the tariff.
 
 ### Reading the tariff diagram
 
@@ -111,7 +111,7 @@ Spending changes too. Consumers spend 25 × 105 = 2 625 instead of 2 400. Domest
 
 ## Quotas
 
-An import quota is a limit on the quantity of a good that may be imported in a period. The government may allocate the right to import by licence. Because supply from abroad is capped, the domestic price rises until domestic buyers want exactly the quota quantity beyond what domestic firms supply.
+An import quota caps how many units of a good can enter during a set period. The government may allocate the right to import by licence. Because supply from abroad is capped, the domestic price rises until domestic buyers want exactly the quota quantity beyond what domestic firms supply.
 
 ### Quota diagram
 
@@ -130,11 +130,11 @@ Limit imports to 35. Find the price where Qd − Qs = 35.
 
 The quota gives the same outcome as a tariff of 5. The only difference is who holds the 175. Domestic importers who hold the licences keep it in the country, as private income. If foreign sellers hold the licences, it leaves the country. Net welfare change for the country is then −87.5 minus 175 = **−262.5**.
 
-A second difference: a tariff fixes the price gap and lets the quantity adjust. A quota fixes the quantity and lets the price adjust. If demand rises, imports increase under a tariff but not under a quota.
+A second difference: with a tariff the price gap is set and the import quantity adjusts. With a quota the import quantity is set and the price adjusts. If demand rises, imports increase under a tariff but not under a quota.
 
 ## Subsidies and export subsidies
 
-A subsidy is a payment from the government to a producer, usually per unit. In trade, two cases matter.
+A subsidy is money the government pays to producers, usually per unit. In trade, two cases matter.
 
 ### Subsidy to domestic producers (competing with imports)
 

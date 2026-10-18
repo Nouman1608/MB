@@ -71,7 +71,7 @@ Both answers must fall on the public side. A concert seat fails both tests. A se
 
 ### The numbers in miniature
 
-A fictional town has 120 households. A flood-warning network costs 2,400 veldors, and each household values it at 30 veldors.
+A fictional town has 120 households. A river-gauge network costs 2,400 veldors, and each household values it at 30 veldors.
 
 - Total benefit = 120 × 30 = 3,600 veldors; net benefit = 3,600 − 2,400 = 1,200 veldors.
 - Equal share = 2,400 ÷ 120 = 20 veldors each.
@@ -105,12 +105,12 @@ Both responses use compulsory taxation to remove free riding. They differ in who
 
 ### Adverse selection in numbers (HL only)
 
-Fictional scooter market. Half the scooters are good. Buyers value good at 900 and poor at 400. Sellers value good at 800 and poor at 300.
+Fictional piano market. Half the pianos are good. Buyers value good at 900 and poor at 400. Sellers value good at 800 and poor at 300.
 
 - Average value to an uninformed buyer = 0.5 × 900 + 0.5 × 400 = 650.
 - Good sellers need 800, so they withdraw.
-- Gain from trade lost per good scooter = 900 − 800 = 100.
-- Share of good scooters needed to keep good sellers: 400 + 500g ≥ 800, so g ≥ 0.8.
+- Gain from trade lost per good piano = 900 − 800 = 100.
+- Share of good pianos needed to keep good sellers: 400 + 500g ≥ 800, so g ≥ 0.8.
 
 ### Moral hazard in numbers (HL only)
 
@@ -134,7 +134,7 @@ Partial cover (an excess) restores incentives. With an excess of 8,000 the owner
 | Private | Signalling (informed party acts) | Warranty, qualification | Works only if low-quality sellers cannot afford to copy |
 | Private | Screening (uninformed party designs test) | Menu of insurance contracts; application checks | Test must make types choose differently |
 
-Warranty reminder: price 850; cost of honouring 30 for a good scooter and 520 for a poor one. Good seller nets 820, which beats its value of 800. A poor seller copying nets 330, which is below the 400 available without a warranty. The signal separates the types.
+Warranty reminder: price 850; cost of honouring 30 for a good piano and 520 for a poor one. Good seller nets 820, which beats its value of 800. A poor seller copying nets 330, which is below the 400 available without a warranty. The signal separates the types.
 
 Screening reminder: insurer offers X (premium 2,100, no excess) and Y (premium 700, excess 8,000). With loss probabilities of 20% (high risk) and 5% (low risk) on a 10,000 loss, high risk prefer X (2,100 against 2,300) and low risk prefer Y (1,100 against 2,100).
 

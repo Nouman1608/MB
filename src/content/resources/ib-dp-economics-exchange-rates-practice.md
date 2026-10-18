@@ -72,11 +72,11 @@ This set covers exchange rates, sub-topic 4.5 of Unit 4. It follows the IB Diplo
 ## Answers
 
 **1.** A fall in the market value of a currency [1] against another currency, under a floating system, caused by changes in demand and supply [1]. **[2]**
-*Examiner insight:* Naming the system and the cause separates depreciation from devaluation; "the currency is worth less" alone gives little to credit.
+*Examiner insight:* Naming the system and the cause separates depreciation from devaluation; "the currency is worth less" alone is vague.
 
 **2. (a)** 150 x 0.80 = **120 ruvs** [1]. **[1]**
 **(b)** 150 x 0.72 = **108 ruvs** [1]. Change = (108 - 120) / 120 x 100 = **-10%** [1]. **[2]**
-*Examiner insight:* Show the formula; a bare percentage with a slip in the base cannot earn partial credit.
+*Examiner insight:* Show the formula; a bare percentage hides a slip in the base and leaves nothing to credit.
 
 **3. (a)** (0.756 - 0.84) / 0.84 x 100 [1] = **-10%** [1]. **[2]**
 **(b)** (0.8316 - 0.80) / 0.80 x 100 = **+3.95%** [1]. The kel **appreciated** over the whole time, despite the fall in the middle [1]. **[2]**

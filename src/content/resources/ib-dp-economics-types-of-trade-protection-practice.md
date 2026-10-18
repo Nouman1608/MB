@@ -70,7 +70,7 @@ Norland now imposes a tariff of 10 per tyre.
 **8.** (HL only, calculator allowed) Meridia exports tea at a world price of 44. Demand is Qd = 160 − 3P and supply is Qs = 2P − 30. The government pays an export subsidy of 6 per unit.
 
 **(a)** Calculate exports before and after the subsidy. **[2]**
-**(b)** Calculate the cost to the government. **[1]**
+**(b)** Calculate what the subsidy costs the government. **[1]**
 **(c)** Calculate the fall in consumer surplus. **[2]**
 **(d)** Calculate the gain in producer surplus. **[1]**
 **(e)** Calculate the net change in welfare. **[1]**
@@ -101,7 +101,7 @@ Norland now imposes a tariff of 10 per tyre.
 **(e)** ½ × 6 × (88 − 70) = 54 and ½ × 6 × (120 − 108) = 36 [1]. Total = 54 + 36 = **90 [1]**. Check: 474 + 120 + 90 = 684.
 *Examiner insight:* Part (e) can be found as consumer loss minus producer gain minus revenue, but showing the two triangles protects the method mark if one earlier figure is wrong.
 
-**5.** First, revenue: a tariff pays area d to the government [1], whereas a quota creates quota rent, collected by licence holders and not necessarily by the government [1]. Second, adjustment: a tariff fixes the price gap and lets the quantity of imports respond to demand [1], while a quota fixes the quantity and lets the price respond, so a rise in demand pushes the price further up [1]. **[4]**
+**5.** First, revenue: a tariff pays area d to the government [1], whereas a quota creates quota rent, collected by licence holders and not necessarily by the government [1]. Second, adjustment: a tariff fixes the price gap and lets the quantity of imports respond to demand [1], while a quota sets the quantity and lets the price respond, so a rise in demand pushes the price further up [1]. **[4]**
 *Examiner insight:* Each difference needs both the contrast and the consequence, so a list of two bare labels earns half marks at best.
 
 **6. (a)** Set Qd − Qs = 20: 150 − 3P − (2P − 20) = 20 [1]. So 170 − 5P = 20 and P = **30 [1]**.

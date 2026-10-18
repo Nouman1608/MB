@@ -61,9 +61,9 @@ A **free rider** uses a good and pays nothing towards it. If a good is non-exclu
 
 Because the good is non-rivalrous, the efficient price of use is zero, since an extra user imposes no extra cost, and no private firm can survive charging zero. The market failure is a missing market: the good is not supplied, or too little is supplied, though society would gain.
 
-### Worked example: the flood-warning network
+### Worked example: the river-gauge network
 
-The town of Marsh Hollow in Veldoria has 120 households. A flood-warning network would cost 2,400 veldors. Each household values the network at 30 veldors.
+The town of Marsh Hollow in Veldoria has 120 households. A river-gauge network would cost 2,400 veldors. Each household values the network at 30 veldors.
 
 1. Total benefit = 120 × 30 = 3,600 veldors.
 2. Net benefit to society = 3,600 − 2,400 = 1,200 veldors, so the network is worth building.
@@ -107,20 +107,20 @@ Both responses use taxation, so they differ in who produces the good, not who pa
 
 Adverse selection arises **before** the deal, when sellers (or buyers) hold hidden knowledge about quality or risk. The uninformed side can only judge the average, so the market attracts the worse cases.
 
-**Worked example: used scooters in Tessara.** In the fictional market of Tessara, half of all used scooters are in good condition and half are poor. Sellers know which they have; buyers cannot tell. The valuations are:
+**Worked example: used pianos in Tessara.** In the fictional market of Tessara, half of all used pianos are in good condition and half are poor. Sellers know which they have; buyers cannot tell. The valuations are:
 
-| | Good scooter | Poor scooter |
+| | Good piano | Poor piano |
 |---|---|---|
 | Buyer's value | 900 | 400 |
 | Seller's value | 800 | 300 |
 
-1. A buyer who cannot tell the difference values a random scooter at 0.5 × 900 + 0.5 × 400 = 650 veldors.
+1. A buyer who cannot tell the difference values a random piano at 0.5 × 900 + 0.5 × 400 = 650 veldors.
 2. No buyer will pay more than 650.
-3. A good scooter's seller needs at least 800 veldors, so those sellers withdraw.
-4. Only poor scooters remain, and buyers who work this out pay at most 400.
-5. The gain from trade lost on each good scooter = 900 − 800 = 100 veldors.
+3. A good piano's seller needs at least 800 veldors, so those sellers withdraw.
+4. Only poor pianos remain, and buyers who work this out pay at most 400.
+5. The gain from trade lost on each good piano = 900 − 800 = 100 veldors.
 
-Good sellers return only if the share g of good scooters is high enough. A buyer's expected value is 400 + 500g, which must reach 800. So 400 + 500g ≥ 800, which gives g ≥ 0.8. With only half of the scooters good, the trade in good scooters collapses.
+Good sellers return only if the share g of good pianos is high enough. A buyer's expected value is 400 + 500g, which must reach 800. So 400 + 500g ≥ 800, which gives g ≥ 0.8. With only half of the pianos good, the trade in good pianos collapses.
 
 ### Moral hazard (HL only)
 
@@ -146,11 +146,11 @@ The contract causes the change, and the insurer cannot easily watch maintenance.
 - **Signalling.** The informed party does something that reveals quality, such as offering a warranty or showing a qualification. A signal works only if low-quality sellers find it too costly to copy.
 - **Screening.** The uninformed party designs a test that makes the informed party reveal itself, for example an application form, a medical check, or a menu of contracts.
 
-**Worked example: a warranty signal.** In Tessara, a seller offers a 12-month warranty and asks 850 veldors. The expected cost of honouring it is 30 veldors for a good scooter and 520 veldors for a poor one. Buyers will pay 850 for a warranted scooter and 400 for an unwarranted one.
+**Worked example: a warranty signal.** In Tessara, a seller offers a 12-month warranty and asks 850 veldors. The expected cost of honouring it is 30 veldors for a good piano and 520 veldors for a poor one. Buyers will pay 850 for a warranted piano and 400 for an unwarranted one.
 
 - Good seller: 850 − 30 = 820 veldors, which beats the seller's value of 800, so offering the warranty pays.
 - Poor seller copying the signal: 850 − 520 = 330 veldors, which is below the 400 available without a warranty, so copying does not pay.
-- Buyers can trust the warranty, and a buyer who values a good scooter at 900 keeps 50 veldors of surplus.
+- Buyers can trust the warranty, and a buyer who values a good piano at 900 keeps 50 veldors of surplus.
 
 **Worked example: a screening menu.** An insurer cannot tell who is high risk. The chance of a 10,000-veldor loss is 5% for low-risk customers and 20% for high-risk customers. It offers policy X (premium 2,100, no excess) and policy Y (premium 700, the customer pays the first 8,000 of any loss).
 

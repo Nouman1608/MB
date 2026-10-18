@@ -122,7 +122,7 @@ Add reasons. Services are hard to negotiate because barriers are regulations, no
 
 ## Exam wording and depth
 
-The guide places agreements at AO1, blocs and monetary union at AO2, and the advantages and disadvantages at AO3. So a question using describe or outline wants a short account of a bloc type. Explain or analyse wants a chain of cause and effect. Evaluate, discuss or to what extent wants both sides weighed and a reasoned conclusion. Match your depth to the command term, and spend your time where the marks are.
+The guide places agreements at AO1, blocs and monetary union at AO2, and the advantages and disadvantages at AO3. So a question using outline wants a brief account of a bloc type, and describe wants a detailed one. Explain or analyse wants a chain of cause and effect. Evaluate, discuss or to what extent wants both sides weighed and a reasoned conclusion. Match your depth to the command term, and spend your time where the marks are.
 
 ## Evaluation toolkit
 
