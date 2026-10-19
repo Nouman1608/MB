@@ -2602,6 +2602,48 @@ const REVIEWED_LEGITIMATE = [
     evidence:
       "Sibling new units from the economics gap sprint (19 Oct 2026), study guides, tagged to the same board subtopic or topic because the map does not split it finer. Each unit teaches different numbered specification statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-422.",
   },
+  {
+    files: [
+      "cambridge-o-level-economics-fiscal-policy-measures-and-their-effects.md",
+      "cambridge-o-level-economics-government-budget-spending-and-taxation.md",
+    ],
+    evidence: "Sibling new units from the O Level Economics topics 4-6 sprint (19 Oct 2026), tagged to the same subtopic because the 2026 syllabus keeps them in one section (fiscal policy (4.3): budget, spending and taxation (4.3.1-4.3.6) versus fiscal policy measures and effects (4.3.7-4.3.9)). Each unit teaches different numbered syllabus statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-424.",
+  },
+  {
+    files: [
+      "cambridge-o-level-economics-fiscal-policy-measures-and-their-effects-revision-notes.md",
+      "cambridge-o-level-economics-government-budget-spending-and-taxation-revision-notes.md",
+    ],
+    evidence: "Sibling new units from the O Level Economics topics 4-6 sprint (19 Oct 2026), tagged to the same subtopic because the 2026 syllabus keeps them in one section (fiscal policy (4.3): budget, spending and taxation (4.3.1-4.3.6) versus fiscal policy measures and effects (4.3.7-4.3.9)). Each unit teaches different numbered syllabus statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-424.",
+  },
+  {
+    files: [
+      "cambridge-o-level-economics-fiscal-policy-measures-and-their-effects-practice.md",
+      "cambridge-o-level-economics-government-budget-spending-and-taxation-practice.md",
+    ],
+    evidence: "Sibling new units from the O Level Economics topics 4-6 sprint (19 Oct 2026), tagged to the same subtopic because the 2026 syllabus keeps them in one section (fiscal policy (4.3): budget, spending and taxation (4.3.1-4.3.6) versus fiscal policy measures and effects (4.3.7-4.3.9)). Each unit teaches different numbered syllabus statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-424.",
+  },
+  {
+    files: [
+      "cambridge-o-level-economics-globalisation-multinational-companies-and-free-trade.md",
+      "cambridge-o-level-economics-methods-reasons-and-consequences-of-protection.md",
+    ],
+    evidence: "Sibling new units from the O Level Economics topics 4-6 sprint (19 Oct 2026), tagged to the same subtopic because the 2026 syllabus keeps them in one section (globalisation, free trade and protection (6.2): globalisation, multinational companies and free trade (6.2.1-6.2.3) versus methods, reasons and consequences of protection (6.2.4-6.2.6)). Each unit teaches different numbered syllabus statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-424.",
+  },
+  {
+    files: [
+      "cambridge-o-level-economics-globalisation-multinational-companies-and-free-trade-revision-notes.md",
+      "cambridge-o-level-economics-methods-reasons-and-consequences-of-protection-revision-notes.md",
+    ],
+    evidence: "Sibling new units from the O Level Economics topics 4-6 sprint (19 Oct 2026), tagged to the same subtopic because the 2026 syllabus keeps them in one section (globalisation, free trade and protection (6.2): globalisation, multinational companies and free trade (6.2.1-6.2.3) versus methods, reasons and consequences of protection (6.2.4-6.2.6)). Each unit teaches different numbered syllabus statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-424.",
+  },
+  {
+    files: [
+      "cambridge-o-level-economics-globalisation-multinational-companies-and-free-trade-practice.md",
+      "cambridge-o-level-economics-methods-reasons-and-consequences-of-protection-practice.md",
+    ],
+    evidence: "Sibling new units from the O Level Economics topics 4-6 sprint (19 Oct 2026), tagged to the same subtopic because the 2026 syllabus keeps them in one section (globalisation, free trade and protection (6.2): globalisation, multinational companies and free trade (6.2.1-6.2.3) versus methods, reasons and consequences of protection (6.2.4-6.2.6)). Each unit teaches different numbered syllabus statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-424.",
+  },
 ];
 const legitimateKeyOf = (fs) => [...fs].sort().join('|');
 const REVIEWED_KEYS = new Map(
