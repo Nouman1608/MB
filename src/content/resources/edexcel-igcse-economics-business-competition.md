@@ -137,7 +137,7 @@ Evaluation: the firm gains, because profit rises from 20,000 to 84,000. Passenge
 
 ## Oligopoly (points h, i, j)
 
-**Definition.** An oligopoly is a market dominated by a small number of large firms.
+**Definition.** An oligopoly is a market in which a few large firms supply most of the output.
 
 Features:
 
@@ -176,7 +176,7 @@ Features:
 - Listing barriers without explaining how each stops entry.
 - Saying a price war is always good for consumers. Prices fall now, but losses can force closures.
 - Confusing a cartel (an agreement) with a merger (firms joining).
-- Calculating a percentage change on the new figure instead of the original.
+- Dividing a percentage change by the result rather than the starting value.
 
 ## Evaluating "monopoly is bad for consumers"
 

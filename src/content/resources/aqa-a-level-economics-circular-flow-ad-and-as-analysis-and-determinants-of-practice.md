@@ -25,13 +25,13 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover the circular flow of income, aggregate demand and aggregate supply analysis, and the determinants of aggregate demand for AQA A-level Economics (7136), specification version 1.3. The PDF numbers these sections 4.2.2.1 to 4.2.2.3; the AQA website numbers them 3.2.2.1 to 3.2.2.3. Every country and figure is invented and illustrative. Read the [revision notes](/resources/aqa-a-level-economics-circular-flow-ad-and-as-analysis-and-determinants-of-revision-notes/) first. Course pages: [AQA A-level Economics hub](/boards/aqa/a-level/economics/), [checklist](/checklists/aqa/a-level/economics/) and [free diagnostics](/diagnostics/). Show your working and name every axis and curve when you describe a diagram.
+These questions cover the circular flow of income, aggregate demand and aggregate supply analysis, and the determinants of aggregate demand for AQA A-level Economics (7136), specification version 1.3. The PDF numbers these sections 4.2.2.1 to 4.2.2.3; the AQA website numbers them 3.2.2.1 to 3.2.2.3. All countries and numbers here are made up for illustration. Read the [revision notes](/resources/aqa-a-level-economics-circular-flow-ad-and-as-analysis-and-determinants-of-revision-notes/) first. The [AQA aggregate demand and supply study guide](/resources/aqa-a-level-economics-aggregate-demand-supply/) gives more on the diagrams. Course pages: [AQA A-level Economics hub](/boards/aqa/a-level/economics/), [checklist](/checklists/aqa/a-level/economics/) and [free diagnostics](/diagnostics/). Show your working and name every axis and curve when you describe a diagram.
 
 ## Questions
 
-**1.** Country C has nominal national income of 1,200 in year 1 (price index 100) and 1,326 in year 2 (price index 104).
+**1.** Country C has nominal national income of 3,600 in year 1 (price index 100) and 3,990 in year 2 (price index 105).
 
-**(a)** Calculate real national income in year 2. **[2]**
+**(a)** Find Country C's real income in year 2, in year 1 prices. **[2]**
 **(b)** Calculate real growth between the two years, to 1 decimal place. **[2]**
 
 **2.** In Country B, state whether each is an injection or a withdrawal, and name it.
@@ -41,13 +41,13 @@ These questions cover the circular flow of income, aggregate demand and aggregat
 **(c)** Firms build a new factory. **[1]**
 **(d)** Households pay income tax. **[1]**
 
-**3.** In Country B, investment is 50, government spending 60 and exports 70. Saving is 0.08Y, taxation 0.12Y and import spending 0.10Y, where Y is national income.
+**3.** In Country B, investment is 42, government spending 58 and exports 62. Saving is 0.09Y, taxation 0.21Y and import spending 0.15Y, where Y is national income.
 
 **(a)** Calculate equilibrium national income. **[3]**
-**(b)** Full employment income is 640. Calculate the gap, as a percentage of full employment income. **[2]**
-**(c)** Exports fall by 30. Calculate the new equilibrium income. **[2]**
+**(b)** Full employment income is 400. Calculate the gap, as a percentage of full employment income. **[2]**
+**(c)** Exports fall by 18. Calculate the new equilibrium income. **[2]**
 
-**4.** The government of Country B raises income tax so that taxation becomes 0.18Y, with other withdrawals unchanged and injections at 180.
+**4.** The government of Country B raises income tax so that taxation becomes 0.30Y, with other withdrawals unchanged and injections at 162.
 
 **(a)** Calculate the new equilibrium income. **[2]**
 **(b)** Explain why income falls. **[2]**
@@ -56,15 +56,15 @@ These questions cover the circular flow of income, aggregate demand and aggregat
 
 | Price level | AD | Short-run AS |
 |---|---|---|
-| 100 | 600 | 420 |
-| 110 | 550 | 460 |
-| 120 | 500 | 500 |
-| 130 | 450 | 540 |
+| 100 | 720 | 520 |
+| 110 | 660 | 560 |
+| 120 | 600 | 600 |
+| 130 | 540 | 640 |
 
-AD is Y = 1,100 - 5P and short-run AS is Y = 4P + 20. Long-run AS is vertical at 540.
+AD is Y = 1,320 - 6P and short-run AS is Y = 4P + 120. Long-run AS is vertical at 640.
 
 **(a)** State the equilibrium price level and output. **[2]**
-**(b)** Business confidence falls and AD falls by 45 at every price level. Calculate the new equilibrium. **[2]**
+**(b)** A rise in interest rates cuts consumption and investment, so AD falls by 50 at every price level. Calculate the new equilibrium. **[2]**
 **(c)** Explain whether this is a movement or a shift, and what happens to demand-deficient unemployment. **[2]**
 
 **6.** Country D has consumption 410, investment 95, government spending 120, exports 150 and imports 135.
@@ -94,9 +94,9 @@ AD is Y = 1,100 - 5P and short-run AS is Y = 4P + 20. Long-run AS is vertical at
 
 ## Answers
 
-**1. (a)** Real income = 1,326 / 1.04 [1] = **1,275** [1] **[2]**
-**(b)** 1,275 / 1,200 = 1.0625 [1], so real growth of **6.3%** (6.25% before rounding) [1] **[2]**
-*Examiner insight:* Show the division by the index; a bare figure leaves nothing to reward if it is slightly out. Nominal growth of 10.5% is the wrong measure here because it includes the price rise.
+**1. (a)** Real income = 3,990 / 1.05 [1] = **3,800** [1] **[2]**
+**(b)** 3,800 / 3,600 = 1.0556 [1], so real growth of **5.6%** [1] **[2]**
+*Examiner insight:* Show the division by the index; a bare figure leaves nothing to reward if it is slightly out. Nominal growth of 10.8% is the wrong measure here because it includes the price rise.
 
 **2. (a)** Government spending, an **injection** [1] **[1]**
 **(b)** Import spending, a **withdrawal** [1] **[1]**
@@ -104,18 +104,18 @@ AD is Y = 1,100 - 5P and short-run AS is Y = 4P + 20. Long-run AS is vertical at
 **(d)** Taxation, a **withdrawal** [1] **[1]**
 *Examiner insight:* Give both the label and the item. Saying "withdrawal" without naming saving, taxation or imports may not show you know which flow is meant.
 
-**3. (a)** J = 50 + 60 + 70 = 180 [1]. W = 0.08Y + 0.12Y + 0.10Y = 0.30Y [1]. J = W gives 0.30Y = 180, so Y = **600** [1] **[3]**
-**(b)** 640 - 600 = 40 [1]. 40 / 640 = **6.25%** below full employment income [1] **[2]**
-**(c)** J = 150 [1]. Y = 150 / 0.30 = **500** [1] **[2]**
+**3. (a)** J = 42 + 58 + 62 = 162 [1]. W = 0.09Y + 0.21Y + 0.15Y = 0.45Y [1]. J = W gives 0.45Y = 162, so Y = **360** [1] **[3]**
+**(b)** 400 - 360 = 40 [1]. 40 / 400 = **10%** below full employment income [1] **[2]**
+**(c)** J = 144 [1]. Y = 144 / 0.45 = **320** [1] **[2]**
 *Examiner insight:* Start with the condition J = W and write it down. Dividing the gap by full employment income, not by equilibrium income, answers the question as set.
 
-**4. (a)** W = 0.08Y + 0.18Y + 0.10Y = 0.36Y [1]. Y = 180 / 0.36 = **500** [1] **[2]**
+**4. (a)** W = 0.09Y + 0.30Y + 0.15Y = 0.54Y [1]. Y = 162 / 0.54 = **300** [1] **[2]**
 **(b)** Higher tax cuts disposable income and spending, so firms' sales and output fall [1]. Income keeps falling until withdrawals are again equal to injections at the lower level [1] **[2]**
 *Examiner insight:* Explanations usually need a chain, not a result. Link the tax rise to disposable income, then to output, then back to the equilibrium condition.
 
-**5. (a)** AD = short-run AS at 1,100 - 5P = 4P + 20, so 9P = 1,080 [1]. **P = 120, Y = 500** [1] **[2]**
-**(b)** New AD is Y = 1,055 - 5P [1]. 1,055 - 5P = 4P + 20 gives **P = 115, Y = 480** [1] **[2]**
-**(c)** Investment is a component of AD, not a response to the price level, so AD **shifts left** [1]. Output moves further below 540 (the gap grows from 40 to 60), so demand-deficient unemployment rises [1] **[2]**
+**5. (a)** AD = short-run AS at 1,320 - 6P = 4P + 120, so 10P = 1,200 [1]. **P = 120, Y = 600** [1] **[2]**
+**(b)** New AD is Y = 1,270 - 6P [1]. 1,270 - 6P = 4P + 120 gives **P = 115, Y = 580** [1] **[2]**
+**(c)** The cause is a change in interest rates, not in the price level, so AD **shifts left** [1]. Output moves further below 640 (the gap grows from 40 to 60), so demand-deficient unemployment rises [1] **[2]**
 *Examiner insight:* Say why it is a shift: the cause is not a change in the price level. Refer to the gap to long-run AS to link the result to unemployment.
 
 **6. (a)** 410 + 95 + 120 + (150 - 135) = **640** [1] **[1]**
@@ -124,7 +124,7 @@ AD is Y = 1,100 - 5P and short-run AS is Y = 4P + 20. Long-run AS is vertical at
 *Examiner insight:* Net exports is exports minus imports. Quote the figures from the question to support the explanation.
 
 **7. (a)** Interest rates: higher rates raise the cost of borrowing and lower the expected return, so fewer projects go ahead [1] and investment falls [1]. Business confidence or expected demand: if firms expect higher sales they plan to add capacity [1], so investment rises [1] **[4]**
-**(b)** Investment depends on the rate of change of demand [1]. Growth slowing from 6% to 3% means fewer extra machines are needed, so net investment falls even though output is still rising [1] **[2]**
+**(b)** Investment depends on the rate of change of demand [1]. Growth slowing from 6% to 3% means fewer extra machines are needed, so net investment falls although output continues to grow [1] **[2]**
 *Examiner insight:* Name each determinant and give its direction of effect. For the accelerator, contrast the level of output with the rate of change.
 
 **8. (a)** Year 1 saving = 520 - 468 = 52, which is 10.0% [1]. Year 2 saving = 560 - 495 = 65 [1], which is 11.6% [1] **[3]**
@@ -132,8 +132,8 @@ AD is Y = 1,100 - 5P and short-run AS is Y = 4P + 20. Long-run AS is vertical at
 *Examiner insight:* A difference needs both sides compared. Buying shares or putting money in a bank is saving, not the economic meaning of investment.
 
 **9. (a)** Fewer exports, so the AD curve shifts **left** [1]. The new equilibrium is where the new AD meets short-run AS [1]. The price level and real output both fall [1] **[3]**
-**(b)** Dearer imported energy raises firms' costs [1], so the short-run AS curve shifts **left** [1]. The price level rises and real output falls [1] **[3]**
-*Examiner insight:* Say which curve moves and which way, then read off both variables. A demand shock moves price and output together, a supply shock moves them in opposite directions.
+**(b)** Dearer imported energy raises firms' costs [1], so the short-run AS curve shifts **left** [1]. Output falls while the general level of prices goes up [1] **[3]**
+*Examiner insight:* Say which curve moves and which way, then read off both variables. After a demand shock both variables move the same way; after a supply shock they move in opposite ways.
 
 **10.** Real national income shows the volume of output once price changes are removed [1]. Growth means more goods and services and usually more jobs and higher incomes [1]. But if population grows faster, income per head falls, as with real growth of 3% and population growth of 2%, which gives about 1% per head [1]. It says nothing about distribution, since gains may go to a few households [1]. It leaves out unpaid and informal work, pollution and leisure [1]. Other indicators, such as unemployment, inflation and the current account, show whether growth is sustainable [1]. Real growth that comes from using spare capacity differs from a rise in capacity [1]. Judgement: it is a necessary but incomplete indicator, best used per head and alongside other measures [1] **[8]**
 *Examiner insight:* A list of limits earns less than limits weighed against the benefits. End with a judgement that follows from your points.

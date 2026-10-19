@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "business-economics-edexcel-igcse-economics"
     subtopic: "government-intervention-edexcel-igcse-economics"
-description: "Original practice questions with worked answers on the labour market, trade unions, externality policies, competition rules and minimum wage for Edexcel IGCSE Economics."
+description: "Practice questions with answers on the labour market, unions, externality policies, competition rules and minimum wage for Edexcel IGCSE Economics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-19
 featured: false
@@ -33,7 +33,7 @@ These questions cover sections 1.2.5 (the labour market) and 1.2.6 (government i
 
 ## Questions
 
-**1.** (a) What is meant by derived demand? **[2]**
+**1.** (a) Define derived demand. **[2]**
 **(b)** State two factors, other than the wage, that affect the demand for labour. **[2]**
 
 **2.** A workshop has 40 workers who make 480 units a day. Each worker is paid 84 a day. After training, output per worker rises by 25% and the wage is unchanged.
@@ -59,7 +59,7 @@ These questions cover sections 1.2.5 (the labour market) and 1.2.6 (government i
 **5.** Using the table in question 4, the government sets a minimum wage of 14.
 **(a)** Calculate the surplus of labour. **[2]**
 **(b)** Calculate the percentage change in employment. **[2]**
-**(c)** Calculate the change in the total wage bill. **[2]**
+**(c)** Work out how the total wage bill changes. **[2]**
 **(d)** Explain one way workers gain and one way they lose. **[3]**
 
 **6.** Analyse how a trade union may help and harm its members. **[6]**
@@ -68,14 +68,14 @@ These questions cover sections 1.2.5 (the labour market) and 1.2.6 (government i
 **(a)** Calculate the time taken to repay the cost. **[1]**
 **(b)** Explain how training improves the quality of labour for the firm. **[3]**
 
-**8.** Plastic packaging (illustrative): demand P = 80 − Q and private supply P = 20 + Q. Each unit causes 10 of external cost.
+**8.** Paint market (illustrative): demand P = 140 − 2Q and private supply P = 20 + Q. Each unit causes 15 of external cost.
 **(a)** Calculate market equilibrium output and price. **[2]**
-**(b)** The government taxes 10 a unit. Calculate the new output and the price paid by buyers. **[3]**
+**(b)** The government taxes 15 a unit. Calculate the new output and the price paid by buyers. **[3]**
 **(c)** Calculate tax revenue and the part paid by buyers. **[3]**
 **(d)** Calculate the fall in total external cost. **[2]**
 
-**9.** A firm saves 18,000 by dumping waste. The chance of being caught is 25%.
-**(a)** Calculate the expected cost of a fine of 50,000, and of 80,000. **[3]**
+**9.** A paint firm saves 9,000 by releasing waste. The chance of being caught is 20%.
+**(a)** Calculate the expected cost of a fine of 30,000, and of 60,000. **[3]**
 **(b)** Explain which fine deters the firm. **[2]**
 **(c)** Firm P can cut pollution at 30 per tonne and Firm R at 12 per tonne. Permits trade at 20. P must cut 10 tonnes. Calculate P's saving from buying permits. **[3]**
 
@@ -94,7 +94,7 @@ These questions cover sections 1.2.5 (the labour market) and 1.2.6 (government i
 
 **1.** (a) Demand for labour comes from [1] demand for the product it helps to make [1]. **[2]**
 **(b)** Any two of: demand for the final product [1]; availability of substitutes such as machines [1]; productivity of workers. **[2]**
-*Examiner insight:* A "What is meant by" answer needs two separate parts, so link the factor to the product. "Wage" is excluded by the question, so do not give it.
+*Examiner insight:* A definition earns credit for two separate ideas, so link the factor to the product. "Wage" is excluded by the question, so do not give it.
 
 **2.** (a) 480 ÷ 40 = 12 units [1]; 84 ÷ 12 = **7.00 per unit** [1]. **[2]**
 **(b)** 12 × 1.25 = 15 units [1]; 84 ÷ 15 = **5.60** [1]; (7 − 5.6) ÷ 7 × 100 = **20%** [1]. **[3]**
@@ -103,9 +103,9 @@ These questions cover sections 1.2.5 (the labour market) and 1.2.6 (government i
 **3.** People stay in the labour force for longer [1], so more workers are available at each wage [1] and the supply curve shifts to the right [1]. **[3]**
 *Examiner insight:* "Explain" wants a fact with two expansions, so state the change, say what happens to the number of workers, and name the shift.
 
-**4.** (a) **Wage 12, employment 500** [1 each]. **[2]**
+**4.** (a) **Wage 12** [1], **employment 500** [1]. **[2]**
 **(b)** Supplied becomes 480, 540, 600... so supply equals demand at 11 [1]: **wage 11, employment 540** [1]. **[2]**
-**(c)** Axes labelled wage and quantity of labour [1]; D shifts left to D1, with S unchanged [1]; new equilibrium shows a lower wage and lower employment [1]. **[3]**
+**(c)** Axes labelled wage and quantity of labour [1]; D shifts left to D1, with S unchanged [1]; the new equilibrium sits at a lower wage and lower employment [1]. **[3]**
 *Examiner insight:* A diagram is credited for labelled axes, the correct shift and the new equilibrium, so a sketch without labels loses the points. State the new figures, not just the direction, in part (b).
 
 **5.** (a) Demanded 420, supplied 620, so surplus = 620 − 420 = **200** [1][1]. **[2]**
@@ -118,17 +118,17 @@ These questions cover sections 1.2.5 (the labour market) and 1.2.6 (government i
 *Examiner insight:* "Analyse" asks for a chain in context. Give at least one development for each side so the answer is not a list.
 
 **7.** (a) 2,400 ÷ 800 = **3 years** [1]. **[1]**
-**(b)** Training raises skills [1], so each worker makes more output or fewer errors [1], which lowers cost per unit and improves product quality [1]. **[3]**
+**(b)** Training lifts skills [1], so each worker produces more or makes fewer errors [1], which lowers cost per unit and improves product quality [1]. **[3]**
 *Examiner insight:* Each step in the chain from skills to output to cost is a separate point.
 
-**8.** (a) 80 − Q = 20 + Q gives Q = **30**, P = **50** [1 each]. **[2]**
-**(b)** Supply becomes P = 30 + Q [1]; 80 − Q = 30 + Q gives Q = **25** [1]; price = 80 − 25 = **55** [1]. **[3]**
-**(c)** Revenue = 10 × 25 = **250** [1]. Buyers pay 5 more, 55 − 50 = 5 [1]; share = 5 × 25 = **125** [1]. **[3]**
-**(d)** Before 10 × 30 = 300; after 10 × 25 = 250 [1]; fall = **50** [1]. **[2]**
-*Examiner insight:* Check your answer against the tax: the producer's price is 55 − 10 = 45. Write the working for each part so an early slip does not affect later ones.
+**8.** (a) 140 − 2Q = 20 + Q gives Q = **40** [1], P = 140 − 80 = **60** [1]. **[2]**
+**(b)** Supply becomes P = 35 + Q [1]; 140 − 2Q = 35 + Q gives Q = **35** [1]; price = 140 − 70 = **70** [1]. **[3]**
+**(c)** Revenue = 15 × 35 = **525** [1]. Buyers pay 10 more, 70 − 60 = 10 [1]; share = 10 × 35 = **350** [1]. **[3]**
+**(d)** Before 15 × 40 = 600; after 15 × 35 = 525 [1]; fall = **75** [1]. **[2]**
+*Examiner insight:* Check your answer against the tax: the producer's price is 70 − 15 = 55. Write the working for each part so an early slip does not affect later ones.
 
-**9.** (a) 0.25 × 50,000 = **12,500** [1]; 0.25 × 80,000 = **20,000** [1]. **[3]** (one mark for method shown)
-**(b)** 80,000 gives 20,000, above the 18,000 saved, so the firm is deterred [1]; 12,500 is below 18,000, so it is not [1]. **[2]**
+**9.** (a) Expected fine = probability × fine [1]; 0.2 × 30,000 = **6,000** [1]; 0.2 × 60,000 = **12,000** [1]. **[3]**
+**(b)** 60,000 gives 12,000, above the 9,000 saved, so the firm is deterred [1]; 6,000 is below 9,000, so it is not [1]. **[2]**
 **(c)** Own cut = 10 × 30 = 300 [1]; permits = 10 × 20 = 200 [1]; saving = **100** [1]. **[3]**
 *Examiner insight:* Compare the expected cost with the gain from breaking the rule. Mention that fines work only if the firm is likely to be caught.
 
@@ -148,7 +148,7 @@ These questions cover sections 1.2.5 (the labour market) and 1.2.6 (government i
 
 - Moving along a curve when a factor shifts it, and the reverse.
 - Reading employment from the supply side under a minimum wage.
-- Using the new figure as the base for a percentage.
+- Taking a percentage change of the later value, not the starting value.
 - Leaving out working in Calculate answers.
 - Drawing a diagram without labelled axes or a new equilibrium.
 - Listing pros and cons without a chain.

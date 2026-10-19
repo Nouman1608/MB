@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "business-economics-edexcel-igcse-economics"
     subtopic: "government-intervention-edexcel-igcse-economics"
-description: "Condensed revision notes on the labour market, trade unions, externality policies, competition rules and minimum wage for Pearson Edexcel International GCSE Economics."
+description: "Revision notes on the labour market, unions, externality policies, competition rules and minimum wage for Pearson Edexcel International GCSE Economics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-19
 featured: false
@@ -29,14 +29,14 @@ These notes condense specification sections 1.2.5 (the labour market) and 1.2.6 
 
 | Term | Meaning |
 |---|---|
-| Derived demand | Demand for a factor, such as labour, that comes from demand for the product it makes |
+| Derived demand | Demand for labour (or another input) that arises only because people want what it produces |
 | Productivity | Output per worker (or per hour) |
 | Human capital | Skills, knowledge and health of the workforce |
 | Occupational mobility | Ease of moving to a different type of job |
 | Geographical mobility | Ease of moving to a different place for work |
 | Trade union | Organisation of workers that bargains together |
-| Negative externality | Cost to a third party that the producer does not pay |
-| Pollution permit | A tradable right to emit a set amount of pollution |
+| Negative externality | A cost falling on outsiders that the producer does not pay |
+| Pollution permit | A right, which can be sold on, to release a set amount of waste |
 | Minimum wage | Legal lowest hourly pay |
 | Merger / takeover | Two firms join / one firm buys another |
 
@@ -52,7 +52,7 @@ These notes condense specification sections 1.2.5 (the labour market) and 1.2.6 
 
 Chain: product demand falls, the firm makes less, it needs fewer workers, so labour demand shifts left.
 
-A change in the wage is a movement along the curve, not a shift.
+Wage changes slide you along the curve; they never shift it.
 
 ## 1.2.5 b) Supply of labour
 
@@ -89,34 +89,34 @@ Method in steps:
 1. Axes: wage (vertical), quantity of labour or employment (horizontal).
 2. Downward-sloping demand D; upward-sloping supply S.
 3. Mark the equilibrium wage and employment where they cross.
-4. For a shift, draw the new curve and label it D1 or S1.
+4. For a shift, add a second curve, named D1 or S1.
 5. Mark the new equilibrium and state the effect on wage and employment.
 
-| Shift | Wage | Employment |
+| Shift | Effect on wage | Effect on employment |
 |---|---|---|
-| Demand right | Up | Up |
-| Demand left | Down | Down |
-| Supply right | Down | Up |
-| Supply left | Up | Down |
+| Demand right | Rises | Rises |
+| Demand left | Falls | Falls |
+| Supply right | Falls | Rises |
+| Supply left | Rises | Falls |
 
 ### Worked reminder: Town T market (illustrative)
 
 | Wage | Demanded | Supplied |
 |---|---|---|
-| 8 | 900 | 300 |
-| 10 | 750 | 450 |
-| 12 | 600 | 600 |
-| 14 | 450 | 750 |
-| 16 | 300 | 900 |
+| 6 | 700 | 300 |
+| 8 | 600 | 400 |
+| 10 | 500 | 500 |
+| 12 | 400 | 600 |
+| 14 | 300 | 700 |
 
-Equilibrium: wage 12, employment 600. Demand rises by 150 at every wage: new equilibrium wage 13, employment 675.
+Equilibrium: wage 10, employment 500. Demand rises by 100 at every wage: new equilibrium wage 11, employment 550.
 
 ## 1.2.5 f) Trade unions
 
 - Aims: higher wages, better conditions, job security, a voice for workers.
 - Methods: collective bargaining, threat of industrial action.
 - Possible gain: higher pay for members, safer conditions.
-- Possible loss: if the wage is pushed above equilibrium, employment falls. At a wage of 14 in Town T, employment is 450, so 150 jobs are lost, while the 450 in work gain 2 an hour each.
+- Possible loss: if the wage is pushed above equilibrium, employment falls. At a wage of 12 in Town T, employment is 400, so 100 jobs are lost, while the 400 in work gain 2 an hour each.
 - Firms may face higher costs, so higher prices or lower profit.
 - Union action can also raise productivity through morale.
 
@@ -136,7 +136,7 @@ Chemical market: demand P = 100 − 2Q, private supply P = 20 + 2Q. Market outpu
 
 ### Worked reminder: fine
 
-Firm saves 30,000 by dumping. Chance of being caught 40%. Fine 50,000: 0.4 × 50,000 = 20,000, no deterrent. Fine 100,000: 40,000, deterrent.
+Firm saves 24,000 by dumping. Chance of being caught 30%. Fine 60,000: 0.3 × 60,000 = 18,000, no deterrent. Fine 100,000: 30,000, deterrent.
 
 ### Worked reminder: permits
 
@@ -183,10 +183,10 @@ A minimum below equilibrium has no effect.
 
 | Minimum wage | Demanded | Supplied | Surplus of labour |
 |---|---|---|---|
-| 14 | 450 | 750 | 300 |
-| 15 | 375 | 825 | 450 |
+| 12 | 400 | 600 | 200 |
+| 13 | 350 | 650 | 300 |
 
-At 14, employment falls from 600 to 450 (−25%). Wage bill: 12 × 600 = 7,200 before and 14 × 450 = 6,300 after.
+At 12, employment falls from 500 to 400 (−20%). Wage bill: 10 × 500 = 5,000 before and 12 × 400 = 4,800 after.
 
 | Advantages | Disadvantages |
 |---|---|
@@ -214,8 +214,8 @@ At 14, employment falls from 600 to 450 (−25%). Wage bill: 12 × 600 = 7,200 b
 
 ## Quick self-test
 
-1. What is meant by derived demand?
-2. State two factors that would shift the supply of labour to the right.
+1. Define derived demand.
+2. Give two reasons the labour supply curve might move right.
 3. A firm has 30 workers who make 360 units a day. Calculate output per worker.
 4. Output per worker rises from 12 to 15. Calculate the percentage increase.
 5. At a minimum wage of 11, 300 workers are demanded and 380 supplied. State the surplus of labour.
@@ -227,7 +227,7 @@ At 14, employment falls from 600 to 450 (−25%). Wage bill: 12 × 600 = 7,200 b
 
 ### Answers
 
-1. Demand for labour that depends on demand for the product (two parts: demand for a factor, from demand for the output).
+1. Labour demand that arises only because of demand for the product (two parts: demand for a factor, and the link to output).
 2. Any two of: larger population, immigration, higher retirement age, higher female participation, more qualifications.
 3. 360 ÷ 30 = 12 units.
 4. (15 − 12) ÷ 12 × 100 = 25%.

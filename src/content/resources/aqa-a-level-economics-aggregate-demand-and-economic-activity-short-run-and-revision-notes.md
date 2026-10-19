@@ -1,5 +1,5 @@
 ---
-title: "AQA A-level Economics: Aggregate demand and economic activity, short-run and long-run aggregate supply (7136) -- Revision Notes"
+title: "AQA A-level Economics: Aggregate demand and activity, short-run and long-run AS (7136) -- Revision Notes"
 seoTitle: "AQA Economics AD, SRAS and LRAS Revision Notes"
 resourceType: "revision-notes"
 subject: "economics"

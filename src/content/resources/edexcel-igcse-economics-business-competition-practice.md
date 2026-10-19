@@ -34,7 +34,7 @@ These questions cover section 1.2.4 (Business competition) of the Pearson Edexce
 
 **2.** State two barriers to entry that can protect a monopoly. **[2]**
 
-**3.** Total sales in the market for tinned fish in Country D are 250,000 tins a month. Firm X sells 90,000 tins and Firm Y sells 40,000 tins.
+**3.** Total sales in the market for school notebooks in Country D are 250,000 notebooks a month. Firm X sells 90,000 notebooks and Firm Y sells 40,000 notebooks.
 
 **(a)** Calculate the market share of Firm X. **[2]**
 **(b)** Calculate the combined market share if Firm X takes over Firm Y. **[2]**
@@ -125,7 +125,7 @@ These questions cover section 1.2.4 (Business competition) of the Pearson Edexce
 - Defining monopoly as "one firm" with no mention of dominance or control of the market.
 - Naming a barrier to entry with no explanation of how it blocks newcomers.
 - Forgetting to multiply profit per unit by the number of units sold.
-- Using the new figure instead of the original as the base in a percentage change.
+- Dividing a change by the later value when the earlier value should be the base.
 - Treating a cartel as a merger, or forgetting that members may cheat.
 - Describing price cuts as non-price competition.
 - Giving a reason why a firm stays small with no link to the firm described.

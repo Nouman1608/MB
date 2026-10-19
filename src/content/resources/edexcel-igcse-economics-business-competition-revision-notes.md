@@ -101,7 +101,7 @@ Features: one dominant business, unique product, price-maker, barriers to entry.
 
 ## Oligopoly (points h, i, j)
 
-**Definition:** a market dominated by a few large firms.
+**Definition:** a market where a few large firms supply most of the output.
 
 Features: few firms, large firms dominate, different products, barriers to entry, collusion, non-price competition, price competition.
 
@@ -175,7 +175,7 @@ Use this when a question says discuss, evaluate or assess.
 - Describing oligopoly without mentioning that products differ.
 - Treating a cartel as always successful, with no mention of cheating.
 - Leaving out the final sentence of evaluation questions.
-- Using the new figure as the base in a percentage change.
+- Dividing a change by the later value rather than the starting value.
 - Forgetting that a takeover raises market share by adding both sales figures.
 - Confusing non-price competition with a price cut.
 

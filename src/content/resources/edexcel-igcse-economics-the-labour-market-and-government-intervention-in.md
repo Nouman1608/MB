@@ -40,7 +40,7 @@ This guide covers specification sections 1.2.5 (the labour market) and 1.2.6 (go
 
 ## The demand for labour (1.2.5 a)
 
-Firms hire labour to produce goods and services, so the demand for labour is a **derived demand**: it depends on the demand for the final product. If more people want bread, bakeries need more bakers.
+Firms hire labour to produce goods and services, so labour demand is a **derived demand**: it follows from the demand for what the labour makes. If more people want bread, bakeries need more bakers.
 
 Three factors shift demand for labour:
 
@@ -48,7 +48,7 @@ Three factors shift demand for labour:
 - **Availability of substitutes, including machines.** A cheaper or better machine lets firms replace workers, so demand for that labour shifts left. If machines become dearer, demand for workers rises.
 - **Productivity.** Workers who produce more per hour bring in more revenue for each wage paid, so firms want more of them.
 
-Quantity versus demand: a change in the wage causes a movement along the demand curve. The three factors above shift the whole curve.
+Quantity versus demand: a new wage only slides you along the demand curve. The three factors above shift the whole curve.
 
 ## The supply of labour (1.2.5 b)
 
@@ -72,7 +72,7 @@ Supply of labour is the number of people willing and able to work at each wage.
 
 **Human capital** is the skills, knowledge and health of the workforce. Education and training raise it.
 
-Chain for a firm: training raises skills, so output per worker rises, so cost per unit falls and quality improves.
+Chain for a firm: training builds skills, output per worker rises, cost per unit falls and quality improves.
 
 **Worked example (illustrative).** A firm pays 12 an hour. Untrained staff make 20 units an hour; after training they make 26.
 - Labour cost per unit before: 12 ÷ 20 = 0.60.
@@ -91,32 +91,32 @@ Axes: wage (vertical), quantity of labour or employment (horizontal). The demand
 
 | Wage | Workers demanded | Workers supplied |
 |---|---|---|
-| 8 | 900 | 300 |
-| 10 | 750 | 450 |
-| 12 | 600 | 600 |
-| 14 | 450 | 750 |
-| 16 | 300 | 900 |
+| 6 | 700 | 300 |
+| 8 | 600 | 400 |
+| 10 | 500 | 500 |
+| 12 | 400 | 600 |
+| 14 | 300 | 700 |
 
-Equilibrium wage = 12; equilibrium employment = 600.
+Equilibrium wage = 10; equilibrium employment = 500.
 
-**Shift in demand.** More offices open, so demand rises by 150 workers at every wage. The new equilibrium is a wage of 13 and employment of 675. Wage up 8.3%, employment up 12.5%.
+**Shift in demand.** More offices open, so demand rises by 100 workers at every wage. The new equilibrium is a wage of 11 and employment of 550. Wage up 10%, employment up 10%.
 
-**Shift in supply.** Suppose supply falls by 150 at every wage (for example, many retire). The new equilibrium is a wage of 13 and employment of 525. Wage up 8.3%, employment down 12.5%.
+**Shift in supply.** Suppose supply falls by 100 at every wage (for example, many retire). The new equilibrium is a wage of 11 and employment of 450. Wage up 10%, employment down 10%.
 
-| Shift | Wage | Employment |
+| Shift | Effect on wage | Effect on employment |
 |---|---|---|
-| Demand right | Up | Up |
-| Demand left | Down | Down |
-| Supply right | Down | Up |
-| Supply left | Up | Down |
+| Demand right | Rises | Rises |
+| Demand left | Falls | Falls |
+| Supply right | Falls | Rises |
+| Supply left | Rises | Falls |
 
-When you draw, label both axes, the curves D and S (and D1 or S1 for the new curve) and the old and new equilibrium points.
+When you draw, label both axes, the curves D and S (and D1 or S1 for a shifted curve) and the old and new equilibrium points.
 
 ## Trade unions (1.2.5 f)
 
-A trade union is an organisation of workers that acts together. By collective bargaining it can seek higher wages, better working conditions, shorter hours and job security. A union's power comes from the threat of industrial action such as a strike.
+A trade union is a body of workers who bargain as one group. By collective bargaining it can seek higher wages, better working conditions, shorter hours and job security. A union's power comes from the threat of industrial action such as a strike.
 
-Using the Town T table: a union bargains a wage of 14. Employment falls to 450 (demand at 14), so 600 − 450 = 150 jobs are lost, while the 450 who keep jobs gain 2 an hour each, 900 an hour in total. The 150 who lose jobs lose out.
+Using the Town T table: a union bargains a wage of 12. Employment falls to 400 (demand at 12), so 500 − 400 = 100 jobs are lost, while the 400 who keep jobs gain 2 an hour each, 800 an hour in total. The 100 who lose jobs lose out.
 
 | Possible benefits | Possible costs |
 |---|---|
@@ -126,7 +126,7 @@ Using the Town T table: a union bargains a wage of 14. Employment falls to 450 (
 
 ## Government policies for externalities (1.2.6 a, b)
 
-An externality is a cost or benefit to a third party. A factory's pollution is a negative externality, so the market produces too much. Each policy aims to cut output or pollution to the socially best level.
+An externality is a cost or benefit that lands on people outside the transaction. A factory's pollution is a negative externality, so the market produces too much. Each policy aims to cut output or pollution to the socially best level.
 
 **Taxation (illustrative).** Chemical market: demand P = 100 − 2Q, supply (private cost) P = 20 + 2Q. Equilibrium Q = 20, P = 60. Pollution costs society 16 per unit, so the true cost is 36 + 2Q and the best output is 16 (price 68). A tax of 16 per unit moves supply up by 16, and the market settles at output 16 and price 68. Revenue = 16 × 16 = 256. Consumers pay 8 more and producers keep 8 less, so each bears 128 of the tax. External cost falls from 20 × 16 = 320 to 256.
 - Advantages: raises revenue, makes polluters pay.
@@ -136,7 +136,7 @@ An externality is a cost or benefit to a third party. A factory's pollution is a
 - Advantages: lowers prices, boosts green output.
 - Disadvantages: costs taxpayers, firms may depend on it.
 
-**Fines.** A penalty for breaking a pollution rule. A firm saves 30,000 by dumping waste and has a 40% chance of being caught. A fine of 50,000 has an expected cost of 0.4 × 50,000 = 20,000, which is less than the saving, so it still dumps. A fine of 100,000 gives 40,000, which deters it.
+**Fines.** A penalty for breaking a pollution rule. A firm saves 24,000 by dumping waste and has a 30% chance of being caught. A fine of 60,000 has an expected cost of 0.3 × 60,000 = 18,000, which is less than the saving, so it still dumps. A fine of 100,000 gives 30,000, which deters it.
 - Advantages: punishes, easy to understand.
 - Disadvantages: needs monitoring, only works if caught, harm already done.
 
@@ -166,7 +166,7 @@ A minimum wage is a legal wage floor.
 
 **Reasons:** reduce poverty and inequality, stop exploitation of low-paid workers, and make work pay more than benefits.
 
-**Worked example (Town T).** A minimum of 14 is above the equilibrium of 12, so it is binding. Demand = 450, supply = 750, so there is a surplus of labour of 300 (unemployment). Employment falls by 150 (25%). The wage bill changes from 12 × 600 = 7,200 to 14 × 450 = 6,300. If it is raised to 15, demand is 375, supply is 825 and the surplus is 450. A minimum of 11 would have no effect (below equilibrium).
+**Worked example (Town T).** A minimum of 12 is above the equilibrium of 10, so it is binding. Demand = 400, supply = 600, so there is a surplus of labour of 200 (unemployment). Employment falls by 100 (20%). The wage bill changes from 10 × 500 = 5,000 to 12 × 400 = 4,800. If it is raised to 13, demand is 350, supply is 650 and the surplus is 300. A minimum of 9 would have no effect (below equilibrium).
 
 Introducing: draw a horizontal line above equilibrium, find demand and supply at that wage, and mark the gap. Increasing: move the line up and the gap widens.
 

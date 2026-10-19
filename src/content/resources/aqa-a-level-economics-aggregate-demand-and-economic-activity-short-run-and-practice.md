@@ -1,5 +1,5 @@
 ---
-title: "AQA A-level Economics: Aggregate demand and economic activity, short-run and long-run aggregate supply (7136) -- Practice Questions"
+title: "AQA A-level Economics: Aggregate demand and activity, short-run and long-run AS (7136) -- Practice Questions"
 seoTitle: "AQA Economics AD, SRAS and LRAS Practice Questions"
 resourceType: "practice-questions"
 subject: "economics"
@@ -83,7 +83,7 @@ The questions below are based on the AQA AS and A-level Economics specification,
 ## Answers
 
 **1.** Change in consumption 320 and change in income 400 [1], so MPC = 320/400 = 0.8 [1]; multiplier = 1/(1 - 0.8) = **5** [1] **[3]**
-*Examiner insight:* the MPC uses changes, not totals. Dividing 1,880 by 2,400 gives the average propensity to consume and earns nothing here.
+*Examiner insight:* the MPC uses changes, not totals. Dividing 1,880 by 2,400 gives the average propensity to consume and does not answer the question.
 
 **2. (a)** Multiplier = 1/(1 - 0.7) = 3.33 [1]; 12 x 3.33 = **40 bn cu** [1] **[2]**
 **(b)** Spare capacity may be limited, so prices rise and real output rises by less [1]; the MPC may be lower than 0.7, for example if confidence falls or some spending leaks abroad [1]; each point is developed by saying how it reduces the later rounds [1] **[3]**
