@@ -352,7 +352,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/697295-2026-syllabus.pdf', verifiedDate: '2026-08-24',
-    notes: 'IMPORTANT: like Business 7115, this syllabus is valid for 2026 ONLY (confirmed directly from the PDF: "Use this syllabus for exams in 2026"), not a multi-year series. Economics keeps the code 2281: Cambridge has published a 2027-2029 syllabus for 2281 (718206), which is not itemised here. Not tiered. Re-verified against the full official PDF (Version 2) 2026-08-24: the Phase 16 claim that Topic 1 had "all three of its subtopics" was incomplete - the PDF lists FOUR (1.1-1.4, including 1.4 Production possibility curve (PPC) diagrams), now corrected below. All six topic names and Topic 2’s full sub-topic structure (2.1-2.11) reproduced directly from the PDF’s Subject content section, fetched 2026-08-24. Weekly study-guides run (2026-09-02): re-fetched the full PDF directly and extracted Topic 3 (Microeconomic decision makers) sub-topics 3.1-3.8 from the "3 Subject content" section for the new resource written this run. Sub-topic detail for topics 4-6 (4.1-4.8, 5.1-5.4, 6.1-6.4 per the PDF) is deliberately not itemised below pending the phase that writes about them.',
+    notes: 'IMPORTANT: like Business 7115, this syllabus is valid for 2026 ONLY (confirmed directly from the PDF: "Use this syllabus for exams in 2026"), not a multi-year series. Economics keeps the code 2281: Cambridge has published a 2027-2029 syllabus for 2281 (718206), which is not itemised here. Not tiered. Re-verified against the full official PDF (Version 2) 2026-08-24: the Phase 16 claim that Topic 1 had "all three of its subtopics" was incomplete - the PDF lists FOUR (1.1-1.4, including 1.4 Production possibility curve (PPC) diagrams), now corrected below. All six topic names and Topic 2’s full sub-topic structure (2.1-2.11) reproduced directly from the PDF’s Subject content section, fetched 2026-08-24. Weekly study-guides run (2026-09-02): re-fetched the full PDF directly and extracted Topic 3 (Microeconomic decision makers) sub-topics 3.1-3.8 from the "3 Subject content" section for the new resource written this run. Sub-topics of topics 4-6 (4.1-4.8, 5.1-5.4, 6.1-6.4) itemised 2026-10-19 (D-424) from the 2026 syllabus Subject content section, when the pages for them were written.',
     topics: [
       { number: 1, name: 'The basic economic problem', slug: 'the-basic-economic-problem', subtopics: [
         { number: '1.1', name: 'The nature of the economic problem', slug: 'the-nature-of-the-economic-problem' },
@@ -383,9 +383,28 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '3.7', name: "Firms' costs, revenue and objectives", slug: 'firms-costs-revenue-and-objectives' },
         { number: '3.8', name: 'Market structure', slug: 'market-structure' },
       ] },
-      { number: 4, name: 'Government and the macroeconomy', slug: 'government-and-the-macroeconomy', subtopics: [] },
-      { number: 5, name: 'Economic development', slug: 'economic-development', subtopics: [] },
-      { number: 6, name: 'International trade and globalisation', slug: 'international-trade-and-globalisation', subtopics: [] },
+      { number: 4, name: 'Government and the macroeconomy', slug: 'government-and-the-macroeconomy', subtopics: [
+        { number: '4.1', name: 'The role of government', slug: 'the-role-of-government' },
+        { number: '4.2', name: 'The macroeconomic aims of government', slug: 'the-macroeconomic-aims-of-government' },
+        { number: '4.3', name: 'Fiscal policy', slug: 'fiscal-policy' },
+        { number: '4.4', name: 'Monetary policy', slug: 'monetary-policy' },
+        { number: '4.5', name: 'Supply-side policy', slug: 'supply-side-policy' },
+        { number: '4.6', name: 'Economic growth', slug: 'economic-growth' },
+        { number: '4.7', name: 'Employment and unemployment', slug: 'employment-and-unemployment' },
+        { number: '4.8', name: 'Inflation and deflation', slug: 'inflation-and-deflation' },
+      ] },
+      { number: 5, name: 'Economic development', slug: 'economic-development', subtopics: [
+        { number: '5.1', name: 'Living standards', slug: 'living-standards' },
+        { number: '5.2', name: 'Poverty', slug: 'poverty' },
+        { number: '5.3', name: 'Population', slug: 'population' },
+        { number: '5.4', name: 'Differences in economic development between countries', slug: 'differences-in-economic-development-between-countries' },
+      ] },
+      { number: 6, name: 'International trade and globalisation', slug: 'international-trade-and-globalisation', subtopics: [
+        { number: '6.1', name: 'International specialisation', slug: 'international-specialisation' },
+        { number: '6.2', name: 'Globalisation, free trade and protection', slug: 'globalisation-free-trade-and-protection' },
+        { number: '6.3', name: 'Foreign exchange rates', slug: 'foreign-exchange-rates' },
+        { number: '6.4', name: 'Current account of balance of payments', slug: 'current-account-of-balance-of-payments' },
+      ] },
     ],
   },
   {
