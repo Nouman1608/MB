@@ -126,13 +126,13 @@ Using the Town T table: a union bargains a wage of 12. Employment falls to 400 (
 
 ## Government policies for externalities (1.2.6 a, b)
 
-An externality is a cost or benefit that lands on people outside the transaction. A factory's pollution is a negative externality, so the market produces too much. Each policy aims to cut output or pollution to the socially best level.
+An externality is a spillover cost or benefit felt by third parties. A factory's pollution is a negative externality, so the market produces too much. Each policy aims to cut output or pollution to the socially best level.
 
 **Taxation (illustrative).** Chemical market: demand P = 100 − 2Q, supply (private cost) P = 20 + 2Q. Equilibrium Q = 20, P = 60. Pollution costs society 16 per unit, so the true cost is 36 + 2Q and the best output is 16 (price 68). A tax of 16 per unit moves supply up by 16, and the market settles at output 16 and price 68. Revenue = 16 × 16 = 256. Consumers pay 8 more and producers keep 8 less, so each bears 128 of the tax. External cost falls from 20 × 16 = 320 to 256.
 - Advantages: raises revenue, makes polluters pay.
 - Disadvantages: hard to set at the right level; demand may be inelastic so pollution barely falls; may hurt poor consumers.
 
-**Subsidies.** Used to encourage activities with external benefits or cleaner production. Solar-panel market: demand P = 90 − Q, supply P = 30 + Q, equilibrium 30 units at 60. A subsidy of 10 per unit moves supply to 20 + Q. Output rises to 35, buyers pay 55, producers receive 65. Cost to the government = 10 × 35 = 350.
+**Subsidies.** For a positive externality the market produces too little, so a subsidy encourages activities with external benefits or cleaner production. Solar-panel market: demand P = 90 − Q, supply P = 30 + Q, equilibrium 30 units at 60. A subsidy of 10 per unit moves supply to 20 + Q. Output rises to 35, buyers pay 55, producers receive 65. Cost to the government = 10 × 35 = 350.
 - Advantages: lowers prices, boosts green output.
 - Disadvantages: costs taxpayers, firms may depend on it.
 

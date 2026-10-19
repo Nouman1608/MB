@@ -94,7 +94,7 @@ These questions cover sections 1.2.5 (the labour market) and 1.2.6 (government i
 
 **1.** (a) Demand for labour comes from [1] demand for the product it helps to make [1]. **[2]**
 **(b)** Any two of: demand for the final product [1]; availability of substitutes such as machines [1]; productivity of workers. **[2]**
-*Examiner insight:* A definition earns credit for two separate ideas, so link the factor to the product. "Wage" is excluded by the question, so do not give it.
+*Examiner insight:* A good definition links the factor to the product it helps make, so give both ideas. "Wage" is excluded by the question, so do not give it.
 
 **2.** (a) 480 ÷ 40 = 12 units [1]; 84 ÷ 12 = **7.00 per unit** [1]. **[2]**
 **(b)** 12 × 1.25 = 15 units [1]; 84 ÷ 15 = **5.60** [1]; (7 − 5.6) ÷ 7 × 100 = **20%** [1]. **[3]**
