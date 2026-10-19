@@ -2644,6 +2644,16 @@ const REVIEWED_LEGITIMATE = [
     ],
     evidence: "Sibling new units from the O Level Economics topics 4-6 sprint (19 Oct 2026), tagged to the same subtopic because the 2026 syllabus keeps them in one section (globalisation, free trade and protection (6.2): globalisation, multinational companies and free trade (6.2.1-6.2.3) versus methods, reasons and consequences of protection (6.2.4-6.2.6)). Each unit teaches different numbered syllabus statements, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-424.",
   },
+  {
+    files: ["aqa-a-level-economics-aggregate-demand-and-economic-activity-short-run-and-practice.md", "aqa-a-level-economics-circular-flow-ad-and-as-analysis-and-determinants-of-practice.md"],
+    evidence:
+      "Sibling new units from the economics small-gaps sprint (19 Oct 2026), tagged to the same AQA subtopic because the map does not split 3.2.2 finer. One unit teaches 3.2.2.1 to 3.2.2.3 (circular flow, AD and AS analysis, determinants of AD) and the other 3.2.2.4 to 3.2.2.6 (multiplier and related content). Each teaches different numbered specification statements with its own worked figures, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-425.",
+  },
+  {
+    files: ["aqa-a-level-economics-aggregate-demand-and-economic-activity-short-run-and-revision-notes.md", "aqa-a-level-economics-circular-flow-ad-and-as-analysis-and-determinants-of-revision-notes.md"],
+    evidence:
+      "Sibling new units from the economics small-gaps sprint (19 Oct 2026), tagged to the same AQA subtopic because the map does not split 3.2.2 finer. One unit teaches 3.2.2.1 to 3.2.2.3 (circular flow, AD and AS analysis, determinants of AD) and the other 3.2.2.4 to 3.2.2.6 (multiplier and related content). Each teaches different numbered specification statements with its own worked figures, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-425.",
+  },
 ];
 const legitimateKeyOf = (fs) => [...fs].sort().join('|');
 const REVIEWED_KEYS = new Map(
