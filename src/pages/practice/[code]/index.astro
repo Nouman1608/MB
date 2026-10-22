@@ -651,7 +651,7 @@ const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQu
             retestSr.textContent = ': ' + info.label;
             retest.appendChild(retestSr);
             retest.addEventListener('click', (ev) => {
-              track('recommended_resource_click', { source: 'practice_weak_topics', link_kind: 'retest_topic' });
+              track('recommended_resource_click', { module: 'practice_weak_topics', link_kind: 'retest_topic' });
               if (!isPlainClick(ev)) return;
               ev.preventDefault();
               openTopic(key, retestCoreHere);
@@ -682,7 +682,7 @@ const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQu
           const plain = q.qHtml.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
           btn.textContent = plain.length > 140 ? plain.slice(0, 140) + '…' : plain;
           btn.addEventListener('click', () => {
-            track('retry', { topic: q.topics[0] ? q.topics[0].label : 'general', source: 'notebook' });
+            track('retry', { topic: q.topics[0] ? q.topics[0].label : 'general', module: 'notebook' });
             const i = filtered.findIndex((f) => f.id === q.id);
             if (i >= 0) { index = i; render(); }
             else { clearTopic(); filtered = questions.slice(); index = questions.findIndex((f) => f.id === q.id); render(); }
@@ -757,7 +757,7 @@ const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQu
           btn.appendChild(textSpan);
           btn.appendChild(whenSpan);
           btn.addEventListener('click', () => {
-            track('retry', { topic: q.topics[0] ? q.topics[0].label : 'general', source: 'spaced_retry' });
+            track('retry', { topic: q.topics[0] ? q.topics[0].label : 'general', module: 'spaced_retry' });
             if (mode !== 'standard') { els.mode.value = 'standard'; applyMode(); }
             const i = filtered.findIndex((f) => f.id === q.id);
             if (i >= 0) { index = i; render(); }
@@ -855,7 +855,7 @@ const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQu
             aSr.textContent = ': ' + t.label;
             a.appendChild(aSr);
             a.addEventListener('click', (ev) => {
-              track('recommended_resource_click', { source: 'practice_diagnostic', link_kind: 'retest_topic' });
+              track('recommended_resource_click', { module: 'practice_diagnostic', link_kind: 'retest_topic' });
               if (!isPlainClick(ev)) return;
               ev.preventDefault();
               openTopic(key, retestCore);
@@ -1062,7 +1062,7 @@ const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQu
       if (els.teacherSupport) {
         els.teacherSupport.addEventListener('click', () => {
           var supportParams = {
-            source: 'practice_diagnostic',
+            module: 'practice_diagnostic',
             score_percent: lastDiagnosticScorePercent,
           };
           if (selectedTier) supportParams.tier = selectedTier;

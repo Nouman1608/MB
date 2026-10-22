@@ -90,10 +90,45 @@ const gaId = site.analytics.ga4MeasurementId;
         }
         return out;
       }
+      // GA4 reads event parameters named source / medium / campaign (and a few
+      // siblings) as the visitor's traffic source and overwrites the real
+      // acquisition source for the session. Our own page names were being sent
+      // as `source` and showed up in reports as "Unassigned / on_this_topic".
+      // Never let those names through: `source` is renamed to `module`, the rest
+      // are dropped. See docs/growth/measurement-guide.md.
+      var MB_RESERVED_ATTRIBUTION = ['medium', 'campaign', 'campaign_id', 'campaign_source', 'campaign_medium', 'term', 'content', 'source_platform', 'creative_format', 'marketing_tactic'];
+      function mbStripAttribution(params) {
+        var out = {};
+        for (var key in params) {
+          if (!Object.prototype.hasOwnProperty.call(params, key)) continue;
+          var lower = key.toLowerCase();
+          if (lower === 'source') { if (!('module' in params)) out.module = params[key]; continue; }
+          if (MB_RESERVED_ATTRIBUTION.indexOf(lower) !== -1) continue;
+          out[key] = params[key];
+        }
+        return out;
+      }
       window.mbTrack = function (eventName, params) {
         if (!eventName || typeof eventName !== 'string') return;
-        var safeParams = mbStripPii(params || {});
+        var safeParams = mbStripAttribution(mbStripPii(params || {}));
+        var linkUrl = safeParams.link_url;
+        if (eventName === 'recommended_resource_click') delete safeParams.link_url;
         window.gtag('event', eventName, safeParams);
+        // Which on-site module drove an internal click: an event, never a URL tag.
+        if (eventName === 'recommended_resource_click' && typeof linkUrl === 'string' && linkUrl) {
+          var internal = null;
+          try {
+            var u = new URL(linkUrl, window.location.origin);
+            if (u.origin === window.location.origin) internal = u.pathname + u.search;
+          } catch (e) {}
+          if (internal) {
+            window.gtag('event', 'internal_nav', {
+              module: safeParams.module,
+              link_url: internal,
+              page_location: window.location.origin + window.location.pathname,
+            });
+          }
+        }
       };
 
       // Consent Mode v2 defaults -- nothing is sent until the visitor accepts.
@@ -148,14 +183,30 @@ const gaId = site.analytics.ga4MeasurementId;
         arrives -- nothing is lost, only delayed by a moment. */}
     <script is:inline define:vars={{ gaId }}>
       (function () {
+        // Measurement hygiene: only count real visitors on the real site. Page
+        // content is unchanged and no crawler is blocked from anything -- this
+        // only decides whether the analytics script is fetched. Skipped on
+        // preview/staging/localhost hosts, automated browsers (navigator.webdriver,
+        // headless Chrome) and self-identified bots/monitors. Browser prerenders
+        // wait until the page is actually shown.
+        var host = location.hostname;
+        var isLive = host === 'marlbridge.com' || host === 'www.marlbridge.com';
+        var ua = navigator.userAgent || '';
+        var isAutomated = navigator.webdriver === true ||
+          /HeadlessChrome|PhantomJS|Lighthouse|PageSpeed|Chrome-Lighthouse|(^|[^a-z])(bot|crawler|spider|slurp)([^a-z]|$)|GPTBot|ClaudeBot|PerplexityBot|Bytespider|Amazonbot|python-requests|curl\/|Go-http-client|axios|node-fetch|Pingdom|UptimeRobot|StatusCake/i.test(ua);
+        if (!isLive || isAutomated) return;
         function loadGtag() {
           var s = document.createElement('script');
           s.async = true;
           s.src = 'https://www.googletagmanager.com/gtag/js?id=' + gaId;
           document.head.appendChild(s);
         }
-        if (document.readyState === 'complete') setTimeout(loadGtag, 0);
-        else window.addEventListener('load', function () { setTimeout(loadGtag, 0); });
+        function start() {
+          if (document.readyState === 'complete') setTimeout(loadGtag, 0);
+          else window.addEventListener('load', function () { setTimeout(loadGtag, 0); });
+        }
+        if (document.prerendering) document.addEventListener('prerenderingchange', start, { once: true });
+        else start();
       })();
     </script>
 
