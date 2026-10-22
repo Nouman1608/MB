@@ -58,7 +58,7 @@ Each group at a rank is a **taxon** (plural taxa). The groups are **nested**: ea
 
 For each of the other three animals, find the lowest taxon it shares with the domestic cat.
 
-1. Cat and lion share everything down to family (Felidae) and split at genus. The lowest shared taxon is the **family Canidae**.
+1. Cat and lion share everything down to family (Felidae) and split at genus. The lowest shared taxon is the **family Felidae**.
 2. Cat and bear share down to order (Carnivora) but have different families. The lowest shared taxon is the **order Carnivora**.
 3. Cat and frog share down to phylum (Chordata) but are in different classes. The lowest shared taxon is the **phylum Chordata**.
 

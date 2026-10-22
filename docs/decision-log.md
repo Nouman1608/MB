@@ -15767,3 +15767,10 @@ Three more problems turned up:
 - **Checks.** Each unit was written from a job file, then checked by a separate agent that had not seen the writing: numbers recomputed in Python, mark totals summed, specification coverage mapped to the syllabus text, overlap scanned against every resource page. Fixes: titles shortened, a definition that matched an OCR page for 10 words reworded, a practice scenario that duplicated the existing guide's worked example replaced, study-guide links added.
 - **Allow-list.** The two AQA 3.2.2 units share one subtopic; their notes pair and practice pair are in `REVIEWED_LEGITIMATE`.
 - **Open items.** The strict check also flags topics in other subjects; not yet run for Business, Geography, Computer Science, ESS and Psychology, awaiting the owner's go-ahead.
+
+## D-426 - Two factual errors in lesson text corrected (22 Oct 2026)
+
+- Owner, 22 Oct 2026 ("go with option A", then "merge and push"): two lesson errors found while drawing the figure library were corrected.
+- **organic-chemistry-formulae-and-naming.** The general-formula table is headed "n=2 example", but the carboxylic acid row gave CH₃COOH (ethanoic acid), which is n = 1 in CₙH₂ₙ₊₁COOH because the –COOH carbon is not counted in n. The cell now reads C₂H₅COOH (propanoic acid), which is n = 2 (C₃H₆O₂ matches C₍ₙ₊₁₎H₍₂ₙ₊₂₎O₂). The other three rows were already correct, and the rest of the lesson uses ethanoic acid without n.
+- **ocr-a-level-biology-classification-and-taxonomy, Worked example 1.** Cat and lion share the family Felidae, but the sentence ended "The lowest shared taxon is the family Canidae" (the dog family). Changed to Felidae. The next two examples (order Carnivora, phylum Chordata) were correct. Other mentions of Canidae in the repo are about wolves and foxes and are correct.
+- Two text edits only; no frontmatter, dates, titles or structure changed.

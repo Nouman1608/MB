@@ -102,7 +102,7 @@ expression, using *n* for the number of carbon atoms:
 | Alkanes | CₙH₂ₙ₊₂ | C₂H₆ (ethane) |
 | Alkenes | CₙH₂ₙ | C₂H₄ (ethene) |
 | Alcohols | CₙH₂ₙ₊₁OH | C₂H₅OH (ethanol) |
-| Carboxylic acids | CₙH₂ₙ₊₁COOH | CH₃COOH (ethanoic acid) |
+| Carboxylic acids | CₙH₂ₙ₊₁COOH | C₂H₅COOH (propanoic acid) |
 
 **Worked example.** Use the general formula to find the molecular formula
 of the alkane with 5 carbon atoms.
