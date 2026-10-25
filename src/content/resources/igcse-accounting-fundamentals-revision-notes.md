@@ -2,15 +2,17 @@
 title: "IGCSE Accounting: The Fundamentals of Accounting — Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"
-level: ["igcse"]
+level: ["igcse","o-levels"]
 topic: "The fundamentals of accounting"
 boards: ["cambridge"]
-qualifications: ["igcse"]
-syllabusCodes: ["0452"]
+qualifications: ["igcse", "o-level"]
+syllabusCodes: ["0452", "7707"]
 syllabusSeries: "2027-2029"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
+    topic: "the-fundamentals-of-accounting"
+  - qualification: "o-level"
     topic: "the-fundamentals-of-accounting"
 description: "Condensed recall notes on the accounting equation, double entry, books of prime entry and the trial balance for Cambridge IGCSE Accounting 0452."
 author: "marlbridge-academic-team"
@@ -22,7 +24,8 @@ featured: false
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
-> Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1),
+> Accounting 0452 syllabus (and Cambridge O Level Accounting 7707, which has the
+> same subject content for the same series) for exams in 2027, 2028 and 2029 (version 1),
 > first examined in the March 2027 series in India and the June 2027 series
 > elsewhere. If you sit 0452 in November 2026, you sit the 2026 syllabus
 > (version 2), which differs: Paper 1 has 35 multiple-choice marks in 1 hour

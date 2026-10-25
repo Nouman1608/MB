@@ -4,15 +4,17 @@ seoTitle: "IGCSE Accounting 0452 Ratios and Analysis Revision Notes"
 seoDescription: "Revision notes for Cambridge IGCSE Accounting 0452: the ten accounting ratios, interpreting them, profit vs cash, comparisons and users of accounts."
 resourceType: "revision-notes"
 subject: "accounting"
-level: ["igcse"]
+level: ["igcse","o-levels"]
 topic: "Analysis and interpretation"
 boards: ["cambridge"]
-qualifications: ["igcse"]
-syllabusCodes: ["0452"]
+qualifications: ["igcse", "o-level"]
+syllabusCodes: ["0452", "7707"]
 syllabusSeries: "2027-2029"
 order: 6
 syllabusTopics:
   - qualification: "igcse"
+    topic: "analysis-and-interpretation"
+  - qualification: "o-level"
     topic: "analysis-and-interpretation"
 description: "Condensed recall notes on the ten accounting ratios, interpreting them, profit versus cash, inter-business comparison, interested parties and the limitations of accounting statements for Cambridge IGCSE Accounting (0452) Topic 6, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
@@ -24,7 +26,8 @@ featured: false
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
-> Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1),
+> Accounting 0452 syllabus (and Cambridge O Level Accounting 7707, which has the
+> same subject content for the same series) for exams in 2027, 2028 and 2029 (version 1),
 > first examined in the March 2027 series in India and the June 2027 series
 > elsewhere. If you sit 0452 in November 2026, you sit the 2026 syllabus
 > (version 2), which differs: Paper 1 has 35 multiple-choice marks in 1 hour

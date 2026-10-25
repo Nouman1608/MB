@@ -984,6 +984,16 @@ export const SYLLABUSES: readonly Syllabus[] = [
     notes: 'Syllabus for exams in 2027, 2028 and 2029 (Version 1), used from the March 2027 series in India and June 2027 elsewhere. Not tiered. Paper 1 Multiple Choice (1h30, 40 marks, 30%) and Paper 2 Structured Written Paper (1h45, 100 marks, 70%). The 2026 syllabus (Version 2) is still examined in November 2026, its final series; Marlbridge resources follow 2027-2029 and state the 2026 differences in an edition note.',
   },
   {
+    boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'accounting',
+    officialTitle: 'Cambridge O Level Accounting (7707)',
+    code: '7707',
+    boardSummary:
+      'Cambridge O Level Accounting introduces learners to the theory and concepts of accounting and the ways accounting is used in modern business. Learners focus on recording, reporting, presenting and interpreting financial information.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-accounting-7707/',
+    verifiedOn: '2026-10-25',
+    notes: 'Syllabus for exams in 2027, 2028 and 2029 (Version 1), June and November series; not available in all administrative zones. Not tiered; eligible grades A* to E. Paper 1 Multiple Choice (1h30) and Paper 2 Structured Written Paper (1h45). Subject content is word-for-word the same as IGCSE Accounting 0452 for the same series (compared section by section 2026-10-25), so Marlbridge resources are tagged to both. Added as a free-resources course on 2026-10-25 (D-431); no classes offered.',
+  },
+  {
     boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'accounting',
     officialTitle: 'Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (YAC11 / XAC11)',
     code: 'YAC11',
@@ -992,6 +1002,16 @@ export const SYLLABUSES: readonly Syllabus[] = [
     officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/accounting-2015.html',
     verifiedOn: '2026-08-19',
     notes: 'International Advanced Subsidiary code XAC11 (Unit 1 only); International Advanced Level code YAC11 (Unit 1 + Unit 2). Specification is Issue 2, reissued September 2018, first teaching September 2015, 100% externally assessed with January/June/October series.',
+  },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'accounting',
+    officialTitle: 'Pearson Edexcel International GCSE in Accounting (4AC1)',
+    code: '4AC1',
+    boardSummary:
+      'Students develop an understanding of accounting and bookkeeping principles, the preparation of financial statements for sole traders, partnerships and manufacturers, control processes, and the interpretation of accounting ratios.',
+    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-accounting-2017.html',
+    verifiedOn: '2026-10-25',
+    notes: 'Specification Issue 1 (October 2016), first teaching September 2017, first examination June 2019; linear, January and June series. Paper 1 Introduction to Bookkeeping and Accounting (2 hours, 100 marks, 66.6%) and Paper 2 Financial Statements (1 hour 15 minutes, 50 marks, 33.3%). Pearson also runs a modular route (4XAC1, first teaching September 2023) on the same topics. Added as a free-resources course on 2026-10-25 (D-431); no classes offered.',
   },
 
   {
