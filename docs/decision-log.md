@@ -15784,3 +15784,14 @@ Three more problems turned up:
 - **Allow-list.** No new `REVIEWED_LEGITIMATE` entries; the duplicate-scope script reported no shared scope for any new page.
 - **Result.** The strict check now lists no Chemistry, Physics, Biology, Maths, Statistics or Economics topic or subtopic missing a page, across all boards and IB.
 - **Open items.** Accounting (about 56 gaps) and Business (about 200) remain; Geography, Computer Science, ESS and Psychology have not been checked. The existing OCR Biology guide says "first assessment in 2017", which conflicts with the 2025 series.
+
+## D-428 - Strict-gap sprint: Accounting closed on all boards (25 Oct 2026)
+
+- Owner, 25 Oct 2026 ("start with accounting"): the strict check found every Accounting topic and subtopic gap. All were filled. Business was not part of this request.
+- **Units.** 55 units, 160 new pages. Cambridge IGCSE 0452: 28 subtopics (sections 1 to 7), all three page types. Cambridge A Level 9706: 15 subtopics (1.3 and 1.4 practice only). Edexcel IAL YAC11: 7 subtopics. AQA 7127: topic 3 revision notes and practice. OxfordAQA 9215: topics 2 to 5 (the topic-2 subtopics that were missing, plus topics 3, 4 and 5 which had no pages).
+- **Syllabus data.** `src/data/academic/syllabus-topics.ts` gained 17 OxfordAQA 9215 subtopics under topics 3, 4 and 5 (5, 7 and 5), so the 9215 spec sections 3.3 to 3.5 now have subtopic pages. Slugs end `-oxfordaqa-igcse-accounting`.
+- **Method.** Each unit was written from a job file and checked by a separate agent: figures recomputed in Python, mark totals summed, outcomes mapped to the official text, business names grepped for clashes, 10-word overlaps with other pages removed. Nearly every verifier changed something (clashing business names, repeated data sets, wrong or unclear figures, unsupported claims). Examples: a wrong net-profit effect in the 0452 4.3/4.4 study guide, two rounding errors in an OxfordAQA ratios page, a misdescribed depreciation comparison, a YAML minus sign that broke a 9706 page's stage check.
+- **OxfordAQA ratio formulae.** The 9215 spec points to a separate OxfordAQA formulae guide that was not available. The pages use standard forms and tell the reader to check them against that guide.
+- **Allow-list.** No new `REVIEWED_LEGITIMATE` entries; the duplicate-scope script reported no shared scope for any new page.
+- **Result.** The strict check (subtopic and topic level) now lists no Accounting topic or subtopic missing a page, on any board.
+- **Open items.** Business (about 200 gaps) remains; Geography, Computer Science, ESS and Psychology have not been checked. Accounting entries for Cambridge O Level and Edexcel IGCSE, and Business for Edexcel IGCSE/GCSE, may be missing from the syllabus data altogether and need checking.
