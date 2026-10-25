@@ -22,7 +22,7 @@ featured: false
 
 This guide is aligned to the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards. It covers the limited companies row of specification section 3.4, Preparation of financial statements. Content 3 to 5 is the content assessed in Paper 2: Financial Statements, so this topic sits in that paper. The specification does not split the content into tiers.
 
-Work through it with the [revision notes](/resources/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies-revision-notes/) and the [practice questions](/resources/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies-practice/). The course hub is [here](/boards/oxfordaqa/igcse/accounting/) and the printable checklist is [here](/checklists/oxfordaqa/igcse/accounting/). If you are unsure where you stand, take a [free 10-minute diagnostic](/diagnostics/) first.
+Work through it with the [revision notes](/resources/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies-revision-notes/) and the [practice questions](/resources/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies-practice/). The [OxfordAQA IGCSE Accounting course hub](/boards/oxfordaqa/igcse/accounting/) and the [printable accounting checklist](/checklists/oxfordaqa/igcse/accounting/) cover the rest of the course. If you are unsure where you stand, take a [free 10-minute diagnostic](/diagnostics/) first.
 
 All amounts on this page are in dollars. Every business and figure is invented.
 
