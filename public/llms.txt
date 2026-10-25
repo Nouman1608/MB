@@ -1,6 +1,6 @@
 # Marlbridge
 
-> Marlbridge is an online tutoring service for IGCSE, O Level, GCSE, AS & A Level and IB students, operated by Learners Academy in Lahore, Pakistan. Subject teachers teach live classes one-to-one or in small groups of up to 15, online for students anywhere and in person in Lahore; the first trial class is free. Classes are offered in 142 board, qualification and subject combinations (Cambridge, Pearson Edexcel, AQA, OxfordAQA, OCR and IB), and the site publishes 6,565 free study resources, printable syllabus checklists and exam tools. Marlbridge has no office outside Pakistan.
+> Marlbridge is an online tutoring service for IGCSE, O Level, GCSE, AS & A Level and IB students, operated by Learners Academy in Lahore, Pakistan. Subject teachers teach live classes one-to-one or in small groups of up to 15, online for students anywhere and in person in Lahore; the first trial class is free. Classes are offered in 142 board, qualification and subject combinations (Cambridge, Pearson Edexcel, AQA, OxfordAQA, OCR and IB), and the site publishes 6,725 free study resources, printable syllabus checklists and exam tools. Marlbridge has no office outside Pakistan.
 
 ## Boards
 
