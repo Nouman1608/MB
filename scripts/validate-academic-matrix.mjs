@@ -182,6 +182,9 @@ console.log(`  Publishable now: ${publishable.length}`);
 
 // ---------------------------------------------------------------------------
 // APPROVED SCOPE LOCK
+// UPDATED 2026-10-25 (D-431): owner asked in chat for Accounting resources at
+// every level and board; Cambridge O Level Accounting (7707) and Edexcel IGCSE
+// Accounting (4AC1) added as resources-only combinations (classesOffered false).
 // Business decision, 2026-08-18: Marlbridge teaches every subject and board
 // currently represented in this repository's data model (matrix.ts, boards.ts,
 // qualifications.ts) — superseding the earlier Chemistry-only scope. This is
@@ -279,6 +282,7 @@ const APPROVED = [
   'cambridge|igcse|statistics',
   'cambridge|igcse|urdu-language',
   'cambridge|igcse|world-history',
+  'cambridge|o-level|accounting',
   'cambridge|o-level|biology',
   'cambridge|o-level|business',
   'cambridge|o-level|chemistry',
@@ -306,6 +310,7 @@ const APPROVED = [
   'edexcel|a-level|mathematics',
   'edexcel|a-level|physics',
   'edexcel|a-level|urdu-language',
+  'edexcel|igcse|accounting',
   'edexcel|igcse|biology',
   'edexcel|igcse|chemistry',
   'edexcel|igcse|economics',

@@ -15795,3 +15795,14 @@ Three more problems turned up:
 - **Allow-list.** No new `REVIEWED_LEGITIMATE` entries; the duplicate-scope script reported no shared scope for any new page.
 - **Result.** The strict check (subtopic and topic level) now lists no Accounting topic or subtopic missing a page, on any board.
 - **Open items.** Business (about 200 gaps) remains; Geography, Computer Science, ESS and Psychology have not been checked. Accounting entries for Cambridge O Level and Edexcel IGCSE, and Business for Edexcel IGCSE/GCSE, may be missing from the syllabus data altogether and need checking.
+
+## D-431 - Accounting: Cambridge O Level 7707 and Edexcel International GCSE 4AC1 added as resources-only courses (25 Oct 2026)
+
+- Owner, 25 Oct 2026 ("complete all resources for accounting for all levels and boards"): the D-428 open item was checked. Cambridge O Level Accounting 7707 and Pearson Edexcel International GCSE Accounting 4AC1 were missing from the course data. AQA AS 7126 was left out because it could not be confirmed as current.
+- **Scope list.** `cambridge|o-level|accounting` and `edexcel|igcse|accounting` were added to the approved list in `scripts/validate-academic-matrix.mjs`. This was done on the strength of the chat request above; it needs the owner's confirmation before merge. Both are `classesOffered: false` (free resources only).
+- **Data.** New rows in `matrix.ts`, entries in `syllabuses.ts`, `assessments.ts` and `syllabus-topics.ts` (7707 reuses the 0452 topic and subtopic slugs; 4AC1 has 5 topics and 24 subtopics).
+- **Pages.** 45 new Edexcel IGCSE 4AC1 pages (15 units covering all 24 subtopics; study guide, revision notes and practice each). Each was written from a job file and checked by a separate agent; every verifier changed something (repeated data or wording, business names already used, unsupported claims relabelled as general knowledge, arithmetic and layout slips).
+- **Overlap.** The 7707 subject content for 2027 to 2029 is the same as 0452, so the 75 existing Cambridge IGCSE Accounting pages are tagged for both qualifications (level, qualifications, codes, syllabus topics, one line in the edition note) rather than duplicated.
+- **Not done.** The modular 4XAC1 route is not a separate record. The local build could not run (out of memory); CI is the first full build.
+- **Result.** The strict check (topic and subtopic level) lists no Accounting gap for O Level 7707 or Edexcel IGCSE 4AC1. `validate:academic` passes; the duplicate-scope script reports nothing new.
+- **Open items.** Business for Edexcel International GCSE is not on the site; AQA AS 7126 not added; the pages state amounts in dollars in words because the specification names no currency.

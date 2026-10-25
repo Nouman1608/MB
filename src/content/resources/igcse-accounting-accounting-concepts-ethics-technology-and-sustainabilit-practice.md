@@ -3,11 +3,11 @@ title: "IGCSE Accounting: Accounting concepts, ethics, technology and sustainabi
 seoTitle: "IGCSE Accounting Concepts and Ethics Practice Questions"
 resourceType: "practice-questions"
 subject: "accounting"
-level: ["igcse"]
+level: ["igcse","o-levels"]
 topic: "Accounting concepts and modern practice"
 boards: ["cambridge"]
-qualifications: ["igcse"]
-syllabusCodes: ["0452"]
+qualifications: ["igcse", "o-level"]
+syllabusCodes: ["0452", "7707"]
 syllabusSeries: "2027-2029"
 order: 617
 syllabusTopics:
@@ -20,6 +20,15 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "accounting-concepts-and-modern-practice"
     subtopic: "technology-and-sustainability"
+  - qualification: "o-level"
+    topic: "accounting-concepts-and-modern-practice"
+    subtopic: "accounting-concepts"
+  - qualification: "o-level"
+    topic: "accounting-concepts-and-modern-practice"
+    subtopic: "ethical-considerations"
+  - qualification: "o-level"
+    topic: "accounting-concepts-and-modern-practice"
+    subtopic: "technology-and-sustainability"
 description: "Original practice questions with worked answers on accounting concepts, ethical principles, digital records and storage for Cambridge IGCSE Accounting."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-25
@@ -27,7 +36,8 @@ featured: false
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
-> Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1),
+> Accounting 0452 syllabus (and Cambridge O Level Accounting 7707, which has the
+> same subject content for the same series) for exams in 2027, 2028 and 2029 (version 1),
 > first examined in the March 2027 series in India and the June 2027 series
 > elsewhere. If you sit 0452 in November 2026, you sit the 2026 syllabus
 > (version 2), which differs: Paper 1 has 35 multiple-choice marks in 1 hour
