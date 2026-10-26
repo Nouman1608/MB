@@ -31,7 +31,7 @@ featured: false
 
 These questions cover sections 2.1 (Introduction to human resource management) and 2.2 (Organizational structure) of the IB *Business management guide*, first assessment 2024. Everything is SL and HL except question 11, which is HL only. All businesses and figures are invented.
 
-Read the [study guide](/resources/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure/) first if a topic is new, and use the [revision notes](/resources/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure-revision-notes/) to check terms. The [course page](/boards/ib/ib-dp/business/) and [checklist](/checklists/ib/ib-dp/business/) show where this unit sits.
+Read the [study guide](/resources/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure/) first if a topic is new, and use the [revision notes](/resources/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure-revision-notes/) to check terms. The [course hub](/boards/ib/ib-dp/business/) and [checklist](/checklists/ib/ib-dp/business/) show where this unit sits.
 
 ## Questions
 

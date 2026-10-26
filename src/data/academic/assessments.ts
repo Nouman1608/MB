@@ -999,7 +999,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/718213-2027-2029-syllabus.pdf',
     verifiedOn: '2026-10-25',
-    notes: 'Confirmed against the 2027-2029 syllabus PDF (Version 1; Assessment overview and Details of the assessment): Paper 1 Multiple Choice (1h30, 40 marks) and Paper 2 Structured Written Paper (1h45, 100 marks), both externally assessed; candidates are eligible for grades A* to E. The paper structure matches Cambridge IGCSE Accounting 0452 for the same series. Added 2026-10-25 (D-431).',
+    notes: 'Confirmed against the 2027-2029 syllabus PDF (Version 1; Assessment overview and Details of the assessment): Paper 1 Multiple Choice (1h30, 40 marks) and Paper 2 Structured Written Paper (1h45, 100 marks), both externally assessed; candidates are eligible for grades A* to E. The paper structure matches Cambridge IGCSE Accounting 0452 for the same series. Added 2026-10-25.',
     assessmentModel: 'linear',
   },
   {
@@ -1016,7 +1016,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-accounting-2017.html',
     verifiedOn: '2026-10-25',
-    notes: 'Confirmed against the Pearson specification (Issue 1, October 2016; first examination June 2019): Paper 1 (2 hours, 100 marks, 66.6%) and Paper 2 (1 hour 15 minutes, 50 marks, 33.3%), both externally assessed, linear, January and June series. The modular route 4XAC1 is not recorded separately. Added 2026-10-25 (D-431).',
+    notes: 'Confirmed against the Pearson specification (Issue 1, October 2016; first examination June 2019): Paper 1 (2 hours, 100 marks, 66.6%) and Paper 2 (1 hour 15 minutes, 50 marks, 33.3%), both externally assessed, linear, January and June series. The modular route 4XAC1 is not recorded separately. Added 2026-10-25.',
     assessmentModel: 'linear',
   },
   {

@@ -20,7 +20,7 @@ publishedDate: 2026-10-25
 featured: false
 ---
 
-These notes condense section 4.1, **Production of goods and services**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. For full explanations and worked examples, read the [study guide](/resources/igcse-business-0264-production-of-goods-and-services/) first. Test yourself afterwards with the [practice questions](/resources/igcse-business-0264-production-of-goods-and-services-practice/). The course page is [here](/boards/cambridge/igcse/business/), the [checklist](/checklists/cambridge/igcse/business/) is printable, and the [free diagnostics](/diagnostics/) find weak spots. All businesses below are invented.
+These notes condense section 4.1, **Production of goods and services**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. For full explanations and worked examples, read the [study guide](/resources/igcse-business-0264-production-of-goods-and-services/) first. Test yourself afterwards with the [practice questions](/resources/igcse-business-0264-production-of-goods-and-services-practice/). The [course hub](/boards/cambridge/igcse/business/), the [checklist](/checklists/cambridge/igcse/business/) is printable, and the [free diagnostics](/diagnostics/) find weak spots. All businesses below are invented.
 
 ## Key terms
 

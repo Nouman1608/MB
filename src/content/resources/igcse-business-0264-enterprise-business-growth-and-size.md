@@ -20,7 +20,7 @@ publishedDate: 2026-10-25
 featured: false
 ---
 
-This guide covers section 1.3, **Enterprise, business growth and size**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. It follows the syllabus order: 1.3.1 to 1.3.4. All candidates study the same content. For quick recall use the [revision notes](/resources/igcse-business-0264-enterprise-business-growth-and-size-revision-notes/), then test yourself with the [practice questions](/resources/igcse-business-0264-enterprise-business-growth-and-size-practice/). The course page is [here](/boards/cambridge/igcse/business/), the printable [checklist](/checklists/cambridge/igcse/business/) tracks what you have covered, and the free [diagnostics](/diagnostics/) show where to start.
+This guide covers section 1.3, **Enterprise, business growth and size**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. It follows the syllabus order: 1.3.1 to 1.3.4. All candidates study the same content. For quick recall use the [revision notes](/resources/igcse-business-0264-enterprise-business-growth-and-size-revision-notes/), then test yourself with the [practice questions](/resources/igcse-business-0264-enterprise-business-growth-and-size-practice/). The [course hub](/boards/cambridge/igcse/business/) and the printable [checklist](/checklists/cambridge/igcse/business/) track what you have covered, and the free [diagnostics](/diagnostics/) show where to start.
 
 All businesses in this guide are invented.
 

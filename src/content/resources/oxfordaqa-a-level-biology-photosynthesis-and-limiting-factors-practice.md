@@ -26,7 +26,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover *OxfordAQA International AS and A-level Biology (9610)*, Version 5.1, section 3.3.2 (photosynthesis) and Required practical 7, in Unit 3 (International A-level only). Read the [study guide](/resources/oxfordaqa-a-level-biology-photosynthesis-and-limiting-factors/) first. The [course page](/boards/oxfordaqa/a-level/biology/), the [checklist](/checklists/oxfordaqa/a-level/biology/) and the [free diagnostics](/diagnostics/) help you plan.
+These questions cover *OxfordAQA International AS and A-level Biology (9610)*, Version 5.1, section 3.3.2 (photosynthesis) and Required practical 7, in Unit 3 (International A-level only). Read the [study guide](/resources/oxfordaqa-a-level-biology-photosynthesis-and-limiting-factors/) first. The [course hub](/boards/oxfordaqa/a-level/biology/), the [checklist](/checklists/oxfordaqa/a-level/biology/) and the [free diagnostics](/diagnostics/) help you plan.
 
 ## Questions
 

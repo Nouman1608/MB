@@ -26,7 +26,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 4.1, **Production of goods and services**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. Revise first with the [study guide](/resources/igcse-business-0264-production-of-goods-and-services/) and the [revision notes](/resources/igcse-business-0264-production-of-goods-and-services-revision-notes/). The course page is [here](/boards/cambridge/igcse/business/) and the printable [checklist](/checklists/cambridge/igcse/business/) tracks your progress. Not sure where to start? Try the [free diagnostics](/diagnostics/).
+These questions cover section 4.1, **Production of goods and services**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. Revise first with the [study guide](/resources/igcse-business-0264-production-of-goods-and-services/) and the [revision notes](/resources/igcse-business-0264-production-of-goods-and-services-revision-notes/). The [course hub](/boards/cambridge/igcse/business/) and the printable [checklist](/checklists/cambridge/igcse/business/) track your progress. Not sure where to start? Try the [free diagnostics](/diagnostics/).
 
 ## Questions
 

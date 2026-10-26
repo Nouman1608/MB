@@ -23,7 +23,7 @@ publishedDate: 2026-10-25
 featured: false
 ---
 
-These are condensed notes for sections 4.2 (**Technology and production of goods and services**) and 4.3 (**Sustainable production of goods and services**) of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. For full explanations and worked examples, read the [study guide](/resources/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics/). Then test yourself with the [practice questions](/resources/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics-practice/). The course page is [here](/boards/cambridge/igcse/business/), the [checklist](/checklists/cambridge/igcse/business/) lets you tick off points, and the [free diagnostics](/diagnostics/) show your weak spots.
+These are condensed notes for sections 4.2 (**Technology and production of goods and services**) and 4.3 (**Sustainable production of goods and services**) of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. For full explanations and worked examples, read the [study guide](/resources/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics/). Then test yourself with the [practice questions](/resources/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics-practice/). The [course hub](/boards/cambridge/igcse/business/), the [checklist](/checklists/cambridge/igcse/business/) lets you tick off points, and the [free diagnostics](/diagnostics/) show your weak spots.
 
 ## Key terms
 

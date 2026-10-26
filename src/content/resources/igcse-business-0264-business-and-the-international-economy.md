@@ -130,7 +130,7 @@ When a business makes a decision, it has **private costs** (what it pays itself)
 - **External costs** are costs of a business decision that fall on other people or on society, not on the business. Examples: noise, pollution, traffic and damage to roads.
 - **External benefits** are benefits of a business decision that go to other people or society, not to the business. Examples: workers trained by the firm who later raise skills in the area, or a new road that helps nearby shops.
 
-#### Worked example
+### Worked example
 
 Kelburn Quarry plans to extend its site. It expects a private profit of 450,000 a year. Lorries will damage local roads and dust will affect nearby farms. The council estimates these costs at 200,000 a year, which the quarry does not pay.
 
@@ -157,7 +157,7 @@ The effects depend on whether the business imports, exports or both. The table a
 
 Link the change to price, costs or competitiveness, the three effects named in the syllabus, and say what the business might do next. An exporter facing a stronger currency could cut costs or look for new markets. An importer facing a weaker currency could look for local suppliers.
 
-#### Worked example (in words)
+### Worked example (in words)
 
 Deverill Pottery makes plates in a country whose currency has just appreciated. Its clay is bought locally, but half its sales are exports. Overseas shoppers now pay more for each plate, so its products are less competitive against rivals. Sales abroad may fall. The firm might lower its profit margin to hold its price, but that cuts profit. The effect on a business that mostly imports its materials would be the reverse.
 
