@@ -1,6 +1,6 @@
 # Marlbridge
 
-> Marlbridge is an online tutoring service for IGCSE, O Level, GCSE, AS & A Level and IB students, operated by Learners Academy in Lahore, Pakistan. Subject teachers teach live classes one-to-one or in small groups of up to 15, online for students anywhere and in person in Lahore; the first trial class is free. Classes are offered in 142 board, qualification and subject combinations (Cambridge, Pearson Edexcel, AQA, OxfordAQA, OCR and IB), and the site publishes 7,253 free study resources, printable syllabus checklists and exam tools. Marlbridge has no office outside Pakistan.
+> Marlbridge is an online tutoring service for IGCSE, O Level, GCSE, AS & A Level and IB students, operated by Learners Academy in Lahore, Pakistan. Subject teachers teach live classes one-to-one or in small groups of up to 15, online for students anywhere and in person in Lahore; the first trial class is free. Classes are offered in 142 board, qualification and subject combinations (Cambridge, Pearson Edexcel, AQA, OxfordAQA, OCR and IB), and the site publishes 7,298 free study resources, printable syllabus checklists and exam tools. Marlbridge has no office outside Pakistan.
 
 ## Boards
 
@@ -9,7 +9,7 @@
 - [International Baccalaureate](https://marlbridge.com/boards/ib/): 21 subject and qualification combinations across 2 qualifications.
 - [OCR](https://marlbridge.com/boards/ocr/): 12 subject and qualification combinations across 2 qualifications.
 - [OxfordAQA](https://marlbridge.com/boards/oxfordaqa/): 30 subject and qualification combinations across 2 qualifications.
-- [Pearson Edexcel](https://marlbridge.com/boards/edexcel/): 19 subject and qualification combinations across 2 qualifications.
+- [Pearson Edexcel](https://marlbridge.com/boards/edexcel/): 20 subject and qualification combinations across 2 qualifications.
 
 ## Qualifications
 
@@ -18,7 +18,7 @@
 - [GCSE](https://marlbridge.com/levels/gcse/): 17 subject and board combinations across 2 boards.
 - [IB Diploma Programme](https://marlbridge.com/levels/ib-dp/): 16 subject and board combinations across 1 board.
 - [IB Middle Years Programme](https://marlbridge.com/levels/ib-myp/): 5 subject and board combinations across 1 board.
-- [IGCSE](https://marlbridge.com/levels/igcse/): 46 subject and board combinations across 3 boards.
+- [IGCSE](https://marlbridge.com/levels/igcse/): 47 subject and board combinations across 3 boards.
 - [O Level](https://marlbridge.com/levels/o-level/): 18 subject and board combinations across 1 board.
 
 ## Subjects
@@ -216,6 +216,7 @@
 - [Pearson Edexcel A Level Urdu Language (9UR0)](https://marlbridge.com/boards/edexcel/a-level/urdu-language/): syllabus, topics, assessment and free resources; classes offered (free trial); [printable checklist](https://marlbridge.com/checklists/edexcel/a-level/urdu-language/).
 - [Pearson Edexcel IGCSE Accounting (4AC1)](https://marlbridge.com/boards/edexcel/igcse/accounting/): syllabus, topics, assessment and free resources; free resources only, no classes at the moment; [printable checklist](https://marlbridge.com/checklists/edexcel/igcse/accounting/).
 - [Pearson Edexcel IGCSE Biology (4BI1)](https://marlbridge.com/boards/edexcel/igcse/biology/): syllabus, topics, assessment and free resources; classes offered (free trial); [printable checklist](https://marlbridge.com/checklists/edexcel/igcse/biology/).
+- [Pearson Edexcel IGCSE Business (4BS1)](https://marlbridge.com/boards/edexcel/igcse/business/): syllabus, topics, assessment and free resources; free resources only, no classes at the moment; [printable checklist](https://marlbridge.com/checklists/edexcel/igcse/business/).
 - [Pearson Edexcel IGCSE Chemistry (4CH1)](https://marlbridge.com/boards/edexcel/igcse/chemistry/): syllabus, topics, assessment and free resources; classes offered (free trial); [printable checklist](https://marlbridge.com/checklists/edexcel/igcse/chemistry/).
 - [Pearson Edexcel IGCSE Economics (4EC1)](https://marlbridge.com/boards/edexcel/igcse/economics/): syllabus, topics, assessment and free resources; classes offered (free trial); [printable checklist](https://marlbridge.com/checklists/edexcel/igcse/economics/).
 - [Pearson Edexcel IGCSE English Language](https://marlbridge.com/boards/edexcel/igcse/english-language/): syllabus, topics, assessment and free resources; classes offered (free trial); [printable checklist](https://marlbridge.com/checklists/edexcel/igcse/english-language/).
