@@ -2654,6 +2654,126 @@ const REVIEWED_LEGITIMATE = [
     evidence:
       "Sibling new units from the economics small-gaps sprint (19 Oct 2026), tagged to the same AQA subtopic because the map does not split 3.2.2 finer. One unit teaches 3.2.2.1 to 3.2.2.3 (circular flow, AD and AS analysis, determinants of AD) and the other 3.2.2.4 to 3.2.2.6 (multiplier and related content). Each teaches different numbered specification statements with its own worked figures, and the independent verifier scans found no 10-word overlap beyond shared page boilerplate. D-425.",
   },
+  {
+    files: ["aqa-a-level-economics-commercial-and-investment-banks-credit-creation-and-practice.md", "aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds-practice.md"],
+    evidence:
+      "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer.",
+  },
+  {
+    files: ["aqa-a-level-economics-commercial-and-investment-banks-credit-creation-and-revision-notes.md", "aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds-revision-notes.md"],
+    evidence:
+      "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer.",
+  },
+  {
+    files: ["aqa-a-level-economics-commercial-and-investment-banks-credit-creation-and.md", "aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds.md"],
+    evidence:
+      "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer.",
+  },
+  {
+    files: ["aqa-a-level-economics-comparative-advantage-and-the-costs-and-benefits-of-practice.md", "aqa-a-level-economics-economic-growth-and-development-practice.md", "aqa-a-level-economics-exchange-rate-systems-and-currency-unions-practice.md", "aqa-a-level-economics-globalisation-and-multinational-corporations-practice.md", "aqa-a-level-economics-protectionism-trading-blocs-and-the-wto-practice.md"],
+    evidence:
+      "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer.",
+  },
+  {
+    files: ["aqa-a-level-economics-comparative-advantage-and-the-costs-and-benefits-of-revision-notes.md", "aqa-a-level-economics-economic-growth-and-development-revision-notes.md", "aqa-a-level-economics-exchange-rate-systems-and-currency-unions-revision-notes.md", "aqa-a-level-economics-globalisation-and-multinational-corporations-revision-notes.md", "aqa-a-level-economics-protectionism-trading-blocs-and-the-wto-revision-notes.md"],
+    evidence:
+      "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer.",
+  },
+  {
+    files: ["aqa-a-level-economics-comparative-advantage-and-the-costs-and-benefits-of.md", "aqa-a-level-economics-economic-growth-and-development.md", "aqa-a-level-economics-exchange-rate-systems-and-currency-unions.md", "aqa-a-level-economics-globalisation-and-multinational-corporations.md", "aqa-a-level-economics-protectionism-trading-blocs-and-the-wto.md"],
+    evidence:
+      "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer.",
+  },
+  {
+    files: ["aqa-a-level-economics-dynamic-competition-creative-destruction-and-practice.md", "aqa-a-level-economics-market-structures-and-the-objectives-of-firms-practice.md", "aqa-a-level-economics-monopoly-monopoly-power-and-price-discrimination-practice.md", "aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked-practice.md", "aqa-a-level-economics-perfect-competition-and-monopolistic-competition-practice.md"],
+    evidence:
+      "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer. These files carry both A-level and AS Level tags.",
+  },
+  {
+    files: ["aqa-a-level-economics-dynamic-competition-creative-destruction-and-revision-notes.md", "aqa-a-level-economics-market-structures-and-the-objectives-of-firms-revision-notes.md", "aqa-a-level-economics-monopoly-monopoly-power-and-price-discrimination-revision-notes.md", "aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked-revision-notes.md", "aqa-a-level-economics-perfect-competition-and-monopolistic-competition-revision-notes.md"],
+    evidence:
+      "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer. These files carry both A-level and AS Level tags.",
+  },
+  {
+    files: ["aqa-a-level-economics-dynamic-competition-creative-destruction-and.md", "aqa-a-level-economics-market-structures-and-the-objectives-of-firms.md", "aqa-a-level-economics-monopoly-monopoly-power-and-price-discrimination.md", "aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked.md", "aqa-a-level-economics-perfect-competition-and-monopolistic-competition.md"],
+    evidence:
+      "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer. These files carry both A-level and AS Level tags.",
+  },
+  {
+    files: ["ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus-practice.md", "ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the-practice.md"],
+    evidence:
+      "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer. These files carry both A-level and AS Level tags.",
+  },
+  {
+    files: ["ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus-revision-notes.md", "ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the-revision-notes.md"],
+    evidence:
+      "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer. These files carry both A-level and AS Level tags.",
+  },
+  {
+    files: ["ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus.md", "ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the.md"],
+    evidence:
+      "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer. These files carry both A-level and AS Level tags.",
+  },
+  {
+    files: ["ocr-a-level-economics-economic-development-alternative-measures-and-practice.md", "ocr-a-level-economics-income-and-wealth-distribution-poverty-and-uk-practice.md"],
+    evidence:
+      "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer.",
+  },
+  {
+    files: ["ocr-a-level-economics-economic-development-alternative-measures-and-revision-notes.md", "ocr-a-level-economics-income-and-wealth-distribution-poverty-and-uk-revision-notes.md"],
+    evidence:
+      "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer.",
+  },
+  {
+    files: ["ocr-a-level-economics-economic-development-alternative-measures-and.md", "ocr-a-level-economics-income-and-wealth-distribution-poverty-and-uk.md"],
+    evidence:
+      "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer.",
+  },
+  {
+    files: ["ocr-a-level-economics-economic-integration-the-eu-and-the-wto-practice.md", "ocr-a-level-economics-globalisation-and-multinational-firms-practice.md", "ocr-a-level-economics-protectionism-and-the-case-for-free-trade-practice.md"],
+    evidence:
+      "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer.",
+  },
+  {
+    files: ["ocr-a-level-economics-economic-integration-the-eu-and-the-wto-revision-notes.md", "ocr-a-level-economics-globalisation-and-multinational-firms-revision-notes.md", "ocr-a-level-economics-protectionism-and-the-case-for-free-trade-revision-notes.md"],
+    evidence:
+      "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer.",
+  },
+  {
+    files: ["ocr-a-level-economics-economic-integration-the-eu-and-the-wto.md", "ocr-a-level-economics-globalisation-and-multinational-firms.md", "ocr-a-level-economics-protectionism-and-the-case-for-free-trade.md"],
+    evidence:
+      "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer.",
+  },
+  {
+    files: ["ocr-a-level-economics-exchange-rate-determination-measures-and-systems-practice.md", "ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition-practice.md"],
+    evidence:
+      "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer. These files carry both A-level and AS Level tags.",
+  },
+  {
+    files: ["ocr-a-level-economics-exchange-rate-determination-measures-and-systems-revision-notes.md", "ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition-revision-notes.md"],
+    evidence:
+      "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer. These files carry both A-level and AS Level tags.",
+  },
+  {
+    files: ["ocr-a-level-economics-exchange-rate-determination-measures-and-systems.md", "ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition.md"],
+    evidence:
+      "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer. These files carry both A-level and AS Level tags.",
+  },
+  {
+    files: ["ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation-practice.md", "ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal-practice.md"],
+    evidence:
+      "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer. These files carry both A-level and AS Level tags.",
+  },
+  {
+    files: ["ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation-revision-notes.md", "ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal-revision-notes.md"],
+    evidence:
+      "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer. These files carry both A-level and AS Level tags.",
+  },
+  {
+    files: ["ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation.md", "ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal.md"],
+    evidence:
+      "Sub-group of an already-reviewed set of sibling economics units. Tagging AS Level Economics (AQA 7135 and OCR H060) onto some of the A-level units split the earlier group, so this remainder is listed again with the same reviewed finding: each unit teaches different numbered specification statements with its own worked figures, and the units share a tag only because the syllabus map does not split the subtopic finer. These files carry both A-level and AS Level tags.",
+  },
 ];
 const legitimateKeyOf = (fs) => [...fs].sort().join('|');
 const REVIEWED_KEYS = new Map(

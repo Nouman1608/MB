@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Supply-side policies"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "For first teaching from September 2015"
 order: 188
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
     subtopic: "fiscal-policy-and-supply-side-policies-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-national-economy-in-a-global-context-aqa-aslevel-economics"
+    subtopic: "macroeconomic-policy-aqa-aslevel-economics"
 description: "Original AQA A-level Economics practice questions with worked answers on supply-side policies, natural rate, unit costs, R&D subsidies and short-termism."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

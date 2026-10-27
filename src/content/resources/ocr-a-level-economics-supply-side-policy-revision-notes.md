@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Supply-side policy"
 boards: ["ocr"]
-qualifications: ["a-level"]
-syllabusCodes: ["H460"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["H460", "H060"]
 syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 238
 syllabusTopics:
   - qualification: "a-level"
     topic: "macroeconomics-ocr-alevel-economics"
     subtopic: "implementing-policy-ocr-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-application-of-policy-instruments-ocr-aslevel-economics"
+    subtopic: "supply-side-policy-ocr-aslevel-economics"
 description: "Condensed OCR A Level Economics revision notes on supply-side policy: twelve measures, key calculations, evaluation chains and a short self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Economic growth, GDP and recession"
 boards: ["ocr"]
-qualifications: ["a-level"]
-syllabusCodes: ["H460"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["H460", "H060"]
 syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 230
 syllabusTopics:
   - qualification: "a-level"
     topic: "macroeconomics-ocr-alevel-economics"
     subtopic: "economic-policy-objectives-ocr-alevel-economics"
+  - qualification: "as-level"
+    topic: "economic-policy-objectives-and-indicators-of-macroeconomic-performance-ocr-aslevel-economics"
+    subtopic: "economic-growth-ocr-aslevel-economics"
 description: "Original OCR A Level Economics practice questions with worked answers on real and nominal GDP, growth rates, recession, and costs of growth."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

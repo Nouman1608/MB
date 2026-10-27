@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Government intervention in markets: tax, subsidy, price controls and other tools"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "For first teaching from September 2015"
 order: 178
 syllabusTopics:
   - qualification: "a-level"
     topic: "individuals-firms-markets-and-market-failure-aqa-alevel-economics"
     subtopic: "market-mechanism-market-failure-and-government-intervention-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-operation-of-markets-and-market-failure-aqa-aslevel-economics"
+    subtopic: "market-mechanism-market-failure-and-government-intervention-aqa-aslevel-economics"
 description: "Study guide to AQA A-level Economics government intervention: indirect taxes, subsidies, price controls, permits and property rights, with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

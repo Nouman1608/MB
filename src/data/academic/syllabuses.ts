@@ -308,6 +308,16 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-18',
     notes: 'Qualification number 601/4799/4.',
   },
+  {
+    boardSlug: 'ocr', qualificationSlug: 'as-level', subjectSlug: 'economics',
+    officialTitle: 'OCR AS Level Economics (H060)',
+    code: 'H060',
+    boardSummary:
+      'OCR AS Level Economics gives a grounding in both microeconomics and macroeconomics, applied to local, national and global contexts, and is co-teachable with OCR A Level Economics (H460).',
+    officialUrl: 'https://www.ocr.org.uk/qualifications/as-and-a-level/economics-h060-h460-from-2019/',
+    verifiedOn: '2026-10-27',
+    notes: 'For first assessment in 2016 (specification published 2014 and co-taught with A Level Economics H460). Two components, Microeconomics (H060/01) and Macroeconomics (H060/02), each 1 hour 30 minutes, 60 marks and 50% of the AS.',
+  },
 
   // ===========================================================================
   // AQA — verified directly at aqa.org.uk specification pages, 2026-08-18.
@@ -971,6 +981,16 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-25',
     notes: 'For first teaching from September 2015; this is an evergreen specification (no separate yearly syllabus editions), and AQA\'s own key-dates page confirms live exam dates for the June 2027 series (Paper 1: 10 May 2027, Paper 2: 17 May 2027, Paper 3: 7 June 2027), so it remains the current, genuine specification for that series. Two subject-content sections: individuals, firms, markets and market failure (microeconomics); and the national and international economy (macroeconomics).',
   },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'as-level', subjectSlug: 'economics',
+    officialTitle: 'AQA AS Economics (7135)',
+    code: '7135',
+    boardSummary:
+      'AQA AS Economics is a stand-alone qualification covering the first-year content of AQA A-level Economics: the operation of markets and market failure, and the national economy in a global context.',
+    officialUrl: 'https://www.aqa.org.uk/subjects/economics/as-level/economics-7135',
+    verifiedOn: '2026-10-27',
+    notes: 'For first teaching from September 2015; AS and A-level Economics share one specification document (Version 1.3, 29 June 2022). Two subject-content sections: 3.1 The operation of markets and market failure (microeconomics) and 3.2 The national economy in a global context (macroeconomics), assessed in two papers of 1 hour 30 minutes, 70 marks each, 50% each.',
+  },
 
 
   {
@@ -1022,6 +1042,16 @@ export const SYLLABUSES: readonly Syllabus[] = [
     officialUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Business%20Studies/2017/specification-and-sample-assessment/9781446942765-international-gcse-business-specification.pdf',
     verifiedOn: '2026-10-27',
     notes: 'Specification Issue 2 (February 2026), valid for examination from June 2019; linear, June and November series; last assessment November 2028. Paper 1 Investigating small businesses (1 hour 30 minutes, 80 marks, 50%) and Paper 2 Investigating large businesses (1 hour 30 minutes, 80 marks, 50%); both draw on the whole content. A new modular International GCSE Business starts teaching in September 2027 and is not covered. Added as a free-resources course on 2026-10-27 (no classes offered).',
+  },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'gcse', subjectSlug: 'business',
+    officialTitle: 'Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0)',
+    code: '1BS0',
+    boardSummary:
+      'Students investigate small businesses (Theme 1) and then how businesses build and grow (Theme 2), covering enterprise, marketing, finance, operations and people, and apply them to business contexts.',
+    officialUrl: 'https://qualifications.pearson.com/content/dam/pdf/GCSE/Business/2017/specification-and-sample-assessments/gcse-business-spec-2017.pdf',
+    verifiedOn: '2026-10-27',
+    notes: 'Specification Issue 2 (July 2022), first teaching September 2017, first assessment 2019; linear, all assessment in a single May/June series. Theme 1 Investigating small business (1 hour 45 minutes, 90 marks, 50%) and Theme 2 Building a business (1 hour 45 minutes, 90 marks, 50%). Added as a free-resources course on 2026-10-27 (no classes offered).',
   },
 
   {

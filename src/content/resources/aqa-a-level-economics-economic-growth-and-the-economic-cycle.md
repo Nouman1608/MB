@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Economic growth and the economic cycle"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "For first teaching from September 2015"
 order: 179
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
     subtopic: "economic-performance-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-national-economy-in-a-global-context-aqa-aslevel-economics"
+    subtopic: "economic-performance-aqa-aslevel-economics"
 description: "Study guide to AQA A-level Economics (7136) economic growth and the economic cycle: output gaps, trend growth, shocks, instability, with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

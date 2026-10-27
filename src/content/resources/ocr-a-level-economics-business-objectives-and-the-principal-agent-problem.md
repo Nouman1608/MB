@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Business objectives and the principal-agent problem"
 boards: ["ocr"]
-qualifications: ["a-level"]
-syllabusCodes: ["H460"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["H460", "H060"]
 syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 216
 syllabusTopics:
   - qualification: "a-level"
     topic: "microeconomics-ocr-alevel-economics"
     subtopic: "business-objectives-ocr-alevel-economics"
+  - qualification: "as-level"
+    topic: "how-competitive-markets-work-ocr-aslevel-economics"
+    subtopic: "the-objectives-of-economic-agents-ocr-aslevel-economics"
 description: "Study guide to business objectives for OCR A Level Economics H460: profit maximisation, alternative goals, satisficing, CSR and principal-agent problem."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

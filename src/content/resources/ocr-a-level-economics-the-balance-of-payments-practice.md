@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "The balance of payments"
 boards: ["ocr"]
-qualifications: ["a-level"]
-syllabusCodes: ["H460"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["H460", "H060"]
 syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 242
 syllabusTopics:
   - qualification: "a-level"
     topic: "macroeconomics-ocr-alevel-economics"
     subtopic: "the-global-context-ocr-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-global-context-ocr-aslevel-economics"
+    subtopic: "balance-of-payments-ocr-aslevel-economics"
 description: "Original practice questions on the balance of payments for OCR A Level Economics (H460), with worked answers and examiner insights."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

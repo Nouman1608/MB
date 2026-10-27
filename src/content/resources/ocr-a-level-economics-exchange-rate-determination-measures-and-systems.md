@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Exchange rate determination, measures and systems"
 boards: ["ocr"]
-qualifications: ["a-level"]
-syllabusCodes: ["H460"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["H460", "H060"]
 syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 243
 syllabusTopics:
   - qualification: "a-level"
     topic: "macroeconomics-ocr-alevel-economics"
     subtopic: "the-global-context-ocr-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-global-context-ocr-aslevel-economics"
+    subtopic: "exchange-rates-ocr-aslevel-economics"
 description: "Study guide to how exchange rates are determined, measured and changed, and how fixed, floating and hybrid systems compare, for OCR A Level Economics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

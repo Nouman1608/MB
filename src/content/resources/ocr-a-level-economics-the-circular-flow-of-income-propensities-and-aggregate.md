@@ -6,14 +6,20 @@ subject: "economics"
 level: ["a-levels"]
 topic: "The circular flow of income, propensities and aggregate demand"
 boards: ["ocr"]
-qualifications: ["a-level"]
-syllabusCodes: ["H460"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["H460", "H060"]
 syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 226
 syllabusTopics:
   - qualification: "a-level"
     topic: "macroeconomics-ocr-alevel-economics"
     subtopic: "aggregate-demand-and-aggregate-supply-ocr-alevel-economics"
+  - qualification: "as-level"
+    topic: "aggregate-demand-and-aggregate-supply-ocr-aslevel-economics"
+    subtopic: "circular-flow-of-income-ocr-aslevel-economics"
+  - qualification: "as-level"
+    topic: "aggregate-demand-and-aggregate-supply-ocr-aslevel-economics"
+    subtopic: "aggregate-demand-ad-ocr-aslevel-economics"
 description: "Study guide to the circular flow, propensities to consume, save and withdraw, and aggregate demand for OCR A Level Economics, with worked calculations."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

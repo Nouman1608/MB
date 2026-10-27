@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Market equilibrium, price volatility and evaluating the supply and demand model"
 boards: ["ocr"]
-qualifications: ["a-level"]
-syllabusCodes: ["H460"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["H460", "H060"]
 syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 210
 syllabusTopics:
   - qualification: "a-level"
     topic: "microeconomics-ocr-alevel-economics"
     subtopic: "the-role-of-markets-ocr-alevel-economics"
+  - qualification: "as-level"
+    topic: "how-competitive-markets-work-ocr-aslevel-economics"
+    subtopic: "supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics"
 description: "Condensed revision notes on equilibrium, disequilibrium, volatility and evaluating the supply and demand model for OCR A Level Economics, with a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

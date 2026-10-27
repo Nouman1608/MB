@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Market structures and the objectives of firms"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "For first teaching from September 2015"
 order: 163
 syllabusTopics:
   - qualification: "a-level"
     topic: "individuals-firms-markets-and-market-failure-aqa-alevel-economics"
     subtopic: "perfect-competition-imperfectly-competitive-markets-and-monopoly-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-operation-of-markets-and-market-failure-aqa-aslevel-economics"
+    subtopic: "competitive-and-concentrated-markets-aqa-aslevel-economics"
 description: "Original practice questions with worked answers on AQA A-level Economics market structures, MC=MR, ownership and control, and firm objectives."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

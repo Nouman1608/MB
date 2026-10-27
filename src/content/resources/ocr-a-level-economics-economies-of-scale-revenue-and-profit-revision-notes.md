@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Economies of scale, revenue and profit"
 boards: ["ocr"]
-qualifications: ["a-level"]
-syllabusCodes: ["H460"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["H460", "H060"]
 syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 218
 syllabusTopics:
   - qualification: "a-level"
     topic: "microeconomics-ocr-alevel-economics"
     subtopic: "business-objectives-ocr-alevel-economics"
+  - qualification: "as-level"
+    topic: "how-competitive-markets-work-ocr-aslevel-economics"
+    subtopic: "economies-and-diseconomies-of-scale-ocr-aslevel-economics"
 description: "Condensed revision notes on LRAC, economies of scale, MES, TR, AR, MR, accounting and economic profit and MC=MR for OCR A Level Economics (H460)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

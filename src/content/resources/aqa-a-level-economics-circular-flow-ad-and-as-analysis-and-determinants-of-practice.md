@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Circular flow, AD and AS analysis and determinants of aggregate demand"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "For first teaching from September 2015"
 order: 403
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
     subtopic: "how-the-macroeconomy-works-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-national-economy-in-a-global-context-aqa-aslevel-economics"
+    subtopic: "how-the-macroeconomy-works-aqa-aslevel-economics"
 description: "Original AQA A-level Economics practice questions with worked answers on the circular flow, AD/AS analysis, aggregate demand and saving."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-19

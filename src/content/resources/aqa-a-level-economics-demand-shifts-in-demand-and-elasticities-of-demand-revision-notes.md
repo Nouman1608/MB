@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Demand, shifts in demand and elasticities of demand"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "For first teaching from September 2015"
 order: 158
 syllabusTopics:
   - qualification: "a-level"
     topic: "individuals-firms-markets-and-market-failure-aqa-alevel-economics"
     subtopic: "price-determination-in-a-competitive-market-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-operation-of-markets-and-market-failure-aqa-aslevel-economics"
+    subtopic: "price-determination-in-a-competitive-market-aqa-aslevel-economics"
 description: "Condensed AQA A-level Economics revision notes on demand, shifts in demand, and price, income and cross elasticities of demand, with a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

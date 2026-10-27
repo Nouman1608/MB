@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Inflation and deflation"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "For first teaching from September 2015"
 order: 181
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
     subtopic: "economic-performance-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-national-economy-in-a-global-context-aqa-aslevel-economics"
+    subtopic: "economic-performance-aqa-aslevel-economics"
 description: "Condensed AQA A-level Economics revision notes on inflation, deflation, disinflation, MV = PQ, expectations and external influences, with a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

@@ -6,14 +6,20 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Scarcity, choice, the margin and the market economy"
 boards: ["ocr"]
-qualifications: ["a-level"]
-syllabusCodes: ["H460"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["H460", "H060"]
 syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 206
 syllabusTopics:
   - qualification: "a-level"
     topic: "microeconomics-ocr-alevel-economics"
     subtopic: "introduction-to-microeconomics-ocr-alevel-economics"
+  - qualification: "as-level"
+    topic: "scarcity-and-choice-ocr-aslevel-economics"
+    subtopic: "the-basic-economic-problem-ocr-aslevel-economics"
+  - qualification: "as-level"
+    topic: "scarcity-and-choice-ocr-aslevel-economics"
+    subtopic: "the-market-economy-ocr-aslevel-economics"
 description: "Original practice questions with worked answers on scarcity, factors of production, the market economy and the margin for OCR A Level Economics (H460)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

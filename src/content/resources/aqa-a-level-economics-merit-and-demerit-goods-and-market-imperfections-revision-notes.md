@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Merit and demerit goods and market imperfections"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "For first teaching from September 2015"
 order: 176
 syllabusTopics:
   - qualification: "a-level"
     topic: "individuals-firms-markets-and-market-failure-aqa-alevel-economics"
     subtopic: "market-mechanism-market-failure-and-government-intervention-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-operation-of-markets-and-market-failure-aqa-aslevel-economics"
+    subtopic: "market-mechanism-market-failure-and-government-intervention-aqa-aslevel-economics"
 description: "Condensed AQA A-level Economics revision notes on merit and demerit goods, information failure, monopoly and immobility, with a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

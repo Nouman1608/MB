@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Employment and unemployment"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "For first teaching from September 2015"
 order: 180
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
     subtopic: "economic-performance-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-national-economy-in-a-global-context-aqa-aslevel-economics"
+    subtopic: "economic-performance-aqa-aslevel-economics"
 description: "Eleven original practice questions with worked answers on unemployment measures, types, real wage and natural rate unemployment, for AQA A-level Economics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

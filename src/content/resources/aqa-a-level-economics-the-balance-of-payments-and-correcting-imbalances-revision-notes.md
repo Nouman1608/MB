@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "The balance of payments and correcting imbalances"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "For first teaching from September 2015"
 order: 192
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
     subtopic: "the-international-economy-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-national-economy-in-a-global-context-aqa-aslevel-economics"
+    subtopic: "economic-performance-aqa-aslevel-economics"
 description: "Condensed revision notes on the balance of payments for AQA A-level Economics: accounts, causes, FDI, correction policies and a self-test with answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

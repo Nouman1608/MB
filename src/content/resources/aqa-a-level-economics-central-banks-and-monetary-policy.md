@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Central banks and monetary policy"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "For first teaching from September 2015"
 order: 185
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
     subtopic: "financial-markets-and-monetary-policy-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-national-economy-in-a-global-context-aqa-aslevel-economics"
+    subtopic: "macroeconomic-policy-aqa-aslevel-economics"
 description: "AQA A-level Economics study guide to central banks and monetary policy: the MPC, bank rate, transmission, exchange rates, QE, Funding for Lending."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

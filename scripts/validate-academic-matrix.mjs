@@ -183,6 +183,7 @@ console.log(`  Publishable now: ${publishable.length}`);
 // ---------------------------------------------------------------------------
 // APPROVED SCOPE LOCK
 // UPDATED 2026-10-27 (D-433): added edexcel|igcse|business (owner request in chat).
+// UPDATED 2026-10-27 (D-436): added edexcel|gcse|business (owner request in chat).
 // UPDATED 2026-10-25 (D-431): owner asked in chat for Accounting resources at
 // every level and board; Cambridge O Level Accounting (7707) and Edexcel IGCSE
 // Accounting (4AC1) added as resources-only combinations (classesOffered false).
@@ -235,6 +236,7 @@ const APPROVED = [
   'aqa|a-level|psychology',
   'aqa|a-level|sociology',
   'aqa|as-level|business',
+  'aqa|as-level|economics',
   'aqa|gcse|biology',
   'aqa|gcse|business',
   'aqa|gcse|chemistry',
@@ -311,6 +313,7 @@ const APPROVED = [
   'edexcel|a-level|mathematics',
   'edexcel|a-level|physics',
   'edexcel|a-level|urdu-language',
+  'edexcel|gcse|business',
   'edexcel|igcse|accounting',
   'edexcel|igcse|biology',
   'edexcel|igcse|business',
@@ -352,6 +355,7 @@ const APPROVED = [
   'ocr|a-level|economics',
   'ocr|a-level|mathematics',
   'ocr|a-level|physics',
+  'ocr|as-level|economics',
   'ocr|gcse|biology',
   'ocr|gcse|business',
   'ocr|gcse|chemistry',

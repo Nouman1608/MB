@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Distribution of income and wealth: Lorenz curve and the Gini coefficient"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "For first teaching from September 2015"
 order: 172
 syllabusTopics:
   - qualification: "a-level"
     topic: "individuals-firms-markets-and-market-failure-aqa-alevel-economics"
     subtopic: "the-distribution-of-income-and-wealth-poverty-and-inequality-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-operation-of-markets-and-market-failure-aqa-aslevel-economics"
+    subtopic: "market-mechanism-market-failure-and-government-intervention-aqa-aslevel-economics"
 description: "Original AQA A-level Economics practice questions with worked answers on income and wealth, equity, Lorenz curves, Gini values and market failure."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

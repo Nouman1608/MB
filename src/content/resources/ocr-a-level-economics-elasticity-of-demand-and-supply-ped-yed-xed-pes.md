@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Elasticity of demand and supply (PED, YED, XED, PES)"
 boards: ["ocr"]
-qualifications: ["a-level"]
-syllabusCodes: ["H460"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["H460", "H060"]
 syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 211
 syllabusTopics:
   - qualification: "a-level"
     topic: "microeconomics-ocr-alevel-economics"
     subtopic: "the-role-of-markets-ocr-alevel-economics"
+  - qualification: "as-level"
+    topic: "how-competitive-markets-work-ocr-aslevel-economics"
+    subtopic: "elasticity-ocr-aslevel-economics"
 description: "Study guide to PED, YED, XED and PES for OCR A Level Economics (H460): point elasticity, total revenue, tax incidence and evaluation, with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

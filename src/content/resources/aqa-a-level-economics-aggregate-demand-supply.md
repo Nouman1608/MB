@@ -5,14 +5,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "The national and international economy"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "2015-onwards"
 order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
     subtopic: "how-the-macroeconomy-works-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-national-economy-in-a-global-context-aqa-aslevel-economics"
+    subtopic: "how-the-macroeconomy-works-aqa-aslevel-economics"
 description: "The circular flow of income, AD/AS analysis, the determinants of aggregate demand (including the accelerator and saving), the multiplier and MPC, and short-run and long-run aggregate supply (including the Keynesian AS curve) -- Section 3.2.2 How the macroeconomy works, in Topic 2 of AQA A-Level Economics (7136)."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

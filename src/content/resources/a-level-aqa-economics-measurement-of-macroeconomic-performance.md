@@ -5,14 +5,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "The national and international economy"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "Version 1.3, 29 June 2022"
 order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
     subtopic: "the-measurement-of-macroeconomic-performance-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-national-economy-in-a-global-context-aqa-aslevel-economics"
+    subtopic: "the-measurement-of-macroeconomic-performance-aqa-aslevel-economics"
 description: "Government macroeconomic policy objectives, the indicators used to measure economic performance, how index numbers work, and the uses and limitations of national income data -- 3.2.1 of AQA A-Level Economics (7136). AS Economics (7135) has the first three parts; uses of national income data (3.2.1.4) is A-level only."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
