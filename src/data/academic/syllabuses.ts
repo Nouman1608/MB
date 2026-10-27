@@ -1013,6 +1013,16 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-10-25',
     notes: 'Specification Issue 1 (October 2016), first teaching September 2017, first examination June 2019; linear, January and June series. Paper 1 Introduction to Bookkeeping and Accounting (2 hours, 100 marks, 66.6%) and Paper 2 Financial Statements (1 hour 15 minutes, 50 marks, 33.3%). Pearson also runs a modular route (4XAC1, first teaching September 2023) on the same topics. Added as a free-resources course on 2026-10-25; no classes offered.',
   },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'business',
+    officialTitle: 'Pearson Edexcel International GCSE in Business (4BS1)',
+    code: '4BS1',
+    boardSummary:
+      'Students study business activity and influences on business, people in business, business finance, marketing and business operations, applying them to small-business and large-business scenarios.',
+    officialUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Business%20Studies/2017/specification-and-sample-assessment/9781446942765-international-gcse-business-specification.pdf',
+    verifiedOn: '2026-10-27',
+    notes: 'Specification Issue 2 (February 2026), valid for examination from June 2019; linear, June and November series; last assessment November 2028. Paper 1 Investigating small businesses (1 hour 30 minutes, 80 marks, 50%) and Paper 2 Investigating large businesses (1 hour 30 minutes, 80 marks, 50%); both draw on the whole content. A new modular International GCSE Business starts teaching in September 2027 and is not covered. Added as a free-resources course on 2026-10-27 (no classes offered).',
+  },
 
   {
     boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'computer-science',

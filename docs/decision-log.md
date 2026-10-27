@@ -15807,6 +15807,15 @@ Three more problems turned up:
 - **Result.** The strict check (topic and subtopic level) lists no Accounting gap for O Level 7707 or Edexcel IGCSE 4AC1. `validate:academic` passes; the duplicate-scope script reports nothing new.
 - **Open items.** Business for Edexcel International GCSE is not on the site; AQA AS 7126 not added; the pages state amounts in dollars in words because the specification names no currency.
 
+## D-433 - Business: Pearson Edexcel International GCSE 4BS1 added as a resources-only course (27 Oct 2026)
+
+- Owner, 27 Oct 2026 ("complete economics business and accounting"; earlier "Business for Edexcel IGCSE/GCSE?"): the strict check showed no Economics, Business or Accounting topic gaps for courses already on the site, so the remaining work is courses missing from the site. Edexcel International GCSE Business 4BS1 is the first.
+- **Scope list.** `edexcel|igcse|business` was added to the approved list in `scripts/validate-academic-matrix.mjs`, on the strength of the chat request (as for D-431). The owner can remove it.
+- **Data.** New row in `matrix.ts` (resources only, no classes), entries in `syllabuses.ts`, `assessments.ts` and `syllabus-topics.ts` (5 topics, 25 subtopics).
+- **Pages.** 45 new pages (15 units covering all 25 subtopics; study guide, revision notes, practice each). Each unit was written from a job file and checked by a separate agent: figures recomputed in Python, mark totals summed, outcomes mapped to the specification, business names grepped for uniqueness, 10-word overlaps scanned, command words aligned to the specification appendix. Where the specification gives only headings or no definitions or formulae, the pages say the wording is standard teaching, not specification text.
+- **Version.** Pages follow Issue 2 (February 2026) of the specification, assessed to November 2028. The modular International GCSE Business starting September 2027 is not covered.
+- **Not done.** Edexcel GCSE Business 1BS0, AQA AS Economics 7135, OCR AS Economics H060 and AQA AS Accounting 7126 are not added. The local full build could not run (out of memory); CI is the first full build.
+- **Result.** The strict check lists no Business gap for Edexcel IGCSE 4BS1. `validate:academic` passes; the duplicate-scope script reports nothing new.
 ## D-432 - Audit gate fixes after the Business and Accounting merges (27 Oct 2026)
 
 - The CI audit gate on `main` failed on all three merge pushes of 25 Oct 2026 (D-429 to D-431), although the site built and deployed. Cause, found by running the audits against a reduced local build: 22 Business pages used the link text "here" (accessibility audit), one page skipped from h2 to h4, and the course notes for the two new Accounting courses named a decision-log ID (content-integrity audit).

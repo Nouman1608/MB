@@ -1020,6 +1020,23 @@ export const ASSESSMENTS: readonly Assessment[] = [
     assessmentModel: 'linear',
   },
   {
+    boardSlug: 'edexcel',
+    qualificationSlug: 'igcse',
+    subjectSlug: 'business',
+    code: '4BS1',
+    specStatus: 'current',
+    tiers: ['not-tiered'],
+    firstAssessment: '2019',
+    components: [
+      { paperCode: '4BS1/01', title: 'Paper 1: Investigating small businesses', durationMinutes: 90, marks: 80, weightingPercent: 50, assessmentType: 'written-exam', externallyAssessed: true, calculatorAllowed: true },
+      { paperCode: '4BS1/02', title: 'Paper 2: Investigating large businesses', durationMinutes: 90, marks: 80, weightingPercent: 50, assessmentType: 'written-exam', externallyAssessed: true, calculatorAllowed: true },
+    ],
+    officialSourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Business%20Studies/2017/specification-and-sample-assessment/9781446942765-international-gcse-business-specification.pdf',
+    verifiedOn: '2026-10-27',
+    notes: 'Confirmed against the Pearson specification (Issue 2, February 2026): two externally assessed written papers, each 1 hour 30 minutes and 80 marks (50% each), each of four compulsory 20-mark questions; calculators may be used; June and November availability; linear. Paper 1 scenarios are based on a small business (up to 49 employees), Paper 2 on a large business (more than 250 employees). Added 2026-10-27.',
+    assessmentModel: 'linear',
+  },
+  {
     boardSlug: 'cambridge',
     qualificationSlug: 'a-level',
     subjectSlug: 'accounting',

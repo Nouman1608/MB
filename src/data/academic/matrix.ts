@@ -376,6 +376,17 @@ const BASE_MATRIX: readonly Combination[] = [
     classesOffered: false,
   }),
 
+  // Owner request in chat, 2026-10-27: "complete economics business and
+  // accounting". Pearson Edexcel International GCSE Business (4BS1) exists at
+  // the board but was not on the site; added as free resources only.
+  ...rows('edexcel', 'igcse', ['business'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Business%20Studies/2017/specification-and-sample-assessment/9781446942765-international-gcse-business-specification.pdf -- Pearson Edexcel International GCSE in Business specification, Issue 2 (February 2026), read in full 2026-10-27',
+    codes: { business: '4BS1' },
+    notes: 'Owner request in chat 2026-10-27: resources for Business at every level and board. Pearson Edexcel International GCSE in Business (4BS1), first examination June 2019, last assessment November 2028; a new modular International GCSE Business (2027) starts teaching in September 2027 and is not covered here. Free resources only (classesOffered false); Learners Academy runs no classes for it.',
+    classesOffered: false,
+  }),
+
   // =========================================================================
   // AQA — CORRECTED. Learners Academy files these under "IGCSE", but AQA does
   // not offer any IGCSE: aqa.org.uk lists GCSE, AS, A-level and vocational
