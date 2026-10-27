@@ -50,8 +50,15 @@ jobs:
       # Playwright is installed for this step only (not a project dependency).
       - name: Browser journeys (study resources)
         run: |
-          npm i --no-save playwright@1.56.0
-          npx playwright install --with-deps chromium
+          # Each command's output is kept; on failure the last lines are
+          # printed as annotations so the cause is readable without the log.
+          fail() {
+            echo "::error title=Browser journeys: $1 failed::$(tail -n 12 /tmp/journeys.log | tr '\n' ' ' | cut -c1-900)"
+            exit 1
+          }
+          npm i --no-save playwright@1.56.0 > /tmp/journeys.log 2>&1 || fail "npm i playwright"
+          npx playwright install --with-deps chromium >> /tmp/journeys.log 2>&1 || fail "playwright install"
           (cd dist && python3 -m http.server 4402 > /dev/null 2>&1 &)
           sleep 2
-          node scripts/e2e-navigation-journeys.mjs http://localhost:4402
+          node scripts/e2e-navigation-journeys.mjs http://localhost:4402 > /tmp/journeys.log 2>&1 || { cat /tmp/journeys.log; fail "journeys"; }
+          cat /tmp/journeys.log
