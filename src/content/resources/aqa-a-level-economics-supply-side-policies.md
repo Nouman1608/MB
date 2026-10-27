@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Supply-side policies"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "For first teaching from September 2015"
 order: 188
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
     subtopic: "fiscal-policy-and-supply-side-policies-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-national-economy-in-a-global-context-aqa-aslevel-economics"
+    subtopic: "macroeconomic-policy-aqa-aslevel-economics"
 description: "Study guide to AQA A-level Economics supply-side policies: free-market and interventionist measures and their effects on growth, jobs and prices."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

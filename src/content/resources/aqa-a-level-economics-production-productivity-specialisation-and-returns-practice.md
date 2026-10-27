@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Production, productivity, specialisation and returns"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "For first teaching from September 2015"
 order: 160
 syllabusTopics:
   - qualification: "a-level"
     topic: "individuals-firms-markets-and-market-failure-aqa-alevel-economics"
     subtopic: "production-costs-and-revenue-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-operation-of-markets-and-market-failure-aqa-aslevel-economics"
+    subtopic: "production-costs-and-revenue-aqa-aslevel-economics"
 description: "Original questions with worked answers on productivity, division of labour, money, diminishing returns and returns to scale for AQA A-level Economics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

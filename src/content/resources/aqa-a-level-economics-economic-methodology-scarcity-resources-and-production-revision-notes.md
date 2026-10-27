@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Economic methodology, scarcity, resources and production possibility diagrams"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "For first teaching from September 2015"
 order: 156
 syllabusTopics:
   - qualification: "a-level"
     topic: "individuals-firms-markets-and-market-failure-aqa-alevel-economics"
     subtopic: "economic-methodology-and-the-economic-problem-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-operation-of-markets-and-market-failure-aqa-aslevel-economics"
+    subtopic: "economic-methodology-and-the-economic-problem-aqa-aslevel-economics"
 description: "Condensed AQA A-level Economics revision notes on positive and normative statements, factors of production, opportunity cost and PPD efficiency."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Conflicts between macroeconomic objectives and the Phillips curve"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "For first teaching from September 2015"
 order: 182
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
     subtopic: "economic-performance-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-national-economy-in-a-global-context-aqa-aslevel-economics"
+    subtopic: "economic-performance-aqa-aslevel-economics"
 description: "Condensed revision notes on output gaps, the short-run and long-run Phillips curves and policy conflicts for the AQA A-level Economics specification."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

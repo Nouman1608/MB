@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "International trade, comparative advantage and the terms of trade"
 boards: ["ocr"]
-qualifications: ["a-level"]
-syllabusCodes: ["H460"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["H460", "H060"]
 syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 241
 syllabusTopics:
   - qualification: "a-level"
     topic: "macroeconomics-ocr-alevel-economics"
     subtopic: "the-global-context-ocr-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-global-context-ocr-aslevel-economics"
+    subtopic: "international-trade-ocr-aslevel-economics"
 description: "Study guide to comparative advantage, opportunity cost ratios, terms of trade, Heckscher-Ohlin, competitiveness, trade and aid for OCR A Level Economics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Oligopoly: interdependence, collusion and the kinked demand curve"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "For first teaching from September 2015"
 order: 165
 syllabusTopics:
   - qualification: "a-level"
     topic: "individuals-firms-markets-and-market-failure-aqa-alevel-economics"
     subtopic: "perfect-competition-imperfectly-competitive-markets-and-monopoly-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-operation-of-markets-and-market-failure-aqa-aslevel-economics"
+    subtopic: "competitive-and-concentrated-markets-aqa-aslevel-economics"
 description: "Eleven original AQA A-level Economics practice questions on oligopoly, with full worked answers on concentration ratios, cartels and kinked demand."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

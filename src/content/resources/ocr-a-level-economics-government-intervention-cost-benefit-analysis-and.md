@@ -6,14 +6,20 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Government intervention, cost-benefit analysis and government failure"
 boards: ["ocr"]
-qualifications: ["a-level"]
-syllabusCodes: ["H460"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["H460", "H060"]
 syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 215
 syllabusTopics:
   - qualification: "a-level"
     topic: "microeconomics-ocr-alevel-economics"
     subtopic: "the-role-of-markets-ocr-alevel-economics"
+  - qualification: "as-level"
+    topic: "market-failure-and-government-intervention-ocr-aslevel-economics"
+    subtopic: "alternative-methods-of-government-intervention-ocr-aslevel-economics"
+  - qualification: "as-level"
+    topic: "market-failure-and-government-intervention-ocr-aslevel-economics"
+    subtopic: "government-failure-ocr-aslevel-economics"
 description: "OCR A Level Economics study guide to government intervention, cost benefit analysis and government failure, with worked calculations and evaluation."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

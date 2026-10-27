@@ -6,14 +6,20 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Information failure, merit and demerit goods, public goods and inequity"
 boards: ["ocr"]
-qualifications: ["a-level"]
-syllabusCodes: ["H460"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["H460", "H060"]
 syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 213
 syllabusTopics:
   - qualification: "a-level"
     topic: "microeconomics-ocr-alevel-economics"
     subtopic: "the-role-of-markets-ocr-alevel-economics"
+  - qualification: "as-level"
+    topic: "market-failure-and-government-intervention-ocr-aslevel-economics"
+    subtopic: "market-failure-ocr-aslevel-economics"
+  - qualification: "as-level"
+    topic: "market-failure-and-government-intervention-ocr-aslevel-economics"
+    subtopic: "information-asymmetries-ocr-aslevel-economics"
 description: "Original practice questions with worked answers on information failure, merit and demerit goods, public goods and inequity, OCR A Level Economics (H460)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

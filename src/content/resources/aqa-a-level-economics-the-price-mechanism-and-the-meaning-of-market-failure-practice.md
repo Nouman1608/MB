@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "The price mechanism and the meaning of market failure"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "For first teaching from September 2015"
 order: 174
 syllabusTopics:
   - qualification: "a-level"
     topic: "individuals-firms-markets-and-market-failure-aqa-alevel-economics"
     subtopic: "market-mechanism-market-failure-and-government-intervention-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-operation-of-markets-and-market-failure-aqa-aslevel-economics"
+    subtopic: "market-mechanism-market-failure-and-government-intervention-aqa-aslevel-economics"
 description: "Original practice questions with worked answers on the price mechanism and the meaning of market failure for AQA A-level Economics (7136)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

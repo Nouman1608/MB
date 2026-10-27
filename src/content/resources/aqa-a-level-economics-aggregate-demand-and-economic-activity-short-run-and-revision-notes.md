@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Aggregate demand and economic activity, short-run and long-run aggregate supply"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "For first teaching from September 2015"
 order: 404
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
     subtopic: "how-the-macroeconomy-works-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-national-economy-in-a-global-context-aqa-aslevel-economics"
+    subtopic: "how-the-macroeconomy-works-aqa-aslevel-economics"
 description: "Condensed AQA A-level Economics revision notes on the multiplier and MPC, short-run aggregate supply, long-run aggregate supply and the Keynesian AS curve."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-19

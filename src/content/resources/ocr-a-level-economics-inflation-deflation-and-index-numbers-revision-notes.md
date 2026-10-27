@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Inflation, deflation and index numbers"
 boards: ["ocr"]
-qualifications: ["a-level"]
-syllabusCodes: ["H460"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["H460", "H060"]
 syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 233
 syllabusTopics:
   - qualification: "a-level"
     topic: "macroeconomics-ocr-alevel-economics"
     subtopic: "economic-policy-objectives-ocr-alevel-economics"
+  - qualification: "as-level"
+    topic: "economic-policy-objectives-and-indicators-of-macroeconomic-performance-ocr-aslevel-economics"
+    subtopic: "inflation-ocr-aslevel-economics"
 description: "Condensed revision notes on inflation, CPI and RPI, index number and real value calculations, and causes and effects of inflation and deflation, OCR H460."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

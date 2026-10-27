@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Short-run costs: diminishing returns and cost curves"
 boards: ["ocr"]
-qualifications: ["a-level"]
-syllabusCodes: ["H460"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["H460", "H060"]
 syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 217
 syllabusTopics:
   - qualification: "a-level"
     topic: "microeconomics-ocr-alevel-economics"
     subtopic: "business-objectives-ocr-alevel-economics"
+  - qualification: "as-level"
+    topic: "how-competitive-markets-work-ocr-aslevel-economics"
+    subtopic: "costs-and-revenue-ocr-aslevel-economics"
 description: "Study guide to the short run and long run, the law of diminishing returns and the seven cost measures for OCR A Level Economics, with worked tables."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

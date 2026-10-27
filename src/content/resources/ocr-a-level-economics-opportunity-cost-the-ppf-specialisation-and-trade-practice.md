@@ -6,8 +6,8 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Opportunity cost, the PPF, specialisation and trade"
 boards: ["ocr"]
-qualifications: ["a-level"]
-syllabusCodes: ["H460"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["H460", "H060"]
 syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 207
 syllabusTopics:
@@ -17,6 +17,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "microeconomics-ocr-alevel-economics"
     subtopic: "the-role-of-markets-ocr-alevel-economics"
+  - qualification: "as-level"
+    topic: "scarcity-and-choice-ocr-aslevel-economics"
+    subtopic: "opportunity-cost-ocr-aslevel-economics"
+  - qualification: "as-level"
+    topic: "scarcity-and-choice-ocr-aslevel-economics"
+    subtopic: "specialisation-and-trade-ocr-aslevel-economics"
 description: "Original practice questions with worked answers on opportunity cost, the PPC/F, specialisation, division of labour and money for OCR A Level Economics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

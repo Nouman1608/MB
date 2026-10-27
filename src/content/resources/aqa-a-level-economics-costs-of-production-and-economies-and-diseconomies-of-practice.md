@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Costs of production and economies and diseconomies of scale"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "For first teaching from September 2015"
 order: 161
 syllabusTopics:
   - qualification: "a-level"
     topic: "individuals-firms-markets-and-market-failure-aqa-alevel-economics"
     subtopic: "production-costs-and-revenue-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-operation-of-markets-and-market-failure-aqa-aslevel-economics"
+    subtopic: "production-costs-and-revenue-aqa-aslevel-economics"
 description: "Original AQA A-level Economics practice questions with worked answers on cost calculations, cost curves, input choice, economies of scale and MES."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

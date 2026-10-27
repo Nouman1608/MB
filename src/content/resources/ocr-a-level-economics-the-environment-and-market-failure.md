@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "The environment and market failure"
 boards: ["ocr"]
-qualifications: ["a-level"]
-syllabusCodes: ["H460"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["H460", "H060"]
 syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 214
 syllabusTopics:
   - qualification: "a-level"
     topic: "microeconomics-ocr-alevel-economics"
     subtopic: "the-role-of-markets-ocr-alevel-economics"
+  - qualification: "as-level"
+    topic: "market-failure-and-government-intervention-ocr-aslevel-economics"
+    subtopic: "externalities-ocr-aslevel-economics"
 description: "Study guide to the environment and market failure for OCR A Level Economics: externality diagrams, the Kuznets curve, growth and policy evaluation."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

@@ -15807,6 +15807,17 @@ Three more problems turned up:
 - **Result.** The strict check (topic and subtopic level) lists no Accounting gap for O Level 7707 or Edexcel IGCSE 4AC1. `validate:academic` passes; the duplicate-scope script reports nothing new.
 - **Open items.** Business for Edexcel International GCSE is not on the site; AQA AS 7126 not added; the pages state amounts in dollars in words because the specification names no currency.
 
+## D-436 - Remaining Economics and Business courses: Edexcel GCSE Business 1BS0, AQA AS Economics 7135, OCR AS Economics H060 (27 Oct 2026)
+
+- Owner, 27 Oct 2026 ("yes complete them"): finish the courses still missing from the site for Economics, Business and Accounting.
+- **Scope list.** `edexcel|gcse|business`, `aqa|as-level|economics` and `ocr|as-level|economics` were added to the approved list in `scripts/validate-academic-matrix.mjs`, on the strength of the chat request. The owner can remove them.
+- **Qualifications.** Edexcel was added to the GCSE `offeredByBoards` list and OCR to the AS Level list in `qualifications.ts`, because the matrix validator requires it. For GCSE this means Edexcel now appears as offering GCSE, for Business only. All three courses are resources only (no classes).
+- **Edexcel GCSE Business 1BS0** (Issue 2, July 2022): two papers of 105 minutes, 90 marks each. 10 topics and 39 item-level subtopics (1.1.1 to 2.5.4) in `syllabus-topics.ts`, so no two pages share the same scope. 54 new pages (18 units). Each unit was written from a job file and checked by a separate agent: figures recomputed, mark totals summed, outcomes mapped to the specification, business names and 10-word overlaps scanned, command words aligned to the specification appendix. Standard definitions and formulae not in Appendix 3 are labelled as such on the pages.
+- **AQA AS Economics 7135 and OCR AS Economics H060.** Existing A-level pages were tagged to the AS subtopics (AQA: all 9 subtopics, no new pages; OCR: 31 of 32 subtopics). One OCR subtopic, trends in macroeconomic indicators, is not taught by any A-level unit, so 3 new pages were written and given a separate verification pass. The OCR AS text is the first-assessment-2016 edition and the series is recorded that way. 24 sub-groups were added to the reviewed list in `check-duplicate-resource-scope.mjs` because the tagging split earlier reviewed sibling sets.
+- **AQA AS Accounting 7126.** Not added: AQA lists only the A-level (7127), so there is no AS to cover.
+- **Not covered.** The new modular International GCSE Business (from September 2027). The local full build could not run (out of memory); CI is the first full build.
+- **Result.** The strict checks list no Business or Economics gap for Edexcel GCSE, AQA AS or OCR AS. `validate:academic` passes.
+
 ## D-433 - Business: Pearson Edexcel International GCSE 4BS1 added as a resources-only course (27 Oct 2026)
 
 - Owner, 27 Oct 2026 ("complete economics business and accounting"; earlier "Business for Edexcel IGCSE/GCSE?"): the strict check showed no Economics, Business or Accounting topic gaps for courses already on the site, so the remaining work is courses missing from the site. Edexcel International GCSE Business 4BS1 is the first.

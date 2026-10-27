@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Supply, elasticity of supply, equilibrium and related markets"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "For first teaching from September 2015"
 order: 159
 syllabusTopics:
   - qualification: "a-level"
     topic: "individuals-firms-markets-and-market-failure-aqa-alevel-economics"
     subtopic: "price-determination-in-a-competitive-market-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-operation-of-markets-and-market-failure-aqa-aslevel-economics"
+    subtopic: "price-determination-in-a-competitive-market-aqa-aslevel-economics"
 description: "Study guide to AQA A-level Economics supply, price elasticity of supply, equilibrium, disequilibrium and related markets, with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

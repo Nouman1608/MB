@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Monetary policy and inflation targeting"
 boards: ["ocr"]
-qualifications: ["a-level"]
-syllabusCodes: ["H460"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["H460", "H060"]
 syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 237
 syllabusTopics:
   - qualification: "a-level"
     topic: "macroeconomics-ocr-alevel-economics"
     subtopic: "implementing-policy-ocr-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-application-of-policy-instruments-ocr-aslevel-economics"
+    subtopic: "monetary-policy-ocr-aslevel-economics"
 description: "Study guide to monetary policy for OCR A Level Economics (H460): instruments, liquidity trap, inflation targets, effectiveness and the central bank."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

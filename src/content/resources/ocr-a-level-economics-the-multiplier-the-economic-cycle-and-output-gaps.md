@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "The multiplier, the economic cycle and output gaps"
 boards: ["ocr"]
-qualifications: ["a-level"]
-syllabusCodes: ["H460"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["H460", "H060"]
 syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 228
 syllabusTopics:
   - qualification: "a-level"
     topic: "macroeconomics-ocr-alevel-economics"
     subtopic: "aggregate-demand-and-aggregate-supply-ocr-alevel-economics"
+  - qualification: "as-level"
+    topic: "aggregate-demand-and-aggregate-supply-ocr-aslevel-economics"
+    subtopic: "circular-flow-of-income-ocr-aslevel-economics"
 description: "Study guide to the economic cycle, trend growth, the national income multiplier, the multiplier-accelerator model and output gaps, OCR A Level Economics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Dynamic competition, creative destruction and contestable markets"
 boards: ["aqa"]
-qualifications: ["a-level"]
-syllabusCodes: ["7136"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["7136", "7135"]
 syllabusSeries: "For first teaching from September 2015"
 order: 167
 syllabusTopics:
   - qualification: "a-level"
     topic: "individuals-firms-markets-and-market-failure-aqa-alevel-economics"
     subtopic: "perfect-competition-imperfectly-competitive-markets-and-monopoly-aqa-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-operation-of-markets-and-market-failure-aqa-aslevel-economics"
+    subtopic: "competitive-and-concentrated-markets-aqa-aslevel-economics"
 description: "Study guide to AQA A-level Economics: benefits of competition, non-price competition, creative destruction, contestability, sunk costs, hit-and-run."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

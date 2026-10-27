@@ -6,8 +6,8 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Resource allocation, economic systems and the objectives of economic agents"
 boards: ["ocr"]
-qualifications: ["a-level"]
-syllabusCodes: ["H460"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["H460", "H060"]
 syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 208
 syllabusTopics:
@@ -17,6 +17,12 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "microeconomics-ocr-alevel-economics"
     subtopic: "the-role-of-markets-ocr-alevel-economics"
+  - qualification: "as-level"
+    topic: "scarcity-and-choice-ocr-aslevel-economics"
+    subtopic: "the-market-economy-ocr-aslevel-economics"
+  - qualification: "as-level"
+    topic: "how-competitive-markets-work-ocr-aslevel-economics"
+    subtopic: "allocation-of-resources-ocr-aslevel-economics"
 description: "Condensed revision notes on resource allocation, incentives, economic systems and agents' objectives for OCR A Level Economics (H460), with a self-test."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

@@ -6,14 +6,17 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Fiscal policy 2: deficits, debt, stabilisers and fiscal rules"
 boards: ["ocr"]
-qualifications: ["a-level"]
-syllabusCodes: ["H460"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["H460", "H060"]
 syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 236
 syllabusTopics:
   - qualification: "a-level"
     topic: "macroeconomics-ocr-alevel-economics"
     subtopic: "implementing-policy-ocr-alevel-economics"
+  - qualification: "as-level"
+    topic: "the-application-of-policy-instruments-ocr-aslevel-economics"
+    subtopic: "fiscal-policy-ocr-aslevel-economics"
 description: "Original practice questions with worked answers on deficits, government debt, stabilisers, crowding out and fiscal rules for OCR A Level Economics (H460)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18

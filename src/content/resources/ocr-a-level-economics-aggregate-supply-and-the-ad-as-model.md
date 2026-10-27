@@ -6,14 +6,23 @@ subject: "economics"
 level: ["a-levels"]
 topic: "Aggregate supply and the AD/AS model"
 boards: ["ocr"]
-qualifications: ["a-level"]
-syllabusCodes: ["H460"]
+qualifications: ["a-level", "as-level"]
+syllabusCodes: ["H460", "H060"]
 syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 227
 syllabusTopics:
   - qualification: "a-level"
     topic: "macroeconomics-ocr-alevel-economics"
     subtopic: "aggregate-demand-and-aggregate-supply-ocr-alevel-economics"
+  - qualification: "as-level"
+    topic: "aggregate-demand-and-aggregate-supply-ocr-aslevel-economics"
+    subtopic: "aggregate-supply-as-ocr-aslevel-economics"
+  - qualification: "as-level"
+    topic: "aggregate-demand-and-aggregate-supply-ocr-aslevel-economics"
+    subtopic: "aggregate-demand-and-supply-ocr-aslevel-economics"
+  - qualification: "as-level"
+    topic: "aggregate-demand-and-aggregate-supply-ocr-aslevel-economics"
+    subtopic: "macroeconomic-equilibrium-ocr-aslevel-economics"
 description: "Study guide to aggregate supply, the AD/AS diagram, its assumptions and macroeconomic equilibrium for OCR A Level Economics (H460), with worked examples."
 author: "marlbridge-academic-team"
 publishedDate: 2026-10-18
