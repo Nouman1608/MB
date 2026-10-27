@@ -20,7 +20,7 @@ publishedDate: 2026-10-25
 featured: false
 ---
 
-These notes condense section 5.1, **Business finance**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029 (5.1.1 The need for business finance and 5.1.2 The main sources of finance). For full explanations read the [study guide](/resources/igcse-business-0264-business-finance/), then try the [practice questions](/resources/igcse-business-0264-business-finance-practice/). The course page is [here](/boards/cambridge/igcse/business/), the printable [checklist](/checklists/cambridge/igcse/business/) tracks progress, and the free [diagnostics](/diagnostics/) show your weak spots. All businesses named are invented.
+These notes condense section 5.1, **Business finance**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029 (5.1.1 The need for business finance and 5.1.2 The main sources of finance). For full explanations read the [study guide](/resources/igcse-business-0264-business-finance/), then try the [practice questions](/resources/igcse-business-0264-business-finance-practice/). The [course hub](/boards/cambridge/igcse/business/) and the printable [checklist](/checklists/cambridge/igcse/business/) track progress, and the free [diagnostics](/diagnostics/) show your weak spots. All businesses named are invented.
 
 ## Why businesses need finance (5.1.1)
 
