@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover sections 4.2 (**Technology and production of goods and services**) and 4.3 (**Sustainable production of goods and services**) of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. All businesses are invented. Revise first with the [study guide](/resources/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics/) and the [revision notes](/resources/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics-revision-notes/). The course page is [here](/boards/cambridge/igcse/business/) and the printable [checklist](/checklists/cambridge/igcse/business/) tracks your progress. Not sure where to start? Try the [free diagnostics](/diagnostics/).
+These questions cover sections 4.2 (**Technology and production of goods and services**) and 4.3 (**Sustainable production of goods and services**) of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. All businesses are invented. Revise first with the [study guide](/resources/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics/) and the [revision notes](/resources/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics-revision-notes/). The [course hub](/boards/cambridge/igcse/business/) and the printable [checklist](/checklists/cambridge/igcse/business/) track your progress. Not sure where to start? Try the [free diagnostics](/diagnostics/).
 
 ## Questions
 

@@ -15806,3 +15806,9 @@ Three more problems turned up:
 - **Not done.** The modular 4XAC1 route is not a separate record. The local build could not run (out of memory); CI is the first full build.
 - **Result.** The strict check (topic and subtopic level) lists no Accounting gap for O Level 7707 or Edexcel IGCSE 4AC1. `validate:academic` passes; the duplicate-scope script reports nothing new.
 - **Open items.** Business for Edexcel International GCSE is not on the site; AQA AS 7126 not added; the pages state amounts in dollars in words because the specification names no currency.
+
+## D-432 - Audit gate fixes after the Business and Accounting merges (27 Oct 2026)
+
+- The CI audit gate on `main` failed on all three merge pushes of 25 Oct 2026 (D-429 to D-431), although the site built and deployed. Cause, found by running the audits against a reduced local build: 22 Business pages used the link text "here" (accessibility audit), one page skipped from h2 to h4, and the course notes for the two new Accounting courses named a decision-log ID (content-integrity audit).
+- Fixed in the page text and course notes; the accessibility, content-integrity and metadata audits now pass on a reduced build containing the Business and Accounting pages. The internal-link and redirect audits could not be judged on a reduced build (they need every page), and the full gate needs CI.
+- Lesson: PRs are not run through the gate (it runs on push to `main` only), so a PR build passing does not mean the gate passes.

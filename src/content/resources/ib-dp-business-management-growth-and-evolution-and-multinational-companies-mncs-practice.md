@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- the IB holds copyright in its own papers. Use these alongside
 > the official past papers available through your school or the IB store.
 
-These questions cover sections 1.5 (Growth and evolution) and 1.6 (Multinational companies (MNCs)) of the IB *Business management guide*, first assessment 2024. The guide gives neither section an HL-only label. All businesses are invented and all figures are in $. Study the [study guide](/resources/ib-dp-business-management-growth-and-evolution-and-multinational-companies-mncs/) and [revision notes](/resources/ib-dp-business-management-growth-and-evolution-and-multinational-companies-mncs-revision-notes/) first. The [course page](/boards/ib/ib-dp/business/) and [checklist](/checklists/ib/ib-dp/business/) show the rest of the course.
+These questions cover sections 1.5 (Growth and evolution) and 1.6 (Multinational companies (MNCs)) of the IB *Business management guide*, first assessment 2024. The guide gives neither section an HL-only label. All businesses are invented and all figures are in $. Study the [study guide](/resources/ib-dp-business-management-growth-and-evolution-and-multinational-companies-mncs/) and [revision notes](/resources/ib-dp-business-management-growth-and-evolution-and-multinational-companies-mncs-revision-notes/) first. The [course hub](/boards/ib/ib-dp/business/) and [checklist](/checklists/ib/ib-dp/business/) show the rest of the course.
 
 ## Questions
 

@@ -20,7 +20,7 @@ publishedDate: 2026-10-25
 featured: false
 ---
 
-This guide covers section 5.1, **Business finance**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. It follows the syllabus order: 5.1.1 The need for business finance and 5.1.2 The main sources of finance. For quick recall use the [revision notes](/resources/igcse-business-0264-business-finance-revision-notes/), then test yourself with the [practice questions](/resources/igcse-business-0264-business-finance-practice/). The course page is [here](/boards/cambridge/igcse/business/), the printable [checklist](/checklists/cambridge/igcse/business/) tracks what you have covered, and the free [diagnostics](/diagnostics/) show where to start.
+This guide covers section 5.1, **Business finance**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. It follows the syllabus order: 5.1.1 The need for business finance and 5.1.2 The main sources of finance. For quick recall use the [revision notes](/resources/igcse-business-0264-business-finance-revision-notes/), then test yourself with the [practice questions](/resources/igcse-business-0264-business-finance-practice/). The [course hub](/boards/cambridge/igcse/business/) and the printable [checklist](/checklists/cambridge/igcse/business/) track what you have covered, and the free [diagnostics](/diagnostics/) show where to start.
 
 All businesses in this guide are invented.
 

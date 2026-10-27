@@ -27,7 +27,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions follow the *OxfordAQA International AS and A-level Biology (9610)* specification, Version 5.1, section 3.2.8 (3.2.8.1 xylem and 3.2.8.2 phloem) and Required practical 6. Unit 2 is listed as part of both the International AS and the International A-level. Learn the content first from the [study guide](/resources/oxfordaqa-a-level-biology-mass-transport-in-plants-xylem-transpiration-and-phloem/) and the [revision notes](/resources/oxfordaqa-a-level-biology-mass-transport-in-plants-xylem-transpiration-and-phloem-revision-notes/). The [course page](/boards/oxfordaqa/a-level/biology/), the [checklist](/checklists/oxfordaqa/a-level/biology/) and the [free diagnostics](/diagnostics/) help you plan. All data below are supplied for the questions.
+These questions follow the *OxfordAQA International AS and A-level Biology (9610)* specification, Version 5.1, section 3.2.8 (3.2.8.1 xylem and 3.2.8.2 phloem) and Required practical 6. Unit 2 is listed as part of both the International AS and the International A-level. Learn the content first from the [study guide](/resources/oxfordaqa-a-level-biology-mass-transport-in-plants-xylem-transpiration-and-phloem/) and the [revision notes](/resources/oxfordaqa-a-level-biology-mass-transport-in-plants-xylem-transpiration-and-phloem-revision-notes/). The [course hub](/boards/oxfordaqa/a-level/biology/), the [checklist](/checklists/oxfordaqa/a-level/biology/) and the [free diagnostics](/diagnostics/) help you plan. All data below are supplied for the questions.
 
 ## Questions
 

@@ -20,7 +20,7 @@ publishedDate: 2026-10-25
 featured: false
 ---
 
-These notes condense section 3.4, **Legal controls**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. The single syllabus point is 3.4.1, **Legal controls related to marketing**. For full explanations and worked examples, read the [study guide](/resources/igcse-business-0264-legal-controls/) first. When you are ready, test yourself with the [practice questions](/resources/igcse-business-0264-legal-controls-practice/). The course page is [here](/boards/cambridge/igcse/business/), the printable [checklist](/checklists/cambridge/igcse/business/) tracks progress, and the free [diagnostics](/diagnostics/) show gaps. All businesses and figures below are invented, and laws are described in general terms because they differ between countries.
+These notes condense section 3.4, **Legal controls**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. The single syllabus point is 3.4.1, **Legal controls related to marketing**. For full explanations and worked examples, read the [study guide](/resources/igcse-business-0264-legal-controls/) first. When you are ready, test yourself with the [practice questions](/resources/igcse-business-0264-legal-controls-practice/). The [course hub](/boards/cambridge/igcse/business/) and the printable [checklist](/checklists/cambridge/igcse/business/) track progress, and the free [diagnostics](/diagnostics/) show gaps. All businesses and figures below are invented, and laws are described in general terms because they differ between countries.
 
 ## The three things to know
 

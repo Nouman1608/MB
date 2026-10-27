@@ -20,7 +20,7 @@ publishedDate: 2026-10-25
 featured: false
 ---
 
-This guide covers section 4.1, **Production of goods and services**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. It teaches production processes (4.1.1) and the main methods of production (4.1.2). Every business below is invented. Revise from the [revision notes](/resources/igcse-business-0264-production-of-goods-and-services-revision-notes/), then test yourself with the [practice questions](/resources/igcse-business-0264-production-of-goods-and-services-practice/). The course page is [here](/boards/cambridge/igcse/business/), the printable [checklist](/checklists/cambridge/igcse/business/) tracks your progress, and the [free diagnostics](/diagnostics/) show where to start.
+This guide covers section 4.1, **Production of goods and services**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. It teaches production processes (4.1.1) and the main methods of production (4.1.2). Every business below is invented. Revise from the [revision notes](/resources/igcse-business-0264-production-of-goods-and-services-revision-notes/), then test yourself with the [practice questions](/resources/igcse-business-0264-production-of-goods-and-services-practice/). The [course hub](/boards/cambridge/igcse/business/) and the printable [checklist](/checklists/cambridge/igcse/business/) track your progress, and the [free diagnostics](/diagnostics/) show where to start.
 
 ## What this section covers
 

@@ -26,7 +26,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-This set covers section 1, Business activity, of the OCR GCSE (9-1) Business specification (J204), Version 2.0 (January 2026), topics 1.1 to 1.6. All businesses and people are invented. Learn the content first from the [study guide](/resources/ocr-gcse-business-business-activity/) and the [revision notes](/resources/ocr-gcse-business-business-activity-revision-notes/). The hub is at [OCR GCSE Business](/boards/ocr/gcse/business/) and the checklist is [here](/checklists/ocr/gcse/business/). For component-wide questions, see the earlier [practice set](/resources/ocr-gcse-business-activity-practice/).
+This set covers section 1, Business activity, of the OCR GCSE (9-1) Business specification (J204), Version 2.0 (January 2026), topics 1.1 to 1.6. All businesses and people are invented. Learn the content first from the [study guide](/resources/ocr-gcse-business-business-activity/) and the [revision notes](/resources/ocr-gcse-business-business-activity-revision-notes/). The hub is at [OCR GCSE Business](/boards/ocr/gcse/business/) and the checklist is [printable checklist](/checklists/ocr/gcse/business/). For component-wide questions, see the earlier [practice set](/resources/ocr-gcse-business-activity-practice/).
 
 The bracketed marks in the answers show where creditworthy points sit. On the longer questions, judge your own answer on the quality of reasoning and balance as well as the number of points.
 
