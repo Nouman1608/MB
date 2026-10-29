@@ -23,8 +23,8 @@ types. `mbTrack` also drops any parameter whose key contains `name`, `email`,
 | `revision_plan_generated` | A plan was actually built and shown (`/revision-planner/`) | `subjects_count`, `weeks`, `has_unknown_date`, `plan_fits` |
 | `diagnostic_start` | The student pressed Start on a 10-minute diagnostic; once per run (a Restart begins a new run). Added 2026-09-25, D-329 | `course_code`, `diagnostic_set`, `question_count` |
 | `diagnostic_complete` | The student finished marking and the results were shown; once per run | `course_code`, `diagnostic_set`, `question_count`, `duration_bucket` |
-| `recommended_resource_click` | A student followed a link the tools recommended | `source` (`planner`, `diagnostic`, `resource_next_steps`, `finder_home`; from 27 Sep 2026 also `on_this_topic` for the line under a resource page's title, and `practice_diagnostic` / `practice_weak_topics` for retest links on the practice page), `link_kind` (`retest_topic` = "Retest this topic", which opens the practice bank filtered to that topic), sometimes `course_code`. No topic is sent |
-| `syllabus_finder_select` | A course was chosen in the homepage finder | `source`, `qualification`, `board`, `course_code` |
+| `recommended_resource_click` | A student followed a link the tools recommended | `module` (renamed from `source` on 18 Oct 2026; see the note below) (`planner`, `diagnostic`, `resource_next_steps`, `finder_home`; from 27 Sep 2026 also `on_this_topic` for the line under a resource page's title, and `practice_diagnostic` / `practice_weak_topics` for retest links on the practice page), `link_kind` (`retest_topic` = "Retest this topic", which opens the practice bank filtered to that topic), sometimes `course_code`. No topic is sent |
+| `syllabus_finder_select` | A course was chosen in the homepage finder | `module`, `qualification`, `board`, `course_code` |
 | `workshop_registration_success` | The server accepted the registration and both emails were sent | `workshop` (slug) |
 | `newsletter_subscribe_confirmed` | The visitor clicked the confirmation link and Resend accepted the contact (fires on `/subscribe/confirmed/?s=1`, then the flag is removed from the address) | none |
 | `generate_lead` (existing key event) | The enquiry server accepted the trial request | now also `trial_source`, `qualification`, `format` for trial requests |
@@ -48,7 +48,7 @@ self-mark is recorded.
 ## GA4 set-up needed (owner, about 15 minutes)
 
 1. Admin → Custom definitions → create event-scoped custom dimensions for:
-   `trial_source`, `course_code`, `diagnostic_set`, `source`, `link_kind`,
+   `trial_source`, `course_code`, `diagnostic_set`, `module` (replaces `source`), `link_kind`, `link_url`,
    `subjects_count` (metric), `plan_fits`, `qualification`, `format`.
    *Status 2026-09-25:* all of these exist as event-scoped custom dimensions
    (registered 2026-09-07 or 2026-09-23), and `cta_location` (for
@@ -85,3 +85,23 @@ and are not faked on the website (D-149).
 3. Enquiry system: trial requests received, trials held, enrolments — the
    website cannot see these.
 4. Write the three numbers that changed most into `docs/growth/monthly-growth-report-template.md`.
+
+## Why event parameters must never be called `source` (18 Oct 2026)
+
+GA4 reads an event parameter named `source` (also `medium`, `campaign`, `term`,
+`content`) as the visitor's traffic source. Our click events sent
+`source: 'on_this_topic'`, `'planner'`, `'home'` and so on, so GA4 overwrote the
+real acquisition source and filed ~145 sessions a week under "Unassigned /
+on_this_topic" (and similar). The site has no `utm_` links; the cause was the
+event parameter. Fixed by renaming it to `module`; `mbTrack` also renames any
+stray `source` and drops `medium`/`campaign`/etc. as a safety net.
+
+`internal_nav` (new): fired next to `recommended_resource_click` when the click
+goes to another page on this site. Parameters: `module`, `link_url` (path and
+query of the target), `page_location` (page the click happened on). Register
+`module`, `link_url` and `page_location` as event-scoped custom dimensions
+(`page_location` is already a built-in dimension; the others are needed).
+
+Analytics now loads only on marlbridge.com / www.marlbridge.com, not on
+previews or localhost, not in automated/headless browsers or self-identified
+monitors, and not while a browser is only prerendering the page.
