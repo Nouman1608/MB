@@ -78,12 +78,12 @@ Analyse two consequences for Rowan Fitness of not meeting its health and safety 
 
 **(a)** Calculate the sterling cost of a 7,200 euro invoice at each rate. **[3]**
 **(b)** Calculate the euro price paid by a foreign buyer of one spade at each rate. **[2]**
-**(c)** Analyse the overall effect of the stronger pound on Calder. **[3]**
+**(c)** Explain one way a stronger pound could affect a UK business that sells goods abroad. **[3]**
 
 **10.** Burnside Bikes plans to spend £4,500 on a booking app because customers want to book repairs on their phones. Extra profit is forecast to be £9,900 in total over 3 years.
 
 **(a)** Use the formula to calculate the average rate of return for the app. **[3]**
-**(b)** Analyse one non-financial factor Burnside should consider before buying the app. **[3]**
+**(b)** Explain one non-financial factor a business should consider before buying new technology. **[3]**
 
 **11.** Vale Furniture sells sofas. Household incomes are falling and it now sells 900 sofas a month at £300 each. Variable cost is £180 per sofa and fixed costs are £70,000 a month.
 
@@ -129,12 +129,12 @@ Consequence 2: the member's compensation claim of £9,500 [1] adds a large unpla
 
 **9. (a)** 7,200 / 1.20 = **£6,000** [1]. 7,200 / 1.30 = **£5,538.46** [1]. The stronger pound makes the invoice £461.54 cheaper [1]. **[3]**
 **(b)** 36 x 1.20 = **43.20 euros** [1]. 36 x 1.30 = **46.80 euros** [1]. **[2]**
-**(c)** Imports of bulbs are cheaper by £461.54 per invoice, which cuts costs [1]. Spades cost foreign buyers 8.3% more (46.80 / 43.20) [1], so Calder may sell fewer abroad and become less competitive, meaning it gains on costs but may lose export sales [1]. **[3]**
+**(c)** Its goods cost foreign buyers more in their own currency (the spade rises from 43.20 to 46.80 euros, 8.3% more) [1], so the business may sell fewer abroad and become less competitive [1]. It follows through to profit [1]. **[3]**
 *Examiner insight:* Divide to change euros into pounds, multiply to change pounds into euros. A stronger pound should make foreign goods cheaper in pounds, which is a quick check.
 
 **10. (a)** Average annual profit = 9,900 / 3 [1] = £3,300 [1].
 Average rate of return = 3,300 / 4,500 x 100 = **73.3%** [1]. **[3]**
-**(b)** Customer reaction: the app may please customers who expect phone booking [1], but if it is hard to use they may be put off [1], so Burnside should test it first (or consider staff training or system reliability) [1]. **[3]**
+**(b)** Customer reaction: new technology may please customers who expect it [1], but if it is hard to use they may be put off [1], so the business should test it first (staff training or system reliability would also gain credit) [1]. **[3]**
 *Examiner insight:* Average rate of return divides average annual profit by the cost of the investment, not total profit. A non-financial factor goes beyond cost, to customers, staff or reliability.
 
 **11.** Baseline: revenue 900 x 300 = £270,000 [1], variable costs 900 x 180 = £162,000, fixed £70,000, profit = **£38,000**.
