@@ -21,8 +21,8 @@
       "UNVERIFIED": 4588
     },
     "structuralValidation": {
-      "PASS": 6905,
-      "WARN": 450
+      "PASS": 6915,
+      "WARN": 440
     },
     "withVerificationRecord": 780,
     "withSpecCheck": 292,

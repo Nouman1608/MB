@@ -15807,6 +15807,14 @@ Three more problems turned up:
 - **Result.** The strict check (topic and subtopic level) lists no Accounting gap for O Level 7707 or Edexcel IGCSE 4AC1. `validate:academic` passes; the duplicate-scope script reports nothing new.
 - **Open items.** Business for Edexcel International GCSE is not on the site; AQA AS 7126 not added; the pages state amounts in dollars in words because the specification names no currency.
 
+## D-437 - Strict-coverage re-check and 15 thin practice sets expanded (29 Oct 2026)
+
+- Owner, 29 Oct 2026: re-check gaps in Physics, Chemistry, Maths, Economics, Business, Accounting and Biology across all boards and levels including IB and AP.
+- **Result.** All 88 current syllabi for these subjects (every board and level, IB DP and MYP) have a study guide, revision notes and practice set for every topic and subtopic. All 11 AP courses cover every framework topic (Calculus BC shared units are served by the Calculus AB pages by design). No topic or subtopic gap was found.
+- **Depth.** 15 older practice sets were under 900 words with 5 to 8 questions. Each was rewritten to 10 to 12 questions and 1,500 to 2,100 words, with every answer recomputed and an independent check of each page. The checks corrected tier labels (IGCSE Physics electricity), off-syllabus items (a cosine graph transformation and a tangent equation in IGCSE Maths), an ambiguous geometry wording, and a wrong fermentation claim (Edexcel IGCSE Chemistry organic). Old exam-series and paper-number pointers in the examiner insights were removed.
+- **Reviewer credit.** The pages keep the reviewer fields they had (D-379 meaning: accountable teacher credit). The new text has not been read line by line by that teacher; the sign-off queue is unchanged.
+- **Not confirmed.** Several syllabus-fit checks rested on the verifiers' knowledge of the syllabus because the official PDFs could not be opened: Cambridge 4024, 0580, 9609, 9708, 7115 and the Pearson 4CH1 cracking conditions.
+
 ## D-436 - Remaining Economics and Business courses: Edexcel GCSE Business 1BS0, AQA AS Economics 7135, OCR AS Economics H060 (27 Oct 2026)
 
 - Owner, 27 Oct 2026 ("yes complete them"): finish the courses still missing from the site for Economics, Business and Accounting.

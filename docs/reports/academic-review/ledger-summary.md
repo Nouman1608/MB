@@ -57,8 +57,8 @@ the human sign-off is outstanding for every review-pending resource.
 
 | Result | Resources |
 | --- | --- |
-| PASS | 6905 |
-| WARN | 450 |
+| PASS | 6915 |
+| WARN | 440 |
 
 FAIL = a hard rule broken (unknown board/topic/author, review-state integrity,
 broken internal link, missing answers, placeholder text). WARN = something for a
