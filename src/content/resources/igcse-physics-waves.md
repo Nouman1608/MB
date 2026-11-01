@@ -111,6 +111,12 @@ faster in solids than liquids, and faster in liquids than gases; uses of
 ultrasound in non-destructive testing, medical scanning and sonar,
 including calculating depth/distance from time and wave speed
 
+<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--06-lens-image.webp" width="900" height="770" alt="To-scale ray diagram with f = 120 and object at 300: image forms at 200, real, inverted and diminished." loading="lazy">
+  <figcaption>An object beyond 2F gives a real, inverted, diminished image. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+</figure>
+
+
 ## Refraction and refractive index
 
 When light passes from one transparent material into another of
@@ -154,6 +160,12 @@ wavelength play no part. Treat depth = (speed × time) / 2 as a standard
 method to rehearse, halving the distance because the pulse travels out
 to the reflecting surface and back again before detection.
 
+<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--01-measuring-a-wave.webp" width="900" height="890" alt="A sine graph of displacement against distance marks wavelength between two crests (0.40 m) and amplitude from rest position to crest. With f = 5 Hz, v = f x wavelength = 2.0 m/s and the period is 0.2 s." loading="lazy">
+  <figcaption>Wavelength is crest to crest; amplitude is from the middle to a crest; v = f x wavelength. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+</figure>
+
+
 ## Wave motion: ropes, springs and ripple tanks (3.1)
 
 - **Rope:** move one end up and down. A wave travels along the rope,
@@ -176,6 +188,12 @@ to the reflecting surface and back again before detection.
   (**refraction**); a gap between two barriers, or the edge of one
   barrier, shows **diffraction**.
 
+<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--02-transverse-longitudinal.webp" width="900" height="890" alt="A rope wave moves points up and down at right angles to travel (transverse). A spring wave moves coils back and forth along the direction of travel (longitudinal), bunching into compressions and spreading into rarefactions (Extended names)." loading="lazy">
+  <figcaption>Transverse waves vibrate at right angles to the direction of travel; longitudinal waves vibrate along it. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+</figure>
+
+
 ## Refraction experiments and total internal reflection (3.2.2)
 
 **Refraction through blocks.** Put a rectangular glass (or Perspex)
@@ -197,6 +215,17 @@ it, all the light is reflected back inside: **total internal
 reflection**. Everyday examples: optical fibres and endoscopes, prisms
 in periscopes and binoculars, and the sparkle of a cut diamond.
 
+<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--03-refraction-block.webp" width="900" height="940" alt="A ray at 45 degrees in air bends towards the normal to 28 degrees in glass (n = 1.5) and leaves parallel, bending away. n = sin i / sin r = 1.50 (Extended)." loading="lazy">
+  <figcaption>Light slows and bends towards the normal entering glass, and speeds up and bends away leaving it. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+</figure>
+
+<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--04-total-internal-reflection.webp" width="900" height="1160" alt="Three rays in a glass semicircle: below the critical angle some light leaves, at 41.8 degrees the refracted ray runs along the surface, above it all light is reflected. sin c = 1/n (Extended)." loading="lazy">
+  <figcaption>Above the critical angle all the light is reflected back inside the glass. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+</figure>
+
+
 ## Lenses: focal length and correcting sight (3.2.3)
 
 A **converging** lens brings a parallel beam of light to a point, the
@@ -216,6 +245,12 @@ shorter focal length.
   their light to a focus **behind** the retina. A **converging** lens
   bends the rays inwards before they enter the eye, so they focus on the
   retina.
+
+<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--05-lens-focus.webp" width="900" height="890" alt="Parallel rays meet at the principal focus after a converging lens. After a diverging lens they spread out and appear to come from a principal focus on the incoming side." loading="lazy">
+  <figcaption>A converging lens brings parallel rays to a focus; a diverging lens spreads them as if from a focus. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+</figure>
+
 
 ## Uses and hazards of electromagnetic waves (3.3)
 
@@ -252,6 +287,12 @@ sent at a higher rate, and a signal that has picked up noise can be
 repeater along the way, so it can be sent further without losing
 quality. Amplifying an analogue signal amplifies its noise too.
 
+<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--07-em-spectrum.webp" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum (Extended)." loading="lazy">
+  <figcaption>Frequency rises and wavelength falls from radio waves to gamma rays. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+</figure>
+
+
 ## Uses of ultrasound (3.4) *(Supplement)*
 
 - **Non-destructive testing:** pulses sent into a metal part are
@@ -263,6 +304,12 @@ quality. Amplifying an analogue signal amplifies its noise too.
 - **Sonar:** a ship times the echo from the sea bed or a shoal of fish.
   Sound travels at about 1500 m/s in sea water; if the echo returns after
   0.40 s, depth = (1500 × 0.40) ÷ 2 = **300 m**.
+
+<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--08-sonar.webp" width="900" height="1060" alt="A pulse goes down and the echo returns in 0.40 s at 1500 m/s: 600 m there and back, so the depth is 300 m." loading="lazy">
+  <figcaption>Depth = speed x time / 2, because the pulse travels there and back. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+</figure>
+
 
 ## Examiner report insight
 
